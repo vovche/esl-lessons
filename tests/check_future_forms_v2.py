@@ -32,6 +32,8 @@ def main():
         'class="story-deck"', 'id="sceneProgress"', 'id="scenePrev"',
         'id="sceneNext"', 'id="sceneMap"', 'id="rotateGate"',
         'aria-live="polite"', 'data-v2-ready="true"',
+        'id="cardCounter"', 'class="scene-card"', 'function showCard',
+        'Показати решту ↓', '.scene-body h3',
         '@media (orientation:portrait)', 'touchstart', 'keydown'
     ]
     for marker in required:
