@@ -76,6 +76,19 @@
   .mini-card{background:#f8fafc;border:1px solid var(--line);border-radius:14px;padding:16px}
   .footer{color:#667085;font-size:13px;text-align:center;padding:26px 0 10px}
   .kbd{font-family:ui-monospace,monospace;background:#f2f4f7;border:1px solid #d0d5dd;border-radius:6px;padding:2px 6px;font-size:12px}
+  .quick-start{margin-top:20px;padding:16px;border:1px solid #bfdbfe;border-radius:16px;background:rgba(255,255,255,.82)}
+  .quick-start h2{font-size:22px;margin:0 0 6px}
+  .quick-start p{margin:5px 0 12px}
+  .quick-start-actions{display:flex;gap:9px;flex-wrap:wrap}
+  .quick-start-steps{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px;color:#344054;font-size:14px}
+  .quick-start-step{padding:7px 10px;border-radius:999px;background:#f8fbff;border:1px solid #dbeafe}
+  .more-nav{margin-left:auto}
+  .more-nav summary{padding:10px 14px;border-radius:11px;background:#fff;border:1px solid var(--line);font-weight:800;cursor:pointer;list-style:none}
+  .more-nav summary::-webkit-details-marker{display:none}
+  .more-nav-links{display:flex;gap:7px;flex-wrap:wrap;margin-top:7px;padding:7px;background:#fff;border:1px solid var(--line);border-radius:12px}
+  .field-label{display:block;font-weight:800;margin:0 0 6px}
+  @media(max-width:700px){.quick-start{padding:14px}.quick-start-actions{display:grid}.quick-start-actions .btn{width:100%}.more-nav{margin-left:0;flex:0 0 auto}.more-nav-links{position:absolute;right:10px;left:10px;z-index:31}.quick-start-steps{display:grid;gap:6px}}
+
   @media(max-width:900px){.grid-4,.grid-2{grid-template-columns:1fr}.page{padding:14px}.hero{padding:24px}.nav{position:static}}
   
   
@@ -336,9 +349,21 @@
 <span class="chip">be going to = намір / видимі факти</span>
 <span class="chip">will = рішення зараз / обіцянка / думка</span>
 </div>
+<div class="quick-start" aria-labelledby="quick-start-title">
+<h2 id="quick-start-title">Почни з короткого тренування</h2>
+<p>5 кроків із підказками. Це не контрольна — помилятися нормально.</p>
+<div class="quick-start-actions">
+<a class="btn primary" href="#microcourse">▶ Почати тренування</a>
+<a class="btn" href="#map">Спочатку пояснення</a>
+</div>
+<div class="quick-start-steps" aria-label="Що буде далі">
+<span class="quick-start-step">1. Знайди смисл</span><span class="quick-start-step">2. Обери форму</span><span class="quick-start-step">3. Отримай підказку</span>
+</div>
+</div>
 </header>
-<nav class="nav" aria-label="Навігація уроку">
-<a href="#map">Теорія</a><a href="#microcourse">Мікроурок</a><a href="#exercises">Вправи 1–7</a><a href="#session">Pre-test</a><a href="#adaptive">Маршрут</a><a href="#spaced-review">Повторення</a><a href="#storylab">Story Lab</a><a href="#formlab">Form Lab</a><a href="#transfer">Transfer</a><a href="#mastery">Mastery</a><a href="#exit-ticket">Фініш</a>
+<nav class="nav" aria-label="Основна навігація уроку">
+<a href="#microcourse">Почати</a><a href="#exercises">Вправи</a><a href="#session">Мій маршрут</a><a href="#spaced-review">Повторити</a><a href="#exit-ticket">Фініш</a>
+<details class="more-nav"><summary>Ще розділи</summary><div class="more-nav-links"><a href="#map">Теорія</a><a href="#storylab">Історії</a><a href="#formlab">Форми</a><a href="#transfer">Нові ситуації</a><a href="#mastery">Майстерність</a></div></details>
 </nav>
 <section class="section-card" id="map">
 <h2>1. Велика карта: чотири “дороги” в майбутнє</h2>
@@ -518,13 +543,14 @@
 </div>
 <div class="micro" data-micro="4">
 <span class="pill">Крок 4 • Produce</span>
-<div class="prompt">Склади англійською: «Я обіцяю, я тобі допоможу».</div>
-<input autocomplete="off" class="prod-input" id="produceInput" placeholder="I promise ..."/>
+<label class="field-label" for="produceInput">Напиши англійською: «Я обіцяю, я тобі допоможу»</label>
+<input autocomplete="off" class="prod-input" id="produceInput" aria-describedby="produce-help" placeholder="I promise ..."/>
+<div class="why" id="produce-help">Почни так: <strong>I promise I will...</strong></div>
 <div style="display:flex;gap:8px;margin-top:10px;flex-wrap:wrap">
 <button class="btn primary" id="checkProduce">Перевірити</button>
 <button class="btn" id="showProduce">Показати модель</button>
 </div>
-<div class="hintbox" id="produceFeedback"></div>
+<div class="hintbox" id="produceFeedback" role="status" aria-live="polite"></div>
 </div>
 </section>
 <section class="section-card" id="exercises">
@@ -645,11 +671,12 @@
 <div class="session-grid">
 <div class="session-card">
 <h3>Твій профіль</h3>
+<label class="field-label" for="studentName">Твоє ім’я або код</label>
 <div class="student-id-row">
-<input id="studentName" placeholder="Ім'я або код учня, напр. Марта / 8A-04"/>
+<input id="studentName" aria-describedby="student-name-help" placeholder="Наприклад: Марта або 8A-04"/>
 <button class="btn primary" id="startStudentSession">Почати / продовжити</button>
 </div>
-<p class="export-note">Профіль зберігається лише в цьому браузері через localStorage, щоб можна було продовжити заняття пізніше на цьому пристрої.</p>
+<p class="export-note" id="student-name-help">Профіль зберігається лише на цьому пристрої.</p>
 <div class="phase-strip">
 <span class="phase-pill active" id="phasePre">Pre-test</span>
 <span class="phase-pill" id="phaseLearn">Точкове навчання</span>
@@ -1569,8 +1596,8 @@ function renderFormLab(){
     </div>
     <div class="checkpoint">
       <strong>${d.task}</strong>
-      <label>Заперечення<input id="formNeg" class="mini-input" placeholder="Type the negative form"></label>
-      <label>Питання<input id="formQ" class="mini-input" placeholder="Type the question"></label>
+      <label class="field-label" for="formNeg">Заперечення</label><input id="formNeg" class="mini-input" placeholder="Наприклад: I won't help.">
+      <label class="field-label" for="formQ">Питання</label><input id="formQ" class="mini-input" placeholder="Наприклад: Will you help?">
       <button class="btn primary" style="margin-top:10px" onclick="checkFormLab()">Перевірити</button>
       <div id="formLabFb" class="feedback-rich"></div>
     </div>`;
