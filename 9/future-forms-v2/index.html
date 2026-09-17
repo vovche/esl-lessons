@@ -1,0 +1,2173 @@
+<!DOCTYPE html>
+
+<html lang="uk">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>Future Forms Quest — Landscape Mobile Edition</title>
+<style>
+  :root{
+    --bg:#f6f8fb; --card:#ffffff; --ink:#172033; --muted:#667085;
+    --accent:#1d73d4; --accent2:#12a4c9; --good:#15803d; --bad:#b42318;
+    --warn:#b54708; --line:#e5e7eb; --soft:#edf5ff; --soft2:#ecfeff;
+    --shadow:0 12px 36px rgba(16,24,40,.08); --radius:18px;
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{margin:0;font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.55}
+  a{color:inherit}
+  .page{max-width:1180px;margin:auto;padding:24px}
+  .hero{background:linear-gradient(135deg,#eaf6ff 0%,#ffffff 55%,#e9fbff 100%);border:1px solid #dbeafe;border-radius:28px;padding:34px;box-shadow:var(--shadow);position:relative;overflow:hidden}
+  .hero:after{content:"";position:absolute;right:-80px;top:-80px;width:250px;height:250px;border-radius:50%;background:rgba(29,115,212,.08)}
+  .eyebrow{font-size:13px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:var(--accent)}
+  .author{margin-top:8px;color:var(--muted);font-size:13px}
+  .home-link{display:inline-flex;align-items:center;min-height:44px;margin-bottom:14px;color:#175cd3;font-weight:800;text-decoration:none}
+  .home-link:hover{text-decoration:underline}
+  h1{font-size:clamp(34px,5vw,62px);line-height:1.03;margin:8px 0 12px;letter-spacing:-.04em}
+  h2{font-size:32px;letter-spacing:-.02em;margin:0 0 14px}
+  h3{font-size:22px;margin:0 0 10px}
+  h4{font-size:17px;margin:0 0 8px}
+  p{margin:8px 0 12px}
+  .lead{font-size:19px;max-width:860px;color:#344054}
+  .chips{display:flex;gap:8px;flex-wrap:wrap;margin-top:16px}
+  .chip{padding:7px 11px;border-radius:999px;background:#fff;border:1px solid #d9e7f7;font-size:13px;font-weight:700}
+  .nav{display:flex;gap:8px;flex-wrap:wrap;margin:18px 0 28px;position:sticky;top:8px;z-index:10;padding:8px;border-radius:14px;background:rgba(246,248,251,.88);backdrop-filter:blur(8px);border:1px solid rgba(229,231,235,.9)}
+  .nav a,.btn{display:inline-flex;align-items:center;justify-content:center;border:0;border-radius:11px;padding:10px 14px;font-weight:800;text-decoration:none;cursor:pointer;background:#fff;border:1px solid var(--line);color:#24324a;transition:.15s}
+  .nav a:hover,.btn:hover{transform:translateY(-1px);box-shadow:0 6px 16px rgba(16,24,40,.08)}
+  .btn.primary{background:var(--accent);color:#fff;border-color:var(--accent)}
+  .btn.good{background:var(--good);color:#fff;border-color:var(--good)}
+  .btn.ghost{background:transparent}
+  section{margin:32px 0}
+  .section-card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:26px;box-shadow:var(--shadow)}
+  .grid{display:grid;gap:16px}
+  .grid-2{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .grid-4{grid-template-columns:repeat(4,minmax(0,1fr))}
+  .tense{border:1px solid var(--line);border-radius:16px;padding:18px;background:#fff;position:relative;overflow:hidden}
+  .tense .tag{display:inline-block;padding:5px 9px;border-radius:999px;background:var(--soft);font-weight:800;color:var(--accent);font-size:12px}
+  .formula{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;background:#101828;color:white;border-radius:10px;padding:9px 11px;margin:10px 0;font-size:14px}
+  .signal{font-weight:800;color:#0f5a9f}
+  .example{padding:12px 14px;border-left:4px solid var(--accent2);background:#f8fbff;border-radius:0 10px 10px 0;margin:10px 0}
+  .note{border-radius:14px;padding:15px 16px;background:#fff8eb;border:1px solid #fedf89;color:#7a2e0e}
+  .goodnote{background:#ecfdf3;border-color:#abefc6;color:#05603a}
+  .trap{background:#fff1f0;border:1px solid #fecdca;color:#912018;padding:15px 16px;border-radius:14px}
+  table{width:100%;border-collapse:collapse;margin-top:12px;font-size:15px}
+  th,td{padding:12px 10px;border-bottom:1px solid var(--line);vertical-align:top;text-align:left}
+  th{background:#f8fafc;font-size:13px;text-transform:uppercase;letter-spacing:.04em;color:#475467}
+  .decision{display:grid;gap:12px;counter-reset:steps}
+  .step{position:relative;padding:16px 16px 16px 58px;border:1px solid var(--line);border-radius:14px;background:#fff}
+  .step:before{counter-increment:steps;content:counter(steps);position:absolute;left:16px;top:14px;width:29px;height:29px;border-radius:50%;display:grid;place-items:center;background:var(--accent);color:#fff;font-weight:900}
+  details{border:1px solid var(--line);border-radius:14px;background:#fff;margin:10px 0;overflow:hidden}
+  summary{cursor:pointer;font-weight:800;padding:14px 16px;background:#fbfcfe}
+  details>div{padding:0 16px 16px}
+  .answer{display:none;margin-top:10px;padding:11px 13px;border-radius:10px;background:#eef9f1;border:1px solid #b7ebc5}
+  .answer.show{display:block}
+  .qrow{padding:14px 0;border-bottom:1px dashed #d0d5dd}
+  .qrow:last-child{border-bottom:0}
+  .why{font-size:14px;color:#475467;margin-top:5px}
+  .correct{color:var(--good);font-weight:900}.wrong{color:var(--bad);font-weight:900}
+  .quiz{background:#101828;color:white;border-radius:20px;padding:24px}
+  .quiz .meta{display:flex;gap:10px;flex-wrap:wrap;color:#d0d5dd;font-size:14px}
+  .quiz-card{margin-top:18px;background:white;color:var(--ink);border-radius:16px;padding:20px;min-height:220px}
+  .options{display:grid;gap:10px;margin-top:16px}
+  .opt{padding:12px 14px;border:1px solid #d0d5dd;border-radius:12px;background:#fff;text-align:left;cursor:pointer;font-size:16px}
+  .opt:hover{border-color:var(--accent)}
+  .opt.selected{outline:3px solid rgba(29,115,212,.15);border-color:var(--accent)}
+  .opt.good{border-color:#16a34a;background:#f0fdf4}.opt.bad{border-color:#dc2626;background:#fef2f2}
+  .quiz-feedback{min-height:54px;margin-top:13px;padding:12px;border-radius:12px;background:#f8fafc;display:none}
+  .quiz-feedback.show{display:block}
+  .progress{height:10px;background:#344054;border-radius:999px;overflow:hidden;margin-top:12px}.progress>div{height:100%;width:0;background:#38bdf8;transition:.2s}
+  .mini-card{background:#f8fafc;border:1px solid var(--line);border-radius:14px;padding:16px}
+  .footer{color:#667085;font-size:13px;text-align:center;padding:26px 0 10px}
+  .kbd{font-family:ui-monospace,monospace;background:#f2f4f7;border:1px solid #d0d5dd;border-radius:6px;padding:2px 6px;font-size:12px}
+  .quick-start{margin-top:20px;padding:16px;border:1px solid #bfdbfe;border-radius:16px;background:rgba(255,255,255,.82)}
+  .quick-start h2{font-size:22px;margin:0 0 6px}
+  .quick-start p{margin:5px 0 12px}
+  .quick-start-actions{display:flex;gap:9px;flex-wrap:wrap}
+  .quick-start-steps{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px;color:#344054;font-size:14px}
+  .quick-start-step{padding:7px 10px;border-radius:999px;background:#f8fbff;border:1px solid #dbeafe}
+  .more-nav{margin-left:auto}
+  .more-nav summary{padding:10px 14px;border-radius:11px;background:#fff;border:1px solid var(--line);font-weight:800;cursor:pointer;list-style:none}
+  .more-nav summary::-webkit-details-marker{display:none}
+  .more-nav-links{display:flex;gap:7px;flex-wrap:wrap;margin-top:7px;padding:7px;background:#fff;border:1px solid var(--line);border-radius:12px}
+  .field-label{display:block;font-weight:800;margin:0 0 6px}
+  @media(max-width:700px){.quick-start{padding:14px}.quick-start-actions{display:grid}.quick-start-actions .btn{width:100%}.more-nav{margin-left:0;flex:0 0 auto}.more-nav-links{position:absolute;right:10px;left:10px;z-index:31}.quick-start-steps{display:grid;gap:6px}}
+
+  @media(max-width:900px){.grid-4,.grid-2{grid-template-columns:1fr}.page{padding:14px}.hero{padding:24px}.nav{position:static}}
+  
+  
+
+  /* ===== V2: mastery learning ===== */
+  .path{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px;margin:16px 0 4px}
+  .path-step{border:1px solid var(--line);background:#fff;border-radius:14px;padding:13px;min-height:112px}
+  .path-step .n{width:28px;height:28px;border-radius:50%;display:grid;place-items:center;background:#eaf2ff;color:var(--accent);font-weight:900;margin-bottom:8px}
+  .path-step.done{border-color:#86efac;background:#f0fdf4}
+  .path-step.active{border-color:#7dd3fc;background:#f0f9ff;box-shadow:0 0 0 3px rgba(14,165,233,.08)}
+  .concept-switch{display:grid;grid-template-columns:1fr auto 1fr;gap:14px;align-items:center;margin:14px 0}
+  .concept-box{border:1px solid var(--line);border-radius:16px;padding:16px;background:#fff}
+  .vs{font-weight:1000;font-size:20px;color:#64748b}
+  .micro{border:1px solid #dbeafe;background:linear-gradient(180deg,#fff,#f8fbff);border-radius:18px;padding:18px;margin:12px 0}
+  .micro .prompt{font-size:18px;font-weight:800;margin:6px 0 12px}
+  .choice-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+  .choice-btn{padding:12px 14px;border:1px solid #cbd5e1;background:#fff;border-radius:12px;text-align:left;cursor:pointer;font-weight:700}
+  .choice-btn:hover{border-color:var(--accent);transform:translateY(-1px)}
+  .choice-btn.ok{background:#f0fdf4;border-color:#22c55e}
+  .choice-btn.no{background:#fef2f2;border-color:#ef4444}
+  .hintbox{display:none;margin-top:12px;padding:12px 14px;border-radius:12px;background:#fff7ed;border:1px solid #fed7aa}
+  .hintbox.show{display:block}
+  .mastery-shell{background:#0f172a;color:#fff;border-radius:22px;padding:24px}
+  .mastery-top{display:grid;grid-template-columns:1.4fr .8fr;gap:18px}
+  .mastery-card{background:#fff;color:var(--ink);border-radius:18px;padding:20px}
+  .skill-panel{background:#111c33;border:1px solid #26344f;border-radius:18px;padding:18px}
+  .skill-row{display:grid;grid-template-columns:150px 1fr 44px;gap:8px;align-items:center;margin:10px 0;font-size:13px}
+  .skillbar{height:9px;background:#334155;border-radius:999px;overflow:hidden}
+  .skillbar > i{display:block;height:100%;background:#7dd3fc;width:0%;transition:.25s}
+  .skill-row.low .skillbar > i{background:#fda4af}
+  .skill-row.mid .skillbar > i{background:#fde68a}
+  .skill-row.high .skillbar > i{background:#86efac}
+  .confidence{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+  .confidence button{border:1px solid #cbd5e1;background:#fff;border-radius:999px;padding:7px 11px;cursor:pointer}
+  .confidence button.active{background:#dbeafe;border-color:#60a5fa}
+  .feedback-rich{margin-top:14px;padding:14px;border-radius:14px;background:#f8fafc;border:1px solid #e2e8f0;display:none}
+  .feedback-rich.show{display:block}
+  .feedback-rich .rule{font-weight:900;color:#0f5a9f}
+  .reason-tags{display:flex;gap:7px;flex-wrap:wrap;margin-top:8px}
+  .reason-tags span{font-size:12px;border:1px solid #cbd5e1;border-radius:999px;padding:4px 8px;background:white}
+  .diagnosis{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin-top:16px}
+  .diag-card{border-radius:14px;padding:15px;background:#fff;color:var(--ink);border:1px solid #dbe2ea}
+  .diag-card strong{display:block;margin-bottom:5px}
+  .sprint{border:1px solid #bae6fd;background:#f0f9ff;border-radius:16px;padding:18px;margin-top:16px}
+  .prod-input{width:100%;font:inherit;padding:12px 13px;border:1px solid #cbd5e1;border-radius:11px;margin-top:8px}
+  .pill{display:inline-flex;align-items:center;gap:6px;border-radius:999px;padding:6px 10px;font-size:12px;font-weight:800;background:#eef2ff;border:1px solid #c7d2fe;color:#3730a3}
+  .tip-note{border-left:4px solid #8b5cf6;background:#f5f3ff;padding:13px 15px;border-radius:0 12px 12px 0}
+  @media(max-width:900px){
+    .path{grid-template-columns:1fr}
+    .concept-switch{grid-template-columns:1fr}
+    .vs{text-align:center}
+    .choice-grid{grid-template-columns:1fr}
+    .mastery-top{grid-template-columns:1fr}
+    .diagnosis{grid-template-columns:1fr}
+    .skill-row{grid-template-columns:120px 1fr 36px}
+  }
+  
+
+
+  /* ===== V3: adaptive lesson engine ===== */
+  .route-shell{border:1px solid #dbeafe;background:linear-gradient(180deg,#f8fbff,#ffffff);border-radius:22px;padding:22px;margin-top:18px}
+  .route-head{display:grid;grid-template-columns:1.2fr .8fr;gap:18px;align-items:start}
+  .route-map{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+  .route-node{padding:8px 11px;border-radius:999px;border:1px solid #cbd5e1;background:white;font-size:13px;font-weight:800}
+  .route-node.active{background:#dbeafe;border-color:#60a5fa;color:#1d4ed8}
+  .route-node.done{background:#dcfce7;border-color:#86efac;color:#166534}
+  .route-node.locked{opacity:.45}
+  .lesson-card{border:1px solid #dbe2ea;border-radius:18px;padding:18px;background:#fff;margin-top:14px}
+  .lesson-card h3{margin-top:0}
+  .lesson-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+  .mini-scenario{border:1px solid #e2e8f0;border-radius:14px;padding:14px;background:#f8fafc}
+  .mini-scenario .label{font-size:12px;font-weight:900;color:#475569;text-transform:uppercase;letter-spacing:.04em}
+  .error-chip{display:inline-flex;align-items:center;border-radius:999px;padding:5px 9px;margin:3px 4px 3px 0;background:#fff1f2;border:1px solid #fecdd3;color:#9f1239;font-size:12px;font-weight:800}
+  .skill-chip{display:inline-flex;align-items:center;border-radius:999px;padding:5px 9px;margin:3px 4px 3px 0;background:#eff6ff;border:1px solid #bfdbfe;color:#1d4ed8;font-size:12px;font-weight:800}
+  .dash-card{border:1px solid #dbe2ea;border-radius:16px;padding:16px;background:white}
+  .dash-card h3{margin-top:0}
+  .heatmap{display:grid;grid-template-columns:repeat(7,1fr);gap:7px;margin-top:12px}
+  .heat-cell{min-height:74px;border-radius:12px;padding:8px;border:1px solid #dbe2ea;background:#f8fafc;font-size:11px}
+  .heat-cell strong{display:block;font-size:13px;margin-bottom:5px}
+  .heat-cell.good{background:#f0fdf4;border-color:#bbf7d0}
+  .heat-cell.mid{background:#fffbeb;border-color:#fde68a}
+  .heat-cell.bad{background:#fff1f2;border-color:#fecdd3}
+  .mode-switch{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}
+  .mode-switch button{border:1px solid #cbd5e1;background:white;border-radius:999px;padding:8px 12px;font-weight:800;cursor:pointer}
+  .mode-switch button.active{background:#0f172a;color:white;border-color:#0f172a}
+  .question-builder{border:1px dashed #94a3b8;border-radius:16px;padding:16px;background:#f8fafc}
+  .token-bank{display:flex;gap:7px;flex-wrap:wrap;margin-top:10px}
+  .token{padding:8px 10px;background:white;border:1px solid #cbd5e1;border-radius:10px;cursor:pointer;font-weight:700}
+  .token.used{opacity:.35}
+  .answer-strip{min-height:50px;border:2px dashed #cbd5e1;border-radius:12px;padding:8px;display:flex;gap:7px;flex-wrap:wrap;align-items:center;background:white;margin-top:10px}
+  
+  @media(max-width:900px){
+    .route-head,.lesson-grid{grid-template-columns:1fr}
+    .heatmap{grid-template-columns:repeat(2,1fr)}
+  }
+
+
+  /* ===== V4: transfer-first lesson engine ===== */
+  .v4-shell{border:1px solid #dbeafe;border-radius:24px;background:linear-gradient(180deg,#f8fbff,#fff);padding:22px;margin-top:18px}
+  .mission-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin-top:14px}
+  .mission{border:1px solid #dbe2ea;border-radius:17px;padding:16px;background:#fff;position:relative;overflow:hidden}
+  .mission:before{content:"";position:absolute;inset:0 auto auto 0;width:5px;height:100%;background:#93c5fd}
+  .mission h3{margin:0 0 8px}
+  .mission .tag{font-size:11px;font-weight:900;text-transform:uppercase;letter-spacing:.06em;color:#475569}
+  .dialogue{border-radius:16px;background:#0f172a;color:white;padding:16px;margin:12px 0}
+  .bubble{max-width:85%;padding:10px 12px;border-radius:14px;background:#1e293b;margin:8px 0}
+  .bubble.me{margin-left:auto;background:#1d4ed8}
+  .progressive-hints{display:grid;gap:8px;margin-top:12px}
+  .hint-step{display:none;border:1px solid #fed7aa;background:#fff7ed;border-radius:12px;padding:11px 13px}
+  .hint-step.show{display:block}
+  .hint-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
+  .ua-trap{border:1px solid #fecdd3;background:#fff1f2;border-radius:16px;padding:16px;margin:12px 0}
+  .ua-trap .wrong-line{text-decoration:line-through;text-decoration-thickness:2px;color:#9f1239}
+  .ua-trap .right-line{color:#166534;font-weight:900}
+  .transform-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  .transform-card{border:1px solid #e2e8f0;background:white;border-radius:16px;padding:16px}
+  .mini-input{width:100%;font:inherit;border:1px solid #cbd5e1;border-radius:10px;padding:10px 12px;margin-top:8px}
+  .rubric{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:9px;margin-top:12px}
+  .rubric-cell{border:1px solid #dbe2ea;border-radius:12px;padding:11px;background:#f8fafc;font-size:12px}
+  .rubric-cell strong{display:block;margin-bottom:5px}
+  .transfer-shell{background:#111827;color:#fff;border-radius:24px;padding:24px;margin-top:20px}
+  .transfer-card{background:#fff;color:#0f172a;border-radius:18px;padding:20px;margin-top:14px}
+  .transfer-situation{font-size:18px;line-height:1.55;padding:14px;border-radius:14px;background:#f8fafc;border:1px solid #e2e8f0}
+  .transfer-meta{display:flex;gap:8px;flex-wrap:wrap;margin-top:8px}
+  .transfer-meta span{border:1px solid #cbd5e1;border-radius:999px;padding:5px 9px;font-size:11px;font-weight:800;background:#fff}
+  .signal-blind{background:#fefce8;border:1px solid #fde68a;border-radius:14px;padding:13px;margin-top:10px}
+  .form-lab{border:1px solid #c4b5fd;background:#faf5ff;border-radius:18px;padding:17px;margin-top:14px}
+  .form-row{display:grid;grid-template-columns:150px 1fr;gap:10px;align-items:center;margin:10px 0}
+  .form-row label{font-weight:900}
+  .timeline-mini{display:grid;grid-template-columns:1fr auto 1fr;gap:10px;align-items:center;margin-top:10px}
+  .timeline-mini .past,.timeline-mini .now,.timeline-mini .future{border:1px solid #dbe2ea;border-radius:12px;padding:10px;text-align:center;background:white}
+  .timeline-mini .arrow{font-size:24px;font-weight:1000;color:#64748b}
+  .mastery-badge{display:inline-flex;align-items:center;gap:7px;border-radius:999px;padding:7px 11px;background:#dcfce7;border:1px solid #86efac;color:#166534;font-weight:900;font-size:12px}
+  .needs-work-badge{display:inline-flex;align-items:center;gap:7px;border-radius:999px;padding:7px 11px;background:#fff1f2;border:1px solid #fecdd3;color:#9f1239;font-weight:900;font-size:12px}
+  .transfer-report{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin-top:15px}
+  .transfer-stat{border:1px solid #dbe2ea;border-radius:14px;padding:13px;background:#fff;color:#0f172a}
+  .transfer-stat b{display:block;font-size:24px}
+  .checkpoint{border:1px dashed #94a3b8;border-radius:16px;padding:15px;background:#f8fafc;margin-top:12px}
+  .lesson-meter{height:12px;background:#e2e8f0;border-radius:999px;overflow:hidden;margin-top:10px}
+  .lesson-meter > div{height:100%;background:#0ea5e9;width:0%;transition:.25s}
+  @media(max-width:900px){
+    .mission-grid,.transform-grid,.rubric,.transfer-report{grid-template-columns:1fr}
+    .form-row{grid-template-columns:1fr}
+    .timeline-mini{grid-template-columns:1fr}
+    .timeline-mini .arrow{transform:rotate(90deg);text-align:center}
+  }
+
+
+  /* ===== V5: lesson session + learner profiles ===== */
+  .session-shell{border:1px solid #c7d2fe;background:linear-gradient(180deg,#eef2ff,#fff);border-radius:24px;padding:22px;margin-top:18px}
+  .session-grid{display:grid;grid-template-columns:1.15fr .85fr;gap:16px}
+  .session-card{border:1px solid #dbe2ea;background:white;border-radius:18px;padding:18px}
+  .student-id-row{display:flex;gap:9px;flex-wrap:wrap;align-items:center}
+  .student-id-row input{flex:1;min-width:210px;font:inherit;padding:11px 12px;border:1px solid #cbd5e1;border-radius:11px}
+  .phase-strip{display:flex;gap:7px;flex-wrap:wrap;margin-top:13px}
+  .phase-pill{padding:7px 10px;border-radius:999px;background:#f8fafc;border:1px solid #cbd5e1;font-size:12px;font-weight:900}
+  .phase-pill.active{background:#dbeafe;border-color:#60a5fa;color:#1d4ed8}
+  .phase-pill.done{background:#dcfce7;border-color:#86efac;color:#166534}
+  .phase-pill.skip{background:#f1f5f9;color:#94a3b8}
+  .pretest-card{border:1px solid #bfdbfe;background:#eff6ff;border-radius:18px;padding:18px;margin-top:14px}
+  .route-reco{border:1px solid #bbf7d0;background:#f0fdf4;border-radius:16px;padding:14px;margin-top:12px}
+  .route-reco.warn{border-color:#fde68a;background:#fffbeb}
+  .route-reco.danger{border-color:#fecdd3;background:#fff1f2}
+  .spaced-queue{display:grid;gap:9px;margin-top:12px}
+  .spaced-item{display:grid;grid-template-columns:70px 1fr auto;gap:10px;align-items:center;border:1px solid #dbe2ea;border-radius:12px;padding:10px;background:white}
+  .spaced-item .when{font-size:11px;font-weight:900;color:#475569}
+  .spaced-item.done{background:#f0fdf4;border-color:#bbf7d0}
+  .exit-shell{border:1px solid #a7f3d0;background:linear-gradient(180deg,#ecfdf5,#fff);border-radius:22px;padding:20px;margin-top:18px}
+  .exit-ticket{border:1px solid #d1fae5;background:white;border-radius:17px;padding:17px}
+  .timeline-review{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:9px;margin-top:10px}
+  .timeline-review > div{border:1px solid #dbe2ea;border-radius:12px;padding:10px;background:white;text-align:center}
+  .timeline-review strong{display:block;font-size:12px}
+  .session-banner{display:flex;justify-content:space-between;gap:12px;align-items:center;flex-wrap:wrap;background:#0f172a;color:#fff;border-radius:15px;padding:12px 14px;margin-bottom:12px}
+  .session-banner small{color:#cbd5e1}
+  .export-note{font-size:12px;color:#64748b;margin-top:7px}
+  .adaptive-shortcut{border:1px dashed #60a5fa;background:#f0f9ff;border-radius:14px;padding:13px;margin-top:12px}
+  @media(max-width:900px){
+    .session-grid,.timeline-review{grid-template-columns:1fr}
+    .spaced-item{grid-template-columns:1fr}
+  }
+
+  /* ===== MOBILE-FIRST LEARNER UI ===== */
+  button,input,select,textarea{font:inherit}
+  button,.btn,.choice-btn,.opt{touch-action:manipulation;-webkit-tap-highlight-color:transparent}
+  .table-scroll{width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch}
+
+  @media(max-width:700px){
+    html{scroll-padding-top:72px}
+    body{font-size:16px;line-height:1.5;overflow-x:hidden}
+    .page{padding:10px;max-width:100%}
+    .hero{padding:20px 16px;border-radius:20px}
+    .eyebrow{font-size:11px;letter-spacing:.08em}
+    h1{font-size:clamp(30px,10vw,42px);line-height:1.05}
+    h2{font-size:24px;line-height:1.15}
+    h3{font-size:19px;line-height:1.25}
+    .lead{font-size:16px}
+    section{margin:18px 0}
+    .section-card{padding:16px;border-radius:16px}
+
+    .nav{position:sticky;top:0;z-index:30;display:flex;flex-wrap:nowrap;overflow-x:auto;overscroll-behavior-x:contain;
+      gap:7px;margin:10px -10px 18px;padding:9px 10px;border-radius:0;scrollbar-width:none}
+    .nav::-webkit-scrollbar{display:none}
+    .nav a{flex:0 0 auto;min-height:44px;padding:10px 13px;white-space:nowrap}
+
+    .chips,.route-map,.mode-switch,.confidence,.transfer-meta{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;padding-bottom:3px}
+    .chips::-webkit-scrollbar,.route-map::-webkit-scrollbar,.mode-switch::-webkit-scrollbar,.confidence::-webkit-scrollbar,.transfer-meta::-webkit-scrollbar{display:none}
+    .chip,.route-node,.mode-switch button,.confidence button{flex:0 0 auto;white-space:nowrap}
+
+    .grid-4,.grid-2,.path,.concept-switch,.mastery-top,.diagnosis,.route-head,.lesson-grid,
+    .mission-grid,.transform-grid,.rubric,.transfer-report,.session-grid,.timeline-review{grid-template-columns:1fr!important}
+    .path-step{min-height:auto}
+    .vs{text-align:center;transform:rotate(90deg);line-height:1}
+
+    .btn,.choice-btn,.opt{min-height:48px;font-size:16px}
+    .choice-btn,.opt{padding:13px 14px}
+    .options,.choice-grid{gap:9px}
+    .student-id-row{display:grid;grid-template-columns:1fr;gap:9px}
+    .student-id-row input{width:100%;min-width:0;min-height:48px;font-size:16px}
+    .student-id-row .btn{width:100%}
+    .prod-input,.mini-input{min-height:48px;font-size:16px}
+
+    .mastery-shell,.transfer-shell{padding:16px;border-radius:18px}
+    .mastery-card,.skill-panel,.lesson-card,.session-card{padding:15px;border-radius:15px}
+    .skill-row{grid-template-columns:minmax(105px,1fr) minmax(80px,1.4fr) 42px;gap:7px}
+    .skill-row span:first-child{overflow-wrap:anywhere}
+
+    table{display:block;width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch;font-size:14px}
+    th,td{min-width:120px;padding:10px 8px}
+    .qrow{padding:12px 0}
+    details summary{padding:13px 14px}
+    .dialogue{padding:13px}
+    .bubble{max-width:94%}
+    .form-row{grid-template-columns:1fr!important}
+    .timeline-mini{grid-template-columns:1fr!important}
+    .timeline-mini .arrow{transform:rotate(90deg);text-align:center}
+  }
+
+  @media(max-width:390px){
+    .page{padding:8px}
+    .hero{padding:18px 14px}
+    .section-card{padding:14px}
+    h2{font-size:22px}
+    .btn,.choice-btn,.opt{font-size:15px}
+    .skill-row{grid-template-columns:1fr}
+    .skill-row b{text-align:right}
+  }
+</style>
+
+<style id="quest-v2-css">
+:root{--q-bg:#07111f;--q-panel:#0d1b2f;--q-panel2:#122642;--q-ink:#f7fbff;--q-muted:#a9bfd5;--q-cyan:#55e6ff;--q-lime:#b8f35d;--q-pink:#ff73ad;--q-gold:#ffd166;--q-danger:#ff8a8a;--q-safe-top:max(8px,env(safe-area-inset-top));--q-safe-right:max(10px,env(safe-area-inset-right));--q-safe-bottom:max(8px,env(safe-area-inset-bottom));--q-safe-left:max(10px,env(safe-area-inset-left))}
+*{box-sizing:border-box}html,body{width:100%;height:100%;margin:0;overflow:hidden;background:var(--q-bg);color:var(--q-ink);font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}body{font-size:clamp(14px,2.4vh,18px);line-height:1.4}.story-deck{max-width:none;width:100%;height:100dvh;margin:0;padding:0;background:radial-gradient(circle at 12% 15%,#173860 0,transparent 34%),radial-gradient(circle at 90% 80%,#311b53 0,transparent 38%),var(--q-bg)}
+.quest-hud{position:fixed;inset:0 0 auto;z-index:100;height:64px;padding:var(--q-safe-top) var(--q-safe-right) 6px var(--q-safe-left);display:grid;grid-template-columns:auto minmax(0,1fr) auto;align-items:center;gap:10px;background:linear-gradient(180deg,rgba(7,17,31,.98),rgba(7,17,31,.82));backdrop-filter:blur(12px);border-bottom:1px solid #274567}.hud-btn,.quest-btn{min-width:48px;min-height:46px;border:1px solid #365a7e;border-radius:14px;background:#112744;color:var(--q-ink);font:inherit;font-weight:850;cursor:pointer}.hud-btn:focus-visible,.quest-btn:focus-visible,.scene-map button:focus-visible{outline:3px solid var(--q-gold);outline-offset:2px}.hud-center{min-width:0;text-align:center}.hud-kicker{font-size:12px;color:var(--q-cyan);font-weight:900;letter-spacing:.09em;text-transform:uppercase}.hud-title{font-weight:900;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.hud-track{height:5px;margin-top:4px;border-radius:99px;background:#263d58;overflow:hidden}.hud-fill{height:100%;width:5.55%;background:linear-gradient(90deg,var(--q-cyan),var(--q-lime));transition:width .25s ease}.hud-actions{display:flex;gap:7px}.hud-btn span{display:inline}.quest-stage{position:fixed;inset:64px 0 62px;padding:8px var(--q-safe-right) 8px var(--q-safe-left);overflow:hidden}.story-deck>.hero,.story-deck>.nav,.story-deck>.footer{display:none!important}.quest-stage>section{display:none!important}.quest-stage>section.quest-scene{position:absolute;inset:8px var(--q-safe-right);display:grid!important;grid-template-columns:minmax(180px,32%) minmax(0,1fr);gap:12px;margin:0;padding:0;background:transparent;border:0;box-shadow:none;overflow:hidden;animation:questIn .24s ease both}.quest-stage>section.quest-scene[hidden]{display:none!important}.scene-intro{border:1px solid #294a6a;border-radius:20px;padding:16px;background:linear-gradient(160deg,rgba(19,45,75,.96),rgba(10,25,45,.96));overflow:auto}.scene-number{color:var(--q-lime);font-size:12px;font-weight:950;letter-spacing:.12em;text-transform:uppercase}.scene-intro h2{margin:8px 0 10px;color:#fff;font-size:clamp(19px,4.6vh,32px);line-height:1.06}.scene-intro .scene-help{color:var(--q-muted);font-size:13px}.scene-body{min-width:0;border:1px solid #294a6a;border-radius:20px;padding:14px;background:linear-gradient(145deg,rgba(13,27,47,.98),rgba(10,23,40,.98));overflow:auto;overscroll-behavior:contain;scrollbar-color:#4c759d transparent}.scene-body>*:first-child{margin-top:0}.scene-body h2{display:none}.scene-body h3{color:#fff;font-size:clamp(17px,3.3vh,24px)}.scene-body p,.scene-body li{max-width:74ch}.scene-body .grid-4{grid-template-columns:repeat(2,minmax(0,1fr))}.scene-body .grid-2,.scene-body .concept-switch,.scene-body .session-grid,.scene-body .mastery-top,.scene-body .route-head{grid-template-columns:repeat(2,minmax(0,1fr))!important}.scene-body .tense,.scene-body .mini-card,.scene-body .concept-box,.scene-body .micro,.scene-body .session-card,.scene-body .lesson-card,.scene-body .mastery-card{background:var(--q-panel2);color:var(--q-ink);border-color:#365a7e;padding:12px;border-radius:15px}.scene-body .why,.scene-body .lead,.scene-body .export-note{color:var(--q-muted)}.scene-body .signal{color:var(--q-cyan)}.scene-body .example,.scene-body .answer,.scene-body .feedback-rich,.scene-body .hintbox{color:#142033}.scene-body .note,.scene-body .trap,.scene-body .goodnote{padding:11px;border-radius:13px}.scene-body details{background:var(--q-panel2);border-color:#365a7e}.scene-body summary{background:#162d4b;color:#fff;min-height:48px}.scene-body table{display:block;max-width:100%;overflow:auto;color:var(--q-ink)}.scene-body th{background:#173150;color:#d9ecff}.scene-body th,.scene-body td{border-color:#35516c}.scene-body .formula{background:#030a12}.scene-body .choice-grid,.scene-body .options{grid-template-columns:repeat(2,minmax(0,1fr))}.scene-body button,.scene-body input{min-height:48px}.scene-body .choice-btn,.scene-body .opt,.scene-body .btn{background:#f8fbff;color:#172033}.scene-body .btn.primary{background:var(--q-cyan);color:#062033;border-color:var(--q-cyan)}.scene-body .transfer-shell,.scene-body.mastery-shell{color:var(--q-ink)}
+.quest-controls{position:fixed;inset:auto 0 0;z-index:100;height:62px;padding:6px var(--q-safe-right) var(--q-safe-bottom) var(--q-safe-left);display:grid;grid-template-columns:1fr minmax(150px,2fr) 1fr;gap:8px;background:linear-gradient(0deg,rgba(7,17,31,.99),rgba(7,17,31,.82));border-top:1px solid #274567}.quest-btn.primary{background:linear-gradient(135deg,var(--q-cyan),#69b8ff);color:#061423;border:0}.quest-btn:disabled{opacity:.35;cursor:not-allowed}.quest-tip{display:flex;align-items:center;justify-content:center;text-align:center;color:var(--q-muted);font-size:12px}.scene-map{position:fixed;inset:8px;z-index:300;border:1px solid #456b90;border-radius:22px;padding:14px;background:rgba(7,17,31,.98);color:var(--q-ink);box-shadow:0 20px 70px #000b}.scene-map::backdrop{background:#020712cc}.map-head{display:flex;align-items:center;justify-content:space-between;gap:10px}.map-head h2{margin:0;font-size:22px}.map-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin-top:12px;max-height:calc(100dvh - 90px);overflow:auto}.map-grid button{min-height:58px;padding:8px;border:1px solid #365a7e;border-radius:13px;background:#102642;color:#fff;text-align:left;font:inherit}.map-grid button[aria-current=true]{border-color:var(--q-lime);box-shadow:inset 4px 0 var(--q-lime)}.map-grid b{display:block;color:var(--q-cyan);font-size:12px}.rotate-gate{display:none;position:fixed;inset:0;z-index:1000;padding:28px;background:var(--q-bg);color:#fff;text-align:center;place-items:center}.rotate-card{max-width:420px}.phone-icon{font-size:54px;display:block;animation:turnPhone 1.8s ease-in-out infinite}.rotate-gate h1{font-size:28px}.rotate-gate p{color:var(--q-muted)}.orientation-why{border:0;background:transparent;color:var(--q-cyan);text-decoration:underline;font:inherit}.resume-toast{position:fixed;left:50%;bottom:72px;z-index:500;transform:translateX(-50%);padding:9px 14px;border-radius:99px;background:var(--q-lime);color:#15200a;font-weight:850;opacity:0;pointer-events:none;transition:opacity .2s}.resume-toast.show{opacity:1}@keyframes questIn{from{opacity:0;transform:translateX(24px)}to{opacity:1;transform:none}}@keyframes turnPhone{0%,35%{transform:rotate(0)}65%,100%{transform:rotate(90deg)}}
+@media (orientation:portrait){.rotate-gate{display:grid}.quest-hud,.quest-controls,.quest-stage{visibility:hidden}}
+@media (max-height:360px){.quest-hud{height:54px}.quest-stage{inset:54px 0 54px}.quest-controls{height:54px}.quest-stage>section.quest-scene{inset:5px var(--q-safe-right);grid-template-columns:minmax(155px,28%) minmax(0,1fr)}.scene-intro,.scene-body{padding:10px;border-radius:15px}.scene-intro h2{font-size:18px}.hud-kicker,.quest-tip{font-size:11px}.hud-btn,.quest-btn{min-height:42px}.scene-body{font-size:13px;line-height:1.32}.scene-body h3{font-size:16px}.scene-body .tense,.scene-body .mini-card,.scene-body .micro{padding:9px}}
+@media (prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;scroll-behavior:auto!important;transition:none!important}}
+</style>
+</head>
+<body data-v2-ready="true">
+<div class="story-deck">
+<div class="rotate-gate" id="rotateGate" role="dialog" aria-labelledby="rotateTitle"><div class="rotate-card"><span class="phone-icon" aria-hidden="true">📱</span><h1 id="rotateTitle">Поверни телефон боком</h1><p>Так завдання, приклади й великі кнопки помістяться на одному екрані. Твій прогрес збережено.</p><button class="orientation-why" type="button" onclick="this.nextElementSibling.hidden=false">Чому тільки альбомна орієнтація?</button><p hidden>Ця експериментальна версія спроєктована як мобільна гра: пояснення зліва, дія справа.</p></div></div>
+<header class="quest-hud" aria-label="Навігація місії"><button class="hud-btn" id="sceneMap" type="button">☰ <span>Карта</span></button><div class="hud-center"><div class="hud-kicker" id="sceneCounter">Місія 1 із 18</div><div class="hud-title" id="sceneTitle">Карта майбутнього</div><div class="hud-track" aria-hidden="true"><div class="hud-fill" id="sceneProgress"></div></div></div><div class="hud-actions"><a class="hud-btn" href="../future-forms/" title="Відкрити стабільну версію" style="display:grid;place-items:center;text-decoration:none">V1</a><a class="hud-btn" href="../../" title="Усі матеріали" style="display:grid;place-items:center;text-decoration:none">⌂</a></div></header>
+<main class="quest-stage" id="questStage" aria-live="polite"></main>
+<nav class="quest-controls" aria-label="Перехід між місіями"><button class="quest-btn" id="scenePrev" type="button">← Назад</button><div class="quest-tip">Свайп працює, але кнопки завжди доступні</div><button class="quest-btn primary" id="sceneNext" type="button">Далі →</button></nav>
+<dialog class="scene-map" id="sceneMapDialog"><div class="map-head"><h2>Карта 18 місій</h2><button class="hud-btn" id="sceneMapClose" type="button">Закрити</button></div><div class="map-grid" id="sceneMapGrid"></div></dialog><div class="resume-toast" id="resumeToast" role="status">Продовжуємо звідси</div>
+
+<header class="hero">
+<a class="home-link" href="../../">← Усі матеріали</a>
+<div class="eyebrow">9 клас • Future Forms Quest • експеримент</div>
+<h1>Майбутнє: 18 місій</h1>
+<p class="lead"><strong>Не вчи “4 часи”. Вчи 4 форми й 7 типових смислів.</strong> Англійська обирає форму майбутнього не тільки за словом <em>tomorrow</em>, а за тим, <strong>що саме відомо мовцеві зараз</strong>: розклад, домовленість, намір, видимі факти, обіцянка чи рішення в момент розмови.</p>
+<p class="author">Матеріали: Лишенко Володимир Миколайович</p>
+<div class="chips">
+<span class="chip">Present Simple = розклад</span>
+<span class="chip">Present Continuous = домовленість</span>
+<span class="chip">be going to = намір / видимі факти</span>
+<span class="chip">will = рішення зараз / обіцянка / думка</span>
+</div>
+<div class="quick-start" aria-labelledby="quick-start-title">
+<h2 id="quick-start-title">Почни з короткого тренування</h2>
+<p>5 кроків із підказками. Це не контрольна — помилятися нормально.</p>
+<div class="quick-start-actions">
+<a class="btn primary" href="#microcourse">▶ Почати тренування</a>
+<a class="btn" href="#map">Спочатку пояснення</a>
+</div>
+<div class="quick-start-steps" aria-label="Що буде далі">
+<span class="quick-start-step">1. Знайди смисл</span><span class="quick-start-step">2. Обери форму</span><span class="quick-start-step">3. Отримай підказку</span>
+</div>
+</div>
+</header>
+<nav class="nav" aria-label="Основна навігація уроку">
+<a href="#microcourse">Почати</a><a href="#exercises">Вправи</a><a href="#session">Мій маршрут</a><a href="#spaced-review">Повторити</a><a href="#exit-ticket">Фініш</a>
+<details class="more-nav"><summary>Ще розділи</summary><div class="more-nav-links"><a href="#map">Теорія</a><a href="#storylab">Історії</a><a href="#formlab">Форми</a><a href="#transfer">Нові ситуації</a><a href="#mastery">Майстерність</a></div></details>
+</nav>
+<section class="section-card" id="map">
+<h2>1. Велика карта: чотири “дороги” в майбутнє</h2>
+<p>Уяви, що перед тобою 4 двері. Потрібно не вгадати “час”, а знайти <strong>тип ситуації</strong>.</p>
+<div class="grid grid-4">
+<article class="tense">
+<span class="tag">1 • PRESENT SIMPLE</span>
+<h3>Розклад / офіційна програма</h3>
+<div class="formula">S + V1 / V-s</div>
+<p><span class="signal">Ключова думка:</span> це відбудеться, бо так працює система, розклад, календар або програма.</p>
+<div class="example"><strong>The train leaves at 8:20.</strong><br/>Потяг вирушає о 8:20 — це розклад.</div>
+<p class="why">Часті “герої”: train, bus, flight, lesson, school, concert, film, match, shop, timetable.</p>
+</article>
+<article class="tense">
+<span class="tag">2 • PRESENT CONTINUOUS</span>
+<h3>Особиста домовленість</h3>
+<div class="formula">am / is / are + V-ing</div>
+<p><span class="signal">Ключова думка:</span> план уже організований: є конкретний час, місце або інша людина.</p>
+<div class="example"><strong>I’m meeting Anna at 5.</strong><br/>Ми вже домовилися.</div>
+<p class="why">Питай себе: “У календарі людини це вже стоїть?”</p>
+</article>
+<article class="tense">
+<span class="tag">3 • BE GOING TO</span>
+<h3>Намір або прогноз за фактами</h3>
+<div class="formula">am / is / are + going to + V1</div>
+<p><span class="signal">Ключова думка:</span> або я вже маю намір, або зараз бачу причину, з якої щось станеться.</p>
+<div class="example"><strong>I’m going to learn Spanish.</strong><br/>Це мій намір.</div>
+<div class="example"><strong>Look at those clouds! It’s going to rain.</strong><br/>Є видимі факти.</div>
+</article>
+<article class="tense">
+<span class="tag">4 • WILL</span>
+<h3>Рішення зараз / обіцянка / думка</h3>
+<div class="formula">will + V1</div>
+<p><span class="signal">Ключова думка:</span> рішення народжується в момент розмови, або я обіцяю, пропоную, прогнозую на основі думки.</p>
+<div class="example"><strong>I forgot! I’ll do it now.</strong><br/>Рішення прямо зараз.</div>
+<div class="example"><strong>I think they’ll win.</strong><br/>Це моя думка.</div>
+</article>
+</div>
+<div class="note" style="margin-top:16px"><strong>Найважливіше правило:</strong> слова <em>tomorrow, next week, at 5</em> самі по собі <strong>не визначають форму</strong>. Вони лише показують час. Форму визначає <strong>смисл</strong>.</div>
+</section>
+<section class="section-card" id="algorithm">
+<h2>2. Алгоритм, який реально працює на тесті</h2>
+<div class="decision">
+<div class="step"><strong>Це розклад, програма, графік, офіційний час?</strong><br/>Так → <strong>Present Simple</strong>. <span class="why">The lesson starts at 9. The bus arrives at 7:10.</span></div>
+<div class="step"><strong>Це особиста домовленість, уже організована подія?</strong><br/>Так → <strong>Present Continuous</strong>. <span class="why">We’re meeting after school. She’s seeing the dentist tomorrow.</span></div>
+<div class="step"><strong>Це намір, який існував до моменту розмови, або прогноз за фактами, які видно зараз?</strong><br/>Так → <strong>be going to</strong>.</div>
+<div class="step"><strong>Це рішення прямо зараз, обіцянка, пропозиція або прогноз “я думаю / я впевнений / я вірю”?</strong><br/>Так → <strong>will</strong>.</div>
+</div>
+<div class="grid grid-2" style="margin-top:16px">
+<div class="goodnote note"><strong>Швидкий тест для себе:</strong><br/>Розклад → “так написано в системі”.<br/>Домовленість → “ми вже узгодили”.<br/>Going to → “я вже планую / я це бачу”.<br/>Will → “я щойно вирішив / я обіцяю / я так думаю”.</div>
+<div class="trap"><strong>Типова пастка:</strong> “I’m going to meet Max at 6” і “I’m meeting Max at 6” обидва можуть бути граматично можливі. Але в шкільній вправі <strong>точно організована зустріч</strong> зазвичай веде до Present Continuous, а <strong>загальний намір</strong> — до going to.</div>
+</div>
+</section>
+<section class="section-card" id="forms">
+<h2>3. Форми: як будувати речення без плутанини</h2>
+<table>
+<thead><tr><th>Значення</th><th>Ствердження</th><th>Заперечення</th><th>Питання</th></tr></thead>
+<tbody>
+<tr><td>Розклад</td><td>The train <strong>leaves</strong>.</td><td>The train <strong>doesn’t leave</strong>.</td><td><strong>Does</strong> the train <strong>leave</strong>?</td></tr>
+<tr><td>Домовленість</td><td>We <strong>are meeting</strong>.</td><td>We <strong>aren’t meeting</strong>.</td><td><strong>Are</strong> we <strong>meeting</strong>?</td></tr>
+<tr><td>Намір / прогноз за фактами</td><td>She <strong>is going to study</strong>.</td><td>She <strong>isn’t going to study</strong>.</td><td><strong>Is</strong> she <strong>going to study</strong>?</td></tr>
+<tr><td>Рішення / обіцянка / думка</td><td>I <strong>will help</strong>.</td><td>I <strong>won’t help</strong>.</td><td><strong>Will</strong> you <strong>help</strong>?</td></tr>
+</tbody>
+</table>
+<div class="note"><strong>Мікроправило:</strong> після <strong>will</strong> і після <strong>going to</strong> завжди йде базова форма дієслова: <em>will go</em>, <em>going to go</em>, не <s>will goes</s> і не <s>going to goes</s>.</div>
+</section>
+<section class="section-card">
+<h2>4. Підказки-сигнали: корисні, але не магічні</h2>
+<table>
+<thead><tr><th>Сигнал</th><th>Найчастіше</th><th>Чому</th></tr></thead>
+<tbody>
+<tr><td><strong>Look out! / Watch out! / Look at…</strong></td><td>going to</td><td>Є факт/ознака зараз.</td></tr>
+<tr><td><strong>I promise…</strong></td><td>will</td><td>Обіцянка.</td></tr>
+<tr><td><strong>I think / I believe / I’m sure…</strong></td><td>will</td><td>Прогноз на основі переконання.</td></tr>
+<tr><td><strong>at 7:30 / tomorrow</strong> + особиста зустріч</td><td>Present Continuous</td><td>Конкретна домовленість.</td></tr>
+<tr><td><strong>train / bus / lesson / flight</strong> + час</td><td>Present Simple</td><td>Розклад.</td></tr>
+<tr><td><strong>I’ve decided / I’ve already planned / I intend to…</strong></td><td>going to</td><td>План існує до моменту говоріння.</td></tr>
+</tbody>
+</table>
+</section>
+<section class="section-card" id="contrast">
+<div class="eyebrow">Найважчі місця теми</div>
+<h2>5. Не плутай форми, які українською звучать майже однаково</h2>
+<p>У цих парах англійська показує не просто <em>коли</em> щось станеться, а <strong>звідки взявся план або прогноз</strong>.</p>
+<div class="concept-switch">
+<div class="concept-box">
+<span class="pill">be going to</span>
+<h3>Я вирішив раніше</h3>
+<p><strong>I’m going to study French.</strong></p>
+<p class="why">Намір уже існує. Можливо, ще немає точного часу, квитка чи домовленості.</p>
+</div>
+<div class="vs">VS</div>
+<div class="concept-box">
+<span class="pill">Present Continuous</span>
+<h3>Я вже організував</h3>
+<p><strong>I’m meeting my tutor at 5.</strong></p>
+<p class="why">Подія стоїть у “людському календарі”: є час, місце, інша людина, бронювання тощо.</p>
+</div>
+</div>
+<div class="concept-switch">
+<div class="concept-box">
+<span class="pill">be going to</span>
+<h3>Є докази зараз</h3>
+<p><strong>Look at the ice! He’s going to fall.</strong></p>
+<p class="why">Прогноз спирається на те, що ми бачимо або знаємо прямо зараз.</p>
+</div>
+<div class="vs">VS</div>
+<div class="concept-box">
+<span class="pill">will</span>
+<h3>Це моя думка</h3>
+<p><strong>I think he’ll win.</strong></p>
+<p class="why">Це прогноз із голови мовця: <em>I think / I’m sure / probably / I believe</em>.</p>
+</div>
+</div>
+<div class="concept-switch">
+<div class="concept-box">
+<span class="pill">Present Simple</span>
+<h3>Час належить системі</h3>
+<p><strong>The train leaves at 8:10.</strong></p>
+<p class="why">Навіть якщо це завтра, форма Present Simple, бо час задає розклад.</p>
+</div>
+<div class="vs">VS</div>
+<div class="concept-box">
+<span class="pill">Present Continuous</span>
+<h3>Час належить людям</h3>
+<p><strong>We’re leaving at 8:10.</strong></p>
+<p class="why">Ми так домовилися / організували власний план.</p>
+</div>
+</div>
+<div class="tip-note">
+<strong>Суперкоротка мнемоніка:</strong>
+<p><strong>System → Simple. Arrangement → Continuous. Intention/Evidence → Going to. Now/Promise/Opinion → Will.</strong></p>
+<p class="why">Не абсолютне правило для всієї живої англійської, але дуже сильний “перший фільтр” для шкільних вправ.</p>
+</div>
+</section>
+<section class="section-card micro-course" id="microcourse">
+<div class="eyebrow">ПРАКТИКА З ПІДКАЗКАМИ</div>
+<h2>6. Мікроурок: спочатку смисл, потім граматика</h2>
+<p>Тут не можна “вгадувати за формою”. Спочатку визначаємо <strong>тип ситуації</strong>. Це тренує саме ту навичку, яка потрібна у вправах 2, 4, 5 і 6.</p>
+<div class="path path-progress">
+<div class="path-step active" id="path1"><div class="n">1</div><strong>Meaning</strong><br/><span class="why">Розпізнати смисл</span></div>
+<div class="path-step" id="path2"><div class="n">2</div><strong>Form</strong><br/><span class="why">Підібрати форму</span></div>
+<div class="path-step" id="path3"><div class="n">3</div><strong>Contrast</strong><br/><span class="why">Не сплутати близькі форми</span></div>
+<div class="path-step" id="path4"><div class="n">4</div><strong>Produce</strong><br/><span class="why">Побудувати самому</span></div>
+<div class="path-step" id="path5"><div class="n">5</div><strong>Mastery</strong><br/><span class="why">Стабільно ≥ 80%</span></div>
+</div>
+<div class="micro" data-micro="1">
+<span class="pill">Крок 1 • Meaning</span>
+<div class="prompt">“The concert starts at 7:00.” Що тут найважливіше?</div>
+<div class="choice-grid">
+<button class="choice-btn" data-correct="0">Є намір піти на концерт</button>
+<button class="choice-btn" data-correct="1">Час концерту заданий програмою</button>
+<button class="choice-btn" data-correct="0">Рішення прийняли щойно</button>
+<button class="choice-btn" data-correct="0">Ми домовилися з другом</button>
+</div>
+<div class="hintbox">Так: це <strong>schedule</strong>. Тепер форма майже автоматична → <strong>Present Simple</strong>.</div>
+</div>
+<div class="micro" data-micro="2">
+<span class="pill">Крок 2 • Form</span>
+<div class="prompt">We ___ our project team at 4:30. It’s already arranged.</div>
+<div class="choice-grid">
+<button class="choice-btn" data-correct="0">meet</button>
+<button class="choice-btn" data-correct="1">are meeting</button>
+<button class="choice-btn" data-correct="0">will meet</button>
+<button class="choice-btn" data-correct="0">are going to meet</button>
+</div>
+<div class="hintbox"><strong>already arranged</strong> = домовленість → <strong>Present Continuous</strong>.</div>
+</div>
+<div class="micro" data-micro="3">
+<span class="pill">Крок 3 • Contrast</span>
+<div class="prompt">Mia has bought paint and brushes. She ___ her room this weekend.</div>
+<div class="choice-grid">
+<button class="choice-btn" data-correct="1">is going to paint</button>
+<button class="choice-btn" data-correct="0">will paint</button>
+</div>
+<div class="hintbox">Фарба й пензлі — <strong>доказ попереднього плану</strong>. Це не спонтанне рішення → <strong>going to</strong>.</div>
+</div>
+<div class="micro" data-micro="4">
+<span class="pill">Крок 4 • Produce</span>
+<label class="field-label" for="produceInput">Напиши англійською: «Я обіцяю, я тобі допоможу»</label>
+<input autocomplete="off" class="prod-input" id="produceInput" aria-describedby="produce-help" placeholder="I promise ..."/>
+<div class="why" id="produce-help">Почни так: <strong>I promise I will...</strong></div>
+<div style="display:flex;gap:8px;margin-top:10px;flex-wrap:wrap">
+<button class="btn primary" id="checkProduce">Перевірити</button>
+<button class="btn" id="showProduce">Показати модель</button>
+</div>
+<div class="hintbox" id="produceFeedback" role="status" aria-live="polite"></div>
+</div>
+</section>
+<section class="section-card" id="exercises">
+<h2>7. Глибокий розбір вправ 1–7</h2>
+<p>Не просто “правильна відповідь”, а <strong>яке слово або смисл запускає вибір</strong>. Натискай на кожну вправу.</p>
+<details open="">
+<summary>Вправа 1 — назвати форму майбутнього</summary>
+<div>
+<div class="qrow"><strong>1. The train to Leeds <u>arrives</u> at 3:27 pm.</strong><div class="why">Ключ: <em>train + exact time</em> → розклад.</div><div class="answer show"><strong>Present Simple.</strong> Майбутній час за значенням, але граматично — теперішня проста форма.</div></div>
+<div class="qrow"><strong>2. I promise I <u>will help</u> you next time.</strong><div class="why">Ключ: <em>I promise</em>.</div><div class="answer show"><strong>Future Simple (will).</strong> Обіцянка.</div></div>
+<div class="qrow"><strong>3. Jim <u>is going to study</u> Spanish this year.</strong><div class="why">Ключ: особистий намір / план.</div><div class="answer show"><strong>be going to.</strong></div></div>
+<div class="qrow"><strong>4. We <u>are having</u> a meeting at 10 o’clock.</strong><div class="why">Ключ: організована подія з конкретним часом.</div><div class="answer show"><strong>Present Continuous.</strong> Домовленість / arrangement.</div></div>
+</div>
+</details>
+<details>
+<summary>Вправа 2 — choose a or b: як відсікти “майже правильний” варіант</summary>
+<div>
+<div class="qrow"><strong>1. Look out! That bag … on you!</strong><div class="answer show">✅ <strong>is going to fall</strong>. “Look out!” = є видима небезпека зараз. Це прогноз за фактами, не просто думка.</div></div>
+<div class="qrow"><strong>2. Our bus … today at 11 am.</strong><div class="answer show">✅ <strong>leaves</strong>. Автобус + точний час = розклад. Не <em>is leaving</em>, якщо мова саме про маршрут/графік.</div></div>
+<div class="qrow"><strong>3. I am sure that Ted … here.</strong><div class="answer show">✅ <strong>won’t be</strong>. “I am sure” = прогноз на основі переконання.</div></div>
+<div class="qrow"><strong>4. My friends … tonight.</strong><div class="answer show">✅ <strong>are coming over</strong>. Конкретна домовленість на вечір.</div></div>
+<div class="qrow"><strong>5. School … until 8 o’clock.</strong><div class="answer show">✅ <strong>doesn’t start</strong>. Розклад школи / офіційний час.</div></div>
+<div class="qrow"><strong>6. We believe you … this competition!</strong><div class="answer show">✅ <strong>will win</strong>. “We believe” = особиста думка / прогноз.</div></div>
+<div class="qrow"><strong>7. Sue … a party tomorrow at 6 pm.</strong><div class="answer show">✅ <strong>isn’t having</strong>. Вправа перевіряє “arrangement”: організована подія з конкретним часом. У живій мові контекст міг би дозволити інші формулювання, але тут тестова логіка — Present Continuous.</div></div>
+<div class="qrow"><strong>8. Fred … Vanessa everything.</strong><div class="answer show">✅ <strong>isn’t going to tell</strong>. За логікою варіантів цієї вправи це вже наявний намір: він не збирається все розповідати.</div></div>
+</div>
+</details>
+<details>
+<summary>Вправа 3 — matching: дивимося не на зміст, а на “граматичний замок”</summary>
+<div>
+<p>У короткій відповіді допоміжне дієслово має збігатися з питанням: <strong>Do → do, Will → will, Are → are, Is → is</strong>. Потім перевіряємо особу: <em>you → I/we</em>, <em>Greg → he</em>, <em>Veronica → she</em>.</p>
+<table><thead><tr><th>#</th><th>Питання</th><th>Відповідь</th><th>Логіка</th></tr></thead><tbody>
+<tr><td>1</td><td>Do you catch the bus at 9 am?</td><td><strong>e — Yes, I do.</strong></td><td>Do ↔ do; you ↔ I.</td></tr>
+<tr><td>2</td><td>Isn’t Greg going to join us?</td><td><strong>f — No, he isn’t.</strong></td><td>Greg = he; is ↔ isn’t.</td></tr>
+<tr><td>3</td><td>Will you visit me tomorrow?</td><td><strong>h — No, I won’t.</strong></td><td>Will ↔ won’t.</td></tr>
+<tr><td>4</td><td>Are we going to the park later?</td><td><strong>g — Yes, we are.</strong></td><td>Are ↔ are.</td></tr>
+<tr><td>5</td><td>Don’t they return on 5th May?</td><td><strong>d — No, they don’t.</strong></td><td>Do ↔ don’t.</td></tr>
+<tr><td>6</td><td>Are you going to watch this film?</td><td><strong>b — No, I’m not.</strong></td><td>Are you ↔ I’m not.</td></tr>
+<tr><td>7</td><td>Won’t the children play this game?</td><td><strong>c — Yes, they will.</strong></td><td>children = they; won’t ↔ will.</td></tr>
+<tr><td>8</td><td>Isn’t Veronica seeing David today?</td><td><strong>a — Yes, she is.</strong></td><td>Veronica = she; is ↔ is.</td></tr>
+</tbody></table>
+<div class="note"><strong>Суперприйом:</strong> у matching-вправах спочатку зроби “механічне” зіставлення допоміжних дієслів, і тільки потім читай зміст. Це різко зменшує помилки.</div>
+</div>
+</details>
+<details>
+<summary>Вправа 4 — поставити дієслово в правильну форму</summary>
+<div>
+<div class="qrow"><strong>1. I (see) … my friends today at 3 pm.</strong><div class="answer show">✅ <strong>am seeing</strong>. Домовленість на конкретний час.</div></div>
+<div class="qrow"><strong>2. My football training (not end) … at 5 o’clock.</strong><div class="answer show">✅ <strong>doesn’t end</strong>. Розклад тренування.</div></div>
+<div class="qrow"><strong>3. I don’t think Amy and Sasha (like) … this.</strong><div class="answer show">✅ <strong>will like</strong>. “I don’t think” = думка / прогноз.</div></div>
+<div class="qrow"><strong>4. The flight (take off) … on 2nd October.</strong><div class="answer show">✅ <strong>takes off</strong>. Розклад рейсу.</div></div>
+<div class="qrow"><strong>5. Jason is very brave, so he (not be) … afraid.</strong><div class="answer show">✅ <strong>won’t be</strong>. Логічний прогноз / особиста оцінка.</div></div>
+<div class="qrow"><strong>6. Holly promises that she (not let) … us down.</strong><div class="answer show">✅ <strong>won’t let</strong>. Promise → will / won’t.</div></div>
+<div class="qrow"><strong>7. We (not have) … dinner next Friday at 2 pm.</strong><div class="answer show">✅ <strong>aren’t having</strong>. Конкретно запланована особиста подія.</div></div>
+<div class="qrow"><strong>8. Watch out! You (hurt) … yourself with that!</strong><div class="answer show">✅ <strong>are going to hurt</strong>. Видима небезпека прямо зараз.</div></div>
+</div>
+</details>
+<details>
+<summary>Вправа 5 — класифікувати значення a–g</summary>
+<div>
+<table><thead><tr><th>#</th><th>Речення</th><th>Категорія</th><th>Чому</th></tr></thead><tbody>
+<tr><td>1</td><td>The train arrives in Paris at 10 o’clock.</td><td><strong>f — action based on schedule</strong></td><td>Розклад.</td></tr>
+<tr><td>2</td><td>I promise I will help you with that.</td><td><strong>b — a promise</strong></td><td>Прямий маркер <em>promise</em>.</td></tr>
+<tr><td>3</td><td>I’m going to clean my room this evening.</td><td><strong>d — an intention</strong></td><td>Намір.</td></tr>
+<tr><td>4</td><td>I forgot all about it. I’ll do it now.</td><td><strong>a — decision at the time of speaking</strong></td><td>Рішення виникло щойно.</td></tr>
+<tr><td>5</td><td>It’s going to be a cold day. It’s windy already.</td><td><strong>e — prediction based on facts</strong></td><td>Є факт: already windy.</td></tr>
+<tr><td>6</td><td>I’m having an English lesson at 7:30.</td><td><strong>g — an arrangement</strong></td><td>Конкретна домовленість.</td></tr>
+<tr><td>7</td><td>I’m sure the next Summer Olympics will take place in LA.</td><td><strong>c — prediction based on personal beliefs</strong></td><td>За логікою вправи маркер <em>I’m sure</em> веде до <em>will</em>. Але як чистий приклад контрасту це неідеальне речення: місце проведення Олімпіади може бути вже офіційно визначене.</td></tr>
+</tbody></table>
+</div>
+</details>
+<details>
+<summary>Вправа 6 — multiple choice a/b/c/d</summary>
+<div>
+<div class="qrow"><strong>1. I’ve got nothing to wear, so I … to buy some new clothes.</strong><div class="answer show">✅ <strong>am going to have</strong> → “I am going to have to buy …”. Тут <em>have to</em> означає “доведеться”, а <em>be going to have to</em> передає очікувану майбутню необхідність. Це трохи ширший випадок, ніж базове “going to = намір”.</div></div>
+<div class="qrow"><strong>2. She … him tomorrow at ten.</strong><div class="answer show">✅ <strong>is meeting</strong>. Конкретно організована зустріч.</div></div>
+<div class="qrow"><strong>3. I’m sure we … it soon.</strong><div class="answer show">✅ <strong>will finish</strong>. “I’m sure” = особисте переконання.</div></div>
+<div class="qrow"><strong>4. The train … at half past two.</strong><div class="answer show">✅ <strong>leaves</strong>. Розклад.</div></div>
+<div class="qrow"><strong>5. They … into trouble for sure if they do that.</strong><div class="answer show">✅ <strong>will get</strong>. Прогноз про наслідок; після <em>if</em> у підрядній частині вже стоїть Present Simple (<em>if they do</em>), а результат — <em>will get</em>.</div></div>
+</div>
+</details>
+<details>
+<summary>Вправа 7 — скласти питання з перемішаних слів</summary>
+<div>
+<p><strong>Принцип:</strong> знайди “двигун питання” і постав його вперед: <em>Does / Will / Is / Are / Don’t / Won’t / Doesn’t</em>. Потім — підмет, потім основна частина.</p>
+<ol>
+<li><strong>Does your choir practice start at 8:30 am?</strong></li>
+<li><strong>Will your friends come to your place on Sunday?</strong></li>
+<li><strong>Isn’t your mother going to meet you after school?</strong></li>
+<li><strong>Are you hanging out with your best friend today?</strong></li>
+<li><strong>Don’t your parents have to work late tomorrow?</strong></li>
+<li><strong>Won’t the weather be nice next weekend?</strong></li>
+<li><strong>Is your teacher leaving for London on Monday?</strong></li>
+<li><strong>Doesn’t your bus arrive here at 3 o’clock?</strong></li>
+</ol>
+<div class="goodnote note"><strong>Самоперевірка:</strong> після <em>does/doesn’t</em> дієслово повертається до V1: <em>Does the bus arrive…?</em>, не <s>Does the bus arrives…?</s></div>
+</div>
+</details>
+</section>
+<section class="section-card">
+<h2>8. Різниця, на якій найчастіше помиляються</h2>
+<div class="grid grid-2">
+<div class="mini-card"><h3>going to vs Present Continuous</h3><p><strong>I’m going to visit Kyiv.</strong> — у мене є намір.</p><p><strong>I’m visiting Kyiv on Saturday. I’ve got the tickets.</strong> — уже організовано.</p><p class="why">Питання до себе: “Я просто хочу/планую чи вже домовився/забронював/узгодив?”</p></div>
+<div class="mini-card"><h3>going to vs will</h3><p><strong>Look at the glass! It’s going to fall.</strong> — є ознака зараз.</p><p><strong>I think it will fall.</strong> — це моя думка.</p><p class="why">Факти перед очима → going to. Переконання в голові → will.</p></div>
+<div class="mini-card"><h3>Present Simple vs Present Continuous</h3><p><strong>The film starts at 6.</strong> — програма кінотеатру.</p><p><strong>We’re watching the film at 6.</strong> — наша домовленість.</p></div>
+<div class="mini-card"><h3>will vs Present Continuous</h3><p><strong>I’ll call her now.</strong> — щойно вирішив.</p><p><strong>I’m calling her at 7.</strong> — уже запланував на 7.</p></div>
+</div>
+</section>
+<section class="section-card" id="session">
+<div class="eyebrow">СТАРТ УРОКУ</div>
+<h2>9. Старт уроку: від pre-test до персонального маршруту</h2>
+<p>Почни з короткого <strong>pre-test без підказок</strong>. За результатом ресурс покаже, які теми вже тримаються, а які варто повторити.</p>
+<div class="session-shell">
+<div class="session-banner">
+<div><strong id="sessionStudentLabel">Учень: не вибрано</strong><br/><small id="sessionStatus">Створи або обери локальний профіль.</small></div>
+<span class="pill" id="sessionScoreBadge">pre-test: —</span>
+</div>
+<div class="session-grid">
+<div class="session-card">
+<h3>Твій профіль</h3>
+<label class="field-label" for="studentName">Твоє ім’я або код</label>
+<div class="student-id-row">
+<input id="studentName" aria-describedby="student-name-help" placeholder="Наприклад: Марта або 8A-04"/>
+<button class="btn primary" id="startStudentSession">Почати / продовжити</button>
+</div>
+<p class="export-note" id="student-name-help">Профіль зберігається лише на цьому пристрої.</p>
+<div class="phase-strip">
+<span class="phase-pill active" id="phasePre">Pre-test</span>
+<span class="phase-pill" id="phaseLearn">Точкове навчання</span>
+<span class="phase-pill" id="phaseReview">Повторення</span>
+<span class="phase-pill" id="phaseExit">Фінальна перевірка</span>
+</div>
+<div class="pretest-card" id="pretestHost">
+<strong>Щоб почати pre-test, введи ім’я/код учня.</strong>
+</div>
+</div>
+<aside class="session-card">
+<h3>Твій маршрут</h3>
+<div id="routeDecision">
+<p class="why">Після pre-test тут з’явиться коротка рекомендація, куди йти далі.</p>
+</div>
+<div class="timeline-review">
+<div><strong>1</strong>Pre-test</div>
+<div><strong>2</strong>Слабка тема</div>
+<div><strong>3</strong>Повторення</div>
+<div><strong>4</strong>Фінальна перевірка</div>
+</div>
+</aside>
+</div>
+</div>
+</section>
+<section class="section-card adaptive-engine" id="adaptive">
+<div class="eyebrow">ПЕРСОНАЛЬНЕ НАВЧАННЯ</div>
+<h2>10. Персональна траєкторія: що вчити далі</h2>
+<p>Якщо ти вже пройшов pre-test вище, маршрут почнеться зі слабкої теми. Якщо ні — тут є коротка власна діагностика. Мета — не просто набрати відсоток, а прибрати конкретну плутанину.</p>
+<div class="route-shell">
+<div class="route-head">
+<div>
+<span class="pill">1. Діагностика → 2. Пояснення → 3. З підказками → 4. Самостійно → 5. Перевірка</span>
+<h3 style="font-size:24px;margin:10px 0 6px">Навчальний маршрут</h3>
+<div class="route-map">
+<span class="route-node active" id="rn-diagnose">Діагностика</span>
+<span class="route-node locked" id="rn-teach">Мініурок</span>
+<span class="route-node locked" id="rn-guided">З підказками</span>
+<span class="route-node locked" id="rn-independent">Самостійно</span>
+<span class="route-node locked" id="rn-check">Фінальна перевірка</span>
+</div>
+</div>
+<div class="mini-scenario">
+<div class="label">Що тренуємо</div>
+<div style="margin-top:8px">
+<span class="skill-chip">смисл</span>
+<span class="skill-chip">форма</span>
+<span class="skill-chip">порядок слів</span>
+<span class="skill-chip">заперечення</span>
+<span class="skill-chip">контраст</span>
+<span class="skill-chip">впевненість</span>
+</div>
+</div>
+</div>
+<div class="lesson-card" id="adaptiveStage"></div>
+</div>
+</section>
+<section class="section-card" id="spaced-review">
+<div class="eyebrow">ПОВТОРЕННЯ</div>
+<h2>11. Повторення слабких тем</h2>
+<p>Після pre-test тут з’являються теми, у яких були помилки. Краще повертатися до них <strong>після кількох інших завдань або трохи пізніше</strong>, а не повторювати те саме п’ять разів підряд.</p>
+<div class="spaced-queue" id="spacedQueue">
+<div class="spaced-item"><span class="when">Черга порожня</span><span>Спочатку пройди pre-test.</span><span>—</span></div>
+</div>
+<div class="lesson-card" id="spacedHost" style="display:none"></div>
+</section>
+<section class="section-card" id="storylab">
+<div class="eyebrow">КОНТЕКСТ</div>
+<h2>12. Story Lab: майбутнє в реальних ситуаціях, а не в “голих реченнях”</h2>
+<p>У житті немає підпису <em>“це promise”</em>. Треба зрозуміти намір співрозмовника з контексту. Тому тут сигнали сховані всередині коротких ситуацій.</p>
+<div class="mission-grid">
+<div class="mission">
+<div class="tag">Mission 1 • School</div>
+<h3>Science Fair</h3>
+<p>У шкільній програмі виставка починається о 10:00. Ти вже домовився зустрітися з командою о 9:30.</p>
+<p><strong>Дві різні форми майбутнього в одному контексті.</strong></p>
+</div>
+<div class="mission">
+<div class="tag">Mission 2 • Friends</div>
+<h3>Weekend plan</h3>
+<p>Ти давно плануєш купити навушники. Друг щойно каже, що магазин закривається через 20 хвилин.</p>
+<p><strong>Plan vs decision now.</strong></p>
+</div>
+<div class="mission">
+<div class="tag">Mission 3 • Weather</div>
+<h3>Football after school</h3>
+<p>Ти думаєш, що завтра буде сонячно. Але зараз бачиш чорні хмари й сильний вітер.</p>
+<p><strong>Belief vs evidence.</strong></p>
+</div>
+</div>
+<div class="lesson-card" id="storyMission"></div>
+</section>
+<section class="section-card" id="ukrainian-traps">
+<div class="eyebrow">ТИПОВІ ПАСТКИ</div>
+<h2>13. Типові помилки україномовних учнів</h2>
+<div class="ua-trap">
+<strong>Пастка 1. “Завтра” ≠ автоматично <em>will</em></strong>
+<p class="right-line">Для розкладу в цій темі: The train leaves at 7:10 tomorrow.</p>
+<p class="why"><em>Tomorrow the train will leave at 7:10</em> теж може бути граматично правильним у певному контексті. Але якщо завдання перевіряє саме <strong>розклад / timetable</strong>, типовий вибір — <strong>Present Simple</strong>.</p>
+</div>
+<div class="ua-trap">
+<strong>Пастка 2. Українське “я буду…” не перекладається механічно через <em>will</em></strong>
+<p>«Я буду зустрічатися з тренером о 5» → якщо це домовленість: <span class="right-line">I’m meeting my coach at 5.</span></p>
+<p>«Я вирішив тренуватися щодня» → намір: <span class="right-line">I’m going to train every day.</span></p>
+</div>
+<div class="ua-trap">
+<strong>Пастка 3. Після <em>will</em> не ставимо <em>to</em></strong>
+<p class="wrong-line">I will to help you.</p>
+<p class="right-line">I will help you.</p>
+<p class="why"><strong>will + V1</strong>: will help, will go, will be, will win.</p>
+</div>
+<div class="ua-trap">
+<strong>Пастка 4. У питаннях потрібен правильний “двигун”</strong>
+<p><strong>Will:</strong> Will you come?</p>
+<p><strong>Going to:</strong> Are you going to come?</p>
+<p><strong>Present Continuous:</strong> Are you coming?</p>
+<p><strong>Present Simple:</strong> Does the bus leave at 8?</p>
+</div>
+</section>
+<section class="section-card" id="formlab">
+<div class="eyebrow">ВІД СМИСЛУ ДО ФОРМИ</div>
+<h2>14. Form Lab: питання, заперечення й трансформації</h2>
+<p>Окрема навичка: навіть коли учень правильно <em>обрав</em> форму, він може неправильно побудувати питання або заперечення. Тут ми тренуємо саме побудову.</p>
+<div class="mode-switch" id="formModeSwitch">
+<button class="active" data-mode="will">will</button>
+<button data-mode="going">going to</button>
+<button data-mode="continuous">Present Continuous</button>
+<button data-mode="simple">Present Simple</button>
+</div>
+<div class="form-lab" id="formLabBody"></div>
+</section>
+<section class="transfer-shell" id="transfer">
+<div class="eyebrow" style="color:#7dd3fc">ПЕРЕНЕСЕННЯ ЗНАНЬ</div>
+<h2 style="margin-top:5px">15. Transfer Test: чи переносиш правило на нову ситуацію?</h2>
+<p style="color:#cbd5e1;max-width:900px">Це важлива перевірка. Тут немає речень із попередніх блоків, а частина завдань навмисно не містить очевидних слів-сигналів. Треба зрозуміти <strong>джерело майбутнього</strong>: розклад, домовленість, план, доказ, реакція, обіцянка чи переконання.</p>
+<div class="transfer-card">
+<div class="eyebrow" id="transferCounter">Transfer 1 / 10</div>
+<div class="transfer-situation" id="transferSituation"></div>
+<div id="transferQuestion" style="font-size:22px;font-weight:900;margin-top:14px"></div>
+<div class="options" id="transferOptions"></div>
+<div class="hint-actions">
+<button class="btn" id="transferHint1">Підказка 1: що визначає майбутнє?</button>
+<button class="btn" id="transferHint2">Підказка 2: звузити вибір</button>
+</div>
+<div class="progressive-hints">
+<div class="hint-step" id="transferH1"></div>
+<div class="hint-step" id="transferH2"></div>
+</div>
+<div class="feedback-rich" id="transferFeedback"></div>
+<button class="btn primary" disabled="" id="transferNext" style="margin-top:12px">Далі →</button>
+</div>
+<div id="transferResult" style="display:none"></div>
+</section>
+<section class="mastery-shell" id="mastery">
+<div class="eyebrow" style="color:#7dd3fc">АДАПТИВНИЙ ТРЕНАЖЕР</div>
+<h2 style="margin-top:4px">16. Mastery Trainer: знайди свою слабку ланку</h2>
+<p style="color:#cbd5e1;max-width:900px">Не просто рахує правильні відповіді. Після кожної спроби він оновлює профіль навичок: <strong>schedule, arrangement, intention, evidence, promise/decision, belief</strong>. Якщо одна категорія просідає, наприкінці з’явиться короткий repair sprint лише на цю тему.</p>
+<div class="mastery-top">
+<div class="mastery-card">
+<div style="display:flex;justify-content:space-between;gap:12px;align-items:flex-start;flex-wrap:wrap">
+<div>
+<div class="eyebrow" id="mType">Meaning → Form</div>
+<h3 id="mQuestion" style="font-size:25px;margin-top:8px"></h3>
+</div>
+<span class="pill" id="mCounter">1 / 16</span>
+</div>
+<div class="options" id="mOptions"></div>
+<div class="confidence" id="confidence">
+<span class="why" style="align-self:center">Наскільки ти впевнений?</span>
+<button data-v="1">🤔 50/50</button>
+<button data-v="2">🙂 Майже</button>
+<button data-v="3">😎 Впевнений</button>
+</div>
+<div class="feedback-rich" id="mFeedback"></div>
+<div style="display:flex;gap:10px;justify-content:space-between;margin-top:14px;flex-wrap:wrap">
+<button class="btn" id="mHint">Підказка</button>
+<div style="display:flex;gap:8px">
+<button class="btn" id="mReset">Заново</button>
+<button class="btn primary" disabled="" id="mNext">Далі →</button>
+</div>
+</div>
+</div>
+<aside class="skill-panel">
+<h3 style="margin-bottom:4px">Твоя карта навичок</h3>
+<p style="color:#94a3b8;font-size:13px;margin-top:0">Оновлюється після кожної відповіді.</p>
+<div id="skillRows"></div>
+<div class="progress" style="margin-top:18px"><div id="mProgress"></div></div>
+<div id="mScore" style="margin-top:8px;color:#cbd5e1;font-size:13px">0 правильних</div>
+</aside>
+</div>
+<div class="diagnosis" id="diagnosis" style="display:none"></div>
+<div class="sprint" id="sprint" style="display:none;color:var(--ink)"></div>
+</section>
+<section class="section-card" id="exit-ticket">
+<div class="eyebrow">ФІНІШ УРОКУ</div>
+<h2>17. Фінальна перевірка: чи можна рухатися далі</h2>
+<div class="exit-shell">
+<div id="exitIntro">
+<p>Фінальна перевірка коротка й містить <strong>нові контексти</strong>, питання на форму та пояснення вибору.</p>
+<button class="btn primary" id="startExit">Почати фінальну перевірку</button>
+</div>
+<div id="exitHost" style="display:none"></div>
+<div id="exitResult" style="display:none"></div>
+</div>
+</section>
+
+
+
+
+
+
+
+
+
+<section class="section-card">
+<h2>18. Контрольна картка перед будь-якою подібною вправою</h2>
+<div class="grid grid-2">
+<div class="mini-card"><h3>Крок 1. Не дивись на tomorrow</h3><p>Спочатку знайди <strong>тип ситуації</strong>. Слово часу — лише декорація.</p></div>
+<div class="mini-card"><h3>Крок 2. Знайди джерело впевненості</h3><p>Розклад? Домовленість? Намір? Видимі факти? Особиста думка?</p></div>
+<div class="mini-card"><h3>Крок 3. Перевір граматичну форму</h3><p><em>will + V1</em>; <em>am/is/are going to + V1</em>; <em>am/is/are + V-ing</em>; Present Simple з <em>do/does</em>.</p></div>
+<div class="mini-card"><h3>Крок 4. У тесті обери “найкращу”, не “можливу”</h3><p>У реальній мові інколи можливі дві форми. У вправі контекст спеціально підказує, яку <strong>функцію</strong> перевіряють.</p></div>
+</div>
+<div class="goodnote note" style="margin-top:16px"><strong>Мета опанування:</strong> учень має вміти не просто сказати “це will”, а пояснити одним реченням: <em>“Я обираю will, бо це обіцянка / рішення зараз / особиста думка.”</em> Якщо це пояснення стабільне — тема реально засвоєна.</div>
+</section>
+<footer class="footer">Future Forms • учнівська mobile-версія • працює офлайн • адаптивна практика<br/><span class="author">Матеріали: Лишенко Володимир Миколайович</span></footer>
+</div>
+<script>
+/* ===== V2 MICROCOURSE ===== */
+document.querySelectorAll('.micro .choice-btn').forEach(btn=>{
+  btn.addEventListener('click',()=>{
+    const box=btn.closest('.micro');
+    const buttons=[...box.querySelectorAll('.choice-btn')];
+    buttons.forEach(b=>b.disabled=true);
+    if(btn.dataset.correct==='1') btn.classList.add('ok'); else {
+      btn.classList.add('no');
+      const right=buttons.find(b=>b.dataset.correct==='1'); if(right) right.classList.add('ok');
+    }
+    const hint=box.querySelector('.hintbox'); if(hint) hint.classList.add('show');
+    const n=Number(box.dataset.micro||1);
+    const current=document.getElementById('path'+n);
+    const next=document.getElementById('path'+(n+1));
+    if(current){current.classList.remove('active');current.classList.add('done')}
+    if(next)next.classList.add('active');
+  });
+});
+document.getElementById('checkProduce')?.addEventListener('click',()=>{
+  const s=(document.getElementById('produceInput').value||'').trim().toLowerCase()
+    .replace(/[’]/g,"'").replace(/\s+/g,' ');
+  const fb=document.getElementById('produceFeedback');
+  const ok = /i promise[, ]+i('ll| will) help you/.test(s);
+  fb.classList.add('show');
+  fb.innerHTML = ok
+    ? '<strong class="correct">Так ✓</strong> Після <em>I promise</em> природно використовуємо <strong>will</strong>: <em>I promise I’ll help you.</em>'
+    : '<strong>Підказка:</strong> це <em>promise</em> → потрібне <strong>will + V1</strong>. Початок: <em>I promise I...</em>';
+  if(ok){
+    document.getElementById('path4')?.classList.add('done');
+    document.getElementById('path5')?.classList.add('active');
+  }
+});
+document.getElementById('showProduce')?.addEventListener('click',()=>{
+  const fb=document.getElementById('produceFeedback');
+  fb.classList.add('show');
+  fb.innerHTML='<strong>Модель:</strong> I promise I’ll help you. <span class="why">promise → will + help</span>';
+});
+
+/* ===== V2 ADAPTIVE MASTERY TRAINER ===== */
+const masteryQuestionBank = [
+ {q:'The train ___ at 8:12 tomorrow.', o:['is leaving','leaves','will leave','is going to leave'], a:1, skill:'schedule',
+  cue:'train + exact timetable time', rule:'Розклад / програма → Present Simple.', why:'Час задає не людина, а транспортний розклад.'},
+ {q:'The film ___ at 19:30, so let’s meet at 19:15.', o:['starts','is starting','will start','is going to start'], a:0, skill:'schedule',
+  cue:'cinema programme', rule:'Офіційна програма → Present Simple.', why:'Розклад кінотеатру функціонує як timetable.'},
+ {q:'We ___ Leo at the skate park at 5. It’s all arranged.', o:['meet','are meeting','will meet','are going to meet'], a:1, skill:'arrangement',
+  cue:'at 5 + all arranged', rule:'Конкретна домовленість → Present Continuous.', why:'Є організована особиста подія.'},
+ {q:'My dentist appointment is fixed. I ___ her on Friday.', o:['see','am seeing','will see','am going to see'], a:1, skill:'arrangement',
+  cue:'appointment is fixed', rule:'Appointment / arrangement → Present Continuous.', why:'Запис до лікаря вже організований.'},
+ {q:'Nazar has decided to learn guitar, but he hasn’t booked a teacher yet. He ___ lessons next month.', o:['will start','starts','is going to start','is starting'], a:2, skill:'intention',
+  cue:'has decided', rule:'Попередній намір → be going to.', why:'Рішення існувало до моменту говоріння.'},
+ {q:'I’ve saved enough money. I ___ a new bike.', o:['buy','am buying','will buy','am going to buy'], a:3, skill:'intention',
+  cue:'saved enough money', rule:'План / намір із підготовкою → be going to.', why:'Є підготовка, тому це не спонтанне рішення.'},
+ {q:'Look at that ball! It ___ the window!', o:['will hit','hits','is going to hit','is hitting'], a:2, skill:'evidence',
+  cue:'Look at ...!', rule:'Прогноз за видимими фактами → be going to.', why:'Ми бачимо причину прогнозу просто зараз.'},
+ {q:'The sky is almost black. It ___ soon.', o:['rains','is raining','will rain','is going to rain'], a:3, skill:'evidence',
+  cue:'sky is almost black', rule:'Evidence now → be going to.', why:'Прогноз ґрунтується на видимій ситуації.'},
+ {q:'“I can’t carry this.” — “I ___ you.”', o:['help','am helping','am going to help','will help'], a:3, skill:'decision',
+  cue:'reaction in dialogue', rule:'Рішення / пропозиція в момент мовлення → will.', why:'Рішення виникло як реакція на слова співрозмовника.'},
+ {q:'I forgot to message Dad. I ___ him now.', o:['message','am messaging','am going to message','will message'], a:3, skill:'decision',
+  cue:'I forgot ... now', rule:'Спонтанне рішення → will.', why:'Мовець вирішує прямо зараз.'},
+ {q:'I promise I ___ your secret.', o:["won't tell","don't tell","am not telling","am not going to tell"], a:0, skill:'promise',
+  cue:'I promise', rule:'Обіцянка → will / won’t.', why:'Promise — типовий сигнал функції will.'},
+ {q:'Don’t worry. I ___ everything before Friday, I promise.', o:['finish','am finishing','will finish','am going to finish'], a:2, skill:'promise',
+  cue:'I promise', rule:'Обіцянка → will.', why:'Форма підкреслює обіцянку мовця.'},
+ {q:'I think our class ___ the competition.', o:['wins','is winning','is going to win','will win'], a:3, skill:'belief',
+  cue:'I think', rule:'Прогноз на основі думки → will.', why:'Це belief, а не видимий доказ.'},
+ {q:'I’m sure you ___ this level.', o:['pass','are passing','will pass','are going to pass'], a:2, skill:'belief',
+  cue:'I’m sure', rule:'Особисте переконання → will.', why:'I’m sure показує ставлення мовця.'},
+ {q:'School ___ until 9 tomorrow because of the meeting.', o:["doesn't start","isn't starting","won't start","isn't going to start"], a:0, skill:'schedule',
+  cue:'school timetable', rule:'Зміна в офіційному розкладі теж може йти в Present Simple.', why:'У шкільній вправі school start time трактують як schedule.'},
+ {q:'We ___ dinner with the Parkers at 7. The table is booked.', o:['have','are having','will have','are going to have'], a:1, skill:'arrangement',
+  cue:'at 7 + table is booked', rule:'Організована домовленість → Present Continuous.', why:'Бронювання — сильний доказ arrangement.'}
+];
+
+let masteryQuestions = [...masteryQuestionBank];
+
+const skillNames = {
+  schedule:'Розклад',
+  arrangement:'Домовленість',
+  intention:'Намір',
+  evidence:'Видимі факти',
+  decision:'Рішення зараз',
+  promise:'Обіцянка',
+  belief:'Особиста думка'
+};
+const skillOrder = Object.keys(skillNames);
+
+let mIndex=0, mScore=0, mLocked=false, confidence=0;
+let stats={};
+skillOrder.forEach(k=>stats[k]={ok:0,total:0});
+
+const $=id=>document.getElementById(id);
+const mQuestion=$('mQuestion'), mOptions=$('mOptions'), mFeedback=$('mFeedback'),
+      mNext=$('mNext'), mCounter=$('mCounter'), mProgress=$('mProgress'),
+      mScoreEl=$('mScore'), skillRows=$('skillRows');
+
+function pct(k){
+  const s=stats[k]; return s.total ? Math.round(100*s.ok/s.total) : 0;
+}
+function renderSkills(){
+  skillRows.innerHTML='';
+  skillOrder.forEach(k=>{
+    const p=pct(k), s=stats[k];
+    const cls=s.total===0?'':p>=80?'high':p>=60?'mid':'low';
+    const row=document.createElement('div');
+    row.className='skill-row '+cls;
+    row.innerHTML=`<span>${skillNames[k]}</span><span class="skillbar"><i style="width:${s.total?Math.max(12,p):0}%"></i></span><b>${s.total?p+'%':'—'}</b>`;
+    skillRows.appendChild(row);
+  });
+}
+function renderMastery(){
+  mLocked=false; confidence=0; mNext.disabled=true;
+  document.querySelectorAll('#confidence button').forEach(b=>b.classList.remove('active'));
+  mFeedback.className='feedback-rich'; mFeedback.innerHTML='';
+  const x=masteryQuestions[mIndex];
+  $('mType').textContent=`${skillNames[x.skill]} → choose the form`;
+  mQuestion.textContent=x.q;
+  mCounter.textContent=`${mIndex+1} / ${masteryQuestions.length}`;
+  mOptions.innerHTML='';
+  x.o.forEach((t,i)=>{
+    const b=document.createElement('button');
+    b.className='opt'; b.textContent=String.fromCharCode(65+i)+'. '+t;
+    b.onclick=()=>answerMastery(i,b); mOptions.appendChild(b);
+  });
+  mProgress.style.width=(100*mIndex/masteryQuestions.length)+'%';
+  mScoreEl.textContent=`${mScore} правильних із ${mIndex}`;
+  renderSkills();
+}
+function answerMastery(i,b){
+  if(mLocked)return; mLocked=true;
+  const x=masteryQuestions[mIndex], ok=i===x.a;
+  stats[x.skill].total++; if(ok){stats[x.skill].ok++;mScore++}
+  [...mOptions.children].forEach((el,k)=>{
+    if(k===x.a)el.classList.add('good');
+    if(k===i && k!==x.a)el.classList.add('bad');
+    el.disabled=true;
+  });
+  const overconf = !ok && confidence===3;
+  const unsureRight = ok && confidence===1;
+  mFeedback.className='feedback-rich show';
+  mFeedback.innerHTML=`
+    <div class="${ok?'correct':'wrong'}">${ok?'Правильно ✓':'Не зовсім ✗'}</div>
+    <div class="rule">${x.rule}</div>
+    <p>${x.why}</p>
+    <div class="reason-tags"><span>Сигнал: ${x.cue}</span><span>Навичка: ${skillNames[x.skill]}</span></div>
+    ${overconf?'<p class="trap"><strong>Важливий сигнал:</strong> ти був дуже впевнений, але помилився. Саме такі помилки варто розібрати першими.</p>':''}
+    ${unsureRight?'<p class="goodnote note"><strong>Цікаво:</strong> відповідь правильна, але впевненість низька. Знання вже є — треба довести його до автоматизму.</p>':''}
+  `;
+  mNext.disabled=false;
+  mProgress.style.width=(100*(mIndex+1)/masteryQuestions.length)+'%';
+  mScoreEl.textContent=`${mScore} правильних із ${mIndex+1}`;
+  renderSkills();
+  saveMastery();
+}
+function saveMastery(){
+  localStorage.setItem('futureFormsMasteryV2',JSON.stringify({mIndex,mScore,stats}));
+}
+function finishMastery(){
+  mQuestion.textContent=`Результат: ${mScore} / ${masteryQuestions.length}`;
+  mOptions.innerHTML='';
+  $('confidence').style.display='none';
+  $('mHint').style.display='none';
+  mNext.disabled=true;
+  mProgress.style.width='100%';
+  const d=$('diagnosis'); d.style.display='grid'; d.innerHTML='';
+
+  const sorted=skillOrder
+    .map(k=>({k,p:pct(k),n:stats[k].total}))
+    .filter(x=>x.n>0)
+    .sort((a,b)=>a.p-b.p);
+
+  const weak=sorted.filter(x=>x.p<80);
+  const strong=sorted.filter(x=>x.p>=80);
+
+  const overall=Math.round(100*mScore/masteryQuestions.length);
+  const cards=[
+    {title:'Загальний рівень', body:`<strong style="font-size:24px">${overall}%</strong><br>${overall>=80?'База вже тримається. Тепер потрібна стабільність.':'Потрібно точково підремонтувати кілька смислів.'}`},
+    {title:'Найсильніше', body: strong.length ? strong.slice(-3).map(x=>`${skillNames[x.k]} — ${x.p}%`).join('<br>') : 'Поки збираємо дані.'},
+    {title:'Що повторити', body: weak.length ? weak.slice(0,3).map(x=>`${skillNames[x.k]} — ${x.p}%`).join('<br>') : 'Немає категорій нижче 80% 🎉'}
+  ];
+  cards.forEach(c=>{
+    const el=document.createElement('div');el.className='diag-card';
+    el.innerHTML=`<strong>${c.title}</strong>${c.body}`;d.appendChild(el);
+  });
+
+  if(weak.length){
+    buildSprint(weak.map(x=>x.k));
+  }else{
+    const s=$('sprint');
+    s.style.display='block';
+    s.innerHTML='<h3>Усі перевірені категорії тримаються на 80% або вище ✓</h3><p>Точковий спринт не потрібен. Для закріплення переходь до Transfer Test або повтори змішані вправи пізніше.</p>';
+  }
+}
+function buildSprint(weakSkills){
+  const s=$('sprint'); s.style.display='block';
+  const bank=masteryQuestionBank.filter(q=>weakSkills.includes(q.skill));
+  const chosen=[...bank].sort(()=>Math.random()-.5).slice(0,5);
+  s.innerHTML=`<h3>Точковий спринт: 5 задач</h3>
+    <p>Згенеровано з категорій, де було найбільше помилок. Натисни «Почати спринт» — тренажер перезапуститься лише на цих типах.</p>
+    <button class="btn primary" id="startSprint">Почати спринт</button>`;
+  $('startSprint').onclick=()=>{
+    if(!chosen.length)return;
+    masteryQuestions=[...chosen];
+    mIndex=0;mScore=0;stats={};skillOrder.forEach(k=>stats[k]={ok:0,total:0});
+    dResetUi(); renderMastery();
+    document.getElementById('mastery').scrollIntoView({behavior:'smooth'});
+  };
+}
+function dResetUi(){
+  $('diagnosis').style.display='none'; $('diagnosis').innerHTML='';
+  $('sprint').style.display='none'; $('sprint').innerHTML='';
+  $('confidence').style.display='flex'; $('mHint').style.display='inline-flex';
+}
+mNext.onclick=()=>{if(mIndex<masteryQuestions.length-1){mIndex++;renderMastery()}else finishMastery()};
+$('mReset').onclick=()=>{
+  masteryQuestions=[...masteryQuestionBank];
+  mIndex=0;mScore=0;stats={};skillOrder.forEach(k=>stats[k]={ok:0,total:0});
+  localStorage.removeItem('futureFormsMasteryV2');dResetUi();renderMastery();
+};
+$('mHint').onclick=()=>{
+  const x=masteryQuestions[mIndex];
+  mFeedback.className='feedback-rich show';
+  mFeedback.innerHTML=`<strong>Підказка без відповіді:</strong> спочатку назви смисл. Тут шукай сигнал <strong>${x.cue}</strong>.`;
+};
+document.querySelectorAll('#confidence button').forEach(b=>{
+  b.onclick=()=>{
+    confidence=Number(b.dataset.v);
+    document.querySelectorAll('#confidence button').forEach(x=>x.classList.remove('active'));
+    b.classList.add('active');
+  };
+});
+
+renderSkills(); renderMastery();
+
+/* ===== V3 ADAPTIVE LESSON ENGINE ===== */
+const A_SKILLS = ['schedule','arrangement','intention','evidence','decision','promise','belief'];
+const A_LABELS = {
+  schedule:'Розклад', arrangement:'Домовленість', intention:'Намір',
+  evidence:'Прогноз за фактами', decision:'Рішення зараз',
+  promise:'Обіцянка', belief:'Особиста думка', form:'Побудова форми'
+};
+const A_RULE = {
+  schedule:'system time → Present Simple',
+  arrangement:'fixed personal arrangement → Present Continuous',
+  intention:'prior plan / intention → be going to',
+  evidence:'visible evidence → be going to',
+  decision:'decision now → will',
+  promise:'promise → will / won’t',
+  belief:'I think / I’m sure → will'
+};
+const diagnoseBank = [
+ {id:'d1',skill:'schedule',q:'The museum ___ at 10 tomorrow.',o:['opens','is opening','will open','is going to open'],a:0,err:'schedule-vs-arrangement'},
+ {id:'d2',skill:'arrangement',q:'We ___ Anna at 6. She has already booked the table.',o:['meet','are meeting','will meet','are going to meet'],a:1,err:'arrangement-vs-intention'},
+ {id:'d3',skill:'intention',q:'I’ve decided to start running. I ___ three times a week.',o:['run','am running','will run','am going to run'],a:3,err:'intention-vs-decision'},
+ {id:'d4',skill:'evidence',q:'Careful! That glass ___!',o:['falls','is falling','will fall','is going to fall'],a:3,err:'evidence-vs-belief'},
+ {id:'d5',skill:'decision',q:'“There’s no milk.” — “OK, I ___ some.”',o:['buy','am buying','will buy','am going to buy'],a:2,err:'decision-vs-intention'},
+ {id:'d6',skill:'promise',q:'I promise I ___ late again.',o:["won't be","am not","am not going to be","don't be"],a:0,err:'promise-form'},
+ {id:'d7',skill:'belief',q:'I think Maya ___ the test.',o:['passes','is passing','will pass','is going to pass'],a:2,err:'belief-vs-evidence'}
+];
+
+const adaptiveState = {
+  phase:'diagnose', index:0, answers:[], profile:{}, focus:null, guidedIndex:0,
+  productionErrors:[], questionBuilderDone:false
+};
+A_SKILLS.forEach(k=>adaptiveState.profile[k]={ok:0,total:0});
+
+function setRoute(phase){
+  const ids=['diagnose','teach','guided','independent','check'];
+  ids.forEach(id=>{
+    const el=document.getElementById('rn-'+id); if(!el)return;
+    el.classList.remove('active','done','locked');
+    const p=ids.indexOf(id), c=ids.indexOf(phase);
+    if(p<c) el.classList.add('done');
+    else if(p===c) el.classList.add('active');
+    else el.classList.add('locked');
+  });
+}
+function renderAdaptive(){
+  const host=document.getElementById('adaptiveStage');
+  if(!host)return;
+  if(adaptiveState.phase==='pretest-direct'){
+    ['diagnose','teach','guided','independent','check'].forEach(id=>{
+      const el=document.getElementById('rn-'+id); if(el){el.classList.remove('active','locked');el.classList.add('done')}
+    });
+    const formWeak=(adaptiveState.pretestWeak||[]).includes('form');
+    host.innerHTML=formWeak
+      ? `<div class="eyebrow">Маршрут pre-test</div><h3>Смисли тримаються, але треба допрацювати форму питання.</h3><p>Перейди одразу до Form Lab, а потім до Transfer Test.</p><a class="btn primary" href="#formlab">Перейти до Form Lab</a>`
+      : `<div class="eyebrow">Маршрут завершено</div><h3>Базова діагностика без помилок ✓</h3><p>Не потрібно проходити зайві мініуроки. Переходь до нових контекстів.</p><a class="btn primary" href="#transfer">Перейти до Transfer Test</a>`;
+    return;
+  }
+  setRoute(adaptiveState.phase);
+  if(adaptiveState.phase==='diagnose') renderDiagnose(host);
+  else if(adaptiveState.phase==='teach') renderTeach(host);
+  else if(adaptiveState.phase==='guided') renderGuided(host);
+  else if(adaptiveState.phase==='independent') renderIndependent(host);
+  else renderCheck(host);
+}
+function optionButtons(q, handler){
+  return `<div class="choice-grid">${q.o.map((x,i)=>`<button class="choice-btn" onclick="${handler}(${i})">${String.fromCharCode(65+i)}. ${x}</button>`).join('')}</div>`;
+}
+function renderDiagnose(host){
+  const q=diagnoseBank[adaptiveState.index];
+  host.innerHTML=`
+    <div class="eyebrow">Діагностика ${adaptiveState.index+1} / ${diagnoseBank.length}</div>
+    <h3>${q.q}</h3>
+    <p class="why">Без підказок. Тут ми визначаємо не оцінку, а слабке місце.</p>
+    ${optionButtons(q,'answerDiagnose')}
+    <div id="aDiagFb" class="feedback-rich"></div>
+  `;
+}
+window.answerDiagnose=function(i){
+  const q=diagnoseBank[adaptiveState.index], ok=i===q.a;
+  adaptiveState.profile[q.skill].total++;
+  if(ok) adaptiveState.profile[q.skill].ok++;
+  adaptiveState.answers.push({skill:q.skill,ok,err:q.err});
+  document.querySelectorAll('#adaptiveStage .choice-btn').forEach((b,k)=>{
+    b.disabled=true; if(k===q.a)b.classList.add('ok'); if(k===i&&k!==q.a)b.classList.add('no');
+  });
+  const fb=document.getElementById('aDiagFb'); fb.classList.add('show');
+  fb.innerHTML=ok
+    ? `<strong class="correct">✓</strong> Добре.`
+    : `<strong class="wrong">✗</strong> Зафіксовано тип помилки: <span class="error-chip">${q.err}</span>`;
+  setTimeout(()=>{
+    if(adaptiveState.index<diagnoseBank.length-1){
+      adaptiveState.index++; renderAdaptive();
+    } else {
+      chooseFocus(); adaptiveState.phase=adaptiveState.focus?'teach':'pretest-direct'; renderAdaptive();
+    }
+  },650);
+}
+function chooseFocus(){
+  const wrong=adaptiveState.answers.filter(x=>!x.ok);
+  adaptiveState.focus = wrong.length ? wrong[0].skill : null;
+}
+function focusExamples(skill){
+  const data={
+    schedule:{
+      title:'Розклад ≠ особиста домовленість',
+      explain:'Якщо час задає система — поїзд, урок, музей, матч, програма — мислимо Present Simple.',
+      good:['The bus leaves at 7:20.','The lesson starts at 9.'],
+      trap:'We are meeting at 7:20 — це вже людська домовленість.'
+    },
+    arrangement:{
+      title:'Домовленість ≠ просто намір',
+      explain:'Present Continuous означає, що подія вже організована: час/місце/інша людина/бронювання.',
+      good:['I’m seeing the dentist at 4.','We’re having dinner with Max tonight.'],
+      trap:'I’m going to see the dentist — звучить як план, але не обов’язково запис.'
+    },
+    intention:{
+      title:'Попередній план ≠ рішення зараз',
+      explain:'be going to показує намір, який існував до моменту мовлення.',
+      good:['I’m going to learn Spanish.','She’s going to save for a bike.'],
+      trap:'I’ll do it! — рішення з’явилося просто зараз.'
+    },
+    evidence:{
+      title:'Видимі факти ≠ думка',
+      explain:'Коли бачиш причину прогнозу зараз, використовуй be going to.',
+      good:['Look at those clouds! It’s going to rain.','He’s going to fall!'],
+      trap:'I think it will rain — тут джерело прогнозу не факт перед очима, а думка.'
+    },
+    decision:{
+      title:'Рішення прямо зараз',
+      explain:'will часто народжується у діалозі як реакція: “OK, I’ll…”, “I’ll help.”',
+      good:['I’ll answer the door.','I’ll get some milk.'],
+      trap:'I’m going to buy milk — це звучить як уже існуючий план.'
+    },
+    promise:{
+      title:'Обіцянка → will',
+      explain:'Promise / I promise / Don’t worry часто запускають will або won’t.',
+      good:['I promise I’ll call.','I won’t tell anyone.'],
+      trap:'Після will завжди V1: will call, won’t tell, не will to call.'
+    },
+    belief:{
+      title:'I think / I’m sure → will',
+      explain:'Коли прогноз — це переконання мовця, типова форма will.',
+      good:['I think they’ll win.','I’m sure you’ll like it.'],
+      trap:'Look at the score! They’re going to win — тут уже є видимий доказ.'
+    }
+  };
+  return data[skill];
+}
+function renderTeach(host){
+  const f=focusExamples(adaptiveState.focus);
+  host.innerHTML=`
+    <div class="eyebrow">Персональний мініурок</div>
+    <h3>${f.title}</h3>
+    <p>${f.explain}</p>
+    <div class="lesson-grid">
+      <div class="mini-scenario"><div class="label">Правильні моделі</div>${f.good.map(x=>`<p><strong>${x}</strong></p>`).join('')}</div>
+      <div class="mini-scenario"><div class="label">Контраст</div><p>${f.trap}</p></div>
+    </div>
+    <p style="margin-top:14px"><span class="skill-chip">${A_RULE[adaptiveState.focus]}</span></p>
+    <button class="btn primary" onclick="startGuided()">Зрозуміло → спробувати з підказками</button>
+  `;
+}
+window.startGuided=function(){adaptiveState.phase='guided';adaptiveState.guidedIndex=0;renderAdaptive()}
+
+function guidedBankFor(skill){
+  const banks={
+    schedule:[
+      {q:'The school concert ___ at 6:00.',o:['starts','is starting','will start'],a:0,h:'Час задає програма школи.'},
+      {q:'Our bus ___ at 7:45.',o:['leaves','is leaving','will leave'],a:0,h:'Автобусний розклад = system time.'}
+    ],
+    arrangement:[
+      {q:'We ___ Kate at 5. It’s arranged.',o:['meet','are meeting','will meet'],a:1,h:'Є домовленість і час.'},
+      {q:'I ___ my coach tomorrow at 4. It’s already arranged.',o:['see','am seeing','will see'],a:1,h:'Є конкретна домовленість і час.'}
+    ],
+    intention:[
+      {q:'I’ve decided. I ___ coding this summer.',o:['learn','will learn','am going to learn'],a:2,h:'Рішення існує до моменту говоріння.'},
+      {q:'She has saved money. She ___ a tablet.',o:['buys','will buy','is going to buy'],a:2,h:'Є підготовка до плану.'}
+    ],
+    evidence:[
+      {q:'Look at the sky! It ___ rain.',o:['will','is going to','does'],a:1,h:'Прогноз за тим, що видно зараз.'},
+      {q:'Watch out! You ___ drop it.',o:['will','are going to','drop'],a:1,h:'Є видимий ризик прямо зараз.'}
+    ],
+    decision:[
+      {q:'“I’m tired.” — “I ___ you some tea.”',o:['make','am making','will make'],a:2,h:'Реакція на репліку = рішення зараз.'},
+      {q:'The phone is ringing. I ___ it.',o:['answer','will answer','am going to answer'],a:1,h:'Спонтанна реакція.'}
+    ],
+    promise:[
+      {q:'I promise I ___ forget.',o:["won't","don't","am not going to"],a:0,h:'Promise → will / won’t.'},
+      {q:'Don’t worry. I ___ help you.',o:['will','am going to','help'],a:0,h:'Обіцянка / запевнення.'}
+    ],
+    belief:[
+      {q:'I think you ___ enjoy it.',o:['are going to','will','enjoy'],a:1,h:'I think → prediction based on belief.'},
+      {q:'I’m sure they ___ win.',o:['will','are going to','win'],a:0,h:'I’m sure = переконання.'}
+    ]
+  };
+  return banks[skill];
+}
+function renderGuided(host){
+  const bank=guidedBankFor(adaptiveState.focus), q=bank[adaptiveState.guidedIndex];
+  host.innerHTML=`
+    <div class="eyebrow">З підказками ${adaptiveState.guidedIndex+1} / ${bank.length}</div>
+    <h3>${q.q}</h3>
+    <div class="tip-note"><strong>Підказка:</strong> ${q.h}</div>
+    <div style="margin-top:12px">${optionButtons(q,'answerGuided')}</div>
+    <div id="guidedFb" class="feedback-rich"></div>
+  `;
+}
+window.answerGuided=function(i){
+  const bank=guidedBankFor(adaptiveState.focus), q=bank[adaptiveState.guidedIndex];
+  const ok=i===q.a;
+  document.querySelectorAll('#adaptiveStage .choice-btn').forEach((b,k)=>{
+    b.disabled=true;if(k===q.a)b.classList.add('ok');if(k===i&&k!==q.a)b.classList.add('no');
+  });
+  const fb=document.getElementById('guidedFb');fb.classList.add('show');
+  fb.innerHTML=ok?'<strong class="correct">✓</strong> Ти використав правильний смисловий сигнал.'
+                 :`<strong class="wrong">✗</strong> Повернись до правила: <strong>${A_RULE[adaptiveState.focus]}</strong>.`;
+  setTimeout(()=>{
+    if(adaptiveState.guidedIndex<bank.length-1){adaptiveState.guidedIndex++;renderAdaptive()}
+    else {adaptiveState.phase='independent';renderAdaptive()}
+  },800);
+}
+
+function renderIndependent(host){
+  const templates={
+    schedule:{instruction:'Склади питання з цих слів:',tokens:['Does','the','train','leave','at','8:30','?'],answer:'Does the train leave at 8:30?'},
+    arrangement:{instruction:'Склади питання з цих слів:',tokens:['Are','you','meeting','your','friend','tonight','?'],answer:'Are you meeting your friend tonight?'},
+    intention:{instruction:'Склади питання з цих слів:',tokens:['Are','you','going','to','study','tonight','?'],answer:'Are you going to study tonight?'},
+    evidence:{instruction:'Склади речення з цих слів:',tokens:['It','is','going','to','rain','.'],answer:'It is going to rain.'},
+    decision:{instruction:'Склади відповідь з цих слів:',tokens:['I','will','help','you','.'],answer:'I will help you.'},
+    promise:{instruction:'Склади обіцянку з цих слів:',tokens:['I','promise','I','will','call','.'],answer:'I promise I will call.'},
+    belief:{instruction:'Склади прогноз з цих слів:',tokens:['I','think','they','will','win','.'],answer:'I think they will win.'}
+  };
+  const t=templates[adaptiveState.focus];
+  window._qb={tokens:t.tokens.slice(),picked:[],answer:t.answer};
+  host.innerHTML=`
+    <div class="eyebrow">Самостійно</div>
+    <h3>${t.instruction}</h3>
+    <div class="question-builder">
+      <div id="answerStrip" class="answer-strip"></div>
+      <div id="tokenBank" class="token-bank"></div>
+      <div style="display:flex;gap:8px;margin-top:12px">
+        <button class="btn" onclick="qbClear()">Очистити</button>
+        <button class="btn primary" onclick="qbCheck()">Перевірити</button>
+      </div>
+      <div id="qbFb" class="feedback-rich"></div>
+    </div>
+  `;
+  qbRender();
+}
+window.qbRender=function(){
+  const bank=document.getElementById('tokenBank'), strip=document.getElementById('answerStrip');
+  if(!bank||!strip)return;
+  strip.innerHTML=window._qb.picked.map((x,i)=>`<button class="token" onclick="qbReturn(${i})">${x}</button>`).join('');
+  bank.innerHTML=window._qb.tokens.map((x,i)=>x===null?'':`<button class="token" onclick="qbPick(${i})">${x}</button>`).join('');
+}
+window.qbPick=function(i){window._qb.picked.push(window._qb.tokens[i]);window._qb.tokens[i]=null;qbRender()}
+window.qbReturn=function(i){
+  const x=window._qb.picked.splice(i,1)[0];
+  const hole=window._qb.tokens.findIndex(v=>v===null);
+  if(hole>=0)window._qb.tokens[hole]=x;else window._qb.tokens.push(x);
+  qbRender();
+}
+window.qbClear=function(){
+  const all=window._qb.picked.concat(window._qb.tokens.filter(x=>x!==null));
+  window._qb.tokens=all;window._qb.picked=[];qbRender();
+}
+function normalizeSentence(s){return s.replace(/\s+([?.!,])/g,'$1').replace(/\s+/g,' ').trim().toLowerCase()}
+window.qbCheck=function(){
+  const mine=normalizeSentence(window._qb.picked.join(' '));
+  const ans=normalizeSentence(window._qb.answer);
+  const fb=document.getElementById('qbFb');fb.classList.add('show');
+  if(mine===ans){
+    fb.innerHTML='<strong class="correct">✓ Самостійна побудова правильна.</strong> Тепер фінальна перевірка без опори.';
+    adaptiveState.questionBuilderDone=true;
+    setTimeout(()=>{adaptiveState.phase='check';renderAdaptive()},900);
+  }else{
+    adaptiveState.productionErrors.push('word-order/form');
+    fb.innerHTML=`<strong class="wrong">Поки ні.</strong> Перевір порядок допоміжного дієслова, підмета й основного дієслова.`;
+  }
+}
+
+function renderCheck(host){
+  const f=adaptiveState.focus;
+  const finalQ={
+    schedule:{q:'The match ___ at 4:00 according to the programme.',o:['starts','is starting','will start'],a:0},
+    arrangement:{q:'We ___ Tom after school. It’s already arranged.',o:['meet','are meeting','will meet'],a:1},
+    intention:{q:'I’ve made a plan. I ___ more English this month.',o:['study','will study','am going to study'],a:2},
+    evidence:{q:'Look at her face! She ___ sneeze.',o:['will','is going to','does'],a:1},
+    decision:{q:'“Who can help?” — “I ___!”',o:['do','am going to','will'],a:2},
+    promise:{q:'I promise I ___ you down.',o:["won't let","don't let","am not letting"],a:0},
+    belief:{q:'I’m sure your team ___ well.',o:['does','will do','is going to do'],a:1}
+  }[f];
+  window._finalAdaptive=finalQ;
+  host.innerHTML=`
+    <div class="eyebrow">Фінальна перевірка теми</div>
+    <h3>${finalQ.q}</h3>
+    <p class="why">Без підказки. Якщо відповідь правильна — маршрут на цю проблему закрито.</p>
+    ${optionButtons(finalQ,'answerFinalAdaptive')}
+    <div id="finalAFb" class="feedback-rich"></div>
+  `;
+}
+window.answerFinalAdaptive=function(i){
+  const q=window._finalAdaptive, ok=i===q.a;
+  document.querySelectorAll('#adaptiveStage .choice-btn').forEach((b,k)=>{
+    b.disabled=true;if(k===q.a)b.classList.add('ok');if(k===i&&k!==q.a)b.classList.add('no');
+  });
+  const fb=document.getElementById('finalAFb');fb.classList.add('show');
+  if(ok){
+    adaptiveState.answers.forEach(x=>{if(x.skill===adaptiveState.focus)x.ok=true});
+    fb.innerHTML=`<strong class="correct">✓ Цю тему опрацьовано.</strong>
+      <p>Ти пройшов повний цикл: <strong>помилка → пояснення → практика з підказками → самостійна побудова → контроль</strong>.</p>
+      <button class="btn primary" onclick="restartAdaptiveWeakest()">Знайти наступну слабку тему</button>`;
+  }else{
+    adaptiveState.productionErrors.push('failed-mastery-check');
+    fb.innerHTML=`<strong class="wrong">Ще нестабільно.</strong>
+      <p>Повертаємося не до всього уроку, а лише до мініпояснення цієї теми.</p>
+      <button class="btn" onclick="repeatAdaptiveTeach()">Повторити мініурок</button>`;
+  }
+ 
+}
+window.repeatAdaptiveTeach=function(){adaptiveState.phase='teach';renderAdaptive()}
+window.restartAdaptiveWeakest=function(){
+  const remaining=adaptiveState.answers.filter(x=>!x.ok && x.skill!==adaptiveState.focus);
+  if(remaining.length){adaptiveState.focus=remaining[0].skill;adaptiveState.phase='teach';renderAdaptive()}
+  else {
+    const formWeak=(adaptiveState.pretestWeak||[]).includes('form');
+    document.getElementById('adaptiveStage').innerHTML=formWeak
+      ? `<div class="eyebrow">Маршрут завершено</div><h3>Смислові слабкі місця опрацьовано ✓</h3><p>У pre-test ще була помилка в побудові форми. Тепер переходь до Form Lab.</p><a class="btn primary" href="#formlab">Перейти до Form Lab</a>`
+      : `<div class="eyebrow">Маршрут завершено</div><h3>Основні виявлені слабкі місця опрацьовано 🎉</h3><p>Тепер переходь до Mastery Trainer: він перевіряє навичку на нових прикладах.</p><a class="btn primary" href="#mastery">Перейти до Mastery Trainer</a>`;
+    ['diagnose','teach','guided','independent','check'].forEach(id=>{
+      const el=document.getElementById('rn-'+id); if(el){el.classList.remove('active','locked');el.classList.add('done')}
+    });
+  }
+ 
+}
+
+/* =========================================================
+   V4 — STORY LAB
+   ========================================================= */
+const storyMissions = [
+  {
+    title:'Science Fair',
+    context:'School programme: “Science Fair — 10:00”. Your team has agreed to meet at the entrance at 9:30.',
+    q:'Which pair is best?',
+    options:[
+      'The fair is starting at 10. We meet at 9:30.',
+      'The fair starts at 10. We are meeting at 9:30.',
+      'The fair will start at 10. We are going to meet at 9:30.'
+    ],
+    a:1,
+    explain:'Official programme → Present Simple. Personal fixed arrangement → Present Continuous.'
+  },
+  {
+    title:'Weekend shopping',
+    context:'You have planned for weeks to buy new headphones. Your friend says: “The shop closes in 20 minutes!”',
+    q:'Complete the reply: “I ___ the headphones anyway. OK, I ___ there now.”',
+    options:[
+      'will buy / am going to go',
+      'am going to buy / will go',
+      'am buying / go'
+    ],
+    a:1,
+    explain:'Existing intention → am going to buy. Decision made now as a reaction → will go.'
+  },
+  {
+    title:'Weather & football',
+    context:'In the morning you said, “I think the weather will be fine.” After school you see black clouds and trees bending in the wind.',
+    q:'What is the most natural update?',
+    options:[
+      'I think it is going to rain.',
+      'Look at those clouds! It is going to rain.',
+      'Look at those clouds! It will rain because I think so.'
+    ],
+    a:1,
+    explain:'Visible present evidence → be going to. The evidence, not your opinion, is now driving the prediction.'
+  }
+];
+let storyIndex=0;
+function renderStory(){
+  const h=document.getElementById('storyMission'); if(!h)return;
+  const x=storyMissions[storyIndex];
+  h.innerHTML=`<div class="eyebrow">Story Lab ${storyIndex+1} / ${storyMissions.length}</div>
+    <h3>${x.title}</h3>
+    <div class="dialogue"><div class="bubble">${x.context}</div></div>
+    <p><strong>${x.q}</strong></p>
+    <div class="choice-grid">${x.options.map((o,i)=>`<button class="choice-btn" onclick="answerStory(${i})">${String.fromCharCode(65+i)}. ${o}</button>`).join('')}</div>
+    <div id="storyFb" class="feedback-rich"></div>`;
+}
+window.answerStory=function(i){
+  const x=storyMissions[storyIndex],ok=i===x.a;
+  document.querySelectorAll('#storyMission .choice-btn').forEach((b,k)=>{
+    b.disabled=true;if(k===x.a)b.classList.add('ok');if(k===i&&k!==x.a)b.classList.add('no');
+  });
+  const fb=document.getElementById('storyFb');fb.classList.add('show');
+  fb.innerHTML=`<strong class="${ok?'correct':'wrong'}">${ok?'✓ Правильно':'✗ Розбери джерело майбутнього'}</strong><p>${x.explain}</p>`;
+  if(storyIndex<storyMissions.length-1){
+    fb.innerHTML+=`<button class="btn primary" onclick="nextStory()">Наступна місія →</button>`;
+  }else{
+    fb.innerHTML+=`<span class="mastery-badge">Story Lab complete ✓</span>`;
+  }
+}
+window.nextStory=function(){storyIndex++;renderStory()}
+renderStory();
+
+/* =========================================================
+   V4 — FORM LAB
+   ========================================================= */
+const formModes = {
+  will:{
+    title:'will + V1',
+    statement:'You will help me.',
+    negative:'You will not (won’t) help me.',
+    question:'Will you help me?',
+    task:'Перетвори “She will call us.”',
+    negAnswer:"She won't call us.",
+    qAnswer:'Will she call us?'
+  },
+  going:{
+    title:'am / is / are going to + V1',
+    statement:'They are going to study.',
+    negative:'They are not going to study.',
+    question:'Are they going to study?',
+    task:'Перетвори “Max is going to buy a bike.”',
+    negAnswer:"Max isn't going to buy a bike.",
+    qAnswer:'Is Max going to buy a bike?'
+  },
+  continuous:{
+    title:'am / is / are + V-ing',
+    statement:'We are meeting at six.',
+    negative:'We are not meeting at six.',
+    question:'Are we meeting at six?',
+    task:'Перетвори “Lina is seeing her coach tomorrow.”',
+    negAnswer:"Lina isn't seeing her coach tomorrow.",
+    qAnswer:'Is Lina seeing her coach tomorrow?'
+  },
+  simple:{
+    title:'Present Simple',
+    statement:'The bus leaves at eight.',
+    negative:"The bus doesn't leave at eight.",
+    question:'Does the bus leave at eight?',
+    task:'Перетвори “The lesson starts at nine.”',
+    negAnswer:"The lesson doesn't start at nine.",
+    qAnswer:'Does the lesson start at nine?'
+  }
+};
+let formMode='will';
+
+function renderFormLab(){
+  const d=formModes[formMode],h=document.getElementById('formLabBody');if(!h)return;
+  h.innerHTML=`
+    <h3>${d.title}</h3>
+    <div class="transform-grid">
+      <div class="transform-card"><strong>Твердження</strong><p>${d.statement}</p></div>
+      <div class="transform-card"><strong>Заперечення</strong><p>${d.negative}</p></div>
+      <div class="transform-card"><strong>Питання</strong><p>${d.question}</p></div>
+      <div class="transform-card"><strong>Ключ</strong><p>${formMode==='simple'?'do/does + V1':'допоміжне дієслово виходить перед підметом'}</p></div>
+    </div>
+    <div class="checkpoint">
+      <strong>${d.task}</strong>
+      <label class="field-label" for="formNeg">Заперечення</label><input id="formNeg" class="mini-input" placeholder="Наприклад: I won't help.">
+      <label class="field-label" for="formQ">Питання</label><input id="formQ" class="mini-input" placeholder="Наприклад: Will you help?">
+      <button class="btn primary" style="margin-top:10px" onclick="checkFormLab()">Перевірити</button>
+      <div id="formLabFb" class="feedback-rich"></div>
+    </div>`;
+}
+document.querySelectorAll('#formModeSwitch button').forEach(b=>{
+  b.addEventListener('click',()=>{
+    formMode=b.dataset.mode;
+    document.querySelectorAll('#formModeSwitch button').forEach(x=>x.classList.remove('active'));
+    b.classList.add('active');renderFormLab();
+  });
+});
+function normV4(s){return (s||'').toLowerCase().replace(/[’]/g,"'").replace(/[?.!]/g,'').replace(/\s+/g,' ').trim()}
+function canonicalV4(s){
+  return normV4(s)
+    .replace(/\bwon't\b/g,'will not')
+    .replace(/\bisn't\b/g,'is not')
+    .replace(/\baren't\b/g,'are not')
+    .replace(/\bdoesn't\b/g,'does not')
+    .replace(/\bdon't\b/g,'do not')
+    .replace(/\bi'm not\b/g,'i am not');
+}
+window.checkFormLab=function(){
+  const d=formModes[formMode],n=canonicalV4(document.getElementById('formNeg').value),q=canonicalV4(document.getElementById('formQ').value);
+  const okN=n===canonicalV4(d.negAnswer),okQ=q===canonicalV4(d.qAnswer);
+  const fb=document.getElementById('formLabFb');fb.classList.add('show');
+  fb.innerHTML=`<p>${okN?'✅':'❌'} <strong>Заперечення:</strong> ${okN?'правильно':d.negAnswer}</p>
+    <p>${okQ?'✅':'❌'} <strong>Питання:</strong> ${okQ?'правильно':d.qAnswer}</p>
+    ${okN&&okQ?'<span class="mastery-badge">Форма засвоєна ✓</span>':'<p class="why">Перевір допоміжне дієслово та форму основного дієслова.</p>'}`;
+}
+renderFormLab();
+
+/* =========================================================
+   V4 — TRANSFER TEST
+   ========================================================= */
+const transferBank = [
+  {
+    skill:'schedule',
+    situation:'You are reading a festival website. It says: “Gates 16:00 • First band 17:30.”',
+    q:'The first band ___ at 5:30.',
+    o:['is playing','plays','will play','is going to play'],a:1,
+    h1:'Хто “встановив” цей час — люди в особистій домовленості чи програма події?',
+    h2:'Це timetable/programme. Залиш Present Simple і відкинь три інші.',
+    why:'Programme/schedule → Present Simple.'
+  },
+  {
+    skill:'arrangement',
+    situation:'You and Mia exchanged messages yesterday. You agreed on the café and the exact time: Saturday, 14:00.',
+    q:'I ___ Mia on Saturday at two.',
+    o:['meet','am meeting','will meet','am going to meet'],a:1,
+    h1:'Чи є вже конкретна домовленість із іншою людиною?',
+    h2:'Так: fixed personal arrangement → Present Continuous.',
+    why:'Concrete arrangement → Present Continuous.'
+  },
+  {
+    skill:'decision',
+    situation:'You are doing homework. Your little brother suddenly says, “I don’t understand this maths problem.”',
+    q:'You reply: “I ___ you.”',
+    o:['help','am helping','am going to help','will help'],a:3,
+    h1:'Чи існував цей план раніше, чи рішення народилося в цю секунду?',
+    h2:'Reaction now → will.',
+    why:'Spontaneous decision / offer → will.'
+  },
+  {
+    skill:'evidence',
+    situation:'A skateboard is rolling quickly toward the edge of a staircase. You can see what is about to happen.',
+    q:'It ___ down the stairs!',
+    o:['falls','is falling','will fall','is going to fall'],a:3,
+    h1:'Прогноз іде “з голови” чи з того, що ти бачиш?',
+    h2:'Visible present evidence → be going to.',
+    why:'Present evidence → be going to.'
+  },
+  {
+    skill:'belief',
+    situation:'Nothing special is happening right now. Your friend asks who you think will be the best player next season.',
+    q:'“I think Arsen ___ the best player.”',
+    o:['is','is being','will be','is going to be'],a:2,
+    h1:'Тут є видимий доказ перед очима?',
+    h2:'Ні. Це personal belief → will.',
+    why:'Opinion/belief → will.'
+  },
+  {
+    skill:'intention',
+    situation:'For the last month, Sofia has been saving money and comparing laptops online.',
+    q:'She ___ a new laptop soon.',
+    o:['buys','is buying','will buy','is going to buy'],a:3,
+    h1:'Є ознаки, що це план, який існує вже деякий час?',
+    h2:'Prior intention/preparation → be going to.',
+    why:'Prior intention with preparation → be going to.'
+  },
+  {
+    skill:'promise',
+    situation:'You accidentally deleted part of your team’s project. Everyone looks worried.',
+    q:'You say: “I promise I ___ it tonight.”',
+    o:['fix','am fixing','will fix','am going to fix'],a:2,
+    h1:'Яку функцію виконує речення — прогноз, план чи обіцянку?',
+    h2:'Promise → will.',
+    why:'Promise → will.'
+  },
+  {
+    skill:'contrast',
+    situation:'The train timetable says 18:05. You and Oleh have arranged to meet on platform 2 at 17:50.',
+    q:'Choose the best sentence.',
+    o:[
+      'The train is leaving at 18:05 and we meet at 17:50.',
+      'The train leaves at 18:05 and we are meeting at 17:50.',
+      'The train will leave at 18:05 and we are going to meet at 17:50.'
+    ],a:1,
+    h1:'У ситуації є ДВА різні джерела майбутнього.',
+    h2:'Timetable → Present Simple; personal arrangement → Present Continuous.',
+    why:'Two future meanings can coexist in one situation.'
+  },
+  {
+    skill:'form',
+    situation:'You want to ask about your friend’s prior plan for the weekend.',
+    q:'Which question is correct?',
+    o:[
+      'Will you going to study this weekend?',
+      'Are you going to study this weekend?',
+      'Do you going to study this weekend?',
+      'Are you study this weekend?'
+    ],a:1,
+    h1:'У going to вже є допоміжне be.',
+    h2:'Move are before the subject: Are you going to + V1?',
+    why:'Question with going to: am/is/are + subject + going to + V1.'
+  },
+  {
+    skill:'form',
+    situation:'The bus has an official departure time. You want to ask about it.',
+    q:'Which question is correct?',
+    o:[
+      'Does the bus leave at 8?',
+      'Is the bus leave at 8?',
+      'Will the bus leaves at 8?',
+      'Does the bus leaves at 8?'
+    ],a:0,
+    h1:'Schedule uses Present Simple. What auxiliary builds a Present Simple question?',
+    h2:'Does + subject + V1.',
+    why:'Present Simple question: Does + subject + base verb.'
+  }
+];
+
+let transferIndex=0, transferScore=0, transferLocked=false;
+let transferStats={meaning:{ok:0,total:0},form:{ok:0,total:0},contrast:{ok:0,total:0},hints:0};
+let transferHintSeen={h1:false,h2:false};
+
+function renderTransfer(){
+  const x=transferBank[transferIndex];
+  document.getElementById('transferCounter').textContent=`Transfer ${transferIndex+1} / ${transferBank.length}`;
+  document.getElementById('transferSituation').textContent=x.situation;
+  document.getElementById('transferQuestion').textContent=x.q;
+  const opts=document.getElementById('transferOptions');opts.innerHTML='';
+  x.o.forEach((t,i)=>{
+    const b=document.createElement('button');b.className='opt';b.textContent=String.fromCharCode(65+i)+'. '+t;
+    b.onclick=()=>answerTransfer(i,b);opts.appendChild(b);
+  });
+  document.getElementById('transferH1').classList.remove('show');
+  document.getElementById('transferH2').classList.remove('show');
+  document.getElementById('transferH1').textContent=x.h1;
+  document.getElementById('transferH2').textContent=x.h2;
+  const fb=document.getElementById('transferFeedback');fb.className='feedback-rich';fb.innerHTML='';
+  document.getElementById('transferNext').disabled=true;
+  transferLocked=false;
+  transferHintSeen={h1:false,h2:false};
+}
+function bucketFor(x){
+  if(x.skill==='form')return 'form';
+  if(x.skill==='contrast')return 'contrast';
+  return 'meaning';
+}
+function answerTransfer(i,b){
+  if(transferLocked)return;transferLocked=true;
+  const x=transferBank[transferIndex],ok=i===x.a,bucket=bucketFor(x);
+  transferStats[bucket].total++;if(ok){transferStats[bucket].ok++;transferScore++}
+  [...document.getElementById('transferOptions').children].forEach((el,k)=>{
+    el.disabled=true;if(k===x.a)el.classList.add('good');if(k===i&&k!==x.a)el.classList.add('bad');
+  });
+  const fb=document.getElementById('transferFeedback');fb.className='feedback-rich show';
+  fb.innerHTML=`<strong class="${ok?'correct':'wrong'}">${ok?'✓ Правильно в новому контексті':'✗ Тут правило ще не перенеслося'}</strong>
+    <p>${x.why}</p>
+    ${ok?'<span class="mastery-badge">новий контекст ✓</span>':'<span class="needs-work-badge">потрібен ще один приклад</span>'}`;
+  document.getElementById('transferNext').disabled=false;
+}
+document.getElementById('transferHint1')?.addEventListener('click',()=>{
+  document.getElementById('transferH1').classList.add('show');
+  if(!transferHintSeen.h1){transferStats.hints++;transferHintSeen.h1=true}
+});
+document.getElementById('transferHint2')?.addEventListener('click',()=>{
+  document.getElementById('transferH1').classList.add('show');
+  document.getElementById('transferH2').classList.add('show');
+  if(!transferHintSeen.h1){transferStats.hints++;transferHintSeen.h1=true}
+  if(!transferHintSeen.h2){transferStats.hints++;transferHintSeen.h2=true}
+});
+document.getElementById('transferNext')?.addEventListener('click',()=>{
+  if(transferIndex<transferBank.length-1){transferIndex++;renderTransfer()}
+  else finishTransfer();
+});
+function percentPart(s){return s.total?Math.round(100*s.ok/s.total):0}
+function finishTransfer(){
+  document.querySelector('#transfer .transfer-card').style.display='none';
+  const r=document.getElementById('transferResult');r.style.display='block';
+  const overall=Math.round(100*transferScore/transferBank.length);
+  const meaning=percentPart(transferStats.meaning),form=percentPart(transferStats.form),contrast=percentPart(transferStats.contrast);
+  r.innerHTML=`<div class="transfer-card">
+    <div class="eyebrow">Результат Transfer Test</div>
+    <h3 style="font-size:26px">${overall>=80?'Знання переноситься на нові ситуації ✓':'Ще є залежність від знайомих шаблонів'}</h3>
+    <div class="transfer-report">
+      <div class="transfer-stat"><b>${overall}%</b>загалом</div>
+      <div class="transfer-stat"><b>${meaning}%</b>розпізнавання смислу</div>
+      <div class="transfer-stat"><b>${form}%</b>побудова форми</div>
+      <div class="transfer-stat"><b>${contrast}%</b>контрасти</div>
+      <div class="transfer-stat"><b>${transferStats.hints}</b>підказок</div>
+    </div>
+    <p class="why">Пороги нижче — внутрішній орієнтир цього тренажера, а не шкільна оцінка.</p>
+    <div class="rubric">
+      <div class="rubric-cell"><strong>90–100%</strong>Можна переходити до вільного продукування.</div>
+      <div class="rubric-cell"><strong>80–89%</strong>Тема в цілому засвоєна; добити 1 слабку категорію.</div>
+      <div class="rubric-cell"><strong>60–79%</strong>Є знання правил, але перенос нестабільний.</div>
+      <div class="rubric-cell"><strong>&lt;60%</strong>Повернутися до контрастів між значеннями, а не просто робити більше тестів.</div>
+    </div>
+    <p style="margin-top:14px"><button class="btn primary" onclick="restartTransfer()">Пройти ще раз</button></p>
+  </div>`;
+}
+window.restartTransfer=function(){
+  transferIndex=0;transferScore=0;transferLocked=false;
+  transferStats={meaning:{ok:0,total:0},form:{ok:0,total:0},contrast:{ok:0,total:0},hints:0};
+  transferHintSeen={h1:false,h2:false};
+  document.querySelector('#transfer .transfer-card').style.display='block';
+  document.getElementById('transferResult').style.display='none';renderTransfer();}
+
+renderTransfer();
+
+/* =========================================================
+   V5 — SESSION / PROFILE ENGINE
+   ========================================================= */
+const V5_PROFILE_KEY='futureFormsV5Profiles';
+let v5CurrentStudent=null;
+
+function v5Profiles(){
+  try{return JSON.parse(localStorage.getItem(V5_PROFILE_KEY)||'{}')}catch(e){return {}}
+}
+function v5SaveProfiles(p){localStorage.setItem(V5_PROFILE_KEY,JSON.stringify(p))}
+function v5Now(){return new Date().toLocaleString()}
+function v5EnsureProfile(name){
+  const p=v5Profiles();
+  if(!p[name]) p[name]={
+    name,created:v5Now(),updated:v5Now(),
+    pretest:null,exit:null,transfer:null,
+    weakSkills:[],spacedQueue:[],history:[]
+  };
+  p[name].updated=v5Now();v5SaveProfiles(p);return p[name];
+}
+function v5GetCurrent(){
+  if(!v5CurrentStudent)return null;
+  return v5Profiles()[v5CurrentStudent]||null;
+}
+function v5UpdateCurrent(mutator){
+  if(!v5CurrentStudent)return;
+  const p=v5Profiles(),pr=p[v5CurrentStudent]||v5EnsureProfile(v5CurrentStudent);
+  mutator(pr);pr.updated=v5Now();p[v5CurrentStudent]=pr;v5SaveProfiles(p);
+}
+
+const pretestBank=[
+ {skill:'schedule',q:'The library ___ at 9 tomorrow.',o:['opens','is opening','will open','is going to open'],a:0},
+ {skill:'arrangement',q:'We ___ our tutor at 4. It’s fixed.',o:['meet','are meeting','will meet','are going to meet'],a:1},
+ {skill:'intention',q:'I’ve decided. I ___ more this term.',o:['study','am studying','will study','am going to study'],a:3},
+ {skill:'evidence',q:'Look at that shelf! It ___!',o:['falls','is falling','will fall','is going to fall'],a:3},
+ {skill:'decision',q:'“I can’t open this.” — “I ___ you.”',o:['help','am helping','will help','am going to help'],a:2},
+ {skill:'promise',q:'I promise I ___ anyone.',o:["won't tell","don't tell","am not telling","am not going to tell"],a:0},
+ {skill:'belief',q:'I think our team ___.',o:['wins','is winning','will win','is going to win'],a:2},
+ {skill:'form',q:'Choose the correct question.',o:['Does the bus leaves at 8?','Does the bus leave at 8?','Is the bus leave at 8?','Will the bus leaves at 8?'],a:1}
+];
+let preIndex=0,preScore=0,preAnswers=[];
+
+function v5StartStudent(){
+  const inp=document.getElementById('studentName');
+  const name=(inp.value||'').trim();
+  if(!name){inp.focus();return}
+  v5CurrentStudent=name;
+  const pr=v5EnsureProfile(name);
+  document.getElementById('sessionStudentLabel').textContent='Учень: '+name;
+  document.getElementById('sessionStatus').textContent=pr.pretest?'Профіль знайдено. Можна повторити pre-test або продовжити урок.':'Новий профіль створено.';
+  if(pr.pretest){
+    document.getElementById('sessionScoreBadge').textContent='pre-test: '+pr.pretest.score+'%';
+    showRouteDecision(pr.pretest);
+    applyPretestRoute(pr.pretest);
+    document.getElementById('pretestHost').innerHTML=`
+      <strong>Pre-test уже є: ${pr.pretest.score}%</strong>
+      <p class="why">Можеш використати наявний маршрут або перепройти діагностику.</p>
+      <button class="btn primary" onclick="beginPretest()">Перепройти pre-test</button>`;
+    renderSpacedQueue();
+  }else beginPretest();
+}
+document.getElementById('startStudentSession')?.addEventListener('click',v5StartStudent);
+
+window.beginPretest=function(){
+  preIndex=0;preScore=0;preAnswers=[];
+  document.getElementById('phasePre').className='phase-pill active';
+  renderPretest();
+}
+function renderPretest(){
+  const h=document.getElementById('pretestHost'),x=pretestBank[preIndex];
+  h.innerHTML=`<div class="eyebrow">Pre-test ${preIndex+1} / ${pretestBank.length}</div>
+    <h3>${x.q}</h3>
+    <p class="why">Без підказок і без пояснення до кінця pre-test.</p>
+    <div class="choice-grid">${x.o.map((o,i)=>`<button class="choice-btn" onclick="answerPretest(${i})">${String.fromCharCode(65+i)}. ${o}</button>`).join('')}</div>`;
+}
+window.answerPretest=function(i){
+  const x=pretestBank[preIndex],ok=i===x.a;
+  if(ok)preScore++;
+  preAnswers.push({skill:x.skill,ok});
+  if(preIndex<pretestBank.length-1){preIndex++;renderPretest()}else finishPretest();
+}
+function finishPretest(){
+  const score=Math.round(100*preScore/pretestBank.length);
+  const weak=[...new Set(preAnswers.filter(x=>!x.ok).map(x=>x.skill))];
+  const result={score,weak,answers:preAnswers,time:v5Now()};
+  v5UpdateCurrent(pr=>{
+    pr.pretest=result;
+    pr.weakSkills=weak;
+    pr.history.push({type:'pretest',score,time:v5Now()});
+    pr.spacedQueue=weak.map(skill=>({skill,done:false}));
+  });
+  document.getElementById('sessionScoreBadge').textContent='pre-test: '+score+'%';
+  document.getElementById('phasePre').className='phase-pill done';
+  document.getElementById('phaseLearn').className='phase-pill active';
+  document.getElementById('pretestHost').innerHTML=`<h3>Pre-test завершено: ${score}%</h3>
+    <p>${weak.length?'Слабкі категорії: '+weak.map(k=>A_LABELS[k]||k).join(', '):'Усі базові категорії розпізнані правильно.'}</p>
+    <a class="btn primary" href="#adaptive">Перейти до персонального навчання</a>`;
+  showRouteDecision(result);applyPretestRoute(result);renderSpacedQueue();}
+function applyPretestRoute(result){
+  adaptiveState.index=0;
+  adaptiveState.guidedIndex=0;
+  adaptiveState.productionErrors=[];
+  adaptiveState.questionBuilderDone=false;
+  adaptiveState.pretestWeak=result.weak.slice();
+  adaptiveState.answers=result.weak.filter(k=>A_SKILLS.includes(k)).map(skill=>({skill,ok:false,err:'pretest'}));
+  const meaningWeak=result.weak.filter(k=>A_SKILLS.includes(k));
+  adaptiveState.focus=meaningWeak[0]||null;
+  adaptiveState.phase=adaptiveState.focus?'teach':'pretest-direct';
+  renderAdaptive();
+}
+
+function showRouteDecision(result){
+  const box=document.getElementById('routeDecision');
+  const s=result.score;
+  let cls='route-reco',title='',body='';
+  if(s>=88){
+    title='Швидкий маршрут';
+    body='База вже сильна. Пройди лише слабкі категорії → Form Lab → Transfer Test → фінальна перевірка.';
+  }else if(s>=63){
+    cls+=' warn';title='Точковий маршрут';
+    body='Не повторюй всю тему. Пройди мініуроки лише на помилки pre-test, потім повернися до слабких тем.';
+  }else{
+    cls+=' danger';title='Базовий маршрут';
+    body='Спочатку повтори смисли й контрасти, потім пройди вправи з підказками і самостійну перевірку.';
+  }
+  box.innerHTML=`<div class="${cls}"><strong>${title}</strong><p>${body}</p>
+    <p class="why">Повторити: ${result.weak.length?result.weak.map(k=>A_LABELS[k]||k).join(' • '):'нічого — pre-test без помилок'}</p><p class="why">Це рекомендація всередині тренажера, не шкільна оцінка.</p></div>`;
+}
+
+/* =========================================================
+   V5 — SPACED RETRIEVAL
+   ========================================================= */
+const spacedBank={
+  schedule:{q:'The exhibition ___ at 11 according to the programme.',o:['opens','is opening','will open'],a:0},
+  arrangement:{q:'I ___ Danylo at 5. We agreed yesterday.',o:['meet','am meeting','will meet'],a:1},
+  intention:{q:'She has a plan. She ___ a coding course.',o:['takes','will take','is going to take'],a:2},
+  evidence:{q:'Look at the cup! It ___ off the table.',o:['will fall','is going to fall','falls'],a:1},
+  decision:{q:'“We need one more chair.” — “I ___ one.”',o:['get','am going to get','will get'],a:2},
+  promise:{q:'I promise I ___ on time.',o:['will be','am going to be','am'],a:0},
+  belief:{q:'I’m sure they ___ it.',o:['like','will like','are liking'],a:1},
+  form:{q:'Correct question:',o:['Are you going to come?','Do you going to come?','Will you going to come?'],a:0}
+};
+let spacedActiveSkill=null;
+
+function renderSpacedQueue(){
+  const q=document.getElementById('spacedQueue');if(!q)return;
+  const pr=v5GetCurrent();
+  if(!pr||!pr.spacedQueue?.length){
+    q.innerHTML='<div class="spaced-item"><span class="when">Черга порожня</span><span>Немає запланованих повторів.</span><span>—</span></div>';return;
+  }
+  q.innerHTML=pr.spacedQueue.map((x,i)=>`<div class="spaced-item ${x.done?'done':''}">
+    <span class="when">${x.done?'готово':'повторити'}</span>
+    <span>${A_LABELS[x.skill]||x.skill}</span>
+    <button class="btn" ${x.done?'disabled':''} onclick="startSpaced('${x.skill}',${i})">${x.done?'✓':'Повторити зараз'}</button>
+  </div>`).join('');
+}
+window.startSpaced=function(skill,index){
+  spacedActiveSkill=skill;window._spacedIndex=index;
+  const x=spacedBank[skill],h=document.getElementById('spacedHost');h.style.display='block';
+  h.innerHTML=`<div class="eyebrow">Повторення • ${A_LABELS[skill]||skill}</div><h3>${x.q}</h3>
+    <div class="choice-grid">${x.o.map((o,i)=>`<button class="choice-btn" onclick="answerSpaced(${i})">${String.fromCharCode(65+i)}. ${o}</button>`).join('')}</div>
+    <div id="spacedFb" class="feedback-rich"></div>`;
+  h.scrollIntoView({behavior:'smooth',block:'center'});
+}
+window.answerSpaced=function(i){
+  const x=spacedBank[spacedActiveSkill],ok=i===x.a;
+  document.querySelectorAll('#spacedHost .choice-btn').forEach((b,k)=>{
+    b.disabled=true;if(k===x.a)b.classList.add('ok');if(k===i&&k!==x.a)b.classList.add('no');
+  });
+  const fb=document.getElementById('spacedFb');fb.classList.add('show');
+  fb.innerHTML=ok?'<strong class="correct">✓ Правильно.</strong>':'<strong class="wrong">✗ Повернися до короткого пояснення й спробуй цю тему ще раз пізніше.</strong>';
+  v5UpdateCurrent(pr=>{
+    const item=pr.spacedQueue[window._spacedIndex];
+    if(item){
+      if(ok)item.done=true;
+    }
+    pr.history.push({type:'spaced',skill:spacedActiveSkill,ok,time:v5Now()});
+  });
+  renderSpacedQueue();
+  const updated=v5GetCurrent();
+  document.getElementById('phaseReview').className=updated?.spacedQueue?.length && updated.spacedQueue.every(x=>x.done)?'phase-pill done':'phase-pill active';
+}
+
+/* =========================================================
+   V5 — EXIT TICKET
+   ========================================================= */
+const exitBank=[
+ {skill:'meaning',q:'Your cinema ticket says “Film 18:40”. Complete: The film ___ at 18:40.',o:['starts','is starting','will start'],a:0},
+ {skill:'contrast',q:'You arranged with Katia yesterday to study together at 6. Complete: We ___ together at 6.',o:['study','are studying','will study'],a:1},
+ {skill:'meaning',q:'You suddenly hear the doorbell. You say: “I ___ it.”',o:['answer','am going to answer','will answer'],a:2},
+ {skill:'form',q:'Choose the correct question about a plan.',o:['Are you going to visit them?','Do you going to visit them?','Will you going to visit them?'],a:0},
+ {skill:'explain',q:'Why is “Look at those clouds! It is going to rain” not normally “will rain” in this exercise?',o:['Because going to is always future','Because there is visible evidence now','Because rain is a schedule'],a:1}
+];
+let exitIndex=0,exitScore=0,exitAnswers=[];
+
+document.getElementById('startExit')?.addEventListener('click',()=>{
+  exitIndex=0;exitScore=0;exitAnswers=[];
+  document.getElementById('exitIntro').style.display='none';
+  document.getElementById('exitHost').style.display='block';
+  document.getElementById('exitResult').style.display='none';
+  renderExit();
+});
+function renderExit(){
+  const x=exitBank[exitIndex],h=document.getElementById('exitHost');
+  h.innerHTML=`<div class="exit-ticket"><div class="eyebrow">Фінал ${exitIndex+1} / ${exitBank.length}</div>
+    <h3>${x.q}</h3>
+    <div class="choice-grid">${x.o.map((o,i)=>`<button class="choice-btn" onclick="answerExit(${i})">${String.fromCharCode(65+i)}. ${o}</button>`).join('')}</div></div>`;
+}
+window.answerExit=function(i){
+  const x=exitBank[exitIndex],ok=i===x.a;if(ok)exitScore++;
+  exitAnswers.push({skill:x.skill,ok});
+  if(exitIndex<exitBank.length-1){exitIndex++;renderExit()}else finishExit();
+}
+function finishExit(){
+  const score=Math.round(100*exitScore/exitBank.length);
+  const weak=[...new Set(exitAnswers.filter(x=>!x.ok).map(x=>x.skill))];
+  v5UpdateCurrent(pr=>{
+    pr.exit={score,weak,answers:exitAnswers,time:v5Now()};
+    pr.history.push({type:'exit',score,time:v5Now()});
+  });
+  document.getElementById('phaseExit').className='phase-pill done';
+  document.getElementById('exitHost').style.display='none';
+  const r=document.getElementById('exitResult');r.style.display='block';
+  let decision='';
+  if(score>=80)decision='<span class="mastery-badge">Можна рухатися далі ✓</span><p>Тема достатньо стабільна для наступного уроку. Слабкі категорії варто ще раз повторити пізніше.</p>';
+  else decision='<span class="needs-work-badge">Потрібен ще один короткий цикл</span><p>Не повторюй весь урок. Повернися тільки до категорій, де були помилки у фінальній перевірці.</p>';
+  r.innerHTML=`<div class="exit-ticket"><h3>Фінальна перевірка: ${score}%</h3>${decision}
+    <p><strong>Помилки:</strong> ${weak.length?weak.join(', '):'немає'}</p></div>`;
+}
+
+/* =========================================================
+   V5 — hook Transfer result into profile
+   ========================================================= */
+const _finishTransferV5=finishTransfer;
+finishTransfer=function(){
+  _finishTransferV5();
+  if(v5CurrentStudent){
+    const attempted=transferStats.meaning.total+transferStats.form.total+transferStats.contrast.total;
+    const overall=attempted?Math.round(100*(transferStats.meaning.ok+transferStats.form.ok+transferStats.contrast.ok)/attempted):0;
+    v5UpdateCurrent(pr=>{
+      pr.transfer={
+        score:overall,
+        meaning:percentPart(transferStats.meaning),
+        form:percentPart(transferStats.form),
+        contrast:percentPart(transferStats.contrast),
+        hints:transferStats.hints,
+        time:v5Now()
+      };
+      pr.history.push({type:'transfer',score:overall,time:v5Now()});
+    });
+  }
+};
+
+
+</script>
+
+<script id="quest-v2-js">
+(()=>{
+ const deck=document.querySelector('.story-deck');
+ const stage=document.getElementById('questStage');
+ const sections=[...deck.children].filter(el=>el.tagName==='SECTION');
+ const titles=sections.map((s,i)=>{
+   const h=s.querySelector('h2'); return (h?.textContent||`Місія ${i+1}`).replace(/^\d+\.\s*/, '').trim();
+ });
+ const helps=[
+  'Побач чотири різні причини говорити про майбутнє. Не зубри назви — шукай смисл.',
+  'Відповідай на одне запитання за раз: хто або що вже визначило майбутнє?',
+  'Форма — це конструктор. Знайди допоміжне слово, а потім постав дієслово правильно.',
+  'Слова-сигнали лише підказують. Остаточну відповідь завжди дає ситуація.',
+  'Порівнюй дві форми поруч і назви одну смислову різницю.',
+  'Тут можна помилятися. Після вибору ти одразу побачиш просте пояснення.',
+  'Це бібліотека розборів. Відкривай лише ту вправу, яка зараз потрібна.',
+  'Чотири пари, які найчастіше плутаються. Читай їх як “намір проти домовленості”.',
+  'Це не оцінка. Коротка перевірка лише знайде, що тобі краще повторити.',
+  'Маршрут підбере наступний крок, але жодна місія не буде заблокована.',
+  'Повертайся до складного не одразу, а після інших завдань — так пам’ять міцнішає.',
+  'Граматика живе в історіях. Вибирай форму за тим, що відбувається з героями.',
+  'Українська й англійська по-різному уточнюють майбутнє. Це різниця мов, не твоя помилка.',
+  'Збери заперечення і питання як конструктор. Дивись на “двигун” речення.',
+  'Нові ситуації покажуть, чи ти справді переносиш правило, а не впізнаєш приклад.',
+  'Короткі раунди знайдуть слабку ланку. Підказка не карає — вона вчить.',
+  'Фінал без таймера. Нові контексти перевірять смисл, форму й пояснення.',
+  'Збережи чотири питання як пам’ятку перед наступною вправою.'
+ ];
+ sections.forEach((section,i)=>{
+   const h=section.querySelector('h2');
+   const intro=document.createElement('aside'); intro.className='scene-intro';
+   intro.innerHTML=`<div class="scene-number">Місія ${i+1} / 18</div><h2>${h?.innerHTML||titles[i]}</h2><p class="scene-help">${helps[i]}</p>`;
+   const body=document.createElement('div'); body.className='scene-body';
+   while(section.firstChild) body.appendChild(section.firstChild);
+   section.append(intro,body); section.classList.add('quest-scene'); section.hidden=true;
+   stage.appendChild(section);
+ });
+ const $=id=>document.getElementById(id), map=$('sceneMapDialog'), grid=$('sceneMapGrid');
+ let current=Math.max(0,Math.min(17,Number(localStorage.getItem('ff-v2-scene')||0)));
+ let touchX=0,touchY=0;
+ function show(n,{focus=true,toast=false}={}){
+   n=Math.max(0,Math.min(sections.length-1,n)); sections[current]?.setAttribute('hidden','');
+   current=n; const scene=sections[current]; scene.removeAttribute('hidden'); scene.querySelector('.scene-body').scrollTop=0;
+   $('sceneCounter').textContent=`Місія ${current+1} із ${sections.length}`; $('sceneTitle').textContent=titles[current];
+   $('sceneProgress').style.width=`${((current+1)/sections.length)*100}%`;
+   $('scenePrev').disabled=current===0; $('sceneNext').textContent=current===sections.length-1?'До карти ✓':'Далі →';
+   [...grid.children].forEach((b,i)=>b.setAttribute('aria-current',i===current?'true':'false'));
+   localStorage.setItem('ff-v2-scene',String(current)); history.replaceState(null,'',`#mission-${current+1}`);
+   if(focus){scene.setAttribute('tabindex','-1'); scene.focus({preventScroll:true})}
+   if(toast){$('resumeToast').classList.add('show');setTimeout(()=>$('resumeToast').classList.remove('show'),1600)}
+ }
+ function next(){if(current===sections.length-1){openMap();return}show(current+1)} function prev(){show(current-1)}
+ function openMap(){map.showModal();grid.children[current]?.focus()} function closeMap(){map.close();sections[current].focus()}
+ titles.forEach((t,i)=>{const b=document.createElement('button');b.type='button';b.innerHTML=`<b>${i+1} / 18</b>${t}`;b.onclick=()=>{map.close();show(i)};grid.appendChild(b)});
+ $('scenePrev').onclick=prev;$('sceneNext').onclick=next;$('sceneMap').onclick=openMap;$('sceneMapClose').onclick=closeMap;
+ addEventListener('keydown',e=>{if(map.open){if(e.key==='Escape')closeMap();return}if(e.key==='ArrowRight'||e.key==='PageDown')next();if(e.key==='ArrowLeft'||e.key==='PageUp')prev();if(e.key.toLowerCase()==='m')openMap()});
+ stage.addEventListener('touchstart',e=>{const t=e.changedTouches[0];touchX=t.clientX;touchY=t.clientY},{passive:true});
+ stage.addEventListener('touchend',e=>{const t=e.changedTouches[0],dx=t.clientX-touchX,dy=t.clientY-touchY;if(Math.abs(dx)>60&&Math.abs(dx)>Math.abs(dy)*1.4){dx<0?next():prev()}},{passive:true});
+ const hash=location.hash.match(/mission-(\d+)/); if(hash)current=Math.max(0,Math.min(17,Number(hash[1])-1));
+ show(current,{focus:false,toast:current>0});
+ document.addEventListener('click',e=>{const d=e.target.closest('details');if(d)setTimeout(()=>d.scrollIntoView({block:'nearest'}),0)});
+})();
+</script>
+</body>
+</html>
