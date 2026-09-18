@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="uk">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#10305b">
+  <meta name="description" content="Тренажер 42 звуків Jolly Phonics для учнів 6 класу.">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon-192.png" type="image/png">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <title>Jolly Phonics — 42 звуки | 6 клас</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="app">
+    <header class="topbar">
+      <a class="brand" href="../../" aria-label="До каталогу уроків"><span class="brand-mark">JP</span><span>Jolly Phonics</span><small>6 клас</small></a>
+      <button class="icon-button" id="settingsBtn" aria-label="Налаштування">⚙</button>
+    </header>
+
+    <main class="practice" aria-live="polite">
+      <div class="progress-row">
+        <span id="groupLabel">Група 1</span>
+        <strong id="counter">1 / 42</strong>
+        <span id="timer">00:00</span>
+      </div>
+      <div class="progress-track"><div id="progressBar"></div></div>
+
+      <section class="card" id="card" tabindex="0" aria-label="Навчальна картка">
+        <div class="sound-pane">
+          <span class="grapheme" id="grapheme">s</span>
+          <span class="ipa" id="ipa">/s/</span>
+        </div>
+        <img class="illustration" id="illustration" alt="">
+        <h1 class="word" id="word">sun</h1>
+        <button class="play-button" id="playBtn" aria-label="Прослухати вимову">
+          <span class="play-icon">▶</span>
+          <span><b>Слухати слово</b><small id="voiceLabel">Британська · жіночий</small></span>
+        </button>
+        <button class="original-link" id="originalBtn">Показати оригінальну картку</button>
+      </section>
+
+      <nav class="nav-row" aria-label="Перехід між картками">
+        <button class="nav-button secondary" id="prevBtn">← Назад</button>
+        <button class="nav-button primary" id="nextBtn">Далі →</button>
+      </nav>
+      <p class="hint">Гортай пальцем або використовуй стрілки клавіатури</p>
+    </main>
+  </div>
+
+  <dialog id="setupDialog" class="sheet setup-sheet">
+    <form method="dialog" id="setupForm">
+      <div class="welcome-mark">42</div>
+      <h2>Готові тренувати звуки?</h2>
+      <p>Введи ім’я — воно буде у звіті для вчителя.</p>
+      <label>Ім’я учня<input id="setupName" autocomplete="name" maxlength="60" required placeholder="Наприклад, Марко"></label>
+      <button class="wide-primary" value="start">Почати тренування</button>
+    </form>
+  </dialog>
+
+  <dialog id="settingsDialog" class="sheet">
+    <form method="dialog">
+      <div class="sheet-head"><h2>Налаштування</h2><button class="close-button" value="close" aria-label="Закрити">×</button></div>
+      <label>Ім’я учня<input id="studentName" maxlength="60"></label>
+      <fieldset><legend>Варіант англійської</legend><div class="segments" id="accentChoice"><button type="button" data-value="uk">🇬🇧 Британська</button><button type="button" data-value="us">🇺🇸 Американська</button></div></fieldset>
+      <fieldset><legend>Голос</legend><div class="segments" id="genderChoice"><button type="button" data-value="female">Жіночий</button><button type="button" data-value="male">Чоловічий</button></div></fieldset>
+      <label class="switch-row"><span><b>Автовідтворення</b><small>Промовляти після зміни картки</small></span><input id="autoplay" type="checkbox"></label>
+      <div class="voice-preview"><span id="settingsVoice">Британська · жіночий</span><button type="button" id="previewVoice">▶ Послухати</button></div>
+      <section class="offline-panel" aria-labelledby="offlineTitle">
+        <div><b id="offlineTitle">Офлайн-доступ</b><small id="offlineStatus">Перевіряємо кеш…</small></div>
+        <button type="button" id="offlineBtn">Зберегти офлайн</button>
+        <button type="button" id="installBtn" hidden>Встановити застосунок</button>
+      </section>
+      <hr>
+      <div class="stats-head"><div><h3>Мої проходження</h3><p id="statsSummary">Ще немає завершених кіл</p></div><button type="button" id="exportBtn">Завантажити звіт</button></div>
+      <div id="historyList" class="history-list"></div>
+    </form>
+  </dialog>
+
+  <dialog id="completeDialog" class="sheet complete-sheet">
+    <div class="celebrate">★</div><h2>Усі 42 картки!</h2><p id="completeText"></p>
+    <div class="result-grid"><div><b id="resultTime">—</b><span>час</span></div><div><b id="resultAvg">—</b><span>на картку</span></div><div><b id="resultCount">—</b><span>сьогодні</span></div></div>
+    <button class="wide-primary" id="againBtn">Пройти ще раз</button>
+    <button class="wide-secondary" id="completeExport">Завантажити звіт</button>
+  </dialog>
+
+  <dialog id="originalDialog" class="original-dialog"><button class="close-button floating" id="closeOriginal" aria-label="Закрити">×</button><img id="originalImage" alt="Оригінальна навчальна картка"></dialog>
+  <audio id="audio" preload="auto"></audio>
+  <script src="data/cards.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

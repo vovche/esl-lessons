@@ -1,0 +1,135 @@
+[
+  {
+    "voice": "uk-female",
+    "card": 18,
+    "grapheme": "b",
+    "ipa": "/b/",
+    "expected": [
+      "ball"
+    ],
+    "transcript": "pool",
+    "word_match": false,
+    "language_probability": 1,
+    "sha256": "93aecfb01490e3e1d01951218b4932fba19fcc93b10c35d1cfc19079e8751092",
+    "duration": 1.872,
+    "bit_rate": 48000,
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1,
+    "small_en_transcript": "Bool"
+  },
+  {
+    "voice": "uk-male",
+    "card": 18,
+    "grapheme": "b",
+    "ipa": "/b/",
+    "expected": [
+      "ball"
+    ],
+    "transcript": "Bull.",
+    "word_match": false,
+    "language_probability": 1,
+    "sha256": "95574b3afcf9dcc3a66006ad8a6aee389c0b64c3f9d39774baf9c5a644563baa",
+    "duration": 1.512,
+    "bit_rate": 48000,
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1,
+    "small_en_transcript": "Bo"
+  },
+  {
+    "voice": "us-female",
+    "card": 26,
+    "grapheme": "w",
+    "ipa": "/w/",
+    "expected": [
+      "watch"
+    ],
+    "transcript": "What?",
+    "word_match": false,
+    "language_probability": 1,
+    "sha256": "4afc8c1dbe1d3fa80a4e4b3243247f966e820410b49dd7d494d2bda2cdb45618",
+    "duration": 1.872,
+    "bit_rate": 48000,
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1,
+    "small_en_transcript": "What?"
+  },
+  {
+    "voice": "us-female",
+    "card": 35,
+    "grapheme": "th",
+    "ipa": "/θ/",
+    "expected": [
+      "thin"
+    ],
+    "transcript": "Finn.",
+    "word_match": false,
+    "language_probability": 1,
+    "sha256": "c303681554ab5a1871b5e5e2e8e2879148dc9d2afffe73aee44a7b31a79e5d92",
+    "duration": 1.872,
+    "bit_rate": 48000,
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1,
+    "small_en_transcript": "FEN"
+  },
+  {
+    "voice": "us-male",
+    "card": 28,
+    "grapheme": "v",
+    "ipa": "/v/",
+    "expected": [
+      "van"
+    ],
+    "transcript": "Then",
+    "word_match": false,
+    "language_probability": 1,
+    "sha256": "1af516f58a527a3bf94141d5864732dbc011146069d747aeb92a21fc45a534c2",
+    "duration": 1.752,
+    "bit_rate": 48000,
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1,
+    "small_en_transcript": "Van"
+  },
+  {
+    "voice": "us-male",
+    "card": 33,
+    "grapheme": "ch",
+    "ipa": "/tʃ/",
+    "expected": [
+      "chair"
+    ],
+    "transcript": "Share",
+    "word_match": false,
+    "language_probability": 1,
+    "sha256": "e2af068e7cc47fea4ed9bc7ea994328100455d45e51cdf1f5cf5b0b96fbf3a90",
+    "duration": 1.872,
+    "bit_rate": 48000,
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1,
+    "small_en_transcript": "Chair"
+  },
+  {
+    "voice": "us-male",
+    "card": 40,
+    "grapheme": "ue",
+    "ipa": "/uː/",
+    "expected": [
+      "glue"
+    ],
+    "transcript": "Blue",
+    "word_match": false,
+    "language_probability": 1,
+    "sha256": "4ceebae3ba953065ec942228faff30112d4fbd8f1f13ffd980520e5f6112aea0",
+    "duration": 1.872,
+    "bit_rate": 48000,
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1,
+    "small_en_transcript": "blue"
+  }
+]

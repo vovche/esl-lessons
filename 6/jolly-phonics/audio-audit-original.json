@@ -1,0 +1,3040 @@
+{
+  "summary": {
+    "model": "base.en",
+    "files": 168,
+    "matches": 145,
+    "mismatches": 23,
+    "min_duration": 1.872,
+    "max_duration": 3.936
+  },
+  "results": [
+    {
+      "voice": "uk-female",
+      "card": 1,
+      "grapheme": "s",
+      "ipa": "/s/",
+      "expected": [
+        "sun"
+      ],
+      "transcript": "S-S-S-S-S-Sun",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "068f3b6fa5e4fa60e167e73afee90929e8a8fa969767047a76f3516c58f9e1ea",
+      "duration": 2.568,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 2,
+      "grapheme": "a",
+      "ipa": "/æ/",
+      "expected": [
+        "apple"
+      ],
+      "transcript": "Aww, Apple.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "6236ab05cc622711a9656003f866c5c91389b6d02abf1f60d23a2b612a441c2f",
+      "duration": 1.896,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 3,
+      "grapheme": "t",
+      "ipa": "/t/",
+      "expected": [
+        "tennis"
+      ],
+      "transcript": "2. Tennis",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "ce0c4b82f8775ff2fbf1fabc7a7030bdb3c96178fd9a1e706974c9d9a23bcec5",
+      "duration": 2.04,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 4,
+      "grapheme": "i",
+      "ipa": "/ɪ/",
+      "expected": [
+        "ink"
+      ],
+      "transcript": "E, Inc.",
+      "word_match": false,
+      "language_probability": 1,
+      "sha256": "b0b6bc835d2ef8f26f8bde645500240f7e7c6108b665a0794a94b630c87dbf15",
+      "duration": 1.872,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 5,
+      "grapheme": "p",
+      "ipa": "/p/",
+      "expected": [
+        "pizza"
+      ],
+      "transcript": "P-U-H Pizza",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "c3e3893af54237841f47295e9430daf4ae3d9e2a336ecdb82ed577c521b41d5c",
+      "duration": 2.472,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 6,
+      "grapheme": "n",
+      "ipa": "/n/",
+      "expected": [
+        "night"
+      ],
+      "transcript": "NNN, Night",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "8c9cd89c3136ea4fec16769fd757e74f09fb7591f2dc7d926286db449262d2cf",
+      "duration": 2.28,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 7,
+      "grapheme": "c/k",
+      "ipa": "/k/",
+      "expected": [
+        "cat",
+        "kite"
+      ],
+      "transcript": "coup, cat, kite.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "7771f3b066f21378738255860eab9934ef67b23baf26a1572e1814a82eeb9b83",
+      "duration": 2.928,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 8,
+      "grapheme": "e",
+      "ipa": "/e/",
+      "expected": [
+        "egg"
+      ],
+      "transcript": "A.E.G.",
+      "word_match": false,
+      "language_probability": 1,
+      "sha256": "e429cf6253ea4cb08a0f75420998053e9741babb898f89a9add3e39631aefa2d",
+      "duration": 1.872,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 9,
+      "grapheme": "h",
+      "ipa": "/h/",
+      "expected": [
+        "hat"
+      ],
+      "transcript": "He. Hat.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "0295bdca87eabc124e599f5f0e2d032b56580118c5451f96cf3d8b70bbc0ac9c",
+      "duration": 1.872,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 10,
+      "grapheme": "r",
+      "ipa": "/r/",
+      "expected": [
+        "rocket"
+      ],
+      "transcript": "Aaaah! Rocket!",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "6a6ab441844173fa5dbacc8e3c20ac36004dd816f43207643a48c540d30c7e78",
+      "duration": 2.208,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 11,
+      "grapheme": "m",
+      "ipa": "/m/",
+      "expected": [
+        "music"
+      ],
+      "transcript": "Um, music.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "6684769483ee61f04dd95cc553a1862e3624ba0c9cc0f9f99d488fc2f7a97511",
+      "duration": 1.896,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 12,
+      "grapheme": "d",
+      "ipa": "/d/",
+      "expected": [
+        "drum"
+      ],
+      "transcript": "duh, drum",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "51469f01e7268a3799090f0ba79bc4688144751d72a96283a072c919a4783f54",
+      "duration": 1.872,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 13,
+      "grapheme": "g",
+      "ipa": "/g/",
+      "expected": [
+        "gift"
+      ],
+      "transcript": "Goo! Gift!",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "81c915bae0ae0fa97940405eee5c4a954b52ab433fa25500109db1c7c068ba8d",
+      "duration": 1.896,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 14,
+      "grapheme": "o",
+      "ipa": "/ɒ/",
+      "expected": [
+        "octopus"
+      ],
+      "transcript": "Oh, Octopus!",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "ae89805fd2423e78c02eaf83fceab29637734ca19f804b68bdb2a7782fb314c3",
+      "duration": 2.184,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 15,
+      "grapheme": "u",
+      "ipa": "/ʌ/",
+      "expected": [
+        "umbrella"
+      ],
+      "transcript": "Ah, Umbrella!",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "7229ab025e815d28dd92e395029f70c808fd92e81ab4b50d93d6138c91beee69",
+      "duration": 1.992,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 16,
+      "grapheme": "l",
+      "ipa": "/l/",
+      "expected": [
+        "leaf"
+      ],
+      "transcript": "L.L.A.L. Leaf",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "977c60f3956808687c6ef9100836d917ec2abd230b625640b492b17da1f6cda9",
+      "duration": 2.088,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 17,
+      "grapheme": "f",
+      "ipa": "/f/",
+      "expected": [
+        "fish"
+      ],
+      "transcript": "FFF, fish",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "33ee159395970b217e11f97063a3f1738fc683bdbd7fcc11aef7a20fcfcbcda3",
+      "duration": 2.256,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 18,
+      "grapheme": "b",
+      "ipa": "/b/",
+      "expected": [
+        "ball"
+      ],
+      "transcript": "Boom! Ball!",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "2bbc0e08020d8f5567dae5ea69299c933af8458075b6c17b5064ad69e94bb7ac",
+      "duration": 1.872,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 19,
+      "grapheme": "ai",
+      "ipa": "/eɪ/",
+      "expected": [
+        "rain"
+      ],
+      "transcript": "A RAIN",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "9dc8fb8c4763a1289fcf963b7a4fe88b6c4529d177a53e4a1c30d014d48d283a",
+      "duration": 1.872,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 20,
+      "grapheme": "j",
+      "ipa": "/dʒ/",
+      "expected": [
+        "juice"
+      ],
+      "transcript": "Chew, juice!",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "7c8c5aa1065eb41e91fe1f27d90477bf878b206f77f1eae7219e5c9a712aa11d",
+      "duration": 1.872,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 21,
+      "grapheme": "oa",
+      "ipa": "/əʊ/",
+      "expected": [
+        "boat"
+      ],
+      "transcript": "Oh, boat!",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "57e98b18eefdd2eb55fcabddc39b873dbc20f6d145d12b9121cdeac66b854daf",
+      "duration": 1.872,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 22,
+      "grapheme": "ie",
+      "ipa": "/aɪ/",
+      "expected": [
+        "pie"
+      ],
+      "transcript": "I. Pi.",
+      "word_match": false,
+      "language_probability": 1,
+      "sha256": "376a77e4473c5d57d0ae4ea01c006f5f52bcb5d241be405894492a3522cbe544",
+      "duration": 1.872,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 23,
+      "grapheme": "ee",
+      "ipa": "/iː/",
+      "expected": [
+        "bee"
+      ],
+      "transcript": "E-E-E-B.",
+      "word_match": false,
+      "language_probability": 1,
+      "sha256": "364a5e30be24cf88393fcc4de7f3ef91ef979e11a6f028016dcd3b9977556e35",
+      "duration": 1.968,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 24,
+      "grapheme": "or",
+      "ipa": "/ɔː/",
+      "expected": [
+        "fork"
+      ],
+      "transcript": "Ooh, fork!",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "36b6cfcd8743b2c6df2374ec75505f9f6f51dcc19eceeb3cac3d2d3d1a0122c9",
+      "duration": 1.896,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 25,
+      "grapheme": "z",
+      "ipa": "/z/",
+      "expected": [
+        "zebra"
+      ],
+      "transcript": "zzzzzzzzzzzzzzzzpra",
+      "word_match": false,
+      "language_probability": 1,
+      "sha256": "93f0dca528e0d0608c85e756c78276ce97a2dd258ad37e4ca642ae2e7576ae07",
+      "duration": 2.592,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 26,
+      "grapheme": "w",
+      "ipa": "/w/",
+      "expected": [
+        "watch"
+      ],
+      "transcript": "Woo! Watch!",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "c84d9a94bb9ebcf944e46f73b2b722785ab776884fcbef3fb782cd3494eb5b5c",
+      "duration": 1.896,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 27,
+      "grapheme": "ng",
+      "ipa": "/ŋ/",
+      "expected": [
+        "ring"
+      ],
+      "transcript": "In, ring.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "d387303ec765ed70641c3f0cf9d44796b2b738d26a8528d8417ad186a0e4c88d",
+      "duration": 1.872,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 28,
+      "grapheme": "v",
+      "ipa": "/v/",
+      "expected": [
+        "van"
+      ],
+      "transcript": "V, V, V, VAN",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "d2cc1a534dd0578ca04fa478dde086af294722a5c1e26f9ce58d8dbd3fcbd0c4",
+      "duration": 2.208,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 29,
+      "grapheme": "oo",
+      "ipa": "/uː/",
+      "expected": [
+        "moon"
+      ],
+      "transcript": "Oww, moon.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "7c30848713170f09727382c5c9572c53015945429eb7f89a46ef2ac7e4a148e1",
+      "duration": 1.872,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 30,
+      "grapheme": "oo",
+      "ipa": "/ʊ/",
+      "expected": [
+        "book"
+      ],
+      "transcript": "Ah, Book.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "251a8d5c4eac02205e4d896a3c4f573f125d45f29bd1caab0dd2b981065664d9",
+      "duration": 1.872,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 31,
+      "grapheme": "y",
+      "ipa": "/j/",
+      "expected": [
+        "yellow"
+      ],
+      "transcript": "Yeah, yellow",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "12877fb351fb14929b506ed2b2cc5ab7cc935226362fce99bd8d14108eb165f6",
+      "duration": 1.896,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 32,
+      "grapheme": "x",
+      "ipa": "/ks/",
+      "expected": [
+        "box"
+      ],
+      "transcript": "KSSS box",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "d688927a32db02cd0e298aee2c9abe5bb2cdb99f9600883ff3bfedcc4ebab992",
+      "duration": 2.664,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 33,
+      "grapheme": "ch",
+      "ipa": "/tʃ/",
+      "expected": [
+        "chair"
+      ],
+      "transcript": "CH. chair You",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "7db044fd35a6f043ae1833e3ac1b3afa4a4fe8723e2183632bb753ec14354b07",
+      "duration": 2.256,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 34,
+      "grapheme": "sh",
+      "ipa": "/ʃ/",
+      "expected": [
+        "shoe"
+      ],
+      "transcript": "shish shoe",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "d8bfb29cc1197c4dd1dddd84a2103f926c070cd4182bb3eef26d712038fec7c1",
+      "duration": 1.896,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 35,
+      "grapheme": "th",
+      "ipa": "/θ/",
+      "expected": [
+        "thin"
+      ],
+      "transcript": "H, thin.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "d00b2212e2b1260a823175a7850ac35502f30b5b875e01f553ce454c0f3a3744",
+      "duration": 1.944,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 36,
+      "grapheme": "th",
+      "ipa": "/ð/",
+      "expected": [
+        "this"
+      ],
+      "transcript": "TH this",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "e1752608914b6390ad01eb24cc5ea20111d997450684700dd18084bc5dcf5a5b",
+      "duration": 2.256,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 37,
+      "grapheme": "qu",
+      "ipa": "/kw/",
+      "expected": [
+        "queen"
+      ],
+      "transcript": "crew queen",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "edaacc326932fc6816de3dad1ca566d59babaa72d1a6ca0816b2904b19664d5c",
+      "duration": 1.944,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 38,
+      "grapheme": "ou",
+      "ipa": "/aʊ/",
+      "expected": [
+        "cloud"
+      ],
+      "transcript": "Oh! Cloud!",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "9e9cc00237977aeb14b3055249a9012fd1e2f99887cd29a22d49971e29191bbc",
+      "duration": 1.872,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 39,
+      "grapheme": "oi",
+      "ipa": "/ɔɪ/",
+      "expected": [
+        "coin"
+      ],
+      "transcript": "Oui Coin",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "f82358cb28a7251fc4c5c76a333754a460933ffb9690564e7740e6e4e81a9b48",
+      "duration": 1.968,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 40,
+      "grapheme": "ue",
+      "ipa": "/uː/",
+      "expected": [
+        "glue"
+      ],
+      "transcript": "Oh, glue!",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "1088bb1757e4c337a47f8983ce8ef8fccf4f546960633d271f98a0b1dd3821af",
+      "duration": 1.872,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 41,
+      "grapheme": "er",
+      "ipa": "/ɜː/",
+      "expected": [
+        "person"
+      ],
+      "transcript": "Aha! Person!",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "e7343c912d1372bdd936ab318f3a49321acb5c4a43ebe47b77f8620513aca49b",
+      "duration": 2.04,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-female",
+      "card": 42,
+      "grapheme": "ar",
+      "ipa": "/ɑː/",
+      "expected": [
+        "car"
+      ],
+      "transcript": "Ah, car.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "a1b2e6b307eabea1dde8d7083569c9d6ac8616d16bc50669af459e6f62db4d21",
+      "duration": 1.872,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 1,
+      "grapheme": "s",
+      "ipa": "/s/",
+      "expected": [
+        "sun"
+      ],
+      "transcript": "SSSS Sun",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "f56ebf69abed90210656705a75f595769cb158b515f932f83d44ba3ee81217c7",
+      "duration": 2.784,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 2,
+      "grapheme": "a",
+      "ipa": "/æ/",
+      "expected": [
+        "apple"
+      ],
+      "transcript": "Ah, Apple.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "6d1273ad6e33e28ad3c362d401ef56c34be2fb31fd5c6e4bf6d38c574bcd3ba0",
+      "duration": 2.28,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 3,
+      "grapheme": "t",
+      "ipa": "/t/",
+      "expected": [
+        "tennis"
+      ],
+      "transcript": "2. Tennis",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "49eba762337e977ab95dc52cebcb78c36f56300e09409e20d135de3d24054bc1",
+      "duration": 2.4,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 4,
+      "grapheme": "i",
+      "ipa": "/ɪ/",
+      "expected": [
+        "ink"
+      ],
+      "transcript": "E-Think",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "4dbadd3118e4e27e28875d27ef1404d96e617903c3f11866dcd7bb5a90a791bf",
+      "duration": 2.04,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 5,
+      "grapheme": "p",
+      "ipa": "/p/",
+      "expected": [
+        "pizza"
+      ],
+      "transcript": "P-U-H Pizza",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "34ab87471d8678ed83e42b71b8dd101f4c71affb23166d2e0a8a92e3ebc7b7a5",
+      "duration": 2.856,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 6,
+      "grapheme": "n",
+      "ipa": "/n/",
+      "expected": [
+        "night"
+      ],
+      "transcript": "NNN Night",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "5b91b5ddaf7d6407739871360ba7db06924dfd9e4681aa5d4691c4454b9ba123",
+      "duration": 2.568,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 7,
+      "grapheme": "c/k",
+      "ipa": "/k/",
+      "expected": [
+        "cat",
+        "kite"
+      ],
+      "transcript": "ku cat kite",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "822e9316481146768fa400853d02ac7482f4f80eb5da0bd7c714a71960110858",
+      "duration": 3.936,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 8,
+      "grapheme": "e",
+      "ipa": "/e/",
+      "expected": [
+        "egg"
+      ],
+      "transcript": "a jag",
+      "word_match": false,
+      "language_probability": 1,
+      "sha256": "c08a7a291f768772d217a7b87f199869e3d0a42b6aced902651dd4cb50ddbf9f",
+      "duration": 2.16,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 9,
+      "grapheme": "h",
+      "ipa": "/h/",
+      "expected": [
+        "hat"
+      ],
+      "transcript": "HOGO hat",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "5f49ee7dbd1d57f5fb502d1aff96224157d64da8eafbe799a13278f98f259cc8",
+      "duration": 2.208,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 10,
+      "grapheme": "r",
+      "ipa": "/r/",
+      "expected": [
+        "rocket"
+      ],
+      "transcript": "Ah, ah, ah, rocket.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "02237640c3634af89889566486f70c27b35b5f7cedb89144c0e53905276b78d7",
+      "duration": 3.0,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 11,
+      "grapheme": "m",
+      "ipa": "/m/",
+      "expected": [
+        "music"
+      ],
+      "transcript": "I'm emusic.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "2bf130df402f8a0996e573706ffce3a0d3d2aac931afe29598f0e39d070bbd10",
+      "duration": 2.208,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 12,
+      "grapheme": "d",
+      "ipa": "/d/",
+      "expected": [
+        "drum"
+      ],
+      "transcript": "der drum",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "c18a755e89b577289b93599da43477094343a297d9a65b9fc7ea8ee14cc4d3af",
+      "duration": 2.4,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 13,
+      "grapheme": "g",
+      "ipa": "/g/",
+      "expected": [
+        "gift"
+      ],
+      "transcript": "Goo Gift",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "fe6bfdb4a33b3b54205686d38aa8be9996b8a16844235a2cfa15ce6e55e365e7",
+      "duration": 2.352,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 14,
+      "grapheme": "o",
+      "ipa": "/ɒ/",
+      "expected": [
+        "octopus"
+      ],
+      "transcript": "Oh, Octopus!",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "77c494d13e754f03c39c45a5a6f602ec417c9d81fd7fcc2fde3f0fa3da0bddce",
+      "duration": 2.376,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 15,
+      "grapheme": "u",
+      "ipa": "/ʌ/",
+      "expected": [
+        "umbrella"
+      ],
+      "transcript": "Aki Umbrella",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "55b8f39d1f8edccb5ec2b414f3e7abbd2632dbdeb7c729d37ab93b7b0b465ce0",
+      "duration": 2.328,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 16,
+      "grapheme": "l",
+      "ipa": "/l/",
+      "expected": [
+        "leaf"
+      ],
+      "transcript": "LLL leaf",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "d651da699b3d3e46d2034f3f2616f26b09589f3fd3ae56e5f9ca4edb3a0df557",
+      "duration": 2.568,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 17,
+      "grapheme": "f",
+      "ipa": "/f/",
+      "expected": [
+        "fish"
+      ],
+      "transcript": "FFF fish.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "8554b899bc3d8ee55765b2a1611db5d30ea632f48f98ed3d5647103bc5eca8c5",
+      "duration": 2.64,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 18,
+      "grapheme": "b",
+      "ipa": "/b/",
+      "expected": [
+        "ball"
+      ],
+      "transcript": "Boo ball.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "ddcba06bfbb1b596a722479a3e88a0b697fe3498f41a31a3e04fd266218ca052",
+      "duration": 2.16,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 19,
+      "grapheme": "ai",
+      "ipa": "/eɪ/",
+      "expected": [
+        "rain"
+      ],
+      "transcript": "A RAIN",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "6a421fcf9ea5169a7f4b38857429a2c1139279546e1613fb0e9f9f9d81c0d7dd",
+      "duration": 2.328,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 20,
+      "grapheme": "j",
+      "ipa": "/dʒ/",
+      "expected": [
+        "juice"
+      ],
+      "transcript": "Jew, Juice",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "dceb5bf1d8ae288212d8b1f6b9e4a953f049912772212aff8a03d56330f8b527",
+      "duration": 2.496,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 21,
+      "grapheme": "oa",
+      "ipa": "/əʊ/",
+      "expected": [
+        "boat"
+      ],
+      "transcript": "Oh, boat!",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "0b40393f5cdb376784fb0e5e175867f519dc0821ace9c7d8e6d2f9779532882c",
+      "duration": 2.16,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 22,
+      "grapheme": "ie",
+      "ipa": "/aɪ/",
+      "expected": [
+        "pie"
+      ],
+      "transcript": "I, Pie.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "544ae0679145e803f2d81e6c2a515f570a285860c2446fe615cc2adeb37b0b0b",
+      "duration": 2.28,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 23,
+      "grapheme": "ee",
+      "ipa": "/iː/",
+      "expected": [
+        "bee"
+      ],
+      "transcript": "E, B",
+      "word_match": false,
+      "language_probability": 1,
+      "sha256": "b5a63de7fdb08f6ee1f12068d21a57d1a581e162132a7086250909a21a27ec1b",
+      "duration": 2.856,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 24,
+      "grapheme": "or",
+      "ipa": "/ɔː/",
+      "expected": [
+        "fork"
+      ],
+      "transcript": "Or fork.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "07f6e952ac4236f709fd084d72f672cb32bc5b3e11df657b5d2788259d47df20",
+      "duration": 2.112,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 25,
+      "grapheme": "z",
+      "ipa": "/z/",
+      "expected": [
+        "zebra"
+      ],
+      "transcript": "ZZZZZZZZBRA",
+      "word_match": false,
+      "language_probability": 1,
+      "sha256": "024f52fd7dcd7148872053d30a2fea26d8e3e320fd91399d3f23579fb9ce1a18",
+      "duration": 2.928,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 26,
+      "grapheme": "w",
+      "ipa": "/w/",
+      "expected": [
+        "watch"
+      ],
+      "transcript": "We'll watch",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "e34e8cfcd171bd0f10f832a00a5229ee7c5dfbeb6a5343e3176176deb099aebb",
+      "duration": 2.4,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 27,
+      "grapheme": "ng",
+      "ipa": "/ŋ/",
+      "expected": [
+        "ring"
+      ],
+      "transcript": "In Ring.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "c3a5c10c92f7150c7bc1070ba103be0d95d6cfdbbf26502a0a2afe9d5a3c24d8",
+      "duration": 2.088,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 28,
+      "grapheme": "v",
+      "ipa": "/v/",
+      "expected": [
+        "van"
+      ],
+      "transcript": "V. V. V. Uvan",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "58c9b921aeacb848a64b9f218055001846223ea6fd6690b86babb15d46819b87",
+      "duration": 2.832,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 29,
+      "grapheme": "oo",
+      "ipa": "/uː/",
+      "expected": [
+        "moon"
+      ],
+      "transcript": "Oh, your moon.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "e8408f8ffd4dbdbccf1ff933066359eeaf0ec666336476695086106ad66569c7",
+      "duration": 2.208,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 30,
+      "grapheme": "oo",
+      "ipa": "/ʊ/",
+      "expected": [
+        "book"
+      ],
+      "transcript": "A book.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "2e518d76b1b691403a9d1577e1be7a472be3a15638e0cddd4c5c3f55d96528c6",
+      "duration": 1.992,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 31,
+      "grapheme": "y",
+      "ipa": "/j/",
+      "expected": [
+        "yellow"
+      ],
+      "transcript": "Yellow",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "531beaa0b329b57d5511b963c8df548efcca0d818d6fe34fe964a0e48045777f",
+      "duration": 2.472,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 32,
+      "grapheme": "x",
+      "ipa": "/ks/",
+      "expected": [
+        "box"
+      ],
+      "transcript": "KSSS box",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "843a8ddfe559e56edac5000941f8bf0d93d33e093934776182bbe4b6e3327d29",
+      "duration": 2.976,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 33,
+      "grapheme": "ch",
+      "ipa": "/tʃ/",
+      "expected": [
+        "chair"
+      ],
+      "transcript": "CH. Chair.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "6dc5599ebe812f41a801f78c780346b0fd99a225164bc149ce6f7a1bb710aab2",
+      "duration": 3.6,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 34,
+      "grapheme": "sh",
+      "ipa": "/ʃ/",
+      "expected": [
+        "shoe"
+      ],
+      "transcript": "shush or shoe",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "e8636fa5993acd1effd7e2b3e34986522d53f89ddb8553dfdfb3895f940a48b4",
+      "duration": 2.232,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 35,
+      "grapheme": "th",
+      "ipa": "/θ/",
+      "expected": [
+        "thin"
+      ],
+      "transcript": "THHH thin.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "ba3c9d2ef0013b2e6d8bbd62d0e9a268e46c2f0d10ec6fa709c42fc7827c6875",
+      "duration": 2.976,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 36,
+      "grapheme": "th",
+      "ipa": "/ð/",
+      "expected": [
+        "this"
+      ],
+      "transcript": "This",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "d51e6695e1ed65ef4d9771f8a2220a38f3d08a882ef7c9bdfa5c87ed4dd42661",
+      "duration": 3.504,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 37,
+      "grapheme": "qu",
+      "ipa": "/kw/",
+      "expected": [
+        "queen"
+      ],
+      "transcript": "Queue Queen",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "9355034da706c78fdaa6beb41d4055489731c0b6a6c73ad4e59c93aea09ec058",
+      "duration": 2.4,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 38,
+      "grapheme": "ou",
+      "ipa": "/aʊ/",
+      "expected": [
+        "cloud"
+      ],
+      "transcript": "Oh, Cloud!",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "8b478d7858e0b05aa222b07376cfcd38631c6afff8106fd032a3ead5247ded59",
+      "duration": 2.352,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 39,
+      "grapheme": "oi",
+      "ipa": "/ɔɪ/",
+      "expected": [
+        "coin"
+      ],
+      "transcript": "Ory Coin",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "36ede5db670cb0a87d3ec0abf8bd278f53ff6940d18769874834397e21da85dd",
+      "duration": 2.352,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 40,
+      "grapheme": "ue",
+      "ipa": "/uː/",
+      "expected": [
+        "glue"
+      ],
+      "transcript": "Oh, glue!",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "8056d2b9596537cc269af8b6057fd23c877b719ad118825d3f86b8ca9014e967",
+      "duration": 2.208,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 41,
+      "grapheme": "er",
+      "ipa": "/ɜː/",
+      "expected": [
+        "person"
+      ],
+      "transcript": "A person.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "2c8068a5a8ef482cb10422af8e277664e972a1933c957dad58a809b903d15bcc",
+      "duration": 2.328,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "uk-male",
+      "card": 42,
+      "grapheme": "ar",
+      "ipa": "/ɑː/",
+      "expected": [
+        "car"
+      ],
+      "transcript": "A kah.",
+      "word_match": false,
+      "language_probability": 1,
+      "sha256": "0f5972ba2dd3c7a18bf9a17eda6c80321edd43bc544da9b9d5220a677a3e75a9",
+      "duration": 2.208,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 1,
+      "grapheme": "s",
+      "ipa": "/s/",
+      "expected": [
+        "sun"
+      ],
+      "transcript": "SSSS Sun",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "57b7272300a0573d8e30a78c94bd3f44b1a319b21117196df9db77cb30e31bb2",
+      "duration": 2.784,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 2,
+      "grapheme": "a",
+      "ipa": "/æ/",
+      "expected": [
+        "apple"
+      ],
+      "transcript": "Uh, Apple.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "50956482528a514da91eb11905f546241716ffcd0997b7762e184889bd78c569",
+      "duration": 2.16,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 3,
+      "grapheme": "t",
+      "ipa": "/t/",
+      "expected": [
+        "tennis"
+      ],
+      "transcript": "to tennis",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "baff0d36f1386132ff7cd67af2852e8d792c14207e99b544dff9f47d3abeef5b",
+      "duration": 2.304,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 4,
+      "grapheme": "i",
+      "ipa": "/ɪ/",
+      "expected": [
+        "ink"
+      ],
+      "transcript": "IH, Inc.",
+      "word_match": false,
+      "language_probability": 1,
+      "sha256": "fe606a65c11a9374511e0a495ba807f344db1df3f30a2e2a84d5b1fef614bd19",
+      "duration": 2.352,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 5,
+      "grapheme": "p",
+      "ipa": "/p/",
+      "expected": [
+        "pizza"
+      ],
+      "transcript": "Poo, Pizza",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "f02d8bbf71f7fbd34e09d7e6322bf1154a2de6b174d8bb36e56dac196f4306fc",
+      "duration": 2.304,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 6,
+      "grapheme": "n",
+      "ipa": "/n/",
+      "expected": [
+        "night"
+      ],
+      "transcript": "NNN Night",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "d20208e864127a6760bffd6297f369bbf07255acee14f00aff1432e150b49757",
+      "duration": 2.424,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 7,
+      "grapheme": "c/k",
+      "ipa": "/k/",
+      "expected": [
+        "cat",
+        "kite"
+      ],
+      "transcript": "ku cat kite",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "b10aa992841ae5cffefb80c263673a7120f84bb187e6a43fd2b6a9ae7173cc5d",
+      "duration": 3.888,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 8,
+      "grapheme": "e",
+      "ipa": "/e/",
+      "expected": [
+        "egg"
+      ],
+      "transcript": "Eh, egg.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "65d6fb0de5fa60e34bd0a03acf11ffb7b8f3f38fe927d76d623255a1c4757e45",
+      "duration": 2.136,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 9,
+      "grapheme": "h",
+      "ipa": "/h/",
+      "expected": [
+        "hat"
+      ],
+      "transcript": "Ha, hat.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "27ffe5176ad30442e767707f45dd588b91d81290298aff3c239254b8f2a5d0e8",
+      "duration": 2.208,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 10,
+      "grapheme": "r",
+      "ipa": "/r/",
+      "expected": [
+        "rocket"
+      ],
+      "transcript": "R-R-R rocket.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "2a59bf7fcc05dd19604adffc51fd597a8ff4d33c3aa437a681b191a4a92fb233",
+      "duration": 2.496,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 11,
+      "grapheme": "m",
+      "ipa": "/m/",
+      "expected": [
+        "music"
+      ],
+      "transcript": "MMM Music",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "1bf26b51a47dc977b9a4aaa96484b61226560084542a9c8cf32543238186b8c6",
+      "duration": 2.544,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 12,
+      "grapheme": "d",
+      "ipa": "/d/",
+      "expected": [
+        "drum"
+      ],
+      "transcript": "duh drum.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "99eec33f6a519a35262bd039f1813887b92d54ef7d67237d8951d902a24cb39c",
+      "duration": 2.256,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 13,
+      "grapheme": "g",
+      "ipa": "/g/",
+      "expected": [
+        "gift"
+      ],
+      "transcript": "GUH. Gift. You",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "3ecc7fe4943f1ff99a74e13e44e0b2895b8103d3e336c0ed6185d75efe6b8fc6",
+      "duration": 2.64,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 14,
+      "grapheme": "o",
+      "ipa": "/ɒ/",
+      "expected": [
+        "octopus"
+      ],
+      "transcript": "Oh, octopus.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "672a4a2e07d8bdd041657db8ed4e13ce580ac45c71e27c1cd19f952b3e0faa48",
+      "duration": 2.64,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 15,
+      "grapheme": "u",
+      "ipa": "/ʌ/",
+      "expected": [
+        "umbrella"
+      ],
+      "transcript": "Uh, umbrella.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "ca3ea0925fb031929834fe45ebe4a88854e3081c7ad6b7871c5d489d2f468eee",
+      "duration": 2.424,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 16,
+      "grapheme": "l",
+      "ipa": "/l/",
+      "expected": [
+        "leaf"
+      ],
+      "transcript": "LLL Leaf",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "98cb1999e551feb3328fa1c1cde1636f2917994c15a66755796ca5a772c7d04c",
+      "duration": 2.496,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 17,
+      "grapheme": "f",
+      "ipa": "/f/",
+      "expected": [
+        "fish"
+      ],
+      "transcript": "FFF fish",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "345ff15b559e10f6d23679f03561490f6c7a1a8392f7dfb60b17ab78c49f02a2",
+      "duration": 2.664,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 18,
+      "grapheme": "b",
+      "ipa": "/b/",
+      "expected": [
+        "ball"
+      ],
+      "transcript": "But, ball.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "8f4fab317948800dc3c2c67cb338d1086a06c6cb83b0891455a36a63627d2498",
+      "duration": 2.208,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 19,
+      "grapheme": "ai",
+      "ipa": "/eɪ/",
+      "expected": [
+        "rain"
+      ],
+      "transcript": "I rain.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "0d67e14eefe6be274c3062aa534175f43ff4f3979a80ed987efa55d29ec01d6b",
+      "duration": 2.04,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 20,
+      "grapheme": "j",
+      "ipa": "/dʒ/",
+      "expected": [
+        "juice"
+      ],
+      "transcript": "Ju, juice.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "7d0a5808c0a1fea42c558c225ad2ebc4ddc90c3fa6a3bdf4673d1f5e8a812c49",
+      "duration": 2.304,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 21,
+      "grapheme": "oa",
+      "ipa": "/əʊ/",
+      "expected": [
+        "boat"
+      ],
+      "transcript": "Oh, boat.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "0bb2eb517be4c0d2a3b5c812468cc8508af727048556eee2e36855e298305ac2",
+      "duration": 2.256,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 22,
+      "grapheme": "ie",
+      "ipa": "/aɪ/",
+      "expected": [
+        "pie"
+      ],
+      "transcript": "Aye. Pi.",
+      "word_match": false,
+      "language_probability": 1,
+      "sha256": "3bd589eafe1f49e1e797e4cce0f979998eb05c56bba9a95ecfabe76502a1b0d5",
+      "duration": 2.088,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 23,
+      "grapheme": "ee",
+      "ipa": "/iː/",
+      "expected": [
+        "bee"
+      ],
+      "transcript": "E-E-B.",
+      "word_match": false,
+      "language_probability": 1,
+      "sha256": "14e410b73a499b872aee30afed0b7ee2b3872ae38374f87b9f403111ee5c8761",
+      "duration": 2.424,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 24,
+      "grapheme": "or",
+      "ipa": "/ɔː/",
+      "expected": [
+        "fork"
+      ],
+      "transcript": "or fork.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "27e1d69666cb60509aa8e04ef746a5937d326e2aa57b83e403cefb0602c97167",
+      "duration": 2.4,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 25,
+      "grapheme": "z",
+      "ipa": "/z/",
+      "expected": [
+        "zebra"
+      ],
+      "transcript": "Z-Z-Z-Z-BRA",
+      "word_match": false,
+      "language_probability": 1,
+      "sha256": "8f5f18af38624ac52f0553f88431f8afdd36c1815e4b3d3626a46cf04af7aa8f",
+      "duration": 2.736,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 26,
+      "grapheme": "w",
+      "ipa": "/w/",
+      "expected": [
+        "watch"
+      ],
+      "transcript": "Will watch.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "269bb3d18ddec9ca5fcfdad3d4e4e4c0453df0e1d6f3e60ce972dcf6a588dc31",
+      "duration": 2.208,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 27,
+      "grapheme": "ng",
+      "ipa": "/ŋ/",
+      "expected": [
+        "ring"
+      ],
+      "transcript": "In, ring.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "da70f39e64e769e66e6ff56633ee56c2a1aeae8ca8f89c73a7094cfd2f86db9b",
+      "duration": 2.04,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 28,
+      "grapheme": "v",
+      "ipa": "/v/",
+      "expected": [
+        "van"
+      ],
+      "transcript": "dvvvan",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "532121410d27128358017d8a005e592518d4afdfd5ea628fb91aa8f0b29f804e",
+      "duration": 2.496,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 29,
+      "grapheme": "oo",
+      "ipa": "/uː/",
+      "expected": [
+        "moon"
+      ],
+      "transcript": "Oh, oh, moon.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "021a7613e62945137a80d91a9c8ab87564ce93e63d72cb6ba2f229a73d6a1518",
+      "duration": 2.472,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 30,
+      "grapheme": "oo",
+      "ipa": "/ʊ/",
+      "expected": [
+        "book"
+      ],
+      "transcript": "a book.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "6e9f4f19ad76a85672da988f79b1ae6a5c843160cf2d2e498f0c67af2d4d78cd",
+      "duration": 2.112,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 31,
+      "grapheme": "y",
+      "ipa": "/j/",
+      "expected": [
+        "yellow"
+      ],
+      "transcript": "Yeah, yellow.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "f1c23b28f8a6dc5eb70efd5601a2323a879d7c09f43283102eb07c77db5b6b3f",
+      "duration": 2.208,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 32,
+      "grapheme": "x",
+      "ipa": "/ks/",
+      "expected": [
+        "box"
+      ],
+      "transcript": "KSSS box.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "de5f9b961e86398ce345cc443e8db11c9fc511c1c249c43f094f6df3ee5b58b0",
+      "duration": 2.904,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 33,
+      "grapheme": "ch",
+      "ipa": "/tʃ/",
+      "expected": [
+        "chair"
+      ],
+      "transcript": "CH. Chair.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "a2fe9634dc76039a0bfb2258ae3fef65c785050ada0911069dc933470bdfce97",
+      "duration": 3.432,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 34,
+      "grapheme": "sh",
+      "ipa": "/ʃ/",
+      "expected": [
+        "shoe"
+      ],
+      "transcript": "SHHH, SHU.",
+      "word_match": false,
+      "language_probability": 1,
+      "sha256": "541a7e429ae81caec933db689b59b4d582e1d0199f5860069aa9ad097e2ddfc9",
+      "duration": 2.856,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 35,
+      "grapheme": "th",
+      "ipa": "/θ/",
+      "expected": [
+        "thin"
+      ],
+      "transcript": "THH Finn",
+      "word_match": false,
+      "language_probability": 1,
+      "sha256": "43fa0700e6315c447eed4872b960ae62749d3159a4e3d5c7ea69b820ec908b68",
+      "duration": 2.784,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 36,
+      "grapheme": "th",
+      "ipa": "/ð/",
+      "expected": [
+        "this"
+      ],
+      "transcript": "T-O-T-O-T. This.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "58d1aa62c61de32720d0a478bb1d5a02efe50a036d57d0e9bb75e5a7d5ba66ec",
+      "duration": 3.336,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 37,
+      "grapheme": "qu",
+      "ipa": "/kw/",
+      "expected": [
+        "queen"
+      ],
+      "transcript": "Quill, Queen",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "18c5fd49bff800a98fa0a11bc6670aa4e68dab93c21e8199e6a75021923b03fe",
+      "duration": 2.28,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 38,
+      "grapheme": "ou",
+      "ipa": "/aʊ/",
+      "expected": [
+        "cloud"
+      ],
+      "transcript": "Ow. Cloud.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "24e3fc862f5e49634d2c9b48e6f4f2ef1e186eb0e61d0549cdc3585e8274cf2e",
+      "duration": 2.28,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 39,
+      "grapheme": "oi",
+      "ipa": "/ɔɪ/",
+      "expected": [
+        "coin"
+      ],
+      "transcript": "Boy, coin.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "aac63600504328b0f80413a2443b200c370dace4fb05e25c0fc4816c5a1999c3",
+      "duration": 2.328,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 40,
+      "grapheme": "ue",
+      "ipa": "/uː/",
+      "expected": [
+        "glue"
+      ],
+      "transcript": "Oh, oh, glue.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "c40a0110ccb7e09b170f85f825eb64ab131ea9647388ebe3ac272143e93f47bc",
+      "duration": 2.592,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 41,
+      "grapheme": "er",
+      "ipa": "/ɜː/",
+      "expected": [
+        "person"
+      ],
+      "transcript": "Air, person.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "94351fab03569424f350fbdf50691fd7ec53b5146400a087b955faf55cdb2e45",
+      "duration": 2.424,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-female",
+      "card": 42,
+      "grapheme": "ar",
+      "ipa": "/ɑː/",
+      "expected": [
+        "car"
+      ],
+      "transcript": "Ah, car.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "9b4b7a81606b4a28e006578fff6cbbdc7a78980cc109001ef948f99e5004298c",
+      "duration": 2.112,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 1,
+      "grapheme": "s",
+      "ipa": "/s/",
+      "expected": [
+        "sun"
+      ],
+      "transcript": "SSSS Sun",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "2c299630df97a6ac8f4f429b84d8b4f4f1892a2edb4e9e8b9c867daa42f5abb6",
+      "duration": 2.88,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 2,
+      "grapheme": "a",
+      "ipa": "/æ/",
+      "expected": [
+        "apple"
+      ],
+      "transcript": "Ah, Apple.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "1185f0198df2919648fecc0d1eab0b34dc981c370732f427b3a0b6cc51ed35ae",
+      "duration": 2.28,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 3,
+      "grapheme": "t",
+      "ipa": "/t/",
+      "expected": [
+        "tennis"
+      ],
+      "transcript": "Ta, tennis",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "3a327939439b958d5532369b3278e16c7159c28a0d6e9d58a8a2482d31d0bb89",
+      "duration": 2.304,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 4,
+      "grapheme": "i",
+      "ipa": "/ɪ/",
+      "expected": [
+        "ink"
+      ],
+      "transcript": "IH, Inc.",
+      "word_match": false,
+      "language_probability": 1,
+      "sha256": "b31743fcc4a7fdcfec872a7ac3465b39c35c498249e6431b120e08979426d34e",
+      "duration": 2.352,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 5,
+      "grapheme": "p",
+      "ipa": "/p/",
+      "expected": [
+        "pizza"
+      ],
+      "transcript": "poo pizza",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "6d9ff87f9b0dc940d5bda3af98270fbdb2e477dd465e8541f7b29372ea53b496",
+      "duration": 2.448,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 6,
+      "grapheme": "n",
+      "ipa": "/n/",
+      "expected": [
+        "night"
+      ],
+      "transcript": "NNN Night",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "0aa1bd72fc154b9b718faadfb14eee31f2b9453c36de7fa7d0003432ef2a966e",
+      "duration": 2.544,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 7,
+      "grapheme": "c/k",
+      "ipa": "/k/",
+      "expected": [
+        "cat",
+        "kite"
+      ],
+      "transcript": "ku cat kite",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "73f170c373a5920da53b307f506c09400ed1a265c8138fee22b6efae816d8933",
+      "duration": 3.936,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 8,
+      "grapheme": "e",
+      "ipa": "/e/",
+      "expected": [
+        "egg"
+      ],
+      "transcript": "and egg.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "34c0adf9115eaf50f8ee2309f98aa2d68556365d360e3a47875a79495f7d105d",
+      "duration": 2.16,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 9,
+      "grapheme": "h",
+      "ipa": "/h/",
+      "expected": [
+        "hat"
+      ],
+      "transcript": "Ha, hat.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "5d8f8fc27298e4bc16a9a52cbf641917f3cd6e59047e7d09132f2fcb305dac2c",
+      "duration": 2.28,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 10,
+      "grapheme": "r",
+      "ipa": "/r/",
+      "expected": [
+        "rocket"
+      ],
+      "transcript": "R-R-R, Rocket.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "d5b215c614481f00a4c7b1b8476621500aa6f4ec969d93bdef7cc7c4d75b6857",
+      "duration": 2.832,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 11,
+      "grapheme": "m",
+      "ipa": "/m/",
+      "expected": [
+        "music"
+      ],
+      "transcript": "Nimnum music",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "f6f8cde8379c946d731621d6d0e25c7b31d7b3b1ffcb8ac9daec8e1a63ec3861",
+      "duration": 2.544,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 12,
+      "grapheme": "d",
+      "ipa": "/d/",
+      "expected": [
+        "drum"
+      ],
+      "transcript": "Duh-drum.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "75d4a32a37c31cc91a926cd43448f354ea6815baea7706e3a73d7d641efb5592",
+      "duration": 2.328,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 13,
+      "grapheme": "g",
+      "ipa": "/g/",
+      "expected": [
+        "gift"
+      ],
+      "transcript": "G-U-H gift",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "34fe7439ccb5ff43b76c565cb15525e7702b1fc5726ad04e1b51d903330cf883",
+      "duration": 2.784,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 14,
+      "grapheme": "o",
+      "ipa": "/ɒ/",
+      "expected": [
+        "octopus"
+      ],
+      "transcript": "Oh, Octopus!",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "64a819aca31cd61af43f6fa3d1f97b4796fceed97933716ea5e8d804392945a4",
+      "duration": 2.568,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 15,
+      "grapheme": "u",
+      "ipa": "/ʌ/",
+      "expected": [
+        "umbrella"
+      ],
+      "transcript": "Ah, Umbrella!",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "cb4607839abcf6e509e51fea52648f4c8ece7874b40bc1b0cfb2e7c30d1908b6",
+      "duration": 2.472,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 16,
+      "grapheme": "l",
+      "ipa": "/l/",
+      "expected": [
+        "leaf"
+      ],
+      "transcript": "LLL, LEAF",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "ad1ded4266a2fde852c11ca629029be1e5c5017d2c695e61fe101135b6b59cbd",
+      "duration": 2.736,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 17,
+      "grapheme": "f",
+      "ipa": "/f/",
+      "expected": [
+        "fish"
+      ],
+      "transcript": "FFF Fish",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "37ba955768c4cef12f88b6c84f70bdc202eae6d9d2650221e32c3c9cd57560bd",
+      "duration": 2.712,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 18,
+      "grapheme": "b",
+      "ipa": "/b/",
+      "expected": [
+        "ball"
+      ],
+      "transcript": "But, ball.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "25a0bafe0b89af37932d4343e671f4fec275e116a4a0b2a6951669777f8425d4",
+      "duration": 2.16,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 19,
+      "grapheme": "ai",
+      "ipa": "/eɪ/",
+      "expected": [
+        "rain"
+      ],
+      "transcript": "I reign.",
+      "word_match": false,
+      "language_probability": 1,
+      "sha256": "78321e0a9d6a99c1ef0a4a364b09a6cc06e16774552c6bb7c21a31f411cedf48",
+      "duration": 2.28,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 20,
+      "grapheme": "j",
+      "ipa": "/dʒ/",
+      "expected": [
+        "juice"
+      ],
+      "transcript": "Jew Jews",
+      "word_match": false,
+      "language_probability": 1,
+      "sha256": "258fe1bff2deda548be01911ae07f48171b42b957fea436c1ac93f9177000f90",
+      "duration": 2.376,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 21,
+      "grapheme": "oa",
+      "ipa": "/əʊ/",
+      "expected": [
+        "boat"
+      ],
+      "transcript": "Oh, boat.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "456b772e6093143b0ff4133b577382a62ba56b47be618a07c11aacacc825480a",
+      "duration": 2.256,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 22,
+      "grapheme": "ie",
+      "ipa": "/aɪ/",
+      "expected": [
+        "pie"
+      ],
+      "transcript": "I, Pi.",
+      "word_match": false,
+      "language_probability": 1,
+      "sha256": "17986ad2907685435a594d6a86c7e9d7522cbc3b3b165431404ef48cfe76bb7a",
+      "duration": 2.4,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 23,
+      "grapheme": "ee",
+      "ipa": "/iː/",
+      "expected": [
+        "bee"
+      ],
+      "transcript": "E-E-E-B",
+      "word_match": false,
+      "language_probability": 1,
+      "sha256": "cc78c33486d2f0c9b1675b79345901c7d3ec40aa75db7f9b29faca98d1b8a5d2",
+      "duration": 2.544,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 24,
+      "grapheme": "or",
+      "ipa": "/ɔː/",
+      "expected": [
+        "fork"
+      ],
+      "transcript": "Or fork.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "c7db919017f5c7e4ca80cae77293e8e5a07e47fdffbe5a18505d714f5e0da1f2",
+      "duration": 2.328,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 25,
+      "grapheme": "z",
+      "ipa": "/z/",
+      "expected": [
+        "zebra"
+      ],
+      "transcript": "Z, Z, Z, Zebra.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "a8f3d3acd89f15e9e03d80139d5d37dde6675a10de950700845cf1b1578540b2",
+      "duration": 2.856,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 26,
+      "grapheme": "w",
+      "ipa": "/w/",
+      "expected": [
+        "watch"
+      ],
+      "transcript": "Whoa watch",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "73286d8e0b1c294f6539d5eded861975c8442041a47c274f95eb114ff85cf437",
+      "duration": 2.328,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 27,
+      "grapheme": "ng",
+      "ipa": "/ŋ/",
+      "expected": [
+        "ring"
+      ],
+      "transcript": "A. Ring",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "fb2beacdb749c307c95f31c50b7b2d47ec0cb286fa5e0e18e429573dc1f9ca37",
+      "duration": 2.304,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 28,
+      "grapheme": "v",
+      "ipa": "/v/",
+      "expected": [
+        "van"
+      ],
+      "transcript": "V-V-V-V-VAN",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "ebf20c217094067b7f9ac2cc303380e2929bb271dfd966ba9e635af8e8242f9e",
+      "duration": 2.76,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 29,
+      "grapheme": "oo",
+      "ipa": "/uː/",
+      "expected": [
+        "moon"
+      ],
+      "transcript": "Oh, moon.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "636a66b79bc622f94bc13a75b236aaac1c7035709f932c243dd751763548d65d",
+      "duration": 2.568,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 30,
+      "grapheme": "oo",
+      "ipa": "/ʊ/",
+      "expected": [
+        "book"
+      ],
+      "transcript": "uh, book.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "afe3222defd3acbd03da37bbd8051863c5c5a0583df42e1eae0134b9845a48ac",
+      "duration": 2.232,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 31,
+      "grapheme": "y",
+      "ipa": "/j/",
+      "expected": [
+        "yellow"
+      ],
+      "transcript": "Yeah, Yellow",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "f58235a6325f42c7750b4030a84ed98b49672f5bdf2e6dbaabf5ddd0969ad281",
+      "duration": 2.28,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 32,
+      "grapheme": "x",
+      "ipa": "/ks/",
+      "expected": [
+        "box"
+      ],
+      "transcript": "KSSS Box",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "66852c1cafbd9050bbf4475fe46fea588852e67bee2d23f07662569b157b340c",
+      "duration": 3.048,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 33,
+      "grapheme": "ch",
+      "ipa": "/tʃ/",
+      "expected": [
+        "chair"
+      ],
+      "transcript": "CH Share",
+      "word_match": false,
+      "language_probability": 1,
+      "sha256": "0ffabdeeeb6bbc013ef80395ae07a28e97155a33ca67d7696a5409a225cb6bfe",
+      "duration": 3.672,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 34,
+      "grapheme": "sh",
+      "ipa": "/ʃ/",
+      "expected": [
+        "shoe"
+      ],
+      "transcript": "SHH-SHU",
+      "word_match": false,
+      "language_probability": 1,
+      "sha256": "e4ef144a10ee76466cf5e7fae825ab7dec1fb042a4fdafec21fe881760489bf9",
+      "duration": 2.88,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 35,
+      "grapheme": "th",
+      "ipa": "/θ/",
+      "expected": [
+        "thin"
+      ],
+      "transcript": "THHH thin",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "c8a938fcd70c0187799c6c8f5335cfc4edfc4ca7c8c7c95fb3ac7bf9f842eaa4",
+      "duration": 2.928,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 36,
+      "grapheme": "th",
+      "ipa": "/ð/",
+      "expected": [
+        "this"
+      ],
+      "transcript": "TH This",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "da648051d0b56c1fcf74a00c4be16f26c6fe99a035ad926cff5ec04186d6daaa",
+      "duration": 3.648,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 37,
+      "grapheme": "qu",
+      "ipa": "/kw/",
+      "expected": [
+        "queen"
+      ],
+      "transcript": "Quo, queen!",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "cdf90c929cd30f43acb3756a5f073ca69dfbfa2bc8573348927d4ac11a409b2c",
+      "duration": 2.28,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 38,
+      "grapheme": "ou",
+      "ipa": "/aʊ/",
+      "expected": [
+        "cloud"
+      ],
+      "transcript": "Ow! Cloud!",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "b616ff8432bec90abbb0f86b7de99818c5bc219ec813ae563c0c3907aebe21c7",
+      "duration": 2.352,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 39,
+      "grapheme": "oi",
+      "ipa": "/ɔɪ/",
+      "expected": [
+        "coin"
+      ],
+      "transcript": "Oi Coin",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "9a915d578cd460cd81582d378167653fd6745fd05e5b8b3485104df769edd75f",
+      "duration": 2.376,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 40,
+      "grapheme": "ue",
+      "ipa": "/uː/",
+      "expected": [
+        "glue"
+      ],
+      "transcript": "Oh, blue.",
+      "word_match": false,
+      "language_probability": 1,
+      "sha256": "0577b2f4c6775a52446f1345dad4ecc5c048c49d33de86299b42c2ba244f41ef",
+      "duration": 2.496,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 41,
+      "grapheme": "er",
+      "ipa": "/ɜː/",
+      "expected": [
+        "person"
+      ],
+      "transcript": "Air, Person",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "087f5a344cc2a3fc6ce5c3280d60471a69c7d82e2a4ac4c7fd5e64a1d540a054",
+      "duration": 2.352,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    },
+    {
+      "voice": "us-male",
+      "card": 42,
+      "grapheme": "ar",
+      "ipa": "/ɑː/",
+      "expected": [
+        "car"
+      ],
+      "transcript": "A car.",
+      "word_match": true,
+      "language_probability": 1,
+      "sha256": "76e691b682863fd52f2a5a5ef34d8c295344dd4f39938974ec4434f284cd7225",
+      "duration": 2.328,
+      "bit_rate": 48000,
+      "codec": "mp3",
+      "sample_rate": 24000,
+      "channels": 1
+    }
+  ]
+}
