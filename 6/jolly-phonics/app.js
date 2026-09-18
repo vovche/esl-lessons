@@ -2,13 +2,13 @@
   const $ = id => document.getElementById(id);
   const cards = window.CARDS;
   const storeKey = 'jolly-phonics-v1';
-  const defaults = {name:'', accent:'uk', gender:'female', autoplay:false, history:[], session:{index:0,seen:[0],elapsed:0}};
+  const defaults = {name:'', accent:'uk', gender:'female', autoplay:false, swipeHintSeen:false, history:[], session:{index:0,seen:[0],elapsed:0}};
   let saved;
   try { saved = {...defaults, ...JSON.parse(localStorage.getItem(storeKey) || '{}')}; } catch { saved = {...defaults}; }
   let index = Math.max(0,Math.min(cards.length-1,saved.session?.index||0));
   let seen = new Set(saved.session?.seen?.length?saved.session.seen:[0]);
-  let elapsedBase = Number(saved.session?.elapsed)||0, activeSince=Date.now(), trackingActive=!document.hidden, completed=false, timerId, touchX = null;
-  let swRegistration = null, installPrompt = null, reloadForUpdate = false;
+  let elapsedBase = Number(saved.session?.elapsed)||0, activeSince=Date.now(), trackingActive=!document.hidden, completed=false, timerId, coachTimer, touchX=null, suppressCardTap=false;
+  let swRegistration=null, installPrompt=null, reloadForUpdate=false, reportUrl=null;
   const voiceNames = {uk:'Британська', us:'Американська', female:'жіночий', male:'чоловічий'};
 
   function save(){ localStorage.setItem(storeKey, JSON.stringify(saved)); }
@@ -38,7 +38,19 @@
     saveProgress();
     if(shouldPlay && saved.autoplay) setTimeout(()=>play(),120);
   }
+  function showSwipeCoach(){
+    const coach=$('swipeCoach'); if(saved.swipeHintSeen||!coach)return;
+    clearTimeout(coachTimer); coach.hidden=false; coach.classList.remove('leaving');
+    coachTimer=setTimeout(()=>{coach.classList.add('leaving');setTimeout(()=>{coach.hidden=true;coach.classList.remove('leaving');},320);},5000);
+  }
+  function hideSwipeCoach(remember=false){
+    const coach=$('swipeCoach'); if(!coach)return;
+    clearTimeout(coachTimer); coach.classList.add('leaving');
+    if(remember&&!saved.swipeHintSeen){saved.swipeHintSeen=true;save();}
+    setTimeout(()=>{coach.hidden=true;coach.classList.remove('leaving');},320);
+  }
   function move(delta){
+    hideSwipeCoach(true);
     if(delta>0 && index===cards.length-1){ finish(); return; }
     const next=Math.max(0,Math.min(cards.length-1,index+delta)); if(next===index)return; index=next; render(true);
   }
@@ -57,6 +69,9 @@
   function refreshHistory(){
     const h=saved.history; const today=new Date().toLocaleDateString('sv-SE'); const todayCount=h.filter(x=>x.date===today).length;
     $('statsSummary').textContent=h.length?`${todayCount} сьогодні · ${h.length} усього`:'Ще немає завершених кіл';
+    prepareReportLinks();
+    if(!h.length)$('exportStatus').textContent='Кнопка стане активною після першого повного проходження.';
+    else if($('exportStatus').textContent.startsWith('Кнопка'))$('exportStatus').textContent='';
     $('historyList').innerHTML=h.slice(0,8).map((x,i)=>`<div class="history-row"><span>${localDate(x.completedAt)} · #${h.length-i}</span><span>${fmt(x.seconds)}</span><span>${x.average} с/к.</span></div>`).join('');
   }
   function choose(type,value){ saved[type]=value; save(); refreshSettings(); render(false); }
@@ -109,8 +124,18 @@
     for(const x of saved.history){ const [accent,gender]=x.voice.split('-'); rows.push([saved.name,localDate(x.completedAt),new Date(x.completedAt).toLocaleTimeString('uk-UA'),x.seconds,x.average,voiceNames[accent],voiceNames[gender]]); }
     return '\ufeff'+rows.map(row=>row.map(q).join(';')).join('\r\n');
   }
-  function exportReport(){
-    const blob=new Blob([csv()],{type:'text/csv;charset=utf-8'}); const a=document.createElement('a'); a.href=URL.createObjectURL(blob); a.download=`jolly-phonics-${(saved.name||'student').replace(/\s+/g,'-')}.csv`; a.click(); setTimeout(()=>URL.revokeObjectURL(a.href),1000);
+  function prepareReportLinks(){
+    if(reportUrl){URL.revokeObjectURL(reportUrl);reportUrl=null;}
+    const links=[$('exportBtn'),$('completeExport')];
+    if(!saved.history.length){links.forEach(link=>{link.removeAttribute('href');link.removeAttribute('download');link.setAttribute('aria-disabled','true');});return;}
+    reportUrl=URL.createObjectURL(new Blob([csv()],{type:'text/csv;charset=utf-8'}));
+    const filename=`jolly-phonics-${(saved.name||'student').replace(/\s+/g,'-')}.csv`;
+    links.forEach(link=>{link.href=reportUrl;link.download=filename;link.setAttribute('aria-disabled','false');});
+  }
+  function exportReport(event){
+    if(!saved.history.length){event.preventDefault();$('exportStatus').textContent='Спочатку заверши всі 42 картки.';return;}
+    const message=`Звіт із ${saved.history.length} ${saved.history.length===1?'проходження':'проходжень'} завантажено.`;
+    $('exportStatus').textContent=message; $('completeExportStatus').textContent=message;
   }
 
   $('offlineBtn').onclick=requestOfflineCache; $('installBtn').onclick=installApp;
@@ -119,13 +144,16 @@
   $('settingsBtn').onclick=()=>{refreshSettings();$('settingsDialog').showModal();}; $('originalBtn').onclick=()=>$('originalDialog').showModal(); $('closeOriginal').onclick=()=>$('originalDialog').close();
   $('studentName').onchange=e=>{saved.name=e.target.value.trim();save();}; $('autoplay').onchange=e=>{saved.autoplay=e.target.checked;save();};
   $('accentChoice').onclick=e=>{if(e.target.dataset.value)choose('accent',e.target.dataset.value);}; $('genderChoice').onclick=e=>{if(e.target.dataset.value)choose('gender',e.target.dataset.value);}; $('previewVoice').onclick=()=>play();
-  $('setupForm').onsubmit=e=>{e.preventDefault(); const name=$('setupName').value.trim(); if(!name)return; saved.name=name;elapsedBase=0;activeSince=Date.now();trackingActive=true;saveProgress();$('setupDialog').close();};
+  $('setupForm').onsubmit=e=>{e.preventDefault(); const name=$('setupName').value.trim(); if(!name)return; saved.name=name;elapsedBase=0;activeSince=Date.now();trackingActive=true;saveProgress();$('setupDialog').close();setTimeout(showSwipeCoach,250);};
   $('setupDialog').addEventListener('cancel',e=>{if(!saved.name)e.preventDefault();});
-  document.addEventListener('keydown',e=>{if(document.querySelector('dialog[open]'))return;if(e.key==='ArrowRight')move(1);if(e.key==='ArrowLeft')move(-1);if(e.key===' ') {e.preventDefault();play();}});
-  $('card').addEventListener('touchstart',e=>touchX=e.changedTouches[0].clientX,{passive:true}); $('card').addEventListener('touchend',e=>{if(touchX===null)return;const dx=e.changedTouches[0].clientX-touchX;if(Math.abs(dx)>55)move(dx<0?1:-1);touchX=null;},{passive:true});
+  document.addEventListener('keydown',e=>{if(document.querySelector('dialog[open]'))return;if(e.key==='ArrowRight')move(1);if(e.key==='ArrowLeft')move(-1);if(e.key===' '||(e.key==='Enter'&&document.activeElement===$('card'))) {e.preventDefault();play();}});
+  $('card').addEventListener('click',e=>{if(e.target.closest('button,a'))return;if(suppressCardTap){suppressCardTap=false;return;}play();});
+  $('card').addEventListener('touchstart',e=>{touchX=e.changedTouches[0].clientX;suppressCardTap=false;},{passive:true});
+  $('card').addEventListener('touchend',e=>{if(touchX===null)return;const dx=e.changedTouches[0].clientX-touchX;suppressCardTap=Math.abs(dx)>12;if(Math.abs(dx)>55)move(dx<0?1:-1);touchX=null;},{passive:true});
   document.addEventListener('visibilitychange',()=>{if(document.hidden&&trackingActive){elapsedBase=elapsedSeconds();trackingActive=false;saveProgress();}else if(!document.hidden&&!trackingActive){activeSince=Date.now();trackingActive=true;}});
   window.addEventListener('pagehide',saveProgress);
+  window.addEventListener('beforeunload',()=>{if(reportUrl)URL.revokeObjectURL(reportUrl);});
   timerId=setInterval(()=>$('timer').textContent=fmt(elapsedSeconds()),1000);
-  refreshSettings(); render(false); if(!saved.name)$('setupDialog').showModal();
+  refreshSettings(); render(false); if(!saved.name)$('setupDialog').showModal();else setTimeout(showSwipeCoach,400);
   initPwa();
 })();

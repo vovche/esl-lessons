@@ -1,10 +1,10 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "assets": [
     {
       "url": "app.js",
-      "sha256": "21325c46245fe7f8f55106aee0683c306380aa9d05a2bddaf874f863d7718390",
-      "bytes": 11924
+      "sha256": "81729cf94d6753df0704f4e1cb47102fb6f5b5264cb369530461b233952297ec",
+      "bytes": 14103
     },
     {
       "url": "assets/audio/uk-female/01.mp3",
@@ -1288,18 +1288,18 @@
     },
     {
       "url": "index.html",
-      "sha256": "43d47678588aea239d1b47fe9b807e9f3378aeb6d9bc54aea3b554c7b9f37a3a",
-      "bytes": 5849
+      "sha256": "b00b05d3fb9956655c256318bc8927f853f65760feb7bc740f00d8876dc65f10",
+      "bytes": 6651
     },
     {
       "url": "manifest.webmanifest",
-      "sha256": "3acacd58204e80fd072d4de4fe5c7d9e7fb062e181588a67a477227973721428",
-      "bytes": 617
+      "sha256": "3599b049fb856ab40f95bc668af1a0380c35bd3d833becc83cd9843a9587bc4c",
+      "bytes": 611
     },
     {
       "url": "styles.css",
-      "sha256": "982f6c9666d681b8d152eafe035134bf1d64f2225a5f6c8dbfc4b37163bf4df5",
-      "bytes": 8010
+      "sha256": "e5467cd7c7d8d856376a2a9a8e0c38b91e552263dd80ce6f871ba61b6536f500",
+      "bytes": 9787
     }
   ]
 }

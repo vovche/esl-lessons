@@ -2,7 +2,7 @@
   "id": "./",
   "name": "Jolly Phonics — 42 звуки",
   "short_name": "Jolly Phonics",
-  "description": "Тренажер 42 звуків для 6 класу",
+  "description": "Тренажер 42 звуків Jolly Phonics",
   "lang": "uk",
   "start_url": "./",
   "scope": "./",

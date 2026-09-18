@@ -26,4 +26,10 @@ for item in manifest['assets']:
 html = (ROOT / 'index.html').read_text(encoding='utf-8')
 for link in ('styles.css', 'app.js', 'data/cards.js', 'manifest.webmanifest'):
     assert link in html
+assert '6 клас' not in html
+for marker in ('id="swipeCoach"', 'id="exportStatus"', 'Завантажити CSV для вчителя'):
+    assert marker in html
+app = (ROOT / 'app.js').read_text(encoding='utf-8')
+for marker in ("$('card').addEventListener('click'", 'showSwipeCoach', 'prepareReportLinks'):
+    assert marker in app
 print(f'Jolly Phonics OK: 42 cards, 168 clips, version {version}')

@@ -4,17 +4,17 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
   <meta name="theme-color" content="#10305b">
-  <meta name="description" content="Тренажер 42 звуків Jolly Phonics для учнів 6 класу.">
+  <meta name="description" content="Тренажер 42 звуків Jolly Phonics.">
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" href="icons/icon-192.png" type="image/png">
   <link rel="apple-touch-icon" href="icons/icon-192.png">
-  <title>Jolly Phonics — 42 звуки | 6 клас</title>
+  <title>Jolly Phonics — 42 звуки</title>
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <div id="app">
     <header class="topbar">
-      <a class="brand" href="../../" aria-label="До каталогу уроків"><span class="brand-mark">JP</span><span>Jolly Phonics</span><small>6 клас</small></a>
+      <a class="brand" href="../../" aria-label="До каталогу уроків"><span class="brand-mark">JP</span><span>Jolly Phonics</span></a>
       <button class="icon-button" id="settingsBtn" aria-label="Налаштування">⚙</button>
     </header>
 
@@ -26,13 +26,14 @@
       </div>
       <div class="progress-track"><div id="progressBar"></div></div>
 
-      <section class="card" id="card" tabindex="0" aria-label="Навчальна картка">
+      <section class="card" id="card" tabindex="0" aria-label="Навчальна картка. Натисни, щоб прослухати слово">
         <div class="sound-pane">
           <span class="grapheme" id="grapheme">s</span>
           <span class="ipa" id="ipa">/s/</span>
         </div>
         <img class="illustration" id="illustration" alt="">
         <h1 class="word" id="word">sun</h1>
+        <div class="swipe-coach" id="swipeCoach" hidden aria-hidden="true"><span class="swipe-arrow">←</span><span class="swipe-hand">☝</span><span class="swipe-arrow">→</span><small>Гортай картки</small></div>
         <button class="play-button" id="playBtn" aria-label="Прослухати вимову">
           <span class="play-icon">▶</span>
           <span><b>Слухати слово</b><small id="voiceLabel">Британська · жіночий</small></span>
@@ -52,7 +53,7 @@
     <form method="dialog" id="setupForm">
       <div class="welcome-mark">42</div>
       <h2>Готові тренувати звуки?</h2>
-      <p>Введи ім’я — воно буде у звіті для вчителя.</p>
+      <p>Ім’я з’явиться в локальному звіті, який після проходження можна передати вчителю.</p>
       <label>Ім’я учня<input id="setupName" autocomplete="name" maxlength="60" required placeholder="Наприклад, Марко"></label>
       <button class="wide-primary" value="start">Почати тренування</button>
     </form>
@@ -72,7 +73,8 @@
         <button type="button" id="installBtn" hidden>Встановити застосунок</button>
       </section>
       <hr>
-      <div class="stats-head"><div><h3>Мої проходження</h3><p id="statsSummary">Ще немає завершених кіл</p></div><button type="button" id="exportBtn">Завантажити звіт</button></div>
+      <div class="stats-head"><div><h3>Звіт для вчителя</h3><p class="report-help">CSV — це таблиця для Excel або Google Sheets. У ній видно, коли учень завершував усі 42 картки, скільки часу витратив і який голос слухав. Файл можна надіслати вчителю.</p><p id="statsSummary">Ще немає завершених кіл</p></div><a class="report-download" id="exportBtn" aria-disabled="true">Завантажити CSV</a></div>
+      <p class="export-status" id="exportStatus" role="status" aria-live="polite"></p>
       <div id="historyList" class="history-list"></div>
     </form>
   </dialog>
@@ -81,7 +83,8 @@
     <div class="celebrate">★</div><h2>Усі 42 картки!</h2><p id="completeText"></p>
     <div class="result-grid"><div><b id="resultTime">—</b><span>час</span></div><div><b id="resultAvg">—</b><span>на картку</span></div><div><b id="resultCount">—</b><span>сьогодні</span></div></div>
     <button class="wide-primary" id="againBtn">Пройти ще раз</button>
-    <button class="wide-secondary" id="completeExport">Завантажити звіт</button>
+    <a class="wide-secondary" id="completeExport">Завантажити CSV для вчителя</a>
+    <p class="export-status" id="completeExportStatus" role="status" aria-live="polite"></p>
   </dialog>
 
   <dialog id="originalDialog" class="original-dialog"><button class="close-button floating" id="closeOriginal" aria-label="Закрити">×</button><img id="originalImage" alt="Оригінальна навчальна картка"></dialog>
