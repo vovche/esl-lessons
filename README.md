@@ -14,7 +14,11 @@
 Для перевірки Jolly Phonics перед публікацією:
 
 ```bash
+python3 tests/check_navigation.py
 python3 tests/check_jolly_phonics.py
+python3 tests/check_future_forms_v2.py
 ```
 
 Інструкція із заміни карток, зображень, аудіо та безпечного оновлення кешу: [6/jolly-phonics/UPDATING.md](6/jolly-phonics/UPDATING.md).
+
+Навігація сайту має три рівні: `/` → `/<клас>/` → `/<клас>/<матеріал>/`. Правила для нових матеріалів зафіксовані в [AGENTS.md](AGENTS.md) і перевіряються автоматично перед деплоєм.

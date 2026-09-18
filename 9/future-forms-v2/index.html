@@ -23,6 +23,10 @@
   .author{margin-top:8px;color:var(--muted);font-size:13px}
   .home-link{display:inline-flex;align-items:center;min-height:44px;margin-bottom:14px;color:#175cd3;font-weight:800;text-decoration:none}
   .home-link:hover{text-decoration:underline}
+  .breadcrumbs{display:flex;align-items:center;gap:8px;min-height:44px;margin-bottom:10px;color:var(--muted);font-size:14px;white-space:nowrap;overflow-x:auto}
+  .breadcrumbs a{color:#175cd3;font-weight:800;text-decoration:none}
+  .breadcrumbs a:hover{text-decoration:underline}
+  .breadcrumbs [aria-current=page]{font-weight:700}
   h1{font-size:clamp(34px,5vw,62px);line-height:1.03;margin:8px 0 12px;letter-spacing:-.04em}
   h2{font-size:32px;letter-spacing:-.02em;margin:0 0 14px}
   h3{font-size:22px;margin:0 0 10px}
@@ -355,13 +359,13 @@
 <body data-v2-ready="true">
 <div class="story-deck">
 <div class="rotate-gate" id="rotateGate" role="dialog" aria-labelledby="rotateTitle"><div class="rotate-card"><span class="phone-icon" aria-hidden="true">📱</span><h1 id="rotateTitle">Поверни телефон боком</h1><p>Так завдання, приклади й великі кнопки помістяться на одному екрані. Твій прогрес збережено.</p><button class="orientation-why" type="button" onclick="this.nextElementSibling.hidden=false">Чому тільки альбомна орієнтація?</button><p hidden>Ця експериментальна версія спроєктована як мобільна гра: пояснення зліва, дія справа.</p></div></div>
-<header class="quest-hud" aria-label="Навігація місії"><button class="hud-btn" id="sceneMap" type="button">☰ <span>Карта</span></button><div class="hud-center"><div class="hud-kicker"><span id="sceneCounter">Місія 1 із 18</span> • <span id="cardCounter">Картка 1 із 1</span></div><div class="hud-title" id="sceneTitle">Карта майбутнього</div><div class="hud-track" aria-hidden="true"><div class="hud-fill" id="sceneProgress"></div></div></div><div class="hud-actions"><a class="hud-btn" href="../future-forms/" title="Відкрити стабільну версію" style="display:grid;place-items:center;text-decoration:none">V1</a><a class="hud-btn" href="../../" title="Усі матеріали" style="display:grid;place-items:center;text-decoration:none">⌂</a></div></header>
+<header class="quest-hud" aria-label="Навігація місії"><button class="hud-btn" id="sceneMap" type="button">☰ <span>Карта</span></button><div class="hud-center"><div class="hud-kicker"><span id="sceneCounter">Місія 1 із 18</span> • <span id="cardCounter">Картка 1 із 1</span></div><div class="hud-title" id="sceneTitle">Карта майбутнього</div><div class="hud-track" aria-hidden="true"><div class="hud-fill" id="sceneProgress"></div></div></div><div class="hud-actions"><a class="hud-btn" href="../future-forms/" title="Відкрити стабільну версію" style="display:grid;place-items:center;text-decoration:none">V1</a><a class="hud-btn" data-site-nav="grade" href="../" title="Матеріали 9 класу" style="display:grid;place-items:center;text-decoration:none">9 клас</a><a class="hud-btn" data-site-nav="root" href="../../" title="Усі класи" style="display:grid;place-items:center;text-decoration:none">Усі</a></div></header>
 <main class="quest-stage" id="questStage" aria-live="polite"></main>
 <nav class="quest-controls" aria-label="Перехід між місіями"><button class="quest-btn" id="scenePrev" type="button">← Назад</button><div class="quest-tip">Свайп працює, але кнопки завжди доступні</div><button class="quest-btn primary" id="sceneNext" type="button">Далі →</button></nav>
 <dialog class="scene-map" id="sceneMapDialog"><div class="map-head"><h2>Карта 18 місій</h2><button class="hud-btn" id="sceneMapClose" type="button">Закрити</button></div><div class="map-grid" id="sceneMapGrid"></div></dialog><div class="resume-toast" id="resumeToast" role="status">Продовжуємо звідси</div><template id="sceneCardTemplate"><article class="scene-card"></article></template>
 
 <header class="hero">
-<a class="home-link" href="../../">← Усі матеріали</a>
+<nav class="breadcrumbs" aria-label="Шлях до матеріалу"><a data-site-nav="root" href="../../">Усі класи</a><span aria-hidden="true">›</span><a data-site-nav="grade" href="../">9 клас</a><span aria-hidden="true">›</span><span aria-current="page">Future Forms Quest</span></nav>
 <div class="eyebrow">9 клас • Future Forms Quest • експеримент</div>
 <h1>Майбутнє: 18 місій</h1>
 <p class="lead"><strong>Не вчи “4 часи”. Вчи 4 форми й 7 типових смислів.</strong> Англійська обирає форму майбутнього не тільки за словом <em>tomorrow</em>, а за тим, <strong>що саме відомо мовцеві зараз</strong>: розклад, домовленість, намір, видимі факти, обіцянка чи рішення в момент розмови.</p>

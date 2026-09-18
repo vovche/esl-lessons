@@ -24,7 +24,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Validate lesson assets
-        run: python3 tests/check_jolly_phonics.py
+        run: |
+          python3 tests/check_navigation.py
+          python3 tests/check_jolly_phonics.py
+          python3 tests/check_future_forms_v2.py
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact

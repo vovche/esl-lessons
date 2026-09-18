@@ -14,9 +14,11 @@
 <body>
   <div id="app">
     <header class="topbar">
-      <a class="brand" href="../../" aria-label="До каталогу уроків"><span class="brand-mark">JP</span><span>Jolly Phonics</span></a>
+      <a class="brand" data-site-nav="root" href="../../" aria-label="До каталогу уроків"><span class="brand-mark">JP</span><span>Jolly Phonics</span></a>
       <button class="icon-button" id="settingsBtn" aria-label="Налаштування">⚙</button>
     </header>
+
+    <nav class="breadcrumbs" aria-label="Шлях до матеріалу"><a data-site-nav="root" href="../../">Усі класи</a><span aria-hidden="true">›</span><a data-site-nav="grade" href="../">6 клас</a><span aria-hidden="true">›</span><span aria-current="page">Jolly Phonics</span></nav>
 
     <main class="practice" aria-live="polite">
       <div class="progress-row">

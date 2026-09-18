@@ -26,7 +26,8 @@ for item in manifest['assets']:
 html = (ROOT / 'index.html').read_text(encoding='utf-8')
 for link in ('styles.css', 'app.js', 'data/cards.js', 'manifest.webmanifest'):
     assert link in html
-assert '6 клас' not in html
+assert '<small>6 клас</small>' not in html
+assert '<title>Jolly Phonics — 42 звуки | 6 клас</title>' not in html
 for marker in ('id="swipeCoach"', 'id="exportStatus"', 'Завантажити CSV для вчителя'):
     assert marker in html
 app = (ROOT / 'app.js').read_text(encoding='utf-8')
