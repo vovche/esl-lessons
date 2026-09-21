@@ -52,9 +52,16 @@ self.addEventListener('fetch',event=>{
   if(event.request.method!=='GET'||new URL(event.request.url).origin!==self.location.origin)return;
   if(event.request.mode==='navigate'){
     event.respondWith(fetch(event.request).then(response=>{
-      caches.open(CORE_CACHE).then(cache=>cache.put('index.html',response.clone()));
+      if(response.status===200)caches.open(CORE_CACHE).then(cache=>cache.put('index.html',response.clone()));
       return response;
     }).catch(()=>caches.match('index.html')));
+    return;
+  }
+  // Chrome sends Range requests (bytes=0-) for <audio>. A cached full response
+  // cannot satisfy them, and Cache.put() rejects 206 Partial Content, which
+  // breaks playback with net::ERR_FAILED. Bypass the cache for ranges.
+  if(event.request.headers.has('range')){
+    event.respondWith(fetch(event.request));
     return;
   }
   event.respondWith((async()=>{
@@ -64,7 +71,7 @@ self.addEventListener('fetch',event=>{
     if(current)return current;
     try{
       const response=await fetch(event.request);
-      if(response.ok)await assets.put(event.request,response.clone());
+      if(response.status===200)await assets.put(event.request,response.clone());
       return response;
     }catch(error){
       const keys=await caches.keys();
