@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="uk">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Інтерактивний урок англійської для 9 класу: герундій, правила -ing, дієслова-пастки, вправи та тест.">
+  <title>Gerund: форма -ing — 9 клас</title>
+  <link rel="stylesheet" href="../../assets/lesson-theme.css">
+  <style>
+
+    *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:#f3f7f6;color:var(--ink);font:16px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif}a{color:var(--blue)}button,input,select{font:inherit}button{cursor:pointer}a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid #c66b12;outline-offset:3px}
+    .wrap{width:min(1100px,calc(100% - 32px));margin:auto}.top{background:#10354b;color:#fff}.top .wrap{padding:20px 0 64px}.crumbs{display:flex;flex-wrap:wrap;gap:8px;align-items:center;font-size:.9rem}.crumbs a{color:#dcf6ff;font-weight:700}.crumbs span{color:#c9e3eb}.hero{display:grid;grid-template-columns:1.5fr .7fr;gap:30px;align-items:center;margin-top:46px}h1{font-size:clamp(2.5rem,6vw,5rem);line-height:1.02;letter-spacing:-.045em;margin:12px 0 18px}h1 em{font-style:normal;color:var(--lime)}.hero p{font-size:1.15rem;color:#e4f2f5;max-width:650px}.hero-art{border:1px solid #5c8292;border-radius:28px;background:linear-gradient(150deg,#24637a,#104354);min-height:240px;display:grid;place-items:center;transform:rotate(3deg);padding:16px}.hero-art b{font-size:clamp(4rem,9vw,8rem);letter-spacing:-.08em;color:var(--lime)}.meta{display:flex;flex-wrap:wrap;gap:8px;margin-top:22px}.meta span{border:1px solid #7295a4;border-radius:999px;padding:5px 11px;color:#e7f5f7;font-size:.85rem}
+    .jump{display:flex;flex-wrap:wrap;gap:8px;background:var(--paper);border:1px solid var(--line);border-radius:18px;padding:10px;margin-top:-25px;position:relative;box-shadow:0 10px 28px #00000012}.jump a{padding:9px 13px;border-radius:10px;text-decoration:none;font-weight:750}.jump a:hover{background:var(--blue-soft)}main{padding-bottom:50px}section{scroll-margin-top:20px;margin-top:54px}.section-head{display:flex;align-items:end;gap:14px;margin-bottom:18px}.num{display:grid;place-items:center;background:var(--lime);border-radius:12px;min-width:42px;height:42px;font-weight:900;color:#193b23}h2{font-size:clamp(1.65rem,3vw,2.3rem);line-height:1.16;letter-spacing:-.025em;margin:0}h3{margin:0 0 10px;font-size:1.13rem}.lede{color:var(--muted);max-width:780px;margin:0 0 18px}.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}.card,.exercise,.test-shell{background:var(--paper);border:1px solid var(--line);border-radius:18px;padding:22px;box-shadow:0 5px 18px #0000000b}.card p{margin:7px 0}.example{margin-top:12px;background:#edf7f8;border:1px solid #b7d9e1;padding:11px 14px;border-radius:10px}.formula{display:inline-block;font-weight:800;background:var(--lime);border-radius:7px;padding:2px 8px}.note{background:var(--sand);border:1px solid #efd995;border-radius:16px;padding:17px 20px;margin-top:15px}.note p{margin:5px 0}.table-wrap{overflow-x:auto;background:#fff;border:1px solid var(--line);border-radius:17px;padding:8px}table{border-collapse:collapse;width:100%;min-width:610px}th,td{padding:13px 15px;text-align:left;vertical-align:top;border-bottom:1px solid var(--line)}tr:last-child td{border-bottom:0}th{background:#e6f4f7;color:#123e50}td:first-child{font-weight:800;white-space:nowrap}em{font-style:italic}.trap-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}.trap{border:1px solid #e9d9ad;background:#fffdf6;border-radius:15px;padding:17px}.trap p{margin:5px 0}.trap strong{color:#754314}.contrast{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:12px}.contrast div{background:#fff;border:1px solid #e6dbbd;border-radius:9px;padding:10px}
+    .task{border-top:1px solid var(--line);padding:17px 0}.task:first-of-type{border-top:0}.task label.prompt{display:block;font-weight:750;margin-bottom:9px}.task select,.task input{min-width:min(100%,260px);max-width:100%;border:1px solid #8ba4af;border-radius:9px;background:#fff;color:var(--ink);padding:9px 11px}.feedback{min-height:26px;margin:7px 0 0;font-size:.94rem}.feedback.good{color:var(--good)}.feedback.bad{color:var(--bad)}.actions{display:flex;align-items:center;flex-wrap:wrap;gap:12px;margin-top:18px}.btn{background:var(--blue);border:2px solid var(--blue);color:#fff;border-radius:10px;padding:10px 17px;font-weight:800}.btn:hover{background:#03455e}.btn.secondary{background:#fff;color:var(--blue)}.score{font-weight:800;color:var(--blue)}.test-shell{background:#11384c;color:#fff}.test-shell .lede{color:#d6e8ed}.test-item{background:#fff;color:var(--ink);border-radius:13px;padding:17px;margin:12px 0}.test-item fieldset{border:0;padding:0;margin:0}.test-item legend{font-weight:800;padding:0;margin-bottom:11px}.option{display:flex;align-items:flex-start;gap:10px;padding:7px 9px;border:1px solid #d5e1e6;border-radius:9px;margin:7px 0;cursor:pointer}.option:hover,.option:has(input:checked){background:#eaf6f8;border-color:#73a7b4}.option input{margin-top:5px;accent-color:var(--blue)}.test-item .feedback{margin-top:10px}.test-shell .btn{background:var(--lime);border-color:var(--lime);color:#153d2d}.test-shell .btn:hover{background:#c7e877}.test-shell .btn.secondary{background:transparent;color:#fff;border-color:#abc8d2}.test-shell .score{color:#e4ffb1}.end{border-top:1px solid var(--line);padding:25px 0 40px;color:var(--muted)}.end a{font-weight:750}details{background:#fff;border:1px solid var(--line);border-radius:13px;padding:0 15px;margin-top:10px}summary{cursor:pointer;font-weight:800;padding:13px 0}details p{margin:0 0 14px}
+    @media(max-width:760px){.hero{grid-template-columns:1fr}.hero-art{display:none}.grid,.trap-grid{grid-template-columns:1fr}.top .wrap{padding-bottom:46px}.jump{margin-top:-18px}.contrast{grid-template-columns:1fr}section{margin-top:42px}.card,.exercise,.test-shell{padding:17px}}
+    @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+  </style>
+</head>
+<body>
+  <header class="top"><div class="wrap">
+    <nav class="crumbs" aria-label="Шлях до уроку"><a data-site-nav="root" href="../../">Усі класи</a><span>›</span><a data-site-nav="grade" href="../">9 клас</a><span>›</span><span aria-current="page">Герундій</span></nav>
+    <div class="hero"><div><h1>Gerund:<br><em>дієслово + ing</em></h1><p>Коли <em>reading</em> означає «читання», чому після <em>to</em> іноді теж стоїть <em>-ing</em> і як одне слово змінює зміст речення.</p><div class="meta"><span>15–20 хвилин</span><span>Правила + 2 вправи</span><span>Тест на 12 запитань</span></div></div><div class="hero-art" aria-hidden="true"><b>‑ing.</b></div></div>
+  </div></header>
+  <main class="wrap">
+    <nav class="jump" aria-label="Розділи уроку"><a href="#basics">01 Основи</a><a href="#after">02 Після яких слів</a><a href="#traps">03 Пастки</a><a href="#practice">04 Вправи</a><a href="#test">05 Тест</a></nav>
+    <section id="basics" aria-labelledby="basics-title"><div class="section-head"><span class="num">01</span><h2 id="basics-title">Що таке герундій?</h2></div>
+      <p class="lede">Герундій має форму дієслова з <strong>-ing</strong>, яка називає дію як заняття або поняття. Українською часто перекладаємо іменником або неозначеною формою.</p>
+      <div class="grid">
+        <div class="card"><h3>Дія як підмет</h3><p><span class="formula">V + ing</span> на початку речення відповідає на запитання «що?».</p><div class="example"><strong>Swimming</strong> is good for you.<br><small>Плавання корисне для тебе.</small></div></div>
+        <div class="card"><h3>Дія як додаток</h3><p>Після певних дієслів говоримо, чим займаємося або що робимо.</p><div class="example">I enjoy <strong>swimming</strong>.<br><small>Мені подобається плавати.</small></div></div>
+        <div class="card"><h3>Дія після прийменника</h3><p>Після <em>in, on, at, about, for, without, before, after</em> ставимо <strong>-ing</strong>.</p><div class="example">She left without <strong>saying</strong> goodbye.<br><small>Вона пішла, не попрощавшись.</small></div></div>
+        <div class="card"><h3>Дія після <em>be</em></h3><p>Можна назвати заняття або улюблену справу.</p><div class="example">My hobby is <strong>drawing</strong>.<br><small>Моє хобі: малювання.</small></div></div>
+      </div>
+      <div class="note"><strong>Однакова форма, різна роль.</strong><p><em>I am swimming now.</em>: тут <em>swimming</em> є частиною Present Continuous. <em>Swimming is fun.</em>: тут це герундій. Дивись на роль слова в реченні.</p></div>
+    </section>
+    <section id="after" aria-labelledby="after-title"><div class="section-head"><span class="num">02</span><h2 id="after-title">Де потрібне -ing?</h2></div>
+      <div class="table-wrap"><table><thead><tr><th>Ситуація</th><th>Приклад</th><th>Підказка</th></tr></thead><tbody>
+        <tr><td>Після дієслів</td><td>enjoy, avoid, finish, keep, mind, suggest, practise, consider, admit, deny, miss, risk, give up, can't stand</td><td>We <strong>avoided making</strong> a mistake.</td></tr>
+        <tr><td>Після прийменників</td><td>good <strong>at</strong>, interested <strong>in</strong>, worried <strong>about</strong>, instead <strong>of</strong>, <strong>without</strong></td><td>He is good at <strong>solving</strong> puzzles.</td></tr>
+        <tr><td>У сталих виразах</td><td>look forward <strong>to</strong>, be used <strong>to</strong>, get used <strong>to</strong></td><td>I'm looking forward to <strong>seeing</strong> you.</td></tr>
+        <tr><td>Після go для занять</td><td>go swimming, go shopping, go skiing</td><td>Let's go <strong>hiking</strong> on Sunday.</td></tr>
+        <tr><td>Як підмет або після be</td><td>Reading helps. / My hobby is reading.</td><td>Дію названо як заняття.</td></tr>
+      </tbody></table></div>
+      <div class="note"><strong>Пастка зі словом <em>to</em>.</strong><p>У <em>want to read</em> слово <em>to</em> є частиною інфінітива → <strong>read</strong>. У <em>look forward to reading</em> та <em>be used to reading</em> це прийменник → <strong>reading</strong>.</p></div>
+      <h3 style="margin-top:25px">Як написати форму -ing</h3>
+      <div class="grid">
+        <div class="card"><strong>Здебільшого додаємо -ing</strong><div class="example">read → reading; play → playing</div></div>
+        <div class="card"><strong>Німе -e зникає</strong><div class="example">make → making; write → writing</div><small>Але: see → seeing; be → being.</small></div>
+        <div class="card"><strong>-ie перетворюється на -y</strong><div class="example">lie → lying; die → dying</div></div>
+        <div class="card"><strong>Подвоюємо кінцеву приголосну</strong><div class="example">run → running; sit → sitting; begin → beginning</div><small>Якщо короткий наголошений склад закінчується «приголосна–голосна–приголосна». Але: visit → visiting, open → opening, play → playing, fix → fixing.</small></div>
+      </div>
+    </section>
+    <section id="traps" aria-labelledby="traps-title"><div class="section-head"><span class="num">03</span><h2 id="traps-title">Слова-пастки: зміст змінюється</h2></div><p class="lede">Після цих дієслів можливі дві форми, але вони розповідають про різні події.</p>
+      <div class="trap-grid">
+        <div class="trap"><h3>stop</h3><div class="contrast"><div><strong>stop doing</strong><br>припинити дію<br><em>He stopped smoking.</em></div><div><strong>stop to do</strong><br>зупинитися, щоб щось зробити<br><em>He stopped to smoke.</em></div></div></div>
+        <div class="trap"><h3>remember / forget</h3><div class="contrast"><div><strong>remember doing</strong><br>пам’ятати минулу дію<br><em>I remember locking the door.</em></div><div><strong>remember to do</strong><br>не забути зробити<br><em>Remember to lock the door.</em></div></div><p>Так само: <em>forget doing</em> означає забути минулу подію; <em>forget to do</em> означає забути виконати дію.</p></div>
+        <div class="trap"><h3>try</h3><div class="contrast"><div><strong>try doing</strong><br>спробувати спосіб<br><em>Try restarting the app.</em></div><div><strong>try to do</strong><br>докладати зусиль<br><em>Try to restart the app.</em></div></div></div>
+        <div class="trap"><h3>regret</h3><div class="contrast"><div><strong>regret doing</strong><br>шкодувати про минулу дію<br><em>I regret telling her.</em></div><div><strong>regret to say/tell/inform</strong><br>з жалем повідомляти зараз<br><em>We regret to inform you.</em></div></div></div>
+      </div>
+      <details><summary>Ще одна пара: used to / be used to</summary><p><em>I used to wake up early.</em>: раніше я прокидався рано (тепер, можливо, ні). <em>I am used to waking up early.</em>: я звик прокидатися рано. Після <em>be used to</em> слово <em>to</em> є прийменником, тому потрібне <strong>-ing</strong>.</p></details>
+      <div class="note"><strong>Не став -ing автоматично після кожного дієслова.</strong><p><em>want, decide, hope, plan, agree, promise</em> зазвичай вимагають <strong>to + основна форма</strong>: <em>She decided to leave.</em></p></div>
+    </section>
+    <section id="practice" aria-labelledby="practice-title"><div class="section-head"><span class="num">04</span><h2 id="practice-title">Потренуйся</h2></div>
+      <p class="lede">У першій вправі обери форму, у другій напиши форму <em>-ing</em>. Після перевірки з’являться пояснення.</p>
+      <div class="grid"><div class="exercise"><h3>Вправа 1 · Обери форму</h3><div id="choice-practice"></div><div class="actions"><button class="btn" type="button" id="check-choice">Перевірити</button><span class="score" id="choice-score" role="status" aria-live="polite"></span></div></div>
+      <div class="exercise"><h3>Вправа 2 · Напиши -ing</h3><p>Введи лише форму слова в дужках.</p><div id="spelling-practice"></div><div class="actions"><button class="btn" type="button" id="check-spelling">Перевірити</button><span class="score" id="spelling-score" role="status" aria-live="polite"></span></div></div></div>
+    </section>
+    <section id="test" aria-labelledby="test-title"><div class="section-head"><span class="num">05</span><h2 id="test-title">Підсумковий тест</h2></div><div class="test-shell"><p class="lede">12 запитань. Обери одну відповідь на кожне; після перевірки побачиш результат і правило для кожної помилки.</p><div id="test-items"></div><div class="actions"><button class="btn" type="button" id="check-test">Показати результат</button><button class="btn secondary" type="button" id="reset-test">Почати заново</button><span class="score" id="test-score" role="status" aria-live="polite"></span></div></div></section>
+  </main>
+  <footer class="end"><div class="wrap"><a data-site-nav="grade" href="../">← Усі матеріали 9 класу</a> · <a data-site-nav="root" href="../../">Каталог уроків</a><p>ESL Lessons · Лишенко Володимир Миколайович</p></div></footer>
+  <script>
+    const choices = [
+      {q:'She enjoys ___ stories. (write)',options:['writing','to write','write'],answer:0,why:'Після enjoy вживаємо герундій.'},
+      {q:'We decided ___ early. (leave)',options:['leaving','to leave','leave'],answer:1,why:'Після decide зазвичай уживаємо to + основну форму.'},
+      {q:'He is good at ___ chess. (play)',options:['play','to play','playing'],answer:2,why:'At — прийменник; після нього потрібен герундій.'},
+      {q:'Please remember ___ the window tonight. (close)',options:['closing','to close','close'],answer:1,why:'Майбутня необхідна дія: remember to close.'},
+      {q:'I remember ___ that film last year. (see)',options:['seeing','to see','see'],answer:0,why:'Спогад про минулу дію: remember seeing.'},
+      {q:'I stopped ___ because I was tired. (run)',options:['to run','running','run'],answer:1,why:'Припинив бігти: stop running.'},
+      {q:'We stopped ___ some water. (buy)',options:['buying','buy','to buy'],answer:2,why:'Зупинилися з метою купити: stop to buy.'},
+      {q:'I look forward to ___ you. (meet)',options:['meeting','to meet','meet'],answer:0,why:'У look forward to слово to є прийменником.'}
+    ];
+    const spellings = [
+      {q:'She enjoys ___ books. (read)',answer:'reading',why:'read + ing → reading.'},
+      {q:'He avoided ___ late. (come)',answer:'coming',why:'Німе -e зникає: come → coming.'},
+      {q:'___ helps me relax. (run)',answer:'running',why:'Подвоюємо n: run → running.'},
+      {q:'I remember ___ on the grass. (lie)',answer:'lying',why:'-ie → -y: lie → lying.'},
+      {q:'We are interested in ___ films. (make)',answer:'making',why:'Німе -e зникає: make → making.'},
+      {q:'She kept ___ despite the noise. (study)',answer:'studying',why:'study → studying: y зберігається.'}
+    ];
+    const test = [
+      {q:'___ a new language takes time.',options:['Learning','To learning','Learn'],answer:0,why:'Дія як підмет: Learning.'},
+      {q:'I avoid ___ my phone before bed.',options:['to check','checking','check'],answer:1,why:'Після avoid — герундій.'},
+      {q:'They hope ___ us tomorrow.',options:['seeing','see','to see'],answer:2,why:'Після hope — to + основна форма.'},
+      {q:'She left without ___ goodbye.',options:['say','saying','to say'],answer:1,why:'Without — прийменник, тому saying.'},
+      {q:'I am used to ___ early.',options:['getting up','get up','to get up'],answer:0,why:'Be used to + -ing означає «звик до».'},
+      {q:'My grandfather used to ___ here.',options:['living','to live','live'],answer:2,why:'Used to + основна форма означає звичку в минулому.'},
+      {q:'The room is cold. Try ___ the window.',options:['closing','to close','close'],answer:0,why:'Пропонуємо спосіб розв’язання проблеми: try closing.'},
+      {q:'I tried ___ the window, but it was stuck.',options:['closing','to close','close'],answer:1,why:'Докладав зусиль, але не зміг: tried to close.'},
+      {q:'He stopped ___ coffee last year.',options:['to drink','drinking','drink'],answer:1,why:'Припинив пити каву: stopped drinking.'},
+      {q:'He stopped ___ a cup of coffee on the way.',options:['drinking','drink','to drink'],answer:2,why:'Зупинився з метою випити: stopped to drink.'},
+      {q:'I regret ___ her the secret yesterday.',options:['telling','to tell','tell'],answer:0,why:'Шкодує про минулу дію: regret telling.'},
+      {q:'Which spelling is correct?',options:['runing','running','runeing'],answer:1,why:'У run подвоюємо кінцеву n: running.'}
+    ];
+    const $ = id => document.getElementById(id);
+    function feedback(node,message,ok){node.textContent=message;node.className='feedback '+(ok?'good':'bad');}
+    function renderPractice(){
+      choices.forEach((item,i)=>{
+        const row=document.createElement('div');row.className='task';
+        const label=document.createElement('label');label.className='prompt';label.htmlFor='choice-'+i;label.textContent=(i+1)+'. '+item.q;
+        const select=document.createElement('select');select.id='choice-'+i;
+        const placeholder=document.createElement('option');placeholder.value='';placeholder.textContent='Обери відповідь';select.append(placeholder);
+        item.options.forEach((option,j)=>{const el=document.createElement('option');el.value=String(j);el.textContent=option;select.append(el);});
+        const message=document.createElement('p');message.className='feedback';message.id='choice-feedback-'+i;message.setAttribute('aria-live','polite');row.append(label,select,message);$('choice-practice').append(row);
+      });
+      spellings.forEach((item,i)=>{
+        const row=document.createElement('div');row.className='task';
+        const label=document.createElement('label');label.className='prompt';label.htmlFor='spelling-'+i;label.textContent=(i+1)+'. '+item.q;
+        const input=document.createElement('input');input.id='spelling-'+i;input.type='text';input.autocomplete='off';input.spellcheck=false;
+        const message=document.createElement('p');message.className='feedback';message.id='spelling-feedback-'+i;message.setAttribute('aria-live','polite');row.append(label,input,message);$('spelling-practice').append(row);
+      });
+    }
+    function checkChoice(){let correct=0;choices.forEach((item,i)=>{const value=$('choice-'+i).value;const ok=value!==''&&Number(value)===item.answer;if(ok)correct++;feedback($('choice-feedback-'+i),(value===''?'Обери варіант. ':'')+(ok?'Правильно. ':`Правильна відповідь: ${item.options[item.answer]}. `)+item.why,ok);});$('choice-score').textContent=`${correct} із ${choices.length} правильно`;}
+    function checkSpelling(){let correct=0;spellings.forEach((item,i)=>{const value=$('spelling-'+i).value.trim().toLowerCase();const ok=value===item.answer;if(ok)correct++;feedback($('spelling-feedback-'+i),(value===''?'Введи слово. ':'')+(ok?'Правильно. ':`Правильно: ${item.answer}. `)+item.why,ok);});$('spelling-score').textContent=`${correct} із ${spellings.length} правильно`;}
+    function renderTest(){test.forEach((item,i)=>{const row=document.createElement('div');row.className='test-item';const fieldset=document.createElement('fieldset');const legend=document.createElement('legend');legend.textContent=(i+1)+'. '+item.q;fieldset.append(legend);item.options.forEach((option,j)=>{const label=document.createElement('label');label.className='option';const input=document.createElement('input');input.type='radio';input.name='test-'+i;input.value=String(j);label.append(input,document.createTextNode(option));fieldset.append(label);});const message=document.createElement('p');message.className='feedback';message.id='test-feedback-'+i;message.setAttribute('aria-live','polite');row.append(fieldset,message);$('test-items').append(row);});}
+    function checkTest(){let correct=0;let missing=0;test.forEach((item,i)=>{const selected=document.querySelector(`input[name="test-${i}"]:checked`);if(!selected)missing++;const ok=!!selected&&Number(selected.value)===item.answer;if(ok)correct++;feedback($('test-feedback-'+i),(selected?'':'Відповідь не вибрано. ')+(ok?'Правильно. ':`Правильно: ${item.options[item.answer]}. `)+item.why,ok);});$('test-score').textContent=`Результат: ${correct} із ${test.length}${missing?` · без відповіді: ${missing}`:''}. ${correct>=10?'Тема засвоєна!':correct>=7?'Повтори слова-пастки й спробуй ще раз.':'Повернися до правил і пройди вправи ще раз.'}`;}
+    function resetTest(){document.querySelectorAll('#test-items input').forEach(input=>{input.checked=false;});document.querySelectorAll('#test-items .feedback').forEach(node=>{node.textContent='';node.className='feedback';});$('test-score').textContent='';$('test').scrollIntoView({behavior:'smooth'});}
+    renderPractice();renderTest();$('check-choice').addEventListener('click',checkChoice);$('check-spelling').addEventListener('click',checkSpelling);$('check-test').addEventListener('click',checkTest);$('reset-test').addEventListener('click',resetTest);
+  </script>
+</body>
+</html>

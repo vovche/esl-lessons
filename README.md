@@ -10,6 +10,7 @@
 
 - [Future Forms](9/future-forms/)
 - [Future Forms Quest](9/future-forms-v2/)
+- [Gerund: форма -ing](9/gerund/) — правила, слова-пастки, вправи та тест для 9 класу.
 
 Для перевірки Jolly Phonics перед публікацією:
 

@@ -14,3 +14,7 @@ When adding or moving a lesson:
 6. Run `python3 tests/check_navigation.py` before committing.
 
 Do not publish an orphan lesson or a numeric grade directory that returns 404. The navigation check runs in GitHub Actions and must pass before Pages deployment.
+
+## Default design for UI work
+
+When creating or redesigning a page, read [DESIGN.md](DESIGN.md) and use the gerund lesson as the visual reference. Load `assets/lesson-theme.css` for the shared palette. Apply the design to the page's content and interactions; preserve lesson behavior when restyling an existing page.

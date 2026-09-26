@@ -1,0 +1,237 @@
+:root {
+  color-scheme: light;
+  --ink: #14243a;
+  --muted: #465a70;
+  --paper: #fff;
+  --line: #d9e4e9;
+  --blue: #075b79;
+  --blue-soft: #e6f4f7;
+  --lime: #d7f58b;
+  --good: #17634a;
+  --good-bg: #e5f5ed;
+  --bad: #a43431;
+  --bad-bg: #fff0eb;
+  --sand: #fff5df;
+  --bg: #f3f7f6;
+  --card: #fff;
+  --accent: #075b79;
+  --accent2: #21829c;
+  --warn: #754314;
+  --soft: #e6f4f7;
+  --soft2: #edf7f8;
+  --shadow: 0 5px 18px #0000000b;
+  --radius: 18px;
+}
+
+/* Future Forms keeps its teaching layout and interactive states; this layer
+   gives the existing page the repository's lesson design. */
+body.future-lesson {
+  background: var(--bg);
+  color: var(--ink);
+  font: 16px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+body.future-lesson ::selection { background: var(--lime); color: var(--ink); }
+body.future-lesson :is(a, button, input, select, textarea, summary):focus-visible {
+  outline: 3px solid #c66b12;
+  outline-offset: 3px;
+}
+body.future-lesson .page { max-width: 1100px; padding: 20px 16px 48px; }
+body.future-lesson .hero {
+  background: #10354b;
+  color: #fff;
+  border: 0;
+  border-radius: 26px;
+  padding: clamp(24px, 4vw, 46px);
+  box-shadow: none;
+}
+body.future-lesson .hero::after { display: none; }
+body.future-lesson .breadcrumbs { color: #c9e3eb; margin-bottom: 22px; }
+body.future-lesson .breadcrumbs a { color: #dcf6ff; }
+body.future-lesson h1 {
+  max-width: 900px;
+  color: #fff;
+  font-size: clamp(2.5rem, 6vw, 4.75rem);
+  line-height: 1.04;
+  letter-spacing: -.04em;
+  margin: 0 0 18px;
+}
+body.future-lesson .hero .lead {
+  color: #e4f2f5;
+  font-size: 1.1rem;
+  max-width: 780px;
+}
+body.future-lesson .hero .author { color: #c9e3eb; }
+body.future-lesson .chips { margin: 22px 0 0; }
+body.future-lesson .chip {
+  background: transparent;
+  border-color: #7295a4;
+  color: #e7f5f7;
+  font-size: .86rem;
+  padding: 6px 11px;
+}
+body.future-lesson .quick-start {
+  background: #fff;
+  color: var(--ink);
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  padding: 20px;
+  margin-top: 25px;
+  max-width: 850px;
+}
+body.future-lesson .quick-start h2 { font-size: 1.5rem; color: var(--ink); }
+body.future-lesson .quick-start p,
+body.future-lesson .quick-start-steps { color: var(--muted); }
+body.future-lesson .quick-start-step {
+  background: var(--blue-soft);
+  border-color: #b7d9e1;
+  border-radius: 9px;
+}
+body.future-lesson .nav {
+  background: #fff;
+  border: 1px solid var(--line);
+  box-shadow: 0 10px 28px #00000012;
+  border-radius: 18px;
+  padding: 10px;
+  margin: -13px 14px 38px;
+  backdrop-filter: none;
+}
+body.future-lesson .nav a,
+body.future-lesson .nav summary {
+  border: 0;
+  color: var(--blue);
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: none;
+}
+body.future-lesson .nav a:hover,
+body.future-lesson .nav summary:hover { background: var(--blue-soft); }
+body.future-lesson .more-nav-links { border-color: var(--line); }
+body.future-lesson section { scroll-margin-top: 85px; margin: 45px 0; }
+body.future-lesson h2 { color: var(--ink); font-size: clamp(1.7rem, 3vw, 2.25rem); line-height: 1.18; }
+body.future-lesson h3 { color: var(--ink); }
+body.future-lesson .section-card,
+body.future-lesson .tense,
+body.future-lesson .lesson-card,
+body.future-lesson .mastery-card,
+body.future-lesson .session-card,
+body.future-lesson .quiz-card,
+body.future-lesson .transfer-card {
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  box-shadow: var(--shadow);
+}
+body.future-lesson .section-card { padding: clamp(18px, 3vw, 30px); }
+body.future-lesson .lesson-section { padding: 0 4px; }
+body.future-lesson .tense { padding: 18px; box-shadow: none; }
+body.future-lesson .tense .tag,
+body.future-lesson .pill,
+body.future-lesson .skill-chip {
+  background: var(--blue-soft);
+  border-color: #b7d9e1;
+  color: var(--blue);
+  border-radius: 9px;
+}
+body.future-lesson .formula {
+  background: var(--lime);
+  color: #193b23;
+  font-family: inherit;
+  font-weight: 850;
+  border-radius: 8px;
+}
+body.future-lesson .signal,
+body.future-lesson .feedback-rich .rule { color: var(--blue); }
+body.future-lesson .example {
+  background: #edf7f8;
+  border: 1px solid #b7d9e1;
+  border-radius: 10px;
+}
+body.future-lesson .note,
+body.future-lesson .tip-note,
+body.future-lesson .signal-blind {
+  background: var(--sand);
+  border: 1px solid #efd995;
+  color: #513717;
+  border-radius: 15px;
+  padding: 16px;
+}
+body.future-lesson .goodnote { background: var(--good-bg); border-color: #a7d9c4; color: var(--good); }
+body.future-lesson .trap,
+body.future-lesson .ua-trap { background: var(--bad-bg); border-color: #edc3b9; color: #7b2928; }
+body.future-lesson th { background: var(--blue-soft); color: #123e50; }
+body.future-lesson .eyebrow {
+  color: var(--blue);
+  font-size: .9rem;
+  font-weight: 750;
+  letter-spacing: 0;
+  text-transform: none;
+}
+body.future-lesson .btn,
+body.future-lesson .choice-btn,
+body.future-lesson .opt { border-radius: 10px; }
+body.future-lesson .btn.primary {
+  background: var(--blue);
+  color: #fff;
+  border-color: var(--blue);
+}
+body.future-lesson .btn.primary:hover { background: #03455e; }
+body.future-lesson .btn.good { background: var(--good); border-color: var(--good); }
+body.future-lesson .route-shell,
+body.future-lesson .v4-shell,
+body.future-lesson .session-shell,
+body.future-lesson .exit-shell {
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 20px;
+}
+body.future-lesson .lesson-section .route-shell,
+body.future-lesson .lesson-section .session-shell {
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+  padding: 0;
+}
+body.future-lesson .mastery-shell,
+body.future-lesson .transfer-shell,
+body.future-lesson .quiz {
+  background: #11384c;
+  color: #fff;
+  border-radius: 20px;
+}
+body.future-lesson .mastery-shell > h2,
+body.future-lesson .transfer-shell > h2 { color: #fff; }
+body.future-lesson .mastery-shell > .eyebrow,
+body.future-lesson .transfer-shell > .eyebrow { color: var(--lime) !important; }
+body.future-lesson .mastery-shell > p,
+body.future-lesson .transfer-shell > p { color: #d6e8ed !important; }
+body.future-lesson .skill-panel { background: #0c2d3e; border-color: #476677; }
+body.future-lesson .skill-panel h3 { color: #fff; }
+body.future-lesson .skill-panel p,
+body.future-lesson .skill-panel .why { color: #d6e8ed !important; }
+body.future-lesson .progress,
+body.future-lesson .skillbar { background: #385767; }
+body.future-lesson .progress > div,
+body.future-lesson .skillbar > i,
+body.future-lesson .lesson-meter > div { background: var(--lime); }
+body.future-lesson .bubble.me { background: var(--blue); }
+body.future-lesson .mission::before { display: none; }
+body.future-lesson .mission { border-color: var(--line); }
+body.future-lesson .footer { color: var(--muted); }
+
+@media (max-width: 700px) {
+  body.future-lesson .page { padding: 10px 10px 40px; }
+  body.future-lesson .hero { padding: 24px 18px 36px; border-radius: 20px; }
+  body.future-lesson .nav {
+    margin: -18px 0 25px;
+    border-radius: 14px;
+    overflow-x: auto;
+    position: relative;
+    top: auto;
+  }
+  body.future-lesson .section-card { padding: 18px; }
+  body.future-lesson section { margin: 28px 0; scroll-margin-top: 15px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  body.future-lesson { scroll-behavior: auto; }
+  body.future-lesson :is(.btn, .nav a, .progress > div) { transition: none; }
+}

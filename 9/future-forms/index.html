@@ -4,7 +4,7 @@
 <head>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1" name="viewport"/>
-<title>Future Forms — Student Mobile Lesson</title>
+<title>Future Forms — 9 клас</title>
 <style>
   :root{
     --bg:#f6f8fb; --card:#ffffff; --ink:#172033; --muted:#667085;
@@ -50,7 +50,7 @@
   .tense .tag{display:inline-block;padding:5px 9px;border-radius:999px;background:var(--soft);font-weight:800;color:var(--accent);font-size:12px}
   .formula{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;background:#101828;color:white;border-radius:10px;padding:9px 11px;margin:10px 0;font-size:14px}
   .signal{font-weight:800;color:#0f5a9f}
-  .example{padding:12px 14px;border-left:4px solid var(--accent2);background:#f8fbff;border-radius:0 10px 10px 0;margin:10px 0}
+  .example{padding:12px 14px;border:1px solid #b7d9e1;background:#f8fbff;border-radius:10px;margin:10px 0}
   .note{border-radius:14px;padding:15px 16px;background:#fff8eb;border:1px solid #fedf89;color:#7a2e0e}
   .goodnote{background:#ecfdf3;border-color:#abefc6;color:#05603a}
   .trap{background:#fff1f0;border:1px solid #fecdca;color:#912018;padding:15px 16px;border-radius:14px}
@@ -142,7 +142,7 @@
   .sprint{border:1px solid #bae6fd;background:#f0f9ff;border-radius:16px;padding:18px;margin-top:16px}
   .prod-input{width:100%;font:inherit;padding:12px 13px;border:1px solid #cbd5e1;border-radius:11px;margin-top:8px}
   .pill{display:inline-flex;align-items:center;gap:6px;border-radius:999px;padding:6px 10px;font-size:12px;font-weight:800;background:#eef2ff;border:1px solid #c7d2fe;color:#3730a3}
-  .tip-note{border-left:4px solid #8b5cf6;background:#f5f3ff;padding:13px 15px;border-radius:0 12px 12px 0}
+  .tip-note{border:1px solid #c4b5fd;background:#f5f3ff;padding:13px 15px;border-radius:0 12px 12px 0}
   @media(max-width:900px){
     .path{grid-template-columns:1fr}
     .concept-switch{grid-template-columns:1fr}
@@ -197,7 +197,6 @@
   .v4-shell{border:1px solid #dbeafe;border-radius:24px;background:linear-gradient(180deg,#f8fbff,#fff);padding:22px;margin-top:18px}
   .mission-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin-top:14px}
   .mission{border:1px solid #dbe2ea;border-radius:17px;padding:16px;background:#fff;position:relative;overflow:hidden}
-  .mission:before{content:"";position:absolute;inset:0 auto auto 0;width:5px;height:100%;background:#93c5fd}
   .mission h3{margin:0 0 8px}
   .mission .tag{font-size:11px;font-weight:900;text-transform:uppercase;letter-spacing:.06em;color:#475569}
   .dialogue{border-radius:16px;background:#0f172a;color:white;padding:16px;margin:12px 0}
@@ -255,7 +254,7 @@
   .phase-pill.active{background:#dbeafe;border-color:#60a5fa;color:#1d4ed8}
   .phase-pill.done{background:#dcfce7;border-color:#86efac;color:#166534}
   .phase-pill.skip{background:#f1f5f9;color:#94a3b8}
-  .pretest-card{border:1px solid #bfdbfe;background:#eff6ff;border-radius:18px;padding:18px;margin-top:14px}
+  .pretest-panel{background:#e6f4f7;border-radius:12px;padding:18px;margin-top:14px}
   .route-reco{border:1px solid #bbf7d0;background:#f0fdf4;border-radius:16px;padding:14px;margin-top:12px}
   .route-reco.warn{border-color:#fde68a;background:#fffbeb}
   .route-reco.danger{border-color:#fecdd3;background:#fff1f2}
@@ -343,12 +342,12 @@
     .skill-row b{text-align:right}
   }
 </style>
+<link rel="stylesheet" href="../../assets/lesson-theme.css">
 </head>
-<body>
+<body class="future-lesson">
 <div class="page">
 <header class="hero">
 <nav class="breadcrumbs" aria-label="Шлях до матеріалу"><a data-site-nav="root" href="../../">Усі класи</a><span aria-hidden="true">›</span><a data-site-nav="grade" href="../">9 клас</a><span aria-hidden="true">›</span><span aria-current="page">Future Forms</span></nav>
-<div class="eyebrow">English • Future forms</div>
 <h1>Як англійською говорити про майбутнє</h1>
 <p class="lead"><strong>Не вчи “4 часи”. Вчи 4 форми й 7 типових смислів.</strong> Англійська обирає форму майбутнього не тільки за словом <em>tomorrow</em>, а за тим, <strong>що саме відомо мовцеві зараз</strong>: розклад, домовленість, намір, видимі факти, обіцянка чи рішення в момент розмови.</p>
 <p class="author">Матеріали: Лишенко Володимир Миколайович</p>
@@ -659,7 +658,7 @@
 </div>
 </details>
 </section>
-<section class="section-card">
+<section class="lesson-section">
 <h2>8. Різниця, на якій найчастіше помиляються</h2>
 <div class="grid grid-2">
 <div class="mini-card"><h3>going to vs Present Continuous</h3><p><strong>I’m going to visit Kyiv.</strong> — у мене є намір.</p><p><strong>I’m visiting Kyiv on Saturday. I’ve got the tickets.</strong> — уже організовано.</p><p class="why">Питання до себе: “Я просто хочу/планую чи вже домовився/забронював/узгодив?”</p></div>
@@ -668,7 +667,7 @@
 <div class="mini-card"><h3>will vs Present Continuous</h3><p><strong>I’ll call her now.</strong> — щойно вирішив.</p><p><strong>I’m calling her at 7.</strong> — уже запланував на 7.</p></div>
 </div>
 </section>
-<section class="section-card" id="session">
+<section class="lesson-section" id="session">
 <div class="eyebrow">СТАРТ УРОКУ</div>
 <h2>9. Старт уроку: від pre-test до персонального маршруту</h2>
 <p>Почни з короткого <strong>pre-test без підказок</strong>. За результатом ресурс покаже, які теми вже тримаються, а які варто повторити.</p>
@@ -692,7 +691,7 @@
 <span class="phase-pill" id="phaseReview">Повторення</span>
 <span class="phase-pill" id="phaseExit">Фінальна перевірка</span>
 </div>
-<div class="pretest-card" id="pretestHost">
+<div class="pretest-panel" id="pretestHost">
 <strong>Щоб почати pre-test, введи ім’я/код учня.</strong>
 </div>
 </div>
@@ -711,7 +710,7 @@
 </div>
 </div>
 </section>
-<section class="section-card adaptive-engine" id="adaptive">
+<section class="lesson-section adaptive-engine" id="adaptive">
 <div class="eyebrow">ПЕРСОНАЛЬНЕ НАВЧАННЯ</div>
 <h2>10. Персональна траєкторія: що вчити далі</h2>
 <p>Якщо ти вже пройшов pre-test вище, маршрут почнеться зі слабкої теми. Якщо ні — тут є коротка власна діагностика. Мета — не просто набрати відсоток, а прибрати конкретну плутанину.</p>
@@ -743,7 +742,7 @@
 <div class="lesson-card" id="adaptiveStage"></div>
 </div>
 </section>
-<section class="section-card" id="spaced-review">
+<section class="lesson-section" id="spaced-review">
 <div class="eyebrow">ПОВТОРЕННЯ</div>
 <h2>11. Повторення слабких тем</h2>
 <p>Після pre-test тут з’являються теми, у яких були помилки. Краще повертатися до них <strong>після кількох інших завдань або трохи пізніше</strong>, а не повторювати те саме п’ять разів підряд.</p>
@@ -752,7 +751,7 @@
 </div>
 <div class="lesson-card" id="spacedHost" style="display:none"></div>
 </section>
-<section class="section-card" id="storylab">
+<section class="lesson-section" id="storylab">
 <div class="eyebrow">КОНТЕКСТ</div>
 <h2>12. Story Lab: майбутнє в реальних ситуаціях, а не в “голих реченнях”</h2>
 <p>У житті немає підпису <em>“це promise”</em>. Треба зрозуміти намір співрозмовника з контексту. Тому тут сигнали сховані всередині коротких ситуацій.</p>
@@ -900,7 +899,7 @@
 
 
 
-<section class="section-card">
+<section class="lesson-section">
 <h2>18. Контрольна картка перед будь-якою подібною вправою</h2>
 <div class="grid grid-2">
 <div class="mini-card"><h3>Крок 1. Не дивись на tomorrow</h3><p>Спочатку знайди <strong>тип ситуації</strong>. Слово часу — лише декорація.</p></div>
