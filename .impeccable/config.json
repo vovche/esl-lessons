@@ -11,6 +11,15 @@
         ],
         "createdAt": "2026-09-26T05:15:07.682Z",
         "reason": "User confirmed gerund lesson style: a white exercise card inside a dark practice shell is intentional and improves readability"
+      },
+      {
+        "rule": "dark-glow",
+        "value": "*",
+        "files": [
+          "9/gerund/index.html"
+        ],
+        "createdAt": "2026-09-27T11:13:48.844Z",
+        "reason": "Assistant reviewed existing CSS: both shadows use neutral black alpha for elevation, with no chromatic glow."
       }
     ]
   }

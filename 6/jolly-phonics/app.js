@@ -32,7 +32,7 @@
     $('groupLabel').textContent=`Група ${c.group}`; $('counter').textContent=`${index+1} / ${cards.length}`;
     $('progressBar').style.width=`${((index+1)/cards.length)*100}%`; $('grapheme').textContent=c.grapheme; $('ipa').textContent=c.ipa;
     $('illustration').src=c.illustration.replace(/^\//,''); $('illustration').alt=c.words.join(' і ');
-    $('word').innerHTML=c.words.map(w=>highlighted(w,c.grapheme)).join(' · '); $('voiceLabel').textContent=voiceLabel();
+    $('word').innerHTML=c.words.map(w=>`<a class="ld-word" data-dictionary-word="${escapeHtml(w.toLowerCase())}" href="../../dictionary/?q=${encodeURIComponent(w)}" aria-label="${escapeHtml(w)}: відкрити словникову картку з вимовою">${highlighted(w,c.grapheme)}</a>`).join(' · '); $('voiceLabel').textContent=voiceLabel();
     $('settingsVoice').textContent=voiceLabel(); $('prevBtn').disabled=index===0; $('nextBtn').textContent=index===cards.length-1?'Завершити ✓':'Далі →';
     $('originalImage').src=c.card.replace(/^\//,''); document.title=`${c.grapheme} — ${c.words.join(', ')} | Jolly Phonics`;
     saveProgress();

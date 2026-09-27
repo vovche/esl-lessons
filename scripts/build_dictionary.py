@@ -311,6 +311,7 @@ def build(with_audio: bool) -> None:
             'entries': entries}
     OUTPUT.mkdir(exist_ok=True)
     (OUTPUT / 'words.json').write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+    (OUTPUT / 'word-index.json').write_text(json.dumps([entry['word'] for entry in entries], ensure_ascii=False) + '\n', encoding='utf-8')
     print(f'{len(entries)} dictionary words', flush=True)
     if not with_audio:
         return
@@ -339,6 +340,7 @@ def check() -> None:
     data = json.loads((OUTPUT / 'words.json').read_text(encoding='utf-8'))
     current = inventory()
     entries = data['entries']
+    index_path = OUTPUT / 'word-index.json'
     manifest_path = OUTPUT / 'audio-manifest.json'
     manifest = json.loads(manifest_path.read_text(encoding='utf-8')) if manifest_path.exists() else {}
     hashes = manifest.get('sha256', {})
@@ -346,6 +348,8 @@ def check() -> None:
     missing = sorted(set(current) - set(indexed))
     stale = sorted(set(indexed) - set(current))
     errors = []
+    if not index_path.is_file() or json.loads(index_path.read_text(encoding='utf-8')) != [entry['word'] for entry in entries]:
+        errors.append('lesson word index does not match the dictionary')
     if data.get('audioSource', '').startswith('Edge TTS'):
         expected_paths = {entry['audio'][key] for entry in entries for key in VOICES}
         if set(hashes) != expected_paths:
