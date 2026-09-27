@@ -130,8 +130,9 @@ async def generate(entries: list[dict], sample: int | None) -> None:
     semaphore = asyncio.Semaphore(6)
     tasks = []
     for voice_key in VOICE_NAMES:
-        for start in range(0, len(words), BATCH_SIZE):
-            tasks.append((voice_key, start, words[start:start + BATCH_SIZE]))
+        pending = [word for word in words if not ready(word, voice_key)]
+        for start in range(0, len(pending), BATCH_SIZE):
+            tasks.append((voice_key, start, pending[start:start + BATCH_SIZE]))
     done = 0
     async def one(voice_key: str, start: int, batch: list[str]) -> None:
         nonlocal done

@@ -1,0 +1,141 @@
+[
+  {
+    "slug": "special-occasion-outfits", "unit": 2,
+    "title": "Dress for the occasion", "title_uk": "Одяг для особливих подій",
+    "lead": "Розрізняй повсякденний і святковий одяг та розповідай про традиції без припущення, що всі вдягаються однаково.",
+    "learn_intro": "Порівняй події з підручника та обери слова, які допомагають описати доречний одяг.",
+    "cards": [
+      {"title": "Повсякденне чи святкове?", "body": "Casual clothes — зручний одяг на щодень; special occasion — особлива подія. Dress up означає вдягнутися святково, а outfit — комплект одягу. Appropriate означає доречний для конкретної події, а не «найдорожчий».", "example": "For a school celebration, I choose a comfortable outfit."},
+      {"title": "Традиції в тексті", "body": "У підручнику Джеймс згадує випускний із костюмами й сукнями; Аррон розповідає про Burns Night, білу сорочку та кілт; Анві — про яскравий традиційний одяг на весіллі сестри. Це приклади конкретних родин і подій.", "example": "Arron wears a kilt for Burns Night."},
+      {"title": "Поясни свій вибір", "body": "Коментарі під відео показують різні вподобання: хтось обирає вишиванку, хтось ставить комфорт вище за високі підбори. Для відповіді назви подію, одяг і причину. Не оцінюй людину за її вбранням.", "example": "I wear a vyshyvanka on Independence Day because it matters to my family."}
+    ],
+    "questions": [
+      {"prompt": "Що означає special occasion?", "choices": ["A special event", "An ordinary lesson", "A type of footwear"], "answer": 0, "why": "Occasion — подія або нагода."},
+      {"prompt": "Яка фраза означає святково вдягнутися?", "choices": ["dress up", "take off", "carry"], "answer": 0, "why": "Dress up стосується особливого образу для події."},
+      {"prompt": "Що вдягнув Аррон на Burns Night у тексті?", "choices": ["A kilt and a white shirt", "A sari and sandals", "A sports uniform"], "answer": 0, "why": "Аррон описує кілт як частину свого святкового одягу."},
+      {"prompt": "Який одяг згадано на весіллі сестри Анві?", "choices": ["Kurtas and saris", "Only jeans and trainers", "Only school uniforms"], "answer": 0, "why": "У тексті названо традиційні kurtas та saris."},
+      {"prompt": "Що означає outfit?", "choices": ["A set of clothes worn together", "A single button", "A musical instrument"], "answer": 0, "why": "Outfit — цілісний комплект одягу."},
+      {"prompt": "Яке речення поважає різні вподобання?", "choices": ["I choose flat shoes because I can dance in them.", "Everyone must wear high heels.", "A person in jeans is careless."], "answer": 0, "why": "Речення пояснює власний вибір без оцінки інших."},
+      {"prompt": "Що означає appropriate у розмові про одяг?", "choices": ["Suitable for the situation", "The most expensive", "Always formal"], "answer": 0, "why": "Доречність залежить від події та її умов."},
+      {"prompt": "Яка відповідь має подію, одяг і причину?", "choices": ["For our school concert, I wear a shirt because I feel comfortable in it.", "I have clothes.", "All celebrations are the same."], "answer": 0, "why": "У відповіді є контекст, вибір і пояснення."}
+    ],
+    "write": {"prompt": "Опиши одне реальне або вигадане свято у 5–6 реченнях: що ти або герой вдягає, чому це доречно й зручно, чи є сімейна традиція.", "starter": "For ... , I wear ... . This outfit is appropriate because ... .", "checklist": ["Названо конкретну подію й комплект одягу.", "Вибір пояснено без оцінки чужого одягу.", "Є щонайменше два нові слова з уроку."]},
+    "sources": {"workbook": [21, 22], "textbook": [27, 28, 29, 30]}
+  },
+  {
+    "slug": "clothes-and-accessories", "unit": 2,
+    "title": "Build an outfit", "title_uk": "Одяг, взуття й аксесуари",
+    "lead": "Збери комплект для ситуації та точно називай речі й дії: wear, put on, take off і carry.",
+    "learn_intro": "Спершу розклади речі на три групи, а потім відрізни стан від дії.",
+    "cards": [
+      {"title": "Три групи речей", "body": "Clothes: blouse, jumper, shirt, trousers. Footwear: boots, sandals, trainers, flip-flops. Accessories: belt, scarf, cap, necklace; ring і earrings належать також до jewellery. Не всі речі мають один «правильний» стиль — вирішує ситуація.", "example": "I wear a jumper, jeans and trainers to school."},
+      {"title": "Стан і дія", "body": "Wear або have on описують те, що вже вдягнено. Put on — вдягнути, take off — зняти, get dressed — вдягатися загалом. Carry використовуй для речі, яку несеш, наприклад сумки, а не для куртки на собі.", "example": "I put on my coat, but I carry my bag."},
+      {"title": "Пара чи одна річ?", "body": "Для jeans, trousers, shoes, gloves зазвичай кажемо a pair of. У зошиті є вправа на сортування аксесуарів, прикрас і взуття; спробуй уявити власний набір для холодного чи теплого дня.", "example": "A pair of boots goes with my warm coat."}
+    ],
+    "questions": [
+      {"prompt": "Яка річ належить до footwear?", "choices": ["Sandals", "A scarf", "A blouse"], "answer": 0, "why": "Sandals — взуття для теплої погоди."},
+      {"prompt": "Який предмет є jewellery?", "choices": ["A bracelet", "A jumper", "A suitcase"], "answer": 0, "why": "Bracelet — прикраса на руці."},
+      {"prompt": "Яке дієслово описує дію «зняти куртку»?", "choices": ["take off", "carry", "have on"], "answer": 0, "why": "Take off означає знімати одяг або взуття."},
+      {"prompt": "Що природно сказати про сумку в руці?", "choices": ["I carry a bag.", "I wear a bag on my feet.", "I dress a bag."], "answer": 0, "why": "Carry вживають для речі, яку несуть."},
+      {"prompt": "Яка форма правильна для джинсів?", "choices": ["a pair of jeans", "a jean", "one jeans"], "answer": 0, "why": "Jeans має форму множини; для однієї одиниці кажемо a pair of jeans."},
+      {"prompt": "Який одяг допоможе, коли надворі холодно?", "choices": ["A warm jumper and boots", "Flip-flops and shorts only", "Only sunglasses"], "answer": 0, "why": "Комплект обираємо за погодою та потребою."},
+      {"prompt": "Яке речення описує те, що вже вдягнено?", "choices": ["She is wearing a blue shirt.", "She puts on a blue shirt now yesterday.", "She carries a shirt on her feet."], "answer": 0, "why": "Wearing показує наявний одяг; put on — дію вдягання."},
+      {"prompt": "Який ряд містить тільки аксесуари?", "choices": ["belt, scarf, cap", "boots, sandals, trainers", "shirt, jumper, trousers"], "answer": 0, "why": "Пояс, шарф і кепка доповнюють комплект."}
+    ],
+    "write": {"prompt": "Збери два комплекти для вигаданого героя: на звичайний навчальний день і на прохолодний вихідний. У кожному назви одяг, взуття та один аксесуар; поясни вибір.", "starter": "For school, Alex wears ... . On a cold weekend, Alex puts on ... .", "checklist": ["У кожному комплекті є одяг, взуття й аксесуар.", "Wear, put on і carry вжито за значенням.", "Вибір пов’язаний із ситуацією або погодою."]},
+    "sources": {"workbook": [23, 24, 25, 34], "textbook": [31, 32]}
+  },
+  {
+    "slug": "fashion-opinions", "unit": 2,
+    "title": "Fashion and me", "title_uk": "Читай і висловлюй думку про моду",
+    "lead": "Порівняй різні ставлення до моди й навчися аргументувати власне, не висміюючи чужий вибір.",
+    "learn_intro": "У читанні важливі не лише назви речей, а й те, чому люди обирають саме їх.",
+    "cards": [
+      {"title": "Різні пріоритети", "body": "У блогах підручника Сандра любить трендові речі; Александр вважає комфорт важливішим; Алісія створює оригінальний одяг; Джек зазвичай обирає простий комплект. Це різні погляди, і кожен має свою причину.", "example": "I prefer comfortable clothes because I move a lot."},
+      {"title": "Слова для опису", "body": "Baggy — широкуватий, skinny — дуже обтислий, loose — вільний. Trendy означає модний зараз, funky — незвичний та яскравий. Hoodie — худі, stripe — смужка на тканині, cotton — бавовна.", "example": "Her loose cotton shirt feels comfortable."},
+      {"title": "Думка + доказ", "body": "Почни з In my opinion або I prefer…, потім додай because. Якщо не погоджуєшся, визнай іншу думку: I understand that…, but… Зошит пропонує відповісти на запитання про власні покупки й аксесуари.", "example": "I understand that trends are fun, but I prefer simple clothes."}
+    ],
+    "questions": [
+      {"prompt": "Хто в читанні любить бути попереду модних тенденцій?", "choices": ["Alicia", "Alexander", "Jack"], "answer": 0, "why": "Алісія створює власні речі й хоче бути оригінальною."},
+      {"prompt": "Що для Александра важливіше за тренди?", "choices": ["Comfort", "Winning a contest", "A school uniform"], "answer": 0, "why": "Він не вважає моду головною й обирає зручність."},
+      {"prompt": "Який прикметник описує дуже обтислі джинси?", "choices": ["skinny", "baggy", "loose"], "answer": 0, "why": "Skinny jeans сидять дуже щільно."},
+      {"prompt": "Що означає hoodie?", "choices": ["A hooded top", "A pair of sandals", "A formal tie"], "answer": 0, "why": "Hoodie — верхній одяг із капюшоном."},
+      {"prompt": "Яке речення містить думку й причину?", "choices": ["I like loose shirts because they are comfortable.", "Loose shirts.", "Fashion is fashion."], "answer": 0, "why": "Because пояснює особистий вибір."},
+      {"prompt": "Яке слово означає модний зараз?", "choices": ["trendy", "private", "formal"], "answer": 0, "why": "Trend — тенденція; trendy — відповідний до нинішнього тренду."},
+      {"prompt": "Яка фраза допомагає ввічливо висловити іншу думку?", "choices": ["I understand that, but I prefer…", "Your style is silly.", "Nobody should think differently."], "answer": 0, "why": "Ввічливий контраст не оцінює людину."},
+      {"prompt": "Що найкраще описує позицію Джека?", "choices": ["He likes simple clothes.", "He makes every outfit himself.", "He always follows every trend."], "answer": 0, "why": "Йому близький простий одяг, навіть якщо інші радять яскравіший."}
+    ],
+    "write": {"prompt": "Напиши короткий коментар до блогу: чи важлива для тебе мода, який комплект ти обираєш найчастіше й чому. Додай одну ввічливу відповідь людині з іншим поглядом.", "starter": "In my opinion, fashion ... . I prefer ... because ... .", "checklist": ["Є власна позиція й конкретна причина.", "Вжито щонайменше два слова для опису одягу.", "Незгода висловлена без образ."]},
+    "sources": {"workbook": [26, 27], "textbook": [33, 34]}
+  },
+  {
+    "slug": "styles-and-judgement", "unit": 2,
+    "title": "Describe the style", "title_uk": "Стилі, прикметники й перше враження",
+    "lead": "Добирай точні прикметники до одягу, розрізняй стилі та не роби висновків про людину лише за зовнішністю.",
+    "learn_intro": "Визнач ознаки речі, а тоді сформулюй обережну думку про стиль.",
+    "cards": [
+      {"title": "Протилежні прикметники", "body": "Stylish — unfashionable, tight — loose, expensive — cheap, comfortable — uncomfortable. Original відрізняється від plain, а elegant — від sporty. Деякі пари залежать від ситуації, тому назви конкретну річ.", "example": "The jacket is stylish, but the shoes are uncomfortable."},
+      {"title": "Три стилі", "body": "Casual поєднує повсякденні речі, classic — стримані форми, formal — одяг для офіційної події. Підручник пропонує сортувати речі; одна й та сама річ іноді пасує до кількох стилів, якщо змінити решту комплекту.", "example": "A plain shirt can be casual or formal with different trousers."},
+      {"title": "Не суди за обкладинкою", "body": "Тема розмови в підручнику та зошиті — чи справедливо оцінювати людину за одягом. Поясни, що можна бачити: колір, фасон, тканину. Намір, характер і доброта людини не читаються з худі або костюма.", "example": "I can describe the outfit, but I cannot know the person from it."}
+    ],
+    "questions": [
+      {"prompt": "Яка пара є протилежною?", "choices": ["tight — loose", "stylish — trendy", "cheap — inexpensive"], "answer": 0, "why": "Tight — обтислий, loose — вільний."},
+      {"prompt": "Яке слово найкраще описує незручні підбори?", "choices": ["uncomfortable", "curious", "purposeful"], "answer": 0, "why": "Uncomfortable стосується відчуття незручності."},
+      {"prompt": "Що означає plain у розмові про одяг?", "choices": ["Simple, without much decoration", "Very expensive", "Made only of leather"], "answer": 0, "why": "Plain — простий або без виразного оздоблення."},
+      {"prompt": "Який комплект найчастіше доречний для formal події?", "choices": ["A suit and a tie", "Flip-flops and a swimsuit", "Gym clothes"], "answer": 0, "why": "Formal означає офіційний контекст."},
+      {"prompt": "Яке твердження є спостереженням, а не оцінкою характеру?", "choices": ["The hoodie is blue and loose.", "A hoodie means the person is lazy.", "Only formal clothes show respect."], "answer": 0, "why": "Колір і фасон можна побачити; характер із одягу не визначиш."},
+      {"prompt": "Який прикметник є протилежним до expensive?", "choices": ["cheap", "elegant", "sporty"], "answer": 0, "why": "Cheap означає недорогий, хоча в розмові можна сказати inexpensive."},
+      {"prompt": "Чому одна сорочка може пасувати до різних стилів?", "choices": ["The rest of the outfit changes its look.", "Every shirt is a uniform.", "Styles never overlap."], "answer": 0, "why": "Комплект і ситуація впливають на сприйняття речі."},
+      {"prompt": "Яке запитання допомагає обговорити чужий стиль без осуду?", "choices": ["What do you like about this outfit?", "Why are you dressed so badly?", "Are you always like this?"], "answer": 0, "why": "Відкрите запитання дає людині пояснити власний вибір."}
+    ],
+    "write": {"prompt": "Опиши два комплекти для різних ситуацій і назви стиль кожного. Додай по два точні прикметники та одне речення про те, чого не можна дізнатися про людину лише з її одягу.", "starter": "This is a casual outfit with ... . It looks ... and ... .", "checklist": ["Названо дві ситуації та два стилі.", "Прикметники описують речі, а не оцінюють людину.", "Є обережний висновок про межі першого враження."]},
+    "sources": {"workbook": [28, 29, 30, 31, 35, 36], "textbook": [36, 37], "note": "Завдання на слухання зі с. 28–29 зошита використано як тему обговорення, а не як перевірку недоступного тут аудіо."}
+  },
+  {
+    "slug": "fashion-grammar", "unit": 2,
+    "title": "Wearing or to wear?", "title_uk": "Форма -ing чи to-інфінітив",
+    "lead": "Відрізняй герундій від дії, що триває зараз, і обирай -ing або to після поширених дієслів та прийменників.",
+    "learn_intro": "Кожна форма має причину. Спершу визнач роль слова, потім дивися на попереднє дієслово чи прийменник.",
+    "cards": [
+      {"title": "Одна форма, дві ролі", "body": "Shopping can be fun — shopping називає заняття й є герундієм. I am shopping now — shopping частина Present Continuous. У першому реченні слово поводиться як іменник, у другому описує дію саме зараз.", "example": "Designing clothes is a hobby. I am designing a shirt now."},
+      {"title": "Коли потрібне -ing", "body": "Після enjoy, mind, can't stand та прийменників at, in, for, about часто потрібна форма -ing. Фраза look forward to також закінчується прийменником to, тому після нього вживай -ing.", "example": "I enjoy wearing boots. She is good at making accessories."},
+      {"title": "Коли потрібне to + verb", "body": "Want, agree, decide, offer, promise і ask someone зазвичай ведуть до to-інфінітива. Порівняй I like wearing a jacket та I want to wear a jacket. Після модального can форма to не потрібна.", "example": "They agreed to help us. I want to try a new style."}
+    ],
+    "questions": [
+      {"prompt": "___ a new outfit takes time.", "choices": ["Designing", "To designing", "Am designing"], "answer": 0, "why": "На початку речення заняття можна назвати герундієм."},
+      {"prompt": "I am ___ a jacket right now.", "choices": ["choosing", "to choose", "choose"], "answer": 0, "why": "Am choosing — дія триває зараз."},
+      {"prompt": "Mira enjoys ___ her own clothes.", "choices": ["making", "to make", "make"], "answer": 0, "why": "Після enjoy вживаємо -ing."},
+      {"prompt": "The club agreed ___ the costumes.", "choices": ["to design", "designing", "design"], "answer": 0, "why": "Після agree зазвичай потрібен to-інфінітив."},
+      {"prompt": "She is interested in ___ fashion history.", "choices": ["studying", "to study", "study"], "answer": 0, "why": "In — прийменник, після нього тут потрібне -ing."},
+      {"prompt": "We look forward to ___ the exhibition.", "choices": ["visiting", "to visit", "visit"], "answer": 0, "why": "У look forward to слово to є прийменником."},
+      {"prompt": "They offered ___ us find a suit.", "choices": ["to help", "helping", "help"], "answer": 0, "why": "Offer to help — звична конструкція з інфінітивом."},
+      {"prompt": "I can't stand ___ very tight shoes.", "choices": ["wearing", "to wearing", "wear"], "answer": 0, "why": "Після can't stand у цьому значенні вживаємо -ing."}
+    ],
+    "write": {"prompt": "Напиши 5 речень про свій стиль: одне з герундієм як підметом, два після enjoy/mind/прийменника і два з to-інфінітивом після want/agree/decide. Підкресли слова, які визначили форму.", "starter": "Choosing clothes ... . I enjoy ... . I want to ... .", "checklist": ["Є щонайменше три правильні форми -ing.", "Є два to-інфінітиви після відповідних дієслів.", "Ти можеш пояснити причину кожного вибору."]},
+    "extra_link": {"href": "../gerund/", "text": "Більше практики з герундієм →"},
+    "sources": {"workbook": [38], "textbook": [35, 38], "note": "Нові вправи побудовано в контексті одягу. Окремий урок Gerund у репозиторії дає ширше повторення цієї граматики."}
+  },
+  {
+    "slug": "fashion-blog", "unit": 2,
+    "title": "Fashion then and now", "title_uk": "Порівняй стилі й напиши допис",
+    "lead": "Згадай модні речі різних десятиліть, а потім створи короткий допис із власною думкою та прикладами.",
+    "learn_intro": "Поєднай спостереження з розмови про моду, чітку структуру блогу та уважність під час покупок.",
+    "cards": [
+      {"title": "Тоді й тепер", "body": "У розмові підручника згадано leg warmers і яскравий одяг 1980-х, а також baggy jeans, пов’язані з 1990-ми. Мода повертається, тому в порівнянні називай і період, і конкретну річ, не стверджуючи, що її носили всі.", "example": "Leg warmers were popular in the 1980s; some people wear them again today."},
+      {"title": "Будова допису", "body": "Почни з власної думки, наведи два приклади одягу або стилю, поясни причини й заверши коротким висновком. У зошиті є зразок про покупки, а в підручнику — про зв’язок одягу й самовираження.", "example": "In my opinion, comfort matters. For example, I choose loose trousers for long walks."},
+      {"title": "Покупки як частина теми", "body": "Можна згадати, де й з ким ти купуєш речі або чому рідко ходиш до крамниць. Якщо пишеш про онлайн-покупки, не додавай особисті фінансові дані; порівнюй розмір і обирай надійне джерело.", "example": "I shop online only when I know my size and trust the store."}
+    ],
+    "questions": [
+      {"prompt": "Яку річ у розмові пов’язано з 1980-ми?", "choices": ["Leg warmers", "A modern phone", "A school backpack"], "answer": 0, "why": "У діалозі згадано leg warmers як частину образу того часу."},
+      {"prompt": "З яким періодом у розмові пов’язано baggy jeans?", "choices": ["The 1990s", "The 1880s", "The 2020s only"], "answer": 0, "why": "Персонажі згадують популярність широких джинсів у 1990-х."},
+      {"prompt": "Яке речення є добрим початком допису?", "choices": ["In my opinion, clothes can show what we enjoy.", "That is all.", "The third reason is..."], "answer": 0, "why": "Початок вводить головну думку."},
+      {"prompt": "Що має йти після думки в аргументованому дописі?", "choices": ["A concrete example and a reason", "Only the same sentence again", "A random phone number"], "answer": 0, "why": "Приклад і причина роблять думку зрозумілою."},
+      {"prompt": "Яке речення обережно порівнює моду минулого й теперішнього?", "choices": ["Some people wore bright colours then; I also see them today.", "Everyone always wore only bright colours.", "Nobody wears old styles now."], "answer": 0, "why": "Some people уникає надто широкого узагальнення."},
+      {"prompt": "Що корисно перевірити перед онлайн-покупкою?", "choices": ["The size and the store", "A stranger's password", "Only the number of ads"], "answer": 0, "why": "Розмір і надійність продавця впливають на вдалу покупку."},
+      {"prompt": "Який зв’язок доречний для прикладу?", "choices": ["For example", "Never mind", "By the way only"], "answer": 0, "why": "For example вводить доказ або ілюстрацію думки."},
+      {"prompt": "Яке завершення підсумовує власну позицію?", "choices": ["All in all, I choose clothes that help me feel comfortable.", "I have no conclusion at all.", "Fashion is a word in a dictionary."], "answer": 0, "why": "All in all коротко повертає читача до головної думки."}
+    ],
+    "write": {"prompt": "Напиши допис на 80–100 слів: твоя думка про моду, два конкретні комплекти або речі, коротке порівняння «тоді й тепер» і висновок. За бажанням додай речення про покупки. Для домашньої версії розшир текст до 120–150 слів, як у підручнику.", "starter": "In my opinion, ... . For example, ... . In the past, ... . All in all, ... .", "checklist": ["Є вступ, приклади, порівняння та висновок.", "Названо хоча б одну річ і відповідний період.", "Текст висловлює власну позицію без узагальнень про всіх."]},
+    "sources": {"workbook": [32, 33, 37], "textbook": [39, 40, 41, 42, 43, 44], "note": "Діалог про моду різних десятиліть і зразки блогу використано як опору для власного тексту; довгі фрагменти не відтворено. Урок не вимагає недоступного тут аудіозапису."}
+  }
+]

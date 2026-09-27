@@ -1,0 +1,140 @@
+[
+  {
+    "slug": "online-friends", "unit": 1,
+    "title": "Meet the people", "title_uk": "Знайомство через профілі",
+    "lead": "Прочитай короткі профілі, знайди спільні інтереси й напиши кілька речень про себе без зайвих особистих даних.",
+    "learn_intro": "Спершу подивися, як підлітки поєднують факти, інтереси й короткий опис характеру.",
+    "cards": [
+      {"title": "Факт + інтерес", "body": "У профілі назви місце, заняття й конкретний приклад. У тексті підручника Діана читає романи, любить джаз і грає на гітарі; Пітер захоплюється комп’ютерними іграми та бачиться з друзями наживо.", "example": "I enjoy music, and I play the guitar in my school band."},
+      {"title": "Характер у дії", "body": "Софія створює власний одяг, тому її називають творчою. Абдул багато тренується і грає в баскетбол — це приклад енергійної людини. Прикметник стає зрозумілішим, коли ти додаєш доказ.", "example": "She is creative because she makes her own clothes."},
+      {"title": "Знайди спільне", "body": "Коментар до профілю має не лише назвати спільний інтерес, а й пояснити його. Можна ввічливо не погодитися: I see your point, but… Особистий профіль не потребує адреси чи номера телефону.", "example": "I think Diana and Ajax could talk about music."}
+    ],
+    "questions": [
+      {"prompt": "Хто в підручнику любить джаз і грає на гітарі?", "choices": ["Diana", "Sofia", "Abdul"], "answer": 0, "why": "Діана згадує джаз і шкільний гурт."},
+      {"prompt": "Що Пітер робить із друзями у вихідні?", "choices": ["Meets them in the city", "Only chats online", "Goes to fashion shows"], "answer": 0, "why": "Онлайн-спілкування не замінює їхніх зустрічей у місті."},
+      {"prompt": "Який факт найкраще пояснює, чому Софію називають creative?", "choices": ["She makes clothes", "She sleeps late", "She plays basketball"], "answer": 0, "why": "Творчість підтверджує її власна робота над одягом."},
+      {"prompt": "Який інтерес поєднує Діану з коментатором Ajax?", "choices": ["Music", "Basketball", "Photography"], "answer": 0, "why": "Обом цікава музика, хоча вони грають на різних інструментах."},
+      {"prompt": "Яке речення містить конкретний доказ риси характеру?", "choices": ["I am active because I swim every weekend.", "I am a person.", "I have many things."], "answer": 0, "why": "Щотижневе плавання пояснює слово active."},
+      {"prompt": "Яка фраза доречна для ввічливої незгоди?", "choices": ["I see your point, but I disagree.", "You are wrong. Stop talking.", "I never listen to you."], "answer": 0, "why": "Спершу визнай думку співрозмовника, потім скажи свою."},
+      {"prompt": "Що доречно додати до відкритого навчального профілю?", "choices": ["A hobby and a favourite subject", "A home address", "A phone number"], "answer": 0, "why": "Захоплення допомагають познайомитися без приватних контактів."},
+      {"prompt": "Яке речення природно називає захоплення?", "choices": ["I am into photography.", "I into photography am.", "I am photography into."], "answer": 0, "why": "Фраза be into something означає захоплюватися чимось."}
+    ],
+    "write": {"prompt": "Створи навчальний профіль із 5–6 речень: ім’я або псевдонім, інтереси, одна риса з доказом і запрошення до розмови. Не вказуй справжню адресу чи телефон.", "starter": "Hi! I'm ... . I'm into ... . My friends say I'm ... because ... .", "checklist": ["Названо щонайменше два інтереси.", "Рису характеру пояснено прикладом.", "Текст не містить приватних контактів."]},
+    "sources": {"workbook": [6, 7], "textbook": [7, 8, 9, 10]}
+  },
+  {
+    "slug": "personality-types", "unit": 1,
+    "title": "What kind of person?", "title_uk": "Типи особистості й риси характеру",
+    "lead": "Навчися описувати людей точніше: обирай доброзичливі слова й підтверджуй їх поведінкою, а не ярликами.",
+    "learn_intro": "Порівняй тип людини з окремою рисою характеру й перевір, які слова пасують до прикладів.",
+    "cards": [
+      {"title": "Тип — це короткий образ", "body": "Adventurer любить відкривати нове; challenger охоче змагається; thinker уважно аналізує; protector турбується про інших. Joker має почуття гумору, а commander прагне керувати. Це підказки для опису, а не незмінні ярлики.", "example": "A thinker asks questions and checks the facts."},
+      {"title": "Риса — це конкретна якість", "body": "Open людина говорить про свої думки; private тримає частину думок при собі. Confident означає впевнена, curious — допитлива, forgiving — готова пробачити, cheerful — життєрадісна. У різних ситуаціях риси можуть проявлятися по-різному.", "example": "Marta is curious: she asks how things work."},
+      {"title": "Обирай обережні формулювання", "body": "Слова bookworm, chatterbox і dynamo зустрічаються у зошиті як образні назви. Якщо описуєш друга, додай usually, sometimes або seems. Так ти не зведеш людину до одного слова.", "example": "He is usually cheerful, but he can be quiet today."}
+    ],
+    "questions": [
+      {"prompt": "Хто найкраще відповідає опису: любить досліджувати нові місця?", "choices": ["An adventurer", "A commander", "A bookworm"], "answer": 0, "why": "Adventurer шукає нові враження й відкриття."},
+      {"prompt": "Хто аналізує факти перед рішенням?", "choices": ["A thinker", "A joker", "A chatterbox"], "answer": 0, "why": "Thinker означає людину, яка багато обмірковує."},
+      {"prompt": "Яке слово означає допитлива?", "choices": ["Curious", "Private", "Forgiving"], "answer": 0, "why": "Curious people want to learn and ask questions."},
+      {"prompt": "Яка пара є протилежною за значенням?", "choices": ["Open — private", "Curious — interested", "Cheerful — happy"], "answer": 0, "why": "Open і private описують різний ступінь відкритості."},
+      {"prompt": "Людина готова пробачити помилку. Вона…", "choices": ["forgiving", "bossy", "selfish"], "answer": 0, "why": "Forgiving пов’язане з дієсловом forgive — пробачати."},
+      {"prompt": "Який опис звучить найобережніше?", "choices": ["She is sometimes a chatterbox with friends.", "She is always just a chatterbox.", "She can never listen."], "answer": 0, "why": "Sometimes показує, що поведінка залежить від ситуації."},
+      {"prompt": "Хто часто хоче перемогти у змаганні?", "choices": ["A challenger", "A protector", "An introvert"], "answer": 0, "why": "Challenger приймає виклики й любить змагатися."},
+      {"prompt": "Яке речення дає доказ, а не лише оцінку?", "choices": ["Oleh is caring: he helps younger pupils.", "Oleh is good.", "Oleh is a type."], "answer": 0, "why": "Допомога молодшим учням показує турботливість."}
+    ],
+    "write": {"prompt": "Опиши вигадану людину в 5–6 реченнях: назви один тип, дві риси й по одному доказу. Використай usually або sometimes, якщо це доречно.", "starter": "My friend seems to be a ... . She is usually ... because ... .", "checklist": ["Є тип і щонайменше дві риси характеру.", "Кожну важливу рису підкріплено дією.", "Опис доброзичливий і не перетворює рису на ярлик."]},
+    "sources": {"workbook": [8, 16], "textbook": [11, 24, 25]}
+  },
+  {
+    "slug": "personality-growth", "unit": 1,
+    "title": "You can grow", "title_uk": "Як змінюється особистість",
+    "lead": "Прочитай про інтровертів і екстравертів, упевненість у собі та роль людей, які допомагають нам зростати.",
+    "learn_intro": "Спирайся на факти з читання, але пам’ятай: жодна людина не зводиться до одного типу.",
+    "cards": [
+      {"title": "Не лише два типи", "body": "У тексті підручника extrovert — більш товариська людина, introvert — більш приватна. Більшість людей поєднує різні риси. У зошиті Маркус любить компанію, а його брат Майк більше часу проводить за читанням.", "example": "Marcus enjoys company; Mike often chooses a quiet room."},
+      {"title": "Упевненість і розвиток", "body": "Self-confidence — віра у власні можливості. Self-development — робота над навичками й звичками. Корисніше помічати прогрес у собі, ніж порівнювати себе з іншими. Риса або звичка може змінитися завдяки практиці.", "example": "I used to avoid speaking, but I practise every week."},
+      {"title": "Люди навколо нас", "body": "Role model — людина, чий приклад надихає. У дитинстві на нас сильно впливає родина; згодом ми самі обираємо своє оточення. Важливо пояснити, яку саме дію людини хочеш наслідувати.", "example": "My role model listens carefully and helps others."}
+    ],
+    "questions": [
+      {"prompt": "Яке твердження відповідає тексту підручника?", "choices": ["People can have a mix of traits.", "Everyone is only an extrovert or an introvert.", "Personality never changes."], "answer": 0, "why": "Типи не є двома жорсткими коробками; риси поєднуються."},
+      {"prompt": "Хто в зошиті любить бути з іншими людьми?", "choices": ["Marcus", "Mike", "Neither brother"], "answer": 0, "why": "Маркус описує себе як товариського екстраверта."},
+      {"prompt": "Чому Майка називають bookworm?", "choices": ["He reads a lot.", "He plays football daily.", "He makes clothes."], "answer": 0, "why": "Bookworm — образна назва людини, яка багато читає."},
+      {"prompt": "Що означає self-confidence?", "choices": ["Belief in your abilities", "A new fashion style", "A home address"], "answer": 0, "why": "Це впевненість у власних можливостях."},
+      {"prompt": "Яка дія найкраще показує self-development?", "choices": ["Practising a difficult skill", "Only buying new clothes", "Comparing yourself with everyone"], "answer": 0, "why": "Розвиток пов’язаний із навчанням і зміною звичок."},
+      {"prompt": "Кого доречно назвати role model?", "choices": ["A person whose useful actions inspire you", "Only a famous actor", "Anyone with many followers"], "answer": 0, "why": "Важливий приклад конкретної поведінки, а не популярність."},
+      {"prompt": "Яка фраза показує зміну з часом?", "choices": ["I used to be shy, but now I speak more.", "I am shy and can never change.", "Everyone thinks exactly like me."], "answer": 0, "why": "Used to описує попередній стан, now — теперішній."},
+      {"prompt": "Який висновок про характер найточніший?", "choices": ["Some traits can change with practice and support.", "All traits are fixed forever.", "Only looks matter."], "answer": 0, "why": "Текст пов’язує розвиток із досвідом, людьми та практикою."}
+    ],
+    "write": {"prompt": "Склади короткий план особистого розвитку: одна навичка, яку хочеш поліпшити, дві реальні дії та людина, чий приклад тебе надихає. Можна писати про вигадану людину.", "starter": "I want to become better at ... . I practise by ... .", "checklist": ["Названо конкретну навичку, а не загальну рису.", "Є дві дії, які можна виконати.", "Пояснено, чим саме надихає приклад іншої людини."]},
+    "sources": {"workbook": [9, 10, 17, 18, 19], "textbook": [12, 13, 24, 25], "note": "Читання про Маркуса і Майка використано як основу для власних запитань; дослівний текст не відтворено."}
+  },
+  {
+    "slug": "present-past-review", "unit": 1,
+    "title": "Six tenses, one story", "title_uk": "Теперішні й минулі часи в контексті",
+    "lead": "Повтори шість часових форм за словами-підказками й змістом речення: звичка, дія зараз, результат, подія або дія в минулому.",
+    "learn_intro": "Шукай не лише маркер часу, а й те, як дві події пов’язані між собою.",
+    "cards": [
+      {"title": "Три форми теперішнього", "body": "Present Simple описує звичку або факт; Present Continuous — дію зараз; Present Perfect — результат чи досвід, пов’язаний із теперішнім. Слова usually, now, already часто допомагають, але зміст важливіший.", "example": "I read every day. I am reading now. I have already read this book."},
+      {"title": "Три форми минулого", "body": "Past Simple називає завершену подію; Past Continuous — процес у певний момент; Past Perfect — подію, що сталася раніше за іншу минулу подію. Зручно уявити шкалу часу.", "example": "I arrived at six. She was studying then. She had finished before I arrived."},
+      {"title": "Обирай за запитанням", "body": "Запитай себе: це звичка чи дія саме зараз? Чи є зв’язок із теперішнім? Яка з двох минулих подій відбулася першою? У завданні відповідай за змістом усієї ситуації.", "example": "Have you finished yet? — Yes, I have."}
+    ],
+    "questions": [
+      {"prompt": "My brother ___ the bus to school every day.", "choices": ["takes", "is taking", "has taken"], "answer": 0, "why": "Every day вказує на регулярну дію — Present Simple."},
+      {"prompt": "Please be quiet. I ___ to the teacher now.", "choices": ["am listening", "listen", "have listened"], "answer": 0, "why": "Now і ситуація в момент мовлення вимагають Present Continuous."},
+      {"prompt": "We ___ this film already, so choose another one.", "choices": ["have seen", "saw yesterday", "are seeing"], "answer": 0, "why": "Already і теперішній результат пов’язані з Present Perfect."},
+      {"prompt": "I ___ my cousin last Saturday.", "choices": ["visited", "have visited", "was visiting"], "answer": 0, "why": "Last Saturday позначає завершений час у минулому."},
+      {"prompt": "At seven yesterday, Dad ___ dinner.", "choices": ["was cooking", "cooked every day", "has cooked"], "answer": 0, "why": "At seven yesterday задає момент, коли дія тривала."},
+      {"prompt": "By the time I came home, my sister ___ .", "choices": ["had left", "leaves", "is leaving"], "answer": 0, "why": "Її відхід стався раніше за моє повернення — Past Perfect."},
+      {"prompt": "Яка відповідь пасує до Have they called you yet?", "choices": ["No, they haven't.", "No, they didn't yesterday.", "No, they weren't."], "answer": 0, "why": "Допоміжне have у запитанні повторюємо в короткій відповіді."},
+      {"prompt": "Яке речення точно показує дві минулі події в правильному порядку?", "choices": ["I had eaten before the lesson started.", "I am eating before the lesson started.", "I eat before the lesson had started."], "answer": 0, "why": "Had eaten — раніша дія; started — пізніша."}
+    ],
+    "write": {"prompt": "Напиши мініісторію з 5–6 речень про шкільний день: звичка, дія зараз або цього тижня, одна завершена подія вчора та одна дія, яка сталася раніше за іншу. Не використовуй форми майбутнього — для них уже є окремий тренажер.", "starter": "I usually ... . Yesterday, I ... . By the time I ... , ... had ... .", "checklist": ["Є принаймні одна теперішня й дві минулі форми.", "Past Perfect позначає ранішу з двох минулих дій.", "Історія зрозуміла без додаткових пояснень."]},
+    "sources": {"workbook": [20], "textbook": [14, 15], "note": "Зі змішаного тесту зошита с. 20 взято лише повторення теперішніх і минулих форм та лексику; завдання на Future Forms не використано, бо ця тема вже має окремий урок."}
+  },
+  {
+    "slug": "personal-details", "unit": 1,
+    "title": "Ask for details", "title_uk": "Особисті дані й запитання",
+    "lead": "Навчися розуміти поля анкети, ставити ввічливі запитання та тренувати діалог на вигаданих даних.",
+    "learn_intro": "Співвіднось офіційне слово в анкеті з простим запитанням у розмові.",
+    "cards": [
+      {"title": "Поля анкети", "body": "Forename — ім’я, surname — прізвище, date of birth — дата народження, nationality — громадянство або належність до країни, occupation — рід занять. Mother tongue означає рідну мову, а level of English — рівень володіння англійською.", "example": "Forename: Olena. Surname: Vitenko. Occupation: student."},
+      {"title": "З анкети в діалог", "body": "Офіційне date of birth у розмові стає When were you born?; nationality — Where are you from?; interests — What are you interested in? Запитуй лише те, що потрібно для вправи, і не вимагай реальних контактів.", "example": "What are you interested in? — I am interested in art."},
+      {"title": "Відповідай повним змістом", "body": "У зошиті є короткі інтерв’ю та порівняння відповідей. Для тренування придумай профіль: ім’я, місто, заняття, інтерес. Адресу, телефон і електронну пошту заміни умовними даними або не додавай.", "example": "This is Alex. Alex lives in Lviv and enjoys drawing."}
+    ],
+    "questions": [
+      {"prompt": "Яке поле анкети означає прізвище?", "choices": ["Surname", "Forename", "Occupation"], "answer": 0, "why": "Surname — родинне ім’я або прізвище."},
+      {"prompt": "Яке запитання відповідає полю date of birth?", "choices": ["When were you born?", "Where do you live?", "What do you enjoy?"], "answer": 0, "why": "Дата народження відповідає на запитання when."},
+      {"prompt": "Що означає mother tongue?", "choices": ["First language", "A school subject", "A job"], "answer": 0, "why": "Mother tongue — рідна або перша мова."},
+      {"prompt": "Яке поле показує рід занять?", "choices": ["Occupation", "Nationality", "Signature"], "answer": 0, "why": "Occupation може означати роботу або статус student."},
+      {"prompt": "Яке запитання допоможе дізнатися інтереси?", "choices": ["What are you interested in?", "What is your surname?", "Where is your phone?"], "answer": 0, "why": "Interested in прямо стосується захоплень."},
+      {"prompt": "Яка відповідь доречна до What skills do you have?", "choices": ["I can paint and edit photos.", "I live in Chernivtsi.", "I am fourteen."], "answer": 0, "why": "Skills — це вміння, наприклад малювання й редагування фото."},
+      {"prompt": "Що краще використати в публічній тренувальній анкеті?", "choices": ["Invented contact details", "Your real home address", "Your real phone number"], "answer": 0, "why": "Для навчального діалогу достатньо вигаданого профілю."},
+      {"prompt": "Яка фраза ввічливо продовжує знайомство?", "choices": ["Nice to meet you. What about you?", "Tell me everything now.", "I do not care."], "answer": 0, "why": "Знайомство потребує взаємного й ввічливого запитання."}
+    ],
+    "write": {"prompt": "Створи вигаданий профіль із 5 полів і напиши 3 запитання, які можна поставити цій людині. Використовуй ім’я, місто, заняття, інтереси й мовний рівень; реальні контакти не потрібні.", "starter": "Forename: ... . Occupation: ... . What are you interested in?", "checklist": ["Поля анкети вжито за значенням.", "Запитання граматично відповідають полям.", "Профіль не розкриває реальних контактів."]},
+    "sources": {"workbook": [11, 12, 13, 17], "textbook": [16, 17, 20, 21], "note": "Аудіоінтерв’ю зі зошита використано як тематичний орієнтир; цей урок не вимагає запису, якого немає в репозиторії. Для практики використано вигадані особисті дані."}
+  },
+  {
+    "slug": "my-autobiography", "unit": 1,
+    "title": "My story so far", "title_uk": "Напиши коротку автобіографію",
+    "lead": "Збери зв’язний текст про минуле, теперішні інтереси й те, що допомагає тобі вчитися та змінюватися.",
+    "learn_intro": "Роздивися, як читання з підручника й зошита переходить у власний текст.",
+    "cards": [
+      {"title": "Початок: факти минулого", "body": "Autobiography — історія життя, яку людина пише про себе. У першому абзаці досить назвати місце або важливий спогад із дитинства. Не потрібно публікувати повну дату народження чи адресу.", "example": "I grew up in a small town. I loved asking questions."},
+      {"title": "Середина: теперішній я", "body": "Лист Рейчел у зошиті поєднує школу, улюблений предмет, клуб і риси характеру. У підручнику Сем пов’язує любов до навчання з нинішніми заняттями. Кожне твердження краще підкріпити прикладом.", "example": "I enjoy science because I like doing experiments."},
+      {"title": "Кінець: висновок", "body": "Закінчи думкою про сильну сторону або навичку, над якою працюєш. Перечитай текст: чи є послідовність подій, різні речення та зв’язки because, also, however?", "example": "I am still learning to speak confidently, and I practise with friends."}
+    ],
+    "questions": [
+      {"prompt": "Хто пише autobiography?", "choices": ["The person whose life it describes", "Only a journalist", "Only a teacher"], "answer": 0, "why": "Автобіографію людина пише про власне життя."},
+      {"prompt": "Яке речення доречне для початку автобіографії?", "choices": ["I grew up in Odesa.", "Buy these shoes today!", "What is your password?"], "answer": 0, "why": "Початок називає факт або спогад із минулого."},
+      {"prompt": "Що Рейчел у листі пов’язує зі своєю цікавістю?", "choices": ["Doing experiments", "Playing professional football", "Selling clothes"], "answer": 0, "why": "У листі вона пояснює інтерес до дослідів своєю допитливістю."},
+      {"prompt": "Яке речення підтверджує рису характеру прикладом?", "choices": ["I am creative because I write stories.", "I am creative.", "I am many things."], "answer": 0, "why": "Writing stories показує, у чому проявляється творчість."},
+      {"prompt": "Який зв’язок найкраще пояснює причину?", "choices": ["because", "but", "or"], "answer": 0, "why": "Because вводить причину."},
+      {"prompt": "Яке речення логічно переходить від минулого до теперішнього?", "choices": ["I loved books as a child, and I still read every week.", "I loved books, so yesterday tomorrow.", "Books are good good good."], "answer": 0, "why": "Речення показує минулий досвід і теперішню звичку."},
+      {"prompt": "Що варто прибрати з тексту для навчального сайту?", "choices": ["Exact home address", "A favourite subject", "A reason for a hobby"], "answer": 0, "why": "Особиста адреса не потрібна для вправи."},
+      {"prompt": "Яке завершення показує розвиток?", "choices": ["I practise speaking every week and notice progress.", "I never try anything new.", "My story has no ending."], "answer": 0, "why": "Конкретна регулярна дія й помічений прогрес завершують історію."}
+    ],
+    "write": {"prompt": "Напиши 70–90 слів про себе або вигаданого героя: один факт із минулого, теперішні заняття, риса з доказом і короткий висновок про розвиток. Для довшої домашньої версії можна розширити текст до 120–150 слів, як у підручнику.", "starter": "I grew up in ... . As a child, I ... . Now I enjoy ... because ... .", "checklist": ["Є початок, середина й висновок.", "Past Simple описує минуле, теперішні форми — нинішні звички.", "Після перевірки прибрано приватні дані й повтори."]},
+    "sources": {"workbook": [14, 15, 18, 19], "textbook": [22, 24, 25, 26], "note": "Лист Рейчел, блог Маркуса та автобіографію Сема використано як зразки структури; великі уривки не відтворено. Завдання адаптовано до 30-хвилинного уроку."}
+  }
+]

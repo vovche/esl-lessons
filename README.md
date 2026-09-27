@@ -17,11 +17,15 @@
 
 ## 9 клас
 
+- [Unit 1: All About Me](9/) — шість 30-хвилинних уроків про профілі, характер, розвиток особистості, теперішні й минулі часи та автобіографію.
+- [Unit 2: Fashion All the Way](9/) — шість 30-хвилинних уроків про одяг, стилі, думки про моду, форми -ing / to та допис у блозі.
 - [Future Forms](9/future-forms/)
 - [Future Forms Quest](9/future-forms-v2/)
 - [Gerund: форма -ing](9/gerund/) — правила, слова-пастки, вправи та тест для 9 класу.
 
-Для перевірки Jolly Phonics перед публікацією:
+У кожному новому уроці джерела наведено в підвалі та в `sources.md` поруч зі сторінкою. Вміст уроків зберігається в `9/unit1-lessons.json` і `9/unit2-lessons.json`; сторінки можна відтворити командою `python3 scripts/build_grade9_units.py`. Матеріал Future Forms не дублюється.
+
+Для перевірки перед публікацією:
 
 ```bash
 python3 tests/check_navigation.py
