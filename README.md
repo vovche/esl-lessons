@@ -6,6 +6,15 @@
 
 - [Jolly Phonics: 42 звуки](6/jolly-phonics/) — мобільний тренажер з чотирма наборами локального аудіо, історією проходжень, CSV-звітом, офлайн-кешем і встановленням як PWA.
 
+## 7 клас
+
+- [Unit 1: In and out of school](7/) — п’ять інтерактивних уроків про клуби, шкільні події та запитання в теперішньому часі.
+- [Unit 2: Do your chores](7/) — п’ять інтерактивних уроків про хатні справи та запитання в минулому часі.
+
+## Словник
+
+- [Словник вимови](dictionary/) — слова з навчального тексту 6, 7 і 9 класів з IPA, наближеним українським записом, фонікс-підказкою та чотирма локальними записами вимови. [Як оновлювати](dictionary/README.md).
+
 ## 9 клас
 
 - [Future Forms](9/future-forms/)
@@ -16,6 +25,7 @@
 
 ```bash
 python3 tests/check_navigation.py
+python3 scripts/build_dictionary.py --check
 python3 tests/check_jolly_phonics.py
 python3 tests/check_future_forms_v2.py
 ```

@@ -1,0 +1,10 @@
+body { background: var(--bg); color: var(--ink); }
+.hero { background: #10354b; border: 0; color: #fff; box-shadow: none; }
+.hero .home-link, .hero .lead a { color: #dcf6ff; }
+.hero .lead { color: #e4f2f5; }
+.class-heading span { color: var(--muted); }
+.card.ready { background: #fff; border-color: var(--line); box-shadow: var(--shadow); }
+.tag.ready { background: var(--lime); color: #193b23; }
+.btn.primary { background: var(--blue); border-color: var(--blue); }
+.btn.primary:hover { background: #03455e; }
+:is(a, button):focus-visible { outline: 3px solid #c66b12; outline-offset: 3px; }

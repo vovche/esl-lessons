@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="uk">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Спільний словник англійських слів з уроків ESL Lessons: IPA, українська фонетична підказка, фонікс і чотири записи вимови.">
+  <title>Словник вимови — ESL Lessons</title>
+  <link rel="stylesheet" href="../assets/lesson-theme.css">
+  <link rel="stylesheet" href="dictionary.css">
+  <script src="dictionary.js" defer></script>
+</head>
+<body>
+  <header class="hero">
+    <div class="wrap">
+      <nav class="breadcrumbs" aria-label="Шлях"><a data-site-nav="root" href="../">← Усі класи</a></nav>
+      <h1>Словник <span>вимови</span></h1>
+      <p>Слова з усіх уроків репозиторію: дві IPA-транскрипції, наближене українське звучання, фонікс-підказка англійською та чотири записані голоси.</p>
+      <div class="meta"><span id="totalWords">Завантаження…</span><span>Британська й американська</span><span>Жіночий і чоловічий голоси</span></div>
+    </div>
+  </header>
+  <main class="wrap">
+    <section class="search-panel" aria-label="Пошук у словнику">
+      <label for="search">Знайти англійське слово</label>
+      <input id="search" type="search" placeholder="Наприклад, school або chores" autocomplete="off" spellcheck="false">
+      <div class="filter-row">
+        <label for="grade">Матеріали класу</label>
+        <select id="grade"><option value="all">Усі класи</option><option value="6/">6 клас</option><option value="7/">7 клас</option><option value="9/">9 клас</option></select>
+      </div>
+      <p class="note">Український запис передає звучання приблизно. Орієнтуйся на IPA й прослуховування; короткі службові слова в реченні можуть звучати інакше, ніж окремо.</p>
+    </section>
+    <div class="list-head"><h2>Слова</h2><p id="resultCount" role="status"></p></div>
+    <div id="results" class="results" aria-live="off"></div>
+    <button id="more" class="more" type="button" hidden>Показати ще</button>
+    <p id="error" class="error" role="alert" hidden></p>
+  </main>
+  <footer class="footer"><div class="wrap"><p>IPA згенеровано за допомогою eSpeak NG. Вимову записано окремими MP3-файлами чотирьох нейронних голосів Edge TTS.</p><p>Фонікс-підказки автоматично добираються за написанням слова. Для додаткової перевірки скористайся посиланням на пошук вимови в Google.</p><a href="README.md">Як оновлювати словник</a></div></footer>
+  <audio id="player" preload="none"></audio>
+</body>
+</html>
