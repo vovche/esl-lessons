@@ -20,6 +20,51 @@
         ],
         "createdAt": "2026-09-27T11:13:48.844Z",
         "reason": "Assistant reviewed existing CSS: both shadows use neutral black alpha for elevation, with no chromatic glow."
+      },
+      {
+        "rule": "layout-transition",
+        "value": "*",
+        "files": [
+          "6/jolly-phonics/index.html"
+        ],
+        "createdAt": "2026-09-27T11:21:50.781Z",
+        "reason": "Assistant reviewed: the only layout transition is the 8px-high progress fill, bounded to one bar and used as progress feedback."
+      },
+      {
+        "rule": "layout-transition",
+        "value": "*",
+        "files": [
+          "6/jolly-phonics/styles.css"
+        ],
+        "createdAt": "2026-09-27T11:21:50.941Z",
+        "reason": "Assistant reviewed: width transition applies only to the 8px-high progress fill, not page layout."
+      },
+      {
+        "rule": "icon-tile-stack",
+        "value": "*",
+        "files": [
+          "6/jolly-phonics/index.html"
+        ],
+        "createdAt": "2026-09-27T11:21:51.116Z",
+        "reason": "Assistant reviewed: the 42 tile identifies the 42-sound learning sequence in its setup and completion dialogs."
+      },
+      {
+        "rule": "overused-font",
+        "value": "inter",
+        "files": [
+          "6/jolly-phonics/index.html"
+        ],
+        "createdAt": "2026-09-27T11:21:51.285Z",
+        "reason": "Assistant reviewed: Inter is not imported; this UI uses the existing system and rounded fallback stack."
+      },
+      {
+        "rule": "overused-font",
+        "value": "inter",
+        "files": [
+          "6/jolly-phonics/styles.css"
+        ],
+        "createdAt": "2026-09-27T11:21:51.451Z",
+        "reason": "Assistant reviewed: Inter is not imported; the font declaration falls back to system rounded UI fonts."
       }
     ]
   }
