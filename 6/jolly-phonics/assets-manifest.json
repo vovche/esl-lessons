@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "assets": [
     {
       "url": "app.js",
@@ -1288,8 +1288,8 @@
     },
     {
       "url": "index.html",
-      "sha256": "4ff26bb310a19b739e63e0703bd2132eb785070c18e79c19992ea6db4f547105",
-      "bytes": 7273
+      "sha256": "1bdcf24e3d488413b1b731d35dfbcfe38fee42a031a17ce226a02f9d87d0f793",
+      "bytes": 7208
     },
     {
       "url": "manifest.webmanifest",
@@ -1298,7 +1298,7 @@
     },
     {
       "url": "styles.css",
-      "sha256": "5afac0812aeb213836ad3fd1410fdc9b8e33329b32bd68918883f504c0f30198",
+      "sha256": "10a8bab70d11a4f120acb1670ab3910c52fcf46bb704aa66c55a0212029219ec",
       "bytes": 10360
     }
   ]

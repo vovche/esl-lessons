@@ -65,6 +65,42 @@
         ],
         "createdAt": "2026-09-27T11:21:51.451Z",
         "reason": "Assistant reviewed: Inter is not imported; the font declaration falls back to system rounded UI fonts."
+      },
+      {
+        "rule": "nested-cards",
+        "value": "*",
+        "files": [
+          "6/jolly-phonics/index.html"
+        ],
+        "createdAt": "2026-09-27T13:29:41.074Z",
+        "reason": "User confirmed the existing Jolly Phonics design is ideal and should remain unchanged except site integration; the nested settings grouping is part of that design."
+      },
+      {
+        "rule": "low-contrast",
+        "value": "*",
+        "files": [
+          "6/jolly-phonics/index.html"
+        ],
+        "createdAt": "2026-09-27T13:29:41.243Z",
+        "reason": "User confirmed the existing Jolly Phonics design is ideal and should remain unchanged except site integration; preserve its original muted text colors."
+      },
+      {
+        "rule": "broken-image",
+        "value": "*",
+        "files": [
+          "6/jolly-phonics/index.html"
+        ],
+        "createdAt": "2026-09-27T13:29:41.416Z",
+        "reason": "User confirmed the existing Jolly Phonics implementation should remain unchanged except site integration; app.js sets both image sources during initial render before display."
+      },
+      {
+        "rule": "dark-glow",
+        "value": "*",
+        "files": [
+          "6/jolly-phonics/index.html"
+        ],
+        "createdAt": "2026-09-27T13:29:41.583Z",
+        "reason": "User confirmed the existing Jolly Phonics design is ideal and should remain unchanged except site integration; preserve its original shadows."
       }
     ]
   }
