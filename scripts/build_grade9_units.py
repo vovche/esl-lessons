@@ -95,7 +95,7 @@ def render_lesson(lesson: dict, previous: dict | None, following: dict | None, p
     <section id="apply"><h2><span class="num">03</span> Використай самостійно</h2><div class="write-card"><p>{e(lesson['write']['prompt'])}</p><p class="hint"><strong>Початок:</strong> <span lang="en">{e(lesson['write']['starter'])}</span></p><label class="prompt" for="my-answer"><strong>Твоя відповідь англійською</strong></label><textarea id="my-answer" aria-label="Твоя відповідь англійською" placeholder="Напиши тут…"></textarea><div class="actions"><button type="button" class="btn save">Зберегти відповідь</button><span class="saved" role="status"></span></div><details><summary>Як перевірити себе</summary><ul>{checks}</ul></details></div></section>
     <nav class="lesson-links" aria-label="Інші уроки">{lesson_links}<a href="../">Усі уроки 9 класу</a></nav>
   </main>
-  <footer class="footer"><div class="wrap"><p><strong>Джерела уроку:</strong> Друкований зошит Unit {unit}, с. {e(workbook)}; підручник с. {e(textbook)}. <a href="sources.md">Детальні посилання на файли й сторінки</a>. <a href="../../dictionary/">Словник вимови</a>.</p><p>Приклади й інтерактивні запитання адаптовано для цього уроку.</p></div></footer>
+  <footer class="footer"><div class="wrap"><p><strong>Джерела уроку:</strong> Друкований зошит Unit {unit}, с. {e(workbook)}; підручник с. {e(textbook)}. <a href="sources.md">Детальні посилання на файли й сторінки</a>. <a href="../../dictionary/">Словник вимови</a>.</p><p>Приклади й інтерактивні запитання адаптовано для цього уроку.</p><p class="author">Укладач матеріалу: Лишенко Володимир Миколайович</p></div></footer>
 </body>
 </html>
 '''
