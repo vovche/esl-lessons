@@ -1,0 +1,6646 @@
+[
+  {
+    "unit": 1,
+    "code": "1a",
+    "slug": "sb-1a",
+    "title": "School",
+    "title_uk": "Моя школа",
+    "vocabulary": [
+      [
+        "history",
+        "історія"
+      ],
+      [
+        "physics",
+        "фізика"
+      ],
+      [
+        "biology",
+        "біологія"
+      ],
+      [
+        "geography",
+        "географія"
+      ],
+      [
+        "chemistry",
+        "хімія"
+      ],
+      [
+        "theatre",
+        "театр"
+      ]
+    ],
+    "rule": "Present Simple описує звички й розклад. З I/you/we/they вживай основну форму; з he/she/it додавай -s. Заперечення: don’t/doesn’t + основна форма. Запитання: Do/Does + підмет + основна форма. Час: at nine, in the morning, on school days.",
+    "example": "Our school starts at nine. My friend studies music. Does she practise every day? She does not practise at the weekend.",
+    "reading": "Our school has a theatre and a science lab. We study the usual subjects, but we also learn dance and music. Classes start at nine and finish at four. After school, some students practise in the theatre. I enjoy biology because I like learning about animals.",
+    "questions": [
+      {
+        "prompt": "She ___ music every day.",
+        "choices": [
+          "studies",
+          "study",
+          "studying"
+        ],
+        "answer": 0,
+        "why": "З she у Present Simple додаємо -s; study → studies."
+      },
+      {
+        "prompt": "___ your classes start at nine?",
+        "choices": [
+          "Do",
+          "Does",
+          "Are"
+        ],
+        "answer": 0,
+        "why": "Classes — множина, тому Do + основна форма."
+      },
+      {
+        "prompt": "He ___ work in the lab on school days.",
+        "choices": [
+          "does not",
+          "do not",
+          "is not"
+        ],
+        "answer": 0,
+        "why": "He + does not + основна форма work."
+      },
+      {
+        "prompt": "Where do some students practise after school?",
+        "choices": [
+          "In the theatre.",
+          "In the kitchen.",
+          "In the airport."
+        ],
+        "answer": 0,
+        "why": "У тексті названо theatre."
+      },
+      {
+        "prompt": "Why does the writer enjoy biology?",
+        "choices": [
+          "The writer likes learning about animals.",
+          "Classes finish early.",
+          "The writer wants to be an actor."
+        ],
+        "answer": 0,
+        "why": "Причина прямо вказана в останньому реченні."
+      }
+    ],
+    "write": {
+      "prompt": "Опиши свою або вигадану школу у 5–6 реченнях: приміщення, предмети, розклад і улюблений предмет.",
+      "starter": "Our school has… Classes start at… My favourite subject is… because…"
+    }
+  },
+  {
+    "unit": 1,
+    "code": "1b",
+    "slug": "sb-1b",
+    "title": "Appearance",
+    "title_uk": "Описуємо зовнішність",
+    "vocabulary": [
+      [
+        "slim",
+        "стрункий"
+      ],
+      [
+        "chubby",
+        "повненький"
+      ],
+      [
+        "curly",
+        "кучерявий"
+      ],
+      [
+        "straight",
+        "прямий"
+      ],
+      [
+        "wavy",
+        "хвилястий"
+      ],
+      [
+        "glasses",
+        "окуляри"
+      ]
+    ],
+    "rule": "Риси зовнішності описуємо через be і have got: He is tall. He has got curly hair. Для дії зараз використовуємо Present Continuous (Progressive): am/is/are + дієслово з -ing. У запитанні am/is/are стоїть перед підметом.",
+    "example": "She has got long wavy hair. She is wearing glasses. What is she doing? She is reading.",
+    "reading": "Two friends are looking for a player in an online game. The player is tall and slim. He has got short brown hair and is wearing glasses. He is standing near a tree in the park. One friend sees a player with black hair, but that is the wrong person.",
+    "questions": [
+      {
+        "prompt": "She ___ a book at the moment.",
+        "choices": [
+          "is reading",
+          "reads",
+          "read"
+        ],
+        "answer": 0,
+        "why": "Зараз: is + reading."
+      },
+      {
+        "prompt": "They ___ near a tree now.",
+        "choices": [
+          "are standing",
+          "stands",
+          "is standing"
+        ],
+        "answer": 0,
+        "why": "They + are + дієслово з -ing."
+      },
+      {
+        "prompt": "What ___ he doing?",
+        "choices": [
+          "is",
+          "does",
+          "are"
+        ],
+        "answer": 0,
+        "why": "Запитання в Present Continuous: What is he doing?"
+      },
+      {
+        "prompt": "What colour is the right player's hair?",
+        "choices": [
+          "Brown.",
+          "Black.",
+          "Fair."
+        ],
+        "answer": 0,
+        "why": "У тексті: short brown hair."
+      },
+      {
+        "prompt": "Where is the right player standing?",
+        "choices": [
+          "Near a tree.",
+          "Inside a school.",
+          "On a bus."
+        ],
+        "answer": 0,
+        "why": "У тексті вказано near a tree in the park."
+      }
+    ],
+    "write": {
+      "prompt": "Опиши вигаданого персонажа: зовнішність, одяг і дві дії, які він виконує зараз.",
+      "starter": "My character is… They have got… They are wearing… They are…"
+    }
+  },
+  {
+    "unit": 1,
+    "code": "1c",
+    "slug": "sb-1c",
+    "title": "Character",
+    "title_uk": "Звички та дії зараз",
+    "vocabulary": [
+      [
+        "skirt",
+        "спідниця"
+      ],
+      [
+        "pocket",
+        "кишеня"
+      ],
+      [
+        "patch",
+        "латка"
+      ],
+      [
+        "butterfly",
+        "метелик"
+      ],
+      [
+        "awful",
+        "жахливий"
+      ],
+      [
+        "trainers",
+        "кросівки"
+      ]
+    ],
+    "rule": "Present Simple — звичка: usually, often, every day. Present Continuous — дія зараз або тимчасова ситуація: now, at the moment, these days. Дієслова like, love, want, know, need, understand зазвичай вживаємо у Simple, навіть коли говоримо про теперішнє.",
+    "example": "I usually wear jeans. Today I am making a skirt. I want a blue patch. I like the new design.",
+    "reading": "A girl usually buys her clothes, but today she is changing an old pair of jeans into a skirt. She is drawing a butterfly on a pocket. The drawing looks awful, so her friend gives her a patch. They put it over the drawing and make a new design together.",
+    "questions": [
+      {
+        "prompt": "She usually ___ trainers to school.",
+        "choices": [
+          "wears",
+          "is wearing",
+          "wear"
+        ],
+        "answer": 0,
+        "why": "Usually указує на звичку; she + wears."
+      },
+      {
+        "prompt": "Look! They ___ a skirt.",
+        "choices": [
+          "are making",
+          "make",
+          "makes"
+        ],
+        "answer": 0,
+        "why": "Look! вказує на дію зараз."
+      },
+      {
+        "prompt": "I ___ this blue patch.",
+        "choices": [
+          "like",
+          "am liking",
+          "likes"
+        ],
+        "answer": 0,
+        "why": "Like зазвичай не вживаємо у Continuous."
+      },
+      {
+        "prompt": "What is the girl making?",
+        "choices": [
+          "A skirt.",
+          "A jacket.",
+          "A cap."
+        ],
+        "answer": 0,
+        "why": "Вона переробляє jeans на skirt."
+      },
+      {
+        "prompt": "Why do they use a patch?",
+        "choices": [
+          "To cover the drawing.",
+          "To buy new clothes.",
+          "To close the shop."
+        ],
+        "answer": 0,
+        "why": "Латка закриває невдалий малюнок."
+      }
+    ],
+    "write": {
+      "prompt": "Порівняй свій звичайний одяг і одяг сьогодні. Напиши 3 речення зі звичками та 3 з діями зараз.",
+      "starter": "I usually wear… Today I am wearing… I like…"
+    }
+  },
+  {
+    "unit": 1,
+    "code": "1d",
+    "slug": "sb-1d",
+    "title": "Free time",
+    "title_uk": "Вільний час",
+    "vocabulary": [
+      [
+        "karaoke",
+        "караоке"
+      ],
+      [
+        "rollerblading",
+        "катання на роликах"
+      ],
+      [
+        "skateboarding",
+        "катання на скейтборді"
+      ],
+      [
+        "newspapers",
+        "газети"
+      ],
+      [
+        "crafts",
+        "ремесла, рукоділля"
+      ],
+      [
+        "download",
+        "завантажувати"
+      ]
+    ],
+    "rule": "Після enjoy і can’t stand використовуй -ing. У цьому уроці після like/love/hate також тренуємо -ing. Після want і would like потрібен to + основна форма. Would you like to…? — ввічлива пропозиція, а Do you like…? — запитання про вподобання.",
+    "example": "I enjoy playing table tennis. I cannot stand singing karaoke. I would like to join a youth club.",
+    "reading": "Two friends want to join a youth club. They enjoy playing computer games and table tennis. One of them does not like karaoke, but there are other activities. His sister loves arts and crafts. The club is open until ten tonight, so the friends decide to go there after school.",
+    "questions": [
+      {
+        "prompt": "I enjoy ___ table tennis.",
+        "choices": [
+          "playing",
+          "to play",
+          "play"
+        ],
+        "answer": 0,
+        "why": "Після enjoy потрібна форма -ing."
+      },
+      {
+        "prompt": "Would you like ___ our club?",
+        "choices": [
+          "to join",
+          "joining",
+          "join"
+        ],
+        "answer": 0,
+        "why": "Would like + to + основна форма."
+      },
+      {
+        "prompt": "She does not want ___ early.",
+        "choices": [
+          "to leave",
+          "leaving",
+          "leave"
+        ],
+        "answer": 0,
+        "why": "Want + to leave."
+      },
+      {
+        "prompt": "Which activity does the sister love?",
+        "choices": [
+          "Arts and crafts.",
+          "Physics tests.",
+          "Travelling by plane."
+        ],
+        "answer": 0,
+        "why": "У тексті: loves arts and crafts."
+      },
+      {
+        "prompt": "When does the club close tonight?",
+        "choices": [
+          "At ten.",
+          "At four.",
+          "At six."
+        ],
+        "answer": 0,
+        "why": "Open until ten означає, що клуб працює до десятої."
+      }
+    ],
+    "write": {
+      "prompt": "Напиши про три улюблені заняття, одне нелюбиме й одне, яке хочеш спробувати.",
+      "starter": "I enjoy… I love… I cannot stand… I would like to…"
+    }
+  },
+  {
+    "unit": 1,
+    "code": "1e",
+    "slug": "sb-1e",
+    "title": "My friend's profile",
+    "title_uk": "Профіль друга",
+    "vocabulary": [
+      [
+        "outgoing",
+        "товариський"
+      ],
+      [
+        "helpful",
+        "готовий допомогти"
+      ],
+      [
+        "clever",
+        "розумний"
+      ],
+      [
+        "friendly",
+        "дружній"
+      ],
+      [
+        "shy",
+        "сором’язливий"
+      ],
+      [
+        "active",
+        "активний"
+      ]
+    ],
+    "rule": "What do you look like? — про зовнішність. What are you like? — про характер. Групуй інформацію в абзаци: спершу про себе, потім про друга і спільні заняття. Порядок слів: підмет + дієслово + додаток; прикметник стоїть перед іменником або після be.",
+    "example": "My friend has got curly hair. She is helpful. We play ice hockey together. She is a friendly person.",
+    "reading": "I am tall and have got curly dark hair. I am active and outgoing, and I love sports. My best friend is short and has got blue eyes. He is clever and helpful, so I like studying with him. We both play ice hockey for a local team.",
+    "questions": [
+      {
+        "prompt": "Choose the correct order.",
+        "choices": [
+          "She has got straight hair.",
+          "She straight has got hair.",
+          "Straight she hair has got."
+        ],
+        "answer": 0,
+        "why": "Підмет + has got + прикметник + іменник."
+      },
+      {
+        "prompt": "A question about personality is…",
+        "choices": [
+          "What are you like?",
+          "What do you look like?",
+          "What time is it?"
+        ],
+        "answer": 0,
+        "why": "What are you like? запитує про характер."
+      },
+      {
+        "prompt": "Choose the natural sentence.",
+        "choices": [
+          "He is a helpful boy.",
+          "He a boy helpful is.",
+          "Helpful he is boy a."
+        ],
+        "answer": 0,
+        "why": "Прикметник helpful стоїть перед boy."
+      },
+      {
+        "prompt": "Why does the writer like studying with the friend?",
+        "choices": [
+          "The friend is clever and helpful.",
+          "The friend has blue eyes.",
+          "The friend is very tall."
+        ],
+        "answer": 0,
+        "why": "Причина — риси характеру clever і helpful."
+      },
+      {
+        "prompt": "What do the friends do together?",
+        "choices": [
+          "Play ice hockey.",
+          "Go on cruises.",
+          "Make films."
+        ],
+        "answer": 0,
+        "why": "В останньому реченні названо ice hockey."
+      }
+    ],
+    "write": {
+      "prompt": "Напиши два абзаци про себе та вигаданого друга: зовнішність, характер і спільні заняття.",
+      "starter": "About me: I am… I have got… My best friend is… We both…"
+    }
+  },
+  {
+    "unit": 2,
+    "code": "2a",
+    "slug": "sb-2a",
+    "title": "Holiday activity",
+    "title_uk": "Канікули в минулому",
+    "vocabulary": [
+      [
+        "sunbathe",
+        "засмагати"
+      ],
+      [
+        "souvenirs",
+        "сувеніри"
+      ],
+      [
+        "cruise",
+        "круїз"
+      ],
+      [
+        "cave",
+        "печера"
+      ],
+      [
+        "camel",
+        "верблюд"
+      ],
+      [
+        "desert",
+        "пустеля"
+      ]
+    ],
+    "rule": "Past Simple описує завершену дію в минулому: yesterday, last summer, two days ago. Правильні дієслова отримують -ed; неправильні мають окрему форму: go → went, ride → rode, take → took. Заперечення і запитання: didn’t/Did + основна форма. Be має форми was/were.",
+    "example": "We went on a cruise. I took photos. Did you buy souvenirs? I did not ride a horse.",
+    "reading": "A girl returned from a holiday in Egypt. She visited famous sights and went on a cruise. She also rode a camel. She was scared because the camel was tall, but she did not fall off. She bought souvenirs for her friends. She left her camera at home and could not show her photos.",
+    "questions": [
+      {
+        "prompt": "Last summer we ___ on a cruise.",
+        "choices": [
+          "went",
+          "go",
+          "going"
+        ],
+        "answer": 0,
+        "why": "Минула форма go — went."
+      },
+      {
+        "prompt": "Did you ___ any photos?",
+        "choices": [
+          "take",
+          "took",
+          "taken"
+        ],
+        "answer": 0,
+        "why": "Після Did потрібна основна форма."
+      },
+      {
+        "prompt": "She ___ fall off the camel.",
+        "choices": [
+          "did not",
+          "does not",
+          "was not"
+        ],
+        "answer": 0,
+        "why": "Past Simple: did not + fall."
+      },
+      {
+        "prompt": "Why was the girl scared?",
+        "choices": [
+          "The camel was tall.",
+          "She lost her passport.",
+          "The museum was closed."
+        ],
+        "answer": 0,
+        "why": "Причина прямо названа в тексті."
+      },
+      {
+        "prompt": "Why could she not show her photos?",
+        "choices": [
+          "Her camera was at home.",
+          "She did not take photos.",
+          "Her friends were away."
+        ],
+        "answer": 0,
+        "why": "Вона залишила camera at home."
+      }
+    ],
+    "write": {
+      "prompt": "Опиши справжні або вигадані канікули у 6 реченнях у Past Simple.",
+      "starter": "Last summer I went… I visited… I took… I did not…"
+    }
+  },
+  {
+    "unit": 2,
+    "code": "2b",
+    "slug": "sb-2b",
+    "title": "Transport",
+    "title_uk": "Обираємо транспорт",
+    "vocabulary": [
+      [
+        "ferry",
+        "пором"
+      ],
+      [
+        "underground",
+        "метро"
+      ],
+      [
+        "traffic",
+        "дорожній рух"
+      ],
+      [
+        "crowded",
+        "переповнений"
+      ],
+      [
+        "dangerous",
+        "небезпечний"
+      ],
+      [
+        "directions",
+        "вказівки щодо маршруту"
+      ]
+    ],
+    "rule": "Can/can’t описує здібність зараз; could/couldn’t — у минулому. Прислівник відповідає на запитання «як?»: careful → carefully, easy → easily. Good → well, а fast і hard не змінюються. By bus/by train, але on foot.",
+    "example": "He could not find the river. She drives carefully. We travelled by ferry and walked on foot.",
+    "reading": "A visitor wanted to find a restaurant near a river. First he walked, then he took a bus. The traffic was slow, so he used the underground. A man told him that the restaurant was on the other side of the river. He took a ferry, but the restaurant was closed when he arrived.",
+    "questions": [
+      {
+        "prompt": "She is a careful driver. She drives ___.",
+        "choices": [
+          "carefully",
+          "careful",
+          "care"
+        ],
+        "answer": 0,
+        "why": "Дію описує прислівник carefully."
+      },
+      {
+        "prompt": "I ___ swim when I was five, but now I can.",
+        "choices": [
+          "could not",
+          "cannot",
+          "am not"
+        ],
+        "answer": 0,
+        "why": "When I was five — минуле: could not."
+      },
+      {
+        "prompt": "He speaks very ___.",
+        "choices": [
+          "well",
+          "good",
+          "better than"
+        ],
+        "answer": 0,
+        "why": "Прислівник від good — well."
+      },
+      {
+        "prompt": "Why did the visitor leave the bus?",
+        "choices": [
+          "The traffic was slow.",
+          "The bus was free.",
+          "He wanted to go home."
+        ],
+        "answer": 0,
+        "why": "У тексті згадано повільний дорожній рух."
+      },
+      {
+        "prompt": "Was the restaurant open when he arrived?",
+        "choices": [
+          "No, it was closed.",
+          "Yes, it was open.",
+          "The text does not say."
+        ],
+        "answer": 0,
+        "why": "Останнє речення: the restaurant was closed."
+      }
+    ],
+    "write": {
+      "prompt": "Порівняй два види транспорту: зручність, ціна, швидкість. Додай одну здібність у минулому.",
+      "starter": "I usually travel by… because… I could… when I was…"
+    }
+  },
+  {
+    "unit": 2,
+    "code": "2c",
+    "slug": "sb-2c",
+    "title": "Travel preparations",
+    "title_uk": "Готуємося до подорожі",
+    "vocabulary": [
+      [
+        "passport",
+        "паспорт"
+      ],
+      [
+        "currency",
+        "валюта"
+      ],
+      [
+        "boarding",
+        "посадка"
+      ],
+      [
+        "airport",
+        "аеропорт"
+      ],
+      [
+        "pack",
+        "пакувати"
+      ],
+      [
+        "flight",
+        "авіарейс"
+      ]
+    ],
+    "rule": "Особовий займенник-підмет стоїть перед дієсловом: I, he, she, we, they. Об’єктні форми — після дієслова або прийменника: me, him, her, us, them. Give it to her. Ask him. Для підготовки до подорожі тренуй запитання Did you book/check/pack…?",
+    "example": "We booked a flight. The tickets are for us. Give them to me. Did you pack your passport?",
+    "reading": "Two friends are preparing for a trip. They check their passports and pack one large suitcase and a small bag. They check the weather and decide to take jumpers. They can check in online and download their boarding passes. Their parents will drive them to the airport.",
+    "questions": [
+      {
+        "prompt": "These tickets are for ___.",
+        "choices": [
+          "us",
+          "we",
+          "our"
+        ],
+        "answer": 0,
+        "why": "Після for потрібна об’єктна форма us."
+      },
+      {
+        "prompt": "I called my brother. I asked ___ to help.",
+        "choices": [
+          "him",
+          "he",
+          "his"
+        ],
+        "answer": 0,
+        "why": "Після asked — об’єктний займенник him."
+      },
+      {
+        "prompt": "Give the boarding passes to ___.",
+        "choices": [
+          "me",
+          "I",
+          "my"
+        ],
+        "answer": 0,
+        "why": "Після to — me."
+      },
+      {
+        "prompt": "Why do the friends take jumpers?",
+        "choices": [
+          "They checked the weather.",
+          "They lost their bags.",
+          "They are buying souvenirs."
+        ],
+        "answer": 0,
+        "why": "Одяг обирають після перевірки погоди."
+      },
+      {
+        "prompt": "How can they get their boarding passes?",
+        "choices": [
+          "Download them.",
+          "Buy them at a museum.",
+          "Find them in a book."
+        ],
+        "answer": 0,
+        "why": "У тексті: download their boarding passes."
+      }
+    ],
+    "write": {
+      "prompt": "Склади список підготовки й 4 запитання до друга: квитки, погода, паспорт, багаж.",
+      "starter": "Did you book…? Did you check…? Give… to me. We need…"
+    }
+  },
+  {
+    "unit": 2,
+    "code": "2d",
+    "slug": "sb-2d",
+    "title": "Travelling then and now",
+    "title_uk": "Подорожі колись і зараз",
+    "vocabulary": [
+      [
+        "voyage",
+        "морська подорож"
+      ],
+      [
+        "explorer",
+        "дослідник"
+      ],
+      [
+        "journey",
+        "подорож"
+      ],
+      [
+        "charge",
+        "заряджати"
+      ],
+      [
+        "electric",
+        "електричний"
+      ],
+      [
+        "land",
+        "суходіл"
+      ]
+    ],
+    "rule": "Used to + основна форма описує минулу звичку або стан, що змінився. У запитаннях і запереченнях після did пишемо use to: Did people use to…? People didn’t use to… . Для окремої завершеної події використовуємо Past Simple.",
+    "example": "People used to travel on slow ships. Did they use to spend months at sea? Trains did not use to be so fast.",
+    "reading": "Travel has changed. Explorers used to spend months at sea before they saw land. Early trains were much slower than many trains today. Travelling by plane used to be difficult, but now people can cross long distances quickly. Electric cars are another way to travel, and drivers need places to charge them.",
+    "questions": [
+      {
+        "prompt": "People ___ travel on slow ships.",
+        "choices": [
+          "used to",
+          "use to",
+          "are used"
+        ],
+        "answer": 0,
+        "why": "Минула звичка: used to + travel."
+      },
+      {
+        "prompt": "Did trains ___ be so fast?",
+        "choices": [
+          "use to",
+          "used to",
+          "using to"
+        ],
+        "answer": 0,
+        "why": "Після did форма use to."
+      },
+      {
+        "prompt": "They did not ___ travel by plane.",
+        "choices": [
+          "use to",
+          "used to",
+          "uses to"
+        ],
+        "answer": 0,
+        "why": "Після did not немає -d у use."
+      },
+      {
+        "prompt": "What did explorers sometimes wait months to see?",
+        "choices": [
+          "Land.",
+          "A boarding pass.",
+          "A theatre."
+        ],
+        "answer": 0,
+        "why": "У тексті: before they saw land."
+      },
+      {
+        "prompt": "What do electric cars need?",
+        "choices": [
+          "Places to charge them.",
+          "A river.",
+          "A sail."
+        ],
+        "answer": 0,
+        "why": "Останнє речення пояснює потребу в заряджанні."
+      }
+    ],
+    "write": {
+      "prompt": "Напиши три речення про транспорт колись і три про транспорт зараз.",
+      "starter": "People used to… Now they… Trains did not use to…"
+    }
+  },
+  {
+    "unit": 2,
+    "code": "2e",
+    "slug": "sb-2e",
+    "title": "A school trip",
+    "title_uk": "Лист про шкільну поїздку",
+    "vocabulary": [
+      [
+        "amazing",
+        "дивовижний"
+      ],
+      [
+        "frightening",
+        "страшний"
+      ],
+      [
+        "brilliant",
+        "чудовий"
+      ],
+      [
+        "fossil",
+        "скам’янілість"
+      ],
+      [
+        "invention",
+        "винахід"
+      ],
+      [
+        "museum",
+        "музей"
+      ]
+    ],
+    "rule": "Лист про минулу поїздку має вітання, факти, враження й завершення. And додає інформацію; but показує протиставлення; because називає причину; so — наслідок. Для подій поїздки використовуй Past Simple.",
+    "example": "We visited a museum and watched a film. We were tired, so we went home. I liked the trip because it was exciting.",
+    "reading": "Last week our class went by coach to a science museum. The journey took two hours because of the traffic. We saw inventions and fossils and watched a film. My favourite place was the experiment room. We could do experiments there. We were tired at the end, but we had a fantastic day.",
+    "questions": [
+      {
+        "prompt": "We stayed inside ___ it was raining.",
+        "choices": [
+          "because",
+          "so",
+          "but"
+        ],
+        "answer": 0,
+        "why": "Because вводить причину."
+      },
+      {
+        "prompt": "We were tired, ___ we went home.",
+        "choices": [
+          "so",
+          "because",
+          "and not"
+        ],
+        "answer": 0,
+        "why": "So вводить наслідок."
+      },
+      {
+        "prompt": "The trip was long, ___ it was exciting.",
+        "choices": [
+          "but",
+          "because",
+          "so"
+        ],
+        "answer": 0,
+        "why": "But показує протиставлення."
+      },
+      {
+        "prompt": "How did the class travel?",
+        "choices": [
+          "By coach.",
+          "On foot.",
+          "By ferry."
+        ],
+        "answer": 0,
+        "why": "У першому реченні: went by coach."
+      },
+      {
+        "prompt": "Which room did the writer like best?",
+        "choices": [
+          "The experiment room.",
+          "The dining room.",
+          "The bedroom."
+        ],
+        "answer": 0,
+        "why": "My favourite place was the experiment room."
+      }
+    ],
+    "write": {
+      "prompt": "Напиши лист другу про шкільну поїздку: маршрут, дві події та враження. Використай and, but, because, so.",
+      "starter": "Hi… Last week we… My favourite place was… Speak to you soon!"
+    }
+  },
+  {
+    "unit": 3,
+    "code": "3a",
+    "slug": "sb-3a",
+    "title": "Accident",
+    "title_uk": "Що відбувалося під час пригоди",
+    "vocabulary": [
+      [
+        "accident",
+        "нещасний випадок"
+      ],
+      [
+        "ambulance",
+        "швидка допомога"
+      ],
+      [
+        "pavement",
+        "тротуар"
+      ],
+      [
+        "swerved",
+        "різко повернув"
+      ],
+      [
+        "crashed",
+        "врізався"
+      ],
+      [
+        "knee",
+        "коліно"
+      ]
+    ],
+    "rule": "Past Continuous (Progressive): was/were + дієслово з -ing. Це дія, що тривала у певний момент минулого. I/he/she/it → was; we/you/they → were. Заперечення: wasn’t/weren’t. У запитанні Was/Were стоїть перед підметом.",
+    "example": "I was walking at five. They were skateboarding. Was the driver going fast? She was not looking at her phone.",
+    "reading": "A boy was skateboarding on the pavement. A woman was driving a car. A cat was in the middle of the street, so the driver swerved and crashed into a tree. The car did not hit the boy, but he fell down and hurt his knee. A neighbour called an ambulance.",
+    "questions": [
+      {
+        "prompt": "At five I ___ home.",
+        "choices": [
+          "was walking",
+          "walk",
+          "am walking"
+        ],
+        "answer": 0,
+        "why": "Дія тривала в певний момент минулого."
+      },
+      {
+        "prompt": "They ___ football at that time.",
+        "choices": [
+          "were playing",
+          "was playing",
+          "are playing"
+        ],
+        "answer": 0,
+        "why": "They + were + playing."
+      },
+      {
+        "prompt": "___ the driver going fast?",
+        "choices": [
+          "Was",
+          "Did",
+          "Does"
+        ],
+        "answer": 0,
+        "why": "Past Continuous запитання: Was the driver going…?"
+      },
+      {
+        "prompt": "Why did the driver swerve?",
+        "choices": [
+          "There was a cat in the street.",
+          "She wanted to park.",
+          "The boy called her."
+        ],
+        "answer": 0,
+        "why": "Водій побачив кота на дорозі."
+      },
+      {
+        "prompt": "Did the car hit the boy?",
+        "choices": [
+          "No, he fell down.",
+          "Yes, it hit him.",
+          "The text does not say."
+        ],
+        "answer": 0,
+        "why": "У тексті прямо вказано, що машина не збила хлопця."
+      }
+    ],
+    "write": {
+      "prompt": "Опиши вигадану безпечну пригоду: що робили троє людей і що сталося.",
+      "starter": "A boy was… A woman was… Suddenly… A neighbour…"
+    }
+  },
+  {
+    "unit": 3,
+    "code": "3b",
+    "slug": "sb-3b",
+    "title": "Mysteries",
+    "title_uk": "Таємнича історія",
+    "vocabulary": [
+      [
+        "disappear",
+        "зникати"
+      ],
+      [
+        "footprints",
+        "сліди"
+      ],
+      [
+        "shadow",
+        "тінь"
+      ],
+      [
+        "monster",
+        "чудовисько"
+      ],
+      [
+        "bushes",
+        "кущі"
+      ],
+      [
+        "frightened",
+        "наляканий"
+      ]
+    ],
+    "rule": "Past Continuous задає фон, Past Simple — подію, що перервала дію. While часто вводить тривалу дію. When може вводити коротку подію. Для двох одночасних тривалих дій використовуй Continuous в обох частинах.",
+    "example": "While we were walking, we heard a noise. I was looking at the snow when I saw footprints. She was reading while he was drawing.",
+    "reading": "Two friends were exploring a snowy area when they saw huge footprints. The footprints looked like human footprints, but they were much bigger. The friends were frightened and ran back to the campsite. Other people thought a wild animal made them. The friends could not explain what they saw.",
+    "questions": [
+      {
+        "prompt": "While we ___, we heard a noise.",
+        "choices": [
+          "were walking",
+          "walk",
+          "are walking"
+        ],
+        "answer": 0,
+        "why": "Тривала фонова дія: were walking."
+      },
+      {
+        "prompt": "I was reading when the phone ___.",
+        "choices": [
+          "rang",
+          "was ring",
+          "rings"
+        ],
+        "answer": 0,
+        "why": "Коротка завершена подія: rang."
+      },
+      {
+        "prompt": "She was drawing while he ___ music.",
+        "choices": [
+          "was listening to",
+          "listens to",
+          "listen to"
+        ],
+        "answer": 0,
+        "why": "Дві одночасні тривалі дії — Continuous."
+      },
+      {
+        "prompt": "What was unusual about the footprints?",
+        "choices": [
+          "They were much bigger than human footprints.",
+          "They were blue.",
+          "They were inside a bus."
+        ],
+        "answer": 0,
+        "why": "Розмір слідів здивував друзів."
+      },
+      {
+        "prompt": "Where did the friends run?",
+        "choices": [
+          "To the campsite.",
+          "To a museum.",
+          "To an airport."
+        ],
+        "answer": 0,
+        "why": "У тексті: ran back to the campsite."
+      }
+    ],
+    "write": {
+      "prompt": "Придумай таємничу історію у 5–6 реченнях. Додай while, when і пояснення, яке може бути правдоподібним.",
+      "starter": "While we were… we saw… We felt… Perhaps…"
+    }
+  },
+  {
+    "unit": 3,
+    "code": "3c",
+    "slug": "sb-3c",
+    "title": "What happened?",
+    "title_uk": "Пригода в парку атракціонів",
+    "vocabulary": [
+      [
+        "ride",
+        "атракціон"
+      ],
+      [
+        "queue",
+        "черга"
+      ],
+      [
+        "lemonade",
+        "лимонад"
+      ],
+      [
+        "ketchup",
+        "кетчуп"
+      ],
+      [
+        "splashed",
+        "хлюпнулися"
+      ],
+      [
+        "wheel",
+        "колесо"
+      ]
+    ],
+    "rule": "Some зазвичай уживаємо у ствердженнях, а також у пропозиціях: Would you like some…? Any — у запитаннях і запереченнях. No означає відсутність і стоїть зі стверджувальним дієсловом: There is no food. Не додавай ще одне not.",
+    "example": "There are some rides. Are there any long queues? There is no food left. Would you like some lemonade?",
+    "reading": "Two boys went on a water ride at a funfair. One boy was eating a sandwich when the boat went down a hill. Ketchup got on his shirt. The boat splashed into water, and the water washed some ketchup off. There were no roller coasters, but the boys enjoyed the other rides.",
+    "questions": [
+      {
+        "prompt": "Are there ___ tickets left?",
+        "choices": [
+          "any",
+          "no",
+          "a"
+        ],
+        "answer": 0,
+        "why": "У запитанні про наявність: any."
+      },
+      {
+        "prompt": "There are ___ interesting rides here.",
+        "choices": [
+          "some",
+          "any not",
+          "a"
+        ],
+        "answer": 0,
+        "why": "Ствердження з множиною: some."
+      },
+      {
+        "prompt": "We have not got ___ lemonade.",
+        "choices": [
+          "any",
+          "no",
+          "a"
+        ],
+        "answer": 0,
+        "why": "Заперечення: not + any."
+      },
+      {
+        "prompt": "What was the boy eating?",
+        "choices": [
+          "A sandwich.",
+          "An apple.",
+          "A cake."
+        ],
+        "answer": 0,
+        "why": "У тексті він їв sandwich."
+      },
+      {
+        "prompt": "Were there roller coasters?",
+        "choices": [
+          "No, there were none.",
+          "Yes, there were many.",
+          "There was one."
+        ],
+        "answer": 0,
+        "why": "У тексті: no roller coasters."
+      }
+    ],
+    "write": {
+      "prompt": "Напиши про вигаданий парк розваг: що там є, чого немає, і що сталося під час одного атракціону.",
+      "starter": "There are some… There are no… I was… when…"
+    }
+  },
+  {
+    "unit": 3,
+    "code": "3d",
+    "slug": "sb-3d",
+    "title": "Emotions",
+    "title_uk": "Почуття героїв",
+    "vocabulary": [
+      [
+        "surprised",
+        "здивований"
+      ],
+      [
+        "shocked",
+        "шокований"
+      ],
+      [
+        "calm",
+        "спокійний"
+      ],
+      [
+        "wolf",
+        "вовк"
+      ],
+      [
+        "brave",
+        "сміливий"
+      ],
+      [
+        "alone",
+        "сам, на самоті"
+      ]
+    ],
+    "rule": "Someone/somebody — хтось; something — щось; somewhere — десь. Anyone/anything/anywhere часто в запитаннях і запереченнях. Nobody/nothing/nowhere уже містять заперечення. Everyone/everything/everywhere — усі/усе/скрізь. З everyone і nobody використовуємо однину дієслова.",
+    "example": "Everyone is afraid. Nobody knows the answer. Is there anything to eat? I can hear something.",
+    "reading": "Two men were travelling through a cold forest with their dogs. Wolves were following them. One wolf looked different because it was half dog. A dog ran towards it, and other wolves appeared. One man tried to chase them, but he did not return. The other man felt alone and afraid.",
+    "questions": [
+      {
+        "prompt": "___ knows the answer. We need help.",
+        "choices": [
+          "Nobody",
+          "Anybody",
+          "Everywhere"
+        ],
+        "answer": 0,
+        "why": "Nobody — ніхто; речення вже заперечне за змістом."
+      },
+      {
+        "prompt": "Is there ___ to eat?",
+        "choices": [
+          "anything",
+          "nothing not",
+          "everywhere"
+        ],
+        "answer": 0,
+        "why": "Запитання про наявність чогось: anything."
+      },
+      {
+        "prompt": "Everyone ___ ready.",
+        "choices": [
+          "is",
+          "are",
+          "were"
+        ],
+        "answer": 0,
+        "why": "Everyone граматично узгоджується з одниною."
+      },
+      {
+        "prompt": "Why did one wolf look different?",
+        "choices": [
+          "It was half dog.",
+          "It was wearing a coat.",
+          "It had no legs."
+        ],
+        "answer": 0,
+        "why": "Це деталь із тексту, адаптованого за історією White Fang."
+      },
+      {
+        "prompt": "How did the man feel at the end?",
+        "choices": [
+          "Alone and afraid.",
+          "Excited and happy.",
+          "Bored but safe."
+        ],
+        "answer": 0,
+        "why": "Останнє речення прямо називає його почуття."
+      }
+    ],
+    "write": {
+      "prompt": "Опиши почуття героя в трьох моментах історії. Використай someone, something або nobody.",
+      "starter": "At first the character felt… Then… In the end…"
+    }
+  },
+  {
+    "unit": 3,
+    "code": "3e",
+    "slug": "sb-3e",
+    "title": "Unlucky story",
+    "title_uk": "Пишемо історію",
+    "vocabulary": [
+      [
+        "ladder",
+        "драбина"
+      ],
+      [
+        "burglar",
+        "злодій"
+      ],
+      [
+        "neighbour",
+        "сусід"
+      ],
+      [
+        "luckily",
+        "на щастя"
+      ],
+      [
+        "unfortunately",
+        "на жаль"
+      ],
+      [
+        "suddenly",
+        "раптом"
+      ]
+    ],
+    "rule": "Історія має початок (хто, де, коли), розвиток подій і завершення. Past Continuous описує фон, Past Simple — події. Suddenly додає несподівану подію; luckily/fortunately — добрий поворот; unfortunately — невдачу. Завершуй історію результатом і почуттями героя.",
+    "example": "I was walking home when I lost my keys. Unfortunately, the door was locked. Luckily, a neighbour helped me.",
+    "reading": "A boy ran into his garden, and the door closed behind him. He had no keys or phone. Luckily, his bedroom window was open, so he climbed a ladder. A police officer saw him and thought he was a burglar. A neighbour explained that it was the boy’s house. In the end, the boy got inside safely.",
+    "questions": [
+      {
+        "prompt": "___, I lost my keys and could not get inside.",
+        "choices": [
+          "Unfortunately",
+          "Fortunately",
+          "Politely"
+        ],
+        "answer": 0,
+        "why": "Втрата ключів — неприємна подія."
+      },
+      {
+        "prompt": "I was climbing when the officer ___ me.",
+        "choices": [
+          "saw",
+          "sees",
+          "was see"
+        ],
+        "answer": 0,
+        "why": "Коротка подія в минулому: saw."
+      },
+      {
+        "prompt": "Choose a clear ending.",
+        "choices": [
+          "In the end, we got home safely.",
+          "Yesterday afternoon…",
+          "While we were walking…"
+        ],
+        "answer": 0,
+        "why": "Завершення розповідає результат подій."
+      },
+      {
+        "prompt": "Why did the boy use a ladder?",
+        "choices": [
+          "His window was open.",
+          "He wanted to repair the roof.",
+          "He was at school."
+        ],
+        "answer": 0,
+        "why": "Відкрите вікно було способом потрапити в дім."
+      },
+      {
+        "prompt": "Who explained the situation?",
+        "choices": [
+          "A neighbour.",
+          "A driver.",
+          "A teacher."
+        ],
+        "answer": 0,
+        "why": "Сусід пояснив поліцейському, чий це будинок."
+      }
+    ],
+    "write": {
+      "prompt": "Напиши історію на 7–8 речень з початком, пригодою та завершенням. Додай дві емоції й when/while.",
+      "starter": "It happened… I was… when… Unfortunately… Luckily… In the end…"
+    }
+  },
+  {
+    "unit": 4,
+    "code": "4a",
+    "slug": "sb-4a",
+    "title": "Around town",
+    "title_uk": "Місця в місті",
+    "vocabulary": [
+      [
+        "florist",
+        "квітникар, квіткова крамниця"
+      ],
+      [
+        "chemist",
+        "аптекар, аптека"
+      ],
+      [
+        "haircut",
+        "стрижка"
+      ],
+      [
+        "borrow",
+        "позичати"
+      ],
+      [
+        "stamps",
+        "поштові марки"
+      ],
+      [
+        "market",
+        "ринок"
+      ]
+    ],
+    "rule": "Can I…? і May I…? запитують дозволу. Could you…? — ввічливе прохання. Could I help you…? — пропозиція допомоги. May/might + основна форма можуть виражати можливість: It might rain. Після цих модальних дієслів немає to або -s.",
+    "example": "May I borrow this book? Could you help me? I might visit the market later.",
+    "reading": "A boy wants to borrow a book from the library, but he has left his card at home. The librarian says he cannot borrow it without a card. She suggests asking a friend to borrow the book for him. At another shop, a girl wants a newspaper and a magazine. The shopkeeper checks the shelf.",
+    "questions": [
+      {
+        "prompt": "___ I borrow this book, please?",
+        "choices": [
+          "May",
+          "Do",
+          "Am"
+        ],
+        "answer": 0,
+        "why": "May I…? — прохання про дозвіл."
+      },
+      {
+        "prompt": "Could you ___ the window, please?",
+        "choices": [
+          "open",
+          "to open",
+          "opens"
+        ],
+        "answer": 0,
+        "why": "Після could — основна форма."
+      },
+      {
+        "prompt": "It ___ rain later, but I am not sure.",
+        "choices": [
+          "might",
+          "must to",
+          "does"
+        ],
+        "answer": 0,
+        "why": "Might виражає невпевнене припущення."
+      },
+      {
+        "prompt": "Why cannot the boy borrow the book himself?",
+        "choices": [
+          "He has no library card with him.",
+          "The library is closed.",
+          "He cannot read."
+        ],
+        "answer": 0,
+        "why": "Картка залишилася вдома."
+      },
+      {
+        "prompt": "Where does the shopkeeper look for the magazine?",
+        "choices": [
+          "On a shelf.",
+          "In a car.",
+          "At the airport."
+        ],
+        "answer": 0,
+        "why": "У тексті: checks the shelf."
+      }
+    ],
+    "write": {
+      "prompt": "Напиши три короткі діалоги: в бібліотеці, крамниці та на пошті. Додай ввічливі прохання.",
+      "starter": "Could you… please? May I…? Yes, of course. Thank you."
+    }
+  },
+  {
+    "unit": 4,
+    "code": "4b",
+    "slug": "sb-4b",
+    "title": "How to get there",
+    "title_uk": "Пояснюємо маршрут",
+    "vocabulary": [
+      [
+        "crossing",
+        "перехід"
+      ],
+      [
+        "footbridge",
+        "пішохідний міст"
+      ],
+      [
+        "opposite",
+        "навпроти"
+      ],
+      [
+        "behind",
+        "позаду"
+      ],
+      [
+        "tunnel",
+        "тунель"
+      ],
+      [
+        "petrol",
+        "бензин"
+      ]
+    ],
+    "rule": "Для маршруту використовуй наказову форму: Go straight on. Turn left/right. Go past the bank. Прийменники місця: next to, opposite, in front of, behind. Рух: into — усередину, out of — назовні, through — крізь, across — через, along/down — уздовж.",
+    "example": "Go straight on and turn right at the traffic lights. The bank is on your left, opposite the park.",
+    "reading": "Two friends are playing a game. One asks how to get to the bank. His friend tells him to go straight on and turn right at the traffic lights. Later they go past a bus stop and turn left. They stop in front of a supermarket. The house they need is behind it.",
+    "questions": [
+      {
+        "prompt": "To move inside a building, go ___.",
+        "choices": [
+          "into it",
+          "behind it",
+          "opposite it"
+        ],
+        "answer": 0,
+        "why": "Into означає рух усередину."
+      },
+      {
+        "prompt": "The bank faces the park. It is ___ the park.",
+        "choices": [
+          "opposite",
+          "through",
+          "into"
+        ],
+        "answer": 0,
+        "why": "Opposite означає навпроти."
+      },
+      {
+        "prompt": "Choose a direction.",
+        "choices": [
+          "Turn left at the traffic lights.",
+          "Left turning traffic.",
+          "You left are lights."
+        ],
+        "answer": 0,
+        "why": "Наказова форма починається з Turn."
+      },
+      {
+        "prompt": "Where do the friends stop?",
+        "choices": [
+          "In front of a supermarket.",
+          "Inside the bank.",
+          "Under a bridge."
+        ],
+        "answer": 0,
+        "why": "У тексті: stop in front of a supermarket."
+      },
+      {
+        "prompt": "Where is the house they need?",
+        "choices": [
+          "Behind the supermarket.",
+          "Inside the park.",
+          "Opposite the airport."
+        ],
+        "answer": 0,
+        "why": "Останнє речення називає місце."
+      }
+    ],
+    "write": {
+      "prompt": "Намалюй просту мапу з чотирма місцями. Напиши маршрут від школи до одного з них.",
+      "starter": "Go straight on… Turn… Go past… It is on your…"
+    }
+  },
+  {
+    "unit": 4,
+    "code": "4c",
+    "slug": "sb-4c",
+    "title": "City vs countryside",
+    "title_uk": "Місто чи село",
+    "vocabulary": [
+      [
+        "peaceful",
+        "спокійний"
+      ],
+      [
+        "noisy",
+        "галасливий"
+      ],
+      [
+        "countryside",
+        "сільська місцевість"
+      ],
+      [
+        "caravan",
+        "будинок на колесах"
+      ],
+      [
+        "houseboat",
+        "плавучий будинок"
+      ],
+      [
+        "relaxed",
+        "розслаблений"
+      ]
+    ],
+    "rule": "Порівняння: short adjective + -er + than; more + long adjective + than. Big → bigger, easy → easier. Good → better, bad → worse. As + прикметник + as показує рівність; not as… as — менший ступінь ознаки. Після as не використовуй -er.",
+    "example": "The country is quieter than the city. The city is more exciting. This house is as comfortable as that one.",
+    "reading": "Some people enjoy a busy city with shops and restaurants. Other people prefer the countryside because it is quieter and more peaceful. A houseboat can be cheaper than a large house. A caravan lets people travel with their home. The best choice depends on the person’s interests and daily life.",
+    "questions": [
+      {
+        "prompt": "The country is ___ than the city.",
+        "choices": [
+          "quieter",
+          "quiet",
+          "quietest"
+        ],
+        "answer": 0,
+        "why": "Порівняння двох місць: quieter than."
+      },
+      {
+        "prompt": "This sofa is as ___ as my bed.",
+        "choices": [
+          "comfortable",
+          "more comfortable",
+          "most comfortable"
+        ],
+        "answer": 0,
+        "why": "As… as потребує звичайної форми прикметника."
+      },
+      {
+        "prompt": "This view is ___ than that one.",
+        "choices": [
+          "better",
+          "good",
+          "best"
+        ],
+        "answer": 0,
+        "why": "Порівняльна форма good — better."
+      },
+      {
+        "prompt": "Why do some people prefer the countryside?",
+        "choices": [
+          "It is quieter and more peaceful.",
+          "It has more traffic.",
+          "It is always crowded."
+        ],
+        "answer": 0,
+        "why": "Ці причини наведено в тексті."
+      },
+      {
+        "prompt": "What can a caravan let people do?",
+        "choices": [
+          "Travel with their home.",
+          "Fly to school.",
+          "Live under water."
+        ],
+        "answer": 0,
+        "why": "У тексті: travel with their home."
+      }
+    ],
+    "write": {
+      "prompt": "Порівняй два місця, де хотів би жити. Додай два порівняння й одне речення з as… as.",
+      "starter": "The city is… than… The country is more… This place is as… as…"
+    }
+  },
+  {
+    "unit": 4,
+    "code": "4d",
+    "slug": "sb-4d",
+    "title": "Outer space",
+    "title_uk": "Космос і найвищий ступінь",
+    "vocabulary": [
+      [
+        "galaxy",
+        "галактика"
+      ],
+      [
+        "universe",
+        "Всесвіт"
+      ],
+      [
+        "planet",
+        "планета"
+      ],
+      [
+        "temperature",
+        "температура"
+      ],
+      [
+        "distance",
+        "відстань"
+      ],
+      [
+        "diameter",
+        "діаметр"
+      ]
+    ],
+    "rule": "Найвищий ступінь: the + -est або the most + прикметник. Large → largest, hot → hottest, easy → easiest. Good → the best, bad → the worst. Порівняльний ступінь порівнює два об’єкти, найвищий — один об’єкт з усією групою.",
+    "example": "This is the largest planet in the group. That planet is hotter than this one. It has the highest temperature.",
+    "reading": "Our solar system contains the sun and eight planets. Planets differ in size, temperature and distance from the sun. A small planet is not always the coldest one. To compare planets, look at the data carefully. Use bigger than for two planets and the biggest for one planet in a whole group.",
+    "questions": [
+      {
+        "prompt": "Choose the superlative of large.",
+        "choices": [
+          "the largest",
+          "the larger",
+          "more large"
+        ],
+        "answer": 0,
+        "why": "Large → the largest."
+      },
+      {
+        "prompt": "It is the ___ place in this group.",
+        "choices": [
+          "hottest",
+          "hotter",
+          "hot"
+        ],
+        "answer": 0,
+        "why": "Найвищий ступінь hot → hottest."
+      },
+      {
+        "prompt": "This is ___ interesting fact of all.",
+        "choices": [
+          "the most",
+          "more",
+          "as"
+        ],
+        "answer": 0,
+        "why": "Для довгого прикметника: the most interesting."
+      },
+      {
+        "prompt": "How many planets are in our solar system?",
+        "choices": [
+          "Eight.",
+          "Six.",
+          "Ten."
+        ],
+        "answer": 0,
+        "why": "У першому реченні названо eight planets."
+      },
+      {
+        "prompt": "Which form compares one planet with a whole group?",
+        "choices": [
+          "The biggest.",
+          "Bigger than.",
+          "As big as."
+        ],
+        "answer": 0,
+        "why": "Для всієї групи використовується найвищий ступінь."
+      }
+    ],
+    "write": {
+      "prompt": "Придумай таблицю для трьох вигаданих планет: розмір, температура, відстань. Напиши 5 порівнянь.",
+      "starter": "Planet one is bigger than… Planet two is the… Planet three is as… as…"
+    }
+  },
+  {
+    "unit": 4,
+    "code": "4e",
+    "slug": "sb-4e",
+    "title": "Where I live",
+    "title_uk": "Описуємо своє місто",
+    "vocabulary": [
+      [
+        "castle",
+        "замок"
+      ],
+      [
+        "stadium",
+        "стадіон"
+      ],
+      [
+        "bridge",
+        "міст"
+      ],
+      [
+        "gallery",
+        "галерея"
+      ],
+      [
+        "sculpture",
+        "скульптура"
+      ],
+      [
+        "population",
+        "населення"
+      ]
+    ],
+    "rule": "Опис місця організуй у три абзаци: розташування й основні факти; цікаві місця; власна думка та заняття. There is + однина; there are + множина. Для загальних фактів використовуй Present Simple, а для оцінки — прикметники й порівняння.",
+    "example": "There is a castle near the river. There are two galleries. The park is the most peaceful place in my town.",
+    "reading": "I live in a city with a river and several bridges. There are museums, art galleries and a large stadium. Many visitors enjoy the view from the old bridge. My favourite place is the park because my friends and I can cycle there. I think our city is a great place to live.",
+    "questions": [
+      {
+        "prompt": "There ___ two galleries in my town.",
+        "choices": [
+          "are",
+          "is",
+          "was"
+        ],
+        "answer": 0,
+        "why": "Two galleries — множина."
+      },
+      {
+        "prompt": "There ___ a castle near the river.",
+        "choices": [
+          "is",
+          "are",
+          "have"
+        ],
+        "answer": 0,
+        "why": "A castle — однина."
+      },
+      {
+        "prompt": "Which sentence gives an opinion?",
+        "choices": [
+          "I think this city is beautiful.",
+          "There are two bridges.",
+          "The park opens at nine."
+        ],
+        "answer": 0,
+        "why": "I think указує на власну оцінку."
+      },
+      {
+        "prompt": "Where does the writer like cycling?",
+        "choices": [
+          "In the park.",
+          "At the airport.",
+          "Inside a museum."
+        ],
+        "answer": 0,
+        "why": "У тексті велосипедні прогулянки відбуваються в парку."
+      },
+      {
+        "prompt": "What do many visitors enjoy?",
+        "choices": [
+          "The view from the old bridge.",
+          "A school test.",
+          "Buying a passport."
+        ],
+        "answer": 0,
+        "why": "У тексті: enjoy the view from the old bridge."
+      }
+    ],
+    "write": {
+      "prompt": "Опиши своє або вигадане місто в трьох коротких абзацах. Додай факти, місця й власну думку.",
+      "starter": "I live in… There is… There are… My favourite place is…"
+    }
+  },
+  {
+    "unit": 5,
+    "code": "5a",
+    "slug": "sb-5a",
+    "title": "Computer parts",
+    "title_uk": "Комп’ютер і плани",
+    "vocabulary": [
+      [
+        "keyboard",
+        "клавіатура"
+      ],
+      [
+        "screen",
+        "екран"
+      ],
+      [
+        "speaker",
+        "динамік"
+      ],
+      [
+        "mouse",
+        "комп’ютерна миша"
+      ],
+      [
+        "printer",
+        "принтер"
+      ],
+      [
+        "technology",
+        "технологія"
+      ]
+    ],
+    "rule": "Be going to + основна форма описує намір або план. Узгоджуй be: I am, he/she/it is, we/you/they are. Запитання: Are you going to…? Заперечення: isn’t/aren’t going to… . Для домовленості з конкретним часом також можна використати Present Continuous.",
+    "example": "I am going to buy a keyboard. Are you going to visit the technology fair? We are meeting at ten.",
+    "reading": "Two friends want to visit a technology fair at the weekend. They are going to look at new computers and game consoles. One friend needs a keyboard because the old one does not work. They are meeting at the entrance at ten. They are not going to buy everything they see.",
+    "questions": [
+      {
+        "prompt": "She ___ going to visit the fair.",
+        "choices": [
+          "is",
+          "are",
+          "does"
+        ],
+        "answer": 0,
+        "why": "She узгоджується з is."
+      },
+      {
+        "prompt": "Are you going to ___ a printer?",
+        "choices": [
+          "buy",
+          "buying",
+          "bought"
+        ],
+        "answer": 0,
+        "why": "Після going to — основна форма."
+      },
+      {
+        "prompt": "We ___ meeting at ten tomorrow.",
+        "choices": [
+          "are",
+          "do",
+          "did"
+        ],
+        "answer": 0,
+        "why": "Домовленість: Present Continuous."
+      },
+      {
+        "prompt": "What does one friend need?",
+        "choices": [
+          "A keyboard.",
+          "A suitcase.",
+          "A bicycle."
+        ],
+        "answer": 0,
+        "why": "У тексті старий keyboard не працює."
+      },
+      {
+        "prompt": "Where are the friends meeting?",
+        "choices": [
+          "At the entrance.",
+          "At a bus stop.",
+          "In a forest."
+        ],
+        "answer": 0,
+        "why": "У тексті: at the entrance at ten."
+      }
+    ],
+    "write": {
+      "prompt": "Склади план вихідного дня: три наміри, одна домовленість і одна дія, якої не плануєш.",
+      "starter": "I am going to… We are meeting… I am not going to…"
+    }
+  },
+  {
+    "unit": 5,
+    "code": "5b",
+    "slug": "sb-5b",
+    "title": "Gadgets",
+    "title_uk": "Технології майбутнього",
+    "vocabulary": [
+      [
+        "wireless",
+        "бездротовий"
+      ],
+      [
+        "headphones",
+        "навушники"
+      ],
+      [
+        "connect",
+        "під’єднувати"
+      ],
+      [
+        "gadget",
+        "ґаджет"
+      ],
+      [
+        "console",
+        "консоль"
+      ],
+      [
+        "definitely",
+        "безумовно"
+      ]
+    ],
+    "rule": "Will + основна форма: прогноз, обіцянка, пропозиція допомоги або рішення в момент мовлення. Заперечення: won’t. Запитання: Will you…? I think/probably/maybe показують ступінь упевненості. Will be able to — зможе; will be + -ing може описувати заплановану майбутню дію.",
+    "example": "I think gadgets will change. I will help you. Will you bring the headphones? We will be leaving at eight.",
+    "reading": "A teenager asks for advice about wireless headphones. One person recommends a cheaper pair. Another says the same headphones work with a phone but sometimes fail with a computer. A third person recommends a more expensive pair with better sound. The teenager decides to visit an electronics shop and compare them.",
+    "questions": [
+      {
+        "prompt": "I think phones ___ change in the future.",
+        "choices": [
+          "will",
+          "are",
+          "did"
+        ],
+        "answer": 0,
+        "why": "Прогноз: will + основна форма."
+      },
+      {
+        "prompt": "I promise I ___ return your headphones.",
+        "choices": [
+          "will",
+          "am",
+          "was"
+        ],
+        "answer": 0,
+        "why": "Обіцянка: will return."
+      },
+      {
+        "prompt": "Will you ___ me, please?",
+        "choices": [
+          "help",
+          "helps",
+          "helping"
+        ],
+        "answer": 0,
+        "why": "Після will використовуємо help."
+      },
+      {
+        "prompt": "Why does one person dislike the cheaper headphones?",
+        "choices": [
+          "They sometimes fail with a computer.",
+          "They are too colourful.",
+          "They are not wireless."
+        ],
+        "answer": 0,
+        "why": "Причина — проблеми з комп’ютером."
+      },
+      {
+        "prompt": "What will the teenager do next?",
+        "choices": [
+          "Visit an electronics shop.",
+          "Go on a cruise.",
+          "Buy a car."
+        ],
+        "answer": 0,
+        "why": "Останнє речення називає його рішення."
+      }
+    ],
+    "write": {
+      "prompt": "Напиши 4 прогнози про ґаджети майбутнього й одну обіцянку допомогти другові.",
+      "starter": "I think… will… Maybe… I am sure… I will help…"
+    }
+  },
+  {
+    "unit": 5,
+    "code": "5c",
+    "slug": "sb-5c",
+    "title": "Recycling",
+    "title_uk": "Обов’язки та заборони",
+    "vocabulary": [
+      [
+        "recycle",
+        "переробляти"
+      ],
+      [
+        "reuse",
+        "використовувати повторно"
+      ],
+      [
+        "rubbish",
+        "сміття"
+      ],
+      [
+        "rinse",
+        "споліскувати"
+      ],
+      [
+        "leaflet",
+        "інформаційна листівка"
+      ],
+      [
+        "environment",
+        "довкілля"
+      ]
+    ],
+    "rule": "Must/have to — необхідність. Mustn’t/can’t — заборона. Don’t have to — відсутність необхідності: можна, але не обов’язково. Минула форма must/have to — had to. Правила сортування можуть відрізнятися: завжди звіряй напис на місцевому контейнері.",
+    "example": "You must check the label. You must not leave rubbish here. You do not have to buy a new bag. We had to clean the room.",
+    "reading": "A boy wants to recycle a bottle. His friend explains that the container is for glass, but his bottle is plastic. She tells him to rinse it and check the correct bin. She also gives him a leaflet about recycling. They agree that keeping the environment clean is something everyone can help with.",
+    "questions": [
+      {
+        "prompt": "A rule forbids dropping rubbish. You ___ drop it.",
+        "choices": [
+          "must not",
+          "do not have to",
+          "may"
+        ],
+        "answer": 0,
+        "why": "Must not виражає заборону."
+      },
+      {
+        "prompt": "It is not necessary. You ___ do it.",
+        "choices": [
+          "do not have to",
+          "must not",
+          "cannot"
+        ],
+        "answer": 0,
+        "why": "Don’t have to — не обов’язково."
+      },
+      {
+        "prompt": "Yesterday we ___ clean the room.",
+        "choices": [
+          "had to",
+          "must to",
+          "have to"
+        ],
+        "answer": 0,
+        "why": "Для минулої необхідності: had to."
+      },
+      {
+        "prompt": "What is the boy's bottle made of?",
+        "choices": [
+          "Plastic.",
+          "Glass.",
+          "Metal."
+        ],
+        "answer": 0,
+        "why": "У тексті: his bottle is plastic."
+      },
+      {
+        "prompt": "What does the friend give him?",
+        "choices": [
+          "A leaflet.",
+          "A ticket.",
+          "A passport."
+        ],
+        "answer": 0,
+        "why": "У тексті згадано leaflet about recycling."
+      }
+    ],
+    "write": {
+      "prompt": "Напиши чотири правила для класу: обов’язок, заборону, необов’язкову дію та вчорашній обов’язок.",
+      "starter": "We have to… We must not… We do not have to… Yesterday we had to…"
+    }
+  },
+  {
+    "unit": 5,
+    "code": "5d",
+    "slug": "sb-5d",
+    "title": "Animal protection",
+    "title_uk": "Захищаємо тварин",
+    "vocabulary": [
+      [
+        "habitat",
+        "середовище існування"
+      ],
+      [
+        "endangered",
+        "під загрозою зникнення"
+      ],
+      [
+        "extinct",
+        "вимерлий"
+      ],
+      [
+        "pollution",
+        "забруднення"
+      ],
+      [
+        "species",
+        "вид, види"
+      ],
+      [
+        "fin",
+        "плавець"
+      ]
+    ],
+    "rule": "First Conditional описує можливу ситуацію: if + Present Simple, will + основна форма. У частині з if також можливі can/may/might/must або наказова форма в головній частині. Не став will у звичайній умові з if. Якщо if-частина на початку, відділяй її комою.",
+    "example": "If we protect the river, animals will have a safer home. If you see rubbish, pick it up. Animals may disappear if we do not help.",
+    "reading": "Some dolphins are endangered. They need clean water and air to breathe. Fishing nets, careless boat users and pollution can harm them. If people protect their habitat, the dolphins will have a better chance to survive. We can help by keeping rivers clean and learning about the animals that live there.",
+    "questions": [
+      {
+        "prompt": "If we ___ the water, animals will suffer.",
+        "choices": [
+          "pollute",
+          "will pollute",
+          "polluted"
+        ],
+        "answer": 0,
+        "why": "Після if — Present Simple."
+      },
+      {
+        "prompt": "If people protect the habitat, animals ___ a better chance.",
+        "choices": [
+          "will have",
+          "had",
+          "having"
+        ],
+        "answer": 0,
+        "why": "Наслідок майбутньої умови: will have."
+      },
+      {
+        "prompt": "If you see rubbish, ___ it up.",
+        "choices": [
+          "pick",
+          "picked",
+          "picks"
+        ],
+        "answer": 0,
+        "why": "У головній частині може бути наказова форма."
+      },
+      {
+        "prompt": "Why do dolphins need air?",
+        "choices": [
+          "To breathe.",
+          "To charge a phone.",
+          "To build a nest."
+        ],
+        "answer": 0,
+        "why": "У тексті прямо вказано air to breathe."
+      },
+      {
+        "prompt": "Which danger is mentioned?",
+        "choices": [
+          "Fishing nets.",
+          "School books.",
+          "Musical instruments."
+        ],
+        "answer": 0,
+        "why": "Fishing nets названо серед загроз."
+      }
+    ],
+    "write": {
+      "prompt": "Напиши 5 речень про захист середовища тварин, використовуючи if.",
+      "starter": "If we… animals will… If you see… We can…"
+    }
+  },
+  {
+    "unit": 5,
+    "code": "5e",
+    "slug": "sb-5e",
+    "title": "An environmental event",
+    "title_uk": "Запрошення на екоподію",
+    "vocabulary": [
+      [
+        "invite",
+        "запрошувати"
+      ],
+      [
+        "accept",
+        "приймати"
+      ],
+      [
+        "refuse",
+        "відмовлятися"
+      ],
+      [
+        "clean-up",
+        "прибирання"
+      ],
+      [
+        "together",
+        "разом"
+      ],
+      [
+        "reply",
+        "відповідь"
+      ]
+    ],
+    "rule": "У запрошенні назви подію, місце, дату, час і заняття. Would you like to come…? — запрошення; Thanks for inviting me. I’d love to. — згода; I’m sorry, but I can’t… — ввічлива відмова. Для планів використовуй going to, а if — для умови відповіді.",
+    "example": "Would you like to come to our clean-up? We are going to meet at nine. If you can come, write back.",
+    "reading": "Our youth club is organising a tree-planting event. We are going to meet at the club at eight and walk to the park. We will plant trees in the morning and have a meal together later. I hope you can join us. If you decide to come, please send a reply.",
+    "questions": [
+      {
+        "prompt": "Choose an invitation.",
+        "choices": [
+          "Would you like to come to our event?",
+          "I cannot come tomorrow.",
+          "Thank you for inviting me."
+        ],
+        "answer": 0,
+        "why": "Would you like…? запрошує."
+      },
+      {
+        "prompt": "Choose a polite acceptance.",
+        "choices": [
+          "I would love to come.",
+          "You must not come.",
+          "I cannot make it."
+        ],
+        "answer": 0,
+        "why": "I would love to come — згода."
+      },
+      {
+        "prompt": "Which detail should an invitation include?",
+        "choices": [
+          "The place and time.",
+          "Only the writer's favourite colour.",
+          "Only a goodbye."
+        ],
+        "answer": 0,
+        "why": "Гостю потрібно знати, де й коли подія."
+      },
+      {
+        "prompt": "When will the group meet?",
+        "choices": [
+          "At eight.",
+          "At noon.",
+          "At ten at night."
+        ],
+        "answer": 0,
+        "why": "У тексті: meet at the club at eight."
+      },
+      {
+        "prompt": "What should the friend send?",
+        "choices": [
+          "A reply.",
+          "A boarding pass.",
+          "A newspaper."
+        ],
+        "answer": 0,
+        "why": "В останньому реченні просять send a reply."
+      }
+    ],
+    "write": {
+      "prompt": "Напиши запрошення на екоподію і дві відповіді: згоду та ввічливу відмову.",
+      "starter": "Hi… Would you like to…? We are going to… Thanks for… I am sorry, but…"
+    }
+  },
+  {
+    "unit": 6,
+    "code": "6a",
+    "slug": "sb-6a",
+    "title": "Healthy food",
+    "title_uk": "Їжа та кількість",
+    "vocabulary": [
+      [
+        "protein",
+        "білок"
+      ],
+      [
+        "calcium",
+        "кальцій"
+      ],
+      [
+        "vitamins",
+        "вітаміни"
+      ],
+      [
+        "vegetables",
+        "овочі"
+      ],
+      [
+        "dairy",
+        "молочний"
+      ],
+      [
+        "diet",
+        "раціон"
+      ]
+    ],
+    "rule": "Much/how much/a little + незлічуваний іменник: water, milk, sugar. Many/how many/a few + злічуваний іменник у множині: apples, meals. A lot of/lots of підходить до обох типів. A few/a little означають, що невелика кількість є.",
+    "example": "How much milk is there? How many apples have we got? There is a little water and a few vegetables.",
+    "reading": "A balanced diet can include different kinds of food. Fruit and vegetables provide vitamins. Dairy products contain protein and calcium. Some fast food contains a lot of salt, sugar or fat. A student compares two meals and notices that one has more vegetables. The student chooses that meal and drinks water.",
+    "questions": [
+      {
+        "prompt": "How ___ apples have we got?",
+        "choices": [
+          "many",
+          "much",
+          "little"
+        ],
+        "answer": 0,
+        "why": "Apples — злічувана множина."
+      },
+      {
+        "prompt": "There is a ___ milk left.",
+        "choices": [
+          "little",
+          "few",
+          "many"
+        ],
+        "answer": 0,
+        "why": "Milk — незлічуваний іменник."
+      },
+      {
+        "prompt": "We have a ___ carrots.",
+        "choices": [
+          "few",
+          "little",
+          "much"
+        ],
+        "answer": 0,
+        "why": "Carrots — злічувана множина."
+      },
+      {
+        "prompt": "What do dairy products contain in the text?",
+        "choices": [
+          "Protein and calcium.",
+          "Only sugar.",
+          "No protein."
+        ],
+        "answer": 0,
+        "why": "У тексті названо protein and calcium."
+      },
+      {
+        "prompt": "What does the student drink?",
+        "choices": [
+          "Water.",
+          "Lemonade.",
+          "Coffee."
+        ],
+        "answer": 0,
+        "why": "Останнє речення: drinks water."
+      }
+    ],
+    "write": {
+      "prompt": "Опиши два вигадані обіди. Використай many, much, a few, a little, a lot of.",
+      "starter": "Meal one has… Meal two has… There is a little… There are a few…"
+    }
+  },
+  {
+    "unit": 6,
+    "code": "6b",
+    "slug": "sb-6b",
+    "title": "Ailments and illnesses",
+    "title_uk": "Самопочуття й поради",
+    "vocabulary": [
+      [
+        "headache",
+        "головний біль"
+      ],
+      [
+        "toothache",
+        "зубний біль"
+      ],
+      [
+        "fever",
+        "гарячка"
+      ],
+      [
+        "cough",
+        "кашель"
+      ],
+      [
+        "throat",
+        "горло"
+      ],
+      [
+        "ill",
+        "хворий"
+      ]
+    ],
+    "rule": "Should/shouldn’t + основна форма — порада. Should I…? запитує поради. Мовні приклади про самопочуття допомагають пояснити проблему дорослому. Для конкретного лікування звертайся до дорослого та медичного фахівця.",
+    "example": "I have got a headache. You should tell an adult. You should not ignore it. Should I ask for help?",
+    "reading": "A girl calls her friend because he has not arrived at the cinema. He says he is ill and has got a headache and a cough. She offers to visit him, but then she hears another friend cheering for a football match. The boy admits that they are watching football. He promises to tell the truth next time.",
+    "questions": [
+      {
+        "prompt": "You should ___ an adult how you feel.",
+        "choices": [
+          "tell",
+          "to tell",
+          "telling"
+        ],
+        "answer": 0,
+        "why": "Після should — основна форма."
+      },
+      {
+        "prompt": "You ___ ignore a problem.",
+        "choices": [
+          "should not",
+          "should to",
+          "shoulding"
+        ],
+        "answer": 0,
+        "why": "Should not + основна форма."
+      },
+      {
+        "prompt": "___ I ask for help?",
+        "choices": [
+          "Should",
+          "Do should",
+          "Am should"
+        ],
+        "answer": 0,
+        "why": "Should на початку запитання."
+      },
+      {
+        "prompt": "Where was the girl waiting?",
+        "choices": [
+          "At the cinema.",
+          "At the airport.",
+          "At a music class."
+        ],
+        "answer": 0,
+        "why": "Вона телефонувала через його відсутність у кіно."
+      },
+      {
+        "prompt": "What were the boys actually doing?",
+        "choices": [
+          "Watching football.",
+          "Doing homework.",
+          "Sleeping."
+        ],
+        "answer": 0,
+        "why": "Хлопець визнав, що вони дивляться football."
+      }
+    ],
+    "write": {
+      "prompt": "Склади три короткі діалоги: назви самопочуття, попроси допомоги, дай загальну пораду з should.",
+      "starter": "I have got… Should I…? You should tell…"
+    }
+  },
+  {
+    "unit": 6,
+    "code": "6c",
+    "slug": "sb-6c",
+    "title": "Facts about sports",
+    "title_uk": "Спорт і запитання з хвостиком",
+    "vocabulary": [
+      [
+        "gym",
+        "спортивна зала"
+      ],
+      [
+        "instructor",
+        "інструктор"
+      ],
+      [
+        "aerobics",
+        "аеробіка"
+      ],
+      [
+        "weights",
+        "гирі, обтяження"
+      ],
+      [
+        "fit",
+        "у добрій фізичній формі"
+      ],
+      [
+        "exercise",
+        "фізична вправа"
+      ]
+    ],
+    "rule": "Question tag уточнює твердження. Після ствердження хвостик заперечний, після заперечення — стверджувальний. Повтори допоміжне дієслово: is → isn’t, can → can’t, likes → doesn’t, played → didn’t. У хвостику заміни підмет займенником.",
+    "example": "You like tennis, do you not? She is the instructor, is she not? They cannot swim, can they?",
+    "reading": "Two friends visit a gym. One likes using the machines and lifting weights. The other prefers an aerobics class and wants advice from an instructor. They discuss different ways to exercise. They agree that a person should choose an activity they enjoy and can practise regularly.",
+    "questions": [
+      {
+        "prompt": "She is the instructor, ___?",
+        "choices": [
+          "isn't she",
+          "doesn't she",
+          "is she"
+        ],
+        "answer": 0,
+        "why": "Після ствердження з is — isn’t she."
+      },
+      {
+        "prompt": "You like tennis, ___?",
+        "choices": [
+          "don't you",
+          "aren't you",
+          "do you"
+        ],
+        "answer": 0,
+        "why": "Present Simple з you → don’t you."
+      },
+      {
+        "prompt": "They cannot swim, ___?",
+        "choices": [
+          "can they",
+          "can't they",
+          "do they"
+        ],
+        "answer": 0,
+        "why": "Після заперечення — стверджувальний хвостик."
+      },
+      {
+        "prompt": "Who wants advice from an instructor?",
+        "choices": [
+          "The friend who prefers aerobics.",
+          "A bus driver.",
+          "A librarian."
+        ],
+        "answer": 0,
+        "why": "У тексті це друг, який обирає aerobics."
+      },
+      {
+        "prompt": "What do the friends agree about?",
+        "choices": [
+          "Choosing an enjoyable activity.",
+          "Buying a computer.",
+          "Stopping all exercise."
+        ],
+        "answer": 0,
+        "why": "В останньому реченні сформульована їхня спільна думка."
+      }
+    ],
+    "write": {
+      "prompt": "Напиши 5 тверджень про спортивні вподобання з question tags і короткі відповіді на них.",
+      "starter": "You like… don’t you? Yes, I do. She is… isn’t she?"
+    }
+  },
+  {
+    "unit": 6,
+    "code": "6d",
+    "slug": "sb-6d",
+    "title": "Football",
+    "title_uk": "Моя команда",
+    "vocabulary": [
+      [
+        "spectator",
+        "глядач"
+      ],
+      [
+        "league",
+        "ліга"
+      ],
+      [
+        "trophy",
+        "трофей"
+      ],
+      [
+        "champion",
+        "чемпіон"
+      ],
+      [
+        "manager",
+        "керівник, тренер команди"
+      ],
+      [
+        "rival",
+        "суперник"
+      ]
+    ],
+    "rule": "Про звичайну діяльність команди використовуй Present Simple, про завершені матчі — Past Simple. Відрізняй match (матч), league (ліга), trophy (нагорода), spectator (глядач). Описуй спершу команду й місце, потім досягнення та причину, чому вона подобається.",
+    "example": "Our team plays in the local league. Last year they won a trophy. Many spectators watched the final.",
+    "reading": "A sports club can have more than one team. It may include football, basketball and hockey teams. Supporters watch matches and celebrate trophies. A successful club can change managers and players over the years. When you describe a favourite team, explain where it plays and why you support it.",
+    "questions": [
+      {
+        "prompt": "Yesterday the team ___ a trophy.",
+        "choices": [
+          "won",
+          "wins",
+          "winning"
+        ],
+        "answer": 0,
+        "why": "Yesterday потребує Past Simple."
+      },
+      {
+        "prompt": "A person who watches a match is a ___.",
+        "choices": [
+          "spectator",
+          "manager",
+          "trophy"
+        ],
+        "answer": 0,
+        "why": "Spectator — глядач."
+      },
+      {
+        "prompt": "They ___ in the local league every year.",
+        "choices": [
+          "play",
+          "played yesterday",
+          "is playing"
+        ],
+        "answer": 0,
+        "why": "Every year — регулярна дія у Present Simple."
+      },
+      {
+        "prompt": "Can one club have several teams?",
+        "choices": [
+          "Yes, in different sports.",
+          "No, only one player.",
+          "No, only one team."
+        ],
+        "answer": 0,
+        "why": "Перші два речення називають різні команди клубу."
+      },
+      {
+        "prompt": "What should a description explain?",
+        "choices": [
+          "Where the team plays and why you support it.",
+          "Only the weather.",
+          "Only the price of food."
+        ],
+        "answer": 0,
+        "why": "Останнє речення дає план опису."
+      }
+    ],
+    "write": {
+      "prompt": "Опиши справжню або вигадану команду: вид спорту, місце, минуле досягнення та причину підтримки.",
+      "starter": "My favourite team plays… Last year they… I support them because…"
+    }
+  },
+  {
+    "unit": 6,
+    "code": "6e",
+    "slug": "sb-6e",
+    "title": "Get active!",
+    "title_uk": "Нове захоплення",
+    "vocabulary": [
+      [
+        "racket",
+        "ракетка"
+      ],
+      [
+        "court",
+        "корт"
+      ],
+      [
+        "goggles",
+        "окуляри для плавання"
+      ],
+      [
+        "pitch",
+        "спортивне поле"
+      ],
+      [
+        "tournament",
+        "турнір"
+      ],
+      [
+        "member",
+        "учасник"
+      ]
+    ],
+    "rule": "У листі про нове заняття поєднуй часи: Past Simple — коли почав і що вже сталося; Present Simple — як часто займаєшся; be going to — майбутні плани. Перевіряй часові слова в кожному реченні.",
+    "example": "I joined the tennis club last year. I practise three times a week. I am going to enter a tournament.",
+    "reading": "A girl joined a tennis club after a friend gave her advice. She practises three times a week with another member. The coach says she is doing well. Last week she won her first match. In two weeks she is going to take part in a tournament. She writes to a friend to share the news.",
+    "questions": [
+      {
+        "prompt": "Last year I ___ a tennis club.",
+        "choices": [
+          "joined",
+          "join",
+          "am joining every day"
+        ],
+        "answer": 0,
+        "why": "Last year — Past Simple."
+      },
+      {
+        "prompt": "I ___ three times a week.",
+        "choices": [
+          "practise",
+          "practised yesterday",
+          "am practise"
+        ],
+        "answer": 0,
+        "why": "Регулярна дія — Present Simple."
+      },
+      {
+        "prompt": "Next week I am going to ___ in a tournament.",
+        "choices": [
+          "play",
+          "played",
+          "playing"
+        ],
+        "answer": 0,
+        "why": "Going to + основна форма."
+      },
+      {
+        "prompt": "How often does the girl practise?",
+        "choices": [
+          "Three times a week.",
+          "Once a month.",
+          "Every hour."
+        ],
+        "answer": 0,
+        "why": "Частоту прямо названо в тексті."
+      },
+      {
+        "prompt": "What is her next plan?",
+        "choices": [
+          "Take part in a tournament.",
+          "Leave the club.",
+          "Buy a boat."
+        ],
+        "answer": 0,
+        "why": "Вона планує турнір через два тижні."
+      }
+    ],
+    "write": {
+      "prompt": "Напиши лист про нове заняття. Зазнач, коли почав, як часто займаєшся і що плануєш.",
+      "starter": "Hi… I took up… I practise… Last week… I am going to…"
+    }
+  },
+  {
+    "unit": 7,
+    "code": "7a",
+    "slug": "sb-7a",
+    "title": "TV programmes",
+    "title_uk": "Досвід і телепрограми",
+    "vocabulary": [
+      [
+        "contestant",
+        "учасник конкурсу"
+      ],
+      [
+        "channel",
+        "канал"
+      ],
+      [
+        "documentary",
+        "документальна програма"
+      ],
+      [
+        "cartoon",
+        "мультфільм"
+      ],
+      [
+        "talent",
+        "талант"
+      ],
+      [
+        "host",
+        "ведучий"
+      ]
+    ],
+    "rule": "Present Perfect: have/has + третя форма дієслова. Для досвіду без конкретного завершеного часу використовуй ever/never/before. Запитання: Have you ever…? Have seen, have watched, has won. Не поєднуй цей час із yesterday або last week.",
+    "example": "Have you ever watched a talent show? I have seen it twice. She has never won a competition.",
+    "reading": "Two boys are contestants on a game show. They must answer five questions about their friends to win a prize. One boy answers too quickly and makes mistakes. They answer only three questions correctly. They do not win, even though the other boy knew more answers. Listening to each other would have helped.",
+    "questions": [
+      {
+        "prompt": "Have you ever ___ a talent show?",
+        "choices": [
+          "seen",
+          "saw",
+          "see"
+        ],
+        "answer": 0,
+        "why": "Present Perfect: have + seen."
+      },
+      {
+        "prompt": "She ___ never won a prize.",
+        "choices": [
+          "has",
+          "have",
+          "is"
+        ],
+        "answer": 0,
+        "why": "She + has + третя форма."
+      },
+      {
+        "prompt": "Choose a question about experience.",
+        "choices": [
+          "Have you ever appeared on TV?",
+          "Did you appeared on TV?",
+          "Are you ever appear on TV?"
+        ],
+        "answer": 0,
+        "why": "Досвід без конкретної дати: Have you ever…?"
+      },
+      {
+        "prompt": "How many correct answers did the boys need?",
+        "choices": [
+          "Five.",
+          "Three.",
+          "Two."
+        ],
+        "answer": 0,
+        "why": "У другому реченні названо five questions."
+      },
+      {
+        "prompt": "Why did they fail to win?",
+        "choices": [
+          "One boy answered too quickly and made mistakes.",
+          "The show had no prize.",
+          "They left early."
+        ],
+        "answer": 0,
+        "why": "Текст пояснює помилки поспішними відповідями."
+      }
+    ],
+    "write": {
+      "prompt": "Напиши 5 запитань Have you ever…? про різний досвід і дай власні або вигадані відповіді.",
+      "starter": "Have you ever…? Yes, I have. I have… No, I have never…"
+    }
+  },
+  {
+    "unit": 7,
+    "code": "7b",
+    "slug": "sb-7b",
+    "title": "Music",
+    "title_uk": "Досвід і конкретна подія",
+    "vocabulary": [
+      [
+        "audience",
+        "аудиторія, глядачі"
+      ],
+      [
+        "autograph",
+        "автограф"
+      ],
+      [
+        "lyrics",
+        "текст пісні"
+      ],
+      [
+        "stage",
+        "сцена"
+      ],
+      [
+        "fans",
+        "шанувальники"
+      ],
+      [
+        "tour",
+        "турне"
+      ]
+    ],
+    "rule": "Present Perfect — досвід без завершеної дати: I have been to a concert. Past Simple — конкретна подія: I went last night. Have been to — відвідав і повернувся; have gone to — пішов і ще не повернувся. Yet у запитаннях і запереченнях, already — уже.",
+    "example": "I have seen this band twice. I saw them last summer. My brother has gone to the concert, so he is not here.",
+    "reading": "A fan has been to several concerts, but one performance was especially exciting. Last summer she saw a live band with a friend. At first it was dark and she felt nervous. Then the lights came on and the audience started singing. She enjoyed the music and decided to see the band again.",
+    "questions": [
+      {
+        "prompt": "I ___ the band last night.",
+        "choices": [
+          "saw",
+          "have seen",
+          "seeing"
+        ],
+        "answer": 0,
+        "why": "Last night — завершений час, Past Simple."
+      },
+      {
+        "prompt": "She has ___ to the shop and is not back yet.",
+        "choices": [
+          "gone",
+          "been",
+          "went"
+        ],
+        "answer": 0,
+        "why": "Gone означає, що людина ще там або в дорозі."
+      },
+      {
+        "prompt": "Have you booked the tickets ___?",
+        "choices": [
+          "yet",
+          "yesterday",
+          "last week"
+        ],
+        "answer": 0,
+        "why": "Yet підходить до запитання у Present Perfect."
+      },
+      {
+        "prompt": "When did the fan see the band in the story?",
+        "choices": [
+          "Last summer.",
+          "This morning.",
+          "Ten years ago."
+        ],
+        "answer": 0,
+        "why": "У тексті прямо вказано last summer."
+      },
+      {
+        "prompt": "How did she feel at first?",
+        "choices": [
+          "Nervous.",
+          "Angry.",
+          "Disappointed."
+        ],
+        "answer": 0,
+        "why": "Перед увімкненням світла вона felt nervous."
+      }
+    ],
+    "write": {
+      "prompt": "Розкажи про музичний досвід і одну конкретну подію. Використай обидва часи.",
+      "starter": "I have been to… Last… I went… I have never…"
+    }
+  },
+  {
+    "unit": 7,
+    "code": "7c",
+    "slug": "sb-7c",
+    "title": "Messages",
+    "title_uk": "Повідомлення та тривалість",
+    "vocabulary": [
+      [
+        "receive",
+        "отримувати"
+      ],
+      [
+        "receiver",
+        "одержувач"
+      ],
+      [
+        "symbol",
+        "символ"
+      ],
+      [
+        "note",
+        "записка"
+      ],
+      [
+        "shorten",
+        "скорочувати"
+      ],
+      [
+        "message",
+        "повідомлення"
+      ]
+    ],
+    "rule": "Present Perfect з for/since описує стан, що почався раніше й триває зараз. For + період: for two years. Since + початок: since Monday. How long have you…? — як довго? У записці чи повідомленні пиши, що сталося, коли повернешся або що потрібно зробити.",
+    "example": "I have lived here for two years. We have known each other since school. I will be back at six.",
+    "reading": "People sometimes shorten words in messages to type faster. They also use symbols to show feelings. A short message can be useful, but it must be clear to the receiver. A note about a borrowed bike should say who took it and when it will be returned. Clarity matters more than using many symbols.",
+    "questions": [
+      {
+        "prompt": "I have lived here ___ two years.",
+        "choices": [
+          "for",
+          "since",
+          "ago"
+        ],
+        "answer": 0,
+        "why": "For + тривалість."
+      },
+      {
+        "prompt": "We have known each other ___ last summer.",
+        "choices": [
+          "since",
+          "for",
+          "during for"
+        ],
+        "answer": 0,
+        "why": "Since + початкова точка."
+      },
+      {
+        "prompt": "How long ___ you lived here?",
+        "choices": [
+          "have",
+          "did",
+          "are"
+        ],
+        "answer": 0,
+        "why": "Present Perfect: How long have you…?"
+      },
+      {
+        "prompt": "Why do people shorten words?",
+        "choices": [
+          "To type faster.",
+          "To make every message longer.",
+          "To hide all meaning."
+        ],
+        "answer": 0,
+        "why": "У першому реченні: to type faster."
+      },
+      {
+        "prompt": "What should a note about a bike include?",
+        "choices": [
+          "Who took it and when it will be returned.",
+          "Only a smiley.",
+          "Only the price of the bike."
+        ],
+        "answer": 0,
+        "why": "У тексті прямо названо дві потрібні деталі."
+      }
+    ],
+    "write": {
+      "prompt": "Напиши записку про позичену річ і повідомлення про зміну планів. Додай речення з for і since.",
+      "starter": "I borrowed… I will be back at… I have… for… since…"
+    }
+  },
+  {
+    "unit": 7,
+    "code": "7d",
+    "slug": "sb-7d",
+    "title": "Going shopping",
+    "title_uk": "Розмір, ціна та вибір",
+    "vocabulary": [
+      [
+        "receipt",
+        "чек"
+      ],
+      [
+        "discount",
+        "знижка"
+      ],
+      [
+        "cash",
+        "готівка"
+      ],
+      [
+        "change",
+        "решта"
+      ],
+      [
+        "size",
+        "розмір"
+      ],
+      [
+        "products",
+        "товари"
+      ]
+    ],
+    "rule": "Too + прикметник — надмірна ознака, що заважає: too small. Прикметник + enough — достатній ступінь: big enough. Not… enough — недостатньо. One замінює злічуваний іменник в однині, ones — у множині.",
+    "example": "These shoes are too small. They are not big enough. I like the white ones. I will take the blue one.",
+    "reading": "A teenager wants to buy a dress. She likes a blue one, but the first size is too big. The shop assistant brings a smaller one. There is a discount, and she tries the dress on before buying it. Another customer tries on shoes and asks for a larger size. They both keep their receipts.",
+    "questions": [
+      {
+        "prompt": "These shoes are ___ small for me.",
+        "choices": [
+          "too",
+          "enough",
+          "many"
+        ],
+        "answer": 0,
+        "why": "Too + прикметник."
+      },
+      {
+        "prompt": "This jacket is not warm ___.",
+        "choices": [
+          "enough",
+          "too",
+          "many"
+        ],
+        "answer": 0,
+        "why": "Enough стоїть після прикметника."
+      },
+      {
+        "prompt": "I like these shoes, but I prefer the white ___.",
+        "choices": [
+          "ones",
+          "one",
+          "it"
+        ],
+        "answer": 0,
+        "why": "Shoes — множина, заміна ones."
+      },
+      {
+        "prompt": "What is wrong with the first dress?",
+        "choices": [
+          "It is too big.",
+          "It is too warm.",
+          "It is too dark."
+        ],
+        "answer": 0,
+        "why": "У тексті: the first size is too big."
+      },
+      {
+        "prompt": "What do the customers keep?",
+        "choices": [
+          "Their receipts.",
+          "Their boarding passes.",
+          "Their library cards."
+        ],
+        "answer": 0,
+        "why": "Останнє речення: keep their receipts."
+      }
+    ],
+    "write": {
+      "prompt": "Напиши діалог у крамниці: товар, розмір, too/enough, one/ones, ціна й спосіб оплати.",
+      "starter": "Can I try…? It is too… Have you got a… one? I will take…"
+    }
+  },
+  {
+    "unit": 7,
+    "code": "7e",
+    "slug": "sb-7e",
+    "title": "Teen problems",
+    "title_uk": "Просимо й даємо пораду",
+    "vocabulary": [
+      [
+        "advice",
+        "порада"
+      ],
+      [
+        "problem",
+        "проблема"
+      ],
+      [
+        "marks",
+        "оцінки"
+      ],
+      [
+        "exam",
+        "іспит"
+      ],
+      [
+        "feel",
+        "відчувати"
+      ],
+      [
+        "explain",
+        "пояснювати"
+      ]
+    ],
+    "rule": "Лист із проханням про пораду називає проблему, її причини, почуття і конкретне запитання. У відповіді використовуй I think you should… або Why don’t you…? Advice — незлічуваний іменник: some advice, a piece of advice. Порада має бути доброзичливою й посильною.",
+    "example": "I need some advice. I feel worried. What should I do? I think you should explain how you feel.",
+    "reading": "A student used to help a younger brother with all his homework. Now the student has exams and cannot help all the time. The brother gets upset and receives lower marks. An advice writer suggests explaining the situation and showing the brother how to study independently. The student also needs time for their own work.",
+    "questions": [
+      {
+        "prompt": "Choose a natural phrase.",
+        "choices": [
+          "Some advice.",
+          "An advice.",
+          "Many advices."
+        ],
+        "answer": 0,
+        "why": "Advice — незлічуваний іменник."
+      },
+      {
+        "prompt": "I think you should ___ the problem.",
+        "choices": [
+          "explain",
+          "to explain",
+          "explaining"
+        ],
+        "answer": 0,
+        "why": "Should + основна форма."
+      },
+      {
+        "prompt": "A useful advice letter should…",
+        "choices": [
+          "Describe the problem and ask a clear question.",
+          "Give only a name.",
+          "Hide every important detail."
+        ],
+        "answer": 0,
+        "why": "Зрозумілий опис допомагає дати доречну пораду."
+      },
+      {
+        "prompt": "Why can the student not help all the time?",
+        "choices": [
+          "The student has exams.",
+          "The student is on a cruise.",
+          "The brother moved away."
+        ],
+        "answer": 0,
+        "why": "Причина — власні іспити."
+      },
+      {
+        "prompt": "What does the advice writer suggest?",
+        "choices": [
+          "Show the brother how to study independently.",
+          "Do every task for him forever.",
+          "Stop speaking to him."
+        ],
+        "answer": 0,
+        "why": "Порада підтримує самостійність молодшого брата."
+      }
+    ],
+    "write": {
+      "prompt": "Опиши вигадану шкільну проблему в 4 реченнях, потім дай дві доброзичливі поради.",
+      "starter": "I feel… because… What should I do? I think you should…"
+    }
+  },
+  {
+    "unit": 8,
+    "code": "8a",
+    "slug": "sb-8a",
+    "title": "In the headlines",
+    "title_uk": "Новини та означальні речення",
+    "vocabulary": [
+      [
+        "headline",
+        "заголовок"
+      ],
+      [
+        "article",
+        "стаття"
+      ],
+      [
+        "prize",
+        "приз"
+      ],
+      [
+        "winner",
+        "переможець"
+      ],
+      [
+        "hopeful",
+        "сповнений надії"
+      ],
+      [
+        "adventurous",
+        "схильний до пригод"
+      ]
+    ],
+    "rule": "Who/that описує людей, which/that — предмети, тварин та ідеї у визначальних означальних реченнях. The girl who won… The prize which she received… Не додавай зайвий підмет після who. Прикметники можна утворювати від іменників: help → helpful, cloud → cloudy.",
+    "example": "This is the girl who won a prize. That is the camera which she bought. He is a helpful person.",
+    "reading": "A local newspaper reports on two teenagers who won prizes. One girl won a trip at a supermarket. She did not expect to win and wants to share the trip with a friend. Another teenager entered a competition and plans to enter more. Both stories explain who won, what they won and how they felt.",
+    "questions": [
+      {
+        "prompt": "The girl ___ won the prize is happy.",
+        "choices": [
+          "who",
+          "which",
+          "where"
+        ],
+        "answer": 0,
+        "why": "Для людини — who."
+      },
+      {
+        "prompt": "This is the camera ___ I bought.",
+        "choices": [
+          "which",
+          "who",
+          "when"
+        ],
+        "answer": 0,
+        "why": "Для предмета — which."
+      },
+      {
+        "prompt": "Choose the adjective from help.",
+        "choices": [
+          "Helpful.",
+          "Helps.",
+          "Helping yesterday."
+        ],
+        "answer": 0,
+        "why": "Help + -ful → helpful."
+      },
+      {
+        "prompt": "Where did the girl win a trip?",
+        "choices": [
+          "At a supermarket.",
+          "At an airport.",
+          "At a gym."
+        ],
+        "answer": 0,
+        "why": "У другому реченні названо supermarket."
+      },
+      {
+        "prompt": "What does she want to do with the trip?",
+        "choices": [
+          "Share it with a friend.",
+          "Cancel it immediately.",
+          "Sell her camera."
+        ],
+        "answer": 0,
+        "why": "У тексті: share the trip with a friend."
+      }
+    ],
+    "write": {
+      "prompt": "Напиши коротку новину про вигадану подію. Додай заголовок і два речення з who/which/that.",
+      "starter": "A student who… won… The prize which… The winner felt…"
+    }
+  },
+  {
+    "unit": 8,
+    "code": "8b",
+    "slug": "sb-8b",
+    "title": "Performing on stage",
+    "title_uk": "Виступ і згода",
+    "vocabulary": [
+      [
+        "jealous",
+        "заздрісний"
+      ],
+      [
+        "disappointed",
+        "розчарований"
+      ],
+      [
+        "nervous",
+        "знервований"
+      ],
+      [
+        "proud",
+        "гордий"
+      ],
+      [
+        "confused",
+        "розгублений"
+      ],
+      [
+        "audition",
+        "прослуховування"
+      ]
+    ],
+    "rule": "So + допоміжне дієслово + підмет — «я теж» після ствердження. Neither + допоміжне дієслово + підмет — «я теж не» після заперечення. Підбирай допоміжне дієслово за часом: am, do, did, have, can, will. I like music → So do I. I can’t sing → Neither can I.",
+    "example": "I am nervous. So am I. I love performing. So do I. I have not been on TV. Neither have I.",
+    "reading": "A band is waiting for an audition. Two members feel nervous because a good performance could lead to a television appearance. Another member reminds them that they have worked hard. They agree that they enjoy performing together. They decide to do their best and have fun, even if they do not get on television.",
+    "questions": [
+      {
+        "prompt": "I am nervous. — ___ am I.",
+        "choices": [
+          "So",
+          "Neither",
+          "Too"
+        ],
+        "answer": 0,
+        "why": "Ствердження з am → So am I."
+      },
+      {
+        "prompt": "I cannot sing. — Neither ___ I.",
+        "choices": [
+          "can",
+          "do",
+          "am"
+        ],
+        "answer": 0,
+        "why": "Повторюємо допоміжне can."
+      },
+      {
+        "prompt": "I played well. — So ___ I.",
+        "choices": [
+          "did",
+          "do",
+          "have"
+        ],
+        "answer": 0,
+        "why": "Past Simple → did."
+      },
+      {
+        "prompt": "Why are two members nervous?",
+        "choices": [
+          "The audition could lead to a TV appearance.",
+          "They lost a suitcase.",
+          "The shop is closed."
+        ],
+        "answer": 0,
+        "why": "Можливість виступу на TV робить подію важливою."
+      },
+      {
+        "prompt": "What do they decide to do?",
+        "choices": [
+          "Do their best and have fun.",
+          "Stop playing music.",
+          "Leave without performing."
+        ],
+        "answer": 0,
+        "why": "Це рішення в останньому реченні."
+      }
+    ],
+    "write": {
+      "prompt": "Напиши 6 реплік діалогу про виступ. Використай so/neither щонайменше двічі.",
+      "starter": "I am… So am I. I cannot… Neither can I. We will…"
+    }
+  },
+  {
+    "unit": 8,
+    "code": "8c",
+    "slug": "sb-8c",
+    "title": "The press",
+    "title_uk": "Як створюють журнал",
+    "vocabulary": [
+      [
+        "editor",
+        "редактор"
+      ],
+      [
+        "layout",
+        "макет"
+      ],
+      [
+        "printed",
+        "надрукований"
+      ],
+      [
+        "deliver",
+        "доставляти"
+      ],
+      [
+        "interview",
+        "інтерв’ю"
+      ],
+      [
+        "copies",
+        "примірники"
+      ]
+    ],
+    "rule": "Present Simple Passive: am/is/are + третя форма. Важлива дія над предметом: The magazine is printed. Для множини: Copies are delivered. Заперечення: isn’t/aren’t + третя форма. Виконавця можна додати через by.",
+    "example": "Articles are written by reporters. The magazine is designed on computers. Copies are delivered to shops.",
+    "reading": "First, writers and editors meet and discuss topics. Reporters write articles and interview people. Graphic designers make the layout. The magazine is checked before it is sent to the printers. Many copies are printed, packed and delivered to shops. Readers can then buy the new issue.",
+    "questions": [
+      {
+        "prompt": "The magazine ___ printed every month.",
+        "choices": [
+          "is",
+          "are",
+          "does"
+        ],
+        "answer": 0,
+        "why": "Однина + is + третя форма."
+      },
+      {
+        "prompt": "Copies are ___ to shops.",
+        "choices": [
+          "delivered",
+          "deliver",
+          "delivering"
+        ],
+        "answer": 0,
+        "why": "Passive потребує третьої форми delivered."
+      },
+      {
+        "prompt": "Choose a passive sentence.",
+        "choices": [
+          "Articles are written by reporters.",
+          "Reporters write articles.",
+          "Reporters are writing articles."
+        ],
+        "answer": 0,
+        "why": "Підмет articles отримує дію: are written."
+      },
+      {
+        "prompt": "Who makes the layout?",
+        "choices": [
+          "Graphic designers.",
+          "Drivers.",
+          "Spectators."
+        ],
+        "answer": 0,
+        "why": "У тексті прямо названо graphic designers."
+      },
+      {
+        "prompt": "What happens before the magazine goes to the printers?",
+        "choices": [
+          "It is checked.",
+          "It is thrown away.",
+          "Readers buy it."
+        ],
+        "answer": 0,
+        "why": "У четвертому реченні названо перевірку."
+      }
+    ],
+    "write": {
+      "prompt": "Опиши процес створення шкільного журналу у 6 реченнях. Додай 3 речення в Passive.",
+      "starter": "First… Articles are… The layout is… Copies are…"
+    }
+  },
+  {
+    "unit": 8,
+    "code": "8d",
+    "slug": "sb-8d",
+    "title": "The Oscars",
+    "title_uk": "Нагороди в минулому",
+    "vocabulary": [
+      [
+        "ceremony",
+        "церемонія"
+      ],
+      [
+        "award",
+        "нагорода"
+      ],
+      [
+        "director",
+        "режисер"
+      ],
+      [
+        "actress",
+        "акторка"
+      ],
+      [
+        "statuette",
+        "статуетка"
+      ],
+      [
+        "category",
+        "категорія"
+      ]
+    ],
+    "rule": "Past Simple Passive: was/were + третя форма. Однина → was, множина → were. Запитання: Was/Were + підмет + третя форма? By називає виконавця. Не плутай активне directed (режисер зняв) і пасивне was directed (фільм знято).",
+    "example": "The film was directed by a young director. Two awards were given. Was the scene filmed here?",
+    "reading": "A film awards ceremony celebrates work in the film industry. Awards are given in different categories, such as acting and directing. At a school ceremony last year, one film was chosen as the best project. Two students were given awards for their acting. The audience enjoyed the event and applauded the winners.",
+    "questions": [
+      {
+        "prompt": "The film ___ chosen last year.",
+        "choices": [
+          "was",
+          "is",
+          "are"
+        ],
+        "answer": 0,
+        "why": "Last year → Past Simple Passive з was."
+      },
+      {
+        "prompt": "Two awards ___ given.",
+        "choices": [
+          "were",
+          "was",
+          "did"
+        ],
+        "answer": 0,
+        "why": "Множина + were + третя форма."
+      },
+      {
+        "prompt": "Was this scene ___ here?",
+        "choices": [
+          "filmed",
+          "film",
+          "filming"
+        ],
+        "answer": 0,
+        "why": "Passive: was + filmed."
+      },
+      {
+        "prompt": "Which film was chosen at the school ceremony?",
+        "choices": [
+          "The best project.",
+          "The oldest cartoon.",
+          "A news programme."
+        ],
+        "answer": 0,
+        "why": "У тексті: chosen as the best project."
+      },
+      {
+        "prompt": "How many students received acting awards?",
+        "choices": [
+          "Two.",
+          "Five.",
+          "Eight."
+        ],
+        "answer": 0,
+        "why": "У тексті прямо названо two students."
+      }
+    ],
+    "write": {
+      "prompt": "Придумай шкільну церемонію. Напиши 5 речень про нагороди у Past Simple Passive.",
+      "starter": "The ceremony was held… The best film was… Two awards were…"
+    }
+  },
+  {
+    "unit": 8,
+    "code": "8e",
+    "slug": "sb-8e",
+    "title": "Films to watch",
+    "title_uk": "Пишемо рецензію",
+    "vocabulary": [
+      [
+        "plot",
+        "сюжет"
+      ],
+      [
+        "soundtrack",
+        "музичний супровід"
+      ],
+      [
+        "scene",
+        "сцена"
+      ],
+      [
+        "acting",
+        "акторська гра"
+      ],
+      [
+        "sequel",
+        "продовження"
+      ],
+      [
+        "effects",
+        "ефекти"
+      ]
+    ],
+    "rule": "Рецензія: перший абзац — назва, тип фільму, актори та короткий сюжет; другий — думка про гру, сюжет, музику й рекомендація. Сюжет описуй у Present Simple. Для створення фільму використовуй Passive, для уточнення персонажа — who/which/that.",
+    "example": "The film was directed by a young artist. It is about a boy who helps his friends. I liked the plot and special effects.",
+    "reading": "In this adventure film, a museum becomes an exciting place at night. Exhibits come to life, and the main character tries to help his friends. The review praises the acting and special effects but says the soundtrack is not very special. The writer recommends the film to people who enjoy funny adventures.",
+    "questions": [
+      {
+        "prompt": "A film's story is its ___.",
+        "choices": [
+          "plot",
+          "soundtrack",
+          "receipt"
+        ],
+        "answer": 0,
+        "why": "Plot — сюжет."
+      },
+      {
+        "prompt": "Choose a passive sentence about a film.",
+        "choices": [
+          "It was directed by an artist.",
+          "It directed an artist.",
+          "It was direct an artist."
+        ],
+        "answer": 0,
+        "why": "Was directed описує створення фільму."
+      },
+      {
+        "prompt": "It is about a girl ___ helps her friends.",
+        "choices": [
+          "who",
+          "which",
+          "when"
+        ],
+        "answer": 0,
+        "why": "Girl — людина, тому who."
+      },
+      {
+        "prompt": "What happens at night in the film?",
+        "choices": [
+          "Museum exhibits come to life.",
+          "A supermarket closes forever.",
+          "A team wins a match."
+        ],
+        "answer": 0,
+        "why": "У тексті оживають exhibits."
+      },
+      {
+        "prompt": "What does the reviewer not praise strongly?",
+        "choices": [
+          "The soundtrack.",
+          "The acting.",
+          "The special effects."
+        ],
+        "answer": 0,
+        "why": "Музику описано як not very special."
+      }
+    ],
+    "write": {
+      "prompt": "Напиши рецензію на вигаданий фільм у двох абзацах: сюжет без спойлерів і власна оцінка.",
+      "starter": "The film is called… It was directed by… It is about… I think…"
+    }
+  },
+  {
+    "unit": 0,
+    "code": "hello",
+    "slug": "sb-hello",
+    "title": "Hello!",
+    "title_uk": "Знайомство й повторення",
+    "vocabulary": [
+      [
+        "family",
+        "сім’я"
+      ],
+      [
+        "daughter",
+        "дочка"
+      ],
+      [
+        "son",
+        "син"
+      ],
+      [
+        "season",
+        "пора року"
+      ],
+      [
+        "quarter",
+        "чверть"
+      ],
+      [
+        "half",
+        "половина"
+      ]
+    ],
+    "rule": "Повтори be (am/is/are), have got/has got і can/can’t. Для часу: half past six — пів на сьому, a quarter to seven — за чверть сьома. There is — один предмет, there are — кілька. Місце описують in, on, under, next to.",
+    "example": "I am twelve. I have got a sister. I can swim. There are two books on the desk. It is half past six.",
+    "reading": "A student is introducing their family. They have got one sister and two cousins. Their favourite season is summer. In the room there is a desk next to a window. Two books are on the desk. The student can use a dictionary and likes learning new words with example sentences.",
+    "questions": [
+      {
+        "prompt": "My sister ___ twelve.",
+        "choices": [
+          "is",
+          "are",
+          "am"
+        ],
+        "answer": 0,
+        "why": "My sister — третя особа однини."
+      },
+      {
+        "prompt": "He ___ got two cousins.",
+        "choices": [
+          "has",
+          "have",
+          "is"
+        ],
+        "answer": 0,
+        "why": "He + has got."
+      },
+      {
+        "prompt": "There ___ two books on the desk.",
+        "choices": [
+          "are",
+          "is",
+          "has"
+        ],
+        "answer": 0,
+        "why": "Two books — множина."
+      },
+      {
+        "prompt": "Which season does the student like best?",
+        "choices": [
+          "Summer.",
+          "Winter.",
+          "Autumn."
+        ],
+        "answer": 0,
+        "why": "У тексті: favourite season is summer."
+      },
+      {
+        "prompt": "Where are the books?",
+        "choices": [
+          "On the desk.",
+          "Under the bed.",
+          "In a suitcase."
+        ],
+        "answer": 0,
+        "why": "У тексті: Two books are on the desk."
+      }
+    ],
+    "write": {
+      "prompt": "Представ себе або вигаданого учня: вік, сім’я, здібність, пора року і два предмети в кімнаті.",
+      "starter": "I am… I have got… I can… There is… There are…"
+    }
+  },
+  {
+    "unit": 1,
+    "code": "culture-1",
+    "slug": "sb-culture-1",
+    "title": "Unusual transport",
+    "title_uk": "Культура: незвичайний транспорт",
+    "vocabulary": [
+      [
+        "double-decker",
+        "двоповерховий автобус"
+      ],
+      [
+        "gondola",
+        "гондола"
+      ],
+      [
+        "canal",
+        "канал"
+      ],
+      [
+        "vehicle",
+        "транспортний засіб"
+      ],
+      [
+        "passenger",
+        "пасажир"
+      ],
+      [
+        "steep",
+        "крутий"
+      ]
+    ],
+    "rule": "Під час читання шукай ключові ознаки: кількість коліс, місце руху, колір, користувачі. Present Simple описує, як транспорт працює, Past Simple — його історію. Назви міст залишаються звичайним текстом, а навчальні слова відкривають словникові картки.",
+    "example": "This vehicle has two levels. The boat travels along a canal. Tourists use it to see the city.",
+    "reading": "London is known for double-decker buses with two levels. In Venice, tourists can travel along canals in long boats called gondolas. A coco taxi is a small round vehicle with three wheels. In San Francisco, cable cars travel along steep streets. These vehicles can help visitors explore a city in different ways.",
+    "questions": [
+      {
+        "prompt": "A bus with two levels is a ___.",
+        "choices": [
+          "double-decker",
+          "gondola",
+          "ferry"
+        ],
+        "answer": 0,
+        "why": "Double-decker має два поверхи."
+      },
+      {
+        "prompt": "A canal is a place for…",
+        "choices": [
+          "boats.",
+          "trains.",
+          "planes."
+        ],
+        "answer": 0,
+        "why": "Canal — водний шлях."
+      },
+      {
+        "prompt": "Choose a sentence about a regular service.",
+        "choices": [
+          "Cable cars travel along streets.",
+          "Cable cars travelled yesterday.",
+          "Cable cars are travelling now."
+        ],
+        "answer": 0,
+        "why": "Present Simple описує регулярну роботу."
+      },
+      {
+        "prompt": "What do gondolas travel along?",
+        "choices": [
+          "Canals.",
+          "Motorways.",
+          "Railways."
+        ],
+        "answer": 0,
+        "why": "У тексті названо canals."
+      },
+      {
+        "prompt": "How many wheels does a coco taxi have?",
+        "choices": [
+          "Three.",
+          "Two.",
+          "Six."
+        ],
+        "answer": 0,
+        "why": "У тексті: three wheels."
+      }
+    ],
+    "write": {
+      "prompt": "Придумай транспорт для вигаданого міста. Опиши вигляд, маршрут і користувачів у 5 реченнях.",
+      "starter": "Our vehicle has… It travels… Visitors can…"
+    }
+  },
+  {
+    "unit": 2,
+    "code": "song-1",
+    "slug": "sb-song-1",
+    "title": "Me and my board",
+    "title_uk": "Пісня: день зі скейтбордом",
+    "vocabulary": [
+      [
+        "board",
+        "дошка"
+      ],
+      [
+        "skatepark",
+        "скейтпарк"
+      ],
+      [
+        "hood",
+        "капюшон"
+      ],
+      [
+        "explore",
+        "досліджувати"
+      ],
+      [
+        "early",
+        "рано"
+      ],
+      [
+        "bored",
+        "знуджений"
+      ]
+    ],
+    "rule": "Перед прослуховуванням передбач тему за назвою. У першому прослуховуванні визнач основну думку; у другому знайди заняття й частини дня. Present Simple підходить для розпорядку. Повторювані рядки допомагають упізнати приспів. Переказуй зміст своїми словами.",
+    "example": "I wake up early. I go to the skatepark. After school I explore the town on my board.",
+    "reading": "The song describes a young person who enjoys skateboarding. The day begins early with friends at the skatepark. After school, the board is a way to explore and travel home. In the evening, the person plays a skateboard game on a computer. The main idea is enjoying a favourite activity throughout the day.",
+    "questions": [
+      {
+        "prompt": "I ___ up early every day.",
+        "choices": [
+          "wake",
+          "woke yesterday",
+          "am wake"
+        ],
+        "answer": 0,
+        "why": "Every day — звичка у Present Simple."
+      },
+      {
+        "prompt": "A repeated section of a song is a ___.",
+        "choices": [
+          "chorus",
+          "receipt",
+          "passport"
+        ],
+        "answer": 0,
+        "why": "Chorus — приспів."
+      },
+      {
+        "prompt": "After school I ___ the town.",
+        "choices": [
+          "explore",
+          "explores",
+          "exploring"
+        ],
+        "answer": 0,
+        "why": "I + основна форма в Present Simple."
+      },
+      {
+        "prompt": "What is the favourite activity in the song?",
+        "choices": [
+          "Skateboarding.",
+          "Fishing.",
+          "Cooking."
+        ],
+        "answer": 0,
+        "why": "Це тема назви й переказу."
+      },
+      {
+        "prompt": "What does the person do in the evening?",
+        "choices": [
+          "Plays a skateboard game.",
+          "Takes a flight.",
+          "Visits a museum."
+        ],
+        "answer": 0,
+        "why": "Опис вечора є в передостанньому реченні."
+      }
+    ],
+    "write": {
+      "prompt": "Послухай запис і склади розпорядок героя. Потім напиши 5 речень про власне улюблене заняття.",
+      "starter": "I enjoy… Before school… After school… In the evening…"
+    }
+  },
+  {
+    "unit": 3,
+    "code": "culture-2",
+    "slug": "sb-culture-2",
+    "title": "A place full of stories",
+    "title_uk": "Культура: традиції та легенди",
+    "vocabulary": [
+      [
+        "bagpipes",
+        "волинка"
+      ],
+      [
+        "kilt",
+        "кілт"
+      ],
+      [
+        "legend",
+        "легенда"
+      ],
+      [
+        "loch",
+        "озеро"
+      ],
+      [
+        "capital",
+        "столиця"
+      ],
+      [
+        "tradition",
+        "традиція"
+      ]
+    ],
+    "rule": "Культурний текст може містити факти й легенди. Відрізняй a place has… від people believe… . Факти перевіряються, а легенди переказують уявлення людей. Для короткого путівника обери місце, природу, традицію й одну цікаву історію.",
+    "example": "The city is a capital. People play bagpipes. A legend says that a monster lives in the lake.",
+    "reading": "Scotland has castles, hills and many lakes called lochs. Its capital is Edinburgh. Bagpipes are a traditional musical instrument, and a kilt is a traditional item of clothing. Loch Ness is famous for a monster legend. A travel text can describe the scenery and traditions while making clear that a legend is a story people tell.",
+    "questions": [
+      {
+        "prompt": "A traditional musical instrument is…",
+        "choices": [
+          "bagpipes.",
+          "a kilt.",
+          "a castle."
+        ],
+        "answer": 0,
+        "why": "Bagpipes — музичний інструмент."
+      },
+      {
+        "prompt": "Which phrase introduces a belief?",
+        "choices": [
+          "People believe…",
+          "The measured depth is…",
+          "The timetable says…"
+        ],
+        "answer": 0,
+        "why": "People believe позначає вірування, а не перевірений факт."
+      },
+      {
+        "prompt": "A kilt is an item of ___.",
+        "choices": [
+          "clothing",
+          "transport",
+          "food"
+        ],
+        "answer": 0,
+        "why": "Кілт — традиційний одяг."
+      },
+      {
+        "prompt": "What are lochs?",
+        "choices": [
+          "Lakes.",
+          "Mountains.",
+          "Schools."
+        ],
+        "answer": 0,
+        "why": "У тексті: lakes called lochs."
+      },
+      {
+        "prompt": "What is Loch Ness famous for in this text?",
+        "choices": [
+          "A monster legend.",
+          "A new airport.",
+          "A sports team."
+        ],
+        "answer": 0,
+        "why": "У тексті згадано monster legend."
+      }
+    ],
+    "write": {
+      "prompt": "Зроби короткий путівник вигаданим або знайомим місцем: природа, традиція, легенда. Чітко познач легенду.",
+      "starter": "The place has… A tradition is… A legend says…"
+    }
+  },
+  {
+    "unit": 4,
+    "code": "song-2",
+    "slug": "sb-song-2",
+    "title": "Unlucky day",
+    "title_uk": "Пісня: невдалий день",
+    "vocabulary": [
+      [
+        "unlucky",
+        "невезучий"
+      ],
+      [
+        "missed",
+        "пропустив, не встиг"
+      ],
+      [
+        "slipped",
+        "посковзнувся"
+      ],
+      [
+        "hurt",
+        "забив, ушкодив"
+      ],
+      [
+        "late",
+        "із запізненням"
+      ],
+      [
+        "fool",
+        "дурень"
+      ]
+    ],
+    "rule": "Шукай у пісні послідовність подій. Past Simple називає завершені події: woke, missed, saw, fell. Past Continuous описує фон: was walking, was riding. When і while поєднують ці дії. Переказ може бути коротшим за пісню, але має зберігати порядок.",
+    "example": "I woke up late. While I was walking, I slipped. I was riding home when something happened.",
+    "reading": "The song tells a story about a difficult day. The person wakes up late, misses a bus and has to walk. An accident happens on the way. Later, another journey also goes wrong. The song repeats the idea of an unlucky day. Its past actions are useful for practising a short story with a clear sequence.",
+    "questions": [
+      {
+        "prompt": "The past form of wake is ___.",
+        "choices": [
+          "woke",
+          "waked",
+          "waking"
+        ],
+        "answer": 0,
+        "why": "Wake — неправильне дієслово: woke."
+      },
+      {
+        "prompt": "While I ___, I slipped.",
+        "choices": [
+          "was walking",
+          "walk every day",
+          "am walk"
+        ],
+        "answer": 0,
+        "why": "Тривалий фон у минулому: was walking."
+      },
+      {
+        "prompt": "Which word helps order events?",
+        "choices": [
+          "Later.",
+          "Under.",
+          "Many."
+        ],
+        "answer": 0,
+        "why": "Later показує наступну частину історії."
+      },
+      {
+        "prompt": "Why does the person walk?",
+        "choices": [
+          "They missed the bus.",
+          "They bought a boat.",
+          "They joined a choir."
+        ],
+        "answer": 0,
+        "why": "Переказ пісні називає пропущений автобус."
+      },
+      {
+        "prompt": "What kind of day does the song describe?",
+        "choices": [
+          "An unlucky day.",
+          "A quiet holiday.",
+          "A school celebration."
+        ],
+        "answer": 0,
+        "why": "Це основна тема пісні."
+      }
+    ],
+    "write": {
+      "prompt": "Послухай пісню й запиши 4 події у правильному порядку. Придумай добре завершення цієї історії.",
+      "starter": "First… Then… While… Later… Luckily…"
+    }
+  },
+  {
+    "unit": 5,
+    "code": "culture-3",
+    "slug": "sb-culture-3",
+    "title": "Parks in the city",
+    "title_uk": "Культура: міські парки",
+    "vocabulary": [
+      [
+        "nature",
+        "природа"
+      ],
+      [
+        "visitor",
+        "відвідувач"
+      ],
+      [
+        "island",
+        "острів"
+      ],
+      [
+        "hunting",
+        "полювання"
+      ],
+      [
+        "cricket",
+        "крикет"
+      ],
+      [
+        "yoga",
+        "йога"
+      ]
+    ],
+    "rule": "Порівнюючи два тексти, розрізняй спільні й відмінні ознаки: Both parks… One park… The other park… . Числа та години в підручнику описують його матеріал, а не поточний розклад. Для мовного опису достатньо стабільних фактів і занять.",
+    "example": "Both parks have trees. Visitors can walk and do sports. One park has a lake. The other park has a zoo.",
+    "reading": "Central Park and Hyde Park are large green spaces in busy cities. People can walk, cycle and enjoy nature there. The textbook describes sports, animals and events in both parks. It also explains that parks have changed over time. A city park can be a place for exercise, learning and spending time with friends.",
+    "questions": [
+      {
+        "prompt": "To describe a shared feature, use…",
+        "choices": [
+          "Both parks have trees.",
+          "Only this park has trees.",
+          "Neither park has trees."
+        ],
+        "answer": 0,
+        "why": "Both — обидва."
+      },
+      {
+        "prompt": "Visitors can ___ in a park.",
+        "choices": [
+          "walk",
+          "walking",
+          "walks"
+        ],
+        "answer": 0,
+        "why": "Can + основна форма."
+      },
+      {
+        "prompt": "A place for animals mentioned in the text is a ___.",
+        "choices": [
+          "zoo",
+          "receipt",
+          "keyboard"
+        ],
+        "answer": 0,
+        "why": "Zoo — зоопарк."
+      },
+      {
+        "prompt": "What can people enjoy in these parks?",
+        "choices": [
+          "Nature.",
+          "A boarding pass.",
+          "An exam."
+        ],
+        "answer": 0,
+        "why": "У тексті названо enjoy nature."
+      },
+      {
+        "prompt": "Have the parks changed over time?",
+        "choices": [
+          "Yes.",
+          "No.",
+          "The text says they disappeared."
+        ],
+        "answer": 0,
+        "why": "Текст прямо згадує, що парки змінювалися."
+      }
+    ],
+    "write": {
+      "prompt": "Опиши парк, який хотів би створити: природні місця, заняття та три правила з must/mustn’t.",
+      "starter": "Our park will have… Visitors can… They must…"
+    }
+  },
+  {
+    "unit": 6,
+    "code": "song-3",
+    "slug": "sb-song-3",
+    "title": "Where did it all go wrong?",
+    "title_uk": "Пісня: турбота про планету",
+    "vocabulary": [
+      [
+        "planet",
+        "планета"
+      ],
+      [
+        "fire",
+        "вогонь"
+      ],
+      [
+        "future",
+        "майбутнє"
+      ],
+      [
+        "protect",
+        "захищати"
+      ],
+      [
+        "without",
+        "без"
+      ],
+      [
+        "rewind",
+        "перемотувати назад"
+      ]
+    ],
+    "rule": "У пісні про довкілля слухай, які проблеми названо та до яких дій закликають. Must/have to виражають необхідність. If + Present Simple, will… — можливий наслідок. Розділи записи на «проблема» і «дія», а потім сформулюй власне повідомлення.",
+    "example": "We must protect our planet. If we save water, we will help nature. We have to think about the future.",
+    "reading": "The song asks listeners to think about the future of the planet. It mentions animals that have disappeared and people who do not recycle. The message is that people should act now. In a classroom discussion, students can suggest small actions such as saving water, reducing rubbish and learning about local wildlife.",
+    "questions": [
+      {
+        "prompt": "We must ___ about the future.",
+        "choices": [
+          "think",
+          "to think",
+          "thinking"
+        ],
+        "answer": 0,
+        "why": "Must + основна форма."
+      },
+      {
+        "prompt": "If we save water, we ___ nature.",
+        "choices": [
+          "will help",
+          "helped yesterday",
+          "are help"
+        ],
+        "answer": 0,
+        "why": "Наслідок можливого майбутнього: will help."
+      },
+      {
+        "prompt": "An animal that no longer exists is ___.",
+        "choices": [
+          "extinct",
+          "crowded",
+          "wireless"
+        ],
+        "answer": 0,
+        "why": "Extinct — вимерлий."
+      },
+      {
+        "prompt": "What does the song ask listeners to think about?",
+        "choices": [
+          "The planet's future.",
+          "The price of shoes.",
+          "A cinema ticket."
+        ],
+        "answer": 0,
+        "why": "Це основна думка переказу."
+      },
+      {
+        "prompt": "Which small action is suggested?",
+        "choices": [
+          "Saving water.",
+          "Buying more plastic.",
+          "Leaving rubbish."
+        ],
+        "answer": 0,
+        "why": "У кінці тексту названо saving water."
+      }
+    ],
+    "write": {
+      "prompt": "Послухай запис, назви дві проблеми й напиши три власні екопоради.",
+      "starter": "We must… If we… we will… We should…"
+    }
+  },
+  {
+    "unit": 7,
+    "code": "culture-4",
+    "slug": "sb-culture-4",
+    "title": "Popular musicals",
+    "title_uk": "Культура: музичний театр",
+    "vocabulary": [
+      [
+        "composer",
+        "композитор"
+      ],
+      [
+        "costume",
+        "сценічний костюм"
+      ],
+      [
+        "scenery",
+        "декорації"
+      ],
+      [
+        "mask",
+        "маска"
+      ],
+      [
+        "character",
+        "персонаж"
+      ],
+      [
+        "performance",
+        "вистава"
+      ]
+    ],
+    "rule": "Мюзикл поєднує історію, акторську гру, музику й танець. Для порівняння творів назви героїв, місце, костюми й музику. Passive описує створення: was written, is performed. Оцінка I think… має спиратися на конкретну деталь.",
+    "example": "The musical was written by a composer. It is performed in theatres. I think the costumes are impressive.",
+    "reading": "The textbook compares two popular musicals. The Phantom of the Opera tells a story set in an opera house. Cats presents different cats as characters who sing and dance. Both productions use music, costumes and scenery to create their worlds. A review can explain the story briefly and give an opinion about the performance.",
+    "questions": [
+      {
+        "prompt": "A person who writes music is a ___.",
+        "choices": [
+          "composer",
+          "spectator",
+          "chemist"
+        ],
+        "answer": 0,
+        "why": "Composer — композитор."
+      },
+      {
+        "prompt": "The musical was ___ by a composer.",
+        "choices": [
+          "written",
+          "write",
+          "writing"
+        ],
+        "answer": 0,
+        "why": "Passive: was + written."
+      },
+      {
+        "prompt": "Which sentence gives a supported opinion?",
+        "choices": [
+          "I liked the costumes because they were colourful.",
+          "It exists.",
+          "There are people."
+        ],
+        "answer": 0,
+        "why": "Думка має причину because… ."
+      },
+      {
+        "prompt": "Where is the first story set?",
+        "choices": [
+          "In an opera house.",
+          "In an airport.",
+          "In a supermarket."
+        ],
+        "answer": 0,
+        "why": "Місце дії вказано в тексті."
+      },
+      {
+        "prompt": "What do both productions use?",
+        "choices": [
+          "Music, costumes and scenery.",
+          "Only computers.",
+          "Only sports equipment."
+        ],
+        "answer": 0,
+        "why": "Текст прямо називає спільні елементи."
+      }
+    ],
+    "write": {
+      "prompt": "Опиши вигадану музичну виставу: герої, історія, музика та костюми. Дай обґрунтовану оцінку.",
+      "starter": "The story is about… The characters… I think… because…"
+    }
+  },
+  {
+    "unit": 8,
+    "code": "song-4",
+    "slug": "sb-song-4",
+    "title": "Superstar",
+    "title_uk": "Пісня: мрії про успіх",
+    "vocabulary": [
+      [
+        "album",
+        "альбом"
+      ],
+      [
+        "record",
+        "запис"
+      ],
+      [
+        "deal",
+        "угода"
+      ],
+      [
+        "superstar",
+        "суперзірка"
+      ],
+      [
+        "sell",
+        "продавати"
+      ],
+      [
+        "success",
+        "успіх"
+      ]
+    ],
+    "rule": "Після прослуховування відрізняй події, що вже сталися, від планів і загальних тверджень. Past Simple — минулі події, Present Simple — звичні факти, be going to — наміри. Обговори, які деталі в пісні показують успіх і які важливі особисто для тебе.",
+    "example": "The singer won an award. The albums sell well. The singer is going to go on tour.",
+    "reading": "The song presents a singer who has become successful. The singer describes a record deal, albums, fans and an award. There is also a plan to go on tour. The cheerful voice of the song shows pride and excitement. Students can discuss whether fame, money or enjoying the work matters most to them.",
+    "questions": [
+      {
+        "prompt": "Yesterday the singer ___ an award.",
+        "choices": [
+          "won",
+          "wins",
+          "winning"
+        ],
+        "answer": 0,
+        "why": "Yesterday — Past Simple."
+      },
+      {
+        "prompt": "The singer is going to ___ on tour.",
+        "choices": [
+          "go",
+          "went",
+          "going"
+        ],
+        "answer": 0,
+        "why": "Going to + go."
+      },
+      {
+        "prompt": "People who support a singer are ___.",
+        "choices": [
+          "fans",
+          "editors",
+          "printers"
+        ],
+        "answer": 0,
+        "why": "Fans — шанувальники."
+      },
+      {
+        "prompt": "What future plan is mentioned?",
+        "choices": [
+          "Going on tour.",
+          "Buying a library.",
+          "Leaving music."
+        ],
+        "answer": 0,
+        "why": "У переказі названо план go on tour."
+      },
+      {
+        "prompt": "Which feelings does the song show?",
+        "choices": [
+          "Pride and excitement.",
+          "Fear and sadness.",
+          "Confusion and anger."
+        ],
+        "answer": 0,
+        "why": "Ці почуття названо в тексті."
+      }
+    ],
+    "write": {
+      "prompt": "Послухай пісню, запиши ознаки успіху й напиши про власну мрію та крок до неї.",
+      "starter": "I would like to… I enjoy… I am going to… Success means…"
+    }
+  },
+  {
+    "unit": 0,
+    "code": "culture-ukraine-1",
+    "slug": "sb-culture-ukraine-1",
+    "title": "Food traditions",
+    "title_uk": "Культура: традиції харчування",
+    "vocabulary": [
+      [
+        "beetroot",
+        "буряк"
+      ],
+      [
+        "mushrooms",
+        "гриби"
+      ],
+      [
+        "rice",
+        "рис"
+      ],
+      [
+        "bean",
+        "квасоля"
+      ],
+      [
+        "dessert",
+        "десерт"
+      ],
+      [
+        "traditional",
+        "традиційний"
+      ]
+    ],
+    "rule": "Опис традиції не означає, що всі люди харчуються однаково. У тексті вживай many people, often, a traditional meal. Для складу страви: contains/is made with. Для кількості: much rice, many vegetables, a little butter.",
+    "example": "The soup is made with beetroot and vegetables. Many families enjoy home-cooked meals. This dish contains a little butter.",
+    "reading": "The textbook describes food traditions in different countries. It gives borscht as an example of a soup made with beetroot and vegetables. It also describes rice in meals, tea with milk and lunch as an important meal in some families. These are examples of traditions; individual people can have different habits.",
+    "questions": [
+      {
+        "prompt": "There is a ___ rice in the bowl.",
+        "choices": [
+          "little",
+          "few",
+          "many"
+        ],
+        "answer": 0,
+        "why": "Rice — незлічуваний іменник."
+      },
+      {
+        "prompt": "The soup contains ___ vegetables.",
+        "choices": [
+          "many",
+          "much",
+          "a little"
+        ],
+        "answer": 0,
+        "why": "Vegetables — злічувана множина."
+      },
+      {
+        "prompt": "Which phrase avoids claiming everyone is the same?",
+        "choices": [
+          "Many families often…",
+          "Every person always…",
+          "Nobody ever…"
+        ],
+        "answer": 0,
+        "why": "Many і often залишають місце для різних звичок."
+      },
+      {
+        "prompt": "Which vegetable is mentioned in borscht?",
+        "choices": [
+          "Beetroot.",
+          "Potato only.",
+          "Lettuce only."
+        ],
+        "answer": 0,
+        "why": "У тексті прямо названо beetroot."
+      },
+      {
+        "prompt": "Can people's habits differ from a tradition?",
+        "choices": [
+          "Yes.",
+          "No.",
+          "Only on holidays."
+        ],
+        "answer": 0,
+        "why": "Останнє речення пояснює різноманітність звичок."
+      }
+    ],
+    "write": {
+      "prompt": "Опиши страву й одну традицію своєї або вигаданої сім’ї. Назви склад і час, коли її готують.",
+      "starter": "Our family often… The dish is made with… It contains…"
+    }
+  },
+  {
+    "unit": 0,
+    "code": "culture-ukraine-2",
+    "slug": "sb-culture-ukraine-2",
+    "title": "Visiting a capital",
+    "title_uk": "Культура: путівник містом",
+    "vocabulary": [
+      [
+        "cathedral",
+        "собор"
+      ],
+      [
+        "palace",
+        "палац"
+      ],
+      [
+        "square",
+        "площа"
+      ],
+      [
+        "heritage",
+        "спадщина"
+      ],
+      [
+        "ancient",
+        "давній"
+      ],
+      [
+        "sight",
+        "пам’ятка"
+      ]
+    ],
+    "rule": "Путівник називає місце й пояснює, що там цікавого. You can… — можливість, you should… — рекомендація. Умову оформлюй If you like history, visit… . Для власної думки додай because. Назви місць допомагають орієнтуватися, а перекладай навчальну лексику.",
+    "example": "You can visit a museum. If you enjoy history, you should see the old cathedral. There is a theatre in the park.",
+    "reading": "The textbook introduces sights in Kyiv and London. It describes a cathedral, museums, important streets and squares in Kyiv. The London text mentions palaces, parks and a museum with objects from many places. Both texts help a visitor choose activities according to their interests, such as history, art or walking outdoors.",
+    "questions": [
+      {
+        "prompt": "You should ___ the old museum.",
+        "choices": [
+          "visit",
+          "to visit",
+          "visiting"
+        ],
+        "answer": 0,
+        "why": "Should + основна форма."
+      },
+      {
+        "prompt": "If you ___ history, visit the cathedral.",
+        "choices": [
+          "like",
+          "will like",
+          "liked yesterday"
+        ],
+        "answer": 0,
+        "why": "If + Present Simple для можливої умови."
+      },
+      {
+        "prompt": "A large public open area in a city is a ___.",
+        "choices": [
+          "square",
+          "soundtrack",
+          "printer"
+        ],
+        "answer": 0,
+        "why": "Square — міська площа."
+      },
+      {
+        "prompt": "Which interest is mentioned in both descriptions?",
+        "choices": [
+          "History.",
+          "Computer games only.",
+          "Deep-sea fishing."
+        ],
+        "answer": 0,
+        "why": "Тексти радять місця за інтересами, зокрема history."
+      },
+      {
+        "prompt": "What can a guide help a visitor choose?",
+        "choices": [
+          "Activities and sights.",
+          "A new surname.",
+          "An exam mark."
+        ],
+        "answer": 0,
+        "why": "Це мета путівника в останньому реченні."
+      }
+    ],
+    "write": {
+      "prompt": "Склади маршрут із трьох місць у знайомому чи вигаданому місті. Поясни, кому кожне сподобається.",
+      "starter": "First, you can… If you like… you should… Then…"
+    }
+  },
+  {
+    "unit": 0,
+    "code": "clil-history",
+    "slug": "sb-clil-history",
+    "title": "An expedition",
+    "title_uk": "Історія англійською: експедиція",
+    "vocabulary": [
+      [
+        "expedition",
+        "експедиція"
+      ],
+      [
+        "route",
+        "маршрут"
+      ],
+      [
+        "sledge",
+        "сани"
+      ],
+      [
+        "flag",
+        "прапор"
+      ],
+      [
+        "conditions",
+        "умови"
+      ],
+      [
+        "determined",
+        "рішучий"
+      ]
+    ],
+    "rule": "Історичний текст зручно читати як часову лінію: хто, мета, підготовка, події, результат. Для подій — Past Simple, для фону — Past Continuous. Спирайся на текст і розрізняй подію та власне припущення про її причини.",
+    "example": "The team began an expedition. They travelled on sledges. When they reached the place, they saw a flag.",
+    "reading": "Two expedition teams wanted to reach the South Pole. They chose different routes and forms of transport. One team used sledges pulled by dogs. It arrived first and left a flag. The other team arrived later and faced terrible conditions on the return journey. Careful preparation was important in such a difficult environment.",
+    "questions": [
+      {
+        "prompt": "The team ___ the expedition in the past.",
+        "choices": [
+          "began",
+          "begins",
+          "beginning"
+        ],
+        "answer": 0,
+        "why": "Минула форма begin — began."
+      },
+      {
+        "prompt": "They were travelling when they ___ a flag.",
+        "choices": [
+          "saw",
+          "see",
+          "seeing"
+        ],
+        "answer": 0,
+        "why": "Коротка подія: saw."
+      },
+      {
+        "prompt": "A route describes…",
+        "choices": [
+          "the way people travel.",
+          "the colour of clothes.",
+          "the price of a book."
+        ],
+        "answer": 0,
+        "why": "Route — маршрут."
+      },
+      {
+        "prompt": "What pulled one team's sledges?",
+        "choices": [
+          "Dogs.",
+          "Bicycles.",
+          "Buses."
+        ],
+        "answer": 0,
+        "why": "У тексті: pulled by dogs."
+      },
+      {
+        "prompt": "What did the first team leave?",
+        "choices": [
+          "A flag.",
+          "A keyboard.",
+          "A musical instrument."
+        ],
+        "answer": 0,
+        "why": "У тексті прямо вказано a flag."
+      }
+    ],
+    "write": {
+      "prompt": "Зроби часову лінію вигаданої експедиції з 5 подій. Додай мету, маршрут і результат.",
+      "starter": "The team wanted to… First… Then… They reached…"
+    }
+  },
+  {
+    "unit": 0,
+    "code": "clil-geography",
+    "slug": "sb-clil-geography",
+    "title": "A country fact file",
+    "title_uk": "Географія англійською: профіль країни",
+    "vocabulary": [
+      [
+        "climate",
+        "клімат"
+      ],
+      [
+        "currency",
+        "валюта"
+      ],
+      [
+        "coast",
+        "узбережжя"
+      ],
+      [
+        "mountain",
+        "гора"
+      ],
+      [
+        "region",
+        "регіон"
+      ],
+      [
+        "national",
+        "національний"
+      ]
+    ],
+    "rule": "Профіль країни групує факти за полями: столиця, найбільше місто, природні об’єкти, клімат, валюта. Столиця не обов’язково найбільше місто. Змінні числа, наприклад населення, потрібно позначати датою. Для власного профілю можна використати вигадану країну.",
+    "example": "The capital is near the coast. The largest city is in another region. The climate is cool and wet.",
+    "reading": "A country fact file gives short, organised information. It can name the capital, the largest city, mountains and lakes. It also describes the climate, currency and flag. A fact file is easier to read when each fact has its own label. A number about population should include the year it describes.",
+    "questions": [
+      {
+        "prompt": "The largest city means…",
+        "choices": [
+          "the biggest city.",
+          "the oldest city.",
+          "the coldest city."
+        ],
+        "answer": 0,
+        "why": "Largest — найбільший за розміром."
+      },
+      {
+        "prompt": "A population number should include…",
+        "choices": [
+          "a year.",
+          "only a colour.",
+          "only a song title."
+        ],
+        "answer": 0,
+        "why": "Рік допомагає зрозуміти актуальність числа."
+      },
+      {
+        "prompt": "The country ___ a cool climate.",
+        "choices": [
+          "has",
+          "have",
+          "are"
+        ],
+        "answer": 0,
+        "why": "The country — однина: has."
+      },
+      {
+        "prompt": "What does a fact file organise?",
+        "choices": [
+          "Short facts about a country.",
+          "Only a long story.",
+          "Only film reviews."
+        ],
+        "answer": 0,
+        "why": "Це визначено у першому реченні."
+      },
+      {
+        "prompt": "Does a capital have to be the largest city?",
+        "choices": [
+          "No.",
+          "Yes, always.",
+          "Only in winter."
+        ],
+        "answer": 0,
+        "why": "Правило уроку пояснює, що ці поняття різні."
+      }
+    ],
+    "write": {
+      "prompt": "Створи профіль вигаданої країни: назва, столиця, місто, клімат, природа та валюта.",
+      "starter": "Capital:… Largest city:… Climate:… Currency:…"
+    }
+  },
+  {
+    "unit": 0,
+    "code": "clil-sport",
+    "slug": "sb-clil-sport",
+    "title": "Ice hockey",
+    "title_uk": "Фізкультура англійською: хокей",
+    "vocabulary": [
+      [
+        "puck",
+        "шайба"
+      ],
+      [
+        "helmet",
+        "шолом"
+      ],
+      [
+        "referee",
+        "суддя"
+      ],
+      [
+        "penalty",
+        "штраф"
+      ],
+      [
+        "overtime",
+        "додатковий час"
+      ],
+      [
+        "rink",
+        "ковзанка"
+      ]
+    ],
+    "rule": "Опис виду спорту має три частини: коротка історія, спорядження та правила. Passive добре описує гру: is played, is used. Must/mustn’t передають правила. У цьому уроці переказуємо правила, наведені в підручнику.",
+    "example": "Ice hockey is played on an ice rink. A stick is used to move the puck. Players must follow the rules.",
+    "reading": "Ice hockey is played on an ice rink. Players use sticks to move a puck and try to score goals. They wear protective equipment, including helmets and pads. Referees check that players follow the rules. A player who breaks a rule may receive a penalty. The textbook also describes extra time when the score is equal.",
+    "questions": [
+      {
+        "prompt": "Ice hockey is ___ on a rink.",
+        "choices": [
+          "played",
+          "play",
+          "playing"
+        ],
+        "answer": 0,
+        "why": "Passive: is + played."
+      },
+      {
+        "prompt": "Players use a stick to move a ___.",
+        "choices": [
+          "puck",
+          "passport",
+          "receipt"
+        ],
+        "answer": 0,
+        "why": "Puck — шайба."
+      },
+      {
+        "prompt": "Players must ___ the rules.",
+        "choices": [
+          "follow",
+          "to follow",
+          "following"
+        ],
+        "answer": 0,
+        "why": "Must + основна форма."
+      },
+      {
+        "prompt": "Who checks the rules?",
+        "choices": [
+          "Referees.",
+          "Editors.",
+          "Pilots."
+        ],
+        "answer": 0,
+        "why": "У тексті: Referees check… ."
+      },
+      {
+        "prompt": "Why do players wear helmets and pads?",
+        "choices": [
+          "For protection.",
+          "To print a magazine.",
+          "To charge a phone."
+        ],
+        "answer": 0,
+        "why": "Protective equipment — захисне спорядження."
+      }
+    ],
+    "write": {
+      "prompt": "Опиши вигадану гру: місце, спорядження, мета й три правила.",
+      "starter": "The game is played… Players use… They must… They must not…"
+    }
+  },
+  {
+    "unit": 0,
+    "code": "clil-music",
+    "slug": "sb-clil-music",
+    "title": "Instrument families",
+    "title_uk": "Музика англійською: групи інструментів",
+    "vocabulary": [
+      [
+        "orchestra",
+        "оркестр"
+      ],
+      [
+        "percussion",
+        "ударні інструменти"
+      ],
+      [
+        "string",
+        "струна"
+      ],
+      [
+        "wind",
+        "духовий"
+      ],
+      [
+        "harp",
+        "арфа"
+      ],
+      [
+        "tambourine",
+        "бубон"
+      ]
+    ],
+    "rule": "Інструменти можна класифікувати за способом утворення звуку. Wind — дуємо; percussion — ударяємо; string — торкаємося струн; keyboard — натискаємо клавіші. Описуй спосіб через by + -ing: by touching the strings.",
+    "example": "A flute makes sound when we blow into it. A drum is played by striking it. A violin has strings.",
+    "reading": "An orchestra uses different families of instruments. Wind instruments make sound when a player blows into them. Percussion instruments make sound when they are struck. String instruments use strings, and keyboard instruments use keys. The instruments may look different, but instruments in one family share a way of being played.",
+    "questions": [
+      {
+        "prompt": "A drum belongs to the ___ family.",
+        "choices": [
+          "percussion",
+          "string",
+          "wind"
+        ],
+        "answer": 0,
+        "why": "Барабан — ударний інструмент."
+      },
+      {
+        "prompt": "A violin has ___.",
+        "choices": [
+          "strings",
+          "a passport",
+          "a receipt"
+        ],
+        "answer": 0,
+        "why": "Скрипка має струни."
+      },
+      {
+        "prompt": "We make sound by ___ the strings.",
+        "choices": [
+          "touching",
+          "touch",
+          "touched"
+        ],
+        "answer": 0,
+        "why": "Після by — форма -ing."
+      },
+      {
+        "prompt": "How are wind instruments played?",
+        "choices": [
+          "By blowing into them.",
+          "By printing them.",
+          "By washing them."
+        ],
+        "answer": 0,
+        "why": "Це пояснено в другому реченні."
+      },
+      {
+        "prompt": "What do instruments in one family share?",
+        "choices": [
+          "A way of being played.",
+          "The same price.",
+          "The same colour."
+        ],
+        "answer": 0,
+        "why": "У кінці тексту названо спільний спосіб гри."
+      }
+    ],
+    "write": {
+      "prompt": "Розклади 8 знайомих інструментів у групи й опиши два способи гри англійською.",
+      "starter": "The… belongs to… We play it by…"
+    }
+  },
+  {
+    "unit": 1,
+    "code": "round-up-1",
+    "slug": "sb-round-up-1",
+    "title": "Round-up 1",
+    "title_uk": "Повторення юніту 1",
+    "vocabulary": [
+      [
+        "history",
+        "історія"
+      ],
+      [
+        "physics",
+        "фізика"
+      ],
+      [
+        "slim",
+        "стрункий"
+      ],
+      [
+        "chubby",
+        "повненький"
+      ],
+      [
+        "skirt",
+        "спідниця"
+      ],
+      [
+        "pocket",
+        "кишеня"
+      ],
+      [
+        "karaoke",
+        "караоке"
+      ],
+      [
+        "rollerblading",
+        "катання на роликах"
+      ],
+      [
+        "outgoing",
+        "товариський"
+      ],
+      [
+        "helpful",
+        "готовий допомогти"
+      ]
+    ],
+    "rule": "Повтори ключові правила з п’яти уроків. Спочатку виконай завдання без підказок. Потім прочитай пояснення до помилок і повернися до відповідного уроку. Для кожного правила склади власний приклад.",
+    "example": "Our school starts at nine. My friend studies music. Does she practise every day? She does not practise at the weekend. She has got long wavy hair. She is wearing glasses. What is she doing? She is reading. I usually wear jeans. Today I am making a skirt. I want a blue patch. I like the new design. I enjoy playing table tennis. I cannot stand singing karaoke. I would like to join a youth club. My friend has got curly hair. She is helpful. We play ice hockey together. She is a friendly person.",
+    "reading": "Our school has a theatre and a science lab. Two friends are looking for a player in an online game. A girl usually buys her clothes, but today she is changing an old pair of jeans into a skirt. Two friends want to join a youth club. I am tall and have got curly dark hair.",
+    "questions": [
+      {
+        "prompt": "She ___ music every day.",
+        "choices": [
+          "studies",
+          "study",
+          "studying"
+        ],
+        "answer": 0,
+        "why": "З she у Present Simple додаємо -s; study → studies.",
+        "sourceLesson": "sb-1a"
+      },
+      {
+        "prompt": "Where do some students practise after school?",
+        "choices": [
+          "In the theatre.",
+          "In the kitchen.",
+          "In the airport."
+        ],
+        "answer": 0,
+        "why": "У тексті названо theatre.",
+        "sourceLesson": "sb-1a"
+      },
+      {
+        "prompt": "She ___ a book at the moment.",
+        "choices": [
+          "is reading",
+          "reads",
+          "read"
+        ],
+        "answer": 0,
+        "why": "Зараз: is + reading.",
+        "sourceLesson": "sb-1b"
+      },
+      {
+        "prompt": "What colour is the right player's hair?",
+        "choices": [
+          "Brown.",
+          "Black.",
+          "Fair."
+        ],
+        "answer": 0,
+        "why": "У тексті: short brown hair.",
+        "sourceLesson": "sb-1b"
+      },
+      {
+        "prompt": "She usually ___ trainers to school.",
+        "choices": [
+          "wears",
+          "is wearing",
+          "wear"
+        ],
+        "answer": 0,
+        "why": "Usually указує на звичку; she + wears.",
+        "sourceLesson": "sb-1c"
+      },
+      {
+        "prompt": "What is the girl making?",
+        "choices": [
+          "A skirt.",
+          "A jacket.",
+          "A cap."
+        ],
+        "answer": 0,
+        "why": "Вона переробляє jeans на skirt.",
+        "sourceLesson": "sb-1c"
+      },
+      {
+        "prompt": "I enjoy ___ table tennis.",
+        "choices": [
+          "playing",
+          "to play",
+          "play"
+        ],
+        "answer": 0,
+        "why": "Після enjoy потрібна форма -ing.",
+        "sourceLesson": "sb-1d"
+      },
+      {
+        "prompt": "Which activity does the sister love?",
+        "choices": [
+          "Arts and crafts.",
+          "Physics tests.",
+          "Travelling by plane."
+        ],
+        "answer": 0,
+        "why": "У тексті: loves arts and crafts.",
+        "sourceLesson": "sb-1d"
+      },
+      {
+        "prompt": "Choose the correct order.",
+        "choices": [
+          "She has got straight hair.",
+          "She straight has got hair.",
+          "Straight she hair has got."
+        ],
+        "answer": 0,
+        "why": "Підмет + has got + прикметник + іменник.",
+        "sourceLesson": "sb-1e"
+      },
+      {
+        "prompt": "Why does the writer like studying with the friend?",
+        "choices": [
+          "The friend is clever and helpful.",
+          "The friend has blue eyes.",
+          "The friend is very tall."
+        ],
+        "answer": 0,
+        "why": "Причина — риси характеру clever і helpful.",
+        "sourceLesson": "sb-1e"
+      }
+    ],
+    "write": {
+      "prompt": "Обери дві теми цього юніту і напиши коротку історію або діалог, що їх поєднує. Перевір форми дієслів і послідовність думок.",
+      "starter": "About me: I am… I have got… My best friend is… We both…"
+    },
+    "reviewLinks": [
+      "sb-1a",
+      "sb-1b",
+      "sb-1c",
+      "sb-1d",
+      "sb-1e"
+    ]
+  },
+  {
+    "unit": 2,
+    "code": "round-up-2",
+    "slug": "sb-round-up-2",
+    "title": "Round-up 2",
+    "title_uk": "Повторення юніту 2",
+    "vocabulary": [
+      [
+        "sunbathe",
+        "засмагати"
+      ],
+      [
+        "souvenirs",
+        "сувеніри"
+      ],
+      [
+        "ferry",
+        "пором"
+      ],
+      [
+        "underground",
+        "метро"
+      ],
+      [
+        "passport",
+        "паспорт"
+      ],
+      [
+        "currency",
+        "валюта"
+      ],
+      [
+        "voyage",
+        "морська подорож"
+      ],
+      [
+        "explorer",
+        "дослідник"
+      ],
+      [
+        "amazing",
+        "дивовижний"
+      ],
+      [
+        "frightening",
+        "страшний"
+      ]
+    ],
+    "rule": "Повтори ключові правила з п’яти уроків. Спочатку виконай завдання без підказок. Потім прочитай пояснення до помилок і повернися до відповідного уроку. Для кожного правила склади власний приклад.",
+    "example": "We went on a cruise. I took photos. Did you buy souvenirs? I did not ride a horse. He could not find the river. She drives carefully. We travelled by ferry and walked on foot. We booked a flight. The tickets are for us. Give them to me. Did you pack your passport? People used to travel on slow ships. Did they use to spend months at sea? Trains did not use to be so fast. We visited a museum and watched a film. We were tired, so we went home. I liked the trip because it was exciting.",
+    "reading": "A girl returned from a holiday in Egypt. A visitor wanted to find a restaurant near a river. Two friends are preparing for a trip. Travel has changed. Last week our class went by coach to a science museum.",
+    "questions": [
+      {
+        "prompt": "Last summer we ___ on a cruise.",
+        "choices": [
+          "went",
+          "go",
+          "going"
+        ],
+        "answer": 0,
+        "why": "Минула форма go — went.",
+        "sourceLesson": "sb-2a"
+      },
+      {
+        "prompt": "Why was the girl scared?",
+        "choices": [
+          "The camel was tall.",
+          "She lost her passport.",
+          "The museum was closed."
+        ],
+        "answer": 0,
+        "why": "Причина прямо названа в тексті.",
+        "sourceLesson": "sb-2a"
+      },
+      {
+        "prompt": "She is a careful driver. She drives ___.",
+        "choices": [
+          "carefully",
+          "careful",
+          "care"
+        ],
+        "answer": 0,
+        "why": "Дію описує прислівник carefully.",
+        "sourceLesson": "sb-2b"
+      },
+      {
+        "prompt": "Why did the visitor leave the bus?",
+        "choices": [
+          "The traffic was slow.",
+          "The bus was free.",
+          "He wanted to go home."
+        ],
+        "answer": 0,
+        "why": "У тексті згадано повільний дорожній рух.",
+        "sourceLesson": "sb-2b"
+      },
+      {
+        "prompt": "These tickets are for ___.",
+        "choices": [
+          "us",
+          "we",
+          "our"
+        ],
+        "answer": 0,
+        "why": "Після for потрібна об’єктна форма us.",
+        "sourceLesson": "sb-2c"
+      },
+      {
+        "prompt": "Why do the friends take jumpers?",
+        "choices": [
+          "They checked the weather.",
+          "They lost their bags.",
+          "They are buying souvenirs."
+        ],
+        "answer": 0,
+        "why": "Одяг обирають після перевірки погоди.",
+        "sourceLesson": "sb-2c"
+      },
+      {
+        "prompt": "People ___ travel on slow ships.",
+        "choices": [
+          "used to",
+          "use to",
+          "are used"
+        ],
+        "answer": 0,
+        "why": "Минула звичка: used to + travel.",
+        "sourceLesson": "sb-2d"
+      },
+      {
+        "prompt": "What did explorers sometimes wait months to see?",
+        "choices": [
+          "Land.",
+          "A boarding pass.",
+          "A theatre."
+        ],
+        "answer": 0,
+        "why": "У тексті: before they saw land.",
+        "sourceLesson": "sb-2d"
+      },
+      {
+        "prompt": "We stayed inside ___ it was raining.",
+        "choices": [
+          "because",
+          "so",
+          "but"
+        ],
+        "answer": 0,
+        "why": "Because вводить причину.",
+        "sourceLesson": "sb-2e"
+      },
+      {
+        "prompt": "How did the class travel?",
+        "choices": [
+          "By coach.",
+          "On foot.",
+          "By ferry."
+        ],
+        "answer": 0,
+        "why": "У першому реченні: went by coach.",
+        "sourceLesson": "sb-2e"
+      }
+    ],
+    "write": {
+      "prompt": "Обери дві теми цього юніту і напиши коротку історію або діалог, що їх поєднує. Перевір форми дієслів і послідовність думок.",
+      "starter": "Hi… Last week we… My favourite place was… Speak to you soon!"
+    },
+    "reviewLinks": [
+      "sb-2a",
+      "sb-2b",
+      "sb-2c",
+      "sb-2d",
+      "sb-2e"
+    ]
+  },
+  {
+    "unit": 3,
+    "code": "round-up-3",
+    "slug": "sb-round-up-3",
+    "title": "Round-up 3",
+    "title_uk": "Повторення юніту 3",
+    "vocabulary": [
+      [
+        "accident",
+        "нещасний випадок"
+      ],
+      [
+        "ambulance",
+        "швидка допомога"
+      ],
+      [
+        "disappear",
+        "зникати"
+      ],
+      [
+        "footprints",
+        "сліди"
+      ],
+      [
+        "ride",
+        "атракціон"
+      ],
+      [
+        "queue",
+        "черга"
+      ],
+      [
+        "surprised",
+        "здивований"
+      ],
+      [
+        "shocked",
+        "шокований"
+      ],
+      [
+        "ladder",
+        "драбина"
+      ],
+      [
+        "burglar",
+        "злодій"
+      ]
+    ],
+    "rule": "Повтори ключові правила з п’яти уроків. Спочатку виконай завдання без підказок. Потім прочитай пояснення до помилок і повернися до відповідного уроку. Для кожного правила склади власний приклад.",
+    "example": "I was walking at five. They were skateboarding. Was the driver going fast? She was not looking at her phone. While we were walking, we heard a noise. I was looking at the snow when I saw footprints. She was reading while he was drawing. There are some rides. Are there any long queues? There is no food left. Would you like some lemonade? Everyone is afraid. Nobody knows the answer. Is there anything to eat? I can hear something. I was walking home when I lost my keys. Unfortunately, the door was locked. Luckily, a neighbour helped me.",
+    "reading": "A boy was skateboarding on the pavement. Two friends were exploring a snowy area when they saw huge footprints. Two boys went on a water ride at a funfair. Two men were travelling through a cold forest with their dogs. A boy ran into his garden, and the door closed behind him.",
+    "questions": [
+      {
+        "prompt": "At five I ___ home.",
+        "choices": [
+          "was walking",
+          "walk",
+          "am walking"
+        ],
+        "answer": 0,
+        "why": "Дія тривала в певний момент минулого.",
+        "sourceLesson": "sb-3a"
+      },
+      {
+        "prompt": "Why did the driver swerve?",
+        "choices": [
+          "There was a cat in the street.",
+          "She wanted to park.",
+          "The boy called her."
+        ],
+        "answer": 0,
+        "why": "Водій побачив кота на дорозі.",
+        "sourceLesson": "sb-3a"
+      },
+      {
+        "prompt": "While we ___, we heard a noise.",
+        "choices": [
+          "were walking",
+          "walk",
+          "are walking"
+        ],
+        "answer": 0,
+        "why": "Тривала фонова дія: were walking.",
+        "sourceLesson": "sb-3b"
+      },
+      {
+        "prompt": "What was unusual about the footprints?",
+        "choices": [
+          "They were much bigger than human footprints.",
+          "They were blue.",
+          "They were inside a bus."
+        ],
+        "answer": 0,
+        "why": "Розмір слідів здивував друзів.",
+        "sourceLesson": "sb-3b"
+      },
+      {
+        "prompt": "Are there ___ tickets left?",
+        "choices": [
+          "any",
+          "no",
+          "a"
+        ],
+        "answer": 0,
+        "why": "У запитанні про наявність: any.",
+        "sourceLesson": "sb-3c"
+      },
+      {
+        "prompt": "What was the boy eating?",
+        "choices": [
+          "A sandwich.",
+          "An apple.",
+          "A cake."
+        ],
+        "answer": 0,
+        "why": "У тексті він їв sandwich.",
+        "sourceLesson": "sb-3c"
+      },
+      {
+        "prompt": "___ knows the answer. We need help.",
+        "choices": [
+          "Nobody",
+          "Anybody",
+          "Everywhere"
+        ],
+        "answer": 0,
+        "why": "Nobody — ніхто; речення вже заперечне за змістом.",
+        "sourceLesson": "sb-3d"
+      },
+      {
+        "prompt": "Why did one wolf look different?",
+        "choices": [
+          "It was half dog.",
+          "It was wearing a coat.",
+          "It had no legs."
+        ],
+        "answer": 0,
+        "why": "Це деталь із тексту, адаптованого за історією White Fang.",
+        "sourceLesson": "sb-3d"
+      },
+      {
+        "prompt": "___, I lost my keys and could not get inside.",
+        "choices": [
+          "Unfortunately",
+          "Fortunately",
+          "Politely"
+        ],
+        "answer": 0,
+        "why": "Втрата ключів — неприємна подія.",
+        "sourceLesson": "sb-3e"
+      },
+      {
+        "prompt": "Why did the boy use a ladder?",
+        "choices": [
+          "His window was open.",
+          "He wanted to repair the roof.",
+          "He was at school."
+        ],
+        "answer": 0,
+        "why": "Відкрите вікно було способом потрапити в дім.",
+        "sourceLesson": "sb-3e"
+      }
+    ],
+    "write": {
+      "prompt": "Обери дві теми цього юніту і напиши коротку історію або діалог, що їх поєднує. Перевір форми дієслів і послідовність думок.",
+      "starter": "It happened… I was… when… Unfortunately… Luckily… In the end…"
+    },
+    "reviewLinks": [
+      "sb-3a",
+      "sb-3b",
+      "sb-3c",
+      "sb-3d",
+      "sb-3e"
+    ]
+  },
+  {
+    "unit": 4,
+    "code": "round-up-4",
+    "slug": "sb-round-up-4",
+    "title": "Round-up 4",
+    "title_uk": "Повторення юніту 4",
+    "vocabulary": [
+      [
+        "florist",
+        "квітникар, квіткова крамниця"
+      ],
+      [
+        "chemist",
+        "аптекар, аптека"
+      ],
+      [
+        "crossing",
+        "перехід"
+      ],
+      [
+        "footbridge",
+        "пішохідний міст"
+      ],
+      [
+        "peaceful",
+        "спокійний"
+      ],
+      [
+        "noisy",
+        "галасливий"
+      ],
+      [
+        "galaxy",
+        "галактика"
+      ],
+      [
+        "universe",
+        "Всесвіт"
+      ],
+      [
+        "castle",
+        "замок"
+      ],
+      [
+        "stadium",
+        "стадіон"
+      ]
+    ],
+    "rule": "Повтори ключові правила з п’яти уроків. Спочатку виконай завдання без підказок. Потім прочитай пояснення до помилок і повернися до відповідного уроку. Для кожного правила склади власний приклад.",
+    "example": "May I borrow this book? Could you help me? I might visit the market later. Go straight on and turn right at the traffic lights. The bank is on your left, opposite the park. The country is quieter than the city. The city is more exciting. This house is as comfortable as that one. This is the largest planet in the group. That planet is hotter than this one. It has the highest temperature. There is a castle near the river. There are two galleries. The park is the most peaceful place in my town.",
+    "reading": "A boy wants to borrow a book from the library, but he has left his card at home. Two friends are playing a game. Some people enjoy a busy city with shops and restaurants. Our solar system contains the sun and eight planets. I live in a city with a river and several bridges.",
+    "questions": [
+      {
+        "prompt": "___ I borrow this book, please?",
+        "choices": [
+          "May",
+          "Do",
+          "Am"
+        ],
+        "answer": 0,
+        "why": "May I…? — прохання про дозвіл.",
+        "sourceLesson": "sb-4a"
+      },
+      {
+        "prompt": "Why cannot the boy borrow the book himself?",
+        "choices": [
+          "He has no library card with him.",
+          "The library is closed.",
+          "He cannot read."
+        ],
+        "answer": 0,
+        "why": "Картка залишилася вдома.",
+        "sourceLesson": "sb-4a"
+      },
+      {
+        "prompt": "To move inside a building, go ___.",
+        "choices": [
+          "into it",
+          "behind it",
+          "opposite it"
+        ],
+        "answer": 0,
+        "why": "Into означає рух усередину.",
+        "sourceLesson": "sb-4b"
+      },
+      {
+        "prompt": "Where do the friends stop?",
+        "choices": [
+          "In front of a supermarket.",
+          "Inside the bank.",
+          "Under a bridge."
+        ],
+        "answer": 0,
+        "why": "У тексті: stop in front of a supermarket.",
+        "sourceLesson": "sb-4b"
+      },
+      {
+        "prompt": "The country is ___ than the city.",
+        "choices": [
+          "quieter",
+          "quiet",
+          "quietest"
+        ],
+        "answer": 0,
+        "why": "Порівняння двох місць: quieter than.",
+        "sourceLesson": "sb-4c"
+      },
+      {
+        "prompt": "Why do some people prefer the countryside?",
+        "choices": [
+          "It is quieter and more peaceful.",
+          "It has more traffic.",
+          "It is always crowded."
+        ],
+        "answer": 0,
+        "why": "Ці причини наведено в тексті.",
+        "sourceLesson": "sb-4c"
+      },
+      {
+        "prompt": "Choose the superlative of large.",
+        "choices": [
+          "the largest",
+          "the larger",
+          "more large"
+        ],
+        "answer": 0,
+        "why": "Large → the largest.",
+        "sourceLesson": "sb-4d"
+      },
+      {
+        "prompt": "How many planets are in our solar system?",
+        "choices": [
+          "Eight.",
+          "Six.",
+          "Ten."
+        ],
+        "answer": 0,
+        "why": "У першому реченні названо eight planets.",
+        "sourceLesson": "sb-4d"
+      },
+      {
+        "prompt": "There ___ two galleries in my town.",
+        "choices": [
+          "are",
+          "is",
+          "was"
+        ],
+        "answer": 0,
+        "why": "Two galleries — множина.",
+        "sourceLesson": "sb-4e"
+      },
+      {
+        "prompt": "Where does the writer like cycling?",
+        "choices": [
+          "In the park.",
+          "At the airport.",
+          "Inside a museum."
+        ],
+        "answer": 0,
+        "why": "У тексті велосипедні прогулянки відбуваються в парку.",
+        "sourceLesson": "sb-4e"
+      }
+    ],
+    "write": {
+      "prompt": "Обери дві теми цього юніту і напиши коротку історію або діалог, що їх поєднує. Перевір форми дієслів і послідовність думок.",
+      "starter": "I live in… There is… There are… My favourite place is…"
+    },
+    "reviewLinks": [
+      "sb-4a",
+      "sb-4b",
+      "sb-4c",
+      "sb-4d",
+      "sb-4e"
+    ]
+  },
+  {
+    "unit": 5,
+    "code": "round-up-5",
+    "slug": "sb-round-up-5",
+    "title": "Round-up 5",
+    "title_uk": "Повторення юніту 5",
+    "vocabulary": [
+      [
+        "keyboard",
+        "клавіатура"
+      ],
+      [
+        "screen",
+        "екран"
+      ],
+      [
+        "wireless",
+        "бездротовий"
+      ],
+      [
+        "headphones",
+        "навушники"
+      ],
+      [
+        "recycle",
+        "переробляти"
+      ],
+      [
+        "reuse",
+        "використовувати повторно"
+      ],
+      [
+        "habitat",
+        "середовище існування"
+      ],
+      [
+        "endangered",
+        "під загрозою зникнення"
+      ],
+      [
+        "invite",
+        "запрошувати"
+      ],
+      [
+        "accept",
+        "приймати"
+      ]
+    ],
+    "rule": "Повтори ключові правила з п’яти уроків. Спочатку виконай завдання без підказок. Потім прочитай пояснення до помилок і повернися до відповідного уроку. Для кожного правила склади власний приклад.",
+    "example": "I am going to buy a keyboard. Are you going to visit the technology fair? We are meeting at ten. I think gadgets will change. I will help you. Will you bring the headphones? We will be leaving at eight. You must check the label. You must not leave rubbish here. You do not have to buy a new bag. We had to clean the room. If we protect the river, animals will have a safer home. If you see rubbish, pick it up. Animals may disappear if we do not help. Would you like to come to our clean-up? We are going to meet at nine. If you can come, write back.",
+    "reading": "Two friends want to visit a technology fair at the weekend. A teenager asks for advice about wireless headphones. A boy wants to recycle a bottle. Some dolphins are endangered. Our youth club is organising a tree-planting event.",
+    "questions": [
+      {
+        "prompt": "She ___ going to visit the fair.",
+        "choices": [
+          "is",
+          "are",
+          "does"
+        ],
+        "answer": 0,
+        "why": "She узгоджується з is.",
+        "sourceLesson": "sb-5a"
+      },
+      {
+        "prompt": "What does one friend need?",
+        "choices": [
+          "A keyboard.",
+          "A suitcase.",
+          "A bicycle."
+        ],
+        "answer": 0,
+        "why": "У тексті старий keyboard не працює.",
+        "sourceLesson": "sb-5a"
+      },
+      {
+        "prompt": "I think phones ___ change in the future.",
+        "choices": [
+          "will",
+          "are",
+          "did"
+        ],
+        "answer": 0,
+        "why": "Прогноз: will + основна форма.",
+        "sourceLesson": "sb-5b"
+      },
+      {
+        "prompt": "Why does one person dislike the cheaper headphones?",
+        "choices": [
+          "They sometimes fail with a computer.",
+          "They are too colourful.",
+          "They are not wireless."
+        ],
+        "answer": 0,
+        "why": "Причина — проблеми з комп’ютером.",
+        "sourceLesson": "sb-5b"
+      },
+      {
+        "prompt": "A rule forbids dropping rubbish. You ___ drop it.",
+        "choices": [
+          "must not",
+          "do not have to",
+          "may"
+        ],
+        "answer": 0,
+        "why": "Must not виражає заборону.",
+        "sourceLesson": "sb-5c"
+      },
+      {
+        "prompt": "What is the boy's bottle made of?",
+        "choices": [
+          "Plastic.",
+          "Glass.",
+          "Metal."
+        ],
+        "answer": 0,
+        "why": "У тексті: his bottle is plastic.",
+        "sourceLesson": "sb-5c"
+      },
+      {
+        "prompt": "If we ___ the water, animals will suffer.",
+        "choices": [
+          "pollute",
+          "will pollute",
+          "polluted"
+        ],
+        "answer": 0,
+        "why": "Після if — Present Simple.",
+        "sourceLesson": "sb-5d"
+      },
+      {
+        "prompt": "Why do dolphins need air?",
+        "choices": [
+          "To breathe.",
+          "To charge a phone.",
+          "To build a nest."
+        ],
+        "answer": 0,
+        "why": "У тексті прямо вказано air to breathe.",
+        "sourceLesson": "sb-5d"
+      },
+      {
+        "prompt": "Choose an invitation.",
+        "choices": [
+          "Would you like to come to our event?",
+          "I cannot come tomorrow.",
+          "Thank you for inviting me."
+        ],
+        "answer": 0,
+        "why": "Would you like…? запрошує.",
+        "sourceLesson": "sb-5e"
+      },
+      {
+        "prompt": "When will the group meet?",
+        "choices": [
+          "At eight.",
+          "At noon.",
+          "At ten at night."
+        ],
+        "answer": 0,
+        "why": "У тексті: meet at the club at eight.",
+        "sourceLesson": "sb-5e"
+      }
+    ],
+    "write": {
+      "prompt": "Обери дві теми цього юніту і напиши коротку історію або діалог, що їх поєднує. Перевір форми дієслів і послідовність думок.",
+      "starter": "Hi… Would you like to…? We are going to… Thanks for… I am sorry, but…"
+    },
+    "reviewLinks": [
+      "sb-5a",
+      "sb-5b",
+      "sb-5c",
+      "sb-5d",
+      "sb-5e"
+    ]
+  },
+  {
+    "unit": 6,
+    "code": "round-up-6",
+    "slug": "sb-round-up-6",
+    "title": "Round-up 6",
+    "title_uk": "Повторення юніту 6",
+    "vocabulary": [
+      [
+        "protein",
+        "білок"
+      ],
+      [
+        "calcium",
+        "кальцій"
+      ],
+      [
+        "headache",
+        "головний біль"
+      ],
+      [
+        "toothache",
+        "зубний біль"
+      ],
+      [
+        "gym",
+        "спортивна зала"
+      ],
+      [
+        "instructor",
+        "інструктор"
+      ],
+      [
+        "spectator",
+        "глядач"
+      ],
+      [
+        "league",
+        "ліга"
+      ],
+      [
+        "racket",
+        "ракетка"
+      ],
+      [
+        "court",
+        "корт"
+      ]
+    ],
+    "rule": "Повтори ключові правила з п’яти уроків. Спочатку виконай завдання без підказок. Потім прочитай пояснення до помилок і повернися до відповідного уроку. Для кожного правила склади власний приклад.",
+    "example": "How much milk is there? How many apples have we got? There is a little water and a few vegetables. I have got a headache. You should tell an adult. You should not ignore it. Should I ask for help? You like tennis, do you not? She is the instructor, is she not? They cannot swim, can they? Our team plays in the local league. Last year they won a trophy. Many spectators watched the final. I joined the tennis club last year. I practise three times a week. I am going to enter a tournament.",
+    "reading": "A balanced diet can include different kinds of food. A girl calls her friend because he has not arrived at the cinema. Two friends visit a gym. A sports club can have more than one team. A girl joined a tennis club after a friend gave her advice.",
+    "questions": [
+      {
+        "prompt": "How ___ apples have we got?",
+        "choices": [
+          "many",
+          "much",
+          "little"
+        ],
+        "answer": 0,
+        "why": "Apples — злічувана множина.",
+        "sourceLesson": "sb-6a"
+      },
+      {
+        "prompt": "What do dairy products contain in the text?",
+        "choices": [
+          "Protein and calcium.",
+          "Only sugar.",
+          "No protein."
+        ],
+        "answer": 0,
+        "why": "У тексті названо protein and calcium.",
+        "sourceLesson": "sb-6a"
+      },
+      {
+        "prompt": "You should ___ an adult how you feel.",
+        "choices": [
+          "tell",
+          "to tell",
+          "telling"
+        ],
+        "answer": 0,
+        "why": "Після should — основна форма.",
+        "sourceLesson": "sb-6b"
+      },
+      {
+        "prompt": "Where was the girl waiting?",
+        "choices": [
+          "At the cinema.",
+          "At the airport.",
+          "At a music class."
+        ],
+        "answer": 0,
+        "why": "Вона телефонувала через його відсутність у кіно.",
+        "sourceLesson": "sb-6b"
+      },
+      {
+        "prompt": "She is the instructor, ___?",
+        "choices": [
+          "isn't she",
+          "doesn't she",
+          "is she"
+        ],
+        "answer": 0,
+        "why": "Після ствердження з is — isn’t she.",
+        "sourceLesson": "sb-6c"
+      },
+      {
+        "prompt": "Who wants advice from an instructor?",
+        "choices": [
+          "The friend who prefers aerobics.",
+          "A bus driver.",
+          "A librarian."
+        ],
+        "answer": 0,
+        "why": "У тексті це друг, який обирає aerobics.",
+        "sourceLesson": "sb-6c"
+      },
+      {
+        "prompt": "Yesterday the team ___ a trophy.",
+        "choices": [
+          "won",
+          "wins",
+          "winning"
+        ],
+        "answer": 0,
+        "why": "Yesterday потребує Past Simple.",
+        "sourceLesson": "sb-6d"
+      },
+      {
+        "prompt": "Can one club have several teams?",
+        "choices": [
+          "Yes, in different sports.",
+          "No, only one player.",
+          "No, only one team."
+        ],
+        "answer": 0,
+        "why": "Перші два речення називають різні команди клубу.",
+        "sourceLesson": "sb-6d"
+      },
+      {
+        "prompt": "Last year I ___ a tennis club.",
+        "choices": [
+          "joined",
+          "join",
+          "am joining every day"
+        ],
+        "answer": 0,
+        "why": "Last year — Past Simple.",
+        "sourceLesson": "sb-6e"
+      },
+      {
+        "prompt": "How often does the girl practise?",
+        "choices": [
+          "Three times a week.",
+          "Once a month.",
+          "Every hour."
+        ],
+        "answer": 0,
+        "why": "Частоту прямо названо в тексті.",
+        "sourceLesson": "sb-6e"
+      }
+    ],
+    "write": {
+      "prompt": "Обери дві теми цього юніту і напиши коротку історію або діалог, що їх поєднує. Перевір форми дієслів і послідовність думок.",
+      "starter": "Hi… I took up… I practise… Last week… I am going to…"
+    },
+    "reviewLinks": [
+      "sb-6a",
+      "sb-6b",
+      "sb-6c",
+      "sb-6d",
+      "sb-6e"
+    ]
+  },
+  {
+    "unit": 7,
+    "code": "round-up-7",
+    "slug": "sb-round-up-7",
+    "title": "Round-up 7",
+    "title_uk": "Повторення юніту 7",
+    "vocabulary": [
+      [
+        "contestant",
+        "учасник конкурсу"
+      ],
+      [
+        "channel",
+        "канал"
+      ],
+      [
+        "audience",
+        "аудиторія, глядачі"
+      ],
+      [
+        "autograph",
+        "автограф"
+      ],
+      [
+        "receive",
+        "отримувати"
+      ],
+      [
+        "receiver",
+        "одержувач"
+      ],
+      [
+        "receipt",
+        "чек"
+      ],
+      [
+        "discount",
+        "знижка"
+      ],
+      [
+        "advice",
+        "порада"
+      ],
+      [
+        "problem",
+        "проблема"
+      ]
+    ],
+    "rule": "Повтори ключові правила з п’яти уроків. Спочатку виконай завдання без підказок. Потім прочитай пояснення до помилок і повернися до відповідного уроку. Для кожного правила склади власний приклад.",
+    "example": "Have you ever watched a talent show? I have seen it twice. She has never won a competition. I have seen this band twice. I saw them last summer. My brother has gone to the concert, so he is not here. I have lived here for two years. We have known each other since school. I will be back at six. These shoes are too small. They are not big enough. I like the white ones. I will take the blue one. I need some advice. I feel worried. What should I do? I think you should explain how you feel.",
+    "reading": "Two boys are contestants on a game show. A fan has been to several concerts, but one performance was especially exciting. People sometimes shorten words in messages to type faster. A teenager wants to buy a dress. A student used to help a younger brother with all his homework.",
+    "questions": [
+      {
+        "prompt": "Have you ever ___ a talent show?",
+        "choices": [
+          "seen",
+          "saw",
+          "see"
+        ],
+        "answer": 0,
+        "why": "Present Perfect: have + seen.",
+        "sourceLesson": "sb-7a"
+      },
+      {
+        "prompt": "How many correct answers did the boys need?",
+        "choices": [
+          "Five.",
+          "Three.",
+          "Two."
+        ],
+        "answer": 0,
+        "why": "У другому реченні названо five questions.",
+        "sourceLesson": "sb-7a"
+      },
+      {
+        "prompt": "I ___ the band last night.",
+        "choices": [
+          "saw",
+          "have seen",
+          "seeing"
+        ],
+        "answer": 0,
+        "why": "Last night — завершений час, Past Simple.",
+        "sourceLesson": "sb-7b"
+      },
+      {
+        "prompt": "When did the fan see the band in the story?",
+        "choices": [
+          "Last summer.",
+          "This morning.",
+          "Ten years ago."
+        ],
+        "answer": 0,
+        "why": "У тексті прямо вказано last summer.",
+        "sourceLesson": "sb-7b"
+      },
+      {
+        "prompt": "I have lived here ___ two years.",
+        "choices": [
+          "for",
+          "since",
+          "ago"
+        ],
+        "answer": 0,
+        "why": "For + тривалість.",
+        "sourceLesson": "sb-7c"
+      },
+      {
+        "prompt": "Why do people shorten words?",
+        "choices": [
+          "To type faster.",
+          "To make every message longer.",
+          "To hide all meaning."
+        ],
+        "answer": 0,
+        "why": "У першому реченні: to type faster.",
+        "sourceLesson": "sb-7c"
+      },
+      {
+        "prompt": "These shoes are ___ small for me.",
+        "choices": [
+          "too",
+          "enough",
+          "many"
+        ],
+        "answer": 0,
+        "why": "Too + прикметник.",
+        "sourceLesson": "sb-7d"
+      },
+      {
+        "prompt": "What is wrong with the first dress?",
+        "choices": [
+          "It is too big.",
+          "It is too warm.",
+          "It is too dark."
+        ],
+        "answer": 0,
+        "why": "У тексті: the first size is too big.",
+        "sourceLesson": "sb-7d"
+      },
+      {
+        "prompt": "Choose a natural phrase.",
+        "choices": [
+          "Some advice.",
+          "An advice.",
+          "Many advices."
+        ],
+        "answer": 0,
+        "why": "Advice — незлічуваний іменник.",
+        "sourceLesson": "sb-7e"
+      },
+      {
+        "prompt": "Why can the student not help all the time?",
+        "choices": [
+          "The student has exams.",
+          "The student is on a cruise.",
+          "The brother moved away."
+        ],
+        "answer": 0,
+        "why": "Причина — власні іспити.",
+        "sourceLesson": "sb-7e"
+      }
+    ],
+    "write": {
+      "prompt": "Обери дві теми цього юніту і напиши коротку історію або діалог, що їх поєднує. Перевір форми дієслів і послідовність думок.",
+      "starter": "I feel… because… What should I do? I think you should…"
+    },
+    "reviewLinks": [
+      "sb-7a",
+      "sb-7b",
+      "sb-7c",
+      "sb-7d",
+      "sb-7e"
+    ]
+  },
+  {
+    "unit": 8,
+    "code": "round-up-8",
+    "slug": "sb-round-up-8",
+    "title": "Round-up 8",
+    "title_uk": "Повторення юніту 8",
+    "vocabulary": [
+      [
+        "headline",
+        "заголовок"
+      ],
+      [
+        "article",
+        "стаття"
+      ],
+      [
+        "jealous",
+        "заздрісний"
+      ],
+      [
+        "disappointed",
+        "розчарований"
+      ],
+      [
+        "editor",
+        "редактор"
+      ],
+      [
+        "layout",
+        "макет"
+      ],
+      [
+        "ceremony",
+        "церемонія"
+      ],
+      [
+        "award",
+        "нагорода"
+      ],
+      [
+        "plot",
+        "сюжет"
+      ],
+      [
+        "soundtrack",
+        "музичний супровід"
+      ]
+    ],
+    "rule": "Повтори ключові правила з п’яти уроків. Спочатку виконай завдання без підказок. Потім прочитай пояснення до помилок і повернися до відповідного уроку. Для кожного правила склади власний приклад.",
+    "example": "This is the girl who won a prize. That is the camera which she bought. He is a helpful person. I am nervous. So am I. I love performing. So do I. I have not been on TV. Neither have I. Articles are written by reporters. The magazine is designed on computers. Copies are delivered to shops. The film was directed by a young director. Two awards were given. Was the scene filmed here? The film was directed by a young artist. It is about a boy who helps his friends. I liked the plot and special effects.",
+    "reading": "A local newspaper reports on two teenagers who won prizes. A band is waiting for an audition. First, writers and editors meet and discuss topics. A film awards ceremony celebrates work in the film industry. In this adventure film, a museum becomes an exciting place at night.",
+    "questions": [
+      {
+        "prompt": "The girl ___ won the prize is happy.",
+        "choices": [
+          "who",
+          "which",
+          "where"
+        ],
+        "answer": 0,
+        "why": "Для людини — who.",
+        "sourceLesson": "sb-8a"
+      },
+      {
+        "prompt": "Where did the girl win a trip?",
+        "choices": [
+          "At a supermarket.",
+          "At an airport.",
+          "At a gym."
+        ],
+        "answer": 0,
+        "why": "У другому реченні названо supermarket.",
+        "sourceLesson": "sb-8a"
+      },
+      {
+        "prompt": "I am nervous. — ___ am I.",
+        "choices": [
+          "So",
+          "Neither",
+          "Too"
+        ],
+        "answer": 0,
+        "why": "Ствердження з am → So am I.",
+        "sourceLesson": "sb-8b"
+      },
+      {
+        "prompt": "Why are two members nervous?",
+        "choices": [
+          "The audition could lead to a TV appearance.",
+          "They lost a suitcase.",
+          "The shop is closed."
+        ],
+        "answer": 0,
+        "why": "Можливість виступу на TV робить подію важливою.",
+        "sourceLesson": "sb-8b"
+      },
+      {
+        "prompt": "The magazine ___ printed every month.",
+        "choices": [
+          "is",
+          "are",
+          "does"
+        ],
+        "answer": 0,
+        "why": "Однина + is + третя форма.",
+        "sourceLesson": "sb-8c"
+      },
+      {
+        "prompt": "Who makes the layout?",
+        "choices": [
+          "Graphic designers.",
+          "Drivers.",
+          "Spectators."
+        ],
+        "answer": 0,
+        "why": "У тексті прямо названо graphic designers.",
+        "sourceLesson": "sb-8c"
+      },
+      {
+        "prompt": "The film ___ chosen last year.",
+        "choices": [
+          "was",
+          "is",
+          "are"
+        ],
+        "answer": 0,
+        "why": "Last year → Past Simple Passive з was.",
+        "sourceLesson": "sb-8d"
+      },
+      {
+        "prompt": "Which film was chosen at the school ceremony?",
+        "choices": [
+          "The best project.",
+          "The oldest cartoon.",
+          "A news programme."
+        ],
+        "answer": 0,
+        "why": "У тексті: chosen as the best project.",
+        "sourceLesson": "sb-8d"
+      },
+      {
+        "prompt": "A film's story is its ___.",
+        "choices": [
+          "plot",
+          "soundtrack",
+          "receipt"
+        ],
+        "answer": 0,
+        "why": "Plot — сюжет.",
+        "sourceLesson": "sb-8e"
+      },
+      {
+        "prompt": "What happens at night in the film?",
+        "choices": [
+          "Museum exhibits come to life.",
+          "A supermarket closes forever.",
+          "A team wins a match."
+        ],
+        "answer": 0,
+        "why": "У тексті оживають exhibits.",
+        "sourceLesson": "sb-8e"
+      }
+    ],
+    "write": {
+      "prompt": "Обери дві теми цього юніту і напиши коротку історію або діалог, що їх поєднує. Перевір форми дієслів і послідовність думок.",
+      "starter": "The film is called… It was directed by… It is about… I think…"
+    },
+    "reviewLinks": [
+      "sb-8a",
+      "sb-8b",
+      "sb-8c",
+      "sb-8d",
+      "sb-8e"
+    ]
+  },
+  {
+    "unit": 0,
+    "code": "pair-work",
+    "slug": "sb-pair-work",
+    "title": "Talk together",
+    "title_uk": "Робота в парах",
+    "vocabulary": [
+      [
+        "partner",
+        "партнер"
+      ],
+      [
+        "describe",
+        "описувати"
+      ],
+      [
+        "guess",
+        "відгадувати"
+      ],
+      [
+        "permission",
+        "дозвіл"
+      ],
+      [
+        "request",
+        "прохання"
+      ],
+      [
+        "agree",
+        "погоджуватися"
+      ]
+    ],
+    "rule": "Виберіть ролі й обміняйтеся інформацією, якої партнер не бачить. Один описує предмет чи маршрут, інший ставить запитання. Після першої розмови поміняйтеся ролями. Попросіть уточнення ввічливо: Could you repeat that? Перевіряйте, чи досягнули мети розмови.",
+    "example": "How do I get to your house? Could you repeat that? Go straight on and turn left. Is it next to the park?",
+    "reading": "Two partners practise a shopping dialogue. One is a customer and needs a jacket. The other is a shop assistant. The customer asks about size and price. The assistant offers another jacket when the first one is too small. They change roles and practise again, using a different item.",
+    "questions": [
+      {
+        "prompt": "Choose a polite request for repetition.",
+        "choices": [
+          "Could you repeat that, please?",
+          "Repeat now, you!",
+          "You repeating?"
+        ],
+        "answer": 0,
+        "why": "Could you… please? — ввічливе прохання."
+      },
+      {
+        "prompt": "The jacket is too small. Ask for…",
+        "choices": [
+          "a larger one.",
+          "a smaller receipt.",
+          "a quieter one."
+        ],
+        "answer": 0,
+        "why": "Потрібен більший розмір."
+      },
+      {
+        "prompt": "After a first role play, partners should…",
+        "choices": [
+          "change roles.",
+          "hide all answers forever.",
+          "stop listening."
+        ],
+        "answer": 0,
+        "why": "Зміна ролей дає практику обом."
+      },
+      {
+        "prompt": "What does the customer need?",
+        "choices": [
+          "A jacket.",
+          "A passport.",
+          "A drum."
+        ],
+        "answer": 0,
+        "why": "У тексті названо jacket."
+      },
+      {
+        "prompt": "What do they ask about?",
+        "choices": [
+          "Size and price.",
+          "Only the weather.",
+          "Only a film."
+        ],
+        "answer": 0,
+        "why": "Покупець питає про size and price."
+      }
+    ],
+    "write": {
+      "prompt": "Виконайте три діалоги: крамниця, маршрут і запрошення. Запиши один із них у 6–8 репліках.",
+      "starter": "Can I help you? I would like… Could you…? Thank you."
+    }
+  },
+  {
+    "unit": 0,
+    "code": "learning-tips",
+    "slug": "sb-learning-tips",
+    "title": "Learn and create",
+    "title_uk": "Як учитися й робити проєкти",
+    "vocabulary": [
+      [
+        "draft",
+        "чернетка"
+      ],
+      [
+        "plan",
+        "план"
+      ],
+      [
+        "checklist",
+        "перелік для перевірки"
+      ],
+      [
+        "research",
+        "дослідження"
+      ],
+      [
+        "source",
+        "джерело"
+      ],
+      [
+        "revise",
+        "повторювати, доопрацьовувати"
+      ]
+    ],
+    "rule": "Слова вчи у фразах із власним прикладом. Перед читанням передбач тему, під час читання шукай ключові факти, після — коротко перекажи. Для письма: план → чернетка → перевірка → чистовик. Проєкт починай із чіткого запитання й записуй джерела використаної інформації.",
+    "example": "First I make a plan. Then I write a draft. I check the facts and revise my work. Finally I share the project.",
+    "reading": "A student wants to make a poster about a favourite sport. First, the student writes a plan with three headings: history, equipment and rules. Next, they collect information and note the sources. They write a draft, check the facts and spelling, and improve the layout. Finally, they explain the poster to a partner.",
+    "questions": [
+      {
+        "prompt": "Before writing a long text, make a ___.",
+        "choices": [
+          "plan",
+          "receipt",
+          "boarding pass"
+        ],
+        "answer": 0,
+        "why": "План організовує думки."
+      },
+      {
+        "prompt": "The first version of a text is a ___.",
+        "choices": [
+          "draft",
+          "final prize",
+          "currency"
+        ],
+        "answer": 0,
+        "why": "Draft — чернетка."
+      },
+      {
+        "prompt": "Information used in a project should have…",
+        "choices": [
+          "a source.",
+          "only a colour.",
+          "no explanation."
+        ],
+        "answer": 0,
+        "why": "Запис джерела дозволяє перевірити інформацію."
+      },
+      {
+        "prompt": "What are the poster's three headings?",
+        "choices": [
+          "History, equipment and rules.",
+          "Food, weather and travel.",
+          "Films, songs and shopping."
+        ],
+        "answer": 0,
+        "why": "У другому реченні вказано план."
+      },
+      {
+        "prompt": "What does the student do before sharing?",
+        "choices": [
+          "Checks and improves the work.",
+          "Deletes all notes.",
+          "Buys a new phone."
+        ],
+        "answer": 0,
+        "why": "Перед презентацією перевіряє факти, написання й макет."
+      }
+    ],
+    "write": {
+      "prompt": "Сплануй невеликий проєкт: тема, три запитання, потрібні матеріали, джерела й спосіб перевірки.",
+      "starter": "My project is about… I want to find out… My sources are… I will check…"
+    }
+  }
+]

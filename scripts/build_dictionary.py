@@ -30,6 +30,8 @@ micro neganswer option path producefeedback produceinput qanswer radio replace
 runeing runing select skill span strip strong style text tolowercase
 button checked checking click display feedback language prompt
 sweeped google excel doesn don isn ed ing ie'''.split())
+EXCLUDE.update({'advices','clil','er','est','fin','ful','learning-tips','shoulding','waked','pair-work','clil-geography','clil-history','clil-music','clil-sport','culture-ukraine'})
+EXCLUDE.difference_update({'checked','label','legend','text'})
 EXCLUDE.discard('i')
 EXCLUDE.discard('washing-up')
 PROPER_NOUNS = set(json.loads((OUTPUT / 'proper-nouns.json').read_text(encoding='utf-8')))
@@ -53,7 +55,9 @@ class LessonText(HTMLParser):
         self.scripts: list[str] = []
 
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
-        if tag in {'script', 'style', 'nav', 'footer'}:
+        if tag in {'script', 'style', 'nav', 'footer'} or 'data-dictionary-skip' in dict(attrs):
+            self.suppressed.append(tag)
+        elif self.suppressed and tag not in {'img','br','hr','input','meta','link','source','wbr'}:
             self.suppressed.append(tag)
         if not self.suppressed and tag == 'img':
             self.visible.append(dict(attrs).get('alt') or '')

@@ -1,0 +1,1061 @@
+{
+  "sourceRoot": "/home/why/-teach/6-eng/sb-pages",
+  "entries": [
+    {
+      "source": "u1-thats me/1a/009_module_01_lesson_a_act_1.mp3",
+      "lesson": "sb-1a",
+      "file": "sb-1a/media/009_module_01_lesson_a_act_1.mp3",
+      "duration": 54.68,
+      "sha256": "6cc914801094a27747a0b9b9c2dd166d8c0e29ddf7269c9d118b474891d81b54",
+      "kind": "audio"
+    },
+    {
+      "source": "u1-thats me/1a/010_module_01_lesson_a_act_2.mp3",
+      "lesson": "sb-1a",
+      "file": "sb-1a/media/010_module_01_lesson_a_act_2.mp3",
+      "duration": 80.47,
+      "sha256": "fd0974f4909b29455392c458e98ef1328567fd62d0718dab799aa23eaa34aaf7",
+      "kind": "audio"
+    },
+    {
+      "source": "u1-thats me/1a/012_module_01_lesson_a_act_4b.mp3",
+      "lesson": "sb-1a",
+      "file": "sb-1a/media/012_module_01_lesson_a_act_4b.mp3",
+      "duration": 27.33,
+      "sha256": "9b63213a50c6085d2a6d6551a2ccb41f17dcdbebb283dee089d2424977d54bba",
+      "kind": "audio"
+    },
+    {
+      "source": "u1-thats me/1b/013_module_01_lesson_b_act_1.mp3",
+      "lesson": "sb-1b",
+      "file": "sb-1b/media/013_module_01_lesson_b_act_1.mp3",
+      "duration": 28.0,
+      "sha256": "9632a31821752c8af62875ef862f7d30a2127a744802a1969aba373da57c7110",
+      "kind": "audio"
+    },
+    {
+      "source": "u1-thats me/1b/014_module_01_lesson_b_act_2.mp3",
+      "lesson": "sb-1b",
+      "file": "sb-1b/media/014_module_01_lesson_b_act_2.mp3",
+      "duration": 75.41,
+      "sha256": "d0e07058a3fc7c32dd9f4386ea82820449f1cb1cd32bffb98f2b3de8b5c9ec9f",
+      "kind": "audio"
+    },
+    {
+      "source": "u1-thats me/1b/015_module_01_lesson_b_act_4.mp3",
+      "lesson": "sb-1b",
+      "file": "sb-1b/media/015_module_01_lesson_b_act_4.mp3",
+      "duration": 78.78,
+      "sha256": "255643cb5f037287fba9e75d4495908324dfe22ea58641e2b59218af92a67c65",
+      "kind": "audio"
+    },
+    {
+      "source": "u1-thats me/1c/016_module_01_lesson_c_act_1.mp3",
+      "lesson": "sb-1c",
+      "file": "sb-1c/media/016_module_01_lesson_c_act_1.mp3",
+      "duration": 46.44,
+      "sha256": "82e30c19396896264f4b79880335b3238c400afacba4031a15e78fa53a4517ec",
+      "kind": "audio"
+    },
+    {
+      "source": "u1-thats me/1c/017_module_01_lesson_c_act_2.mp3",
+      "lesson": "sb-1c",
+      "file": "sb-1c/media/017_module_01_lesson_c_act_2.mp3",
+      "duration": 82.67,
+      "sha256": "59f13bb54af4184e9ceca29b2d55c9c8d26b4d345222768ce9694b8e1a9cf08d",
+      "kind": "audio"
+    },
+    {
+      "source": "u1-thats me/1c/018_module_01_lesson_c_act_4.mp3",
+      "lesson": "sb-1c",
+      "file": "sb-1c/media/018_module_01_lesson_c_act_4.mp3",
+      "duration": 105.0,
+      "sha256": "f889425ccada6a358caa9e80578e1b081fdf765a621a39516b350017aa936909",
+      "kind": "audio"
+    },
+    {
+      "source": "u1-thats me/1c/fb-plus-6-ukr_module-1c.mp4",
+      "lesson": "sb-1c",
+      "file": "sb-1c/media/fb-plus-6-ukr_module-1c.mp4",
+      "duration": 71.56,
+      "sha256": "c24d84ffdc444a4699925467ea900d94d8dfc70f4481abd05c8ff4ba1a42c184",
+      "kind": "video"
+    },
+    {
+      "source": "u1-thats me/1d/019_module_01_lesson_d_act_1.mp3",
+      "lesson": "sb-1d",
+      "file": "sb-1d/media/019_module_01_lesson_d_act_1.mp3",
+      "duration": 43.4,
+      "sha256": "85077f0e315cd2acbe237268ba2feeed3910b6c002ff5b6cfe61f5092f4d7adf",
+      "kind": "audio"
+    },
+    {
+      "source": "u1-thats me/1d/020_module_01_lesson_d_act_2.mp3",
+      "lesson": "sb-1d",
+      "file": "sb-1d/media/020_module_01_lesson_d_act_2.mp3",
+      "duration": 139.6,
+      "sha256": "ac171f688bce0d156acf309e399d8a764c51bd101521c9f65bc6ba742510b2fb",
+      "kind": "audio"
+    },
+    {
+      "source": "u1-thats me/1d/021_module_01_lesson_d_act_4.mp3",
+      "lesson": "sb-1d",
+      "file": "sb-1d/media/021_module_01_lesson_d_act_4.mp3",
+      "duration": 88.73,
+      "sha256": "199ab455d3f9bc00c4b54d17029c28ce03f28f3b238c9d32090aba1dbfad3cfe",
+      "kind": "audio"
+    },
+    {
+      "source": "u1-thats me/1e/022_module_01_lesson_e_act_1.mp3",
+      "lesson": "sb-1e",
+      "file": "sb-1e/media/022_module_01_lesson_e_act_1.mp3",
+      "duration": 30.26,
+      "sha256": "13df81a568509325f0427d7c0d04069f410f28b77f1f3b02419e8dbd000f9972",
+      "kind": "audio"
+    },
+    {
+      "source": "u2-travelling/038_module_02_lesson_e_culture_page_1.mp3",
+      "lesson": "sb-culture-1",
+      "file": "sb-culture-1/media/038_module_02_lesson_e_culture_page_1.mp3",
+      "duration": 119.38,
+      "sha256": "718da9a71bcba7478eb70b5bc92598d5c074989cbd7b2aafcf5fb1a22c023117",
+      "kind": "audio"
+    },
+    {
+      "source": "u2-travelling/039_module_02_lesson_e_culture_page_1_song_1_me_and_my_board.mp3",
+      "lesson": "sb-song-1",
+      "file": "sb-song-1/media/039_module_02_lesson_e_culture_page_1_song_1_me_and_my_board.mp3",
+      "duration": 160.64,
+      "sha256": "a8c7a33549270e2be54b679bdf619fbc4d18aa637b61c010d672a93ec32db7fc",
+      "kind": "audio"
+    },
+    {
+      "source": "u2-travelling/2a/023_module_02_lesson_a_act_1.mp3",
+      "lesson": "sb-2a",
+      "file": "sb-2a/media/023_module_02_lesson_a_act_1.mp3",
+      "duration": 53.24,
+      "sha256": "b54de883290ea441efc926376d1198f9593f1c697dfcb29cd01c66229f8dbd18",
+      "kind": "audio"
+    },
+    {
+      "source": "u2-travelling/2a/024_module_02_lesson_a_act_2.mp3",
+      "lesson": "sb-2a",
+      "file": "sb-2a/media/024_module_02_lesson_a_act_2.mp3",
+      "duration": 87.84,
+      "sha256": "f26d4c7ef538042dd1f276b144325de0a03418c6b9ce7e770e57421867005492",
+      "kind": "audio"
+    },
+    {
+      "source": "u2-travelling/2a/025_module_02_lesson_a_act_4a.mp3",
+      "lesson": "sb-2a",
+      "file": "sb-2a/media/025_module_02_lesson_a_act_4a.mp3",
+      "duration": 23.52,
+      "sha256": "44ce4ed0b8814ef98ae90f19573504d94444a5bd91f19198c5399959bba3d83d",
+      "kind": "audio"
+    },
+    {
+      "source": "u2-travelling/2a/026_module_02_lesson_a_act_4b.mp3",
+      "lesson": "sb-2a",
+      "file": "sb-2a/media/026_module_02_lesson_a_act_4b.mp3",
+      "duration": 30.05,
+      "sha256": "5d0ae153870eb6cd67b804eefcd5d3d09a10b247013db2596aa64cea96f2dba3",
+      "kind": "audio"
+    },
+    {
+      "source": "u2-travelling/2a/fb-plus-6-ukr_module-2a.mp4",
+      "lesson": "sb-2a",
+      "file": "sb-2a/media/fb-plus-6-ukr_module-2a.mp4",
+      "duration": 74.93,
+      "sha256": "79aa971e25fc605d3522af61fc9fadc6741e292479607f6feab766541ca4c612",
+      "kind": "video"
+    },
+    {
+      "source": "u2-travelling/2b/027_module_02_lesson_b_act_1a.mp3",
+      "lesson": "sb-2b",
+      "file": "sb-2b/media/027_module_02_lesson_b_act_1a.mp3",
+      "duration": 42.21,
+      "sha256": "76921df799f5550dbf2a7dc1bcae0d68946943b017e3d5d1479527c4b623b66c",
+      "kind": "audio"
+    },
+    {
+      "source": "u2-travelling/2b/028_module_02_lesson_b_act_1b.mp3",
+      "lesson": "sb-2b",
+      "file": "sb-2b/media/028_module_02_lesson_b_act_1b.mp3",
+      "duration": 39.02,
+      "sha256": "a5bb9b0b6168b193952f87f34f2f1486097c5df50762734631cf309f68fd6e15",
+      "kind": "audio"
+    },
+    {
+      "source": "u2-travelling/2b/029_module_02_lesson_b_act_2.mp3",
+      "lesson": "sb-2b",
+      "file": "sb-2b/media/029_module_02_lesson_b_act_2.mp3",
+      "duration": 68.52,
+      "sha256": "a27852def8a690a97f8f78105de8d4f22edeba5096d46dd86b112dc48d24e1d8",
+      "kind": "audio"
+    },
+    {
+      "source": "u2-travelling/2c/030_module_02_lesson_c_act_1.mp3",
+      "lesson": "sb-2c",
+      "file": "sb-2c/media/030_module_02_lesson_c_act_1.mp3",
+      "duration": 59.07,
+      "sha256": "26534acc72cd53d425ce0b1da04da62f29951cf18ccb1951d74fba1e083ce77d",
+      "kind": "audio"
+    },
+    {
+      "source": "u2-travelling/2c/031_module_02_lesson_c_act_2.mp3",
+      "lesson": "sb-2c",
+      "file": "sb-2c/media/031_module_02_lesson_c_act_2.mp3",
+      "duration": 81.07,
+      "sha256": "a36320817e07b23560b7cf0fc72389e24f67f75c5a8a13f4e49a4a5992905cf4",
+      "kind": "audio"
+    },
+    {
+      "source": "u2-travelling/2c/032_module_02_lesson_c_act_4.mp3",
+      "lesson": "sb-2c",
+      "file": "sb-2c/media/032_module_02_lesson_c_act_4.mp3",
+      "duration": 70.65,
+      "sha256": "2adcea56d8081693c4516b293c966c30561bce97439bff164667f6d8a640d87e",
+      "kind": "audio"
+    },
+    {
+      "source": "u2-travelling/2d/033_module_02_lesson_d_act_1a.mp3",
+      "lesson": "sb-2d",
+      "file": "sb-2d/media/033_module_02_lesson_d_act_1a.mp3",
+      "duration": 136.57,
+      "sha256": "98055fb0f208a3c2b3a340ed4b311f6b9f8d36e3b345a62ff92d24264cb3b9d0",
+      "kind": "audio"
+    },
+    {
+      "source": "u2-travelling/2d/034_module_02_lesson_d_act_4a.mp3",
+      "lesson": "sb-2d",
+      "file": "sb-2d/media/034_module_02_lesson_d_act_4a.mp3",
+      "duration": 46.77,
+      "sha256": "97bb5224ba2e739422a004186b862dedd8a073719478b269be852df659a5e196",
+      "kind": "audio"
+    },
+    {
+      "source": "u2-travelling/2d/035_module_02_lesson_d_act_4b.mp3",
+      "lesson": "sb-2d",
+      "file": "sb-2d/media/035_module_02_lesson_d_act_4b.mp3",
+      "duration": 91.91,
+      "sha256": "5289be2541e2c27ea54ffab28766251a4a28e6e55903a083339efdab5464970d",
+      "kind": "audio"
+    },
+    {
+      "source": "u2-travelling/2e/036_module_02_lesson_e_act_1.mp3",
+      "lesson": "sb-2e",
+      "file": "sb-2e/media/036_module_02_lesson_e_act_1.mp3",
+      "duration": 38.18,
+      "sha256": "7ce679b0272cdd12dfe99743855fe85dd2a3258b1cbac4b4e75d3cf9ea33bc80",
+      "kind": "audio"
+    },
+    {
+      "source": "u2-travelling/2e/037_module_02_lesson_e_act_2.mp3",
+      "lesson": "sb-2e",
+      "file": "sb-2e/media/037_module_02_lesson_e_act_2.mp3",
+      "duration": 91.41,
+      "sha256": "93cbedce22a133ceb0427559b496794388dc9cdf329401b64b70020dc9b83b77",
+      "kind": "audio"
+    },
+    {
+      "source": "u3-adventure/3a/040_module_03_lesson_a_act_1.mp3",
+      "lesson": "sb-3a",
+      "file": "sb-3a/media/040_module_03_lesson_a_act_1.mp3",
+      "duration": 52.07,
+      "sha256": "ebab1aa8a160d5da21c878492c5dd23a7ee886527dabcb50d15b6ffa0461ae62",
+      "kind": "audio"
+    },
+    {
+      "source": "u3-adventure/3a/041_module_03_lesson_a_act_2.mp3",
+      "lesson": "sb-3a",
+      "file": "sb-3a/media/041_module_03_lesson_a_act_2.mp3",
+      "duration": 93.38,
+      "sha256": "6be6dd7eb8c4a8afbd952b2b45cf55b162146bd72406ba2967941b22fa6ef2f0",
+      "kind": "audio"
+    },
+    {
+      "source": "u3-adventure/3b/042_module_03_lesson_b_act_1.mp3",
+      "lesson": "sb-3b",
+      "file": "sb-3b/media/042_module_03_lesson_b_act_1.mp3",
+      "duration": 41.92,
+      "sha256": "0e53034a0332a9f8d08162e0d0ed50071f0368db3ab8bdb96b345e22fc87804d",
+      "kind": "audio"
+    },
+    {
+      "source": "u3-adventure/3b/043_module_03_lesson_b_act_2.mp3",
+      "lesson": "sb-3b",
+      "file": "sb-3b/media/043_module_03_lesson_b_act_2.mp3",
+      "duration": 115.57,
+      "sha256": "fb1d9510f31e48d4753d0b99824030172785ce3173f88d5267e8c97fd51e1052",
+      "kind": "audio"
+    },
+    {
+      "source": "u3-adventure/3b/044_module_03_lesson_b_act_4.mp3",
+      "lesson": "sb-3b",
+      "file": "sb-3b/media/044_module_03_lesson_b_act_4.mp3",
+      "duration": 102.25,
+      "sha256": "e5ca8965095ca797f35037d6477ed2f241285973ce2d33ae856638d40fbd4b60",
+      "kind": "audio"
+    },
+    {
+      "source": "u3-adventure/3c/045_module_03_lesson_c_act_1.mp3",
+      "lesson": "sb-3c",
+      "file": "sb-3c/media/045_module_03_lesson_c_act_1.mp3",
+      "duration": 24.85,
+      "sha256": "04f0d5d42ec28ed8fb9a3367fe555a3b49732c064a1b28b97499ce7fa4749954",
+      "kind": "audio"
+    },
+    {
+      "source": "u3-adventure/3c/046_module_03_lesson_c_act_2.mp3",
+      "lesson": "sb-3c",
+      "file": "sb-3c/media/046_module_03_lesson_c_act_2.mp3",
+      "duration": 92.44,
+      "sha256": "ad79cc1561265ce9e1c6b41ee5459d64349b219f423191f62093cb7dfeca199b",
+      "kind": "audio"
+    },
+    {
+      "source": "u3-adventure/3c/047_module_03_lesson_c_act_4a.mp3",
+      "lesson": "sb-3c",
+      "file": "sb-3c/media/047_module_03_lesson_c_act_4a.mp3",
+      "duration": 26.22,
+      "sha256": "6f673fdff086e71728badd9c1f29ffd911021bcd83b1cd61ae90108bb0921770",
+      "kind": "audio"
+    },
+    {
+      "source": "u3-adventure/3c/048_module_03_lesson_c_act_4b.mp3",
+      "lesson": "sb-3c",
+      "file": "sb-3c/media/048_module_03_lesson_c_act_4b.mp3",
+      "duration": 39.84,
+      "sha256": "e996fcd1334685d75a034d49b753541d8adee59dfa412fad3af3ed6b2ba00c20",
+      "kind": "audio"
+    },
+    {
+      "source": "u3-adventure/3c/049_module_03_lesson_c_act_5.mp3",
+      "lesson": "sb-3c",
+      "file": "sb-3c/media/049_module_03_lesson_c_act_5.mp3",
+      "duration": 89.57,
+      "sha256": "0d61c24a431808640e55e045ca313ca8f4b2935f576d6c6e4b7bb025c49a6ccf",
+      "kind": "audio"
+    },
+    {
+      "source": "u3-adventure/3c/fb-plus-6-ukr_module-3c.mp4",
+      "lesson": "sb-3c",
+      "file": "sb-3c/media/fb-plus-6-ukr_module-3c.mp4",
+      "duration": 79.39,
+      "sha256": "173655edbc52fb7ad62d26e20a811eccfd6be67fddf2a16e70ea84a3a4d54504",
+      "kind": "video"
+    },
+    {
+      "source": "u3-adventure/3d/050_module_03_lesson_d_act_1a.mp3",
+      "lesson": "sb-3d",
+      "file": "sb-3d/media/050_module_03_lesson_d_act_1a.mp3",
+      "duration": 27.61,
+      "sha256": "80f585454564340a96ce50d3daba1855f70747498ace27b99ecbc2867b07c0cc",
+      "kind": "audio"
+    },
+    {
+      "source": "u3-adventure/3d/051_module_03_lesson_d_act_1b.mp3",
+      "lesson": "sb-3d",
+      "file": "sb-3d/media/051_module_03_lesson_d_act_1b.mp3",
+      "duration": 17.3,
+      "sha256": "fbd0a9825899ae748944dcad89011146eb8991d89d93349e01c5a90c83338c3c",
+      "kind": "audio"
+    },
+    {
+      "source": "u3-adventure/3d/052_module_03_lesson_d_act_2.mp3",
+      "lesson": "sb-3d",
+      "file": "sb-3d/media/052_module_03_lesson_d_act_2.mp3",
+      "duration": 128.73,
+      "sha256": "c7d7315524faa3327c38a0a51278e57b91820c67015c16e366b32293759278ac",
+      "kind": "audio"
+    },
+    {
+      "source": "u3-adventure/3d/053_module_03_lesson_d_act_4.mp3",
+      "lesson": "sb-3d",
+      "file": "sb-3d/media/053_module_03_lesson_d_act_4.mp3",
+      "duration": 99.64,
+      "sha256": "a7d8944934fc77d9aa298a6f67ae46f14f8468ca53f1817a8faed31b2354e49b",
+      "kind": "audio"
+    },
+    {
+      "source": "u3-adventure/3e/054_module_03_lesson_e_act_1.mp3",
+      "lesson": "sb-3e",
+      "file": "sb-3e/media/054_module_03_lesson_e_act_1.mp3",
+      "duration": 35.01,
+      "sha256": "7636cc7d47f2595d7e070046e9005026361583f199356db10ab067aeecd98dbe",
+      "kind": "audio"
+    },
+    {
+      "source": "u3-adventure/3e/069_module_04_lesson_e_culture_page_2.mp3",
+      "lesson": "sb-culture-2",
+      "file": "sb-culture-2/media/069_module_04_lesson_e_culture_page_2.mp3",
+      "duration": 102.87,
+      "sha256": "d4322c7ca2aed1f8d8a6fc4a8d960c4fa1677356113943a89095f59c5bbee061",
+      "kind": "audio"
+    },
+    {
+      "source": "u4-places/070_module_04_lesson_e_culture_page_2_song_2_unlucky_day.mp3",
+      "lesson": "sb-song-2",
+      "file": "sb-song-2/media/070_module_04_lesson_e_culture_page_2_song_2_unlucky_day.mp3",
+      "duration": 149.97,
+      "sha256": "a4da0ec0b6f7df9f4f3bd7e121c7e22b0a10e8242497079a19dfb47ff50fcf24",
+      "kind": "audio"
+    },
+    {
+      "source": "u4-places/4a/055_module_04_lesson_a_act_1.mp3",
+      "lesson": "sb-4a",
+      "file": "sb-4a/media/055_module_04_lesson_a_act_1.mp3",
+      "duration": 69.93,
+      "sha256": "b5a01b64c1de8a043332d82c8b53ab81273399bf3b9b60d3ab4a10f5af918b63",
+      "kind": "audio"
+    },
+    {
+      "source": "u4-places/4a/056_module_04_lesson_a_act_2.mp3",
+      "lesson": "sb-4a",
+      "file": "sb-4a/media/056_module_04_lesson_a_act_2.mp3",
+      "duration": 98.41,
+      "sha256": "2541d72ad50ddeb385c8b938c9d9e8d3f019a3251be8fea9ad4ff73a4da4f5f0",
+      "kind": "audio"
+    },
+    {
+      "source": "u4-places/4a/057_module_04_lesson_a_act_4a.mp3",
+      "lesson": "sb-4a",
+      "file": "sb-4a/media/057_module_04_lesson_a_act_4a.mp3",
+      "duration": 18.82,
+      "sha256": "eec6161a7c9373032cfd5b940367aa11daffd9959962eb54a520532589cc69bc",
+      "kind": "audio"
+    },
+    {
+      "source": "u4-places/4a/058_module_04_lesson_a_act_4b.mp3",
+      "lesson": "sb-4a",
+      "file": "sb-4a/media/058_module_04_lesson_a_act_4b.mp3",
+      "duration": 26.52,
+      "sha256": "88f06a275e16235986bd15573200fe268cf33ba61cf10cf4cc5ae651218f583f",
+      "kind": "audio"
+    },
+    {
+      "source": "u4-places/4b/059_module_04_lesson_b_act_1.mp3",
+      "lesson": "sb-4b",
+      "file": "sb-4b/media/059_module_04_lesson_b_act_1.mp3",
+      "duration": 35.25,
+      "sha256": "d87f3fc9313e06866bdee66060fad3abf2a74f11ce1790ac0f5c500c94b156dc",
+      "kind": "audio"
+    },
+    {
+      "source": "u4-places/4b/060_module_04_lesson_b_act_2.mp3",
+      "lesson": "sb-4b",
+      "file": "sb-4b/media/060_module_04_lesson_b_act_2.mp3",
+      "duration": 91.76,
+      "sha256": "c5fea2c5f7189badeb143dc0ade1f62017c9063c6fb2fd32738b27641e7f93cb",
+      "kind": "audio"
+    },
+    {
+      "source": "u4-places/4b/061_module_04_lesson_b_act_4.mp3",
+      "lesson": "sb-4b",
+      "file": "sb-4b/media/061_module_04_lesson_b_act_4.mp3",
+      "duration": 82.5,
+      "sha256": "16883a91d0f98ad407a1e42385993d36461ecc421c3f51c6b2ac98e3093018a4",
+      "kind": "audio"
+    },
+    {
+      "source": "u4-places/4b/fb-plus-6-ukr_module-4b.mp4",
+      "lesson": "sb-4b",
+      "file": "sb-4b/media/fb-plus-6-ukr_module-4b.mp4",
+      "duration": 89.42,
+      "sha256": "9b6278fe9ddc6ca0a07d1ba17bbc89cf5bd396051da970cd19f520d406191a71",
+      "kind": "video"
+    },
+    {
+      "source": "u4-places/4c/062_module_04_lesson_c_act_1.mp3",
+      "lesson": "sb-4c",
+      "file": "sb-4c/media/062_module_04_lesson_c_act_1.mp3",
+      "duration": 38.53,
+      "sha256": "ac0079e0429182791d0ff7a70a9b403320fc0bf21174e0b357edf4ea7a7455c2",
+      "kind": "audio"
+    },
+    {
+      "source": "u4-places/4c/063_module_04_lesson_c_act_4.mp3",
+      "lesson": "sb-4c",
+      "file": "sb-4c/media/063_module_04_lesson_c_act_4.mp3",
+      "duration": 120.86,
+      "sha256": "12421e7e8c61f784ada26658a472386e57d644996dbaac98f92a08ff9949ea19",
+      "kind": "audio"
+    },
+    {
+      "source": "u4-places/4d/064_module_04_lesson_d_act_1.mp3",
+      "lesson": "sb-4d",
+      "file": "sb-4d/media/064_module_04_lesson_d_act_1.mp3",
+      "duration": 35.38,
+      "sha256": "c75dec4bb8a7bddc24adbf0d7f2d0273a58747048e97c19c38ad2df3bf35aef6",
+      "kind": "audio"
+    },
+    {
+      "source": "u4-places/4d/065_module_04_lesson_d_act_2.mp3",
+      "lesson": "sb-4d",
+      "file": "sb-4d/media/065_module_04_lesson_d_act_2.mp3",
+      "duration": 126.9,
+      "sha256": "386003c98fee8c335d21ebeaa35a8095650051c130d6240ebb43788bccdf52d6",
+      "kind": "audio"
+    },
+    {
+      "source": "u4-places/4d/066_module_04_lesson_d_act_3.mp3",
+      "lesson": "sb-4d",
+      "file": "sb-4d/media/066_module_04_lesson_d_act_3.mp3",
+      "duration": 39.01,
+      "sha256": "f7e115627205cc090b96a1ffd21ce5cf58db04c44397fff8a9b43a47e81887b2",
+      "kind": "audio"
+    },
+    {
+      "source": "u4-places/4e/067_module_04_lesson_e_act_1.mp3",
+      "lesson": "sb-4e",
+      "file": "sb-4e/media/067_module_04_lesson_e_act_1.mp3",
+      "duration": 50.35,
+      "sha256": "f55239043627847971995a7eecfad85b7910806ec8d01993d8fed937ce8bd355",
+      "kind": "audio"
+    },
+    {
+      "source": "u4-places/4e/068_module_04_lesson_e_act_2.mp3",
+      "lesson": "sb-4e",
+      "file": "sb-4e/media/068_module_04_lesson_e_act_2.mp3",
+      "duration": 102.48,
+      "sha256": "f4322070d4f4e7eaf6926a20ab4b3f451d67cbfc8902014e57175c258b591596",
+      "kind": "audio"
+    },
+    {
+      "source": "u5-modern world/030_culture_page_3_act_a.wav",
+      "lesson": "sb-culture-3",
+      "file": "sb-culture-3/media/030_culture_page_3_act_a.mp3",
+      "duration": 124.47,
+      "sha256": "401da60af6fe09d51e4f43de004439d3f4c2bea96fffbae0833ace361e0caf63",
+      "kind": "audio"
+    },
+    {
+      "source": "u5-modern world/5a/002_module_05_lesson_a_act_1.wav",
+      "lesson": "sb-5a",
+      "file": "sb-5a/media/002_module_05_lesson_a_act_1.mp3",
+      "duration": 54.32,
+      "sha256": "b69a2e211c0931ebba8f493ec9db85cf8c7dd59d6d40d69845146c5fcecea036",
+      "kind": "audio"
+    },
+    {
+      "source": "u5-modern world/5a/003_module_05_lesson_a_act_2.wav",
+      "lesson": "sb-5a",
+      "file": "sb-5a/media/003_module_05_lesson_a_act_2.mp3",
+      "duration": 106.64,
+      "sha256": "642b4962e3987365075c0470f80a4d950a443946b8943c5471cbf62eb118b0cc",
+      "kind": "audio"
+    },
+    {
+      "source": "u5-modern world/5a/004_module_05_lesson_a_act_4a.wav",
+      "lesson": "sb-5a",
+      "file": "sb-5a/media/004_module_05_lesson_a_act_4a.mp3",
+      "duration": 17.25,
+      "sha256": "d2df9f96b2e9cc8c74e565d8417ff1d0ec96eb3406b1798797cbacc135a170de",
+      "kind": "audio"
+    },
+    {
+      "source": "u5-modern world/5a/005_module_05_lesson_a_act_4b.wav",
+      "lesson": "sb-5a",
+      "file": "sb-5a/media/005_module_05_lesson_a_act_4b.mp3",
+      "duration": 26.91,
+      "sha256": "74bdb8aea4d26b2e5e8bef26774f0feabe9397c612357061cf0176bd28dea0dd",
+      "kind": "audio"
+    },
+    {
+      "source": "u5-modern world/5b/006_module_05_lesson_b_act_1.wav",
+      "lesson": "sb-5b",
+      "file": "sb-5b/media/006_module_05_lesson_b_act_1.mp3",
+      "duration": 28.0,
+      "sha256": "2b26ab3780a3a74722a23bec1d15c79ccdd503017272fb87ced16a6961e0cd0a",
+      "kind": "audio"
+    },
+    {
+      "source": "u5-modern world/5b/007_module_05_lesson_b_act_2a.wav",
+      "lesson": "sb-5b",
+      "file": "sb-5b/media/007_module_05_lesson_b_act_2a.mp3",
+      "duration": 102.35,
+      "sha256": "f97fcaa5df7aaf8fee2afa07f3a114407f44423fea9b717600f796e7a1abaaf6",
+      "kind": "audio"
+    },
+    {
+      "source": "u5-modern world/5b/008_module_05_lesson_b_act_4.wav",
+      "lesson": "sb-5b",
+      "file": "sb-5b/media/008_module_05_lesson_b_act_4.mp3",
+      "duration": 90.48,
+      "sha256": "4da234904edef99f81a00d41ab5a0b366701bf5deb21f8be9397befbbaf64779",
+      "kind": "audio"
+    },
+    {
+      "source": "u5-modern world/5c/009_module_05_lesson_c_act_1a.wav",
+      "lesson": "sb-5c",
+      "file": "sb-5c/media/009_module_05_lesson_c_act_1a.mp3",
+      "duration": 56.83,
+      "sha256": "51330453de8a8bf03e237a1134ce32df173bcd96563db16e2a58e6d84fd32235",
+      "kind": "audio"
+    },
+    {
+      "source": "u5-modern world/5c/010_module_05_lesson_c_act_1b.wav",
+      "lesson": "sb-5c",
+      "file": "sb-5c/media/010_module_05_lesson_c_act_1b.mp3",
+      "duration": 28.11,
+      "sha256": "bf5b1f66f02b43b1c2aadd6e2e48107dd380600cbaeb8ff4a999df669cdbfe2d",
+      "kind": "audio"
+    },
+    {
+      "source": "u5-modern world/5c/011_module_05_lesson_c_act_2.wav",
+      "lesson": "sb-5c",
+      "file": "sb-5c/media/011_module_05_lesson_c_act_2.mp3",
+      "duration": 88.83,
+      "sha256": "4db21ba29b639d92ca9bc6e10ab026586ef4b5376c20fba6495a4cd9bedab693",
+      "kind": "audio"
+    },
+    {
+      "source": "u5-modern world/5c/fb-plus-6-ukr_module-5c.mp4",
+      "lesson": "sb-5c",
+      "file": "sb-5c/media/fb-plus-6-ukr_module-5c.mp4",
+      "duration": 73.38,
+      "sha256": "c99488748a74a3634da1c1bdab6b1d331d8c0205dbca5c2577ee99ba909379e4",
+      "kind": "video"
+    },
+    {
+      "source": "u5-modern world/5d/012_module_05_lesson_d_act_1.wav",
+      "lesson": "sb-5d",
+      "file": "sb-5d/media/012_module_05_lesson_d_act_1.mp3",
+      "duration": 41.17,
+      "sha256": "1077c3afd1c2dd9472ec2f0cc1e3d44720d50f522e0c37a4ece558e94ab2bd31",
+      "kind": "audio"
+    },
+    {
+      "source": "u5-modern world/5d/013_module_05_lesson_d_act_2.wav",
+      "lesson": "sb-5d",
+      "file": "sb-5d/media/013_module_05_lesson_d_act_2.mp3",
+      "duration": 147.43,
+      "sha256": "127f9ed5d341370fa6468a1cfad738ac1c99a2709fad44c2c547925717e37b8d",
+      "kind": "audio"
+    },
+    {
+      "source": "u5-modern world/5d/014_module_05_lesson_d_act_4.wav",
+      "lesson": "sb-5d",
+      "file": "sb-5d/media/014_module_05_lesson_d_act_4.mp3",
+      "duration": 101.15,
+      "sha256": "16cc7e333519a17986399b2230758731c52ae1c98a38df5031946124c60a9eb1",
+      "kind": "audio"
+    },
+    {
+      "source": "u5-modern world/5e/015_module_05_lesson_e_act_2a.wav",
+      "lesson": "sb-5e",
+      "file": "sb-5e/media/015_module_05_lesson_e_act_2a.mp3",
+      "duration": 61.23,
+      "sha256": "e24ce407cc3de47d914043f497f577a9c68d2b3b634545123032f7034a0274d0",
+      "kind": "audio"
+    },
+    {
+      "source": "u5-modern world/5e/016_module_05_lesson_e_act_2b.wav",
+      "lesson": "sb-5e",
+      "file": "sb-5e/media/016_module_05_lesson_e_act_2b.mp3",
+      "duration": 95.43,
+      "sha256": "e8eb77a03e99cf092ca614c65c4ac1a2bb5970fb7d4287bd51f38b5310697e6f",
+      "kind": "audio"
+    },
+    {
+      "source": "u6-healthy life/031_song_3_where_did_it_all_go_wrong.wav",
+      "lesson": "sb-song-3",
+      "file": "sb-song-3/media/031_song_3_where_did_it_all_go_wrong.mp3",
+      "duration": 115.64,
+      "sha256": "5b765c7175397f6164e33c51f64a009ecef3bdea08d0e19c1f5e1084806949fe",
+      "kind": "audio"
+    },
+    {
+      "source": "u6-healthy life/6a/017_module_06_lesson_a_act_1a.wav",
+      "lesson": "sb-6a",
+      "file": "sb-6a/media/017_module_06_lesson_a_act_1a.mp3",
+      "duration": 134.92,
+      "sha256": "c5c9409af7348a77824a0776e9f88f580f746b3f792749c5ae0482fb0f132dd5",
+      "kind": "audio"
+    },
+    {
+      "source": "u6-healthy life/6a/018_module_06_lesson_a_act_3.wav",
+      "lesson": "sb-6a",
+      "file": "sb-6a/media/018_module_06_lesson_a_act_3.mp3",
+      "duration": 118.83,
+      "sha256": "0cc86943d3f10da38b1c00b09cd938c8874575c4392aed00f1696c5b12bce56d",
+      "kind": "audio"
+    },
+    {
+      "source": "u6-healthy life/6b/019_module_06_lesson_b_act_1.wav",
+      "lesson": "sb-6b",
+      "file": "sb-6b/media/019_module_06_lesson_b_act_1.mp3",
+      "duration": 42.13,
+      "sha256": "5ab9d87053bddcc050735537bb54ba974c314c8a6bd774eda9078ac3436be10d",
+      "kind": "audio"
+    },
+    {
+      "source": "u6-healthy life/6b/020_module_06_lesson_b_act_2a.wav",
+      "lesson": "sb-6b",
+      "file": "sb-6b/media/020_module_06_lesson_b_act_2a.mp3",
+      "duration": 119.87,
+      "sha256": "87925f73f2a9a29d97f80d97a5d68d0b1c5e14be7e9ff28ed310e5c7c5d227bb",
+      "kind": "audio"
+    },
+    {
+      "source": "u6-healthy life/6b/021_module_06_lesson_b_act_4.wav",
+      "lesson": "sb-6b",
+      "file": "sb-6b/media/021_module_06_lesson_b_act_4.mp3",
+      "duration": 97.0,
+      "sha256": "8c60dc94d7da0d9521ed36574ec614c3f3a86396317cad9b9081b694d1ce3f74",
+      "kind": "audio"
+    },
+    {
+      "source": "u6-healthy life/6c/022_module_06_lesson_c_act_1.wav",
+      "lesson": "sb-6c",
+      "file": "sb-6c/media/022_module_06_lesson_c_act_1.mp3",
+      "duration": 31.88,
+      "sha256": "99c64c79f7e925e6579477ce9194314e863b02d793ce405b60639bfe6f004e7e",
+      "kind": "audio"
+    },
+    {
+      "source": "u6-healthy life/6c/023_module_06_lesson_c_act_2a.wav",
+      "lesson": "sb-6c",
+      "file": "sb-6c/media/023_module_06_lesson_c_act_2a.mp3",
+      "duration": 105.19,
+      "sha256": "896a07e6cdc1500799febbc8cde9de41b588707591976eed1347d7a419f9aec8",
+      "kind": "audio"
+    },
+    {
+      "source": "u6-healthy life/6d/024_module_06_lesson_d_act_1.wav",
+      "lesson": "sb-6d",
+      "file": "sb-6d/media/024_module_06_lesson_d_act_1.mp3",
+      "duration": 43.37,
+      "sha256": "878a7096c2191e159b5b230d98ab18613a7feec485d23a615307bc72e5d625f5",
+      "kind": "audio"
+    },
+    {
+      "source": "u6-healthy life/6d/025_module_06_lesson_d_act_2a.wav",
+      "lesson": "sb-6d",
+      "file": "sb-6d/media/025_module_06_lesson_d_act_2a.mp3",
+      "duration": 123.79,
+      "sha256": "335e55e429542b258ef736d3b482da331fef74a15932a8b0c774286337f59f6a",
+      "kind": "audio"
+    },
+    {
+      "source": "u6-healthy life/6d/026_module_06_lesson_d_act_3.wav",
+      "lesson": "sb-6d",
+      "file": "sb-6d/media/026_module_06_lesson_d_act_3.mp3",
+      "duration": 116.55,
+      "sha256": "50b28f27c2769f9fd4c5187216013f5e3628b8df2309c634339765755113afc6",
+      "kind": "audio"
+    },
+    {
+      "source": "u6-healthy life/6e/027_module_06_lesson_e_act_1a.wav",
+      "lesson": "sb-6e",
+      "file": "sb-6e/media/027_module_06_lesson_e_act_1a.mp3",
+      "duration": 53.8,
+      "sha256": "d8ce551ff4216f90483d400227868271ee9682c265c12f1663348b89bd3befaa",
+      "kind": "audio"
+    },
+    {
+      "source": "u6-healthy life/6e/028_module_06_lesson_e_act_1b.wav",
+      "lesson": "sb-6e",
+      "file": "sb-6e/media/028_module_06_lesson_e_act_1b.mp3",
+      "duration": 44.17,
+      "sha256": "3af67c4e86c69a93f4d648f0c24b5316b8488c7c08048f0438a60035ead9a732",
+      "kind": "audio"
+    },
+    {
+      "source": "u6-healthy life/6e/029_module_06_lesson_e_act_2.wav",
+      "lesson": "sb-6e",
+      "file": "sb-6e/media/029_module_06_lesson_e_act_2.mp3",
+      "duration": 102.29,
+      "sha256": "2db7cd0151484c75d52dbd1f80a8949fbc453a63523c6ff340be33520265db25",
+      "kind": "audio"
+    },
+    {
+      "source": "u6-healthy life/fb-plus-6-ukr_module-6b.mp4",
+      "lesson": "sb-6b",
+      "file": "sb-6b/media/fb-plus-6-ukr_module-6b.mp4",
+      "duration": 109.18,
+      "sha256": "d547e0f8403f99ed58c1b825d8455c11b111c1e9c6baeec4bcc56c74a97e0af0",
+      "kind": "video"
+    },
+    {
+      "source": "u7-teen life/032_module_07_lesson_a_act_1.wav",
+      "lesson": "sb-7a",
+      "file": "sb-7a/media/032_module_07_lesson_a_act_1.mp3",
+      "duration": 50.19,
+      "sha256": "7f08de47a5157465a97071b85fb67fcb3a233d0e301eab9cc599bf578f17b770",
+      "kind": "audio"
+    },
+    {
+      "source": "u7-teen life/033_module_07_lesson_a_act_2a.wav",
+      "lesson": "sb-7a",
+      "file": "sb-7a/media/033_module_07_lesson_a_act_2a.mp3",
+      "duration": 123.38,
+      "sha256": "74ce1d5b3f34484f52335731282c2c99ef53bbc8a8adec5ffab1c04b299b8506",
+      "kind": "audio"
+    },
+    {
+      "source": "u7-teen life/034_module_07_lesson_b_act_1.wav",
+      "lesson": "sb-7b",
+      "file": "sb-7b/media/034_module_07_lesson_b_act_1.mp3",
+      "duration": 39.69,
+      "sha256": "225656d06c56ba97fae5480b98807898aaf3592b5418f75c590322bf6350ccdf",
+      "kind": "audio"
+    },
+    {
+      "source": "u7-teen life/035_module_07_lesson_b_act_2a.wav",
+      "lesson": "sb-7b",
+      "file": "sb-7b/media/035_module_07_lesson_b_act_2a.mp3",
+      "duration": 152.21,
+      "sha256": "37072ffa947a39ce57f001d1fab332e6e18e9db7310804936822e6af97975d0a",
+      "kind": "audio"
+    },
+    {
+      "source": "u7-teen life/036_module_07_lesson_b_act_4.wav",
+      "lesson": "sb-7b",
+      "file": "sb-7b/media/036_module_07_lesson_b_act_4.mp3",
+      "duration": 112.68,
+      "sha256": "00011ca09032e77f0e34f5701cdbd602f9fc903054d75579263820967dd76e81",
+      "kind": "audio"
+    },
+    {
+      "source": "u7-teen life/037_module_07_lesson_c_act_1b.wav",
+      "lesson": "sb-7c",
+      "file": "sb-7c/media/037_module_07_lesson_c_act_1b.mp3",
+      "duration": 159.18,
+      "sha256": "22287fab11e02a9f4334b273932c6f6cbfcb7e418ca89e29285b266cac3f11f2",
+      "kind": "audio"
+    },
+    {
+      "source": "u7-teen life/038_module_07_lesson_c_act_4a.wav",
+      "lesson": "sb-7c",
+      "file": "sb-7c/media/038_module_07_lesson_c_act_4a.mp3",
+      "duration": 19.32,
+      "sha256": "ecec257d00d7e38abb3da4dd71a99df929c55636158ae9849b6e8e6231f276aa",
+      "kind": "audio"
+    },
+    {
+      "source": "u7-teen life/039_module_07_lesson_c_act_4b.wav",
+      "lesson": "sb-7c",
+      "file": "sb-7c/media/039_module_07_lesson_c_act_4b.mp3",
+      "duration": 28.06,
+      "sha256": "46db912cef9c8c4618ac6c596dafd89d62c2d409b2495bc11b98a080cfed5f23",
+      "kind": "audio"
+    },
+    {
+      "source": "u7-teen life/040_module_07_lesson_c_act_5b.wav",
+      "lesson": "sb-7c",
+      "file": "sb-7c/media/040_module_07_lesson_c_act_5b.mp3",
+      "duration": 46.88,
+      "sha256": "33829510617be7866dc01682197c604f83e2183524b9c4d30c50dcbaa9ad1fc5",
+      "kind": "audio"
+    },
+    {
+      "source": "u7-teen life/041_module_07_lesson_d_act_1a.wav",
+      "lesson": "sb-7d",
+      "file": "sb-7d/media/041_module_07_lesson_d_act_1a.mp3",
+      "duration": 58.96,
+      "sha256": "25f570ca7637284eed3b8bcd9e25f85f51c6b4b629a3d2cc9825ab0b1a1c7f8d",
+      "kind": "audio"
+    },
+    {
+      "source": "u7-teen life/042_module_07_lesson_d_act_1b.wav",
+      "lesson": "sb-7d",
+      "file": "sb-7d/media/042_module_07_lesson_d_act_1b.mp3",
+      "duration": 43.6,
+      "sha256": "a41234d35b83e1c672f95d365ef367f6beed40409f5960d16f83bdf447af731b",
+      "kind": "audio"
+    },
+    {
+      "source": "u7-teen life/043_module_07_lesson_d_act_2a.wav",
+      "lesson": "sb-7d",
+      "file": "sb-7d/media/043_module_07_lesson_d_act_2a.mp3",
+      "duration": 132.88,
+      "sha256": "995533c7bcf88d5969dd579a40c74f75d4b34e330794b11b227060deab91b235",
+      "kind": "audio"
+    },
+    {
+      "source": "u7-teen life/044_module_07_lesson_e_act_1a.wav",
+      "lesson": "sb-7e",
+      "file": "sb-7e/media/044_module_07_lesson_e_act_1a.mp3",
+      "duration": 71.22,
+      "sha256": "7d9d41d107e10623c0def4e4f75de4d5e271cafd173be02ab7cc165fe9891a80",
+      "kind": "audio"
+    },
+    {
+      "source": "u7-teen life/056_culture_page_4.wav",
+      "lesson": "sb-culture-4",
+      "file": "sb-culture-4/media/056_culture_page_4.mp3",
+      "duration": 143.55,
+      "sha256": "f1072e639eb47a1005fb11e97a075c086d47896eb72bcbb16e79ab06fc742a83",
+      "kind": "audio"
+    },
+    {
+      "source": "u7-teen life/7a/fb-plus-6-ukr_module-7a.mp4",
+      "lesson": "sb-7a",
+      "file": "sb-7a/media/fb-plus-6-ukr_module-7a.mp4",
+      "duration": 108.33,
+      "sha256": "5890e67749d53eb141501a7aea5af22a06ef82c5c5802f152a62dcd35429b574",
+      "kind": "video"
+    },
+    {
+      "source": "u8-fame/057_song_4_superstar.wav",
+      "lesson": "sb-song-4",
+      "file": "sb-song-4/media/057_song_4_superstar.mp3",
+      "duration": 197.41,
+      "sha256": "6245411cb26552b8e22f5f651d189709981dff3d0bf0b7125494acf519398da0",
+      "kind": "audio"
+    },
+    {
+      "source": "u8-fame/8a/045_module_08_lesson_a_act_1a.wav",
+      "lesson": "sb-8a",
+      "file": "sb-8a/media/045_module_08_lesson_a_act_1a.mp3",
+      "duration": 142.04,
+      "sha256": "b5d82fe2d5884d01437e36b77b713ed0c0d92c4fc7afa0beebe7f8b00783cbe8",
+      "kind": "audio"
+    },
+    {
+      "source": "u8-fame/8a/046_module_08_lesson_a_act_4.wav",
+      "lesson": "sb-8a",
+      "file": "sb-8a/media/046_module_08_lesson_a_act_4.mp3",
+      "duration": 110.3,
+      "sha256": "133812b55180aff7fce6a43d9da10c0278f44dabcc4c6ca504d8b97e0e1d00e9",
+      "kind": "audio"
+    },
+    {
+      "source": "u8-fame/8b/047_module_08_lesson_b_act_1.wav",
+      "lesson": "sb-8b",
+      "file": "sb-8b/media/047_module_08_lesson_b_act_1.mp3",
+      "duration": 55.9,
+      "sha256": "ef7fb2fcebc51226b98fb0aa61094f0b4b552bfbbaabeeed222eb86d6e4284f7",
+      "kind": "audio"
+    },
+    {
+      "source": "u8-fame/8b/048_module_08_lesson_b_act_2.wav",
+      "lesson": "sb-8b",
+      "file": "sb-8b/media/048_module_08_lesson_b_act_2.mp3",
+      "duration": 91.71,
+      "sha256": "29d8850fc1e7041bb5d1114dbc5138b101e08f115296f08cac2bfc04bc4da14e",
+      "kind": "audio"
+    },
+    {
+      "source": "u8-fame/8b/049_module_08_lesson_b_act_4.wav",
+      "lesson": "sb-8b",
+      "file": "sb-8b/media/049_module_08_lesson_b_act_4.mp3",
+      "duration": 106.18,
+      "sha256": "caa5520e18211d628a303543f6cc7fbb4edab81f7333da6aba418d1bd3bd5e4b",
+      "kind": "audio"
+    },
+    {
+      "source": "u8-fame/8b/fb-plus-6-ukr_module-8b.mp4",
+      "lesson": "sb-8b",
+      "file": "sb-8b/media/fb-plus-6-ukr_module-8b.mp4",
+      "duration": 83.08,
+      "sha256": "342eb97a9a509063820ed2273dea45f4dc40b211bdbd5ae8b5f3d013ce15a7cb",
+      "kind": "video"
+    },
+    {
+      "source": "u8-fame/8c/050_module_08_lesson_c_act_1.wav",
+      "lesson": "sb-8c",
+      "file": "sb-8c/media/050_module_08_lesson_c_act_1.mp3",
+      "duration": 85.94,
+      "sha256": "3633fb59836fe82c54d95aad3569f7ab90627470f81568edda5a826be520c28a",
+      "kind": "audio"
+    },
+    {
+      "source": "u8-fame/8c/051_module_08_lesson_c_act_4.wav",
+      "lesson": "sb-8c",
+      "file": "sb-8c/media/051_module_08_lesson_c_act_4.mp3",
+      "duration": 94.23,
+      "sha256": "f63e5a2bf9d90da3c9b2770a82b793736e740ef77243387430319d7b1fdc18a7",
+      "kind": "audio"
+    },
+    {
+      "source": "u8-fame/8d/052_module_08_lesson_d_act_1.wav",
+      "lesson": "sb-8d",
+      "file": "sb-8d/media/052_module_08_lesson_d_act_1.mp3",
+      "duration": 149.64,
+      "sha256": "59adac5ed4fbb5c6025fa0973cd39eec0ed4103f4d49e39eed96f709d436bd76",
+      "kind": "audio"
+    },
+    {
+      "source": "u8-fame/8d/053_module_08_lesson_d_act_3a.wav",
+      "lesson": "sb-8d",
+      "file": "sb-8d/media/053_module_08_lesson_d_act_3a.mp3",
+      "duration": 11.57,
+      "sha256": "ed891a8ea17a31297ee968e2320ce0d3516fd558812674417598baa35ff6380a",
+      "kind": "audio"
+    },
+    {
+      "source": "u8-fame/8d/054_module_08_lesson_d_act_3b.wav",
+      "lesson": "sb-8d",
+      "file": "sb-8d/media/054_module_08_lesson_d_act_3b.mp3",
+      "duration": 34.76,
+      "sha256": "1e643586ae43328fa0b000d24fba05ed304e2e55143846276ce68e4a77cb4b85",
+      "kind": "audio"
+    },
+    {
+      "source": "u8-fame/8e/055_module_08_lesson_e_act_1.wav",
+      "lesson": "sb-8e",
+      "file": "sb-8e/media/055_module_08_lesson_e_act_1.mp3",
+      "duration": 66.32,
+      "sha256": "22e398011d78c7df131ab84add03c7e05e44d703e35173dd5fd6dd327d7dd3b3",
+      "kind": "audio"
+    },
+    {
+      "source": "u9-rest/2 - culture page Ukraine/002_culture_page_for_ukraine_1.wav",
+      "lesson": "sb-culture-ukraine-1",
+      "file": "sb-culture-ukraine-1/media/002_culture_page_for_ukraine_1.mp3",
+      "duration": 165.26,
+      "sha256": "cd810c496b2e6777a99cbd4c0461deef83e2eb88d265981436b66daa9428004f",
+      "kind": "audio"
+    },
+    {
+      "source": "u9-rest/2 - culture page Ukraine/003_culture_page_for_ukraine_2.wav",
+      "lesson": "sb-culture-ukraine-2",
+      "file": "sb-culture-ukraine-2/media/003_culture_page_for_ukraine_2.mp3",
+      "duration": 151.17,
+      "sha256": "33428c2760fb71a6c433ecc9ad47366c570b9599d683800703d8a6142cc40cf0",
+      "kind": "audio"
+    },
+    {
+      "source": "u9-rest/3 - clil/004_clil_1.wav",
+      "lesson": "sb-clil-history",
+      "file": "sb-clil-history/media/004_clil_1.mp3",
+      "duration": 162.59,
+      "sha256": "5183a6785b13785cd4d7833f3c696919ef1c857759608b11da2aa1c6ee331161",
+      "kind": "audio"
+    },
+    {
+      "source": "u9-rest/3 - clil/005_clil_2_act_a.wav",
+      "lesson": "sb-clil-geography",
+      "file": "sb-clil-geography/media/005_clil_2_act_a.mp3",
+      "duration": 126.66,
+      "sha256": "1a214c28633c98a3e5746d45e4c91395372aa25e2839a5e5b3a0bbdc3ef4c1b5",
+      "kind": "audio"
+    },
+    {
+      "source": "u9-rest/3 - clil/006_clil_3.wav",
+      "lesson": "sb-clil-sport",
+      "file": "sb-clil-sport/media/006_clil_3.mp3",
+      "duration": 114.8,
+      "sha256": "24f067a55060d925e6f6a8cde964e8c64274b65d87c64cc358e1bd820c7f22b5",
+      "kind": "audio"
+    },
+    {
+      "source": "u9-rest/3 - clil/007_clil_4_act_a.wav",
+      "lesson": "sb-clil-music",
+      "file": "sb-clil-music/media/007_clil_4_act_a.mp3",
+      "duration": 48.28,
+      "sha256": "da6d8020d452db649fc18e7a89d0ac9b2282d9f986b76b37429824a0021cce53",
+      "kind": "audio"
+    },
+    {
+      "source": "u9-rest/3 - clil/008_clil_4_act_c.wav",
+      "lesson": "sb-clil-music",
+      "file": "sb-clil-music/media/008_clil_4_act_c.mp3",
+      "duration": 63.97,
+      "sha256": "77db2e7e172215d31a0f9b6d7e331934ffd2e1fd924e9f70b885e9f0767797d1",
+      "kind": "audio"
+    }
+  ]
+}

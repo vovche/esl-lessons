@@ -7,7 +7,7 @@
   const indexUrl = new URL('word-index.json', dictionaryUrl);
   const dataUrl = new URL('words.json', dictionaryUrl);
   const wordPattern = /[A-Za-z]+(?:['’][A-Za-z]+)?(?:-[A-Za-z]+)*/g;
-  const skip = 'a, button, nav, footer, script, style, noscript, textarea, select, option, code, pre, svg, [contenteditable], .ld-dialog, .feedback, .result, .saved';
+  const skip = 'a, button, nav, footer, script, style, noscript, textarea, select, option, code, pre, svg, [contenteditable], [data-dictionary-skip], .ld-dialog, .feedback, .result, .saved';
   const voiceLabels = {
     'gb-female': '🇬🇧 Жіночий',
     'gb-male': '🇬🇧 Чоловічий',

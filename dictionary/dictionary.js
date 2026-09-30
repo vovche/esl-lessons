@@ -50,6 +50,8 @@
   more.addEventListener('click', appendBatch);
   const params = new URLSearchParams(location.search);
   search.value = params.get('q') || '';
+  const requestedGrade = (params.get('grade') || '').replace(/\/$/, '') + '/';
+  if ([...grade.options].some(option => option.value === requestedGrade)) grade.value = requestedGrade;
   fetch('words.json').then(response => { if (!response.ok) throw new Error(response.status); return response.json(); }).then(data => {
     entries = data.entries;
     document.getElementById('totalWords').textContent = `${entries.length} слів`;

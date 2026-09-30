@@ -4,6 +4,8 @@
 
 ## 6 клас
 
+- [Курс за підручником](6/) — 8 юнітів, 40 основних уроків, вступ, культурні сторінки, пісні, повторення, CLIL і довідники. Українські пояснення, інтерактивні вправи, власні відповіді та 132 оригінальні аудіо- й відеозаписи.
+
 - [Jolly Phonics: 42 звуки](6/jolly-phonics/) — мобільний тренажер з чотирма наборами локального аудіо, історією проходжень, CSV-звітом, офлайн-кешем і встановленням як PWA.
 
 ## 7 клас
@@ -29,6 +31,7 @@
 
 ```bash
 python3 tests/check_navigation.py
+python3 tests/check_grade6.py
 python3 scripts/build_dictionary.py --check
 python3 tests/check_jolly_phonics.py
 python3 tests/check_future_forms_v2.py
@@ -37,3 +40,5 @@ python3 tests/check_future_forms_v2.py
 Інструкція із заміни карток, зображень, аудіо та безпечного оновлення кешу: [6/jolly-phonics/UPDATING.md](6/jolly-phonics/UPDATING.md).
 
 Навігація сайту має три рівні: `/` → `/<клас>/` → `/<клас>/<матеріал>/`. Правила для нових матеріалів зафіксовані в [AGENTS.md](AGENTS.md) і перевіряються автоматично перед деплоєм.
+
+Дані курсу 6 класу: `6/lessons.json`. Збірка: `python3 scripts/build_grade6.py`. Імпорт локальних записів: `python3 scripts/import_grade6_media.py --source /home/why/-teach/6-eng/sb-pages`; відповідність файлів і контрольні суми зберігаються в `6/media-manifest.json`.
