@@ -29,9 +29,20 @@ classlist div document err fieldset getelementbyid goodnote id input label legen
 micro neganswer option path producefeedback produceinput qanswer radio replace
 runeing runing select skill span strip strong style text tolowercase
 button checked checking click display feedback language prompt
-sweeped google excel'''.split())
+sweeped google excel doesn don isn ed ing ie'''.split())
 EXCLUDE.discard('i')
 EXCLUDE.discard('washing-up')
+PROPER_NOUNS = set(json.loads((OUTPUT / 'proper-nouns.json').read_text(encoding='utf-8')))
+
+
+def translations() -> dict[str, list[str]]:
+    data = json.loads((OUTPUT / 'translations-uk.json').read_text(encoding='utf-8'))
+    for word, meanings in data.items():
+        if (normalise(word) != word or not isinstance(meanings, list) or not meanings
+                or any(not isinstance(value, str) or not value.strip() for value in meanings)
+                or len(meanings) != len(set(meanings))):
+            raise ValueError(f'Invalid Ukrainian translations: {word}')
+    return data
 
 
 class LessonText(HTMLParser):
@@ -110,7 +121,7 @@ def normalise(word: str) -> str:
 
 
 def useful(word: str) -> bool:
-    return (word not in EXCLUDE and (len(word) > 1 or word in {'a', 'i'})
+    return (word not in EXCLUDE and word not in PROPER_NOUNS and (len(word) > 1 or word in {'a', 'i'})
             and not any(c.isdigit() for c in word) and not word.startswith('-'))
 
 
@@ -288,6 +299,10 @@ def build(with_audio: bool) -> None:
     if with_audio and existing.get('audioSource', '').startswith('Edge TTS'):
         raise SystemExit('Neural audio exists: use --no-audio, then scripts/generate_dictionary_neural_audio.py')
     locations = inventory()
+    meanings = translations()
+    missing = sorted(set(locations) - set(meanings))
+    if missing:
+        raise SystemExit(f'Add Ukrainian translations to dictionary/translations-uk.json: {missing}')
     engine = Espeak()
     entries = []
     for word in sorted(locations):
@@ -299,6 +314,7 @@ def build(with_audio: bool) -> None:
             raise RuntimeError(f'No IPA for {word}')
         entries.append({
             'word': word,
+            'translationsUk': meanings[word],
             'ipa': {'gb': f'/{gb}/', 'us': f'/{us}/'},
             'ukPhonetic': {'gb': ukrainian_hint(gb), 'us': ukrainian_hint(us)},
             'phonics': phonics_hint(word, gb),
@@ -312,6 +328,12 @@ def build(with_audio: bool) -> None:
     OUTPUT.mkdir(exist_ok=True)
     (OUTPUT / 'words.json').write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     (OUTPUT / 'word-index.json').write_text(json.dumps([entry['word'] for entry in entries], ensure_ascii=False) + '\n', encoding='utf-8')
+    manifest_path = OUTPUT / 'audio-manifest.json'
+    if manifest_path.exists():
+        manifest = json.loads(manifest_path.read_text(encoding='utf-8'))
+        paths = {path for entry in entries for path in entry['audio'].values()}
+        manifest['sha256'] = {path: digest for path, digest in manifest['sha256'].items() if path in paths}
+        manifest_path.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     print(f'{len(entries)} dictionary words', flush=True)
     if not with_audio:
         return
@@ -339,6 +361,7 @@ def build(with_audio: bool) -> None:
 def check() -> None:
     data = json.loads((OUTPUT / 'words.json').read_text(encoding='utf-8'))
     current = inventory()
+    meanings = translations()
     entries = data['entries']
     index_path = OUTPUT / 'word-index.json'
     manifest_path = OUTPUT / 'audio-manifest.json'
@@ -360,6 +383,8 @@ def check() -> None:
         errors.append(f'inventory mismatch: missing={missing[:20]} stale={stale[:20]}')
     for entry in entries:
         word = entry['word']
+        if not meanings.get(word) or entry.get('translationsUk') != meanings[word]:
+            errors.append(f'missing or outdated Ukrainian translations: {word}')
         if not all(entry['ipa'].get(a) and entry['ukPhonetic'].get(a) for a in ('gb', 'us')):
             errors.append(f'missing phonetics: {word}')
         if not entry['phonics']:

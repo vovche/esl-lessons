@@ -46,8 +46,8 @@
     link.href = dictionaryLink(word);
     link.dataset.dictionaryWord = normalize(word);
     link.textContent = word;
-    link.setAttribute('aria-label', `${word}: відкрити словникову картку з вимовою`);
-    link.title = 'Відкрити словник і послухати слово';
+    link.setAttribute('aria-label', `${word}: відкрити словникову картку з перекладом і вимовою`);
+    link.title = 'Переглянути переклад і послухати слово';
     return link;
   }
 
@@ -88,6 +88,13 @@
     const title = document.createElement('h2');
     title.textContent = entry.word;
     content.append(title);
+    const translation = document.createElement('p');
+    translation.className = 'ld-translation';
+    translation.lang = 'uk';
+    const translationLabel = document.createElement('strong');
+    translationLabel.textContent = 'Переклад: ';
+    translation.append(translationLabel, entry.translationsUk.join('; '));
+    content.append(translation);
     for (const [accent, label] of [['gb', 'Британська'], ['us', 'Американська']]) {
       const row = document.createElement('div');
       row.className = 'ld-pronunciation';

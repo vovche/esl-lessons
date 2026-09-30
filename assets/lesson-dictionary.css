@@ -21,3 +21,5 @@
 .ld-links{display:flex;flex-wrap:wrap;gap:8px 16px;border-top:1px solid #d4e2e6;padding-top:12px}
 .ld-links a{color:#075b79;font-weight:700}
 @media(max-width:420px){.ld-pronunciation{grid-template-columns:1fr 1fr}.ld-pronunciation strong{grid-column:1/-1}.ld-voices{grid-template-columns:1fr}}
+
+.ld-translation{margin:0 0 16px;line-height:1.6;overflow-wrap:anywhere}

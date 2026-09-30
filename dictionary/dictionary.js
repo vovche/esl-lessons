@@ -14,7 +14,7 @@
     const buttons = ['gb-female','gb-male','us-female','us-male'].map(voice => `<button type="button" data-word="${esc(entry.word)}" data-voice="${voice}" aria-label="Слухати ${esc(entry.word)}: ${voiceLabels[voice]}">▶ ${voiceLabels[voice]}</button>`).join('');
     const google = `https://www.google.com/search?q=${encodeURIComponent(entry.word + ' pronunciation')}`;
     const from = entry.lessons.length === 1 ? '1 урок' : `${entry.lessons.length} уроків`;
-    return `<article class="entry"><h3>${esc(entry.word)}</h3><div class="pronunciations">${pron('gb')}${pron('us')}</div><p class="phonics"><strong>Phonics hint</strong><span lang="en">${esc(entry.phonics)}</span></p><div class="audio-grid">${buttons}</div><a class="lookup" href="${google}" target="_blank" rel="noopener noreferrer">Знайти вимову в Google ↗</a><p class="from">У матеріалах: ${from}</p></article>`;
+    return `<article class="entry"><h3>${esc(entry.word)}</h3><p class="translation" lang="uk"><strong>Переклад:</strong> ${entry.translationsUk.map(esc).join('; ')}</p><div class="pronunciations">${pron('gb')}${pron('us')}</div><p class="phonics"><strong>Phonics hint</strong><span lang="en">${esc(entry.phonics)}</span></p><div class="audio-grid">${buttons}</div><a class="lookup" href="${google}" target="_blank" rel="noopener noreferrer">Знайти вимову в Google ↗</a><p class="from">У матеріалах: ${from}</p></article>`;
   }
   function appendBatch() {
     const next = filtered.slice(shown, shown + 24);
@@ -25,7 +25,7 @@
   function render() {
     const query = search.value.trim().toLocaleLowerCase().replaceAll('’', "'");
     const selected = grade.value;
-    filtered = entries.filter(entry => entry.word.includes(query) && (selected === 'all' || entry.lessons.some(path => path.startsWith(selected))));
+    filtered = entries.filter(entry => (entry.word.includes(query) || entry.translationsUk.some(value => value.toLocaleLowerCase('uk').replaceAll('’', "'").includes(query))) && (selected === 'all' || entry.lessons.some(path => path.startsWith(selected))));
     shown = 0;
     results.replaceChildren();
     count.textContent = `${filtered.length} слів`;
