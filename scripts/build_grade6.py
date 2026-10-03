@@ -9,6 +9,7 @@ import re
 ROOT = Path(__file__).resolve().parents[1]
 GRADE = ROOT / '6'
 SOURCE = Path('/home/why/-teach/6-eng/sb-pages')
+VIDEOS = json.loads((GRADE / 'videos.json').read_text())
 UNITS = {1:"That's me!",2:'Travelling',3:'Adventure',4:'Places',5:'Modern world',6:'Healthy life',7:'Teen life',8:'Fame'}
 FOLDERS = {int(p.name[1]):p for p in SOURCE.glob('u[1-8]*')}
 PROPER_NAMES = ['The Phantom of the Opera','Central Park','Hyde Park','San Francisco','Loch Ness','White Fang','South Pole','Edinburgh','Scotland','London','Venice','Egypt','Kyiv','Cats','The Oscars','Oscars','Coco','Ukraine']
@@ -24,6 +25,21 @@ def text(value: str) -> str:
     for match in NAME_PATTERN.finditer(value):
         parts.extend((e(value[last:match.start()]),f'<span data-dictionary-skip>{e(match[0])}</span>'));last=match.end()
     parts.append(e(value[last:]));return ''.join(parts)
+
+
+def video_section(slug: str) -> str:
+    entries = VIDEOS.get(slug, [])
+    if not entries:
+        return ''
+    cards = ''.join(
+        f'<article class="video-card"><h3>{e(video["title"])}</h3>'
+        f'<div class="video-frame"><iframe src="https://www.youtube-nocookie.com/embed/{e(video["id"])}" '
+        f'title="{e(video["title"])}" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" '
+        f'allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>'
+        f'<a href="https://youtu.be/{e(video["id"])}" target="_blank" rel="noopener noreferrer">Відкрити на YouTube ↗</a></article>'
+        for video in entries
+    )
+    return f'<section class="video-lessons wrap" aria-label="Відеорозбір"><h2>Відеорозбір матеріалу</h2><div class="video-lessons-grid">{cards}</div></section>'
 
 
 def source_pages(lesson: dict) -> list[Path]:
@@ -108,7 +124,7 @@ def render(lesson:dict,media:list[dict],previous:dict|None,following:dict|None)-
 {media_html(lesson,media)}
 <section id="apply"><h2><span class="num">{applynum}</span> Використай самостійно</h2><div class="write-card"><p>{e(lesson['write']['prompt'])}</p><p class="hint"><strong>Початок:</strong> <span lang="en">{text(lesson['write']['starter'])}</span></p><label for="my-answer">Твоя відповідь англійською</label><textarea id="my-answer" data-save="writing" placeholder="Напиши тут…"></textarea><button type="button" class="btn save-notes">Зберегти відповідь</button><p class="saved" role="status"></p><details><summary>Як перевірити себе</summary><ul><li>Я виконав усі частини завдання.</li><li>Мої приклади відповідають правилу цього уроку.</li><li>Я перевірив порядок слів, форми дієслів і написання.</li><li>Я можу пояснити зміст своєї відповіді.</li></ul></details></div></section>
 <nav class="lesson-links" aria-label="Інші уроки">{nav}<a href="../#unit-{u}">Каталог 6 класу</a><a href="../sb-grammar/">Граматичний довідник</a><a href="../sb-wordlist/">Лексика курсу</a></nav></main>
-<footer class="footer"><div class="wrap"><p>Підручник H. Q. Mitchell, Marileni Malkogianni, 6 клас, «Лінгвіст», 2023. Сторінки: {e(pagenums)}. <a href="sources.md">Джерела та назви файлів</a>. <a href="../../dictionary/">Словник вимови</a>.</p><p>Пояснення, короткі тексти й інтерактивні вправи адаптовано для самостійної роботи.</p><p class="author">Укладач матеріалу: Лишенко Володимир Миколайович</p></div></footer></body></html>'''
+{video_section(lesson['slug'])}<footer class="footer"><div class="wrap"><p>Підручник H. Q. Mitchell, Marileni Malkogianni, 6 клас, «Лінгвіст», 2023. Сторінки: {e(pagenums)}. <a href="sources.md">Джерела та назви файлів</a>. <a href="../../dictionary/">Словник вимови</a>.</p><p>Пояснення, короткі тексти й інтерактивні вправи адаптовано для самостійної роботи.</p><p class="author">Укладач матеріалу: Лишенко Володимир Миколайович</p></div></footer></body></html>'''
 
 
 UNIT_INTROS={1:'Розкажи про школу, зовнішність, характер і захоплення. Наприкінці склади профіль друга.',2:'Пригадай подорож, обери транспорт, підготуйся до поїздки й напиши лист про неї.',3:'Опиши пригоду, розрізняй фон і події та розкажи, що відчували герої.',4:'Поясни маршрут, порівняй місця й опиши місто, де хотів би жити.',5:'Розкажи про плани, ґаджети, довкілля та запрошення на корисну подію.',6:'Поговори про їжу, самопочуття, спорт і нове активне захоплення.',7:'Розкажи про досвід, музику, повідомлення, покупки та поради.',8:'Читай новини, описуй виступи, створення журналу й фільмів та напиши рецензію.'}
@@ -136,7 +152,7 @@ def catalog_card(lesson,prefix=''):
 
 
 def reference_page(slug,title,body):
-    return f'''<!doctype html><html lang="uk"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{e(title)} — 6 клас</title><link rel="stylesheet" href="../../assets/lesson-theme.css"><link rel="stylesheet" href="../../assets/grade7-lesson.css"><link rel="stylesheet" href="../../assets/grade6-lesson.css"><link rel="stylesheet" href="../../assets/lesson-dictionary.css"><script src="../../assets/lesson-dictionary.js" defer></script><link rel="stylesheet" href="../../assets/mobile.css"><script src="../../assets/mobile.js" defer></script></head><body data-dictionary-root><header class="hero"><div class="wrap"><nav class="crumbs"><a data-site-nav="root" href="../../">Усі класи</a><span>›</span><a data-site-nav="grade" href="../">6 клас</a></nav><h1>{e(title)}</h1><p>Обери тему, прочитай приклад і повернися до уроку для практики.</p></div></header><main class="wrap reference">{body}</main><footer class="footer"><div class="wrap"><a href="../">Усі уроки 6 класу</a> · <a href="../../dictionary/?q=&amp;grade=6">Словник вимови</a><p class="author">Укладач матеріалу: Лишенко Володимир Миколайович</p></div></footer></body></html>'''
+    return f'''<!doctype html><html lang="uk"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{e(title)} — 6 клас</title><link rel="stylesheet" href="../../assets/lesson-theme.css"><link rel="stylesheet" href="../../assets/grade7-lesson.css"><link rel="stylesheet" href="../../assets/grade6-lesson.css"><link rel="stylesheet" href="../../assets/lesson-dictionary.css"><script src="../../assets/lesson-dictionary.js" defer></script><link rel="stylesheet" href="../../assets/mobile.css"><script src="../../assets/mobile.js" defer></script></head><body data-dictionary-root><header class="hero"><div class="wrap"><nav class="crumbs"><a data-site-nav="root" href="../../">Усі класи</a><span>›</span><a data-site-nav="grade" href="../">6 клас</a></nav><h1>{e(title)}</h1><p>Обери тему, прочитай приклад і повернися до уроку для практики.</p></div></header><main class="wrap reference">{body}</main>{video_section(slug)}<footer class="footer"><div class="wrap"><a href="../">Усі уроки 6 класу</a> · <a href="../../dictionary/?q=&amp;grade=6">Словник вимови</a><p class="author">Укладач матеріалу: Лишенко Володимир Миколайович</p></div></footer></body></html>'''
 
 
 def main():
