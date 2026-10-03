@@ -28,24 +28,45 @@ def players(media):
  return '<section id="listen"><h2>Слухай і перевіряй</h2><p>Перше прослуховування — ситуація та головна думка; друге — деталі для відповідної сторінки SB або WB. Мітка запису збережена з назви файлу; звір завдання з номером у своєму зошиті.</p><div class="media-grid">'+''.join(cards)+'</div></section>'
 def card(s,prefix=''):
  return f'<article class="card ready"><span class="tag ready">'+('Unit '+str(s['unit']) if s['unit'] else 'Starter')+f' · SB {", ".join(map(str,s["sb_pages"]))}</span><h3>{e(s["title"])}</h3><p>{e(s["title_uk"])}</p><a class="btn primary" href="{prefix}{s["slug"]}/">Почати урок →</a></article>'
+def video_styles(html):
+ if 'youtube-nocookie.com/embed/' not in html or 'grade9-lesson.css' in html:return html
+ return html.replace('</head>','<link rel="stylesheet" href="../../assets/grade9-lesson.css"></head>')
+def video_pages(video):
+ match=re.search(r'SB pp?\.\s*(\d+)(?:[–-](\d+))?',video['title'])
+ if not match:return []
+ start=int(match.group(1));end=int(match.group(2) or start)
+ return range(start,end+1)
+def reference_page(slug,title,body):
+ html=common.reference_page(slug,title,body).replace('6 клас','9 клас').replace('grade=6','grade=9')
+ return re.sub(r'<section class="video-lessons\b.*?</section>','',html,flags=re.S)
+def insert_before_footer(html,content):
+ if '</main>' in html:return html.replace('</main>',content+'</main>',1)
+ footer=html.find('<footer')
+ if footer!=-1:return html[:footer]+content+html[footer:]
+ return html.replace('</body>',content+'</body>',1)
 def main():
- lessons=json.loads((GRADE/'lessons.json').read_text());media=json.loads((GRADE/'media-manifest.json').read_text())['entries'];assets={a['path']:a for s in lessons for a in s['sb_assets']+s['wb_assets']};by_page={p:s for s in lessons for p in s['sb_pages']};common.source_pages=lambda s:[Path(a['path']) for a in s['sb_assets']];common.media_html=lambda s,ms:players(ms)
+ lessons=json.loads((GRADE/'lessons.json').read_text());media=json.loads((GRADE/'media-manifest.json').read_text())['entries'];videos=json.loads((GRADE/'videos.json').read_text());video_by_page={page:video for rows in videos.values() for video in rows for page in video_pages(video)};assets={a['path']:a for s in lessons for a in s['sb_assets']+s['wb_assets']};by_page={p:s for s in lessons for p in s['sb_pages']};common.source_pages=lambda s:[Path(a['path']) for a in s['sb_assets']];common.media_html=lambda s,ms:players(ms)
  for i,s in enumerate(lessons):
   ms=[m for m in media if m['id'] in s['media_ids']];folder=GRADE/s['slug'];folder.mkdir(exist_ok=True);html=common.render(s,ms,lessons[i-1] if i else None,lessons[i+1] if i+1<len(lessons) else None)
   html=html.replace('Unit '+str(s['unit'])+' · '+s['code'], 'Unit '+str(s['unit'])+' · '+s['title_uk'].split(': ')[-1])
   html=html.replace('6 клас','9 клас').replace('6-u','9-u').replace('grade=6','grade=9').replace('Підручник H. Q. Mitchell, Marileni Malkogianni, 9 клас, «Лінгвіст», 2023.','Підручник О. Карпюк, К. Карпюк, 9 клас, 2026.')
   extra='<section id="book-tasks"><h2>Застосуй у підручнику</h2>'+support.task_list(s['sb_tasks'],'SB')+'</section>'+support.workbook(s)
-  html=html.replace('<nav class="lesson-links" aria-label="Інші уроки">',extra+'<nav class="lesson-links" aria-label="Інші уроки">');(folder/'index.html').write_text(html);(folder/'sources.md').write_text(sources(s,ms))
+  extra+=support.video_section(videos.get(s['slug'],[]))
+  html=html.replace('<nav class="lesson-links" aria-label="Інші уроки">',extra+'<nav class="lesson-links" aria-label="Інші уроки">');(folder/'index.html').write_text(video_styles(html));(folder/'sources.md').write_text(sources(s,ms))
  # Existing twelve textbook adaptations and three grammar workshops keep their HTML.
  legacy=[];existing=[]
  for filename in ['unit1-lessons.json','unit2-lessons.json']:existing+=json.loads((GRADE/filename).read_text())
  existing += [dict(slug='gerund',sources=dict(textbook=[35,38],workbook=[])),dict(slug='future-forms',sources=dict(textbook=[18,19],workbook=[])),dict(slug='future-forms-v2',sources=dict(textbook=[18,19],workbook=[]))]
  for row in existing:
   slug=row['slug'];path=GRADE/slug/'index.html';html=path.read_text();title_match=re.search(r'<h1[^>]*>(.*?)</h1>',html,re.S);title=unescape(re.sub('<[^>]+>',' ',title_match[1])).strip();src=row['sources'];s=dict(slug=slug,title=title,unit=by_page[src['textbook'][0]]['unit'],section_index=0,sb_pages=src['textbook'],wb_pages=src['workbook'],sb_assets=[a for a in assets.values() if a['kind']=='sb_scan' and a['printed_page'] in src['textbook']],wb_assets=[a for a in assets.values() if a['kind']=='wb_scan' and a['printed_page'] in src['workbook']],wb_tasks=[t for a in assets.values() if a['kind']=='wb_scan' and a['printed_page'] in src['workbook'] for t in a.get('tasks',[])],workbook_questions=[])
-  ms=[m for m in media if m['source_page'] in s['sb_pages' if m['book']=='SB' else 'wb_pages'] or m['scope']=='unit_introductory_recording' and m['unit']==s['unit'] and 'lead-in' in {by_page[p]['section'] for p in s['sb_pages']}];html=re.sub(r'<!-- grade9-source-support-start -->.*?<!-- grade9-source-support-end -->','',html,flags=re.S);extra='<!-- grade9-source-support-start -->'+players(ms)+support.workbook(s)+'<!-- grade9-source-support-end -->';html=html.replace('</main>',extra+'</main>');path.write_text(html);(path.parent/'sources.md').write_text(sources(s,ms));legacy.append(s)
+  ms=[m for m in media if m['source_page'] in s['sb_pages' if m['book']=='SB' else 'wb_pages'] or m['scope']=='unit_introductory_recording' and m['unit']==s['unit'] and 'lead-in' in {by_page[p]['section'] for p in s['sb_pages']}];html=re.sub(r'<!-- grade9-source-support-start -->.*?<!-- grade9-source-support-end -->','',html,flags=re.S);html=re.sub(r'<section class="video-lessons\b.*?</section>','',html,flags=re.S);page_videos=[];seen_video_ids=set()
+  for page in s['sb_pages']:
+   video=video_by_page.get(page)
+   if video and video['id'] not in seen_video_ids:page_videos.append(video);seen_video_ids.add(video['id'])
+  extra='<!-- grade9-source-support-start -->'+players(ms)+support.workbook(s)+support.video_section(page_videos)+'<!-- grade9-source-support-end -->';html=insert_before_footer(html,extra);path.write_text(video_styles(html));(path.parent/'sources.md').write_text(sources(s,ms));legacy.append(s)
  refs=[]
  for slug,title,body in [('sb-grammar','Граматика курсу',''.join(f'<article class="card"><h2>Unit {u}</h2><p>{e(next(s for s in lessons if s["unit"]==u and s["section"]=="grammar")["grammar_topic"])}</p><a href="../sb-u{u}-grammar/">Пояснення і практика →</a><a href="../sb-u{u}-grammar-2/">Застосування →</a></article>' for u in range(1,9))),('sb-wordlist','Лексика курсу',''.join(f'<article class="card"><h2>Unit {u}</h2><p>{e(" · ".join(w+" — "+v for w,v in next(s for s in lessons if s["unit"]==u)["vocabulary"]))}</p><a href="../sb-u{u}-vocabulary/">Практика →</a></article>' for u in range(1,9)))]:
-  folder=GRADE/slug;folder.mkdir(exist_ok=True);html=common.reference_page(slug,title,body).replace('6 клас','9 клас').replace('grade=6','grade=9');(folder/'index.html').write_text(html);refs.append(dict(slug=slug,title=title))
+  folder=GRADE/slug;folder.mkdir(exist_ok=True);html=reference_page(slug,title,body);(folder/'index.html').write_text(html);refs.append(dict(slug=slug,title=title))
  blocks=[]
  for u in range(9):
   group=[s for s in lessons if s['unit']==u];blocks.append(f'<section class="class-section" id="unit-{u}"><div class="class-heading"><h2>{"Starter" if not u else "Unit "+str(u)+" · "+e(group[0]["title"].split(": ")[0])}</h2></div><div class="cards">'+''.join(card(s) for s in group)+'</div></section>')
