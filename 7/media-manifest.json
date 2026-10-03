@@ -1,0 +1,1774 @@
+{
+  "entries": [
+    {
+      "id": "sb_audio-284",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/00-starter/intro.mp3",
+      "original_filename": "intro.mp3",
+      "source_sha256": "ee093ca2f83c2f31d734ccdeaba862f597cbdc3e0509c58978a7b22125761a81",
+      "lesson": "sb-starter",
+      "file": "sb-starter/media/sb-intro.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 0,
+      "section": "starter",
+      "source_page": null,
+      "scope": "introductory_recording",
+      "duration": 28.48,
+      "sha256": "1c9c40eef01805b576158a7b75db688eb1138468e96ecfb1074f5041011ec420",
+      "source_exercise": null,
+      "source_pages": [
+        6
+      ]
+    },
+    {
+      "id": "sb_audio-285",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/00-starter/starter p6-t.1a.mp3",
+      "original_filename": "starter p6-t.1a.mp3",
+      "source_sha256": "6f41b2f512a84f7698821b18f5d70f4376d4453d107defb3b2deb4daddbce137",
+      "lesson": "sb-starter",
+      "file": "sb-starter/media/sb-starter p6-t.1a.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 0,
+      "section": "starter",
+      "source_page": 6,
+      "scope": "page_task",
+      "duration": 109.59,
+      "sha256": "6902d83e90fd6650fba320364e8c367fc76a113d15aff58cc26612fbae20fdc6",
+      "source_exercise": "1a",
+      "source_pages": [
+        6
+      ]
+    },
+    {
+      "id": "sb_audio-286",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u1-school/00-lead-in/unit 1 .mp3",
+      "original_filename": "unit 1 .mp3",
+      "source_sha256": "1ffeece57c14433793d6c9f78823f213b0230a2371ffc13f75d64fa5ec147df6",
+      "lesson": "sb-u1-lead-in",
+      "file": "sb-u1-lead-in/media/sb-unit 1 .mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 1,
+      "section": "lead-in",
+      "source_page": null,
+      "scope": "unit_introductory_recording",
+      "duration": 15.85,
+      "sha256": "977dcd936113190e3785d113e0eb92f4bc76cebb2825991eece9a21e680d54ae",
+      "source_exercise": null,
+      "source_pages": [
+        7
+      ]
+    },
+    {
+      "id": "sb_audio-287",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u1-school/02-vocabulary/unit 1 p.10-t.1.mp3",
+      "original_filename": "unit 1 p.10-t.1.mp3",
+      "source_sha256": "3f27ae5db6d95db8b06c1166e56c8723de9615dae9e60b7fec602a11abe5e8b9",
+      "lesson": "sb-u1-vocabulary",
+      "file": "sb-u1-vocabulary/media/sb-unit 1 p.10-t.1.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 1,
+      "section": "vocabulary",
+      "source_page": 10,
+      "scope": "page_task",
+      "duration": 29.63,
+      "sha256": "001b45bc3dfcff71d2f844550f6d8eaf5d00adb40087c5bab88f0f9774638d1b",
+      "source_exercise": "1",
+      "source_pages": [
+        10
+      ]
+    },
+    {
+      "id": "sb_audio-288",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u1-school/03-reading/unit 1 p.12 Words.mp3",
+      "original_filename": "unit 1 p.12 Words.mp3",
+      "source_sha256": "4bbfe20af4944d55779d8f90a3e2f6171dba9915a5f73dc3a6dcd3bcfb4508a4",
+      "lesson": "sb-u1-reading",
+      "file": "sb-u1-reading/media/sb-unit 1 p.12 Words.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 1,
+      "section": "reading",
+      "source_page": 12,
+      "scope": "page_task",
+      "duration": 34.35,
+      "sha256": "6fb5a3ef290719e9b2adcfe63c0b5dff8a2ec1ec3202ae16581334f4606f63b2",
+      "source_exercise": null,
+      "source_pages": [
+        12
+      ]
+    },
+    {
+      "id": "sb_audio-289",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u1-school/05-listening/unit 1 p.16 Words.mp3",
+      "original_filename": "unit 1 p.16 Words.mp3",
+      "source_sha256": "4b16b3c0be1acc82f8428647fa32a05d9bbface4448178830fe6369c515ae05b",
+      "lesson": "sb-u1-listening",
+      "file": "sb-u1-listening/media/sb-unit 1 p.16 Words.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 1,
+      "section": "listening",
+      "source_page": 16,
+      "scope": "page_task",
+      "duration": 17.52,
+      "sha256": "800a717ec21cf529a33fe6267ab05c57c0a9ba5f8b0c81358f147d9e162a240f",
+      "source_exercise": null,
+      "source_pages": [
+        16
+      ]
+    },
+    {
+      "id": "sb_audio-290",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u1-school/05-listening/unit 1 p.16-t.1.mp3",
+      "original_filename": "unit 1 p.16-t.1.mp3",
+      "source_sha256": "cf3f1edb2931265bf240fd70504552707ccdd71665736eb67ffda999513d7e79",
+      "lesson": "sb-u1-listening",
+      "file": "sb-u1-listening/media/sb-unit 1 p.16-t.1.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 1,
+      "section": "listening",
+      "source_page": 16,
+      "scope": "page_task",
+      "duration": 83.69,
+      "sha256": "f61be8cd2de4f17665f0a50582147034ff998908c394d1f1af5bed5e93e7ce5f",
+      "source_exercise": "1",
+      "source_pages": [
+        16
+      ]
+    },
+    {
+      "id": "sb_audio-291",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u1-school/08-speaking/unit 1 p.20-t.2a.mp3",
+      "original_filename": "unit 1 p.20-t.2a.mp3",
+      "source_sha256": "0ae14cbda3e96c7c1b3d63a35a9cfa36cd3072f7c3db3ccedaea4ec3abc8f4ce",
+      "lesson": "sb-u1-speaking",
+      "file": "sb-u1-speaking/media/sb-unit 1 p.20-t.2a.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 1,
+      "section": "speaking",
+      "source_page": 20,
+      "scope": "page_task",
+      "duration": 37.48,
+      "sha256": "701634dcd968251efca52aa0bc6ab315bffe0d67594d314bd54b062741113a0e",
+      "source_exercise": "2a",
+      "source_pages": [
+        20
+      ]
+    },
+    {
+      "id": "sb_audio-292",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u1-school/01-blog/unit 1 p.9 Words.mp3",
+      "original_filename": "unit 1 p.9 Words.mp3",
+      "source_sha256": "f8fea54353fdab539f70879588eaac62dbfa5d625f8ea4f03b54707f137d6d1b",
+      "lesson": "sb-u1-blog",
+      "file": "sb-u1-blog/media/sb-unit 1 p.9 Words.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 1,
+      "section": "blog",
+      "source_page": 9,
+      "scope": "page_task",
+      "duration": 30.56,
+      "sha256": "fa0b9d37f800f82cb25673f89292c5fcbe74b98b40aeb6bb838ba0689b80d2b5",
+      "source_exercise": null,
+      "source_pages": [
+        9
+      ]
+    },
+    {
+      "id": "sb_audio-293",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u2-chores/00-lead-in/unit 2 .mp3",
+      "original_filename": "unit 2 .mp3",
+      "source_sha256": "d1ff8e80233f930130c5430da43bd1cebdff6920e5f8a81f1dbff6ad9d9d539a",
+      "lesson": "sb-u2-lead-in",
+      "file": "sb-u2-lead-in/media/sb-unit 2 .mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 2,
+      "section": "lead-in",
+      "source_page": null,
+      "scope": "unit_introductory_recording",
+      "duration": 12.66,
+      "sha256": "59c56ca9614780322944a1dba9bbee8cf5356705232445570c8c8eb0b8c04814",
+      "source_exercise": null,
+      "source_pages": [
+        27
+      ]
+    },
+    {
+      "id": "sb_audio-294",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u2-chores/01-blog/unit 2 p.28 Words.mp3",
+      "original_filename": "unit 2 p.28 Words.mp3",
+      "source_sha256": "61c9add470124ac7c2310adf494ab4b51c074690e9d74b31cbba7226186f8848",
+      "lesson": "sb-u2-blog",
+      "file": "sb-u2-blog/media/sb-unit 2 p.28 Words.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 2,
+      "section": "blog",
+      "source_page": 28,
+      "scope": "page_task",
+      "duration": 27.62,
+      "sha256": "dfc5a632833c5d8479db5f0b3bb02cce3aa85c95d96d85e60036fe291e541d50",
+      "source_exercise": null,
+      "source_pages": [
+        28
+      ]
+    },
+    {
+      "id": "sb_audio-295",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u2-chores/01-blog/unit 2 p.28-t.2.mp3",
+      "original_filename": "unit 2 p.28-t.2.mp3",
+      "source_sha256": "d4fd85203d4ff46f505081edabe5f8a1578f6c283572b87ef9a4362ee70a6559",
+      "lesson": "sb-u2-blog",
+      "file": "sb-u2-blog/media/sb-unit 2 p.28-t.2.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 2,
+      "section": "blog",
+      "source_page": 28,
+      "scope": "page_task",
+      "duration": 54.28,
+      "sha256": "fd12b31117bc23eb4384dd3b587fbfd44d545e9d7c4c74bda489ddbf39b39f9a",
+      "source_exercise": "2",
+      "source_pages": [
+        28
+      ]
+    },
+    {
+      "id": "sb_audio-296",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u2-chores/01-blog/unit 2 p.29-t.5.mp3",
+      "original_filename": "unit 2 p.29-t.5.mp3",
+      "source_sha256": "e97047ad3a1a28370c9d7683f1fc1ed606bd85394ece356a3fd7a82adb307242",
+      "lesson": "sb-u2-blog",
+      "file": "sb-u2-blog/media/sb-unit 2 p.29-t.5.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 2,
+      "section": "blog",
+      "source_page": 29,
+      "scope": "page_task",
+      "duration": 46.04,
+      "sha256": "2cc1fc650134b4d1b954aa3a7440a401ba531700c3d2a0d39f61117d4b0968e0",
+      "source_exercise": "5",
+      "source_pages": [
+        29
+      ]
+    },
+    {
+      "id": "sb_audio-297",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u2-chores/02-vocabulary/unit 2 p.30-t.1.mp3",
+      "original_filename": "unit 2 p.30-t.1.mp3",
+      "source_sha256": "8a6de55ab8a8ebc4244dc1466bc857073b9b61767d30672ae61055cfbbd176fc",
+      "lesson": "sb-u2-vocabulary",
+      "file": "sb-u2-vocabulary/media/sb-unit 2 p.30-t.1.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 2,
+      "section": "vocabulary",
+      "source_page": 30,
+      "scope": "page_task",
+      "duration": 41.26,
+      "sha256": "c5f7610b8ba877191114a5fdc01ed0d2bab3cda5fed6fc7ad03a63c5d2589140",
+      "source_exercise": "1",
+      "source_pages": [
+        30
+      ]
+    },
+    {
+      "id": "sb_audio-298",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u2-chores/04-grammar/unit 2 p.34-t.1.mp3",
+      "original_filename": "unit 2 p.34-t.1.mp3",
+      "source_sha256": "a3804bae58bf8f00e5c447541316cb3ff4352d99f34edb4bd5c1405938457b87",
+      "lesson": "sb-u2-grammar",
+      "file": "sb-u2-grammar/media/sb-unit 2 p.34-t.1.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 2,
+      "section": "grammar",
+      "source_page": 34,
+      "scope": "page_task",
+      "duration": 44.49,
+      "sha256": "5a3a698dffc3bb9856f2312dcf7cd79b8cff60e16d9105b34750f01f0d1d3513",
+      "source_exercise": "1",
+      "source_pages": [
+        34
+      ]
+    },
+    {
+      "id": "sb_audio-299",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u2-chores/05-listening/unit 2 p.36-t.2.mp3",
+      "original_filename": "unit 2 p.36-t.2.mp3",
+      "source_sha256": "f85e4ab6ee37855553bf472c7d8594e0fb5c93fc40450494b4be4a4c6de81197",
+      "lesson": "sb-u2-listening",
+      "file": "sb-u2-listening/media/sb-unit 2 p.36-t.2.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 2,
+      "section": "listening",
+      "source_page": 36,
+      "scope": "page_task",
+      "duration": 68.84,
+      "sha256": "11da63191fb955a3ae975acfac5a40b91fe0643a2edbb982233ef0d1af8b1524",
+      "source_exercise": "2",
+      "source_pages": [
+        36
+      ]
+    },
+    {
+      "id": "sb_audio-300",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u2-chores/06-vocabulary-2/unit 2 p.37 Words.mp3",
+      "original_filename": "unit 2 p.37 Words.mp3",
+      "source_sha256": "da6d945fb3b27a3c026fb6eaef9c9d90d35042b2648c5a9aad97a0f4ab052529",
+      "lesson": "sb-u2-vocabulary-2",
+      "file": "sb-u2-vocabulary-2/media/sb-unit 2 p.37 Words.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 2,
+      "section": "vocabulary-2",
+      "source_page": 37,
+      "scope": "page_task",
+      "duration": 15.29,
+      "sha256": "16438be9a57e74a6faf89732be01870af044a726a85208940e7fa6a7c83aa6c0",
+      "source_exercise": null,
+      "source_pages": [
+        37
+      ]
+    },
+    {
+      "id": "sb_audio-301",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u2-chores/06-vocabulary-2/unit 2 p.37-t.1.mp3",
+      "original_filename": "unit 2 p.37-t.1.mp3",
+      "source_sha256": "81e8049f785940997d1627f5b27b61239afe166a57f20e70d62d7a6cc3c5a785",
+      "lesson": "sb-u2-vocabulary-2",
+      "file": "sb-u2-vocabulary-2/media/sb-unit 2 p.37-t.1.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 2,
+      "section": "vocabulary-2",
+      "source_page": 37,
+      "scope": "page_task",
+      "duration": 14.32,
+      "sha256": "3e0e80da6bcb6915a35e2e32791ff7efca46144c8b2f962457c140326986c678",
+      "source_exercise": "1",
+      "source_pages": [
+        37
+      ]
+    },
+    {
+      "id": "sb_audio-302",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u3-cooking/00-lead-in/unit 3 .mp3",
+      "original_filename": "unit 3 .mp3",
+      "source_sha256": "960b8626c70a994fc8c0b523c2c82983d06b5f51291be759c1fdf74ed7857a16",
+      "lesson": "sb-u3-lead-in",
+      "file": "sb-u3-lead-in/media/sb-unit 3 .mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 3,
+      "section": "lead-in",
+      "source_page": null,
+      "scope": "unit_introductory_recording",
+      "duration": 13.06,
+      "sha256": "95a1579338f2f25e0dbf7e016747344f51d75dbb279503b17310e0f2dbcb440d",
+      "source_exercise": null,
+      "source_pages": [
+        45
+      ]
+    },
+    {
+      "id": "sb_audio-303",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u3-cooking/01-blog/unit 3 p.46 Words.mp3",
+      "original_filename": "unit 3 p.46 Words.mp3",
+      "source_sha256": "9c4894dc104fef78fa83782ca23fafec727b3420d104d9cb4c4d5d7788b9dbbd",
+      "lesson": "sb-u3-blog",
+      "file": "sb-u3-blog/media/sb-unit 3 p.46 Words.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 3,
+      "section": "blog",
+      "source_page": 46,
+      "scope": "page_task",
+      "duration": 33.97,
+      "sha256": "1329b82c96e1fa02ee6b774a34d6bf38c975577ec7e58d5f3f26e055c1dc0a0b",
+      "source_exercise": null,
+      "source_pages": [
+        46
+      ]
+    },
+    {
+      "id": "sb_audio-304",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u3-cooking/02-vocabulary/unit 3 p.49-t.1a.mp3",
+      "original_filename": "unit 3 p.49-t.1a.mp3",
+      "source_sha256": "0d2e3723e89434e8b8ed7e57641317821a4a020e0642f1bedbeb24d4902c3b8e",
+      "lesson": "sb-u3-vocabulary",
+      "file": "sb-u3-vocabulary/media/sb-unit 3 p.49-t.1a.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 3,
+      "section": "vocabulary",
+      "source_page": 49,
+      "scope": "page_task",
+      "duration": 27.45,
+      "sha256": "c4eb81bfe93348e71c667d43ffbd19d5371de59de82c64224316762082f3a6a0",
+      "source_exercise": "1a",
+      "source_pages": [
+        49
+      ]
+    },
+    {
+      "id": "sb_audio-305",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u3-cooking/02-vocabulary/unit 3 p.49-t.2a.mp3",
+      "original_filename": "unit 3 p.49-t.2a.mp3",
+      "source_sha256": "e0b8d4b0423589467e10a2562565a665fa2cd2350bb8bab4979b34d518c9d0d7",
+      "lesson": "sb-u3-vocabulary",
+      "file": "sb-u3-vocabulary/media/sb-unit 3 p.49-t.2a.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 3,
+      "section": "vocabulary",
+      "source_page": 49,
+      "scope": "page_task",
+      "duration": 32.83,
+      "sha256": "d1902bdf873bd8a1fbb6cec020499bbe9cfc8ed87d81b7d1483dd599ad2333f6",
+      "source_exercise": "2a",
+      "source_pages": [
+        49
+      ]
+    },
+    {
+      "id": "sb_audio-306",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u3-cooking/02-vocabulary/unit 3 p.49-t.3a.mp3",
+      "original_filename": "unit 3 p.49-t.3a.mp3",
+      "source_sha256": "aaa0e3cdad54ec299c6d5a6906dbbca6cb4496988607c74af552a13136e42a4b",
+      "lesson": "sb-u3-vocabulary",
+      "file": "sb-u3-vocabulary/media/sb-unit 3 p.49-t.3a.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 3,
+      "section": "vocabulary",
+      "source_page": 49,
+      "scope": "page_task",
+      "duration": 37.3,
+      "sha256": "81e43675fc9775e9aa49fc4628129c067e3866dc25ba8d71a06b22db08e562ee",
+      "source_exercise": "3a",
+      "source_pages": [
+        49
+      ]
+    },
+    {
+      "id": "sb_audio-307",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u3-cooking/03-reading/unit 3 p.51 Words.mp3",
+      "original_filename": "unit 3 p.51 Words.mp3",
+      "source_sha256": "cd08ef3beb56ad2da90c0b8046a51ae63bdb3981c7d9c8992aff8285e6e47207",
+      "lesson": "sb-u3-reading",
+      "file": "sb-u3-reading/media/sb-unit 3 p.51 Words.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 3,
+      "section": "reading",
+      "source_page": 51,
+      "scope": "page_task",
+      "duration": 18.58,
+      "sha256": "0c93aa002677cbc7848dc7b2fc05296253884450e671bf8b8bbd5491eff7480b",
+      "source_exercise": null,
+      "source_pages": [
+        51
+      ]
+    },
+    {
+      "id": "sb_audio-308",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u3-cooking/05-listening/unit 3 p.53-t.1.mp3",
+      "original_filename": "unit 3 p.53-t.1.mp3",
+      "source_sha256": "ec277a4cf64034f0c077ac48b9f6a8d4bdea65bdee78a0ce3b37889300572c44",
+      "lesson": "sb-u3-listening",
+      "file": "sb-u3-listening/media/sb-unit 3 p.53-t.1.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 3,
+      "section": "listening",
+      "source_page": 53,
+      "scope": "page_task",
+      "duration": 22.46,
+      "sha256": "cc540155de31a3a83f113249806c7745e9b2750eb9f065e2bd1c1afc437f00e7",
+      "source_exercise": "1",
+      "source_pages": [
+        53
+      ]
+    },
+    {
+      "id": "sb_audio-309",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u3-cooking/05-listening/unit 3 p.53-t.2a.mp3",
+      "original_filename": "unit 3 p.53-t.2a.mp3",
+      "source_sha256": "8e92ac265ca400a5f7bf5b986df3946a30e1c75eaa5958375551cc7016e676b0",
+      "lesson": "sb-u3-listening",
+      "file": "sb-u3-listening/media/sb-unit 3 p.53-t.2a.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 3,
+      "section": "listening",
+      "source_page": 53,
+      "scope": "page_task",
+      "duration": 117.92,
+      "sha256": "dd590ed8ff1ee964edb58d70b80fe0a3dc63ea5eb057fd82e039402f0e493626",
+      "source_exercise": "2a",
+      "source_pages": [
+        53
+      ]
+    },
+    {
+      "id": "sb_audio-310",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u3-cooking/05-listening/unit 3 p.54-t.2c.mp3",
+      "original_filename": "unit 3 p.54-t.2c.mp3",
+      "source_sha256": "0acaabda61c2d99b17da24459edb278ec9c711bf97aed62e95a2579e3e4e085f",
+      "lesson": "sb-u3-listening",
+      "file": "sb-u3-listening/media/sb-unit 3 p.54-t.2c.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 3,
+      "section": "listening",
+      "source_page": 54,
+      "scope": "page_task",
+      "duration": 69.09,
+      "sha256": "36e67f1c1386023fb2cab376cefafb286ad4b6bd67b0ceaea6db59c7f2f0c604",
+      "source_exercise": "2c",
+      "source_pages": [
+        54
+      ]
+    },
+    {
+      "id": "sb_audio-311",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u3-cooking/05-listening/unit 3 p.54-t.4.mp3",
+      "original_filename": "unit 3 p.54-t.4.mp3",
+      "source_sha256": "c30c0b3d440944cd3c7ebe808114b0be0ae53abe5639a92fcda3361d0930164e",
+      "lesson": "sb-u3-listening",
+      "file": "sb-u3-listening/media/sb-unit 3 p.54-t.4.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 3,
+      "section": "listening",
+      "source_page": 54,
+      "scope": "page_task",
+      "duration": 109.66,
+      "sha256": "be7d81fcd6fe50524d86302c68300e543e3fa76d9b45d0f56d37a7e58e72f522",
+      "source_exercise": "4",
+      "source_pages": [
+        54
+      ]
+    },
+    {
+      "id": "sb_audio-312",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u3-cooking/06-vocabulary-2/unit 3 p.55-t.1a.mp3",
+      "original_filename": "unit 3 p.55-t.1a.mp3",
+      "source_sha256": "676a313d09c08a51380db2e0cca9ef67fe16617e28b4a907e4e107b1d3baaca5",
+      "lesson": "sb-u3-vocabulary-2",
+      "file": "sb-u3-vocabulary-2/media/sb-unit 3 p.55-t.1a.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 3,
+      "section": "vocabulary-2",
+      "source_page": 55,
+      "scope": "page_task",
+      "duration": 21.82,
+      "sha256": "a67a47f6f78e813f12460237be5408378853c67a4390bba2464bb491b59fbf24",
+      "source_exercise": "1a",
+      "source_pages": [
+        55
+      ]
+    },
+    {
+      "id": "sb_audio-313",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u3-cooking/08-speaking/unit 3 p.57-t.2a.mp3",
+      "original_filename": "unit 3 p.57-t.2a.mp3",
+      "source_sha256": "4af2650cfc904ce6ff298ff5aba0627bea5d7fe8c968bbabe160fdd52b178ea5",
+      "lesson": "sb-u3-speaking",
+      "file": "sb-u3-speaking/media/sb-unit 3 p.57-t.2a.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 3,
+      "section": "speaking",
+      "source_page": 57,
+      "scope": "page_task",
+      "duration": 69.34,
+      "sha256": "0b3920aeb8af3dd71c51b390f8adf9eadbecadf0fc906f04267d1cd6abb035ad",
+      "source_exercise": "2a",
+      "source_pages": [
+        57
+      ]
+    },
+    {
+      "id": "sb_audio-314",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u3-cooking/10-look-back/unit 3 p.60-t.6b.mp3",
+      "original_filename": "unit 3 p.60-t.6b.mp3",
+      "source_sha256": "4dd776d72e1efa1c549ec963e6920cae06d45f4f8ba2632b3ae6695ed7efc052",
+      "lesson": "sb-u3-look-back",
+      "file": "sb-u3-look-back/media/sb-unit 3 p.60-t.6b.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 3,
+      "section": "look-back",
+      "source_page": 60,
+      "scope": "page_task",
+      "duration": 50.33,
+      "sha256": "4ecd085a77f95597bc9f083c1b5568dd91ad8e5c6bc8cae52b0969cdd0587f68",
+      "source_exercise": "6b",
+      "source_pages": [
+        60
+      ]
+    },
+    {
+      "id": "sb_audio-315",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u4-traditions/00-lead-in/unit 4 .mp3",
+      "original_filename": "unit 4 .mp3",
+      "source_sha256": "35362ed875c135a0435868da1cfeca512f9639a008086c015f7cb6c7b45d8417",
+      "lesson": "sb-u4-lead-in",
+      "file": "sb-u4-lead-in/media/sb-unit 4 .mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 4,
+      "section": "lead-in",
+      "source_page": null,
+      "scope": "unit_introductory_recording",
+      "duration": 16.84,
+      "sha256": "4c0eb56810cdfca22bf922632cc376af8b6b843deb84e27b014b4e05748b357b",
+      "source_exercise": null,
+      "source_pages": [
+        63
+      ]
+    },
+    {
+      "id": "sb_audio-316",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u4-traditions/01-blog/unit 4 p.64 Words.mp3",
+      "original_filename": "unit 4 p.64 Words.mp3",
+      "source_sha256": "482163b3c85b9407ba0a356c4d77787d81c9bdc0a5ed1e4a4d58e0112a3d7d20",
+      "lesson": "sb-u4-blog",
+      "file": "sb-u4-blog/media/sb-unit 4 p.64 Words.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 4,
+      "section": "blog",
+      "source_page": 64,
+      "scope": "page_task",
+      "duration": 31.42,
+      "sha256": "271196a65cac8801026c9f2166d19b9de299da15db6c743e00131bba01655061",
+      "source_exercise": null,
+      "source_pages": [
+        64
+      ]
+    },
+    {
+      "id": "sb_audio-317",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u4-traditions/03-reading/unit 4 p.67 Words.mp3",
+      "original_filename": "unit 4 p.67 Words.mp3",
+      "source_sha256": "f1e77d919604490d47d8bc737f6fe2b3a64a30051607c683b86552126d26c5e0",
+      "lesson": "sb-u4-reading",
+      "file": "sb-u4-reading/media/sb-unit 4 p.67 Words.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 4,
+      "section": "reading",
+      "source_page": 67,
+      "scope": "page_task",
+      "duration": 23.64,
+      "sha256": "ad8c4366fc3c0e0b44509bf4678709fead7634d4f14b295c6f7765bfd3508fcc",
+      "source_exercise": null,
+      "source_pages": [
+        67
+      ]
+    },
+    {
+      "id": "sb_audio-318",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u4-traditions/05-listening/unit 4 p.70 Words.mp3",
+      "original_filename": "unit 4 p.70 Words.mp3",
+      "source_sha256": "824fc912e1feb1e7e35f489b709994fbdff5c101c341254aa3ca4cffdfae9fbd",
+      "lesson": "sb-u4-listening",
+      "file": "sb-u4-listening/media/sb-unit 4 p.70 Words.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 4,
+      "section": "listening",
+      "source_page": 70,
+      "scope": "page_task",
+      "duration": 32.33,
+      "sha256": "50ce057f1df479f0cd3baad6c95d393237eea86d76772befc43903b5981c6958",
+      "source_exercise": null,
+      "source_pages": [
+        70
+      ]
+    },
+    {
+      "id": "sb_audio-319",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u4-traditions/05-listening/unit 4 p.70-t.2.mp3",
+      "original_filename": "unit 4 p.70-t.2.mp3",
+      "source_sha256": "d463d30c47592f44a6980798de3d0887d9c37fd799ef469768010dfc3470d8ab",
+      "lesson": "sb-u4-listening",
+      "file": "sb-u4-listening/media/sb-unit 4 p.70-t.2.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 4,
+      "section": "listening",
+      "source_page": 70,
+      "scope": "page_task",
+      "duration": 175.41,
+      "sha256": "09ec6f1c38216732a98251f4f9b557e4a2613863dbc9c0c55b1cdc187c2b4fcd",
+      "source_exercise": "2",
+      "source_pages": [
+        70
+      ]
+    },
+    {
+      "id": "sb_audio-320",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u4-traditions/08-speaking/unit 4 p.73 Words.mp3",
+      "original_filename": "unit 4 p.73 Words.mp3",
+      "source_sha256": "40a04584e0b24ed0870379b198b309e2aa52f62679c820513aace1c5f9bedaf4",
+      "lesson": "sb-u4-speaking",
+      "file": "sb-u4-speaking/media/sb-unit 4 p.73 Words.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 4,
+      "section": "speaking",
+      "source_page": 73,
+      "scope": "page_task",
+      "duration": 20.04,
+      "sha256": "8614640d4e19847ae3bbf2ad58af23ae778fe49b5664f34cd133b6f7a7be8708",
+      "source_exercise": null,
+      "source_pages": [
+        73
+      ]
+    },
+    {
+      "id": "sb_audio-321",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u4-traditions/09-writing/unit 4 p.74 Words.mp3",
+      "original_filename": "unit 4 p.74 Words.mp3",
+      "source_sha256": "55eef7e3cdb24ee1a84e35b43179c9835fb1c1ac405c682742843b9bdc133ec0",
+      "lesson": "sb-u4-writing",
+      "file": "sb-u4-writing/media/sb-unit 4 p.74 Words.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 4,
+      "section": "writing",
+      "source_page": 74,
+      "scope": "page_task",
+      "duration": 11.92,
+      "sha256": "0caecf17a8cf6cc515b96d038390bafd9a00952bf602435108cdf55cb0b0ab34",
+      "source_exercise": null,
+      "source_pages": [
+        74
+      ]
+    },
+    {
+      "id": "sb_audio-322",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u5-sport/00-lead-in/unit 5 .mp3",
+      "original_filename": "unit 5 .mp3",
+      "source_sha256": "c25de2f2b6f7c38d36a7134bd8184485ddf441e9180f669178d870520df7d038",
+      "lesson": "sb-u5-lead-in",
+      "file": "sb-u5-lead-in/media/sb-unit 5 .mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 5,
+      "section": "lead-in",
+      "source_page": null,
+      "scope": "unit_introductory_recording",
+      "duration": 19.75,
+      "sha256": "a828953556656e4057478ac87d559c3e8092ffa3d43173c46e09c020579d6adf",
+      "source_exercise": null,
+      "source_pages": [
+        79
+      ]
+    },
+    {
+      "id": "sb_audio-323",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u5-sport/01-blog/unit 5 p.81 Words.mp3",
+      "original_filename": "unit 5 p.81 Words.mp3",
+      "source_sha256": "3ad7aabfb878d4d2962d567ce51829f96c1aaf716002390bae540560047dd024",
+      "lesson": "sb-u5-blog",
+      "file": "sb-u5-blog/media/sb-unit 5 p.81 Words.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 5,
+      "section": "blog",
+      "source_page": 81,
+      "scope": "page_task",
+      "duration": 30.56,
+      "sha256": "f8e0e6d7d4b5c364ec667e9b78589012fa7d41c9db0f0d6a49b3c2ac38b37796",
+      "source_exercise": null,
+      "source_pages": [
+        81
+      ]
+    },
+    {
+      "id": "sb_audio-324",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u5-sport/02-vocabulary/unit 5 p.83-t.1.mp3",
+      "original_filename": "unit 5 p.83-t.1.mp3",
+      "source_sha256": "a0171c44bd3eba13c7b70e79d7902929e24f59b7907c2ccb7600c745904bb46a",
+      "lesson": "sb-u5-vocabulary",
+      "file": "sb-u5-vocabulary/media/sb-unit 5 p.83-t.1.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 5,
+      "section": "vocabulary",
+      "source_page": 83,
+      "scope": "page_task",
+      "duration": 22.02,
+      "sha256": "dd2b5ad82ab007325c1a39048c016ec2d029a24f95058346926eaa5a12c529c3",
+      "source_exercise": "1",
+      "source_pages": [
+        83
+      ]
+    },
+    {
+      "id": "sb_audio-325",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u5-sport/03-reading/unit 5 p.85 Words.mp3",
+      "original_filename": "unit 5 p.85 Words.mp3",
+      "source_sha256": "b0b710c72c9ce020e389eade3193d74e809702bb78fecf048b0e2ceb1f4545ba",
+      "lesson": "sb-u5-reading",
+      "file": "sb-u5-reading/media/sb-unit 5 p.85 Words.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 5,
+      "section": "reading",
+      "source_page": 85,
+      "scope": "page_task",
+      "duration": 24.87,
+      "sha256": "29c1f239c88d8903122e4772a6cd3ab488e14a7a47caeddfa7188c72635e45ef",
+      "source_exercise": null,
+      "source_pages": [
+        85
+      ]
+    },
+    {
+      "id": "sb_audio-326",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u5-sport/05-listening/unit 5 p.87-t.1.mp3",
+      "original_filename": "unit 5 p.87-t.1.mp3",
+      "source_sha256": "22bded1f3654846100e34659b941c7b56da89122a92c78636adf158695b0473e",
+      "lesson": "sb-u5-listening",
+      "file": "sb-u5-listening/media/sb-unit 5 p.87-t.1.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 5,
+      "section": "listening",
+      "source_page": 87,
+      "scope": "page_task",
+      "duration": 26.56,
+      "sha256": "f92797990c9a29e1794ba5f3967ca821d9e7ff3155ecce95016ad211df8b164a",
+      "source_exercise": "1",
+      "source_pages": [
+        87
+      ]
+    },
+    {
+      "id": "sb_audio-327",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u5-sport/05-listening/unit 5 p.87-t.2b.mp3",
+      "original_filename": "unit 5 p.87-t.2b.mp3",
+      "source_sha256": "b10922dbcccd646d595d2dad8b2247f8621286d5c234e8b1e434b54b9e401e10",
+      "lesson": "sb-u5-listening",
+      "file": "sb-u5-listening/media/sb-unit 5 p.87-t.2b.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 5,
+      "section": "listening",
+      "source_page": 87,
+      "scope": "page_task",
+      "duration": 71.89,
+      "sha256": "a2ee5695dd0d1af34da2eab148ec776e13e20ff0b74e3235ae2675bfa2f7029f",
+      "source_exercise": "2b",
+      "source_pages": [
+        87
+      ]
+    },
+    {
+      "id": "sb_audio-328",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u5-sport/05-listening/unit 5 p.87-t.3a.mp3",
+      "original_filename": "unit 5 p.87-t.3a.mp3",
+      "source_sha256": "3c4f7f4bc24362dd56453ab9721517fa84b93003174c395b1ffa6b7801bfc9be",
+      "lesson": "sb-u5-listening",
+      "file": "sb-u5-listening/media/sb-unit 5 p.87-t.3a.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 5,
+      "section": "listening",
+      "source_page": 87,
+      "scope": "page_task",
+      "duration": 69.04,
+      "sha256": "66c46d122415810458eb403adfbee4ca8903d3bc9cf7bb488ab61b11289a99a9",
+      "source_exercise": "3a",
+      "source_pages": [
+        87
+      ]
+    },
+    {
+      "id": "sb_audio-329",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u5-sport/08-speaking/unit 5 p.91-t.1a.mp3",
+      "original_filename": "unit 5 p.91-t.1a.mp3",
+      "source_sha256": "2e2958c0fdfe2e32d0c58f565b4a0974962f1026a643599f103bb23b50caa2a5",
+      "lesson": "sb-u5-speaking",
+      "file": "sb-u5-speaking/media/sb-unit 5 p.91-t.1a.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 5,
+      "section": "speaking",
+      "source_page": 91,
+      "scope": "page_task",
+      "duration": 54.12,
+      "sha256": "be6038ad1acfa56837cb758c368aaaddaaa4a34e4b55ff7765054895be9380f5",
+      "source_exercise": "1a",
+      "source_pages": [
+        91
+      ]
+    },
+    {
+      "id": "sb_audio-330",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u5-sport/08-speaking/unit 5 p.92-t.2a.mp3",
+      "original_filename": "unit 5 p.92-t.2a.mp3",
+      "source_sha256": "cf4830212621173bcc9acacd346f800978e15dc39fd49c8ce57b4b53e8aec343",
+      "lesson": "sb-u5-speaking",
+      "file": "sb-u5-speaking/media/sb-unit 5 p.92-t.2a.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 5,
+      "section": "speaking",
+      "source_page": 92,
+      "scope": "page_task",
+      "duration": 60.44,
+      "sha256": "a1f1e7f75e1f7f74e362739621360dd1ba72139098a883d117ddc332dfbefdd3",
+      "source_exercise": "2a",
+      "source_pages": [
+        92
+      ]
+    },
+    {
+      "id": "sb_audio-331",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u6-health/00-lead-in/unit 6 .mp3",
+      "original_filename": "unit 6 .mp3",
+      "source_sha256": "f20bd88c7c028418b40ede4814c8aa7126be4c4cf04c15a422e2ef53fd91c469",
+      "lesson": "sb-u6-lead-in",
+      "file": "sb-u6-lead-in/media/sb-unit 6 .mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 6,
+      "section": "lead-in",
+      "source_page": null,
+      "scope": "unit_introductory_recording",
+      "duration": 19.88,
+      "sha256": "51771d3bedf4fbb243d783eeb9c57a7e7aaec371d05d838b928d7309222deb60",
+      "source_exercise": null,
+      "source_pages": [
+        99
+      ]
+    },
+    {
+      "id": "sb_audio-332",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u6-health/01-blog/unit 6 p.100 Words.mp3",
+      "original_filename": "unit 6 p.100 Words.mp3",
+      "source_sha256": "d245ba2b29f65f45327fba2a0c4dff50bc793f80b7cba274bc83b7b16b463b9b",
+      "lesson": "sb-u6-blog",
+      "file": "sb-u6-blog/media/sb-unit 6 p.100 Words.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 6,
+      "section": "blog",
+      "source_page": 100,
+      "scope": "page_task",
+      "duration": 41.84,
+      "sha256": "5af322e4522841b249ca2da940eea67d41604cbe816f22fc94b002bbefe73289",
+      "source_exercise": null,
+      "source_pages": [
+        100
+      ]
+    },
+    {
+      "id": "sb_audio-333",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u6-health/01-blog/unit 6 p.100-t.2.mp3",
+      "original_filename": "unit 6 p.100-t.2.mp3",
+      "source_sha256": "f5070f60ee70c8b0ec7258900abe32483327ca80f452b59b75e4f6ed7b07c659",
+      "lesson": "sb-u6-blog",
+      "file": "sb-u6-blog/media/sb-unit 6 p.100-t.2.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 6,
+      "section": "blog",
+      "source_page": 100,
+      "scope": "page_task",
+      "duration": 42.28,
+      "sha256": "942acf43504aabc5e1a0d9ce8073d66dd6fec723ebf1f18de98521a1831acff8",
+      "source_exercise": "2",
+      "source_pages": [
+        100
+      ]
+    },
+    {
+      "id": "sb_audio-334",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u6-health/01-blog/unit 6 p.101-t.4.mp3",
+      "original_filename": "unit 6 p.101-t.4.mp3",
+      "source_sha256": "dd39834ec54fd87b5785cc49fba881e735181aaa18ccae63cd2a0f645eea137b",
+      "lesson": "sb-u6-blog",
+      "file": "sb-u6-blog/media/sb-unit 6 p.101-t.4.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 6,
+      "section": "blog",
+      "source_page": 101,
+      "scope": "page_task",
+      "duration": 53.68,
+      "sha256": "24a6095d183bf267d81da1284a6b84e67b04f218662be1d74b1dcdebfa7d4e1e",
+      "source_exercise": "4",
+      "source_pages": [
+        101
+      ]
+    },
+    {
+      "id": "sb_audio-335",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u6-health/02-vocabulary/unit 6 p.103-t.2.mp3",
+      "original_filename": "unit 6 p.103-t.2.mp3",
+      "source_sha256": "73d4fc5c556b7b7419e4f3472169aac98a4fbedf387767433cd350a6c3243217",
+      "lesson": "sb-u6-vocabulary",
+      "file": "sb-u6-vocabulary/media/sb-unit 6 p.103-t.2.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 6,
+      "section": "vocabulary",
+      "source_page": 103,
+      "scope": "page_task",
+      "duration": 16.59,
+      "sha256": "9dd59179c72b556cbbb8600252867c40a4a3eff9229a2da9abe7286b334e861f",
+      "source_exercise": "2",
+      "source_pages": [
+        103
+      ]
+    },
+    {
+      "id": "sb_audio-336",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u6-health/03-reading/unit 6 p.104 Words.mp3",
+      "original_filename": "unit 6 p.104 Words.mp3",
+      "source_sha256": "4efd01af7a4219269c4f5d8e4a03759d7c9e2680dd9cfdbc18513b6f1b505d03",
+      "lesson": "sb-u6-reading",
+      "file": "sb-u6-reading/media/sb-unit 6 p.104 Words.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 6,
+      "section": "reading",
+      "source_page": 104,
+      "scope": "page_task",
+      "duration": 28.07,
+      "sha256": "d5b287c446ab3e741a07f23ff7d05bc0d2767deb77a17120680a2a0ab3846fa3",
+      "source_exercise": null,
+      "source_pages": [
+        104
+      ]
+    },
+    {
+      "id": "sb_audio-337",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u6-health/05-listening/unit 6 p.108 Words.mp3",
+      "original_filename": "unit 6 p.108 Words.mp3",
+      "source_sha256": "17e2ccd5e6caaa86644314a7b16757be1b41e3d6fada8adf192ff6c381300cf5",
+      "lesson": "sb-u6-listening",
+      "file": "sb-u6-listening/media/sb-unit 6 p.108 Words.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 6,
+      "section": "listening",
+      "source_page": 108,
+      "scope": "page_task",
+      "duration": 17.99,
+      "sha256": "3f2d5510b08e72d0a3c207e8d70d67b74ba70f0d245422289b47aec3ada52cf0",
+      "source_exercise": null,
+      "source_pages": [
+        108
+      ]
+    },
+    {
+      "id": "sb_audio-338",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u6-health/05-listening/unit 6 p.108-t.1.mp3",
+      "original_filename": "unit 6 p.108-t.1.mp3",
+      "source_sha256": "ac6009d2a7f1602e126dd2300b56ca202f3419d32b40c19cfcc8c2d7fbffd204",
+      "lesson": "sb-u6-listening",
+      "file": "sb-u6-listening/media/sb-unit 6 p.108-t.1.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 6,
+      "section": "listening",
+      "source_page": 108,
+      "scope": "page_task",
+      "duration": 33.95,
+      "sha256": "539493ec32f93a55566d31776bcc30005e49b294910fea35fd1d4e92879d5e78",
+      "source_exercise": "1",
+      "source_pages": [
+        108
+      ]
+    },
+    {
+      "id": "sb_audio-339",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u6-health/05-listening/unit 6 p.108-t.2a.mp3",
+      "original_filename": "unit 6 p.108-t.2a.mp3",
+      "source_sha256": "d34d9e12999356b25dd84a2ca36f3ebe758839fd76ad49672658948567617871",
+      "lesson": "sb-u6-listening",
+      "file": "sb-u6-listening/media/sb-unit 6 p.108-t.2a.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 6,
+      "section": "listening",
+      "source_page": 108,
+      "scope": "page_task",
+      "duration": 42.72,
+      "sha256": "32fb12a4434a05a15b8939f92a1af89168226d1a863cd7ef9f051b0839a531be",
+      "source_exercise": "2a",
+      "source_pages": [
+        108
+      ]
+    },
+    {
+      "id": "sb_audio-340",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u6-health/05-listening/unit 6 p.108-t.3a.mp3",
+      "original_filename": "unit 6 p.108-t.3a.mp3",
+      "source_sha256": "e53993ff976c7869f2b67be5d96e5c2366f9ed86718f521dab6b1e50dc200aca",
+      "lesson": "sb-u6-listening",
+      "file": "sb-u6-listening/media/sb-unit 6 p.108-t.3a.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 6,
+      "section": "listening",
+      "source_page": 108,
+      "scope": "page_task",
+      "duration": 86.12,
+      "sha256": "bcf1a201a52d720a9d9b783182ee1c45a018bb38eee8e2b3216f3e542b7956cd",
+      "source_exercise": "3a",
+      "source_pages": [
+        108
+      ]
+    },
+    {
+      "id": "sb_audio-341",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u6-health/06-vocabulary-2/unit 6 p.109-t.2.mp3",
+      "original_filename": "unit 6 p.109-t.2.mp3",
+      "source_sha256": "f640c79713d0605e7acb95dd32e4146827e16575fbccb3c32718bc3dd1783739",
+      "lesson": "sb-u6-vocabulary-2",
+      "file": "sb-u6-vocabulary-2/media/sb-unit 6 p.109-t.2.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 6,
+      "section": "vocabulary-2",
+      "source_page": 109,
+      "scope": "page_task",
+      "duration": 78.3,
+      "sha256": "c3b60c8191b4d0e361ce81be82299229a0847eb014f13753ea7bd5be31c163c2",
+      "source_exercise": "2",
+      "source_pages": [
+        109
+      ]
+    },
+    {
+      "id": "sb_audio-342",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u6-health/08-speaking/unit 6 p.113-t.1.mp3",
+      "original_filename": "unit 6 p.113-t.1.mp3",
+      "source_sha256": "e9c9877979f461a9531499450756d50fc09423275820134f0c8dd97fff04ee15",
+      "lesson": "sb-u6-speaking",
+      "file": "sb-u6-speaking/media/sb-unit 6 p.113-t.1.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 6,
+      "section": "speaking",
+      "source_page": 113,
+      "scope": "page_task",
+      "duration": 38.05,
+      "sha256": "5c259edbc2bc0ece22f2bd93d27510fe5c6873a45107715e565e64c1cc899b3c",
+      "source_exercise": "1",
+      "source_pages": [
+        113
+      ]
+    },
+    {
+      "id": "sb_audio-343",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u7-cinema/00-lead-in/unit 7 .mp3",
+      "original_filename": "unit 7 .mp3",
+      "source_sha256": "e2457bac14fc3a7403c8f5386ffb52643f3b5e9ba13be8dab76b1d60f7f3b5b6",
+      "lesson": "sb-u7-lead-in",
+      "file": "sb-u7-lead-in/media/sb-unit 7 .mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 7,
+      "section": "lead-in",
+      "source_page": null,
+      "scope": "unit_introductory_recording",
+      "duration": 13.14,
+      "sha256": "224e16d046f9321ce76297bbd4935714977efc0e1e0db3bb63236c77a59dedd1",
+      "source_exercise": null,
+      "source_pages": [
+        119
+      ]
+    },
+    {
+      "id": "sb_audio-344",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u7-cinema/01-blog/unit 7 p.121 Words.mp3",
+      "original_filename": "unit 7 p.121 Words.mp3",
+      "source_sha256": "84c8ed9b6ca5f62e7c358d1218ec57d56de2739156f50c66223b59fb53368fba",
+      "lesson": "sb-u7-blog",
+      "file": "sb-u7-blog/media/sb-unit 7 p.121 Words.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 7,
+      "section": "blog",
+      "source_page": 121,
+      "scope": "page_task",
+      "duration": 25.25,
+      "sha256": "2428ed5a2ee8dac798a5d8e4c155f1a7c6973269f336d9f87169eb0b7ed9c88e",
+      "source_exercise": null,
+      "source_pages": [
+        121
+      ]
+    },
+    {
+      "id": "sb_audio-345",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u7-cinema/03-reading/unit 7 p.124 Words.mp3",
+      "original_filename": "unit 7 p.124 Words.mp3",
+      "source_sha256": "bf15c64777a560637746ff1c1409a7af3c1baab55e0bcf793ffb9853804a5da0",
+      "lesson": "sb-u7-reading",
+      "file": "sb-u7-reading/media/sb-unit 7 p.124 Words.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 7,
+      "section": "reading",
+      "source_page": 124,
+      "scope": "page_task",
+      "duration": 36.87,
+      "sha256": "bf60bdc74ab9d2ad1e97080865bca0c8bf413afeefcdd3bf5b168c8dd8fcb1cb",
+      "source_exercise": null,
+      "source_pages": [
+        124
+      ]
+    },
+    {
+      "id": "sb_audio-346",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u7-cinema/05-listening/unit 7 p.128-t.1.mp3",
+      "original_filename": "unit 7 p.128-t.1.mp3",
+      "source_sha256": "fb8fbb0d6825cad39a718d98f4a90ca628ab27c6620925944dd880a9e8fc5a49",
+      "lesson": "sb-u7-listening",
+      "file": "sb-u7-listening/media/sb-unit 7 p.128-t.1.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 7,
+      "section": "listening",
+      "source_page": 128,
+      "scope": "page_task",
+      "duration": 104.36,
+      "sha256": "66d48239ed0084a2d5299b0f1f691db47a18182d859d803aed493c659f60f219",
+      "source_exercise": "1",
+      "source_pages": [
+        128
+      ]
+    },
+    {
+      "id": "sb_audio-347",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u7-cinema/08-speaking/unit 7 p.132-t.2a.mp3",
+      "original_filename": "unit 7 p.132-t.2a.mp3",
+      "source_sha256": "332d0ef6a918e633f35a58cb96f12e884b1c3975ba7e44f2692bc8a55a504242",
+      "lesson": "sb-u7-speaking",
+      "file": "sb-u7-speaking/media/sb-unit 7 p.132-t.2a.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 7,
+      "section": "speaking",
+      "source_page": 132,
+      "scope": "page_task",
+      "duration": 70.7,
+      "sha256": "6f614a7dd968b483cfb8336368150b769f45f89fc9e48faf3788a132203a4c37",
+      "source_exercise": "2a",
+      "source_pages": [
+        132
+      ]
+    },
+    {
+      "id": "sb_audio-348",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u7-cinema/10-look-back/unit 7 p.137-t.6a.mp3",
+      "original_filename": "unit 7 p.137-t.6a.mp3",
+      "source_sha256": "d45f6bb2bcee3c2acbdbcb8126d454bfe256d956ac693acd3e888d8ead206cb1",
+      "lesson": "sb-u7-look-back",
+      "file": "sb-u7-look-back/media/sb-unit 7 p.137-t.6a.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 7,
+      "section": "look-back",
+      "source_page": 137,
+      "scope": "page_task",
+      "duration": 71.02,
+      "sha256": "d84f4059c64c9b734263a3e8d035bef05856b61a930eacd84e1d22487f5352dd",
+      "source_exercise": "6a",
+      "source_pages": [
+        137
+      ]
+    },
+    {
+      "id": "sb_audio-349",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u8-travel/00-lead-in/unit 8 .mp3",
+      "original_filename": "unit 8 .mp3",
+      "source_sha256": "90cb3c890303e059de3134fcfa885d3579f9260913385666672c0eded077befa",
+      "lesson": "sb-u8-lead-in",
+      "file": "sb-u8-lead-in/media/sb-unit 8 .mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 8,
+      "section": "lead-in",
+      "source_page": null,
+      "scope": "unit_introductory_recording",
+      "duration": 15.11,
+      "sha256": "b1423b5d26788bd2e2203a594031ec3c883decbbb9f0c6375168f404375daa79",
+      "source_exercise": null,
+      "source_pages": [
+        139
+      ]
+    },
+    {
+      "id": "sb_audio-350",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u8-travel/01-blog/unit 8 p.140 Words.mp3",
+      "original_filename": "unit 8 p.140 Words.mp3",
+      "source_sha256": "ceeb8c539f8ef746c6ccf9fdf466e203c3ef6108597e3e1def5c18bee09e9899",
+      "lesson": "sb-u8-blog",
+      "file": "sb-u8-blog/media/sb-unit 8 p.140 Words.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 8,
+      "section": "blog",
+      "source_page": 140,
+      "scope": "page_task",
+      "duration": 41.58,
+      "sha256": "5f139533faae2f3246f06c82ce54758c13a5802cdd2a34ac49da731245dd2039",
+      "source_exercise": null,
+      "source_pages": [
+        140
+      ]
+    },
+    {
+      "id": "sb_audio-351",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u8-travel/01-blog/unit 8 p.140-t.2b_1.mp3",
+      "original_filename": "unit 8 p.140-t.2b_1.mp3",
+      "source_sha256": "7555535d3d80213ffce4ef2de2456c8ea68518cf7e76a6df8b8273faeb77ba4a",
+      "lesson": "sb-u8-blog",
+      "file": "sb-u8-blog/media/sb-unit 8 p.140-t.2b_1.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 8,
+      "section": "blog",
+      "source_page": 140,
+      "scope": "page_task",
+      "duration": 87.3,
+      "sha256": "7da051a9c1e356cfb9a0fbc80ea55ca25c13699226224151d7899b80e2090fdf",
+      "source_exercise": "2b",
+      "source_pages": [
+        140
+      ]
+    },
+    {
+      "id": "sb_audio-352",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u8-travel/01-blog/unit 8 p.140-t.2b_2.mp3",
+      "original_filename": "unit 8 p.140-t.2b_2.mp3",
+      "source_sha256": "e08874c3df78c2737760ea41c9ee10cc33fd67e841757d92d3672b8fa958fe88",
+      "lesson": "sb-u8-blog",
+      "file": "sb-u8-blog/media/sb-unit 8 p.140-t.2b_2.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 8,
+      "section": "blog",
+      "source_page": 140,
+      "scope": "page_task",
+      "duration": 55.58,
+      "sha256": "e1496efc94d9486d839c9e2e72cf4716dbdb1f3cd2d39b846774ce5e5d1c087a",
+      "source_exercise": "2b",
+      "source_pages": [
+        140
+      ]
+    },
+    {
+      "id": "sb_audio-353",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u8-travel/01-blog/unit 8 p.140-t.2b_3.mp3",
+      "original_filename": "unit 8 p.140-t.2b_3.mp3",
+      "source_sha256": "4fee982a6d8615023c3e153ff0c021914bd6a1df8506d8b54817e9876218e022",
+      "lesson": "sb-u8-blog",
+      "file": "sb-u8-blog/media/sb-unit 8 p.140-t.2b_3.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 8,
+      "section": "blog",
+      "source_page": 140,
+      "scope": "page_task",
+      "duration": 50.92,
+      "sha256": "a00eec489304af04347674a14664ac021e1d9e0beff2e09ca138c86a62dbba99",
+      "source_exercise": "2b",
+      "source_pages": [
+        140
+      ]
+    },
+    {
+      "id": "sb_audio-354",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u8-travel/01-blog/unit 8 p.140-t.2b_4.mp3",
+      "original_filename": "unit 8 p.140-t.2b_4.mp3",
+      "source_sha256": "ed82526405e507de9a8cbc2a03b1d1b9b45ea696be5f2aaebfce60edd0d34b30",
+      "lesson": "sb-u8-blog",
+      "file": "sb-u8-blog/media/sb-unit 8 p.140-t.2b_4.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 8,
+      "section": "blog",
+      "source_page": 140,
+      "scope": "page_task",
+      "duration": 54.29,
+      "sha256": "21ddc3bdc2d3177f75c196a9611114b2dc94ffc1da5051b27342174c032dbfee",
+      "source_exercise": "2b",
+      "source_pages": [
+        140
+      ]
+    },
+    {
+      "id": "sb_audio-355",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u8-travel/03-reading/unit 8 p.145 Words.mp3",
+      "original_filename": "unit 8 p.145 Words.mp3",
+      "source_sha256": "c17de195e08896432e0441cfb4aa900612ab85a0477fb7aa9822061d5e64790f",
+      "lesson": "sb-u8-reading",
+      "file": "sb-u8-reading/media/sb-unit 8 p.145 Words.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 8,
+      "section": "reading",
+      "source_page": 145,
+      "scope": "page_task",
+      "duration": 22.3,
+      "sha256": "d53d6fc85472fdf9bdb0805b6994f32ce1248b06d15ec9cc55c0931b250b2efa",
+      "source_exercise": null,
+      "source_pages": [
+        145
+      ]
+    },
+    {
+      "id": "sb_audio-356",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u8-travel/05-listening/unit 8 p.148 Words.mp3",
+      "original_filename": "unit 8 p.148 Words.mp3",
+      "source_sha256": "159af424dcb22cb65e9c6fb89a48592b81ef7b4cb35c175eb293767ed6cfcf90",
+      "lesson": "sb-u8-listening",
+      "file": "sb-u8-listening/media/sb-unit 8 p.148 Words.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 8,
+      "section": "listening",
+      "source_page": 148,
+      "scope": "page_task",
+      "duration": 17.68,
+      "sha256": "4439b20d391736879441ffc386a22c8bfa20978a80cb96dca39ed6104829fe2a",
+      "source_exercise": null,
+      "source_pages": [
+        148
+      ]
+    },
+    {
+      "id": "sb_audio-357",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u8-travel/05-listening/unit 8 p.149-t.3a.mp3",
+      "original_filename": "unit 8 p.149-t.3a.mp3",
+      "source_sha256": "1a8334bf224acb96726725d22efec8fa04e999264059fb7a38017400ecf15a65",
+      "lesson": "sb-u8-listening",
+      "file": "sb-u8-listening/media/sb-unit 8 p.149-t.3a.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 8,
+      "section": "listening",
+      "source_page": 149,
+      "scope": "page_task",
+      "duration": 102.91,
+      "sha256": "585e1c566758e147c3a199e7a559020b859f66a746189db416287ae36d139303",
+      "source_exercise": "3a",
+      "source_pages": [
+        149
+      ]
+    },
+    {
+      "id": "sb_audio-358",
+      "source": "/home/why/-teach/7-eng/sb-pages-png/png/u8-travel/10-look-back/unit 8 p.157-t.7a.mp3",
+      "original_filename": "unit 8 p.157-t.7a.mp3",
+      "source_sha256": "dc093f34eec7fc13c6088ef98b79401c45dde8226240733067d671cc61c1a4b3",
+      "lesson": "sb-u8-look-back",
+      "file": "sb-u8-look-back/media/sb-unit 8 p.157-t.7a.mp3",
+      "kind": "audio",
+      "book": "SB",
+      "unit": 8,
+      "section": "look-back",
+      "source_page": 157,
+      "scope": "page_task",
+      "duration": 114.62,
+      "sha256": "31c366f76f7e96cc5214e28dd4b54cd5a3c5ddcf47c4456506076a36d07f83a6",
+      "source_exercise": "7a",
+      "source_pages": [
+        157
+      ]
+    },
+    {
+      "id": "wb_audio-359",
+      "source": "/home/why/-teach/7-eng/друкований зошит/00-starter/English 7_2024-AB 01-Intro.mp3",
+      "original_filename": "English 7_2024-AB 01-Intro.mp3",
+      "source_sha256": "686d42ce772638d2a261a7385559591af74d45a48a280bd66da51726e222b7c7",
+      "lesson": "sb-starter",
+      "file": "sb-starter/media/wb-English 7_2024-AB 01-Intro.mp3",
+      "kind": "audio",
+      "book": "WB",
+      "unit": 0,
+      "section": "starter",
+      "source_page": null,
+      "scope": "section_task",
+      "duration": 20.58,
+      "sha256": "8d4792516c159efaa386207921c8b2c6a169cc95511cb744972ef26b7c273d50",
+      "source_exercise": null,
+      "source_pages": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "wb_audio-360",
+      "source": "/home/why/-teach/7-eng/друкований зошит/u1-school/05-listening/English 7_2024-AB 02_U1.Listening_t.2.mp3",
+      "original_filename": "English 7_2024-AB 02_U1.Listening_t.2.mp3",
+      "source_sha256": "53950709fe14984a0de90e215fc041c798ac14159eec90c88644072ca964a492",
+      "lesson": "sb-u1-listening",
+      "file": "sb-u1-listening/media/wb-English 7_2024-AB 02_U1.Listening_t.2.mp3",
+      "kind": "audio",
+      "book": "WB",
+      "unit": 1,
+      "section": "listening",
+      "source_page": null,
+      "scope": "section_task",
+      "duration": 92.57,
+      "sha256": "12f96dd563753e08bea46bd3e7b8bc1532fef003045d555c38f0f6f527ec887c",
+      "source_exercise": "2",
+      "source_pages": [
+        11
+      ]
+    },
+    {
+      "id": "wb_audio-361",
+      "source": "/home/why/-teach/7-eng/друкований зошит/u1-school/08-speaking/English 7_2024-AB 03_U1.Speaking_t.1a.mp3",
+      "original_filename": "English 7_2024-AB 03_U1.Speaking_t.1a.mp3",
+      "source_sha256": "f8e49bbe0aa11008b248133994a818b9a41b7be891c781ce85eea6ffc9193f62",
+      "lesson": "sb-u1-speaking",
+      "file": "sb-u1-speaking/media/wb-English 7_2024-AB 03_U1.Speaking_t.1a.mp3",
+      "kind": "audio",
+      "book": "WB",
+      "unit": 1,
+      "section": "speaking",
+      "source_page": null,
+      "scope": "section_task",
+      "duration": 72.38,
+      "sha256": "69773efd3b01ab1bd904f28e22d8ab54f65c7889ccfdb7e4410b6d3a29c05bf0",
+      "source_exercise": "1a",
+      "source_pages": [
+        13
+      ]
+    },
+    {
+      "id": "wb_audio-362",
+      "source": "/home/why/-teach/7-eng/друкований зошит/u3-cooking/05-listening/English 7_2024-AB 04_U3.Listening_t.2b.mp3",
+      "original_filename": "English 7_2024-AB 04_U3.Listening_t.2b.mp3",
+      "source_sha256": "054e2fab728344b6c889f6a5bbb9c10b8d0606f3ff7b301d7d8e403da49c1638",
+      "lesson": "sb-u3-listening",
+      "file": "sb-u3-listening/media/wb-English 7_2024-AB 04_U3.Listening_t.2b.mp3",
+      "kind": "audio",
+      "book": "WB",
+      "unit": 3,
+      "section": "listening",
+      "source_page": null,
+      "scope": "section_task",
+      "duration": 79.63,
+      "sha256": "5a3215717bcda9fa48109076c1cfebd9bd17bc114228e83c5a04078e7569da95",
+      "source_exercise": "2b",
+      "source_pages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "wb_audio-363",
+      "source": "/home/why/-teach/7-eng/друкований зошит/u3-cooking/09-writing/English 7_2024-AB 05_U3.Writing_t.1.mp3",
+      "original_filename": "English 7_2024-AB 05_U3.Writing_t.1.mp3",
+      "source_sha256": "285a5af5c29743a87878a77cf6e793a6f0fa5d1e5e1b9f55f5de2da96566c66b",
+      "lesson": "sb-u3-writing",
+      "file": "sb-u3-writing/media/wb-English 7_2024-AB 05_U3.Writing_t.1.mp3",
+      "kind": "audio",
+      "book": "WB",
+      "unit": 3,
+      "section": "writing",
+      "source_page": null,
+      "scope": "section_task",
+      "duration": 49.24,
+      "sha256": "416fea60b8f2bb86e84a93109eabb64645ee6df45609d8c841b163256aa6fe6c",
+      "source_exercise": "1",
+      "source_pages": [
+        38
+      ]
+    },
+    {
+      "id": "wb_audio-364",
+      "source": "/home/why/-teach/7-eng/друкований зошит/u3-cooking/10-look-back/English 7_2024-AB 06_U3.Look Back_t.4.mp3",
+      "original_filename": "English 7_2024-AB 06_U3.Look Back_t.4.mp3",
+      "source_sha256": "e5e435b23f8a5319b9be176d98e58de45b0090fa82e10190c934a858d059714f",
+      "lesson": "sb-u3-look-back",
+      "file": "sb-u3-look-back/media/wb-English 7_2024-AB 06_U3.Look Back_t.4.mp3",
+      "kind": "audio",
+      "book": "WB",
+      "unit": 3,
+      "section": "look-back",
+      "source_page": null,
+      "scope": "section_task",
+      "duration": 93.93,
+      "sha256": "b26926ab3b06a3486253c9d382490897eaf2e2839b8a9e0ab3e6bb5ca15a9efd",
+      "source_exercise": "4",
+      "source_pages": [
+        39,
+        40,
+        41
+      ]
+    },
+    {
+      "id": "wb_audio-365",
+      "source": "/home/why/-teach/7-eng/друкований зошит/u5-sport/05-listening/English 7_2024-AB 07_U5.Listenihg_t.2.mp3",
+      "original_filename": "English 7_2024-AB 07_U5.Listenihg_t.2.mp3",
+      "source_sha256": "9ce6026bedbfaad30856c7a8fb4df50a49e17079a6f48ebb139cd0272e6d2a65",
+      "lesson": "sb-u5-listening",
+      "file": "sb-u5-listening/media/wb-English 7_2024-AB 07_U5.Listenihg_t.2.mp3",
+      "kind": "audio",
+      "book": "WB",
+      "unit": 5,
+      "section": "listening",
+      "source_page": null,
+      "scope": "section_task",
+      "duration": 46.3,
+      "sha256": "b205a80cf04fd1f592fd8e5313c636fd61677b45ffba8f336ea45662058a3468",
+      "source_exercise": "2",
+      "source_pages": [
+        59,
+        60
+      ]
+    },
+    {
+      "id": "wb_audio-366",
+      "source": "/home/why/-teach/7-eng/друкований зошит/u5-sport/08-speaking/English 7_2024-AB 08_U5.Speaking_t.2.mp3",
+      "original_filename": "English 7_2024-AB 08_U5.Speaking_t.2.mp3",
+      "source_sha256": "415b7bf09f7832fa72ebebfe92c7d7dcca35bdfc37a7a320eeb5599d923af6b4",
+      "lesson": "sb-u5-speaking",
+      "file": "sb-u5-speaking/media/wb-English 7_2024-AB 08_U5.Speaking_t.2.mp3",
+      "kind": "audio",
+      "book": "WB",
+      "unit": 5,
+      "section": "speaking",
+      "source_page": null,
+      "scope": "section_task",
+      "duration": 54.56,
+      "sha256": "e2a9f873e72cd32b68a9594e2ffb2b09653816d2332e47cade7ec91935deb33a",
+      "source_exercise": "2",
+      "source_pages": [
+        63
+      ]
+    },
+    {
+      "id": "wb_audio-367",
+      "source": "/home/why/-teach/7-eng/друкований зошит/u5-sport/09-writing/English 7_2024-AB 09_U5.Writing_t.1.mp3",
+      "original_filename": "English 7_2024-AB 09_U5.Writing_t.1.mp3",
+      "source_sha256": "a02a4d613eea43cd12c51f804c9133e0c2414a6e5ec746149826b06b41df0499",
+      "lesson": "sb-u5-writing",
+      "file": "sb-u5-writing/media/wb-English 7_2024-AB 09_U5.Writing_t.1.mp3",
+      "kind": "audio",
+      "book": "WB",
+      "unit": 5,
+      "section": "writing",
+      "source_page": null,
+      "scope": "section_task",
+      "duration": 62.14,
+      "sha256": "505f6e1829c099fd35d58b4eb95f126f37c860fcf5782d58978efb13973015a3",
+      "source_exercise": "1",
+      "source_pages": [
+        64
+      ]
+    },
+    {
+      "id": "wb_audio-368",
+      "source": "/home/why/-teach/7-eng/друкований зошит/u7-cinema/05-listening/English 7_2024-AB 10_U7.Listening_t.1.mp3",
+      "original_filename": "English 7_2024-AB 10_U7.Listening_t.1.mp3",
+      "source_sha256": "e85e22b4b25a34fa04f6198224c47c7dddf96e6a7d4948ce096e64d5c7e3e029",
+      "lesson": "sb-u7-listening",
+      "file": "sb-u7-listening/media/wb-English 7_2024-AB 10_U7.Listening_t.1.mp3",
+      "kind": "audio",
+      "book": "WB",
+      "unit": 7,
+      "section": "listening",
+      "source_page": null,
+      "scope": "section_task",
+      "duration": 93.77,
+      "sha256": "ecf97d8201c7a268b307cc8b06db6f8a6f0b317985e5c9a29c646657eb846a4e",
+      "source_exercise": "1",
+      "source_pages": [
+        87
+      ]
+    },
+    {
+      "id": "wb_audio-369",
+      "source": "/home/why/-teach/7-eng/друкований зошит/u7-cinema/08-speaking/English 7_2024-AB 11_U7.Speaking_t.1a.mp3",
+      "original_filename": "English 7_2024-AB 11_U7.Speaking_t.1a.mp3",
+      "source_sha256": "b77d6a4dac4ae395e10266a32a842b0be55c2068d9ff882c1192e86330db7e2e",
+      "lesson": "sb-u7-speaking",
+      "file": "sb-u7-speaking/media/wb-English 7_2024-AB 11_U7.Speaking_t.1a.mp3",
+      "kind": "audio",
+      "book": "WB",
+      "unit": 7,
+      "section": "speaking",
+      "source_page": null,
+      "scope": "section_task",
+      "duration": 56.36,
+      "sha256": "5da9aa07a5b259205c1078273263a02781af4e57dfc2244ae7b08c723d3c3bc9",
+      "source_exercise": "1a",
+      "source_pages": [
+        89
+      ]
+    },
+    {
+      "id": "wb_audio-370",
+      "source": "/home/why/-teach/7-eng/друкований зошит/u8-travel/05-listening/English 7_2024-AB 12_U8.Listening_t.2.mp3",
+      "original_filename": "English 7_2024-AB 12_U8.Listening_t.2.mp3",
+      "source_sha256": "a9c94c4e27e0c9c1bbeeaf99699cdb41b22a405247f8cd358a8dc58e6c71d422",
+      "lesson": "sb-u8-listening",
+      "file": "sb-u8-listening/media/wb-English 7_2024-AB 12_U8.Listening_t.2.mp3",
+      "kind": "audio",
+      "book": "WB",
+      "unit": 8,
+      "section": "listening",
+      "source_page": null,
+      "scope": "section_task",
+      "duration": 66.31,
+      "sha256": "526f034a155602f21e9cbdb9f6a64decb00835a955e550e4178e7a2aed97b686",
+      "source_exercise": "2",
+      "source_pages": [
+        100,
+        101
+      ]
+    },
+    {
+      "id": "wb_audio-371",
+      "source": "/home/why/-teach/7-eng/друкований зошит/u8-travel/08-speaking/English 7_2024-AB 13_U8.Speaking_t.1a.mp3",
+      "original_filename": "English 7_2024-AB 13_U8.Speaking_t.1a.mp3",
+      "source_sha256": "2d4474d87f232c8127001284f0946b6e43db4dd0d6a782b7523e0f7c60e431b2",
+      "lesson": "sb-u8-speaking",
+      "file": "sb-u8-speaking/media/wb-English 7_2024-AB 13_U8.Speaking_t.1a.mp3",
+      "kind": "audio",
+      "book": "WB",
+      "unit": 8,
+      "section": "speaking",
+      "source_page": null,
+      "scope": "section_task",
+      "duration": 69.72,
+      "sha256": "5171b77dc1d65b330ff529d89261faa51d658d4a2c2f5ab649b6a04a664c1be5",
+      "source_exercise": "1a",
+      "source_pages": [
+        104
+      ]
+    }
+  ],
+  "source_roots": [
+    "/home/why/-teach/7-eng/sb-pages-png/png",
+    "/home/why/-teach/7-eng/друкований зошит"
+  ]
+}

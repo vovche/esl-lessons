@@ -1,0 +1,18 @@
+# Джерела: Do your chores: Блог і обговорення
+
+О. Карпюк, К. Карпюк. Англійська мова, 7 клас, видання 2024 року.
+
+## Підручник (SB)
+- `/home/why/-teach/7-eng/sb-pages-png/png/u2-chores/01-blog/page-028.png` — друкована с. 28
+- `/home/why/-teach/7-eng/sb-pages-png/png/u2-chores/01-blog/page-029.png` — друкована с. 29
+
+## Activity Book (WB)
+- `/home/why/-teach/7-eng/друкований зошит/u2-chores/01-blog/page-18.png` — друкована с. 18
+- `/home/why/-teach/7-eng/друкований зошит/u2-chores/01-blog/page-19.png` — друкована с. 19
+
+## Аудіо
+- SB: `/home/why/-teach/7-eng/sb-pages-png/png/u2-chores/01-blog/unit 2 p.28 Words.mp3` → [запис](../sb-u2-blog/media/sb-unit 2 p.28 Words.mp3)
+- SB: `/home/why/-teach/7-eng/sb-pages-png/png/u2-chores/01-blog/unit 2 p.28-t.2.mp3` → [запис](../sb-u2-blog/media/sb-unit 2 p.28-t.2.mp3)
+- SB: `/home/why/-teach/7-eng/sb-pages-png/png/u2-chores/01-blog/unit 2 p.29-t.5.mp3` → [запис](../sb-u2-blog/media/sb-unit 2 p.29-t.5.mp3)
+
+Пояснення, короткі тексти й інтерактивні вправи — авторські адаптації. Аудіо оригінальне; адаптований текст не є його транскриптом. Скановані сторінки залишаються у локальному сховищі викладача.

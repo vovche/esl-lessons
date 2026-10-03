@@ -30,7 +30,7 @@ micro neganswer option path producefeedback produceinput qanswer radio replace
 runeing runing select skill span strip strong style text tolowercase
 button checked checking click display feedback language prompt
 sweeped google excel doesn don isn ed ing ie'''.split())
-EXCLUDE.update({'advices','clil','er','est','fin','ful','learning-tips','shoulding','waked','pair-work','clil-geography','clil-history','clil-music','clil-sport','culture-ukraine'})
+EXCLUDE.update({'advices','clil','er','est','fin','ful','learning-tips','shoulding','waked','pair-work','clil-geography','clil-history','clil-music','clil-sport','culture-ukraine', 'enoughly', 'sb', 'wb'})
 EXCLUDE.difference_update({'checked','label','legend','text'})
 EXCLUDE.discard('i')
 EXCLUDE.discard('washing-up')

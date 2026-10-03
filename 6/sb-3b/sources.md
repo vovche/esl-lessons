@@ -4,8 +4,8 @@
 
 Локальне джерело: `/home/why/-teach/6-eng/sb-pages`.
 
-- `u3-adventure/3b/page-035.png` — друкована с. 34
-- `u3-adventure/3b/page-036.png` — друкована с. 35
+- `u3-adventure/3b/page-034.png` — друкована с. 34
+- `u3-adventure/3b/page-035.png` — друкована с. 35
 
 ## Записи підручника
 

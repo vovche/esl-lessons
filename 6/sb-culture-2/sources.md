@@ -4,7 +4,7 @@
 
 Локальне джерело: `/home/why/-teach/6-eng/sb-pages`.
 
-- `u3-adventure/page-043-culture page.png` — друкована с. 42
+- `u3-adventure/page-042-culture page.png` — друкована с. 42
 
 ## Записи підручника
 

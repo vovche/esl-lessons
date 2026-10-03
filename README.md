@@ -10,8 +10,8 @@
 
 ## 7 клас
 
-- [Unit 1: In and out of school](7/) — п’ять інтерактивних уроків про клуби, шкільні події та запитання в теперішньому часі.
-- [Unit 2: Do your chores](7/) — п’ять інтерактивних уроків про хатні справи та запитання в минулому часі.
+- [Повний курс Карпюк, 2024](7/) — Starter, усі 8 юнітів і 97 розділів із поясненнями, інтерактивними вправами, матеріалами Activity Book та 88 оригінальними аудіозаписами SB/WB. Десять попередніх уроків збережено; додано граматичний і лексичний довідники.
+- Дані: `7/lessons.json`; аудіо та його походження: `7/media-manifest.json`. Відтворення сторінок: `python3 scripts/build_grade7.py`. Скановані сторінки залишаються поза репозиторієм у локальній бібліотеці викладача.
 
 ## Словник
 
@@ -32,6 +32,7 @@
 ```bash
 python3 tests/check_navigation.py
 python3 tests/check_grade6.py
+python3 tests/check_grade7.py
 python3 scripts/build_dictionary.py --check
 python3 tests/check_jolly_phonics.py
 python3 tests/check_future_forms_v2.py

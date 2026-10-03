@@ -1,13 +1,21 @@
-# Джерела до уроку «Our home story»
+# Джерела: Our home story
 
-**Тема:** кімната, записки, письмова думка й підсумок Unit 2.
+О. Карпюк, К. Карпюк. Англійська мова, 7 клас, видання 2024 року.
 
-1. Друкований зошит, Unit 2. Каталог джерела: `/home/why/-teach/7-eng/друкований зошит/u2 p18-30/`.
-  - `page-26.png` — с. 26
-  - `page-27.png` — с. 27
-  - `page-28.png` — с. 28
-  - `page-29.png` — с. 29
-  - `page-30.png` — с. 30
-2. Підручник О. Карпюк «Англійська мова. 7 клас» (2024), с. **39–44**. Файл: `/home/why/-teach/7-eng/7-klas-angliyska-karpuk-2024.pdf`.
+## Підручник (SB)
+- `/home/why/-teach/7-eng/sb-pages-png/png/u2-chores/08-speaking/page-039.png` — друкована с. 39
+- `/home/why/-teach/7-eng/sb-pages-png/png/u2-chores/09-writing/page-040.png` — друкована с. 40
+- `/home/why/-teach/7-eng/sb-pages-png/png/u2-chores/10-look-back/page-041.png` — друкована с. 41
+- `/home/why/-teach/7-eng/sb-pages-png/png/u2-chores/10-look-back/page-042.png` — друкована с. 42
+- `/home/why/-teach/7-eng/sb-pages-png/png/u2-chores/10-look-back/page-043.png` — друкована с. 43
 
-Пояснення та інтерактивні запитання адаптовано для уроку. Скановані сторінки й PDF зберігаються в локальному сховищі викладача поза репозиторієм; на сайті наведено їхні точні назви й сторінки.
+## Activity Book (WB)
+- `/home/why/-teach/7-eng/друкований зошит/u2-chores/08-speaking/page-26.png` — друкована с. 26
+- `/home/why/-teach/7-eng/друкований зошит/u2-chores/09-writing/page-27.png` — друкована с. 27
+- `/home/why/-teach/7-eng/друкований зошит/u2-chores/10-look-back/page-28.png` — друкована с. 28
+- `/home/why/-teach/7-eng/друкований зошит/u2-chores/10-look-back/page-29.png` — друкована с. 29
+- `/home/why/-teach/7-eng/друкований зошит/u2-chores/10-look-back/page-30.png` — друкована с. 30
+
+## Аудіо
+
+Пояснення, короткі тексти й інтерактивні вправи — авторські адаптації. Аудіо оригінальне; адаптований текст не є його транскриптом. Скановані сторінки залишаються у локальному сховищі викладача.

@@ -40,13 +40,12 @@ def source_pages(lesson: dict) -> list[Path]:
         return [SOURCE/'u9-rest/1 - roundup'/f'page-{102+lesson["unit"]}.png']
     if code=='pair-work':return sorted((SOURCE/'u9-rest/4 - pair work activities').glob('*.png'))
     if code=='learning-tips':return [SOURCE/'u9-rest/page -131-learning tips.png', SOURCE/'u9-rest/page -132-project skills.png']
-    extras={'culture-1':FOLDERS[2]/'page-018-culture-page.png','culture-2':FOLDERS[3]/'page-043-culture page.png','culture-3':FOLDERS[5]/'page-66-culture page.png','culture-4':FOLDERS[7]/'page-90-culture page.png','song-1':FOLDERS[2]/'page-030-song1.png','song-2':FOLDERS[4]/'page-54-song2.png','song-3':FOLDERS[6]/'page-78-song3.png','song-4':FOLDERS[8]/'page-102-song4.png'}
+    extras={'culture-1':FOLDERS[2]/'page-018-culture-page.png','culture-2':FOLDERS[3]/'page-042-culture page.png','culture-3':FOLDERS[5]/'page-66-culture page.png','culture-4':FOLDERS[7]/'page-90-culture page.png','song-1':FOLDERS[2]/'page-030-song1.png','song-2':FOLDERS[4]/'page-54-song2.png','song-3':FOLDERS[6]/'page-78-song3.png','song-4':FOLDERS[8]/'page-102-song4.png'}
     return [extras[code]]
 
 
 def printed_page(path: Path) -> int:
     number=int(re.search(r'(\d+)',path.stem)[1])
-    if 'intro-hello' in str(path) or 'u3-adventure' in str(path):number-=1
     return number
 
 

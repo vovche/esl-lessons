@@ -1,11 +1,17 @@
-# Джерела до уроку «Special days at school»
+# Джерела: Special days at school
 
-**Тема:** шкільні свята та читання фактів про них.
+О. Карпюк, К. Карпюк. Англійська мова, 7 клас, видання 2024 року.
 
-1. Друкований зошит, Unit 1. Каталог джерела: `/home/why/-teach/7-eng/друкований зошит/u1 p6-17/`.
-   - `page-9.png` — с. 9
-   - `page-10.png` — с. 10
-   - `page-16.png` — с. 16
-2. Підручник О. Карпюк «Англійська мова. 7 клас» (2024), с. **11–13**. Файл: `/home/why/-teach/7-eng/7-klas-angliyska-karpuk-2024.pdf`.
+## Підручник (SB)
+- `/home/why/-teach/7-eng/sb-pages-png/png/u1-school/03-reading/page-011.png` — друкована с. 11
+- `/home/why/-teach/7-eng/sb-pages-png/png/u1-school/03-reading/page-012.png` — друкована с. 12
+- `/home/why/-teach/7-eng/sb-pages-png/png/u1-school/03-reading/page-013.png` — друкована с. 13
 
-Пояснення та інтерактивні запитання адаптовано для уроку. Скановані сторінки й PDF зберігаються в локальному сховищі викладача поза репозиторієм; на сайті наведено їхні точні назви й сторінки.
+## Activity Book (WB)
+- `/home/why/-teach/7-eng/друкований зошит/u1-school/03-reading/page-10.png` — друкована с. 10
+- `/home/why/-teach/7-eng/друкований зошит/u1-school/03-reading/page-9.png` — друкована с. 9
+
+## Аудіо
+- SB: `/home/why/-teach/7-eng/sb-pages-png/png/u1-school/03-reading/unit 1 p.12 Words.mp3` → [запис](../sb-u1-reading/media/sb-unit 1 p.12 Words.mp3)
+
+Пояснення, короткі тексти й інтерактивні вправи — авторські адаптації. Аудіо оригінальне; адаптований текст не є його транскриптом. Скановані сторінки залишаються у локальному сховищі викладача.
