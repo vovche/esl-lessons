@@ -156,7 +156,7 @@ def main():
     sections='<section class="class-section" id="unit-0"><div class="class-heading"><h2>Починаємо навчання</h2></div><div class="cards">'+catalog_card(sequence[0])+'</div></section>'
     for u,title in UNITS.items():
         group=[x for x in sequence if x['unit']==u]
-        sections+=f'<section class="class-section" id="unit-{u}"><div class="class-heading"><h2>Unit {u} · {e(title)}</h2><span>5 уроків · тема · повторення</span></div><p>{e(UNIT_INTROS[u])}</p><div class="cards">'+''.join(catalog_card(x) for x in group)+'</div></section>'
+        sections+=f'<section class="class-section" id="unit-{u}"><div class="class-heading"><h2>Unit {u} · {e(title)}</h2></div><p>{e(UNIT_INTROS[u])}</p><div class="cards">'+''.join(catalog_card(x) for x in group)+'</div></section>'
     additional=[x for x in sequence if x['unit']==0 and x['code']!='hello']
     sections+='<section class="class-section"><div class="class-heading"><h2>Культура, предметні уроки та проєкти</h2></div><div class="cards">'+''.join(catalog_card(x) for x in additional)+'</div></section>'
     refcards=''.join(f'<article class="card ready"><h3>{title}</h3><p>{description}</p><a class="btn primary" href="{slug}/">Відкрити →</a></article>' for slug,title,description in [('sb-grammar','Граматичний довідник','Правила й приклади з усіх юнітів.'),('sb-wordlist','Лексика курсу','Слова й фрази за уроками з вимовою.'),('jolly-phonics','Jolly Phonics: 42 звуки','Тренажер звуків, картки та історія проходжень.')])
