@@ -1,11 +1,23 @@
-# Джерела до уроку «Fashion then and now»
+# Джерела: Fashion then and now  Порівняй стилі й напиши допис
 
-**Тема:** Порівняй стилі й напиши допис.
+О. Карпюк, К. Карпюк. Англійська мова, 9 клас, видання 2026 року.
 
-1. Друкований зошит, Unit 2. Каталог джерела: `/home/why/-teach/9-eng/друкований зошит/u2.p21-38/`.
-   - `page-32.png` — с. 32
-   - `page-33.png` — с. 33
-   - `page-37.png` — с. 37
-2. Підручник О. Карпюк, К. Карпюк «Англійська мова. 9 клас» (2026), с. **39–44**. Файл: `/home/why/-teach/9-eng/9-klas-angliyska-karpuk-2026.pdf`.
+## Підручник (SB)
+- `/home/why/-teach/9-eng/sb-pages/u2-fashion/08-speaking/page-039.png` — друкована с. 39
+- `/home/why/-teach/9-eng/sb-pages/u2-fashion/09-writing/page-040.png` — друкована с. 40
+- `/home/why/-teach/9-eng/sb-pages/u2-fashion/10-look-back/page-041.png` — друкована с. 41
+- `/home/why/-teach/9-eng/sb-pages/u2-fashion/10-look-back/page-042.png` — друкована с. 42
+- `/home/why/-teach/9-eng/sb-pages/u2-fashion/10-look-back/page-043.png` — друкована с. 43
+- `/home/why/-teach/9-eng/sb-pages/u2-fashion/11-self-check/page-044.png` — друкована с. 44
 
-Діалог про моду різних десятиліть і зразки блогу використано як опору для власного тексту; довгі фрагменти не відтворено. Урок не вимагає недоступного тут аудіозапису. Скановані сторінки й PDF зберігаються в локальному сховищі викладача поза репозиторієм.
+## Activity Book (WB)
+- `/home/why/-teach/9-eng/sb-pages/u2-fashion/08-speaking/workbook/page-032.png` — друкована с. 32
+- `/home/why/-teach/9-eng/sb-pages/u2-fashion/09-writing/workbook/page-033.png` — друкована с. 33
+- `/home/why/-teach/9-eng/sb-pages/u2-fashion/10-look-back/workbook/page-037.png` — друкована с. 37
+
+## Аудіо
+- WB: `/home/why/-teach/9-eng/sb-pages/u2-fashion/10-look-back/workbook/unit 2_page37_t.8.mp3` → [запис](../sb-u2-look-back/workbook/media/unit 2_page37_t.8.mp3)
+- SB: `/home/why/-teach/9-eng/sb-pages/u2-fashion/08-speaking/unit 2 p.39_t.2.mp3` → [запис](../sb-u2-speaking/media/unit 2 p.39_t.2.mp3)
+- SB: `/home/why/-teach/9-eng/sb-pages/u2-fashion/10-look-back/unit 2 p.42_t.6.mp3` → [запис](../sb-u2-look-back/media/unit 2 p.42_t.6.mp3)
+
+Пояснення, короткі тексти й інтерактивні вправи — авторські адаптації. Аудіо оригінальне; текст для читання не є його транскриптом. Номер t у назві запису збережено як мітку файлу; для WB він іноді відрізняється від номера надрукованої вправи. Скановані сторінки зберігаються локально у викладача.

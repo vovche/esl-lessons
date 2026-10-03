@@ -28,6 +28,7 @@ jobs:
           python3 tests/check_navigation.py
           python3 tests/check_grade6.py
           python3 tests/check_grade7.py
+          python3 tests/check_grade9.py
           python3 scripts/build_dictionary.py --check
           python3 tests/check_jolly_phonics.py
           python3 tests/check_future_forms_v2.py

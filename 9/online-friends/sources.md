@@ -1,10 +1,21 @@
-# Джерела до уроку «Meet the people»
+# Джерела: Meet the people  Знайомство через профілі
 
-**Тема:** Знайомство через профілі.
+О. Карпюк, К. Карпюк. Англійська мова, 9 клас, видання 2026 року.
 
-1. Друкований зошит, Unit 1. Каталог джерела: `/home/why/-teach/9-eng/друкований зошит/u1.p6-20/`.
-   - `page-6.png` — с. 6
-   - `page-7.png` — с. 7
-2. Підручник О. Карпюк, К. Карпюк «Англійська мова. 9 клас» (2026), с. **7–10**. Файл: `/home/why/-teach/9-eng/9-klas-angliyska-karpuk-2026.pdf`.
+## Підручник (SB)
+- `/home/why/-teach/9-eng/sb-pages/u1-all-about-me/00-lead-in/page-007.png` — друкована с. 7
+- `/home/why/-teach/9-eng/sb-pages/u1-all-about-me/01-blog/page-008.png` — друкована с. 8
+- `/home/why/-teach/9-eng/sb-pages/u1-all-about-me/01-blog/page-009.png` — друкована с. 9
+- `/home/why/-teach/9-eng/sb-pages/u1-all-about-me/01-blog/page-010.png` — друкована с. 10
 
-Пояснення, приклади та інтерактивні запитання адаптовано для уроку. Скановані сторінки й PDF зберігаються в локальному сховищі викладача поза репозиторієм.
+## Activity Book (WB)
+- `/home/why/-teach/9-eng/sb-pages/u1-all-about-me/01-blog/workbook/page-006.png` — друкована с. 6
+- `/home/why/-teach/9-eng/sb-pages/u1-all-about-me/01-blog/workbook/page-007.png` — друкована с. 7
+
+## Аудіо
+- WB: `/home/why/-teach/9-eng/sb-pages/u1-all-about-me/00-lead-in/workbook/unit 1 .mp3` → [запис](../sb-u1-lead-in/workbook/media/unit 1 .mp3)
+- SB: `/home/why/-teach/9-eng/sb-pages/u1-all-about-me/00-lead-in/unit 1 .mp3` → [запис](../sb-u1-lead-in/media/unit 1 .mp3)
+- SB: `/home/why/-teach/9-eng/sb-pages/u1-all-about-me/01-blog/unit 1 p.8_t.1.mp3` → [запис](../sb-u1-blog/media/unit 1 p.8_t.1.mp3)
+- SB: `/home/why/-teach/9-eng/sb-pages/u1-all-about-me/01-blog/unit 1 p.8_t.2.mp3` → [запис](../sb-u1-blog/media/unit 1 p.8_t.2.mp3)
+
+Пояснення, короткі тексти й інтерактивні вправи — авторські адаптації. Аудіо оригінальне; текст для читання не є його транскриптом. Номер t у назві запису збережено як мітку файлу; для WB він іноді відрізняється від номера надрукованої вправи. Скановані сторінки зберігаються локально у викладача.

@@ -19,13 +19,12 @@
 
 ## 9 клас
 
-- [Unit 1: All About Me](9/) — шість 30-хвилинних уроків про профілі, характер, розвиток особистості, теперішні й минулі часи та автобіографію.
-- [Unit 2: Fashion All the Way](9/) — шість 30-хвилинних уроків про одяг, стилі, думки про моду, форми -ing / to та допис у блозі.
-- [Future Forms](9/future-forms/)
-- [Future Forms Quest](9/future-forms-v2/)
-- [Gerund: форма -ing](9/gerund/) — правила, слова-пастки, вправи та тест для 9 класу.
+- [Повний курс Карпюк, 2026](9/) — Starter, усі 8 юнітів і 97 розділів із поясненнями, інтерактивними вправами, матеріалами Activity Book та 106 оригінальними аудіозаписами SB/WB. Збережено 15 попередніх уроків і тренажерів; додано граматичний та лексичний довідники.
+- Дані: `9/lessons.json`; аудіо: `9/media-manifest.json`. Збірка: `python3 scripts/build_grade9.py`. SB і WB мають окремі аудіоплеєри зі сторінкою та міткою вихідного файлу. Скани залишаються в локальній бібліотеці викладача.
+- Попередні адаптації Unit1–2 зберігаються в `9/unit1-lessons.json` і `9/unit2-lessons.json`; після їхньої перебудови через `build_grade9_units.py` запускайте `build_grade9.py`, щоб відновити повний каталог і джерела з аудіо.
+- [Future Forms](9/future-forms/), [Future Forms Quest](9/future-forms-v2/), [Gerund](9/gerund/) зберігають навчальний зміст та поведінку.
 
-У кожному новому уроці джерела наведено в підвалі та в `sources.md` поруч зі сторінкою. Вміст уроків зберігається в `9/unit1-lessons.json` і `9/unit2-lessons.json`; сторінки можна відтворити командою `python3 scripts/build_grade9_units.py`. Матеріал Future Forms не дублюється.
+У кожному новому уроці джерела наведено в підвалі та в `sources.md` поруч зі сторінкою. Авторські тексти для читання не є транскриптами оригінальних записів.
 
 Для перевірки перед публікацією:
 
@@ -33,6 +32,7 @@
 python3 tests/check_navigation.py
 python3 tests/check_grade6.py
 python3 tests/check_grade7.py
+python3 tests/check_grade9.py
 python3 scripts/build_dictionary.py --check
 python3 tests/check_jolly_phonics.py
 python3 tests/check_future_forms_v2.py

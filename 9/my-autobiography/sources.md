@@ -1,12 +1,20 @@
-# Джерела до уроку «My story so far»
+# Джерела: My story so far  Напиши коротку автобіографію
 
-**Тема:** Напиши коротку автобіографію.
+О. Карпюк, К. Карпюк. Англійська мова, 9 клас, видання 2026 року.
 
-1. Друкований зошит, Unit 1. Каталог джерела: `/home/why/-teach/9-eng/друкований зошит/u1.p6-20/`.
-   - `page-14.png` — с. 14
-   - `page-15.png` — с. 15
-   - `page-18.png` — с. 18
-   - `page-19.png` — с. 19
-2. Підручник О. Карпюк, К. Карпюк «Англійська мова. 9 клас» (2026), с. **22, 24–26**. Файл: `/home/why/-teach/9-eng/9-klas-angliyska-karpuk-2026.pdf`.
+## Підручник (SB)
+- `/home/why/-teach/9-eng/sb-pages/u1-all-about-me/09-writing/page-022.png` — друкована с. 22
+- `/home/why/-teach/9-eng/sb-pages/u1-all-about-me/10-look-back/page-024.png` — друкована с. 24
+- `/home/why/-teach/9-eng/sb-pages/u1-all-about-me/10-look-back/page-025.png` — друкована с. 25
+- `/home/why/-teach/9-eng/sb-pages/u1-all-about-me/11-self-check/page-026.png` — друкована с. 26
 
-Лист Рейчел, блог Маркуса та автобіографію Сема використано як зразки структури; великі уривки не відтворено. Завдання адаптовано до 30-хвилинного уроку. Скановані сторінки й PDF зберігаються в локальному сховищі викладача поза репозиторієм.
+## Activity Book (WB)
+- `/home/why/-teach/9-eng/sb-pages/u1-all-about-me/09-writing/workbook/page-014.png` — друкована с. 14
+- `/home/why/-teach/9-eng/sb-pages/u1-all-about-me/09-writing/workbook/page-015.png` — друкована с. 15
+- `/home/why/-teach/9-eng/sb-pages/u1-all-about-me/10-look-back/workbook/page-018.png` — друкована с. 18
+- `/home/why/-teach/9-eng/sb-pages/u1-all-about-me/10-look-back/workbook/page-019.png` — друкована с. 19
+
+## Аудіо
+- SB: `/home/why/-teach/9-eng/sb-pages/u1-all-about-me/10-look-back/unit 1 p.25_t.9.mp3` → [запис](../sb-u1-look-back/media/unit 1 p.25_t.9.mp3)
+
+Пояснення, короткі тексти й інтерактивні вправи — авторські адаптації. Аудіо оригінальне; текст для читання не є його транскриптом. Номер t у назві запису збережено як мітку файлу; для WB він іноді відрізняється від номера надрукованої вправи. Скановані сторінки зберігаються локально у викладача.
