@@ -23,6 +23,13 @@ def players(media):
   label=f'{m["book"]} · '+('вступ до юніту' if m['scope']=='unit_introductory_recording' else 'вступ' if m['scope']=='introductory_recording' or not m.get('source_exercise') else 'с. '+', '.join(map(str,m.get('source_pages',[])))+', впр. '+m['source_exercise'])
   cards.append(f'<article class="media-card"><h3>{e(label)}</h3><details><summary>Назва оригінального запису</summary><p data-dictionary-skip>{e(m["original_filename"])}</p></details><audio controls preload="none" src="../{e(m["file"])}"></audio><a href="../{e(m["file"])}" download>Завантажити запис</a></article>')
  return '<section id="listen"><h2>Слухай і перевіряй</h2><p>Спочатку визнач ситуацію та учасників, потім знайди деталі для відповідної вправи SB або WB. Вступ до юніту — короткий запис для початку теми.</p><div class="media-grid">'+''.join(cards)+'</div></section>'
+def video_section(videos):
+ if not videos:return ''
+ cards=[]
+ for video in videos:
+  title=e(video['title'])
+  cards.append(f'<article class="video-card"><h3>{title}</h3><div class="video-frame"><iframe src="https://www.youtube-nocookie.com/embed/{e(video["id"])}" title="{title}" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><a href="https://youtu.be/{e(video["id"])}" target="_blank" rel="noopener noreferrer">Відкрити на YouTube ↗</a></article>')
+ return '<section class="video-lessons" aria-label="Відеорозбір підручника" data-dictionary-skip><h2>Відеорозбір матеріалу</h2><div class="video-grid">'+''.join(cards)+'</div></section>'
 def task_list(tasks,book):
  return '<ol data-dictionary-skip>'+''.join(f'<li>{book} с. {t["page"]}, впр. {t["exercise"]}: {e(t["instruction"])}</li>' for t in tasks)+'</ol>' if tasks else ''
 def workbook(s):
@@ -37,7 +44,7 @@ def card(s,prefix=''):
 def render_reference(slug,title,body):
  return common.reference_page(slug,title,body).replace('6 клас','7 клас')
 def main():
- lessons=json.loads((GRADE/'lessons.json').read_text());media=json.loads((GRADE/'media-manifest.json').read_text())['entries'];by={s['slug']:s for s in lessons}
+ lessons=json.loads((GRADE/'lessons.json').read_text());media=json.loads((GRADE/'media-manifest.json').read_text())['entries'];videos=json.loads((GRADE/'videos.json').read_text())
  common.source_pages=lambda s:[Path(a['path']) for a in s['sb_assets']]
  original_questions=common.questions
  def questions(s):
@@ -50,6 +57,7 @@ def main():
   ms=[m for m in media if m['id'] in s['media_ids']];folder=GRADE/s['slug'];folder.mkdir(exist_ok=True)
   html=common.render(s,ms,lessons[i-1] if i else None,lessons[i+1] if i+1<len(lessons) else None).replace('6 клас','7 клас').replace('6-u','7-u').replace('6 клас ·','7 клас ·')
   support='<section id="book-tasks"><h2>Застосуй у підручнику</h2>'+task_list(s['sb_tasks'],'SB')+'</section>'+workbook(s)
+  support+=video_section(videos.get(s['slug'],[]))
   html=html.replace('<nav class="lesson-links" aria-label="Інші уроки">',support+'<nav class="lesson-links" aria-label="Інші уроки">').replace('Підручник H. Q. Mitchell, Marileni Malkogianni, 6 клас, «Лінгвіст», 2023.','Підручник О. Карпюк, К. Карпюк, 7 клас, 2024.')
   # The grade replacement above also affects the source sentence.
   html=html.replace('Підручник H. Q. Mitchell, Marileni Malkogianni, 7 клас, «Лінгвіст», 2023.','Підручник О. Карпюк, К. Карпюк, 7 клас, 2024.')
@@ -60,9 +68,9 @@ def main():
  for slug,(sps,wps) in existing.items():
   unit=1 if slug in list(existing)[:5] else 2;matched=[s for s in lessons if set(s['sb_pages'])&set(sps)];ms=[m for m in media if m['lesson'] in {s['slug'] for s in matched}];s=dict(slug=slug,title=slug,unit=unit,sb_pages=sps,wb_pages=wps,sb_assets=[a for row in matched for a in row['sb_assets'] if a['printed_page'] in sps],wb_assets=[a for row in lessons for a in row['wb_assets'] if a['printed_page'] in wps],wb_tasks=[t for row in lessons for t in row['wb_tasks'] if t['page'] in wps],workbook_questions=[],section_index=0)
   path=GRADE/slug/'index.html';html=path.read_text();s['title']=unescape(re.sub('<[^>]+>','',re.search(r'<h1[^>]*>(.*?)<br',html,re.S)[1]));html=re.sub(r'<!-- grade7-source-support-start -->.*?<!-- grade7-source-support-end -->','',html,flags=re.S)
-  support='<!-- grade7-source-support-start -->'+players(ms)+workbook(s)+'<!-- grade7-source-support-end -->';html=html.replace('</main>',support+'</main>');path.write_text(html);(path.parent/'sources.md').write_text(sources(s,ms));legacy.append(s)
+  support='<!-- grade7-source-support-start -->'+players(ms)+workbook(s)+'<!-- grade7-source-support-end -->';html=html.replace('</main>',support+video_section(videos.get(slug,[]))+'</main>');path.write_text(html);(path.parent/'sources.md').write_text(sources(s,ms));legacy.append(s)
  for slug,title,body in [('sb-grammar','Граматика курсу',''.join(f'<article class="card"><h2>Unit {u}</h2><p>{e(next(s for s in lessons if s["unit"]==u and s["section"]=="grammar")["example"])}</p><a href="../sb-u{u}-grammar/">Пояснення і практика →</a><a href="../sb-u{u}-grammar-2/">Застосування →</a></article>' for u in range(1,9))),('sb-wordlist','Лексика курсу',''.join(f'<article class="card"><h2>Unit {u}</h2><p>{e(" · ".join(w+" — "+v for w,v in next(s for s in lessons if s["unit"]==u)["vocabulary"]))}</p><a href="../sb-u{u}-vocabulary/">Практика →</a></article>' for u in range(1,9)))]:
-  folder=GRADE/slug;folder.mkdir(exist_ok=True);(folder/'index.html').write_text(render_reference(slug,title,body))
+  folder=GRADE/slug;folder.mkdir(exist_ok=True);(folder/'index.html').write_text(render_reference(slug,title,body)+video_section(videos.get(slug,[])).replace('class="video-lessons"','class="video-lessons wrap"'))
  blocks=[]
  for u in range(9):
   group=[s for s in lessons if s['unit']==u];blocks.append(f'<section class="class-section" id="unit-{u}"><div class="class-heading"><h2>{"Starter" if not u else "Unit "+str(u)+" · "+e(group[0]["title"].split(": ")[0])}</h2></div><div class="cards">'+''.join(card(s) for s in group)+'</div></section>')
