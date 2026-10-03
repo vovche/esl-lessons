@@ -19,7 +19,7 @@
       const cards = section.querySelector('.cards'); const heading = section.querySelector('h2');
       if (!cards || !heading) return null;
       const details = document.createElement('details'); details.className = 'catalog-unit';
-      const summary = document.createElement('summary'); summary.textContent = `${heading.textContent.trim()} · ${cards.children.length}`;
+      const summary = document.createElement('summary'); summary.textContent = heading.textContent.trim();
       const headingRow = heading.closest('.class-heading'); if (!heading.querySelector('a')) { if (headingRow) headingRow.hidden = true; else heading.hidden = true; }
       details.append(summary, cards); section.append(details);
       return { section, details, cards: [...cards.children] };
