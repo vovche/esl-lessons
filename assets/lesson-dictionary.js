@@ -7,7 +7,7 @@
   const indexUrl = new URL('word-index.json', dictionaryUrl);
   const dataUrl = new URL('words.json', dictionaryUrl);
   const wordPattern = /[A-Za-z]+(?:['’][A-Za-z]+)?(?:-[A-Za-z]+)*/g;
-  const skip = 'a, button, nav, footer, script, style, noscript, textarea, select, option, code, pre, svg, [contenteditable], [data-dictionary-skip], .ld-dialog, .feedback, .result, .saved';
+  const skip = 'label.option, .question legend, a, button, nav, footer, script, style, noscript, textarea, select, option, code, pre, svg, [contenteditable], [data-dictionary-skip], .ld-dialog, .feedback, .result, .saved';
   const voiceLabels = {
     'gb-female': '🇬🇧 Жіночий',
     'gb-male': '🇬🇧 Чоловічий',
@@ -186,6 +186,7 @@
 
   root.addEventListener('click', event => {
     const link = event.target.closest('a.ld-word');
+    if (link?.closest('label.option')) return;
     if (!link || !root.contains(link) || event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
     event.preventDefault();
     event.stopPropagation();
