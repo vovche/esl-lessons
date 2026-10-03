@@ -39,7 +39,7 @@ def video_section(slug: str) -> str:
         f'<a href="https://youtu.be/{e(video["id"])}" target="_blank" rel="noopener noreferrer">Відкрити на YouTube ↗</a></article>'
         for video in entries
     )
-    return f'<section class="video-lessons wrap" aria-label="Відеорозбір"><h2>Відеорозбір матеріалу</h2><div class="video-lessons-grid">{cards}</div></section>'
+    return f'<section class="video-lessons wrap" aria-label="Відеорозбір" data-dictionary-skip><h2>Відеорозбір матеріалу</h2><div class="video-lessons-grid">{cards}</div></section>'
 
 
 def source_pages(lesson: dict) -> list[Path]:
