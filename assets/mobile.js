@@ -28,7 +28,7 @@
     const filter = () => {
       const query = search.value.trim().toLocaleLowerCase(); let count = 0;
       groups.forEach(group => {
-        let matches = 0; group.cards.forEach(card => { const text = card.textContent.toLocaleLowerCase(); const match = query.split(/\s+/).every(term => /^\d+$/.test(term) ? new RegExp(`(^|[^0-9])${term}([^0-9]|$)`).test(text) : text.includes(term)); card.hidden = !match; if (match) matches++; });
+        let matches = 0; group.cards.forEach(card => { const text = card.textContent.toLocaleLowerCase(); const words = text.match(/[\p{L}\p{N}]+(?:['’ʼ][\p{L}\p{N}]+)*/gu) || []; const match = query.split(/\s+/).every(term => /^\d+$/.test(term) ? words.includes(term) : words.some(word => word.startsWith(term))); card.hidden = !match; if (match) matches++; });
         group.section.hidden = !matches; group.details.open = Boolean(query && matches); count += matches;
       });
       status.textContent = query ? `Знайдено уроків: ${count}` : 'Відкрий потрібний розділ або скористайся пошуком.';
