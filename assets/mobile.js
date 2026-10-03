@@ -5,6 +5,7 @@
   const button = (text, action) => { const b = document.createElement('button'); b.type = 'button'; b.textContent = text; b.className = 'mobile-button'; b.addEventListener('click', action); return b; };
   const catalog = document.querySelector('main.catalog');
   if (catalog) {
+    if (document.body.classList.contains('catalog-home')) return;
     const sections = [...catalog.querySelectorAll('.class-section')];
     const tools = document.createElement('div'); tools.className = 'catalog-tools';
     const label = document.createElement('label'); label.textContent = 'Знайти урок';
@@ -27,7 +28,7 @@
     const filter = () => {
       const query = search.value.trim().toLocaleLowerCase(); let count = 0;
       groups.forEach(group => {
-        let matches = 0; group.cards.forEach(card => { const match = !query || card.textContent.toLocaleLowerCase().includes(query); card.hidden = !match; if (match) matches++; });
+        let matches = 0; group.cards.forEach(card => { const text = card.textContent.toLocaleLowerCase(); const match = query.split(/\s+/).every(term => /^\d+$/.test(term) ? new RegExp(`(^|[^0-9])${term}([^0-9]|$)`).test(text) : text.includes(term)); card.hidden = !match; if (match) matches++; });
         group.section.hidden = !matches; group.details.open = Boolean(query && matches); count += matches;
       });
       status.textContent = query ? `Знайдено уроків: ${count}` : 'Відкрий потрібний розділ або скористайся пошуком.';
