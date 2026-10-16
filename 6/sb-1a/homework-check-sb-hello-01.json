@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "title": "Hello! · 6 клас · ESL hello",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-hello/index.html",
+  "source_title": "Hello! Знайомство й повторення",
+  "assessment_lesson": "6/sb-1a/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «сім’я».",
+      "points": 1,
+      "answers": [
+        "family"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «дочка».",
+      "points": 1,
+      "answers": [
+        "daughter"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «син».",
+      "points": 1,
+      "answers": [
+        "son"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "My sister ___ twelve.",
+      "points": 1,
+      "options": [
+        "are",
+        "am",
+        "is"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "He ___ got two cousins.",
+      "points": 1,
+      "options": [
+        "is",
+        "has",
+        "have"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "There ___ two books on the desk.",
+      "points": 1,
+      "options": [
+        "are",
+        "is",
+        "has"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A student is introducing their family. They have got one sister and two cousins. Their favourite season is summer. In the room there is a desk next to a window. Two books are on the desk. The student can use a dictionary and likes learning new words with example sentences.\n\nWhich season does the student like best?",
+      "points": 2,
+      "options": [
+        "Winter.",
+        "Autumn.",
+        "Summer."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A student is introducing their family. They have got one sister and two cousins. Their favourite season is summer. In the room there is a desk next to a window. Two books are on the desk. The student can use a dictionary and likes learning new words with example sentences.\n\nWhere are the books?",
+      "points": 2,
+      "options": [
+        "In a suitcase.",
+        "On the desk.",
+        "Under the bed."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-hello-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887023",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887023",
+      "builder_url": "https://naurok.com.ua/test/builder/3887023",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

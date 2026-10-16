@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "title": "Round-up 7 · 6 клас · ESL round-up-7",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-round-up-7/index.html",
+  "source_title": "Round-up 7 Повторення юніту 7",
+  "assessment_lesson": "6/sb-8a/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Have you ever ___ a talent show?",
+      "points": 1,
+      "options": [
+        "saw",
+        "see",
+        "seen"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "I ___ the band last night.",
+      "points": 1,
+      "options": [
+        "saw",
+        "have seen",
+        "seeing"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "I have lived here ___ two years.",
+      "points": 1,
+      "options": [
+        "ago",
+        "for",
+        "since"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "These shoes are ___ small for me.",
+      "points": 1,
+      "options": [
+        "enough",
+        "many",
+        "too"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose a natural phrase.",
+      "points": 1,
+      "options": [
+        "Some advice.",
+        "An advice.",
+        "Many advices."
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Two boys are contestants on a game show. They must answer five questions about their friends to win a prize. One boy answers too quickly and makes mistakes. They answer only three questions correctly. They do not win, even though the other boy knew more answers. Listening to each other would have helped.\n\nHow many correct answers did the boys need?",
+      "points": 1,
+      "options": [
+        "Three.",
+        "Two.",
+        "Five."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: People sometimes shorten words in messages to type faster. They also use symbols to show feelings. A short message can be useful, but it must be clear to the receiver. A note about a borrowed bike should say who took it and when it will be returned. Clarity matters more than using many symbols.\n\nWhy do people shorten words?",
+      "points": 2,
+      "options": [
+        "To make every message longer.",
+        "To hide all meaning.",
+        "To type faster."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A student used to help a younger brother with all his homework. Now the student has exams and cannot help all the time. The brother gets upset and receives lower marks. An advice writer suggests explaining the situation and showing the brother how to study independently. The student also needs time for their own work.\n\nWhy can the student not help all the time?",
+      "points": 2,
+      "options": [
+        "The student is on a cruise.",
+        "The brother moved away.",
+        "The student has exams."
+      ],
+      "key": 2
+    }
+  ],
+  "id": "6-sb-round-up-7-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887083",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887083",
+      "builder_url": "https://naurok.com.ua/test/builder/3887083",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

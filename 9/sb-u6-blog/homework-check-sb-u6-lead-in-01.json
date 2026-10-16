@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "title": "9 клас · Science Meets Technology: Починаємо тему",
+  "grade": 9,
+  "purpose": "homework_check",
+  "source_lesson": "9/sb-u6-lead-in/index.html",
+  "source_title": "Science Meets Technology: Починаємо тему Наука і технології: Починаємо тему",
+  "assessment_lesson": "9/sb-u6-blog/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова invention.",
+      "points": 1,
+      "options": [
+        "пристрій",
+        "побутовий прилад",
+        "винахід"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова discovery.",
+      "points": 1,
+      "options": [
+        "науковець",
+        "відкриття",
+        "побутовий прилад"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова device.",
+      "points": 1,
+      "options": [
+        "пристрій",
+        "науковець",
+        "прототип"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "My tablet, ... I bought last year, is slow.",
+      "points": 2,
+      "options": [
+        "what",
+        "which",
+        "that"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "The place ... they work is a laboratory.",
+      "points": 2,
+      "options": [
+        "where",
+        "who",
+        "whose"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст. Emma and Dan compare inventions that changed daily life. The telephone made communication over long distances easier. Household appliances saved time on chores, while computers opened new ways to work and learn. They also discuss disadvantages: devices need energy and can distract users. They decide to explain both benefits and limitations in their presentation.\n\nWhat will the presentation include?",
+      "points": 3,
+      "options": [
+        "only prices",
+        "benefits and limitations",
+        "only brand names"
+      ],
+      "key": 1
+    }
+  ],
+  "id": "9-sb-u6-lead-in-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887014",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887014",
+      "builder_url": "https://naurok.com.ua/test/builder/3887014",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

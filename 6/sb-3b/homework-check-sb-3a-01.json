@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "title": "Accident · 6 клас · ESL 3a",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-3a/index.html",
+  "source_title": "Accident Що відбувалося під час пригоди",
+  "assessment_lesson": "6/sb-3b/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «нещасний випадок».",
+      "points": 1,
+      "answers": [
+        "accident"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «швидка допомога».",
+      "points": 1,
+      "answers": [
+        "ambulance"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «тротуар».",
+      "points": 1,
+      "answers": [
+        "pavement"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "At five I ___ home.",
+      "points": 1,
+      "options": [
+        "walk",
+        "am walking",
+        "was walking"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "They ___ football at that time.",
+      "points": 1,
+      "options": [
+        "are playing",
+        "were playing",
+        "was playing"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "___ the driver going fast?",
+      "points": 1,
+      "options": [
+        "Was",
+        "Did",
+        "Does"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A boy was skateboarding on the pavement. A woman was driving a car. A cat was in the middle of the street, so the driver swerved and crashed into a tree. The car did not hit the boy, but he fell down and hurt his knee. A neighbour called an ambulance.\n\nWhy did the driver swerve?",
+      "points": 2,
+      "options": [
+        "She wanted to park.",
+        "The boy called her.",
+        "There was a cat in the street."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A boy was skateboarding on the pavement. A woman was driving a car. A cat was in the middle of the street, so the driver swerved and crashed into a tree. The car did not hit the boy, but he fell down and hurt his knee. A neighbour called an ambulance.\n\nDid the car hit the boy?",
+      "points": 2,
+      "options": [
+        "The text does not say.",
+        "No, he fell down.",
+        "Yes, it hit him."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-3a-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886817",
+      "test_url": "https://naurok.com.ua/test/accident-6-klas-esl-3a-3886817.html",
+      "builder_url": "https://naurok.com.ua/test/builder/3886817",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

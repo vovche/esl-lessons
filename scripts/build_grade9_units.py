@@ -136,6 +136,8 @@ def main() -> None:
         position = index % 6 + 1
         (destination / 'index.html').write_text(render_lesson(lesson, lessons[index - 1] if index else None, lessons[index + 1] if index + 1 < len(lessons) else None, position), encoding='utf-8')
         (destination / 'sources.md').write_text(render_sources(lesson), encoding='utf-8')
+    from attach_naurok_homework import apply_grade
+    apply_grade(9)
     print(f'Built {len(lessons)} grade 9 Unit 1–2 lessons')
 
 

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "9/sb-u2-reading/index.html",
+  "tests": [
+    {
+      "id": "9-sb-u2-vocabulary-homework-01",
+      "title": "9 клас · Fashion All the Way: Слова й словосполучення",
+      "source_lesson": "9/sb-u2-vocabulary/index.html",
+      "json": "homework-check-sb-u2-vocabulary-01.json",
+      "markdown": "homework-check-sb-u2-vocabulary-01.md",
+      "answer_key": "homework-check-sb-u2-vocabulary-01-key.md",
+      "test_url": "https://naurok.com.ua/test/9-klas-fashion-all-the-way-slova-y-slovospoluchennya-3886932.html",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

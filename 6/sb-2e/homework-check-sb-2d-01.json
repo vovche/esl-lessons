@@ -1,0 +1,127 @@
+{
+  "schema_version": 1,
+  "title": "Travelling then and now · 6 клас · ESL 2d",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-2d/index.html",
+  "source_title": "Travelling then and now Подорожі колись і зараз",
+  "assessment_lesson": "6/sb-2e/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «морська подорож».",
+      "points": 1,
+      "answers": [
+        "voyage"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «дослідник».",
+      "points": 1,
+      "answers": [
+        "explorer"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «подорож».",
+      "points": 1,
+      "answers": [
+        "journey"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "People ___ travel on slow ships.",
+      "points": 1,
+      "options": [
+        "use to",
+        "are used",
+        "used to"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Did trains ___ be so fast?",
+      "points": 1,
+      "options": [
+        "using to",
+        "use to",
+        "used to"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "They did not ___ travel by plane.",
+      "points": 1,
+      "options": [
+        "use to",
+        "used to",
+        "uses to"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Travel has changed. Explorers used to spend months at sea before they saw land. Early trains were much slower than many trains today. Travelling by plane used to be difficult, but now people can cross long distances quickly. Electric cars are another way to travel, and drivers need places to charge them.\n\nWhat did explorers sometimes wait months to see?",
+      "points": 2,
+      "options": [
+        "A boarding pass.",
+        "A theatre.",
+        "Land."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Travel has changed. Explorers used to spend months at sea before they saw land. Early trains were much slower than many trains today. Travelling by plane used to be difficult, but now people can cross long distances quickly. Electric cars are another way to travel, and drivers need places to charge them.\n\nWhat do electric cars need?",
+      "points": 2,
+      "options": [
+        "A sail.",
+        "Places to charge them.",
+        "A river."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-2d-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886811",
+      "test_url": "https://naurok.com.ua/test/travelling-then-and-now-6-klas-esl-2d-3886811.html",
+      "builder_url": "https://naurok.com.ua/test/builder/3886811",
+      "status": "homework_created",
+      "verified": true,
+      "homework_id": "86106638",
+      "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106638",
+      "student_url": "https://naurok.ua/test/join?gamecode=1491457",
+      "code": "1491457",
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

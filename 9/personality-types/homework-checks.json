@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "9/personality-types/index.html",
+  "tests": [
+    {
+      "id": "9-online-friends-homework-01",
+      "title": "9 клас · Meet the people — профілі й інтереси",
+      "source_lesson": "9/online-friends/index.html",
+      "json": "homework-check-online-friends-01.json",
+      "markdown": "homework-check-online-friends-01.md",
+      "answer_key": "homework-check-online-friends-01-key.md",
+      "test_url": "https://naurok.com.ua/test/9-klas-meet-the-people-profili-y-interesi-3886812.html",
+      "status": "homework_created",
+      "student_url": "https://naurok.ua/test/join?gamecode=7959737"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "title": "Mysteries · 6 клас · ESL 3b",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-3b/index.html",
+  "source_title": "Mysteries Таємнича історія",
+  "assessment_lesson": "6/sb-3c/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «зникати».",
+      "points": 1,
+      "answers": [
+        "disappear"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «сліди».",
+      "points": 1,
+      "answers": [
+        "footprints"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «тінь».",
+      "points": 1,
+      "answers": [
+        "shadow"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "While we ___, we heard a noise.",
+      "points": 1,
+      "options": [
+        "walk",
+        "are walking",
+        "were walking"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "I was reading when the phone ___.",
+      "points": 1,
+      "options": [
+        "rings",
+        "rang",
+        "was ring"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "She was drawing while he ___ music.",
+      "points": 1,
+      "options": [
+        "was listening to",
+        "listens to",
+        "listen to"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Two friends were exploring a snowy area when they saw huge footprints. The footprints looked like human footprints, but they were much bigger. The friends were frightened and ran back to the campsite. Other people thought a wild animal made them. The friends could not explain what they saw.\n\nWhat was unusual about the footprints?",
+      "points": 2,
+      "options": [
+        "They were blue.",
+        "They were inside a bus.",
+        "They were much bigger than human footprints."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Two friends were exploring a snowy area when they saw huge footprints. The footprints looked like human footprints, but they were much bigger. The friends were frightened and ran back to the campsite. Other people thought a wild animal made them. The friends could not explain what they saw.\n\nWhere did the friends run?",
+      "points": 2,
+      "options": [
+        "To an airport.",
+        "To the campsite.",
+        "To a museum."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-3b-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886820",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886820",
+      "builder_url": "https://naurok.com.ua/test/builder/3886820",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

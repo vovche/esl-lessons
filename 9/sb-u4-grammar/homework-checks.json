@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "9/sb-u4-grammar/index.html",
+  "tests": [
+    {
+      "id": "9-sb-u4-reading-homework-01",
+      "title": "9 клас · Media in Our Lives: Читання",
+      "source_lesson": "9/sb-u4-reading/index.html",
+      "json": "homework-check-sb-u4-reading-01.json",
+      "markdown": "homework-check-sb-u4-reading-01.md",
+      "answer_key": "homework-check-sb-u4-reading-01-key.md",
+      "test_url": "https://naurok.com.ua/test/9-klas-media-in-our-lives-chitannya-3887137.html",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

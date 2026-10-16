@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "title": "9 клас · Future Forms v2 — рішення, намір і домовленість",
+  "grade": 9,
+  "purpose": "homework_check",
+  "source_lesson": "9/future-forms-v2/index.html",
+  "source_title": "Поверни телефон боком",
+  "assessment_lesson": "9/future-forms-v2/index.html",
+  "placement": {
+    "rule": "no_next_lesson",
+    "note": "Перевірка після теми: окремого наступного уроку в навігації немає; збережено в папці вихідної теми."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Впиши study з be going to: I have already decided. I ___ Spanish this year.",
+      "points": 1,
+      "answers": [
+        "am going to study"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Впиши see у Present Continuous: She ___ the dentist tomorrow. The appointment is booked.",
+      "points": 1,
+      "answers": [
+        "is seeing"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Впиши leave у Present Simple для розкладу: Our bus ___ at eleven tomorrow.",
+      "points": 1,
+      "answers": [
+        "leaves"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Впиши заперечну форму will be трьома словами: I am sure Ted ___ late. Не використовуй скорочення.",
+      "points": 2,
+      "answers": [
+        "will not be"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Доповни двома словами запитання про розклад: ___ your bus ___ here at three? Впиши лише допоміжне й основне дієслово через пробіл.",
+      "points": 2,
+      "answers": [
+        "Does arrive"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери пару, що правильно розрізняє видимий доказ і особисте переконання. Look at the black clouds! It ___. I think tomorrow ___ sunny.",
+      "points": 3,
+      "options": [
+        "is going to rain / will be",
+        "will to rain / is being",
+        "rains / will to be",
+        "is rain / be"
+      ],
+      "key": 0
+    }
+  ],
+  "id": "9-future-forms-v2-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887190",
+      "test_url": "https://naurok.com.ua/test/9-klas-future-forms-v2-rishennya-namir-i-domovlenist-3887190.html",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

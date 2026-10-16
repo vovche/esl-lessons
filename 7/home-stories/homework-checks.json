@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "7/home-stories/index.html",
+  "tests": [
+    {
+      "id": "7-home-stories-homework-01",
+      "title": "7 клас · Our home story — розповідаємо про дім",
+      "source_lesson": "7/home-stories/index.html",
+      "json": "homework-check-home-stories-01.json",
+      "markdown": "homework-check-home-stories-01.md",
+      "answer_key": "homework-check-home-stories-01-key.md",
+      "test_url": "https://naurok.com.ua/test/7-klas-our-home-story-rozpovidaemo-pro-dim-3886798.html",
+      "status": "homework_created",
+      "student_url": "https://naurok.ua/test/join?gamecode=7843357"
+    },
+    {
+      "id": "7-past-continuous-questions-homework-01",
+      "title": "7 клас · What were you doing — минула тривала дія",
+      "source_lesson": "7/past-continuous-questions/index.html",
+      "json": "homework-check-past-continuous-questions-01.json",
+      "markdown": "homework-check-past-continuous-questions-01.md",
+      "answer_key": "homework-check-past-continuous-questions-01-key.md",
+      "test_url": "https://naurok.com.ua/test/7-klas-what-were-you-doing-minula-trivala-diya-3886809.html",
+      "status": "homework_created",
+      "student_url": "https://naurok.ua/test/join?gamecode=4711293"
+    }
+  ]
+}

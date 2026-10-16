@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "9/sb-u5-writing/index.html",
+  "tests": [
+    {
+      "id": "9-sb-u5-speaking-homework-01",
+      "title": "9 клас · Jobs Around Us: Говоріння",
+      "source_lesson": "9/sb-u5-speaking/index.html",
+      "json": "homework-check-sb-u5-speaking-01.json",
+      "markdown": "homework-check-sb-u5-speaking-01.md",
+      "answer_key": "homework-check-sb-u5-speaking-01-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886993",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "title": "6 клас · Grammar Reference · Unit 1",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-grammar/index.html",
+  "source_title": "Граматичний довідник",
+  "assessment_lesson": "6/sb-grammar/index.html",
+  "placement": {
+    "rule": "no_next_lesson",
+    "note": "Перевірка після теми: окремого наступного уроку в навігації немає; збережено в папці вихідної теми."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Вставте форму дієслова: Our school ___ at nine. (start)",
+      "points": 1,
+      "answers": [
+        "starts"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Вставте допоміжне дієслово: She ___ wearing glasses now.",
+      "points": 1,
+      "answers": [
+        "is"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Вставте форму дієслова: I ___ a new bag. (want; стан, не дія)",
+      "points": 1,
+      "answers": [
+        "want"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Вставте дієслово у формі -ing: I enjoy ___ table tennis. (play)",
+      "points": 2,
+      "answers": [
+        "playing"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Доповніть запитання про характер: What ___ you like?",
+      "points": 2,
+      "answers": [
+        "are"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Складіть речення з усіх слів: has / curly / My friend / got / hair. Запишіть без крапки.",
+      "points": 3,
+      "answers": [
+        "My friend has got curly hair"
+      ]
+    }
+  ],
+  "id": "6-sb-grammar-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886819",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886819",
+      "builder_url": "https://naurok.com.ua/test/builder/3886819",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

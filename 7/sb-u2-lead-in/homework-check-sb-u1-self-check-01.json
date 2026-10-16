@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · In and out of school: Самоперевірка Шкільне життя і дозвілля · Самоперевірка",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/sb-u1-self-check/index.html",
+  "source_title": "In and out of school: Самоперевірка Шкільне життя і дозвілля · Самоперевірка",
+  "assessment_lesson": "7/sb-u2-lead-in/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова bookworm.",
+      "points": 1,
+      "options": [
+        "захоплений наукою",
+        "річниця",
+        "книголюб",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова chatterbox.",
+      "points": 1,
+      "options": [
+        "балакун",
+        "річниця",
+        "закінчення навчання",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова science geek.",
+      "points": 1,
+      "options": [
+        "позакласний",
+        "захоплений наукою",
+        "закінчення навчання",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Maya usually ___ to the club on Mondays.",
+      "points": 1,
+      "options": [
+        "is going",
+        "go",
+        "goes",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Look! The pupils ___ a show.",
+      "points": 1,
+      "options": [
+        "are preparing",
+        "prepare",
+        "prepared",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "___ are you doing now?",
+      "points": 1,
+      "options": [
+        "Whose",
+        "What",
+        "Who",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nI can now talk about clubs and school celebrations. I test myself without looking at the examples first. Then I compare my answers with the models and correct mistakes. I choose one speaking task and one written task to show what I can do. My next step is to practise the skill that still feels difficult.\n\nWhat do I do before checking the models?",
+      "points": 2,
+      "options": [
+        "copy the answers",
+        "skip all tasks",
+        "test myself",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nI can now talk about clubs and school celebrations. I test myself without looking at the examples first. Then I compare my answers with the models and correct mistakes. I choose one speaking task and one written task to show what I can do. My next step is to practise the skill that still feels difficult.\n\nWhat do I practise next?",
+      "points": 2,
+      "options": [
+        "the skill that feels difficult",
+        "only my favourite word",
+        "nothing",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    }
+  ],
+  "id": "7-sb-u1-self-check-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886860",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886860",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

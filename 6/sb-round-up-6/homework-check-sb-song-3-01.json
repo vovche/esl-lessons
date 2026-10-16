@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "title": "Where did it all go wrong? · 6 клас · ESL song-3",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-song-3/index.html",
+  "source_title": "Where did it all go wrong? Пісня: турбота про планету",
+  "assessment_lesson": "6/sb-round-up-6/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «планета».",
+      "points": 1,
+      "answers": [
+        "planet"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «вогонь».",
+      "points": 1,
+      "answers": [
+        "fire"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «майбутнє».",
+      "points": 1,
+      "answers": [
+        "future"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "We must ___ about the future.",
+      "points": 1,
+      "options": [
+        "to think",
+        "thinking",
+        "think"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "If we save water, we ___ nature.",
+      "points": 1,
+      "options": [
+        "are help",
+        "will help",
+        "helped yesterday"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "An animal that no longer exists is ___.",
+      "points": 1,
+      "options": [
+        "extinct",
+        "crowded",
+        "wireless"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: The song asks listeners to think about the future of the planet. It mentions animals that have disappeared and people who do not recycle. The message is that people should act now. In a classroom discussion, students can suggest small actions such as saving water, reducing rubbish and learning about local wildlife.\n\nWhat does the song ask listeners to think about?",
+      "points": 2,
+      "options": [
+        "The price of shoes.",
+        "A cinema ticket.",
+        "The planet's future."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: The song asks listeners to think about the future of the planet. It mentions animals that have disappeared and people who do not recycle. The message is that people should act now. In a classroom discussion, students can suggest small actions such as saving water, reducing rubbish and learning about local wildlife.\n\nWhich small action is suggested?",
+      "points": 2,
+      "options": [
+        "Leaving rubbish.",
+        "Saving water.",
+        "Buying more plastic."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-song-3-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887109",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887109",
+      "builder_url": "https://naurok.com.ua/test/builder/3887109",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

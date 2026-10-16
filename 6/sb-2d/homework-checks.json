@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "6/sb-2d/index.html",
+  "tests": [
+    {
+      "id": "6-sb-2c-homework-01",
+      "title": "Travel preparations · 6 клас · ESL 2c",
+      "source_lesson": "6/sb-2c/index.html",
+      "json": "homework-check-sb-2c-01.json",
+      "markdown": "homework-check-sb-2c-01.md",
+      "answer_key": "homework-check-sb-2c-01-key.md",
+      "test_url": "https://naurok.com.ua/test/travel-preparations-6-klas-esl-2c-3886806.html",
+      "status": "homework_created",
+      "student_url": "https://naurok.ua/test/join?gamecode=7818947"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "title": "9 клас · Build an outfit — одяг і дієслова",
+  "grade": 9,
+  "purpose": "homework_check",
+  "source_lesson": "9/clothes-and-accessories/index.html",
+  "source_title": "Build an outfit Одяг, взуття й аксесуари",
+  "assessment_lesson": "9/fashion-opinions/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською одним словом: чоботи.",
+      "points": 1,
+      "answers": [
+        "boots"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською одним словом: намисто.",
+      "points": 1,
+      "answers": [
+        "necklace"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Доповни одним словом: a ___ of jeans.",
+      "points": 1,
+      "answers": [
+        "pair"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Впиши пропущене дієслово: I ___ my bag in my hand, but I wear my coat.",
+      "points": 2,
+      "answers": [
+        "carry"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Переклади лише виділену дію двома словами: It is hot indoors, so I ЗНІМАЮ my coat.",
+      "points": 2,
+      "answers": [
+        "take off"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши пропущену фразу з двох слів, використовуючи wear у Present Continuous: Look! Alex ___ a blue shirt.",
+      "points": 3,
+      "answers": [
+        "is wearing"
+      ]
+    }
+  ],
+  "id": "9-clothes-and-accessories-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886775",
+      "test_url": "https://naurok.com.ua/test/9-klas-build-an-outfit-odyag-i-dieslova-3886775.html",
+      "status": "homework_created",
+      "verified": true,
+      "homework_id": "86106553",
+      "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106553",
+      "student_url": "https://naurok.ua/test/join?gamecode=4326418",
+      "code": "4326418",
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

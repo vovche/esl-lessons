@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "title": "The Oscars · 6 клас · ESL 8d",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-8d/index.html",
+  "source_title": "The Oscars Нагороди в минулому",
+  "assessment_lesson": "6/sb-8e/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «церемонія».",
+      "points": 1,
+      "answers": [
+        "ceremony"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «нагорода».",
+      "points": 1,
+      "answers": [
+        "award"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «режисер».",
+      "points": 1,
+      "answers": [
+        "director"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "The film ___ chosen last year.",
+      "points": 1,
+      "options": [
+        "is",
+        "are",
+        "was"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Two awards ___ given.",
+      "points": 1,
+      "options": [
+        "did",
+        "were",
+        "was"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Was this scene ___ here?",
+      "points": 1,
+      "options": [
+        "filmed",
+        "film",
+        "filming"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A film awards ceremony celebrates work in the film industry. Awards are given in different categories, such as acting and directing. At a school ceremony last year, one film was chosen as the best project. Two students were given awards for their acting. The audience enjoyed the event and applauded the winners.\n\nWhich film was chosen at the school ceremony?",
+      "points": 2,
+      "options": [
+        "The oldest cartoon.",
+        "A news programme.",
+        "The best project."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A film awards ceremony celebrates work in the film industry. Awards are given in different categories, such as acting and directing. At a school ceremony last year, one film was chosen as the best project. Two students were given awards for their acting. The audience enjoyed the event and applauded the winners.\n\nHow many students received acting awards?",
+      "points": 2,
+      "options": [
+        "Eight.",
+        "Two.",
+        "Five."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-8d-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886964",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886964",
+      "builder_url": "https://naurok.com.ua/test/builder/3886964",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

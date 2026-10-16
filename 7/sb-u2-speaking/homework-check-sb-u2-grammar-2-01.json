@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · Do your chores: Граматика: застосування Домашні справи · Граматика: застосування",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/sb-u2-grammar-2/index.html",
+  "source_title": "Do your chores: Граматика: застосування Домашні справи · Граматика: застосування",
+  "assessment_lesson": "7/sb-u2-speaking/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова sweep the floor.",
+      "points": 1,
+      "options": [
+        "пилосос",
+        "праска",
+        "підмітати підлогу",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова wash up.",
+      "points": 1,
+      "options": [
+        "мити посуд",
+        "праска",
+        "домашній обов’язок",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова vacuum cleaner.",
+      "points": 1,
+      "options": [
+        "посудомийна машина",
+        "пилосос",
+        "домашній обов’язок",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "At six Dad ___ washing up.",
+      "points": 1,
+      "options": [
+        "were",
+        "did",
+        "was",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "What ___ the children doing at six?",
+      "points": 1,
+      "options": [
+        "were",
+        "was",
+        "did",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "At six I ___ doing the washing-up.",
+      "points": 1,
+      "options": [
+        "were",
+        "was",
+        "did",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nLast Saturday our family shared the household duties. I swept the floor and my brother took out the garbage. At six Mum was cooking while Dad was washing up. We finished before dinner. Nobody had to do every chore alone, and our home looked tidy.\n\nWho took out the garbage?",
+      "points": 2,
+      "options": [
+        "Mum",
+        "the narrator",
+        "the brother",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nLast Saturday our family shared the household duties. I swept the floor and my brother took out the garbage. At six Mum was cooking while Dad was washing up. We finished before dinner. Nobody had to do every chore alone, and our home looked tidy.\n\nWhat was Dad doing at six?",
+      "points": 2,
+      "options": [
+        "washing up",
+        "sleeping",
+        "shopping",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    }
+  ],
+  "id": "7-sb-u2-grammar-2-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886904",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886904",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

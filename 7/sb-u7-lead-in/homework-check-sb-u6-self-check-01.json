@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · What’s the matter?: Самоперевірка Самопочуття і спілкування з лікарем · Самоперевірка",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/sb-u6-self-check/index.html",
+  "source_title": "What’s the matter?: Самоперевірка Самопочуття і спілкування з лікарем · Самоперевірка",
+  "assessment_lesson": "7/sb-u7-lead-in/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова cough.",
+      "points": 1,
+      "options": [
+        "кашель",
+        "головний біль",
+        "запис на прийом",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова sore throat.",
+      "points": 1,
+      "options": [
+        "симптом",
+        "біль у горлі",
+        "запис на прийом",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова headache.",
+      "points": 1,
+      "options": [
+        "симптом",
+        "медсестра; медбрат",
+        "головний біль",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "If Alex misses a lesson, he ___ for the notes.",
+      "points": 1,
+      "options": [
+        "asks",
+        "asked",
+        "will asked",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "He ___ sent a message before the lesson started.",
+      "points": 1,
+      "options": [
+        "have",
+        "had",
+        "has",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Had you ___ the homework before the call?",
+      "points": 1,
+      "options": [
+        "finish",
+        "finishing",
+        "finished",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nI can now talk about describing how someone feels and past events. I test myself without looking at the examples first. Then I compare my answers with the models and correct mistakes. I choose one speaking task and one written task to show what I can do. My next step is to practise the skill that still feels difficult.\n\nWhat do I do before checking the models?",
+      "points": 2,
+      "options": [
+        "test myself",
+        "copy the answers",
+        "skip all tasks",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nI can now talk about describing how someone feels and past events. I test myself without looking at the examples first. Then I compare my answers with the models and correct mistakes. I choose one speaking task and one written task to show what I can do. My next step is to practise the skill that still feels difficult.\n\nWhat do I practise next?",
+      "points": 2,
+      "options": [
+        "nothing",
+        "the skill that feels difficult",
+        "only my favourite word",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    }
+  ],
+  "id": "7-sb-u6-self-check-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887215",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887215",
+      "builder_url": "https://naurok.com.ua/test/builder/3887215",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

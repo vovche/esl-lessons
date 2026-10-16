@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "title": "Popular musicals · 6 клас · ESL culture-4",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-culture-4/index.html",
+  "source_title": "Popular musicals Культура: музичний театр",
+  "assessment_lesson": "6/sb-round-up-7/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «композитор».",
+      "points": 1,
+      "answers": [
+        "composer"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «сценічний костюм».",
+      "points": 1,
+      "answers": [
+        "costume"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «декорації».",
+      "points": 1,
+      "answers": [
+        "scenery"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "A person who writes music is a ___.",
+      "points": 1,
+      "options": [
+        "spectator",
+        "chemist",
+        "composer"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "The musical was ___ by a composer.",
+      "points": 1,
+      "options": [
+        "writing",
+        "written",
+        "write"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence gives a supported opinion?",
+      "points": 1,
+      "options": [
+        "I liked the costumes because they were colourful.",
+        "It exists.",
+        "There are people."
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: The textbook compares two popular musicals. The Phantom of the Opera tells a story set in an opera house. Cats presents different cats as characters who sing and dance. Both productions use music, costumes and scenery to create their worlds. A review can explain the story briefly and give an opinion about the performance.\n\nWhere is the first story set?",
+      "points": 2,
+      "options": [
+        "In an airport.",
+        "In a supermarket.",
+        "In an opera house."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: The textbook compares two popular musicals. The Phantom of the Opera tells a story set in an opera house. Cats presents different cats as characters who sing and dance. Both productions use music, costumes and scenery to create their worlds. A review can explain the story briefly and give an opinion about the performance.\n\nWhat do both productions use?",
+      "points": 2,
+      "options": [
+        "Only sports equipment.",
+        "Music, costumes and scenery.",
+        "Only computers."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-culture-4-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887009",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887009",
+      "builder_url": "https://naurok.com.ua/test/builder/3887009",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · Traditions... Traditions...: Говоріння Свята і традиції · Говоріння",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/sb-u4-speaking/index.html",
+  "source_title": "Traditions... Traditions...: Говоріння Свята і традиції · Говоріння",
+  "assessment_lesson": "7/sb-u4-writing/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова custom.",
+      "points": 1,
+      "options": [
+        "переддень",
+        "північ",
+        "звичай",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова celebrate.",
+      "points": 1,
+      "options": [
+        "святкувати",
+        "північ",
+        "свічка",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова Eve.",
+      "points": 1,
+      "options": [
+        "отримувати",
+        "переддень",
+        "свічка",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Cards ___ sent to grandparents.",
+      "points": 1,
+      "options": [
+        "is",
+        "be",
+        "are",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "The holiday ___ celebrated in winter.",
+      "points": 1,
+      "options": [
+        "is",
+        "are",
+        "do",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Special food is ___ at home.",
+      "points": 1,
+      "options": [
+        "preparing",
+        "prepared",
+        "prepare",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nA: What tradition does your family follow? B: We send greeting cards. A: When are they sent? B: Before the holiday. A: Who receives them? B: Our grandparents. We sometimes make the cards ourselves.\n\nWhat tradition does B describe?",
+      "points": 2,
+      "options": [
+        "playing ice hockey",
+        "visiting a castle",
+        "sending greeting cards",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nA: What tradition does your family follow? B: We send greeting cards. A: When are they sent? B: Before the holiday. A: Who receives them? B: Our grandparents. We sometimes make the cards ourselves.\n\nWho receives the cards?",
+      "points": 2,
+      "options": [
+        "grandparents",
+        "a referee",
+        "a tour guide",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    }
+  ],
+  "id": "7-sb-u4-speaking-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887075",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887075",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

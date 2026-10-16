@@ -1,0 +1,127 @@
+{
+  "schema_version": 1,
+  "title": "Transport · 6 клас · ESL 2b",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-2b/index.html",
+  "source_title": "Transport Обираємо транспорт",
+  "assessment_lesson": "6/sb-2c/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «пором».",
+      "points": 1,
+      "answers": [
+        "ferry"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «метро».",
+      "points": 1,
+      "answers": [
+        "underground"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «дорожній рух».",
+      "points": 1,
+      "answers": [
+        "traffic"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "She is a careful driver. She drives ___.",
+      "points": 1,
+      "options": [
+        "careful",
+        "care",
+        "carefully"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "I ___ swim when I was five, but now I can.",
+      "points": 1,
+      "options": [
+        "am not",
+        "could not",
+        "cannot"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "He speaks very ___.",
+      "points": 1,
+      "options": [
+        "well",
+        "good",
+        "better than"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A visitor wanted to find a restaurant near a river. First he walked, then he took a bus. The traffic was slow, so he used the underground. A man told him that the restaurant was on the other side of the river. He took a ferry, but the restaurant was closed when he arrived.\n\nWhy did the visitor leave the bus?",
+      "points": 2,
+      "options": [
+        "The bus was free.",
+        "He wanted to go home.",
+        "The traffic was slow."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A visitor wanted to find a restaurant near a river. First he walked, then he took a bus. The traffic was slow, so he used the underground. A man told him that the restaurant was on the other side of the river. He took a ferry, but the restaurant was closed when he arrived.\n\nWas the restaurant open when he arrived?",
+      "points": 2,
+      "options": [
+        "The text does not say.",
+        "No, it was closed.",
+        "Yes, it was open."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-2b-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886803",
+      "test_url": "https://naurok.com.ua/test/transport-6-klas-esl-2b-3886803.html",
+      "builder_url": "https://naurok.com.ua/test/builder/3886803",
+      "status": "homework_created",
+      "verified": true,
+      "homework_id": "86106613",
+      "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106613",
+      "student_url": "https://naurok.ua/test/join?gamecode=3111403",
+      "code": "3111403",
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

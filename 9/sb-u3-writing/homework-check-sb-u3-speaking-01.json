@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "title": "9 клас · We Are Young and Cool!: Говоріння",
+  "grade": 9,
+  "purpose": "homework_check",
+  "source_lesson": "9/sb-u3-speaking/index.html",
+  "source_title": "We Are Young and Cool!: Говоріння Молодіжна культура і спільноти: Говоріння",
+  "assessment_lesson": "9/sb-u3-writing/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова subculture.",
+      "points": 1,
+      "options": [
+        "об’єднання",
+        "благодійність",
+        "субкультура"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова volunteer.",
+      "points": 1,
+      "options": [
+        "командна робота",
+        "волонтер",
+        "благодійність"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова association.",
+      "points": 1,
+      "options": [
+        "об’єднання",
+        "командна робота",
+        "творчість"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "New members ... every week.",
+      "points": 2,
+      "options": [
+        "are welcomeing",
+        "are welcomed",
+        "welcomes"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "The survey results ... already ... .",
+      "points": 2,
+      "options": [
+        "have / been published",
+        "are / publishing",
+        "were / publish"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст. The class has conducted a survey about clubs and free time. Twenty students were asked about their interests. Many enjoy sport, but several would rather create music or films. A short report has been written to show the main results. The students suggest offering different clubs so that everyone can find a suitable activity.\n\nWhy do students suggest different clubs?",
+      "points": 3,
+      "options": [
+        "to replace all lessons",
+        "to offer suitable activities for different interests",
+        "to stop teamwork"
+      ],
+      "key": 1
+    }
+  ],
+  "id": "9-sb-u3-speaking-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887085",
+      "test_url": "https://naurok.com.ua/test/9-klas-we-are-young-and-cool-govorinnya-3887085.html",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · Do your chores: Читання Домашні справи · Читання",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/sb-u2-reading/index.html",
+  "source_title": "Do your chores: Читання Домашні справи · Читання",
+  "assessment_lesson": "7/sb-u2-grammar/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова sweep the floor.",
+      "points": 1,
+      "options": [
+        "підмітати підлогу",
+        "пилосос",
+        "праска",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова wash up.",
+      "points": 1,
+      "options": [
+        "домашній обов’язок",
+        "мити посуд",
+        "праска",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова vacuum cleaner.",
+      "points": 1,
+      "options": [
+        "домашній обов’язок",
+        "посудомийна машина",
+        "пилосос",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "What ___ you clean yesterday?",
+      "points": 1,
+      "options": [
+        "did",
+        "were",
+        "do",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Did you ___ the floor?",
+      "points": 1,
+      "options": [
+        "sweeping",
+        "sweep",
+        "swept",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "At six Dad ___ washing up.",
+      "points": 1,
+      "options": [
+        "were",
+        "did",
+        "was",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nJane thinks that every family member should share the household duties. Cooking is only one part of the work: someone also lays the table, washes up and cleans the room. A family can discuss the chores and decide who does each job. Sharing the work leaves more time for everyone.\n\nWhat is the main idea?",
+      "points": 2,
+      "options": [
+        "share the household duties",
+        "one person does everything",
+        "never discuss chores",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nJane thinks that every family member should share the household duties. Cooking is only one part of the work: someone also lays the table, washes up and cleans the room. A family can discuss the chores and decide who does each job. Sharing the work leaves more time for everyone.\n\nWhich task comes after a meal?",
+      "points": 2,
+      "options": [
+        "planting a forest",
+        "washing up",
+        "buying theatre tickets",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    }
+  ],
+  "id": "7-sb-u2-reading-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886927",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886927",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "title": "Unusual transport · 6 клас · ESL culture-1",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-culture-1/index.html",
+  "source_title": "Unusual transport Культура: незвичайний транспорт",
+  "assessment_lesson": "6/sb-round-up-1/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «двоповерховий автобус».",
+      "points": 1,
+      "answers": [
+        "double-decker"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «гондола».",
+      "points": 1,
+      "answers": [
+        "gondola"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «канал».",
+      "points": 1,
+      "answers": [
+        "canal"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "A bus with two levels is a ___.",
+      "points": 1,
+      "options": [
+        "gondola",
+        "ferry",
+        "double-decker"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "A canal is a place for…",
+      "points": 1,
+      "options": [
+        "planes.",
+        "boats.",
+        "trains."
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose a sentence about a regular service.",
+      "points": 1,
+      "options": [
+        "Cable cars travel along streets.",
+        "Cable cars travelled yesterday.",
+        "Cable cars are travelling now."
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: London is known for double-decker buses with two levels. In Venice , tourists can travel along canals in long boats called gondolas. A coco taxi is a small round vehicle with three wheels. In San Francisco , cable cars travel along steep streets. These vehicles can help visitors explore a city in different ways.\n\nWhat do gondolas travel along?",
+      "points": 2,
+      "options": [
+        "Motorways.",
+        "Railways.",
+        "Canals."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: London is known for double-decker buses with two levels. In Venice , tourists can travel along canals in long boats called gondolas. A coco taxi is a small round vehicle with three wheels. In San Francisco , cable cars travel along steep streets. These vehicles can help visitors explore a city in different ways.\n\nHow many wheels does a coco taxi have?",
+      "points": 2,
+      "options": [
+        "Six.",
+        "Three.",
+        "Two."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-culture-1-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886992",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886992",
+      "builder_url": "https://naurok.com.ua/test/builder/3886992",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

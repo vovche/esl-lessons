@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "title": "9 клас · Gerund — значення stop, remember, try, regret",
+  "grade": 9,
+  "purpose": "homework_check",
+  "source_lesson": "9/gerund/index.html",
+  "source_title": "Gerund: дієслово + ing",
+  "assessment_lesson": "9/gerund/index.html",
+  "placement": {
+    "rule": "no_next_lesson",
+    "note": "Перевірка після теми: окремого наступного уроку в навігації немає; збережено в папці вихідної теми."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши форму -ing від run.",
+      "points": 1,
+      "answers": [
+        "running"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Впиши форму swim: Let’s go ___ on Sunday.",
+      "points": 1,
+      "answers": [
+        "swimming"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Впиши правильну форму leave після decide: She decided ___ early.",
+      "points": 1,
+      "answers": [
+        "to leave"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Remember to lock the door. Що це означає?",
+      "points": 2,
+      "options": [
+        "Пам’ятай, що ти вже замкнув двері.",
+        "Не забудь замкнути двері.",
+        "Ти припинив замикати двері.",
+        "Ти звик замикати двері."
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "The app is frozen. Try restarting it. Яке значення має try doing у цій ситуації?",
+      "points": 2,
+      "options": [
+        "Спробувати перезапуск як можливий спосіб вирішити проблему.",
+        "Згадати перезапуск у минулому.",
+        "Зупинитися, щоб не працювати.",
+        "Пошкодувати про новину."
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери пару значень: I regret telling her the secret. / We regret to inform you that the event is cancelled.",
+      "points": 3,
+      "options": [
+        "Перше: з жалем повідомляю зараз; друге: шкодую про минулу дію.",
+        "Обидва речення лише про майбутні наміри.",
+        "Перше: шкодую про минулу дію; друге: з жалем повідомляємо зараз.",
+        "Обидва речення означають звичку."
+      ],
+      "key": 2
+    }
+  ],
+  "id": "9-gerund-homework-02",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887204",
+      "test_url": "https://naurok.com.ua/test/9-klas-gerund-znachennya-stop-remember-try-regret-3887204.html",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

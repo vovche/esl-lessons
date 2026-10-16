@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "title": "Me and my board · 6 клас · ESL song-1",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-song-1/index.html",
+  "source_title": "Me and my board Пісня: день зі скейтбордом",
+  "assessment_lesson": "6/sb-round-up-2/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «дошка».",
+      "points": 1,
+      "answers": [
+        "board"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «скейтпарк».",
+      "points": 1,
+      "answers": [
+        "skatepark"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «капюшон».",
+      "points": 1,
+      "answers": [
+        "hood"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "I ___ up early every day.",
+      "points": 1,
+      "options": [
+        "woke yesterday",
+        "am wake",
+        "wake"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "A repeated section of a song is a ___.",
+      "points": 1,
+      "options": [
+        "passport",
+        "chorus",
+        "receipt"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "After school I ___ the town.",
+      "points": 1,
+      "options": [
+        "explore",
+        "explores",
+        "exploring"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: The song describes a young person who enjoys skateboarding. The day begins early with friends at the skatepark. After school, the board is a way to explore and travel home. In the evening, the person plays a skateboard game on a computer. The main idea is enjoying a favourite activity throughout the day.\n\nWhat is the favourite activity in the song?",
+      "points": 2,
+      "options": [
+        "Fishing.",
+        "Cooking.",
+        "Skateboarding."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: The song describes a young person who enjoys skateboarding. The day begins early with friends at the skatepark. After school, the board is a way to explore and travel home. In the evening, the person plays a skateboard game on a computer. The main idea is enjoying a favourite activity throughout the day.\n\nWhat does the person do in the evening?",
+      "points": 2,
+      "options": [
+        "Visits a museum.",
+        "Plays a skateboard game.",
+        "Takes a flight."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-song-1-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887095",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887095",
+      "builder_url": "https://naurok.com.ua/test/builder/3887095",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

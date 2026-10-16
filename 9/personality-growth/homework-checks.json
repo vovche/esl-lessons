@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "9/personality-growth/index.html",
+  "tests": [
+    {
+      "id": "9-personality-types-homework-01",
+      "title": "9 клас · What kind of person? — риси характеру",
+      "source_lesson": "9/personality-types/index.html",
+      "json": "homework-check-personality-types-01.json",
+      "markdown": "homework-check-personality-types-01.md",
+      "answer_key": "homework-check-personality-types-01-key.md",
+      "test_url": "https://naurok.com.ua/test/9-klas-what-kind-of-person-risi-harakteru-3887165.html",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

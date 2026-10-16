@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "title": "6 клас · Jolly Phonics · Group 6",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/jolly-phonics/index.html",
+  "source_title": "sun",
+  "assessment_lesson": "6/jolly-phonics/index.html",
+  "placement": {
+    "rule": "no_next_lesson",
+    "note": "Перевірка після теми: окремого наступного уроку в навігації немає; збережено в папці вихідної теми."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Jolly Phonics. Який запис літери або буквосполучення на картці зі словом yellow позначає звук /j/? Напишіть запис із картки; збережіть риску між літерами, якщо вона є на картці.",
+      "points": 1,
+      "answers": [
+        "y"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Jolly Phonics. Який запис літери або буквосполучення на картці зі словом box позначає звук /ks/? Напишіть запис із картки; збережіть риску між літерами, якщо вона є на картці.",
+      "points": 1,
+      "answers": [
+        "x"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Jolly Phonics. Який запис літери або буквосполучення на картці зі словом chair позначає звук /tʃ/? Напишіть запис із картки; збережіть риску між літерами, якщо вона є на картці.",
+      "points": 1,
+      "answers": [
+        "ch"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Відновіть слово з картки Jolly Phonics: ___oe. Напишіть повне англійське слово.",
+      "points": 2,
+      "answers": [
+        "shoe"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Відновіть слово з картки Jolly Phonics: ___in. Напишіть повне англійське слово.",
+      "points": 2,
+      "answers": [
+        "thin"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Складіть слово з картки Jolly Phonics із літер: s / i / h / t. Напишіть повне слово.",
+      "points": 3,
+      "answers": [
+        "this"
+      ]
+    }
+  ],
+  "id": "6-jolly-phonics-homework-06",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886905",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886905",
+      "builder_url": "https://naurok.com.ua/test/builder/3886905",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

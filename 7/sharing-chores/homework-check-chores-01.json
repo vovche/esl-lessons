@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · My chores — домашні справи",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/chores/index.html",
+  "source_title": "My chores Мої хатні справи",
+  "assessment_lesson": "7/sharing-chores/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Доповни одним словом: I ___ the washing-up after dinner.",
+      "points": 1,
+      "answers": [
+        "do"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Доповни одним словом: I ___ a sandwich for lunch.",
+      "points": 1,
+      "answers": [
+        "make"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Доповни одним словом: We ___ the chores. (розподіляємо)",
+      "points": 1,
+      "answers": [
+        "split"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Доповни одним словом у правильній формі: Who usually ___ the plants? (water)",
+      "points": 2,
+      "answers": [
+        "waters"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Переклади англійською словосполучення «пилососити». Почни зі слова do.",
+      "points": 2,
+      "answers": [
+        "do the hoovering"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Склади повне речення з усіх слів: brother / My / usually / his room / tidies.",
+      "points": 3,
+      "answers": [
+        "My brother usually tidies his room."
+      ]
+    }
+  ],
+  "id": "7-chores-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886782",
+      "test_url": "https://naurok.com.ua/test/7-klas-my-chores-domashni-spravi-3886782.html",
+      "status": "homework_created",
+      "verified": true,
+      "homework_id": "86106558",
+      "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106558",
+      "student_url": "https://naurok.ua/test/join?gamecode=7553658",
+      "code": "7553658",
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

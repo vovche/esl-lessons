@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "title": "Gadgets · 6 клас · ESL 5b",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-5b/index.html",
+  "source_title": "Gadgets Технології майбутнього",
+  "assessment_lesson": "6/sb-5c/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «бездротовий».",
+      "points": 1,
+      "answers": [
+        "wireless"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «навушники».",
+      "points": 1,
+      "answers": [
+        "headphones"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «під’єднувати».",
+      "points": 1,
+      "answers": [
+        "connect"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "I think phones ___ change in the future.",
+      "points": 1,
+      "options": [
+        "are",
+        "did",
+        "will"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "I promise I ___ return your headphones.",
+      "points": 1,
+      "options": [
+        "was",
+        "will",
+        "am"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Will you ___ me, please?",
+      "points": 1,
+      "options": [
+        "help",
+        "helps",
+        "helping"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A teenager asks for advice about wireless headphones. One person recommends a cheaper pair. Another says the same headphones work with a phone but sometimes fail with a computer. A third person recommends a more expensive pair with better sound. The teenager decides to visit an electronics shop and compare them.\n\nWhy does one person dislike the cheaper headphones?",
+      "points": 2,
+      "options": [
+        "They are too colourful.",
+        "They are not wireless.",
+        "They sometimes fail with a computer."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A teenager asks for advice about wireless headphones. One person recommends a cheaper pair. Another says the same headphones work with a phone but sometimes fail with a computer. A third person recommends a more expensive pair with better sound. The teenager decides to visit an electronics shop and compare them.\n\nWhat will the teenager do next?",
+      "points": 2,
+      "options": [
+        "Buy a car.",
+        "Visit an electronics shop.",
+        "Go on a cruise."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-5b-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886866",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886866",
+      "builder_url": "https://naurok.com.ua/test/builder/3886866",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

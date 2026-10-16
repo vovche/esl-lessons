@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "7/sb-u7-grammar-2/index.html",
+  "tests": [
+    {
+      "id": "7-sb-u7-vocabulary-2-homework-01",
+      "title": "7 клас · Curtain up!: Лексика: застосування Кіно і театр · Лексика: застосування",
+      "source_lesson": "7/sb-u7-vocabulary-2/index.html",
+      "json": "homework-check-sb-u7-vocabulary-2-01.json",
+      "markdown": "homework-check-sb-u7-vocabulary-2-01.md",
+      "answer_key": "homework-check-sb-u7-vocabulary-2-01-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887224",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

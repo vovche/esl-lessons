@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "title": "Unlucky day · 6 клас · ESL song-2",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-song-2/index.html",
+  "source_title": "Unlucky day Пісня: невдалий день",
+  "assessment_lesson": "6/sb-round-up-4/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «невезучий».",
+      "points": 1,
+      "answers": [
+        "unlucky"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «пропустив, не встиг».",
+      "points": 1,
+      "answers": [
+        "missed"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «посковзнувся».",
+      "points": 1,
+      "answers": [
+        "slipped"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "The past form of wake is ___.",
+      "points": 1,
+      "options": [
+        "waked",
+        "waking",
+        "woke"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "While I ___, I slipped.",
+      "points": 1,
+      "options": [
+        "am walk",
+        "was walking",
+        "walk every day"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Which word helps order events?",
+      "points": 1,
+      "options": [
+        "Later.",
+        "Under.",
+        "Many."
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: The song tells a story about a difficult day. The person wakes up late, misses a bus and has to walk. An accident happens on the way. Later, another journey also goes wrong. The song repeats the idea of an unlucky day. Its past actions are useful for practising a short story with a clear sequence.\n\nWhy does the person walk?",
+      "points": 2,
+      "options": [
+        "They bought a boat.",
+        "They joined a choir.",
+        "They missed the bus."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: The song tells a story about a difficult day. The person wakes up late, misses a bus and has to walk. An accident happens on the way. Later, another journey also goes wrong. The song repeats the idea of an unlucky day. Its past actions are useful for practising a short story with a clear sequence.\n\nWhat kind of day does the song describe?",
+      "points": 2,
+      "options": [
+        "A school celebration.",
+        "An unlucky day.",
+        "A quiet holiday."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-song-2-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887104",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887104",
+      "builder_url": "https://naurok.com.ua/test/builder/3887104",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

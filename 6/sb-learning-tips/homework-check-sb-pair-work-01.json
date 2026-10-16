@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "title": "Talk together · 6 клас · ESL pair-work",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-pair-work/index.html",
+  "source_title": "Talk together Робота в парах",
+  "assessment_lesson": "6/sb-learning-tips/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «партнер».",
+      "points": 1,
+      "answers": [
+        "partner"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «описувати».",
+      "points": 1,
+      "answers": [
+        "describe"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «відгадувати».",
+      "points": 1,
+      "answers": [
+        "guess"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose a polite request for repetition.",
+      "points": 1,
+      "options": [
+        "Repeat now, you!",
+        "You repeating?",
+        "Could you repeat that, please?"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "The jacket is too small. Ask for…",
+      "points": 1,
+      "options": [
+        "a quieter one.",
+        "a larger one.",
+        "a smaller receipt."
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "After a first role play, partners should…",
+      "points": 1,
+      "options": [
+        "change roles.",
+        "hide all answers forever.",
+        "stop listening."
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Two partners practise a shopping dialogue. One is a customer and needs a jacket. The other is a shop assistant. The customer asks about size and price. The assistant offers another jacket when the first one is too small. They change roles and practise again, using a different item.\n\nWhat does the customer need?",
+      "points": 2,
+      "options": [
+        "A passport.",
+        "A drum.",
+        "A jacket."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Two partners practise a shopping dialogue. One is a customer and needs a jacket. The other is a shop assistant. The customer asks about size and price. The assistant offers another jacket when the first one is too small. They change roles and practise again, using a different item.\n\nWhat do they ask about?",
+      "points": 2,
+      "options": [
+        "Only a film.",
+        "Size and price.",
+        "Only the weather."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-pair-work-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887036",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887036",
+      "builder_url": "https://naurok.com.ua/test/builder/3887036",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

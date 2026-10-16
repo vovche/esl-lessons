@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "title": "City vs countryside · 6 клас · ESL 4c",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-4c/index.html",
+  "source_title": "City vs countryside Місто чи село",
+  "assessment_lesson": "6/sb-4d/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «спокійний».",
+      "points": 1,
+      "answers": [
+        "peaceful"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «галасливий».",
+      "points": 1,
+      "answers": [
+        "noisy"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «сільська місцевість».",
+      "points": 1,
+      "answers": [
+        "countryside"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "The country is ___ than the city.",
+      "points": 1,
+      "options": [
+        "quiet",
+        "quietest",
+        "quieter"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "This sofa is as ___ as my bed.",
+      "points": 1,
+      "options": [
+        "most comfortable",
+        "comfortable",
+        "more comfortable"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "This view is ___ than that one.",
+      "points": 1,
+      "options": [
+        "better",
+        "good",
+        "best"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Some people enjoy a busy city with shops and restaurants. Other people prefer the countryside because it is quieter and more peaceful. A houseboat can be cheaper than a large house. A caravan lets people travel with their home. The best choice depends on the person’s interests and daily life.\n\nWhy do some people prefer the countryside?",
+      "points": 2,
+      "options": [
+        "It has more traffic.",
+        "It is always crowded.",
+        "It is quieter and more peaceful."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Some people enjoy a busy city with shops and restaurants. Other people prefer the countryside because it is quieter and more peaceful. A houseboat can be cheaper than a large house. A caravan lets people travel with their home. The best choice depends on the person’s interests and daily life.\n\nWhat can a caravan let people do?",
+      "points": 2,
+      "options": [
+        "Live under water.",
+        "Travel with their home.",
+        "Fly to school."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-4c-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886843",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886843",
+      "builder_url": "https://naurok.com.ua/test/builder/3886843",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

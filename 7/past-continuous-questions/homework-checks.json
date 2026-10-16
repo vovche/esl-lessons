@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "7/past-continuous-questions/index.html",
+  "tests": [
+    {
+      "id": "7-past-simple-questions-homework-01",
+      "title": "7 клас · What did you do — минулі запитання",
+      "source_lesson": "7/past-simple-questions/index.html",
+      "json": "homework-check-past-simple-questions-01.json",
+      "markdown": "homework-check-past-simple-questions-01.md",
+      "answer_key": "homework-check-past-simple-questions-01-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886815",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "7/sb-u1-lead-in/index.html",
+  "tests": [
+    {
+      "id": "7-sb-starter-homework-01",
+      "title": "7 клас · Starter — початок навчального року",
+      "source_lesson": "7/sb-starter/index.html",
+      "json": "homework-check-sb-starter-01.json",
+      "markdown": "homework-check-sb-starter-01.md",
+      "answer_key": "homework-check-sb-starter-01-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886821",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

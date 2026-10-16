@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "title": "Where I live · 6 клас · ESL 4e",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-4e/index.html",
+  "source_title": "Where I live Описуємо своє місто",
+  "assessment_lesson": "6/sb-song-2/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «замок».",
+      "points": 1,
+      "answers": [
+        "castle"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «стадіон».",
+      "points": 1,
+      "answers": [
+        "stadium"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «міст».",
+      "points": 1,
+      "answers": [
+        "bridge"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "There ___ two galleries in my town.",
+      "points": 1,
+      "options": [
+        "is",
+        "was",
+        "are"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "There ___ a castle near the river.",
+      "points": 1,
+      "options": [
+        "have",
+        "is",
+        "are"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Which sentence gives an opinion?",
+      "points": 1,
+      "options": [
+        "I think this city is beautiful.",
+        "There are two bridges.",
+        "The park opens at nine."
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: I live in a city with a river and several bridges. There are museums, art galleries and a large stadium. Many visitors enjoy the view from the old bridge. My favourite place is the park because my friends and I can cycle there. I think our city is a great place to live.\n\nWhere does the writer like cycling?",
+      "points": 2,
+      "options": [
+        "At the airport.",
+        "Inside a museum.",
+        "In the park."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: I live in a city with a river and several bridges. There are museums, art galleries and a large stadium. Many visitors enjoy the view from the old bridge. My favourite place is the park because my friends and I can cycle there. I think our city is a great place to live.\n\nWhat do many visitors enjoy?",
+      "points": 2,
+      "options": [
+        "Buying a passport.",
+        "The view from the old bridge.",
+        "A school test."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-4e-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886855",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886855",
+      "builder_url": "https://naurok.com.ua/test/builder/3886855",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

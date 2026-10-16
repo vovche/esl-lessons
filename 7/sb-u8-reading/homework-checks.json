@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "7/sb-u8-reading/index.html",
+  "tests": [
+    {
+      "id": "7-sb-u8-vocabulary-homework-01",
+      "title": "7 клас · What is there to see and to do?: Лексика Подорожі й визначні місця · Лексика",
+      "source_lesson": "7/sb-u8-vocabulary/index.html",
+      "json": "homework-check-sb-u8-vocabulary-01.json",
+      "markdown": "homework-check-sb-u8-vocabulary-01.md",
+      "answer_key": "homework-check-sb-u8-vocabulary-01-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887216",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

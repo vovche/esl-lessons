@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · Our school event — шкільна подія",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/our-school-event/index.html",
+  "source_title": "Our school event Сплануй шкільну подію",
+  "assessment_lesson": "7/our-school-event/index.html",
+  "placement": {
+    "rule": "no_next_lesson",
+    "note": "Перевірка після теми: окремого наступного уроку в навігації немає; збережено в папці вихідної теми."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Доповни дієсловом: We ___ a present to our teacher.",
+      "points": 1,
+      "answers": [
+        "give"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Доповни дієсловом: The Art Club can ___ decorations.",
+      "points": 1,
+      "answers": [
+        "make"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Доповни дієсловом: We will ___ a concert. (проводити; починається з h)",
+      "points": 1,
+      "answers": [
+        "hold"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Доповни двома словами: The choir will ___ at the concert. (виконати пісню; a song)",
+      "points": 2,
+      "answers": [
+        "perform a song"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Прочитай: Our concert is on Friday at 4 pm in the school hall. Випиши два слова, які називають місце, без in the.",
+      "points": 2,
+      "answers": [
+        "school hall"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Склади речення з усіх частин: We / are making / decorations / now.",
+      "points": 3,
+      "answers": [
+        "We are making decorations now."
+      ]
+    }
+  ],
+  "id": "7-our-school-event-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886804",
+      "test_url": "https://naurok.com.ua/test/7-klas-our-school-event-shkilna-podiya-3886804.html",
+      "status": "homework_created",
+      "verified": true,
+      "homework_id": "86106622",
+      "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106622",
+      "student_url": "https://naurok.ua/test/join?gamecode=3202447",
+      "code": "3202447",
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

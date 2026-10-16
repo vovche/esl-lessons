@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "7/our-school-event/index.html",
+  "tests": [
+    {
+      "id": "7-ask-about-school-homework-01",
+      "title": "7 клас · Ask and check — шкільні запитання",
+      "source_lesson": "7/ask-about-school/index.html",
+      "json": "homework-check-ask-about-school-01.json",
+      "markdown": "homework-check-ask-about-school-01.md",
+      "answer_key": "homework-check-ask-about-school-01-key.md",
+      "test_url": "https://naurok.com.ua/test/7-klas-ask-and-check-shkilni-zapitannya-3886776.html",
+      "status": "homework_created",
+      "student_url": "https://naurok.ua/test/join?gamecode=1473165"
+    },
+    {
+      "id": "7-our-school-event-homework-01",
+      "title": "7 клас · Our school event — шкільна подія",
+      "source_lesson": "7/our-school-event/index.html",
+      "json": "homework-check-our-school-event-01.json",
+      "markdown": "homework-check-our-school-event-01.md",
+      "answer_key": "homework-check-our-school-event-01-key.md",
+      "test_url": "https://naurok.com.ua/test/7-klas-our-school-event-shkilna-podiya-3886804.html",
+      "status": "homework_created",
+      "student_url": "https://naurok.ua/test/join?gamecode=3202447"
+    }
+  ]
+}

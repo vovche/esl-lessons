@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "title": "Football · 6 клас · ESL 6d",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-6d/index.html",
+  "source_title": "Football Моя команда",
+  "assessment_lesson": "6/sb-6e/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «глядач».",
+      "points": 1,
+      "answers": [
+        "spectator"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «ліга».",
+      "points": 1,
+      "answers": [
+        "league"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «трофей».",
+      "points": 1,
+      "answers": [
+        "trophy"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Yesterday the team ___ a trophy.",
+      "points": 1,
+      "options": [
+        "wins",
+        "winning",
+        "won"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "A person who watches a match is a ___.",
+      "points": 1,
+      "options": [
+        "trophy",
+        "spectator",
+        "manager"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "They ___ in the local league every year.",
+      "points": 1,
+      "options": [
+        "play",
+        "played yesterday",
+        "is playing"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A sports club can have more than one team. It may include football, basketball and hockey teams. Supporters watch matches and celebrate trophies. A successful club can change managers and players over the years. When you describe a favourite team, explain where it plays and why you support it.\n\nCan one club have several teams?",
+      "points": 2,
+      "options": [
+        "No, only one player.",
+        "No, only one team.",
+        "Yes, in different sports."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A sports club can have more than one team. It may include football, basketball and hockey teams. Supporters watch matches and celebrate trophies. A successful club can change managers and players over the years. When you describe a favourite team, explain where it plays and why you support it.\n\nWhat should a description explain?",
+      "points": 2,
+      "options": [
+        "Only the price of food.",
+        "Where the team plays and why you support it.",
+        "Only the weather."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-6d-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886906",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886906",
+      "builder_url": "https://naurok.com.ua/test/builder/3886906",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

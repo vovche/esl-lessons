@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "title": "A country fact file · 6 клас · ESL clil-geography",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-clil-geography/index.html",
+  "source_title": "A country fact file Географія англійською: профіль країни",
+  "assessment_lesson": "6/sb-clil-sport/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «клімат».",
+      "points": 1,
+      "answers": [
+        "climate"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «валюта».",
+      "points": 1,
+      "answers": [
+        "currency"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «узбережжя».",
+      "points": 1,
+      "answers": [
+        "coast"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "The largest city means…",
+      "points": 1,
+      "options": [
+        "the oldest city.",
+        "the coldest city.",
+        "the biggest city."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "A population number should include…",
+      "points": 1,
+      "options": [
+        "only a song title.",
+        "a year.",
+        "only a colour."
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "The country ___ a cool climate.",
+      "points": 1,
+      "options": [
+        "has",
+        "have",
+        "are"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A country fact file gives short, organised information. It can name the capital, the largest city, mountains and lakes. It also describes the climate, currency and flag. A fact file is easier to read when each fact has its own label. A number about population should include the year it describes.\n\nWhat does a fact file organise?",
+      "points": 2,
+      "options": [
+        "Only a long story.",
+        "Only film reviews.",
+        "Short facts about a country."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A country fact file gives short, organised information. It can name the capital, the largest city, mountains and lakes. It also describes the climate, currency and flag. A fact file is easier to read when each fact has its own label. A number about population should include the year it describes.\n\nDoes a capital have to be the largest city?",
+      "points": 2,
+      "options": [
+        "Only in winter.",
+        "No.",
+        "Yes, always."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-clil-geography-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886976",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886976",
+      "builder_url": "https://naurok.com.ua/test/builder/3886976",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · Our home story — розповідаємо про дім",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/home-stories/index.html",
+  "source_title": "Our home story Розповідаємо про дім",
+  "assessment_lesson": "7/home-stories/index.html",
+  "placement": {
+    "rule": "no_next_lesson",
+    "note": "Перевірка після теми: окремого наступного уроку в навігації немає; збережено в папці вихідної теми."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською «безладний» (про кімнату). Початок m.",
+      "points": 1,
+      "answers": [
+        "messy"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Прочитай: Kenny keeps his books on shelves. His room is usually tidy. Доповни: Kenny keeps his books on ___.",
+      "points": 1,
+      "answers": [
+        "shelves"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Доповни одним словом: We should share chores ___ everyone can help.",
+      "points": 1,
+      "answers": [
+        "because"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Доповни двома словами в Past Continuous: At 3 pm yesterday, I ___ the shopping. (do)",
+      "points": 2,
+      "answers": [
+        "was doing"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Доповни двома словами речення про вже виконану справу: I ___ it. (do; Present Perfect, без скорочення)",
+      "points": 2,
+      "answers": [
+        "have done"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Склади повне запитання з усіх слів: Did / you / tidy / your room / yesterday?",
+      "points": 3,
+      "answers": [
+        "Did you tidy your room yesterday?"
+      ]
+    }
+  ],
+  "id": "7-home-stories-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886798",
+      "test_url": "https://naurok.com.ua/test/7-klas-our-home-story-rozpovidaemo-pro-dim-3886798.html",
+      "status": "homework_created",
+      "verified": true,
+      "homework_id": "86106596",
+      "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106596",
+      "student_url": "https://naurok.ua/test/join?gamecode=7843357",
+      "code": "7843357",
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "9/sb-u1-lead-in/index.html",
+  "tests": [
+    {
+      "id": "9-sb-starter-homework-01",
+      "title": "9 клас · Learning English — навчальні стратегії",
+      "source_lesson": "9/sb-starter/index.html",
+      "json": "homework-check-sb-starter-01.json",
+      "markdown": "homework-check-sb-starter-01.md",
+      "answer_key": "homework-check-sb-starter-01-key.md",
+      "test_url": "https://naurok.com.ua/test/9-klas-learning-english-navchalni-strategi-3887192.html",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

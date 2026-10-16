@@ -1,0 +1,127 @@
+{
+  "schema_version": 1,
+  "title": "Holiday activity · 6 клас · ESL 2a",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-2a/index.html",
+  "source_title": "Holiday activity Канікули в минулому",
+  "assessment_lesson": "6/sb-2b/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «засмагати».",
+      "points": 1,
+      "answers": [
+        "sunbathe"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «сувеніри».",
+      "points": 1,
+      "answers": [
+        "souvenirs"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «круїз».",
+      "points": 1,
+      "answers": [
+        "cruise"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Last summer we ___ on a cruise.",
+      "points": 1,
+      "options": [
+        "go",
+        "going",
+        "went"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Did you ___ any photos?",
+      "points": 1,
+      "options": [
+        "taken",
+        "take",
+        "took"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "She ___ fall off the camel.",
+      "points": 1,
+      "options": [
+        "did not",
+        "does not",
+        "was not"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A girl returned from a holiday in Egypt . She visited famous sights and went on a cruise. She also rode a camel. She was scared because the camel was tall, but she did not fall off. She bought souvenirs for her friends. She left her camera at home and could not show her photos.\n\nWhy was the girl scared?",
+      "points": 2,
+      "options": [
+        "She lost her passport.",
+        "The museum was closed.",
+        "The camel was tall."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A girl returned from a holiday in Egypt . She visited famous sights and went on a cruise. She also rode a camel. She was scared because the camel was tall, but she did not fall off. She bought souvenirs for her friends. She left her camera at home and could not show her photos.\n\nWhy could she not show her photos?",
+      "points": 2,
+      "options": [
+        "Her friends were away.",
+        "Her camera was at home.",
+        "She did not take photos."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-2a-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886800",
+      "test_url": "https://naurok.com.ua/test/holiday-activity-6-klas-esl-2a-3886800.html",
+      "builder_url": "https://naurok.com.ua/test/builder/3886800",
+      "status": "homework_created",
+      "verified": true,
+      "homework_id": "86106601",
+      "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106601",
+      "student_url": "https://naurok.ua/test/join?gamecode=9135186",
+      "code": "9135186",
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

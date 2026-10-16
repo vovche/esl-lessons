@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "6/sb-1a/index.html",
+  "tests": [
+    {
+      "id": "6-sb-hello-homework-01",
+      "title": "Hello! · 6 клас · ESL hello",
+      "source_lesson": "6/sb-hello/index.html",
+      "json": "homework-check-sb-hello-01.json",
+      "markdown": "homework-check-sb-hello-01.md",
+      "answer_key": "homework-check-sb-hello-01-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887023",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

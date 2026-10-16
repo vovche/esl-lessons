@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "title": "Music · 6 клас · ESL 7b",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-7b/index.html",
+  "source_title": "Music Досвід і конкретна подія",
+  "assessment_lesson": "6/sb-7c/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «аудиторія, глядачі».",
+      "points": 1,
+      "answers": [
+        "audience"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «автограф».",
+      "points": 1,
+      "answers": [
+        "autograph"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «текст пісні».",
+      "points": 1,
+      "answers": [
+        "lyrics"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "I ___ the band last night.",
+      "points": 1,
+      "options": [
+        "have seen",
+        "seeing",
+        "saw"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "She has ___ to the shop and is not back yet.",
+      "points": 1,
+      "options": [
+        "went",
+        "gone",
+        "been"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Have you booked the tickets ___?",
+      "points": 1,
+      "options": [
+        "yet",
+        "yesterday",
+        "last week"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A fan has been to several concerts, but one performance was especially exciting. Last summer she saw a live band with a friend. At first it was dark and she felt nervous. Then the lights came on and the audience started singing. She enjoyed the music and decided to see the band again.\n\nWhen did the fan see the band in the story?",
+      "points": 2,
+      "options": [
+        "This morning.",
+        "Ten years ago.",
+        "Last summer."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A fan has been to several concerts, but one performance was especially exciting. Last summer she saw a live band with a friend. At first it was dark and she felt nervous. Then the lights came on and the audience started singing. She enjoyed the music and decided to see the band again.\n\nHow did she feel at first?",
+      "points": 2,
+      "options": [
+        "Disappointed.",
+        "Nervous.",
+        "Angry."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-7b-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886922",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886922",
+      "builder_url": "https://naurok.com.ua/test/builder/3886922",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

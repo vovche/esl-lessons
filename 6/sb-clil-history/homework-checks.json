@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "6/sb-clil-history/index.html",
+  "tests": [
+    {
+      "id": "6-sb-culture-ukraine-2-homework-01",
+      "title": "Visiting a capital · 6 клас · ESL culture-ukraine-2",
+      "source_lesson": "6/sb-culture-ukraine-2/index.html",
+      "json": "homework-check-sb-culture-ukraine-2-01.json",
+      "markdown": "homework-check-sb-culture-ukraine-2-01.md",
+      "answer_key": "homework-check-sb-culture-ukraine-2-01-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887018",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

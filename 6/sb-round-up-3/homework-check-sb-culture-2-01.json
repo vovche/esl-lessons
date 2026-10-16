@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "title": "A place full of stories · 6 клас · ESL culture-2",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-culture-2/index.html",
+  "source_title": "A place full of stories Культура: традиції та легенди",
+  "assessment_lesson": "6/sb-round-up-3/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «волинка».",
+      "points": 1,
+      "answers": [
+        "bagpipes"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «кілт».",
+      "points": 1,
+      "answers": [
+        "kilt"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «легенда».",
+      "points": 1,
+      "answers": [
+        "legend"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "A traditional musical instrument is…",
+      "points": 1,
+      "options": [
+        "a kilt.",
+        "a castle.",
+        "bagpipes."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Which phrase introduces a belief?",
+      "points": 1,
+      "options": [
+        "The timetable says…",
+        "People believe…",
+        "The measured depth is…"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "A kilt is an item of ___.",
+      "points": 1,
+      "options": [
+        "clothing",
+        "transport",
+        "food"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Scotland has castles, hills and many lakes called lochs. Its capital is Edinburgh . Bagpipes are a traditional musical instrument, and a kilt is a traditional item of clothing. Loch Ness is famous for a monster legend. A travel text can describe the scenery and traditions while making clear that a legend is a story people tell.\n\nWhat are lochs?",
+      "points": 2,
+      "options": [
+        "Mountains.",
+        "Schools.",
+        "Lakes."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Scotland has castles, hills and many lakes called lochs. Its capital is Edinburgh . Bagpipes are a traditional musical instrument, and a kilt is a traditional item of clothing. Loch Ness is famous for a monster legend. A travel text can describe the scenery and traditions while making clear that a legend is a story people tell.\n\nWhat is Loch Ness famous for in this text?",
+      "points": 2,
+      "options": [
+        "A sports team.",
+        "A monster legend.",
+        "A new airport."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-culture-2-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886998",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886998",
+      "builder_url": "https://naurok.com.ua/test/builder/3886998",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · Traditions... Traditions...: Слухання Свята і традиції · Слухання",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/sb-u4-listening/index.html",
+  "source_title": "Traditions... Traditions...: Слухання Свята і традиції · Слухання",
+  "assessment_lesson": "7/sb-u4-vocabulary-2/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова custom.",
+      "points": 1,
+      "options": [
+        "переддень",
+        "північ",
+        "звичай",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова celebrate.",
+      "points": 1,
+      "options": [
+        "святкувати",
+        "північ",
+        "свічка",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова Eve.",
+      "points": 1,
+      "options": [
+        "отримувати",
+        "переддень",
+        "свічка",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Cards ___ sent to grandparents.",
+      "points": 1,
+      "options": [
+        "is",
+        "be",
+        "are",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "The holiday ___ celebrated in winter.",
+      "points": 1,
+      "options": [
+        "is",
+        "are",
+        "do",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Special food is ___ at home.",
+      "points": 1,
+      "options": [
+        "preparing",
+        "prepared",
+        "prepare",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nOur class is comparing family celebrations. In one family, special food is prepared on New Year’s Eve. In another, cards are sent to grandparents. The pupils explain when each tradition is followed and why it matters. They notice that customs differ, but many celebrations bring people together.\n\nWhat is the class comparing?",
+      "points": 2,
+      "options": [
+        "sports scores",
+        "film tickets",
+        "family celebrations",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nOur class is comparing family celebrations. In one family, special food is prepared on New Year’s Eve. In another, cards are sent to grandparents. The pupils explain when each tradition is followed and why it matters. They notice that customs differ, but many celebrations bring people together.\n\nWho receives cards in one family?",
+      "points": 2,
+      "options": [
+        "grandparents",
+        "a referee",
+        "a tour guide",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    }
+  ],
+  "id": "7-sb-u4-listening-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887050",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887050",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

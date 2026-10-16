@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "title": "What happened? · 6 клас · ESL 3c",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-3c/index.html",
+  "source_title": "What happened? Пригода в парку атракціонів",
+  "assessment_lesson": "6/sb-3d/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «атракціон».",
+      "points": 1,
+      "answers": [
+        "ride"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «черга».",
+      "points": 1,
+      "answers": [
+        "queue"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «лимонад».",
+      "points": 1,
+      "answers": [
+        "lemonade"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Are there ___ tickets left?",
+      "points": 1,
+      "options": [
+        "no",
+        "a",
+        "any"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "There are ___ interesting rides here.",
+      "points": 1,
+      "options": [
+        "a",
+        "some",
+        "any not"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "We have not got ___ lemonade.",
+      "points": 1,
+      "options": [
+        "any",
+        "no",
+        "a"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Two boys went on a water ride at a funfair. One boy was eating a sandwich when the boat went down a hill. Ketchup got on his shirt. The boat splashed into water, and the water washed some ketchup off. There were no roller coasters, but the boys enjoyed the other rides.\n\nWhat was the boy eating?",
+      "points": 2,
+      "options": [
+        "An apple.",
+        "A cake.",
+        "A sandwich."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Two boys went on a water ride at a funfair. One boy was eating a sandwich when the boat went down a hill. Ketchup got on his shirt. The boat splashed into water, and the water washed some ketchup off. There were no roller coasters, but the boys enjoyed the other rides.\n\nWere there roller coasters?",
+      "points": 2,
+      "options": [
+        "There was one.",
+        "No, there were none.",
+        "Yes, there were many."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-3c-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886824",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886824",
+      "builder_url": "https://naurok.com.ua/test/builder/3886824",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "title": "9 клас · Fashion All the Way: Лексика в контексті",
+  "grade": 9,
+  "purpose": "homework_check",
+  "source_lesson": "9/sb-u2-vocabulary-2/index.html",
+  "source_title": "Fashion All the Way: Лексика в контексті Мода і стиль: Лексика в контексті",
+  "assessment_lesson": "9/sb-u2-grammar-2/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова outfit.",
+      "points": 1,
+      "options": [
+        "аксесуар",
+        "зручний",
+        "вбрання"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова footwear.",
+      "points": 1,
+      "options": [
+        "стильний",
+        "взуття",
+        "зручний"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова accessory.",
+      "points": 1,
+      "options": [
+        "аксесуар",
+        "стильний",
+        "однотонний"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "She is interested in ... accessories.",
+      "points": 2,
+      "options": [
+        "make",
+        "making",
+        "to make"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "... outfits takes time.",
+      "points": 2,
+      "options": [
+        "Choosing",
+        "To choosing",
+        "Choose"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст. Emma and Dan discuss clothes for a special school event. Emma wants a comfortable outfit and chooses a plain shirt with trousers. Dan prefers a striped shirt and clean shoes. They agree that clothes can express interests, but a person should not be judged only by an outfit. They compare price and quality before buying anything.\n\nWhat do they compare before buying?",
+      "points": 3,
+      "options": [
+        "phones and games",
+        "price and quality",
+        "names and ages"
+      ],
+      "key": 1
+    }
+  ],
+  "id": "9-sb-u2-vocabulary-2-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886940",
+      "test_url": "https://naurok.com.ua/test/9-klas-fashion-all-the-way-leksika-v-konteksti-3886940.html",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

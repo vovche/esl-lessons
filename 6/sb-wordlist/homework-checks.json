@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "6/sb-wordlist/index.html",
+  "tests": [
+    {
+      "id": "6-sb-wordlist-homework-01",
+      "title": "6 клас · Wordlist · Unit 1",
+      "source_lesson": "6/sb-wordlist/index.html",
+      "json": "homework-check-sb-wordlist-01.json",
+      "markdown": "homework-check-sb-wordlist-01.md",
+      "answer_key": "homework-check-sb-wordlist-01-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886917",
+      "status": "published_pending_homework_daily_limit"
+    },
+    {
+      "id": "6-sb-wordlist-homework-02",
+      "title": "6 клас · Wordlist · Unit 2",
+      "source_lesson": "6/sb-wordlist/index.html",
+      "json": "homework-check-sb-wordlist-02.json",
+      "markdown": "homework-check-sb-wordlist-02.md",
+      "answer_key": "homework-check-sb-wordlist-02-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886931",
+      "status": "published_pending_homework_daily_limit"
+    },
+    {
+      "id": "6-sb-wordlist-homework-03",
+      "title": "6 клас · Wordlist · Unit 3",
+      "source_lesson": "6/sb-wordlist/index.html",
+      "json": "homework-check-sb-wordlist-03.json",
+      "markdown": "homework-check-sb-wordlist-03.md",
+      "answer_key": "homework-check-sb-wordlist-03-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886936",
+      "status": "published_pending_homework_daily_limit"
+    },
+    {
+      "id": "6-sb-wordlist-homework-04",
+      "title": "6 клас · Wordlist · Unit 4",
+      "source_lesson": "6/sb-wordlist/index.html",
+      "json": "homework-check-sb-wordlist-04.json",
+      "markdown": "homework-check-sb-wordlist-04.md",
+      "answer_key": "homework-check-sb-wordlist-04-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886944",
+      "status": "published_pending_homework_daily_limit"
+    },
+    {
+      "id": "6-sb-wordlist-homework-05",
+      "title": "6 клас · Wordlist · Unit 5",
+      "source_lesson": "6/sb-wordlist/index.html",
+      "json": "homework-check-sb-wordlist-05.json",
+      "markdown": "homework-check-sb-wordlist-05.md",
+      "answer_key": "homework-check-sb-wordlist-05-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886947",
+      "status": "published_pending_homework_daily_limit"
+    },
+    {
+      "id": "6-sb-wordlist-homework-06",
+      "title": "6 клас · Wordlist · Unit 6",
+      "source_lesson": "6/sb-wordlist/index.html",
+      "json": "homework-check-sb-wordlist-06.json",
+      "markdown": "homework-check-sb-wordlist-06.md",
+      "answer_key": "homework-check-sb-wordlist-06-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886951",
+      "status": "published_pending_homework_daily_limit"
+    },
+    {
+      "id": "6-sb-wordlist-homework-07",
+      "title": "6 клас · Wordlist · Unit 7",
+      "source_lesson": "6/sb-wordlist/index.html",
+      "json": "homework-check-sb-wordlist-07.json",
+      "markdown": "homework-check-sb-wordlist-07.md",
+      "answer_key": "homework-check-sb-wordlist-07-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886954",
+      "status": "published_pending_homework_daily_limit"
+    },
+    {
+      "id": "6-sb-wordlist-homework-08",
+      "title": "6 клас · Wordlist · Unit 8",
+      "source_lesson": "6/sb-wordlist/index.html",
+      "json": "homework-check-sb-wordlist-08.json",
+      "markdown": "homework-check-sb-wordlist-08.md",
+      "answer_key": "homework-check-sb-wordlist-08-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886957",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

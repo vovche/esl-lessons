@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · Curtain up!: Граматика Кіно і театр · Граматика",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/sb-u7-grammar/index.html",
+  "source_title": "Curtain up!: Граматика Кіно і театр · Граматика",
+  "assessment_lesson": "7/sb-u7-listening/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова performance.",
+      "points": 1,
+      "options": [
+        "вистава",
+        "глядачі",
+        "комедія",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова stage.",
+      "points": 1,
+      "options": [
+        "трилер",
+        "сцена",
+        "комедія",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова audience.",
+      "points": 1,
+      "options": [
+        "трилер",
+        "рецензія",
+        "глядачі",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "The film is ___ interesting.",
+      "points": 1,
+      "options": [
+        "really",
+        "enoughly",
+        "many",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "The acting is good ___.",
+      "points": 1,
+      "options": [
+        "very",
+        "enough",
+        "too",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "This film is ___ long for our short break.",
+      "points": 1,
+      "options": [
+        "enough",
+        "many",
+        "too",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nNora and Dan are choosing a film. Nora prefers a comedy because she wants to laugh. Dan enjoys science-fiction films, but today he agrees to watch the comedy. After the film, they write a review. They think the acting is really good, although the plot is less original than the plot of the previous film.\n\nWhy does Nora prefer a comedy?",
+      "points": 2,
+      "options": [
+        "she wants to laugh",
+        "she wants to study maps",
+        "she dislikes all films",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nNora and Dan are choosing a film. Nora prefers a comedy because she wants to laugh. Dan enjoys science-fiction films, but today he agrees to watch the comedy. After the film, they write a review. They think the acting is really good, although the plot is less original than the plot of the previous film.\n\nWhat do they write after watching?",
+      "points": 2,
+      "options": [
+        "a sports score",
+        "a review",
+        "a recipe",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    }
+  ],
+  "id": "7-sb-u7-grammar-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887189",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887189",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

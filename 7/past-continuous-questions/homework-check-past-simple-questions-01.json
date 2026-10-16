@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · What did you do — минулі запитання",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/past-simple-questions/index.html",
+  "source_title": "What did you do? Запитання про вчора",
+  "assessment_lesson": "7/past-continuous-questions/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Доповни одним словом: What ___ Dad make for dinner yesterday?",
+      "points": 1,
+      "answers": [
+        "did"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Доповни одним словом: Why ___ she late yesterday?",
+      "points": 1,
+      "answers": [
+        "was"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Доповни початковою формою: Did you ___ the dog? (fed)",
+      "points": 1,
+      "answers": [
+        "feed"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Доповни правильною формою be: Where ___ you last Saturday?",
+      "points": 2,
+      "answers": [
+        "were"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Доповни минулою формою дієслова: Who ___ the plate? (break; запитання до підмета)",
+      "points": 2,
+      "answers": [
+        "broke"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Склади повне запитання з усіх слів: When / did / they / do / the shopping?",
+      "points": 3,
+      "answers": [
+        "When did they do the shopping?"
+      ]
+    }
+  ],
+  "id": "7-past-simple-questions-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886815",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886815",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

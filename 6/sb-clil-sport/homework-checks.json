@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "6/sb-clil-sport/index.html",
+  "tests": [
+    {
+      "id": "6-sb-clil-geography-homework-01",
+      "title": "A country fact file · 6 клас · ESL clil-geography",
+      "source_lesson": "6/sb-clil-geography/index.html",
+      "json": "homework-check-sb-clil-geography-01.json",
+      "markdown": "homework-check-sb-clil-geography-01.md",
+      "answer_key": "homework-check-sb-clil-geography-01-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886976",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

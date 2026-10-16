@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · Are you ready to cook?: Слухання Приготування їжі · Слухання",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/sb-u3-listening/index.html",
+  "source_title": "Are you ready to cook?: Слухання Приготування їжі · Слухання",
+  "assessment_lesson": "7/sb-u3-vocabulary-2/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова chopping board.",
+      "points": 1,
+      "options": [
+        "обробна дошка",
+        "ополоник",
+        "сковорода",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова grater.",
+      "points": 1,
+      "options": [
+        "помішувати",
+        "тертка",
+        "сковорода",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова ladle.",
+      "points": 1,
+      "options": [
+        "помішувати",
+        "варити; кип’ятити",
+        "ополоник",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Eva ___ washed the tomatoes.",
+      "points": 1,
+      "options": [
+        "has",
+        "have",
+        "is",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Have you ___ the vegetables?",
+      "points": 1,
+      "options": [
+        "chopping",
+        "chopped",
+        "chop",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "What ___ you prepared?",
+      "points": 1,
+      "options": [
+        "did have",
+        "has",
+        "have",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nWe have prepared a simple vegetable salad for our class picnic. Eva has washed the tomatoes and I have sliced the cucumbers on a chopping board. We have not added the dressing yet. Our recipe lists the ingredients first and then explains each step. We serve the salad politely and thank everyone who helped.\n\nWhat have the pupils prepared?",
+      "points": 2,
+      "options": [
+        "a vegetable salad",
+        "a chocolate cake",
+        "fish soup",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nWe have prepared a simple vegetable salad for our class picnic. Eva has washed the tomatoes and I have sliced the cucumbers on a chopping board. We have not added the dressing yet. Our recipe lists the ingredients first and then explains each step. We serve the salad politely and thank everyone who helped.\n\nWhat have they not added yet?",
+      "points": 2,
+      "options": [
+        "the cucumbers",
+        "the dressing",
+        "the tomatoes",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    }
+  ],
+  "id": "7-sb-u3-listening-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886987",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886987",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

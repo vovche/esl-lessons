@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "title": "6 клас · Wordlist · Unit 2",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-wordlist/index.html",
+  "source_title": "Лексика курсу",
+  "assessment_lesson": "6/sb-wordlist/index.html",
+  "placement": {
+    "rule": "no_next_lesson",
+    "note": "Перевірка після теми: окремого наступного уроку в навігації немає; збережено в папці вихідної теми."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Лексика Unit 2. Перекладіть англійською: «засмагати». Підказка: 8 символів; починається на s. Напишіть слово або словосполучення зі словника уроку.",
+      "points": 1,
+      "answers": [
+        "sunbathe"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Лексика Unit 2. Перекладіть англійською: «пором». Підказка: 5 символів; починається на f. Напишіть слово або словосполучення зі словника уроку.",
+      "points": 1,
+      "answers": [
+        "ferry"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Лексика Unit 2. Перекладіть англійською: «паспорт». Підказка: 8 символів; починається на p. Напишіть слово або словосполучення зі словника уроку.",
+      "points": 1,
+      "answers": [
+        "passport"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Complete: The long ___ across the ocean took many weeks. (морська подорож)",
+      "points": 2,
+      "answers": [
+        "voyage"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Complete: The trip was ___; we loved every minute. (дивовижна)",
+      "points": 2,
+      "answers": [
+        "amazing"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Відновіть слово зі словника Unit 2 («метро») із усіх літер: d / n / u / o / r / g / r / e / d / n / u. Напишіть його правильно.",
+      "points": 3,
+      "answers": [
+        "underground"
+      ]
+    }
+  ],
+  "id": "6-sb-wordlist-homework-02",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886931",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886931",
+      "builder_url": "https://naurok.com.ua/test/builder/3886931",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

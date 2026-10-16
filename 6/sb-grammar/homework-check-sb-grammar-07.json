@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "title": "6 клас · Grammar Reference · Unit 7",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-grammar/index.html",
+  "source_title": "Граматичний довідник",
+  "assessment_lesson": "6/sb-grammar/index.html",
+  "placement": {
+    "rule": "no_next_lesson",
+    "note": "Перевірка після теми: окремого наступного уроку в навігації немає; збережено в папці вихідної теми."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Вставте have або has: She ___ never won a competition.",
+      "points": 1,
+      "answers": [
+        "has"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Вставте Past Simple: I ___ the band last summer. (see)",
+      "points": 1,
+      "answers": [
+        "saw"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Вставте for або since: I have lived here ___ two years.",
+      "points": 1,
+      "answers": [
+        "for"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Вставте enough або too: These shoes are not big ___.",
+      "points": 2,
+      "answers": [
+        "enough"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Вставте one або ones: I like the white shoes. I like the white ___.",
+      "points": 2,
+      "answers": [
+        "ones"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Складіть питання з усіх слів: have / How long / here / you / lived. Запишіть без знака питання.",
+      "points": 3,
+      "answers": [
+        "How long have you lived here"
+      ]
+    }
+  ],
+  "id": "6-sb-grammar-homework-07",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886868",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886868",
+      "builder_url": "https://naurok.com.ua/test/builder/3886868",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

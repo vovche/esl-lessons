@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · Sport from A to Z: Говоріння Спорт · Говоріння",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/sb-u5-speaking/index.html",
+  "source_title": "Sport from A to Z: Говоріння Спорт · Говоріння",
+  "assessment_lesson": "7/sb-u5-writing/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова athletics.",
+      "points": 1,
+      "options": [
+        "шайба",
+        "легка атлетика",
+        "спортивне поле",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова referee.",
+      "points": 1,
+      "options": [
+        "шайба",
+        "спорядження",
+        "арбітр",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова pitch.",
+      "points": 1,
+      "options": [
+        "спортивне поле",
+        "спорядження",
+        "змагатися",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "The match ___ played on Saturday.",
+      "points": 1,
+      "options": [
+        "is being",
+        "was",
+        "were",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Two medals ___ won by the club.",
+      "points": 1,
+      "options": [
+        "was",
+        "did",
+        "were",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Where ___ the competition held?",
+      "points": 1,
+      "options": [
+        "was",
+        "did",
+        "has",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nA: Which sport would you like to try? B: Basketball. A: Where was the last school match played? B: In the gym. A: Who won? B: Our school team. A: Was it a close match? B: Yes, the final score was very close.\n\nWhich sport would B like to try?",
+      "points": 2,
+      "options": [
+        "swimming",
+        "basketball",
+        "hockey",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nA: Which sport would you like to try? B: Basketball. A: Where was the last school match played? B: In the gym. A: Who won? B: Our school team. A: Was it a close match? B: Yes, the final score was very close.\n\nWhere was the match played?",
+      "points": 2,
+      "options": [
+        "at a museum",
+        "on a theatre stage",
+        "in the gym",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    }
+  ],
+  "id": "7-sb-u5-speaking-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887173",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887173",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

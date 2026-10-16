@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "title": "6 клас · Grammar Reference · Unit 4",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-grammar/index.html",
+  "source_title": "Граматичний довідник",
+  "assessment_lesson": "6/sb-grammar/index.html",
+  "placement": {
+    "rule": "no_next_lesson",
+    "note": "Перевірка після теми: окремого наступного уроку в навігації немає; збережено в папці вихідної теми."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Вставте ввічливе модальне дієслово дозволу на M: ___ I borrow this book?",
+      "points": 1,
+      "answers": [
+        "May"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Перекладіть одним словом «навпроти».",
+      "points": 1,
+      "answers": [
+        "opposite"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Утворіть comparative: The country is ___ than the city. (quiet)",
+      "points": 1,
+      "answers": [
+        "quieter"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Утворіть superlative: This is the ___ planet in the group. (large)",
+      "points": 2,
+      "answers": [
+        "largest"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Вставте is або are: There ___ two galleries in our town.",
+      "points": 2,
+      "answers": [
+        "are"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Складіть речення з усіх слів: as / comfortable / This house / as / is / that one. Запишіть без крапки.",
+      "points": 3,
+      "answers": [
+        "This house is as comfortable as that one"
+      ]
+    }
+  ],
+  "id": "6-sb-grammar-homework-04",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886853",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886853",
+      "builder_url": "https://naurok.com.ua/test/builder/3886853",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

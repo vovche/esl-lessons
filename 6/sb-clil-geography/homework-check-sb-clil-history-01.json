@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "title": "An expedition · 6 клас · ESL clil-history",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-clil-history/index.html",
+  "source_title": "An expedition Історія англійською: експедиція",
+  "assessment_lesson": "6/sb-clil-geography/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «експедиція».",
+      "points": 1,
+      "answers": [
+        "expedition"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «маршрут».",
+      "points": 1,
+      "answers": [
+        "route"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «сани».",
+      "points": 1,
+      "answers": [
+        "sledge"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "The team ___ the expedition in the past.",
+      "points": 1,
+      "options": [
+        "begins",
+        "beginning",
+        "began"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "They were travelling when they ___ a flag.",
+      "points": 1,
+      "options": [
+        "seeing",
+        "saw",
+        "see"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "A route describes…",
+      "points": 1,
+      "options": [
+        "the way people travel.",
+        "the colour of clothes.",
+        "the price of a book."
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Two expedition teams wanted to reach the South Pole . They chose different routes and forms of transport. One team used sledges pulled by dogs. It arrived first and left a flag. The other team arrived later and faced terrible conditions on the return journey. Careful preparation was important in such a difficult environment.\n\nWhat pulled one team's sledges?",
+      "points": 2,
+      "options": [
+        "Bicycles.",
+        "Buses.",
+        "Dogs."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Two expedition teams wanted to reach the South Pole . They chose different routes and forms of transport. One team used sledges pulled by dogs. It arrived first and left a flag. The other team arrived later and faced terrible conditions on the return journey. Careful preparation was important in such a difficult environment.\n\nWhat did the first team leave?",
+      "points": 2,
+      "options": [
+        "A musical instrument.",
+        "A flag.",
+        "A keyboard."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-clil-history-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886981",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886981",
+      "builder_url": "https://naurok.com.ua/test/builder/3886981",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

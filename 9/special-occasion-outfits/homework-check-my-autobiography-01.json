@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "title": "9 клас · My story so far — автобіографія",
+  "grade": 9,
+  "purpose": "homework_check",
+  "source_lesson": "9/my-autobiography/index.html",
+  "source_title": "My story so far Напиши коротку автобіографію",
+  "assessment_lesson": "9/special-occasion-outfits/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською одним словом: автобіографія.",
+      "points": 1,
+      "answers": [
+        "autobiography"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Впиши минулу форму grow: I ___ up in a small town.",
+      "points": 1,
+      "answers": [
+        "grew"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Доповни одним словом: I enjoy science ___ I like doing experiments. Поясни причину.",
+      "points": 1,
+      "answers": [
+        "because"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Яке речення логічно поєднує дитячий досвід із теперішньою звичкою?",
+      "points": 2,
+      "options": [
+        "I loved books as a child, and I still read every week.",
+        "I loved books, so yesterday tomorrow.",
+        "I read tomorrow last year.",
+        "Books are good good good."
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Який фрагмент показує рису характеру через конкретний приклад?",
+      "points": 2,
+      "options": [
+        "I am creative. I am many things.",
+        "I have a name and a school.",
+        "I am creative because I write stories and draw my own characters.",
+        "I do things because things are things."
+      ],
+      "key": 2
+    },
+    {
+      "type": "word",
+      "prompt": "Склади речення із всіх слів у правильному порядку: still / I / learning / am / confidently / to speak. Почни з I.",
+      "points": 3,
+      "answers": [
+        "I am still learning to speak confidently.",
+        "I am still learning to speak confidently"
+      ]
+    }
+  ],
+  "id": "9-my-autobiography-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886807",
+      "test_url": "https://naurok.com.ua/test/9-klas-my-story-so-far-avtobiografiya-3886807.html",
+      "status": "homework_created",
+      "verified": true,
+      "homework_id": "86106628",
+      "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106628",
+      "student_url": "https://naurok.ua/test/join?gamecode=6237250",
+      "code": "6237250",
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

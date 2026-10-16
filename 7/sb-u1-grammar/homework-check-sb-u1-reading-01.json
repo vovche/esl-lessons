@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · In and out of school: Читання Шкільне життя і дозвілля · Читання",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/sb-u1-reading/index.html",
+  "source_title": "In and out of school: Читання Шкільне життя і дозвілля · Читання",
+  "assessment_lesson": "7/sb-u1-grammar/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова bookworm.",
+      "points": 1,
+      "options": [
+        "річниця",
+        "книголюб",
+        "захоплений наукою",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова chatterbox.",
+      "points": 1,
+      "options": [
+        "річниця",
+        "закінчення навчання",
+        "балакун",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова science geek.",
+      "points": 1,
+      "options": [
+        "захоплений наукою",
+        "закінчення навчання",
+        "позакласний",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Maya usually ___ to the club on Mondays.",
+      "points": 1,
+      "options": [
+        "go",
+        "goes",
+        "is going",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Look! The pupils ___ a show.",
+      "points": 1,
+      "options": [
+        "prepare",
+        "prepared",
+        "are preparing",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "___ are you doing now?",
+      "points": 1,
+      "options": [
+        "What",
+        "Who",
+        "Whose",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nOur school celebrates Knowledge Day at the start of the school year. Teachers’ Day is a chance to thank the teachers. Graduation Day marks the end of school for some pupils. The dates and customs can differ between schools, but pupils often prepare speeches, songs and decorations together.\n\nWhich day marks the start of the school year?",
+      "points": 2,
+      "options": [
+        "Sports Day",
+        "Knowledge Day",
+        "Graduation Day",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nOur school celebrates Knowledge Day at the start of the school year. Teachers’ Day is a chance to thank the teachers. Graduation Day marks the end of school for some pupils. The dates and customs can differ between schools, but pupils often prepare speeches, songs and decorations together.\n\nWhy do pupils celebrate Teachers’ Day?",
+      "points": 2,
+      "options": [
+        "to buy film tickets",
+        "to cook soup",
+        "to thank their teachers",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    }
+  ],
+  "id": "7-sb-u1-reading-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886852",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886852",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

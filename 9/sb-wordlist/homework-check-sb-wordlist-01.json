@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "title": "9 клас · Лексика курсу · Unit 1",
+  "grade": 9,
+  "purpose": "homework_check",
+  "source_lesson": "9/sb-wordlist/index.html",
+  "source_title": "Лексика курсу",
+  "assessment_lesson": "9/sb-wordlist/index.html",
+  "placement": {
+    "rule": "no_next_lesson",
+    "note": "Перевірка після теми: окремого наступного уроку в навігації немає; збережено в папці вихідної теми."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери переклад слова або виразу: personality.",
+      "points": 1,
+      "options": [
+        "особистість",
+        "допитливий",
+        "ім’я"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери переклад слова або виразу: confident.",
+      "points": 1,
+      "options": [
+        "прізвище",
+        "упевнений",
+        "приклад для наслідування"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери переклад слова або виразу: curious.",
+      "points": 1,
+      "options": [
+        "саморозвиток",
+        "заняття, професія",
+        "допитливий"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери переклад слова або виразу: role model.",
+      "points": 1,
+      "options": [
+        "приклад для наслідування",
+        "ім’я",
+        "особистість"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери переклад слова або виразу: self-development.",
+      "points": 1,
+      "options": [
+        "упевнений",
+        "саморозвиток",
+        "прізвище"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери переклад слова або виразу: forename.",
+      "points": 1,
+      "options": [
+        "заняття, професія",
+        "допитливий",
+        "ім’я"
+      ],
+      "key": 2
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «прізвище». Слово або вираз зі словника Unit 1; початкова літера: s.",
+      "points": 2,
+      "answers": [
+        "surname"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «заняття, професія». Слово або вираз зі словника Unit 1; початкова літера: o.",
+      "points": 2,
+      "answers": [
+        "occupation"
+      ]
+    }
+  ],
+  "id": "9-sb-wordlist-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887153",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887153",
+      "builder_url": "https://naurok.com.ua/test/builder/3887153",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

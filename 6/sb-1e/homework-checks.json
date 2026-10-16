@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "6/sb-1e/index.html",
+  "tests": [
+    {
+      "id": "6-sb-1d-homework-01",
+      "title": "Free time · 6 клас · ESL 1d",
+      "source_lesson": "6/sb-1d/index.html",
+      "json": "homework-check-sb-1d-01.json",
+      "markdown": "homework-check-sb-1d-01.md",
+      "answer_key": "homework-check-sb-1d-01-key.md",
+      "test_url": "https://naurok.com.ua/test/free-time-6-klas-esl-1d-3886794.html",
+      "status": "homework_created",
+      "student_url": "https://naurok.ua/test/join?gamecode=3132040"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "7/sharing-chores/index.html",
+  "tests": [
+    {
+      "id": "7-chores-homework-01",
+      "title": "7 клас · My chores — домашні справи",
+      "source_lesson": "7/chores/index.html",
+      "json": "homework-check-chores-01.json",
+      "markdown": "homework-check-chores-01.md",
+      "answer_key": "homework-check-chores-01-key.md",
+      "test_url": "https://naurok.com.ua/test/7-klas-my-chores-domashni-spravi-3886782.html",
+      "status": "homework_created",
+      "student_url": "https://naurok.ua/test/join?gamecode=7553658"
+    }
+  ]
+}

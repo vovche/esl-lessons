@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "title": "9 клас · Science Meets Technology: Говоріння",
+  "grade": 9,
+  "purpose": "homework_check",
+  "source_lesson": "9/sb-u6-speaking/index.html",
+  "source_title": "Science Meets Technology: Говоріння Наука і технології: Говоріння",
+  "assessment_lesson": "9/sb-u6-writing/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова invention.",
+      "points": 1,
+      "options": [
+        "пристрій",
+        "побутовий прилад",
+        "винахід"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова discovery.",
+      "points": 1,
+      "options": [
+        "науковець",
+        "відкриття",
+        "побутовий прилад"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова device.",
+      "points": 1,
+      "options": [
+        "пристрій",
+        "науковець",
+        "прототип"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "My tablet, ... I bought last year, is slow.",
+      "points": 2,
+      "options": [
+        "what",
+        "which",
+        "that"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "The place ... they work is a laboratory.",
+      "points": 2,
+      "options": [
+        "where",
+        "who",
+        "whose"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст. Dan’s tablet stops working while he is preparing a biography chart about a scientist. Emma suggests checking the battery and restarting the device. Dan saves his work, switches the tablet off and charges it. When it works again, he organises the chart by dates, discoveries and their importance. He checks the information in more than one source.\n\nHow does he organise the biography chart?",
+      "points": 3,
+      "options": [
+        "by prices of devices",
+        "by dates, discoveries and importance",
+        "by favourite colours"
+      ],
+      "key": 1
+    }
+  ],
+  "id": "9-sb-u6-speaking-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887032",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887032",
+      "builder_url": "https://naurok.com.ua/test/builder/3887032",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

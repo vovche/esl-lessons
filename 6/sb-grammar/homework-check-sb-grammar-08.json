@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "title": "6 клас · Grammar Reference · Unit 8",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-grammar/index.html",
+  "source_title": "Граматичний довідник",
+  "assessment_lesson": "6/sb-grammar/index.html",
+  "placement": {
+    "rule": "no_next_lesson",
+    "note": "Перевірка після теми: окремого наступного уроку в навігації немає; збережено в папці вихідної теми."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Вставте who або which: This is the girl ___ won a prize.",
+      "points": 1,
+      "answers": [
+        "who"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Вставте do або am: I like music. — So ___ I.",
+      "points": 1,
+      "answers": [
+        "do"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Вставте is або are: Copies ___ delivered to shops.",
+      "points": 1,
+      "answers": [
+        "are"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Вставте was або were: Two awards ___ given last night.",
+      "points": 2,
+      "answers": [
+        "were"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Вставте past participle: Articles are ___ by reporters. (write)",
+      "points": 2,
+      "answers": [
+        "written"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Перетворіть на Past Simple Passive: A young director made the film. Почніть The film; використайте made і by. Запишіть без крапки.",
+      "points": 3,
+      "answers": [
+        "The film was made by a young director"
+      ]
+    }
+  ],
+  "id": "6-sb-grammar-homework-08",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886871",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886871",
+      "builder_url": "https://naurok.com.ua/test/builder/3886871",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

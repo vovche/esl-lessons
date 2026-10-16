@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "6/sb-1c/index.html",
+  "tests": [
+    {
+      "id": "6-sb-1b-homework-01",
+      "title": "Appearance · 6 клас · ESL 1b",
+      "source_lesson": "6/sb-1b/index.html",
+      "json": "homework-check-sb-1b-01.json",
+      "markdown": "homework-check-sb-1b-01.md",
+      "answer_key": "homework-check-sb-1b-01-key.md",
+      "test_url": "https://naurok.com.ua/test/appearance-6-klas-esl-1b-3886781.html",
+      "status": "homework_created",
+      "student_url": "https://naurok.ua/test/join?gamecode=5461563"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · Do your chores: Лексика: застосування Домашні справи · Лексика: застосування",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/sb-u2-vocabulary-2/index.html",
+  "source_title": "Do your chores: Лексика: застосування Домашні справи · Лексика: застосування",
+  "assessment_lesson": "7/sb-u2-grammar-2/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова kettle.",
+      "points": 1,
+      "options": [
+        "чайник",
+        "тостер",
+        "фен",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова fridge.",
+      "points": 1,
+      "options": [
+        "мікрохвильова піч",
+        "холодильник",
+        "фен",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова toaster.",
+      "points": 1,
+      "options": [
+        "мікрохвильова піч",
+        "пральна машина",
+        "тостер",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "What ___ you clean yesterday?",
+      "points": 1,
+      "options": [
+        "did",
+        "were",
+        "do",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Did you ___ the floor?",
+      "points": 1,
+      "options": [
+        "sweeping",
+        "sweep",
+        "swept",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "At six Dad ___ washing up.",
+      "points": 1,
+      "options": [
+        "were",
+        "did",
+        "was",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nIn our next activity, we will choose useful words for household duties and past activities. We will use these words in full sentences, compare our examples with a partner and explain our choices.\n\nHow will we use the words?",
+      "points": 2,
+      "options": [
+        "in full sentences",
+        "only as numbers",
+        "without any context",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nIn our next activity, we will choose useful words for household duties and past activities. We will use these words in full sentences, compare our examples with a partner and explain our choices.\n\nWhat will we explain?",
+      "points": 2,
+      "options": [
+        "nothing",
+        "our choices",
+        "a ticket price",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    }
+  ],
+  "id": "7-sb-u2-vocabulary-2-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886955",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886955",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

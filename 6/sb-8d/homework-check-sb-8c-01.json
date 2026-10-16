@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "title": "The press · 6 клас · ESL 8c",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-8c/index.html",
+  "source_title": "The press Як створюють журнал",
+  "assessment_lesson": "6/sb-8d/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «редактор».",
+      "points": 1,
+      "answers": [
+        "editor"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «макет».",
+      "points": 1,
+      "answers": [
+        "layout"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «надрукований».",
+      "points": 1,
+      "answers": [
+        "printed"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "The magazine ___ printed every month.",
+      "points": 1,
+      "options": [
+        "are",
+        "does",
+        "is"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Copies are ___ to shops.",
+      "points": 1,
+      "options": [
+        "delivering",
+        "delivered",
+        "deliver"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose a passive sentence.",
+      "points": 1,
+      "options": [
+        "Articles are written by reporters.",
+        "Reporters write articles.",
+        "Reporters are writing articles."
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: First, writers and editors meet and discuss topics. Reporters write articles and interview people. Graphic designers make the layout. The magazine is checked before it is sent to the printers. Many copies are printed, packed and delivered to shops. Readers can then buy the new issue.\n\nWho makes the layout?",
+      "points": 2,
+      "options": [
+        "Drivers.",
+        "Spectators.",
+        "Graphic designers."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: First, writers and editors meet and discuss topics. Reporters write articles and interview people. Graphic designers make the layout. The magazine is checked before it is sent to the printers. Many copies are printed, packed and delivered to shops. Readers can then buy the new issue.\n\nWhat happens before the magazine goes to the printers?",
+      "points": 2,
+      "options": [
+        "Readers buy it.",
+        "It is checked.",
+        "It is thrown away."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-8c-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886960",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886960",
+      "builder_url": "https://naurok.com.ua/test/builder/3886960",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

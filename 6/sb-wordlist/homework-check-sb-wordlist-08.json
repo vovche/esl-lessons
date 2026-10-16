@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "title": "6 клас · Wordlist · Unit 8",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-wordlist/index.html",
+  "source_title": "Лексика курсу",
+  "assessment_lesson": "6/sb-wordlist/index.html",
+  "placement": {
+    "rule": "no_next_lesson",
+    "note": "Перевірка після теми: окремого наступного уроку в навігації немає; збережено в папці вихідної теми."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Лексика Unit 8. Перекладіть англійською: «заголовок». Підказка: 8 символів; починається на h. Напишіть слово або словосполучення зі словника уроку.",
+      "points": 1,
+      "answers": [
+        "headline"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Лексика Unit 8. Перекладіть англійською: «заздрісний». Підказка: 7 символів; починається на j. Напишіть слово або словосполучення зі словника уроку.",
+      "points": 1,
+      "answers": [
+        "jealous"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Лексика Unit 8. Перекладіть англійською: «редактор». Підказка: 6 символів; починається на e. Напишіть слово або словосполучення зі словника уроку.",
+      "points": 1,
+      "answers": [
+        "editor"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Complete: The award ___ took place in a large theatre. (церемонія)",
+      "points": 2,
+      "answers": [
+        "ceremony"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Complete: The film has an exciting ___ about two friends on a journey. (сюжет)",
+      "points": 2,
+      "answers": [
+        "plot"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Відновіть слово зі словника Unit 8 («розчарований») із усіх літер: d / e / t / n / i / o / p / p / a / s / i / d. Напишіть його правильно.",
+      "points": 3,
+      "answers": [
+        "disappointed"
+      ]
+    }
+  ],
+  "id": "6-sb-wordlist-homework-08",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886957",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886957",
+      "builder_url": "https://naurok.com.ua/test/builder/3886957",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

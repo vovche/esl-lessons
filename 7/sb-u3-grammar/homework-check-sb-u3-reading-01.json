@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · Are you ready to cook?: Читання Приготування їжі · Читання",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/sb-u3-reading/index.html",
+  "source_title": "Are you ready to cook?: Читання Приготування їжі · Читання",
+  "assessment_lesson": "7/sb-u3-grammar/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова chopping board.",
+      "points": 1,
+      "options": [
+        "ополоник",
+        "сковорода",
+        "обробна дошка",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова grater.",
+      "points": 1,
+      "options": [
+        "тертка",
+        "сковорода",
+        "помішувати",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова ladle.",
+      "points": 1,
+      "options": [
+        "варити; кип’ятити",
+        "ополоник",
+        "помішувати",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Eva ___ washed the tomatoes.",
+      "points": 1,
+      "options": [
+        "have",
+        "is",
+        "has",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Have you ___ the vegetables?",
+      "points": 1,
+      "options": [
+        "chopped",
+        "chop",
+        "chopping",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "What ___ you prepared?",
+      "points": 1,
+      "options": [
+        "has",
+        "have",
+        "did have",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nCooking can be a creative activity. A food artist combines colours, shapes and different ingredients. A simple recipe becomes easier to follow when it lists the ingredients and gives clear steps. Before serving a dish, the cook checks its appearance as well as its taste.\n\nWhat does a food artist combine?",
+      "points": 2,
+      "options": [
+        "film tickets and maps",
+        "sports scores",
+        "colours, shapes and ingredients",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nCooking can be a creative activity. A food artist combines colours, shapes and different ingredients. A simple recipe becomes easier to follow when it lists the ingredients and gives clear steps. Before serving a dish, the cook checks its appearance as well as its taste.\n\nWhat helps a reader follow a recipe?",
+      "points": 2,
+      "options": [
+        "clear ingredients and steps",
+        "a list of actors",
+        "a timetable for trains",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    }
+  ],
+  "id": "7-sb-u3-reading-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886996",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886996",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "title": "Round-up 5 · 6 клас · ESL round-up-5",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-round-up-5/index.html",
+  "source_title": "Round-up 5 Повторення юніту 5",
+  "assessment_lesson": "6/sb-6a/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "She ___ going to visit the fair.",
+      "points": 1,
+      "options": [
+        "are",
+        "does",
+        "is"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "I think phones ___ change in the future.",
+      "points": 1,
+      "options": [
+        "will",
+        "are",
+        "did"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "A rule forbids dropping rubbish. You ___ drop it.",
+      "points": 1,
+      "options": [
+        "may",
+        "must not",
+        "do not have to"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "If we ___ the water, animals will suffer.",
+      "points": 1,
+      "options": [
+        "will pollute",
+        "polluted",
+        "pollute"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose an invitation.",
+      "points": 1,
+      "options": [
+        "Would you like to come to our event?",
+        "I cannot come tomorrow.",
+        "Thank you for inviting me."
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Two friends want to visit a technology fair at the weekend. They are going to look at new computers and game consoles. One friend needs a keyboard because the old one does not work. They are meeting at the entrance at ten. They are not going to buy everything they see.\n\nWhat does one friend need?",
+      "points": 1,
+      "options": [
+        "A suitcase.",
+        "A bicycle.",
+        "A keyboard."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A boy wants to recycle a bottle. His friend explains that the container is for glass, but his bottle is plastic. She tells him to rinse it and check the correct bin. She also gives him a leaflet about recycling. They agree that keeping the environment clean is something everyone can help with.\n\nWhat is the boy's bottle made of?",
+      "points": 2,
+      "options": [
+        "Glass.",
+        "Metal.",
+        "Plastic."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Our youth club is organising a tree-planting event. We are going to meet at the club at eight and walk to the park. We will plant trees in the morning and have a meal together later. I hope you can join us. If you decide to come, please send a reply.\n\nWhen will the group meet?",
+      "points": 2,
+      "options": [
+        "At noon.",
+        "At ten at night.",
+        "At eight."
+      ],
+      "key": 2
+    }
+  ],
+  "id": "6-sb-round-up-5-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887067",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887067",
+      "builder_url": "https://naurok.com.ua/test/builder/3887067",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

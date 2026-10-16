@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · Ask and check — шкільні запитання",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/ask-about-school/index.html",
+  "source_title": "Ask and check Запитай і уточни",
+  "assessment_lesson": "7/our-school-event/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Доповни одним словом: Where ___ your friends go after school?",
+      "points": 1,
+      "answers": [
+        "do"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Доповни одним словом: Why ___ Jill laughing now?",
+      "points": 1,
+      "answers": [
+        "is"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Доповни одним словом запитання про звичку: When ___ the Drama Club meet?",
+      "points": 1,
+      "answers": [
+        "does"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Допиши весь хвостик англійською: She plays the piano, ___?",
+      "points": 2,
+      "answers": [
+        "doesn’t she"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Допиши весь хвостик англійською: They aren’t studying, ___?",
+      "points": 2,
+      "answers": [
+        "are they"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Склади повне запитання з цих слів, не додаючи do/does: who / draws / comics.",
+      "points": 3,
+      "answers": [
+        "Who draws comics?"
+      ]
+    }
+  ],
+  "id": "7-ask-about-school-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886776",
+      "test_url": "https://naurok.com.ua/test/7-klas-ask-and-check-shkilni-zapitannya-3886776.html",
+      "status": "homework_created",
+      "verified": true,
+      "homework_id": "86106550",
+      "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106550",
+      "student_url": "https://naurok.ua/test/join?gamecode=1473165",
+      "code": "1473165",
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

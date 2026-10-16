@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "6/sb-round-up-5/index.html",
+  "tests": [
+    {
+      "id": "6-sb-culture-3-homework-01",
+      "title": "Parks in the city · 6 клас · ESL culture-3",
+      "source_lesson": "6/sb-culture-3/index.html",
+      "json": "homework-check-sb-culture-3-01.json",
+      "markdown": "homework-check-sb-culture-3-01.md",
+      "answer_key": "homework-check-sb-culture-3-01-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887003",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

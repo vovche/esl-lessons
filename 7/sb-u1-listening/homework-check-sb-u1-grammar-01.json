@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · In and out of school: Граматика Шкільне життя і дозвілля · Граматика",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/sb-u1-grammar/index.html",
+  "source_title": "In and out of school: Граматика Шкільне життя і дозвілля · Граматика",
+  "assessment_lesson": "7/sb-u1-listening/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова bookworm.",
+      "points": 1,
+      "options": [
+        "книголюб",
+        "захоплений наукою",
+        "річниця",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова chatterbox.",
+      "points": 1,
+      "options": [
+        "закінчення навчання",
+        "балакун",
+        "річниця",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова science geek.",
+      "points": 1,
+      "options": [
+        "закінчення навчання",
+        "позакласний",
+        "захоплений наукою",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Maya usually ___ to the club on Mondays.",
+      "points": 1,
+      "options": [
+        "goes",
+        "is going",
+        "go",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Look! The pupils ___ a show.",
+      "points": 1,
+      "options": [
+        "prepared",
+        "are preparing",
+        "prepare",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "You enjoy science, ___?",
+      "points": 1,
+      "options": [
+        "do you",
+        "aren’t you",
+        "don’t you",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nOur school has a science club and a drama club. Maya is a bookworm, but she also enjoys experiments. She goes to the science club on Mondays. This week the members are preparing a show for the school anniversary. Maya is writing a short message to invite her friends.\n\nWhich club does Maya attend?",
+      "points": 2,
+      "options": [
+        "the science club",
+        "the football club",
+        "the choir",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nOur school has a science club and a drama club. Maya is a bookworm, but she also enjoys experiments. She goes to the science club on Mondays. This week the members are preparing a show for the school anniversary. Maya is writing a short message to invite her friends.\n\nWhy are the pupils preparing a show?",
+      "points": 2,
+      "options": [
+        "for a tennis match",
+        "for the school anniversary",
+        "for a shopping trip",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    }
+  ],
+  "id": "7-sb-u1-grammar-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886829",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886829",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

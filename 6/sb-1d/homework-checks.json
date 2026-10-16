@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "6/sb-1d/index.html",
+  "tests": [
+    {
+      "id": "6-sb-1c-homework-01",
+      "title": "Character · 6 клас · ESL 1c",
+      "source_lesson": "6/sb-1c/index.html",
+      "json": "homework-check-sb-1c-01.json",
+      "markdown": "homework-check-sb-1c-01.md",
+      "answer_key": "homework-check-sb-1c-01-key.md",
+      "test_url": "https://naurok.com.ua/test/character-6-klas-esl-1c-3886789.html",
+      "status": "homework_created",
+      "student_url": "https://naurok.ua/test/join?gamecode=6400268"
+    }
+  ]
+}

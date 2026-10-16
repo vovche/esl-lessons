@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "title": "9 клас · Meet the people — профілі й інтереси",
+  "grade": 9,
+  "purpose": "homework_check",
+  "source_lesson": "9/online-friends/index.html",
+  "source_title": "Meet the people Знайомство через профілі",
+  "assessment_lesson": "9/personality-types/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Впиши одним словом назву музичного інструмента: I play the ___ in my school band. Українською: гітара.",
+      "points": 1,
+      "answers": [
+        "guitar"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Доповни одним словом: I am ___ photography. Фраза означає «Я захоплююся фотографією».",
+      "points": 1,
+      "answers": [
+        "into"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською одним словом рису характеру «творчий».",
+      "points": 1,
+      "answers": [
+        "creative"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай: Sofia makes her own clothes. Abdul trains hard and plays basketball. Який висновок має прямий доказ у тексті?",
+      "points": 2,
+      "options": [
+        "Sofia is creative, and Abdul is energetic.",
+        "Sofia dislikes designing clothes.",
+        "Abdul never exercises.",
+        "Both people only enjoy computer games."
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай: Diana likes jazz and plays guitar. Ajax enjoys playing the drums. Яка тема допоможе їм почати розмову?",
+      "points": 2,
+      "options": [
+        "Fashion design",
+        "Basketball training",
+        "Music and instruments",
+        "Their home addresses"
+      ],
+      "key": 2
+    },
+    {
+      "type": "word",
+      "prompt": "Склади ввічливу незгоду зі всіх слів: your / I / point / see / but / disagree / I. Почни з I; постав кому перед but.",
+      "points": 3,
+      "answers": [
+        "I see your point, but I disagree.",
+        "I see your point, but I disagree"
+      ]
+    }
+  ],
+  "id": "9-online-friends-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886812",
+      "test_url": "https://naurok.com.ua/test/9-klas-meet-the-people-profili-y-interesi-3886812.html",
+      "status": "homework_created",
+      "verified": true,
+      "homework_id": "86106649",
+      "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106649",
+      "student_url": "https://naurok.ua/test/join?gamecode=7959737",
+      "code": "7959737",
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

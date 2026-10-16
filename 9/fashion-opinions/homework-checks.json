@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "9/fashion-opinions/index.html",
+  "tests": [
+    {
+      "id": "9-clothes-and-accessories-homework-01",
+      "title": "9 клас · Build an outfit — одяг і дієслова",
+      "source_lesson": "9/clothes-and-accessories/index.html",
+      "json": "homework-check-clothes-and-accessories-01.json",
+      "markdown": "homework-check-clothes-and-accessories-01.md",
+      "answer_key": "homework-check-clothes-and-accessories-01-key.md",
+      "test_url": "https://naurok.com.ua/test/9-klas-build-an-outfit-odyag-i-dieslova-3886775.html",
+      "status": "homework_created",
+      "student_url": "https://naurok.ua/test/join?gamecode=4326418"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · Лексика курсу — Unit 3",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/sb-wordlist/index.html",
+  "source_title": "Лексика курсу",
+  "assessment_lesson": "7/sb-wordlist/index.html",
+  "placement": {
+    "rule": "no_next_lesson",
+    "note": "Перевірка після теми: окремого наступного уроку в навігації немає; збережено в папці вихідної теми."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери український переклад: chopping board.",
+      "points": 1,
+      "options": [
+        "обробна дошка",
+        "тертка",
+        "ополоник",
+        "сковорода"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери український переклад: grater.",
+      "points": 1,
+      "options": [
+        "ополоник",
+        "сковорода",
+        "помішувати",
+        "тертка"
+      ],
+      "key": 3
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери український переклад: ladle.",
+      "points": 1,
+      "options": [
+        "помішувати",
+        "варити; кип’ятити",
+        "ополоник",
+        "сковорода"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери український переклад: frying pan.",
+      "points": 1,
+      "options": [
+        "нарізати скибками",
+        "сковорода",
+        "помішувати",
+        "варити; кип’ятити"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери український переклад: stir.",
+      "points": 1,
+      "options": [
+        "помішувати",
+        "варити; кип’ятити",
+        "нарізати скибками",
+        "складники"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери український переклад: boil.",
+      "points": 1,
+      "options": [
+        "нарізати скибками",
+        "складники",
+        "обробна дошка",
+        "варити; кип’ятити"
+      ],
+      "key": 3
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською за словником Unit 3: «нарізати скибками». Початкова літера: s.",
+      "points": 2,
+      "answers": [
+        "slice"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською за словником Unit 3: «складники». Початкова літера: i.",
+      "points": 2,
+      "answers": [
+        "ingredients"
+      ]
+    }
+  ],
+  "id": "7-sb-wordlist-homework-03",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887134",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887134",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

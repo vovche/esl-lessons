@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "title": "Ailments and illnesses · 6 клас · ESL 6b",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-6b/index.html",
+  "source_title": "Ailments and illnesses Самопочуття й поради",
+  "assessment_lesson": "6/sb-6c/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «головний біль».",
+      "points": 1,
+      "answers": [
+        "headache"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «зубний біль».",
+      "points": 1,
+      "answers": [
+        "toothache"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «гарячка».",
+      "points": 1,
+      "answers": [
+        "fever"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "You should ___ an adult how you feel.",
+      "points": 1,
+      "options": [
+        "to tell",
+        "telling",
+        "tell"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "You ___ ignore a problem.",
+      "points": 1,
+      "options": [
+        "shoulding",
+        "should not",
+        "should to"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "___ I ask for help?",
+      "points": 1,
+      "options": [
+        "Should",
+        "Do should",
+        "Am should"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A girl calls her friend because he has not arrived at the cinema. He says he is ill and has got a headache and a cough. She offers to visit him, but then she hears another friend cheering for a football match. The boy admits that they are watching football. He promises to tell the truth next time.\n\nWhere was the girl waiting?",
+      "points": 2,
+      "options": [
+        "At the airport.",
+        "At a music class.",
+        "At the cinema."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A girl calls her friend because he has not arrived at the cinema. He says he is ill and has got a headache and a cough. She offers to visit him, but then she hears another friend cheering for a football match. The boy admits that they are watching football. He promises to tell the truth next time.\n\nWhat were the boys actually doing?",
+      "points": 2,
+      "options": [
+        "Sleeping.",
+        "Watching football.",
+        "Doing homework."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-6b-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886895",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886895",
+      "builder_url": "https://naurok.com.ua/test/builder/3886895",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

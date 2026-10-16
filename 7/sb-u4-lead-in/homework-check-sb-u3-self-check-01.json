@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · Are you ready to cook?: Самоперевірка Приготування їжі · Самоперевірка",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/sb-u3-self-check/index.html",
+  "source_title": "Are you ready to cook?: Самоперевірка Приготування їжі · Самоперевірка",
+  "assessment_lesson": "7/sb-u4-lead-in/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова chopping board.",
+      "points": 1,
+      "options": [
+        "обробна дошка",
+        "ополоник",
+        "сковорода",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова grater.",
+      "points": 1,
+      "options": [
+        "помішувати",
+        "тертка",
+        "сковорода",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова ladle.",
+      "points": 1,
+      "options": [
+        "помішувати",
+        "варити; кип’ятити",
+        "ополоник",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Eva ___ washed the tomatoes.",
+      "points": 1,
+      "options": [
+        "has",
+        "have",
+        "is",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Have you ___ the vegetables?",
+      "points": 1,
+      "options": [
+        "chopping",
+        "chopped",
+        "chop",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "What ___ you prepared?",
+      "points": 1,
+      "options": [
+        "did have",
+        "has",
+        "have",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nI can now talk about cooking, recipes and experience. I test myself without looking at the examples first. Then I compare my answers with the models and correct mistakes. I choose one speaking task and one written task to show what I can do. My next step is to practise the skill that still feels difficult.\n\nWhat do I do before checking the models?",
+      "points": 2,
+      "options": [
+        "test myself",
+        "copy the answers",
+        "skip all tasks",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nI can now talk about cooking, recipes and experience. I test myself without looking at the examples first. Then I compare my answers with the models and correct mistakes. I choose one speaking task and one written task to show what I can do. My next step is to practise the skill that still feels difficult.\n\nWhat do I practise next?",
+      "points": 2,
+      "options": [
+        "nothing",
+        "the skill that feels difficult",
+        "only my favourite word",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    }
+  ],
+  "id": "7-sb-u3-self-check-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887001",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887001",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

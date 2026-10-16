@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "9/sb-u3-speaking/index.html",
+  "tests": [
+    {
+      "id": "9-sb-u3-grammar-2-homework-01",
+      "title": "9 клас · We Are Young and Cool!: Граматика в контексті",
+      "source_lesson": "9/sb-u3-grammar-2/index.html",
+      "json": "homework-check-sb-u3-grammar-2-01.json",
+      "markdown": "homework-check-sb-u3-grammar-2-01.md",
+      "answer_key": "homework-check-sb-u3-grammar-2-01-key.md",
+      "test_url": "https://naurok.com.ua/test/9-klas-we-are-young-and-cool-gramatika-v-konteksti-3887054.html",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

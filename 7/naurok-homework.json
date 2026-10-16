@@ -1,0 +1,2091 @@
+{
+  "version": 1,
+  "grade": 7,
+  "lessons": {
+    "ask-about-school": {
+      "lesson_path": "7/ask-about-school/index.html",
+      "tests": [
+        {
+          "test_id": "3886776",
+          "test_url": "https://naurok.com.ua/test/7-klas-ask-and-check-shkilni-zapitannya-3886776.html",
+          "title": "7 клас · Ask and check — шкільні запитання",
+          "points": 10,
+          "status": "homework_created",
+          "verified": true,
+          "homework_id": "86106550",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106550",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "student_url": "https://naurok.ua/test/join?gamecode=1473165",
+          "code": "1473165",
+          "plan_path": "7/our-school-event/homework-check-ask-about-school-01.json",
+          "content_path": "7/our-school-event/homework-check-ask-about-school-01.json",
+          "assessment_lesson_path": "7/our-school-event/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Ask and check Запитай і уточни",
+          "content_id": "7-ask-about-school-homework-01"
+        }
+      ]
+    },
+    "chores": {
+      "lesson_path": "7/chores/index.html",
+      "tests": [
+        {
+          "test_id": "3886782",
+          "test_url": "https://naurok.com.ua/test/7-klas-my-chores-domashni-spravi-3886782.html",
+          "title": "7 клас · My chores — домашні справи",
+          "points": 10,
+          "status": "homework_created",
+          "verified": true,
+          "homework_id": "86106558",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106558",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "student_url": "https://naurok.ua/test/join?gamecode=7553658",
+          "code": "7553658",
+          "plan_path": "7/sharing-chores/homework-check-chores-01.json",
+          "content_path": "7/sharing-chores/homework-check-chores-01.json",
+          "assessment_lesson_path": "7/sharing-chores/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "My chores Мої хатні справи",
+          "content_id": "7-chores-homework-01"
+        }
+      ]
+    },
+    "clubs-and-hobbies": {
+      "lesson_path": "7/clubs-and-hobbies/index.html",
+      "tests": [
+        {
+          "test_id": "3886786",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886786",
+          "title": "7 клас · Find your club — інтереси й клуби",
+          "points": 10,
+          "status": "homework_created",
+          "verified": true,
+          "homework_id": "86106531",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106531",
+          "student_url": "https://naurok.ua/test/join?gamecode=4153728",
+          "code": "4153728",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "7/school-special-days/homework-check-clubs-and-hobbies-01.json",
+          "content_path": "7/school-special-days/homework-check-clubs-and-hobbies-01.json",
+          "assessment_lesson_path": "7/school-special-days/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Find your club Знайди свій клуб",
+          "content_id": "7-clubs-and-hobbies-homework-01"
+        }
+      ]
+    },
+    "home-stories": {
+      "lesson_path": "7/home-stories/index.html",
+      "tests": [
+        {
+          "test_id": "3886798",
+          "test_url": "https://naurok.com.ua/test/7-klas-our-home-story-rozpovidaemo-pro-dim-3886798.html",
+          "title": "7 клас · Our home story — розповідаємо про дім",
+          "points": 10,
+          "status": "homework_created",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "7/home-stories/homework-check-home-stories-01.json",
+          "homework_id": "86106596",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106596",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "code": "7843357",
+          "student_url": "https://naurok.ua/test/join?gamecode=7843357",
+          "content_path": "7/home-stories/homework-check-home-stories-01.json",
+          "assessment_lesson_path": "7/home-stories/index.html",
+          "placement_rule": "no_next_lesson",
+          "source_lesson_title": "Our home story Розповідаємо про дім",
+          "content_id": "7-home-stories-homework-01"
+        }
+      ]
+    },
+    "now-or-usually": {
+      "lesson_path": "7/now-or-usually/index.html",
+      "tests": [
+        {
+          "test_id": "3886802",
+          "test_url": "https://naurok.com.ua/test/7-klas-now-or-usually-teperishni-chasi-3886802.html",
+          "title": "7 клас · Now or usually — теперішні часи",
+          "points": 10,
+          "status": "homework_created",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "7/ask-about-school/homework-check-now-or-usually-01.json",
+          "homework_id": "86106603",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106603",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "code": "1924287",
+          "student_url": "https://naurok.ua/test/join?gamecode=1924287",
+          "content_path": "7/ask-about-school/homework-check-now-or-usually-01.json",
+          "assessment_lesson_path": "7/ask-about-school/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Now or usually? Зараз чи зазвичай?",
+          "content_id": "7-now-or-usually-homework-01"
+        }
+      ]
+    },
+    "our-school-event": {
+      "lesson_path": "7/our-school-event/index.html",
+      "tests": [
+        {
+          "test_id": "3886804",
+          "test_url": "https://naurok.com.ua/test/7-klas-our-school-event-shkilna-podiya-3886804.html",
+          "title": "7 клас · Our school event — шкільна подія",
+          "points": 10,
+          "status": "homework_created",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "7/our-school-event/homework-check-our-school-event-01.json",
+          "homework_id": "86106622",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106622",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "code": "3202447",
+          "student_url": "https://naurok.ua/test/join?gamecode=3202447",
+          "content_path": "7/our-school-event/homework-check-our-school-event-01.json",
+          "assessment_lesson_path": "7/our-school-event/index.html",
+          "placement_rule": "no_next_lesson",
+          "source_lesson_title": "Our school event Сплануй шкільну подію",
+          "content_id": "7-our-school-event-homework-01"
+        }
+      ]
+    },
+    "past-continuous-questions": {
+      "lesson_path": "7/past-continuous-questions/index.html",
+      "tests": [
+        {
+          "test_id": "3886809",
+          "test_url": "https://naurok.com.ua/test/7-klas-what-were-you-doing-minula-trivala-diya-3886809.html",
+          "title": "7 клас · What were you doing — минула тривала дія",
+          "points": 10,
+          "status": "homework_created",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "7/home-stories/homework-check-past-continuous-questions-01.json",
+          "homework_id": "86106648",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106648",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "code": "4711293",
+          "student_url": "https://naurok.ua/test/join?gamecode=4711293",
+          "content_path": "7/home-stories/homework-check-past-continuous-questions-01.json",
+          "assessment_lesson_path": "7/home-stories/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "What were you doing? Що відбувалося тоді?",
+          "content_id": "7-past-continuous-questions-homework-01"
+        }
+      ]
+    },
+    "past-simple-questions": {
+      "lesson_path": "7/past-simple-questions/index.html",
+      "tests": [
+        {
+          "test_id": "3886815",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886815",
+          "title": "7 клас · What did you do — минулі запитання",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "7/past-continuous-questions/homework-check-past-simple-questions-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/past-continuous-questions/homework-check-past-simple-questions-01.json",
+          "assessment_lesson_path": "7/past-continuous-questions/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "What did you do? Запитання про вчора",
+          "content_id": "7-past-simple-questions-homework-01"
+        }
+      ]
+    },
+    "sb-starter": {
+      "lesson_path": "7/sb-starter/index.html",
+      "tests": [
+        {
+          "test_id": "3886821",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886821",
+          "title": "7 клас · Starter — початок навчального року",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u1-lead-in/homework-check-sb-starter-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u1-lead-in/homework-check-sb-starter-01.json",
+          "assessment_lesson_path": "7/sb-u1-lead-in/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Back to school Повертаємося до навчання",
+          "content_id": "7-sb-starter-homework-01"
+        }
+      ]
+    },
+    "sb-u1-blog": {
+      "lesson_path": "7/sb-u1-blog/index.html",
+      "tests": [
+        {
+          "test_id": "3886826",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886826",
+          "title": "7 клас · In and out of school: Блог і обговорення Шкільне життя і дозвілля · Блог і обговорення",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u1-vocabulary/homework-check-sb-u1-blog-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u1-vocabulary/homework-check-sb-u1-blog-01.json",
+          "assessment_lesson_path": "7/sb-u1-vocabulary/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "In and out of school: Блог і обговорення Шкільне життя і дозвілля · Блог і обговорення",
+          "content_id": "7-sb-u1-blog-homework-01"
+        }
+      ]
+    },
+    "sb-u1-grammar": {
+      "lesson_path": "7/sb-u1-grammar/index.html",
+      "tests": [
+        {
+          "test_id": "3886829",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886829",
+          "title": "7 клас · In and out of school: Граматика Шкільне життя і дозвілля · Граматика",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u1-listening/homework-check-sb-u1-grammar-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u1-listening/homework-check-sb-u1-grammar-01.json",
+          "assessment_lesson_path": "7/sb-u1-listening/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "In and out of school: Граматика Шкільне життя і дозвілля · Граматика",
+          "content_id": "7-sb-u1-grammar-homework-01"
+        }
+      ]
+    },
+    "sb-u1-grammar-2": {
+      "lesson_path": "7/sb-u1-grammar-2/index.html",
+      "tests": [
+        {
+          "test_id": "3886831",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886831",
+          "title": "7 клас · In and out of school: Граматика: застосування Шкільне життя і дозвілля · Граматика: застосування",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u1-speaking/homework-check-sb-u1-grammar-2-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u1-speaking/homework-check-sb-u1-grammar-2-01.json",
+          "assessment_lesson_path": "7/sb-u1-speaking/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "In and out of school: Граматика: застосування Шкільне життя і дозвілля · Граматика: застосування",
+          "content_id": "7-sb-u1-grammar-2-homework-01"
+        }
+      ]
+    },
+    "sb-u1-lead-in": {
+      "lesson_path": "7/sb-u1-lead-in/index.html",
+      "tests": [
+        {
+          "test_id": "3886839",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886839",
+          "title": "7 клас · In and out of school: Починаємо юніт Шкільне життя і дозвілля · Починаємо юніт",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u1-blog/homework-check-sb-u1-lead-in-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u1-blog/homework-check-sb-u1-lead-in-01.json",
+          "assessment_lesson_path": "7/sb-u1-blog/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "In and out of school: Починаємо юніт Шкільне життя і дозвілля · Починаємо юніт",
+          "content_id": "7-sb-u1-lead-in-homework-01"
+        }
+      ]
+    },
+    "sb-u1-listening": {
+      "lesson_path": "7/sb-u1-listening/index.html",
+      "tests": [
+        {
+          "test_id": "3886844",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886844",
+          "title": "7 клас · In and out of school: Слухання Шкільне життя і дозвілля · Слухання",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u1-vocabulary-2/homework-check-sb-u1-listening-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u1-vocabulary-2/homework-check-sb-u1-listening-01.json",
+          "assessment_lesson_path": "7/sb-u1-vocabulary-2/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "In and out of school: Слухання Шкільне життя і дозвілля · Слухання",
+          "content_id": "7-sb-u1-listening-homework-01"
+        }
+      ]
+    },
+    "sb-u1-look-back": {
+      "lesson_path": "7/sb-u1-look-back/index.html",
+      "tests": [
+        {
+          "test_id": "3886846",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886846",
+          "title": "7 клас · In and out of school: Повторення Шкільне життя і дозвілля · Повторення",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u1-self-check/homework-check-sb-u1-look-back-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u1-self-check/homework-check-sb-u1-look-back-01.json",
+          "assessment_lesson_path": "7/sb-u1-self-check/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "In and out of school: Повторення Шкільне життя і дозвілля · Повторення",
+          "content_id": "7-sb-u1-look-back-homework-01"
+        }
+      ]
+    },
+    "sb-u1-reading": {
+      "lesson_path": "7/sb-u1-reading/index.html",
+      "tests": [
+        {
+          "test_id": "3886852",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886852",
+          "title": "7 клас · In and out of school: Читання Шкільне життя і дозвілля · Читання",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u1-grammar/homework-check-sb-u1-reading-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u1-grammar/homework-check-sb-u1-reading-01.json",
+          "assessment_lesson_path": "7/sb-u1-grammar/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "In and out of school: Читання Шкільне життя і дозвілля · Читання",
+          "content_id": "7-sb-u1-reading-homework-01"
+        }
+      ]
+    },
+    "sb-u1-self-check": {
+      "lesson_path": "7/sb-u1-self-check/index.html",
+      "tests": [
+        {
+          "test_id": "3886860",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886860",
+          "title": "7 клас · In and out of school: Самоперевірка Шкільне життя і дозвілля · Самоперевірка",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u2-lead-in/homework-check-sb-u1-self-check-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u2-lead-in/homework-check-sb-u1-self-check-01.json",
+          "assessment_lesson_path": "7/sb-u2-lead-in/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "In and out of school: Самоперевірка Шкільне життя і дозвілля · Самоперевірка",
+          "content_id": "7-sb-u1-self-check-homework-01"
+        }
+      ]
+    },
+    "sb-u1-speaking": {
+      "lesson_path": "7/sb-u1-speaking/index.html",
+      "tests": [
+        {
+          "test_id": "3886865",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886865",
+          "title": "7 клас · In and out of school: Говоріння Шкільне життя і дозвілля · Говоріння",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u1-writing/homework-check-sb-u1-speaking-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u1-writing/homework-check-sb-u1-speaking-01.json",
+          "assessment_lesson_path": "7/sb-u1-writing/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "In and out of school: Говоріння Шкільне життя і дозвілля · Говоріння",
+          "content_id": "7-sb-u1-speaking-homework-01"
+        }
+      ]
+    },
+    "sb-u1-vocabulary": {
+      "lesson_path": "7/sb-u1-vocabulary/index.html",
+      "tests": [
+        {
+          "test_id": "3886869",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886869",
+          "title": "7 клас · In and out of school: Лексика Шкільне життя і дозвілля · Лексика",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u1-reading/homework-check-sb-u1-vocabulary-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u1-reading/homework-check-sb-u1-vocabulary-01.json",
+          "assessment_lesson_path": "7/sb-u1-reading/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "In and out of school: Лексика Шкільне життя і дозвілля · Лексика",
+          "content_id": "7-sb-u1-vocabulary-homework-01"
+        }
+      ]
+    },
+    "sb-u1-vocabulary-2": {
+      "lesson_path": "7/sb-u1-vocabulary-2/index.html",
+      "tests": [
+        {
+          "test_id": "3886874",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886874",
+          "title": "7 клас · In and out of school: Лексика: застосування Шкільне життя і дозвілля · Лексика: застосування",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u1-grammar-2/homework-check-sb-u1-vocabulary-2-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u1-grammar-2/homework-check-sb-u1-vocabulary-2-01.json",
+          "assessment_lesson_path": "7/sb-u1-grammar-2/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "In and out of school: Лексика: застосування Шкільне життя і дозвілля · Лексика: застосування",
+          "content_id": "7-sb-u1-vocabulary-2-homework-01"
+        }
+      ]
+    },
+    "sb-u1-writing": {
+      "lesson_path": "7/sb-u1-writing/index.html",
+      "tests": [
+        {
+          "test_id": "3886879",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886879",
+          "title": "7 клас · In and out of school: Письмо Шкільне життя і дозвілля · Письмо",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u1-look-back/homework-check-sb-u1-writing-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u1-look-back/homework-check-sb-u1-writing-01.json",
+          "assessment_lesson_path": "7/sb-u1-look-back/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "In and out of school: Письмо Шкільне життя і дозвілля · Письмо",
+          "content_id": "7-sb-u1-writing-homework-01"
+        }
+      ]
+    },
+    "sb-u2-blog": {
+      "lesson_path": "7/sb-u2-blog/index.html",
+      "tests": [
+        {
+          "test_id": "3886883",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886883",
+          "title": "7 клас · Do your chores: Блог і обговорення Домашні справи · Блог і обговорення",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u2-vocabulary/homework-check-sb-u2-blog-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u2-vocabulary/homework-check-sb-u2-blog-01.json",
+          "assessment_lesson_path": "7/sb-u2-vocabulary/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Do your chores: Блог і обговорення Домашні справи · Блог і обговорення",
+          "content_id": "7-sb-u2-blog-homework-01"
+        }
+      ]
+    },
+    "sb-u2-grammar": {
+      "lesson_path": "7/sb-u2-grammar/index.html",
+      "tests": [
+        {
+          "test_id": "3886896",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886896",
+          "title": "7 клас · Do your chores: Граматика Домашні справи · Граматика",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u2-listening/homework-check-sb-u2-grammar-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u2-listening/homework-check-sb-u2-grammar-01.json",
+          "assessment_lesson_path": "7/sb-u2-listening/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Do your chores: Граматика Домашні справи · Граматика",
+          "content_id": "7-sb-u2-grammar-homework-01"
+        }
+      ]
+    },
+    "sb-u2-grammar-2": {
+      "lesson_path": "7/sb-u2-grammar-2/index.html",
+      "tests": [
+        {
+          "test_id": "3886904",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886904",
+          "title": "7 клас · Do your chores: Граматика: застосування Домашні справи · Граматика: застосування",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u2-speaking/homework-check-sb-u2-grammar-2-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u2-speaking/homework-check-sb-u2-grammar-2-01.json",
+          "assessment_lesson_path": "7/sb-u2-speaking/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Do your chores: Граматика: застосування Домашні справи · Граматика: застосування",
+          "content_id": "7-sb-u2-grammar-2-homework-01"
+        }
+      ]
+    },
+    "sb-u2-lead-in": {
+      "lesson_path": "7/sb-u2-lead-in/index.html",
+      "tests": [
+        {
+          "test_id": "3886911",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886911",
+          "title": "7 клас · Do your chores: Починаємо юніт Домашні справи · Починаємо юніт",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u2-blog/homework-check-sb-u2-lead-in-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u2-blog/homework-check-sb-u2-lead-in-01.json",
+          "assessment_lesson_path": "7/sb-u2-blog/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Do your chores: Починаємо юніт Домашні справи · Починаємо юніт",
+          "content_id": "7-sb-u2-lead-in-homework-01"
+        }
+      ]
+    },
+    "sb-u2-listening": {
+      "lesson_path": "7/sb-u2-listening/index.html",
+      "tests": [
+        {
+          "test_id": "3886915",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886915",
+          "title": "7 клас · Do your chores: Слухання Домашні справи · Слухання",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u2-vocabulary-2/homework-check-sb-u2-listening-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u2-vocabulary-2/homework-check-sb-u2-listening-01.json",
+          "assessment_lesson_path": "7/sb-u2-vocabulary-2/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Do your chores: Слухання Домашні справи · Слухання",
+          "content_id": "7-sb-u2-listening-homework-01"
+        }
+      ]
+    },
+    "sb-u2-look-back": {
+      "lesson_path": "7/sb-u2-look-back/index.html",
+      "tests": [
+        {
+          "test_id": "3886921",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886921",
+          "title": "7 клас · Do your chores: Повторення Домашні справи · Повторення",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u2-self-check/homework-check-sb-u2-look-back-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u2-self-check/homework-check-sb-u2-look-back-01.json",
+          "assessment_lesson_path": "7/sb-u2-self-check/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Do your chores: Повторення Домашні справи · Повторення",
+          "content_id": "7-sb-u2-look-back-homework-01"
+        }
+      ]
+    },
+    "sb-u2-reading": {
+      "lesson_path": "7/sb-u2-reading/index.html",
+      "tests": [
+        {
+          "test_id": "3886927",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886927",
+          "title": "7 клас · Do your chores: Читання Домашні справи · Читання",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u2-grammar/homework-check-sb-u2-reading-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u2-grammar/homework-check-sb-u2-reading-01.json",
+          "assessment_lesson_path": "7/sb-u2-grammar/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Do your chores: Читання Домашні справи · Читання",
+          "content_id": "7-sb-u2-reading-homework-01"
+        }
+      ]
+    },
+    "sb-u2-self-check": {
+      "lesson_path": "7/sb-u2-self-check/index.html",
+      "tests": [
+        {
+          "test_id": "3886937",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886937",
+          "title": "7 клас · Do your chores: Самоперевірка Домашні справи · Самоперевірка",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u3-lead-in/homework-check-sb-u2-self-check-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u3-lead-in/homework-check-sb-u2-self-check-01.json",
+          "assessment_lesson_path": "7/sb-u3-lead-in/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Do your chores: Самоперевірка Домашні справи · Самоперевірка",
+          "content_id": "7-sb-u2-self-check-homework-01"
+        }
+      ]
+    },
+    "sb-u2-speaking": {
+      "lesson_path": "7/sb-u2-speaking/index.html",
+      "tests": [
+        {
+          "test_id": "3886945",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886945",
+          "title": "7 клас · Do your chores: Говоріння Домашні справи · Говоріння",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u2-writing/homework-check-sb-u2-speaking-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u2-writing/homework-check-sb-u2-speaking-01.json",
+          "assessment_lesson_path": "7/sb-u2-writing/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Do your chores: Говоріння Домашні справи · Говоріння",
+          "content_id": "7-sb-u2-speaking-homework-01"
+        }
+      ]
+    },
+    "sb-u2-vocabulary": {
+      "lesson_path": "7/sb-u2-vocabulary/index.html",
+      "tests": [
+        {
+          "test_id": "3886950",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886950",
+          "title": "7 клас · Do your chores: Лексика Домашні справи · Лексика",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u2-reading/homework-check-sb-u2-vocabulary-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u2-reading/homework-check-sb-u2-vocabulary-01.json",
+          "assessment_lesson_path": "7/sb-u2-reading/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Do your chores: Лексика Домашні справи · Лексика",
+          "content_id": "7-sb-u2-vocabulary-homework-01"
+        }
+      ]
+    },
+    "sb-u2-vocabulary-2": {
+      "lesson_path": "7/sb-u2-vocabulary-2/index.html",
+      "tests": [
+        {
+          "test_id": "3886955",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886955",
+          "title": "7 клас · Do your chores: Лексика: застосування Домашні справи · Лексика: застосування",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u2-grammar-2/homework-check-sb-u2-vocabulary-2-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u2-grammar-2/homework-check-sb-u2-vocabulary-2-01.json",
+          "assessment_lesson_path": "7/sb-u2-grammar-2/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Do your chores: Лексика: застосування Домашні справи · Лексика: застосування",
+          "content_id": "7-sb-u2-vocabulary-2-homework-01"
+        }
+      ]
+    },
+    "sb-u2-writing": {
+      "lesson_path": "7/sb-u2-writing/index.html",
+      "tests": [
+        {
+          "test_id": "3886961",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886961",
+          "title": "7 клас · Do your chores: Письмо Домашні справи · Письмо",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u2-look-back/homework-check-sb-u2-writing-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u2-look-back/homework-check-sb-u2-writing-01.json",
+          "assessment_lesson_path": "7/sb-u2-look-back/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Do your chores: Письмо Домашні справи · Письмо",
+          "content_id": "7-sb-u2-writing-homework-01"
+        }
+      ]
+    },
+    "sb-u3-blog": {
+      "lesson_path": "7/sb-u3-blog/index.html",
+      "tests": [
+        {
+          "test_id": "3886966",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886966",
+          "title": "7 клас · Are you ready to cook?: Блог і обговорення Приготування їжі · Блог і обговорення",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u3-vocabulary/homework-check-sb-u3-blog-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u3-vocabulary/homework-check-sb-u3-blog-01.json",
+          "assessment_lesson_path": "7/sb-u3-vocabulary/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Are you ready to cook?: Блог і обговорення Приготування їжі · Блог і обговорення",
+          "content_id": "7-sb-u3-blog-homework-01"
+        }
+      ]
+    },
+    "sb-u3-grammar": {
+      "lesson_path": "7/sb-u3-grammar/index.html",
+      "tests": [
+        {
+          "test_id": "3886973",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886973",
+          "title": "7 клас · Are you ready to cook?: Граматика Приготування їжі · Граматика",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u3-listening/homework-check-sb-u3-grammar-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u3-listening/homework-check-sb-u3-grammar-01.json",
+          "assessment_lesson_path": "7/sb-u3-listening/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Are you ready to cook?: Граматика Приготування їжі · Граматика",
+          "content_id": "7-sb-u3-grammar-homework-01"
+        }
+      ]
+    },
+    "sb-u3-grammar-2": {
+      "lesson_path": "7/sb-u3-grammar-2/index.html",
+      "tests": [
+        {
+          "test_id": "3886978",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886978",
+          "title": "7 клас · Are you ready to cook?: Граматика: застосування Приготування їжі · Граматика: застосування",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u3-speaking/homework-check-sb-u3-grammar-2-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u3-speaking/homework-check-sb-u3-grammar-2-01.json",
+          "assessment_lesson_path": "7/sb-u3-speaking/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Are you ready to cook?: Граматика: застосування Приготування їжі · Граматика: застосування",
+          "content_id": "7-sb-u3-grammar-2-homework-01"
+        }
+      ]
+    },
+    "sb-u3-lead-in": {
+      "lesson_path": "7/sb-u3-lead-in/index.html",
+      "tests": [
+        {
+          "test_id": "3886983",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886983",
+          "title": "7 клас · Are you ready to cook?: Починаємо юніт Приготування їжі · Починаємо юніт",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u3-blog/homework-check-sb-u3-lead-in-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u3-blog/homework-check-sb-u3-lead-in-01.json",
+          "assessment_lesson_path": "7/sb-u3-blog/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Are you ready to cook?: Починаємо юніт Приготування їжі · Починаємо юніт",
+          "content_id": "7-sb-u3-lead-in-homework-01"
+        }
+      ]
+    },
+    "sb-u3-listening": {
+      "lesson_path": "7/sb-u3-listening/index.html",
+      "tests": [
+        {
+          "test_id": "3886987",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886987",
+          "title": "7 клас · Are you ready to cook?: Слухання Приготування їжі · Слухання",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u3-vocabulary-2/homework-check-sb-u3-listening-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u3-vocabulary-2/homework-check-sb-u3-listening-01.json",
+          "assessment_lesson_path": "7/sb-u3-vocabulary-2/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Are you ready to cook?: Слухання Приготування їжі · Слухання",
+          "content_id": "7-sb-u3-listening-homework-01"
+        }
+      ]
+    },
+    "sb-u3-look-back": {
+      "lesson_path": "7/sb-u3-look-back/index.html",
+      "tests": [
+        {
+          "test_id": "3886991",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886991",
+          "title": "7 клас · Are you ready to cook?: Повторення Приготування їжі · Повторення",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u3-self-check/homework-check-sb-u3-look-back-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u3-self-check/homework-check-sb-u3-look-back-01.json",
+          "assessment_lesson_path": "7/sb-u3-self-check/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Are you ready to cook?: Повторення Приготування їжі · Повторення",
+          "content_id": "7-sb-u3-look-back-homework-01"
+        }
+      ]
+    },
+    "sb-u3-reading": {
+      "lesson_path": "7/sb-u3-reading/index.html",
+      "tests": [
+        {
+          "test_id": "3886996",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886996",
+          "title": "7 клас · Are you ready to cook?: Читання Приготування їжі · Читання",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u3-grammar/homework-check-sb-u3-reading-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u3-grammar/homework-check-sb-u3-reading-01.json",
+          "assessment_lesson_path": "7/sb-u3-grammar/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Are you ready to cook?: Читання Приготування їжі · Читання",
+          "content_id": "7-sb-u3-reading-homework-01"
+        }
+      ]
+    },
+    "sb-u3-self-check": {
+      "lesson_path": "7/sb-u3-self-check/index.html",
+      "tests": [
+        {
+          "test_id": "3887001",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887001",
+          "title": "7 клас · Are you ready to cook?: Самоперевірка Приготування їжі · Самоперевірка",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u4-lead-in/homework-check-sb-u3-self-check-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u4-lead-in/homework-check-sb-u3-self-check-01.json",
+          "assessment_lesson_path": "7/sb-u4-lead-in/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Are you ready to cook?: Самоперевірка Приготування їжі · Самоперевірка",
+          "content_id": "7-sb-u3-self-check-homework-01"
+        }
+      ]
+    },
+    "sb-u3-speaking": {
+      "lesson_path": "7/sb-u3-speaking/index.html",
+      "tests": [
+        {
+          "test_id": "3887004",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887004",
+          "title": "7 клас · Are you ready to cook?: Говоріння Приготування їжі · Говоріння",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u3-writing/homework-check-sb-u3-speaking-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u3-writing/homework-check-sb-u3-speaking-01.json",
+          "assessment_lesson_path": "7/sb-u3-writing/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Are you ready to cook?: Говоріння Приготування їжі · Говоріння",
+          "content_id": "7-sb-u3-speaking-homework-01"
+        }
+      ]
+    },
+    "sb-u3-vocabulary": {
+      "lesson_path": "7/sb-u3-vocabulary/index.html",
+      "tests": [
+        {
+          "test_id": "3887010",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887010",
+          "title": "7 клас · Are you ready to cook?: Лексика Приготування їжі · Лексика",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u3-reading/homework-check-sb-u3-vocabulary-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u3-reading/homework-check-sb-u3-vocabulary-01.json",
+          "assessment_lesson_path": "7/sb-u3-reading/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Are you ready to cook?: Лексика Приготування їжі · Лексика",
+          "content_id": "7-sb-u3-vocabulary-homework-01"
+        }
+      ]
+    },
+    "sb-u3-vocabulary-2": {
+      "lesson_path": "7/sb-u3-vocabulary-2/index.html",
+      "tests": [
+        {
+          "test_id": "3887015",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887015",
+          "title": "7 клас · Are you ready to cook?: Лексика: застосування Приготування їжі · Лексика: застосування",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u3-grammar-2/homework-check-sb-u3-vocabulary-2-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u3-grammar-2/homework-check-sb-u3-vocabulary-2-01.json",
+          "assessment_lesson_path": "7/sb-u3-grammar-2/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Are you ready to cook?: Лексика: застосування Приготування їжі · Лексика: застосування",
+          "content_id": "7-sb-u3-vocabulary-2-homework-01"
+        }
+      ]
+    },
+    "sb-u3-writing": {
+      "lesson_path": "7/sb-u3-writing/index.html",
+      "tests": [
+        {
+          "test_id": "3887020",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887020",
+          "title": "7 клас · Are you ready to cook?: Письмо Приготування їжі · Письмо",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u3-look-back/homework-check-sb-u3-writing-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u3-look-back/homework-check-sb-u3-writing-01.json",
+          "assessment_lesson_path": "7/sb-u3-look-back/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Are you ready to cook?: Письмо Приготування їжі · Письмо",
+          "content_id": "7-sb-u3-writing-homework-01"
+        }
+      ]
+    },
+    "sb-u4-blog": {
+      "lesson_path": "7/sb-u4-blog/index.html",
+      "tests": [
+        {
+          "test_id": "3887027",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887027",
+          "title": "7 клас · Traditions... Traditions...: Блог і обговорення Свята і традиції · Блог і обговорення",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u4-vocabulary/homework-check-sb-u4-blog-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u4-vocabulary/homework-check-sb-u4-blog-01.json",
+          "assessment_lesson_path": "7/sb-u4-vocabulary/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Traditions... Traditions...: Блог і обговорення Свята і традиції · Блог і обговорення",
+          "content_id": "7-sb-u4-blog-homework-01"
+        }
+      ]
+    },
+    "sb-u4-grammar": {
+      "lesson_path": "7/sb-u4-grammar/index.html",
+      "tests": [
+        {
+          "test_id": "3887033",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887033",
+          "title": "7 клас · Traditions... Traditions...: Граматика Свята і традиції · Граматика",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u4-listening/homework-check-sb-u4-grammar-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u4-listening/homework-check-sb-u4-grammar-01.json",
+          "assessment_lesson_path": "7/sb-u4-listening/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Traditions... Traditions...: Граматика Свята і традиції · Граматика",
+          "content_id": "7-sb-u4-grammar-homework-01"
+        }
+      ]
+    },
+    "sb-u4-grammar-2": {
+      "lesson_path": "7/sb-u4-grammar-2/index.html",
+      "tests": [
+        {
+          "test_id": "3887039",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887039",
+          "title": "7 клас · Traditions... Traditions...: Граматика: застосування Свята і традиції · Граматика: застосування",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u4-speaking/homework-check-sb-u4-grammar-2-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u4-speaking/homework-check-sb-u4-grammar-2-01.json",
+          "assessment_lesson_path": "7/sb-u4-speaking/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Traditions... Traditions...: Граматика: застосування Свята і традиції · Граматика: застосування",
+          "content_id": "7-sb-u4-grammar-2-homework-01"
+        }
+      ]
+    },
+    "sb-u4-lead-in": {
+      "lesson_path": "7/sb-u4-lead-in/index.html",
+      "tests": [
+        {
+          "test_id": "3887044",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887044",
+          "title": "7 клас · Traditions... Traditions...: Починаємо юніт Свята і традиції · Починаємо юніт",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u4-blog/homework-check-sb-u4-lead-in-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u4-blog/homework-check-sb-u4-lead-in-01.json",
+          "assessment_lesson_path": "7/sb-u4-blog/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Traditions... Traditions...: Починаємо юніт Свята і традиції · Починаємо юніт",
+          "content_id": "7-sb-u4-lead-in-homework-01"
+        }
+      ]
+    },
+    "sb-u4-listening": {
+      "lesson_path": "7/sb-u4-listening/index.html",
+      "tests": [
+        {
+          "test_id": "3887050",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887050",
+          "title": "7 клас · Traditions... Traditions...: Слухання Свята і традиції · Слухання",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u4-vocabulary-2/homework-check-sb-u4-listening-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u4-vocabulary-2/homework-check-sb-u4-listening-01.json",
+          "assessment_lesson_path": "7/sb-u4-vocabulary-2/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Traditions... Traditions...: Слухання Свята і традиції · Слухання",
+          "content_id": "7-sb-u4-listening-homework-01"
+        }
+      ]
+    },
+    "sb-u4-look-back": {
+      "lesson_path": "7/sb-u4-look-back/index.html",
+      "tests": [
+        {
+          "test_id": "3887057",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887057",
+          "title": "7 клас · Traditions... Traditions...: Повторення Свята і традиції · Повторення",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u4-self-check/homework-check-sb-u4-look-back-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u4-self-check/homework-check-sb-u4-look-back-01.json",
+          "assessment_lesson_path": "7/sb-u4-self-check/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Traditions... Traditions...: Повторення Свята і традиції · Повторення",
+          "content_id": "7-sb-u4-look-back-homework-01"
+        }
+      ]
+    },
+    "sb-u4-reading": {
+      "lesson_path": "7/sb-u4-reading/index.html",
+      "tests": [
+        {
+          "test_id": "3887063",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887063",
+          "title": "7 клас · Traditions... Traditions...: Читання Свята і традиції · Читання",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u4-grammar/homework-check-sb-u4-reading-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u4-grammar/homework-check-sb-u4-reading-01.json",
+          "assessment_lesson_path": "7/sb-u4-grammar/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Traditions... Traditions...: Читання Свята і традиції · Читання",
+          "content_id": "7-sb-u4-reading-homework-01"
+        }
+      ]
+    },
+    "sb-u4-self-check": {
+      "lesson_path": "7/sb-u4-self-check/index.html",
+      "tests": [
+        {
+          "test_id": "3887070",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887070",
+          "title": "7 клас · Traditions... Traditions...: Самоперевірка Свята і традиції · Самоперевірка",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u5-lead-in/homework-check-sb-u4-self-check-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u5-lead-in/homework-check-sb-u4-self-check-01.json",
+          "assessment_lesson_path": "7/sb-u5-lead-in/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Traditions... Traditions...: Самоперевірка Свята і традиції · Самоперевірка",
+          "content_id": "7-sb-u4-self-check-homework-01"
+        }
+      ]
+    },
+    "sb-u4-speaking": {
+      "lesson_path": "7/sb-u4-speaking/index.html",
+      "tests": [
+        {
+          "test_id": "3887075",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887075",
+          "title": "7 клас · Traditions... Traditions...: Говоріння Свята і традиції · Говоріння",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u4-writing/homework-check-sb-u4-speaking-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u4-writing/homework-check-sb-u4-speaking-01.json",
+          "assessment_lesson_path": "7/sb-u4-writing/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Traditions... Traditions...: Говоріння Свята і традиції · Говоріння",
+          "content_id": "7-sb-u4-speaking-homework-01"
+        }
+      ]
+    },
+    "sb-u4-vocabulary": {
+      "lesson_path": "7/sb-u4-vocabulary/index.html",
+      "tests": [
+        {
+          "test_id": "3887084",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887084",
+          "title": "7 клас · Traditions... Traditions...: Лексика Свята і традиції · Лексика",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u4-reading/homework-check-sb-u4-vocabulary-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u4-reading/homework-check-sb-u4-vocabulary-01.json",
+          "assessment_lesson_path": "7/sb-u4-reading/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Traditions... Traditions...: Лексика Свята і традиції · Лексика",
+          "content_id": "7-sb-u4-vocabulary-homework-01"
+        }
+      ]
+    },
+    "sb-u4-vocabulary-2": {
+      "lesson_path": "7/sb-u4-vocabulary-2/index.html",
+      "tests": [
+        {
+          "test_id": "3887091",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887091",
+          "title": "7 клас · Traditions... Traditions...: Лексика: застосування Свята і традиції · Лексика: застосування",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u4-grammar-2/homework-check-sb-u4-vocabulary-2-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u4-grammar-2/homework-check-sb-u4-vocabulary-2-01.json",
+          "assessment_lesson_path": "7/sb-u4-grammar-2/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Traditions... Traditions...: Лексика: застосування Свята і традиції · Лексика: застосування",
+          "content_id": "7-sb-u4-vocabulary-2-homework-01"
+        }
+      ]
+    },
+    "sb-u4-writing": {
+      "lesson_path": "7/sb-u4-writing/index.html",
+      "tests": [
+        {
+          "test_id": "3887097",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887097",
+          "title": "7 клас · Traditions... Traditions...: Письмо Свята і традиції · Письмо",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u4-look-back/homework-check-sb-u4-writing-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-u4-look-back/homework-check-sb-u4-writing-01.json",
+          "assessment_lesson_path": "7/sb-u4-look-back/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Traditions... Traditions...: Письмо Свята і традиції · Письмо",
+          "content_id": "7-sb-u4-writing-homework-01"
+        }
+      ]
+    },
+    "school-special-days": {
+      "lesson_path": "7/school-special-days/index.html",
+      "tests": [
+        {
+          "test_id": "3887105",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887105",
+          "title": "7 клас · Special days at school",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/now-or-usually/homework-check-school-special-days-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/now-or-usually/homework-check-school-special-days-01.json",
+          "assessment_lesson_path": "7/now-or-usually/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Special days at school Особливі шкільні дні",
+          "content_id": "7-school-special-days-homework-01"
+        }
+      ]
+    },
+    "sharing-chores": {
+      "lesson_path": "7/sharing-chores/index.html",
+      "tests": [
+        {
+          "test_id": "3887112",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887112",
+          "title": "7 клас · A helping hand",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/past-simple-questions/homework-check-sharing-chores-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/past-simple-questions/homework-check-sharing-chores-01.json",
+          "assessment_lesson_path": "7/past-simple-questions/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "A helping hand Хто допомагає вдома?",
+          "content_id": "7-sharing-chores-homework-01"
+        }
+      ]
+    },
+    "sb-grammar": {
+      "lesson_path": "7/sb-grammar/index.html",
+      "tests": [
+        {
+          "test_id": "3887116",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887116",
+          "title": "7 клас · Граматика курсу — Units 1–8",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-grammar/homework-check-sb-grammar-01.json",
+          "deadline": "2027-06-01T23:00",
+          "semester": "annual",
+          "content_path": "7/sb-grammar/homework-check-sb-grammar-01.json",
+          "assessment_lesson_path": "7/sb-grammar/index.html",
+          "placement_rule": "no_next_lesson",
+          "source_lesson_title": "Граматика курсу",
+          "content_id": "7-sb-grammar-homework-01"
+        }
+      ]
+    },
+    "sb-wordlist": {
+      "lesson_path": "7/sb-wordlist/index.html",
+      "tests": [
+        {
+          "test_id": "3887122",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887122",
+          "title": "7 клас · Лексика курсу — Unit 1",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-wordlist/homework-check-sb-wordlist-01.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-wordlist/homework-check-sb-wordlist-01.json",
+          "assessment_lesson_path": "7/sb-wordlist/index.html",
+          "placement_rule": "no_next_lesson",
+          "source_lesson_title": "Лексика курсу",
+          "content_id": "7-sb-wordlist-homework-01"
+        },
+        {
+          "test_id": "3887129",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887129",
+          "title": "7 клас · Лексика курсу — Unit 2",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-wordlist/homework-check-sb-wordlist-02.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-wordlist/homework-check-sb-wordlist-02.json",
+          "assessment_lesson_path": "7/sb-wordlist/index.html",
+          "placement_rule": "no_next_lesson",
+          "source_lesson_title": "Лексика курсу",
+          "content_id": "7-sb-wordlist-homework-02"
+        },
+        {
+          "test_id": "3887134",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887134",
+          "title": "7 клас · Лексика курсу — Unit 3",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-wordlist/homework-check-sb-wordlist-03.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-wordlist/homework-check-sb-wordlist-03.json",
+          "assessment_lesson_path": "7/sb-wordlist/index.html",
+          "placement_rule": "no_next_lesson",
+          "source_lesson_title": "Лексика курсу",
+          "content_id": "7-sb-wordlist-homework-03"
+        },
+        {
+          "test_id": "3887138",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887138",
+          "title": "7 клас · Лексика курсу — Unit 4",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-wordlist/homework-check-sb-wordlist-04.json",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "7/sb-wordlist/homework-check-sb-wordlist-04.json",
+          "assessment_lesson_path": "7/sb-wordlist/index.html",
+          "placement_rule": "no_next_lesson",
+          "source_lesson_title": "Лексика курсу",
+          "content_id": "7-sb-wordlist-homework-04"
+        },
+        {
+          "test_id": "3887142",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887142",
+          "title": "7 клас · Лексика курсу — Unit 5",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-wordlist/homework-check-sb-wordlist-05.json",
+          "deadline": "2027-06-01T23:00",
+          "semester": 2,
+          "content_path": "7/sb-wordlist/homework-check-sb-wordlist-05.json",
+          "assessment_lesson_path": "7/sb-wordlist/index.html",
+          "placement_rule": "no_next_lesson",
+          "source_lesson_title": "Лексика курсу",
+          "content_id": "7-sb-wordlist-homework-05"
+        },
+        {
+          "test_id": "3887147",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887147",
+          "title": "7 клас · Лексика курсу — Unit 6",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-wordlist/homework-check-sb-wordlist-06.json",
+          "deadline": "2027-06-01T23:00",
+          "semester": 2,
+          "content_path": "7/sb-wordlist/homework-check-sb-wordlist-06.json",
+          "assessment_lesson_path": "7/sb-wordlist/index.html",
+          "placement_rule": "no_next_lesson",
+          "source_lesson_title": "Лексика курсу",
+          "content_id": "7-sb-wordlist-homework-06"
+        },
+        {
+          "test_id": "3887151",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887151",
+          "title": "7 клас · Лексика курсу — Unit 7",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-wordlist/homework-check-sb-wordlist-07.json",
+          "deadline": "2027-06-01T23:00",
+          "semester": 2,
+          "content_path": "7/sb-wordlist/homework-check-sb-wordlist-07.json",
+          "assessment_lesson_path": "7/sb-wordlist/index.html",
+          "placement_rule": "no_next_lesson",
+          "source_lesson_title": "Лексика курсу",
+          "content_id": "7-sb-wordlist-homework-07"
+        },
+        {
+          "test_id": "3887155",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887155",
+          "title": "7 клас · Лексика курсу — Unit 8",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-wordlist/homework-check-sb-wordlist-08.json",
+          "deadline": "2027-06-01T23:00",
+          "semester": 2,
+          "content_path": "7/sb-wordlist/homework-check-sb-wordlist-08.json",
+          "assessment_lesson_path": "7/sb-wordlist/index.html",
+          "placement_rule": "no_next_lesson",
+          "source_lesson_title": "Лексика курсу",
+          "content_id": "7-sb-wordlist-homework-08"
+        }
+      ]
+    }
+  }
+}

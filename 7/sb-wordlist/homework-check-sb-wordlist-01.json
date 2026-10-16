@@ -1,0 +1,131 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · Лексика курсу — Unit 1",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/sb-wordlist/index.html",
+  "source_title": "Лексика курсу",
+  "assessment_lesson": "7/sb-wordlist/index.html",
+  "placement": {
+    "rule": "no_next_lesson",
+    "note": "Перевірка після теми: окремого наступного уроку в навігації немає; збережено в папці вихідної теми."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери український переклад: bookworm.",
+      "points": 1,
+      "options": [
+        "книголюб",
+        "балакун",
+        "захоплений наукою",
+        "річниця"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери український переклад: chatterbox.",
+      "points": 1,
+      "options": [
+        "захоплений наукою",
+        "річниця",
+        "закінчення навчання",
+        "балакун"
+      ],
+      "key": 3
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери український переклад: science geek.",
+      "points": 1,
+      "options": [
+        "закінчення навчання",
+        "позакласний",
+        "захоплений наукою",
+        "річниця"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери український переклад: anniversary.",
+      "points": 1,
+      "options": [
+        "прикраса",
+        "річниця",
+        "закінчення навчання",
+        "позакласний"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери український переклад: graduation.",
+      "points": 1,
+      "options": [
+        "закінчення навчання",
+        "позакласний",
+        "прикраса",
+        "презентація"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери український переклад: extracurricular.",
+      "points": 1,
+      "options": [
+        "прикраса",
+        "презентація",
+        "книголюб",
+        "позакласний"
+      ],
+      "key": 3
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською за словником Unit 1: «прикраса». Початкова літера: d.",
+      "points": 2,
+      "answers": [
+        "decoration"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською за словником Unit 1: «презентація». Початкова літера: p.",
+      "points": 2,
+      "answers": [
+        "presentation"
+      ]
+    }
+  ],
+  "id": "7-sb-wordlist-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887122",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887122",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

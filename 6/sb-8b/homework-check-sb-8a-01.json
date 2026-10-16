@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "title": "In the headlines · 6 клас · ESL 8a",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-8a/index.html",
+  "source_title": "In the headlines Новини та означальні речення",
+  "assessment_lesson": "6/sb-8b/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «заголовок».",
+      "points": 1,
+      "answers": [
+        "headline"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «стаття».",
+      "points": 1,
+      "answers": [
+        "article"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «приз».",
+      "points": 1,
+      "answers": [
+        "prize"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "The girl ___ won the prize is happy.",
+      "points": 1,
+      "options": [
+        "which",
+        "where",
+        "who"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "This is the camera ___ I bought.",
+      "points": 1,
+      "options": [
+        "when",
+        "which",
+        "who"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the adjective from help.",
+      "points": 1,
+      "options": [
+        "Helpful.",
+        "Helps.",
+        "Helping yesterday."
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A local newspaper reports on two teenagers who won prizes. One girl won a trip at a supermarket. She did not expect to win and wants to share the trip with a friend. Another teenager entered a competition and plans to enter more. Both stories explain who won, what they won and how they felt.\n\nWhere did the girl win a trip?",
+      "points": 2,
+      "options": [
+        "At an airport.",
+        "At a gym.",
+        "At a supermarket."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A local newspaper reports on two teenagers who won prizes. One girl won a trip at a supermarket. She did not expect to win and wants to share the trip with a friend. Another teenager entered a competition and plans to enter more. Both stories explain who won, what they won and how they felt.\n\nWhat does she want to do with the trip?",
+      "points": 2,
+      "options": [
+        "Sell her camera.",
+        "Share it with a friend.",
+        "Cancel it immediately."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-8a-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886949",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886949",
+      "builder_url": "https://naurok.com.ua/test/builder/3886949",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "6/sb-culture-3/index.html",
+  "tests": [
+    {
+      "id": "6-sb-5e-homework-01",
+      "title": "An environmental event · 6 клас · ESL 5e",
+      "source_lesson": "6/sb-5e/index.html",
+      "json": "homework-check-sb-5e-01.json",
+      "markdown": "homework-check-sb-5e-01.md",
+      "answer_key": "homework-check-sb-5e-01-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886882",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

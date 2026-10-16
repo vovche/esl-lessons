@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "title": "9 клас · Six tenses, one story — теперішні й минулі часи",
+  "grade": 9,
+  "purpose": "homework_check",
+  "source_lesson": "9/present-past-review/index.html",
+  "source_title": "Six tenses, one story Теперішні й минулі часи в контексті",
+  "assessment_lesson": "9/personal-details/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Впиши форму take: My brother ___ the bus to school every day.",
+      "points": 1,
+      "answers": [
+        "takes"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Впиши форму listen: Please be quiet. I ___ to the teacher now.",
+      "points": 1,
+      "answers": [
+        "am listening"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Впиши форму visit: I ___ my cousin last Saturday.",
+      "points": 1,
+      "answers": [
+        "visited"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Впиши форму see: We ___ this film already, so choose another one. Використай Present Perfect.",
+      "points": 2,
+      "answers": [
+        "have seen"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Впиши форму cook: At seven yesterday, Dad ___ dinner. Дія тоді тривала.",
+      "points": 2,
+      "answers": [
+        "was cooking"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Впиши форму leave: By the time I came home, my sister ___. Вона пішла раніше, ніж я повернувся.",
+      "points": 3,
+      "answers": [
+        "had left"
+      ]
+    }
+  ],
+  "id": "9-present-past-review-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887172",
+      "test_url": "https://naurok.com.ua/test/9-klas-six-tenses-one-story-teperishni-y-minuli-chasi-3887172.html",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

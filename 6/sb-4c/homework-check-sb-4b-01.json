@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "title": "How to get there · 6 клас · ESL 4b",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-4b/index.html",
+  "source_title": "How to get there Пояснюємо маршрут",
+  "assessment_lesson": "6/sb-4c/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «перехід».",
+      "points": 1,
+      "answers": [
+        "crossing"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «пішохідний міст».",
+      "points": 1,
+      "answers": [
+        "footbridge"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «навпроти».",
+      "points": 1,
+      "answers": [
+        "opposite"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "To move inside a building, go ___.",
+      "points": 1,
+      "options": [
+        "behind it",
+        "opposite it",
+        "into it"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "The bank faces the park. It is ___ the park.",
+      "points": 1,
+      "options": [
+        "into",
+        "opposite",
+        "through"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose a direction.",
+      "points": 1,
+      "options": [
+        "Turn left at the traffic lights.",
+        "Left turning traffic.",
+        "You left are lights."
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Two friends are playing a game. One asks how to get to the bank. His friend tells him to go straight on and turn right at the traffic lights. Later they go past a bus stop and turn left. They stop in front of a supermarket. The house they need is behind it.\n\nWhere do the friends stop?",
+      "points": 2,
+      "options": [
+        "Inside the bank.",
+        "Under a bridge.",
+        "In front of a supermarket."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Two friends are playing a game. One asks how to get to the bank. His friend tells him to go straight on and turn right at the traffic lights. Later they go past a bus stop and turn left. They stop in front of a supermarket. The house they need is behind it.\n\nWhere is the house they need?",
+      "points": 2,
+      "options": [
+        "Opposite the airport.",
+        "Behind the supermarket.",
+        "Inside the park."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-4b-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886836",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886836",
+      "builder_url": "https://naurok.com.ua/test/builder/3886836",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

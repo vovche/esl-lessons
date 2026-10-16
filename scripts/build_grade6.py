@@ -198,6 +198,8 @@ def main():
     root=(ROOT/'index.html').read_text();start=root.index('<section class="class-section" aria-labelledby="class-6">');end=root.index('<section class="class-section" aria-labelledby="class-7">')
     rootsection='<section class="class-section" aria-labelledby="class-6"><div class="class-heading"><h2 id="class-6"><a class="section-link" data-site-nav="grade" href="6/">6 клас →</a></h2><span>8 юнітів · 40 основних уроків + додаткові матеріали</span></div><div class="cards">'+''.join(catalog_card(x,'6/') for x in sequence)+refcards.replace('href="','href="6/')+'</div></section>\n'
     (ROOT/'index.html').write_text(root[:start]+rootsection+root[end:])
+    from attach_naurok_homework import apply_grade
+    apply_grade(6)
     print(f'Built {len(sequence)} grade 6 lessons and 2 reference pages')
 
 

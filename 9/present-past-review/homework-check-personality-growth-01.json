@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "title": "9 клас · You can grow — саморозвиток",
+  "grade": 9,
+  "purpose": "homework_check",
+  "source_lesson": "9/personality-growth/index.html",
+  "source_title": "You can grow Як змінюється особистість",
+  "assessment_lesson": "9/present-past-review/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: приклад для наслідування. Два слова.",
+      "points": 1,
+      "answers": [
+        "role model"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: саморозвиток. Одне слово через дефіс.",
+      "points": 1,
+      "answers": [
+        "self-development"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською одним словом: людина, яка дуже багато читає («книжковий хробак»).",
+      "points": 1,
+      "answers": [
+        "bookworm"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Який план є конкретною дією для розвитку мовлення?",
+      "points": 2,
+      "options": [
+        "I will compare myself with everyone.",
+        "I will buy new shoes.",
+        "I will never make mistakes.",
+        "I will practise speaking English for ten minutes with a partner every day."
+      ],
+      "key": 3
+    },
+    {
+      "type": "choice",
+      "prompt": "Яке твердження про характер відповідає уроку?",
+      "points": 2,
+      "options": [
+        "Each person has only one fixed trait.",
+        "People can have a mix of traits, and some habits can change through practice.",
+        "Introverts can never speak confidently.",
+        "Only popular people can be role models."
+      ],
+      "key": 1
+    },
+    {
+      "type": "word",
+      "prompt": "Склади речення з усіх слів: used / I / shy / to / be / but / now / more / I / speak. Почни з I.",
+      "points": 3,
+      "answers": [
+        "I used to be shy, but now I speak more.",
+        "I used to be shy, but now I speak more"
+      ]
+    }
+  ],
+  "id": "9-personality-growth-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887170",
+      "test_url": "https://naurok.com.ua/test/9-klas-you-can-grow-samorozvitok-3887170.html",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

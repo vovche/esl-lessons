@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · Traditions... Traditions...: Читання Свята і традиції · Читання",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/sb-u4-reading/index.html",
+  "source_title": "Traditions... Traditions...: Читання Свята і традиції · Читання",
+  "assessment_lesson": "7/sb-u4-grammar/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова custom.",
+      "points": 1,
+      "options": [
+        "північ",
+        "звичай",
+        "переддень",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова celebrate.",
+      "points": 1,
+      "options": [
+        "північ",
+        "свічка",
+        "святкувати",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова Eve.",
+      "points": 1,
+      "options": [
+        "переддень",
+        "свічка",
+        "отримувати",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Cards ___ sent to grandparents.",
+      "points": 1,
+      "options": [
+        "be",
+        "are",
+        "is",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "The holiday ___ celebrated in winter.",
+      "points": 1,
+      "options": [
+        "are",
+        "do",
+        "is",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Special food is ___ at home.",
+      "points": 1,
+      "options": [
+        "prepared",
+        "prepare",
+        "preparing",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nNew Year traditions vary between countries. In Spain, people traditionally eat twelve grapes at midnight. In Scotland , first-footing is associated with the first visitor after midnight. A traveller can learn about a tradition by asking when it happens, what people do and why it matters.\n\nWhat is associated with midnight in Spain?",
+      "points": 2,
+      "options": [
+        "a film review",
+        "twelve grapes",
+        "a hockey puck",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nNew Year traditions vary between countries. In Spain, people traditionally eat twelve grapes at midnight. In Scotland , first-footing is associated with the first visitor after midnight. A traveller can learn about a tradition by asking when it happens, what people do and why it matters.\n\nWhat does first-footing involve?",
+      "points": 2,
+      "options": [
+        "a cooking competition",
+        "a theatre seat",
+        "a first visitor",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    }
+  ],
+  "id": "7-sb-u4-reading-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887063",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887063",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "title": "9 клас · Jobs Around Us: Починаємо тему",
+  "grade": 9,
+  "purpose": "homework_check",
+  "source_lesson": "9/sb-u5-lead-in/index.html",
+  "source_title": "Jobs Around Us: Починаємо тему Професії та вибір майбутнього: Починаємо тему",
+  "assessment_lesson": "9/sb-u5-blog/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова occupation.",
+      "points": 1,
+      "options": [
+        "місце роботи",
+        "уміння",
+        "професія"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова qualification.",
+      "points": 1,
+      "options": [
+        "надійний",
+        "кваліфікація",
+        "уміння"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова workplace.",
+      "points": 1,
+      "options": [
+        "місце роботи",
+        "надійний",
+        "престижний"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "“Do not share the password,” he said. He told us ... it.",
+      "points": 2,
+      "options": [
+        "not share",
+        "not to share",
+        "to not sharing"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "“Please help,” Emma asked. Emma asked Dan ... .",
+      "points": 2,
+      "options": [
+        "to help",
+        "helping",
+        "helped"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст. Dan is thinking about what to do after Year 9. He compares continuing his education with training for a particular job. Emma says that a dream job should match interests and skills, not only salary. They read job adverts and identify required qualities. An ethical hacker, for example, needs digital skills and a responsible attitude to security.\n\nWhat attitude does an ethical hacker need?",
+      "points": 3,
+      "options": [
+        "a dislike of technology",
+        "a responsible attitude to security",
+        "an interest in stealing accounts"
+      ],
+      "key": 1
+    }
+  ],
+  "id": "9-sb-u5-lead-in-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886975",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886975",
+      "builder_url": "https://naurok.com.ua/test/builder/3886975",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

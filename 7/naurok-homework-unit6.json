@@ -1,0 +1,426 @@
+{
+  "version": 1,
+  "grade": 7,
+  "lessons": {
+    "sb-u6-blog": {
+      "lesson_path": "7/sb-u6-blog/index.html",
+      "tests": [
+        {
+          "test_id": "3887196",
+          "builder_url": "https://naurok.com.ua/test/builder/3887196",
+          "title": "7 клас · What’s the matter?: Блог і обговорення Самопочуття і спілкування з лікарем · Блог і обговорення",
+          "points": 10,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "plan_index": 0,
+          "status": "published_pending_homework_daily_limit",
+          "question_count": 8,
+          "verified": true,
+          "content_verified": true,
+          "test_url": "https://naurok.com.ua/test-beta/test/3887196",
+          "content_path": "7/sb-u6-vocabulary/homework-check-sb-u6-blog-01.json",
+          "assessment_lesson_path": "7/sb-u6-vocabulary/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "What’s the matter?: Блог і обговорення Самопочуття і спілкування з лікарем · Блог і обговорення",
+          "plan_path": "7/sb-u6-vocabulary/homework-check-sb-u6-blog-01.json",
+          "content_id": "7-sb-u6-blog-homework-01"
+        }
+      ]
+    },
+    "sb-u6-grammar-2": {
+      "lesson_path": "7/sb-u6-grammar-2/index.html",
+      "tests": [
+        {
+          "test_id": "3887201",
+          "builder_url": "https://naurok.com.ua/test/builder/3887201",
+          "title": "7 клас · What’s the matter?: Граматика: застосування Самопочуття і спілкування з лікарем · Граматика: застосування",
+          "points": 10,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "plan_index": 1,
+          "status": "published_pending_homework_daily_limit",
+          "question_count": 8,
+          "verified": true,
+          "content_verified": true,
+          "test_url": "https://naurok.com.ua/test-beta/test/3887201",
+          "content_path": "7/sb-u6-speaking/homework-check-sb-u6-grammar-2-01.json",
+          "assessment_lesson_path": "7/sb-u6-speaking/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "What’s the matter?: Граматика: застосування Самопочуття і спілкування з лікарем · Граматика: застосування",
+          "plan_path": "7/sb-u6-speaking/homework-check-sb-u6-grammar-2-01.json",
+          "content_id": "7-sb-u6-grammar-2-homework-01"
+        }
+      ]
+    },
+    "sb-u6-grammar": {
+      "lesson_path": "7/sb-u6-grammar/index.html",
+      "tests": [
+        {
+          "test_id": "3887202",
+          "builder_url": "https://naurok.com.ua/test/builder/3887202",
+          "title": "7 клас · What’s the matter?: Граматика Самопочуття і спілкування з лікарем · Граматика",
+          "points": 10,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "plan_index": 2,
+          "status": "published_pending_homework_daily_limit",
+          "question_count": 8,
+          "verified": true,
+          "content_verified": true,
+          "test_url": "https://naurok.com.ua/test-beta/test/3887202",
+          "content_path": "7/sb-u6-listening/homework-check-sb-u6-grammar-01.json",
+          "assessment_lesson_path": "7/sb-u6-listening/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "What’s the matter?: Граматика Самопочуття і спілкування з лікарем · Граматика",
+          "plan_path": "7/sb-u6-listening/homework-check-sb-u6-grammar-01.json",
+          "content_id": "7-sb-u6-grammar-homework-01"
+        }
+      ]
+    },
+    "sb-u6-lead-in": {
+      "lesson_path": "7/sb-u6-lead-in/index.html",
+      "tests": [
+        {
+          "test_id": "3887205",
+          "builder_url": "https://naurok.com.ua/test/builder/3887205",
+          "title": "7 клас · What’s the matter?: Починаємо юніт Самопочуття і спілкування з лікарем · Починаємо юніт",
+          "points": 10,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "plan_index": 3,
+          "status": "published_pending_homework_daily_limit",
+          "question_count": 8,
+          "verified": true,
+          "content_verified": true,
+          "test_url": "https://naurok.com.ua/test-beta/test/3887205",
+          "content_path": "7/sb-u6-blog/homework-check-sb-u6-lead-in-01.json",
+          "assessment_lesson_path": "7/sb-u6-blog/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "What’s the matter?: Починаємо юніт Самопочуття і спілкування з лікарем · Починаємо юніт",
+          "plan_path": "7/sb-u6-blog/homework-check-sb-u6-lead-in-01.json",
+          "content_id": "7-sb-u6-lead-in-homework-01"
+        }
+      ]
+    },
+    "sb-u6-listening": {
+      "lesson_path": "7/sb-u6-listening/index.html",
+      "tests": [
+        {
+          "test_id": "3887208",
+          "builder_url": "https://naurok.com.ua/test/builder/3887208",
+          "title": "7 клас · What’s the matter?: Слухання Самопочуття і спілкування з лікарем · Слухання",
+          "points": 10,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "plan_index": 4,
+          "status": "published_pending_homework_daily_limit",
+          "question_count": 8,
+          "verified": true,
+          "content_verified": true,
+          "test_url": "https://naurok.com.ua/test-beta/test/3887208",
+          "content_path": "7/sb-u6-vocabulary-2/homework-check-sb-u6-listening-01.json",
+          "assessment_lesson_path": "7/sb-u6-vocabulary-2/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "What’s the matter?: Слухання Самопочуття і спілкування з лікарем · Слухання",
+          "plan_path": "7/sb-u6-vocabulary-2/homework-check-sb-u6-listening-01.json",
+          "content_id": "7-sb-u6-listening-homework-01"
+        }
+      ]
+    },
+    "sb-u6-look-back": {
+      "lesson_path": "7/sb-u6-look-back/index.html",
+      "tests": [
+        {
+          "test_id": "3887209",
+          "builder_url": "https://naurok.com.ua/test/builder/3887209",
+          "title": "7 клас · What’s the matter?: Повторення Самопочуття і спілкування з лікарем · Повторення",
+          "points": 10,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "plan_index": 5,
+          "status": "published_pending_homework_daily_limit",
+          "question_count": 8,
+          "verified": true,
+          "content_verified": true,
+          "test_url": "https://naurok.com.ua/test-beta/test/3887209",
+          "content_path": "7/sb-u6-self-check/homework-check-sb-u6-look-back-01.json",
+          "assessment_lesson_path": "7/sb-u6-self-check/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "What’s the matter?: Повторення Самопочуття і спілкування з лікарем · Повторення",
+          "plan_path": "7/sb-u6-self-check/homework-check-sb-u6-look-back-01.json",
+          "content_id": "7-sb-u6-look-back-homework-01"
+        }
+      ]
+    },
+    "sb-u6-reading": {
+      "lesson_path": "7/sb-u6-reading/index.html",
+      "tests": [
+        {
+          "test_id": "3887212",
+          "builder_url": "https://naurok.com.ua/test/builder/3887212",
+          "title": "7 клас · What’s the matter?: Читання Самопочуття і спілкування з лікарем · Читання",
+          "points": 10,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "plan_index": 6,
+          "status": "published_pending_homework_daily_limit",
+          "question_count": 8,
+          "verified": true,
+          "content_verified": true,
+          "test_url": "https://naurok.com.ua/test-beta/test/3887212",
+          "content_path": "7/sb-u6-grammar/homework-check-sb-u6-reading-01.json",
+          "assessment_lesson_path": "7/sb-u6-grammar/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "What’s the matter?: Читання Самопочуття і спілкування з лікарем · Читання",
+          "plan_path": "7/sb-u6-grammar/homework-check-sb-u6-reading-01.json",
+          "content_id": "7-sb-u6-reading-homework-01"
+        }
+      ]
+    },
+    "sb-u6-self-check": {
+      "lesson_path": "7/sb-u6-self-check/index.html",
+      "tests": [
+        {
+          "test_id": "3887215",
+          "builder_url": "https://naurok.com.ua/test/builder/3887215",
+          "title": "7 клас · What’s the matter?: Самоперевірка Самопочуття і спілкування з лікарем · Самоперевірка",
+          "points": 10,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "plan_index": 7,
+          "status": "published_pending_homework_daily_limit",
+          "question_count": 8,
+          "verified": true,
+          "content_verified": true,
+          "test_url": "https://naurok.com.ua/test-beta/test/3887215",
+          "content_path": "7/sb-u7-lead-in/homework-check-sb-u6-self-check-01.json",
+          "assessment_lesson_path": "7/sb-u7-lead-in/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "What’s the matter?: Самоперевірка Самопочуття і спілкування з лікарем · Самоперевірка",
+          "plan_path": "7/sb-u7-lead-in/homework-check-sb-u6-self-check-01.json",
+          "content_id": "7-sb-u6-self-check-homework-01"
+        }
+      ]
+    },
+    "sb-u6-speaking": {
+      "lesson_path": "7/sb-u6-speaking/index.html",
+      "tests": [
+        {
+          "test_id": "3887218",
+          "builder_url": "https://naurok.com.ua/test/builder/3887218",
+          "title": "7 клас · What’s the matter?: Говоріння Самопочуття і спілкування з лікарем · Говоріння",
+          "points": 10,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "plan_index": 8,
+          "status": "published_pending_homework_daily_limit",
+          "question_count": 8,
+          "verified": true,
+          "content_verified": true,
+          "test_url": "https://naurok.com.ua/test-beta/test/3887218",
+          "content_path": "7/sb-u6-writing/homework-check-sb-u6-speaking-01.json",
+          "assessment_lesson_path": "7/sb-u6-writing/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "What’s the matter?: Говоріння Самопочуття і спілкування з лікарем · Говоріння",
+          "plan_path": "7/sb-u6-writing/homework-check-sb-u6-speaking-01.json",
+          "content_id": "7-sb-u6-speaking-homework-01"
+        }
+      ]
+    },
+    "sb-u6-vocabulary-2": {
+      "lesson_path": "7/sb-u6-vocabulary-2/index.html",
+      "tests": [
+        {
+          "test_id": "3887222",
+          "builder_url": "https://naurok.com.ua/test/builder/3887222",
+          "title": "7 клас · What’s the matter?: Лексика: застосування Самопочуття і спілкування з лікарем · Лексика: застосування",
+          "points": 10,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "plan_index": 9,
+          "status": "published_pending_homework_daily_limit",
+          "question_count": 8,
+          "verified": true,
+          "content_verified": true,
+          "test_url": "https://naurok.com.ua/test-beta/test/3887222",
+          "content_path": "7/sb-u6-grammar-2/homework-check-sb-u6-vocabulary-2-01.json",
+          "assessment_lesson_path": "7/sb-u6-grammar-2/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "What’s the matter?: Лексика: застосування Самопочуття і спілкування з лікарем · Лексика: застосування",
+          "plan_path": "7/sb-u6-grammar-2/homework-check-sb-u6-vocabulary-2-01.json",
+          "content_id": "7-sb-u6-vocabulary-2-homework-01"
+        }
+      ]
+    },
+    "sb-u6-vocabulary": {
+      "lesson_path": "7/sb-u6-vocabulary/index.html",
+      "tests": [
+        {
+          "test_id": "3887223",
+          "builder_url": "https://naurok.com.ua/test/builder/3887223",
+          "title": "7 клас · What’s the matter?: Лексика Самопочуття і спілкування з лікарем · Лексика",
+          "points": 10,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "plan_index": 10,
+          "status": "published_pending_homework_daily_limit",
+          "question_count": 8,
+          "verified": true,
+          "content_verified": true,
+          "test_url": "https://naurok.com.ua/test-beta/test/3887223",
+          "content_path": "7/sb-u6-reading/homework-check-sb-u6-vocabulary-01.json",
+          "assessment_lesson_path": "7/sb-u6-reading/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "What’s the matter?: Лексика Самопочуття і спілкування з лікарем · Лексика",
+          "plan_path": "7/sb-u6-reading/homework-check-sb-u6-vocabulary-01.json",
+          "content_id": "7-sb-u6-vocabulary-homework-01"
+        }
+      ]
+    },
+    "sb-u6-writing": {
+      "lesson_path": "7/sb-u6-writing/index.html",
+      "tests": [
+        {
+          "test_id": "3887227",
+          "builder_url": "https://naurok.com.ua/test/builder/3887227",
+          "title": "7 клас · What’s the matter?: Письмо Самопочуття і спілкування з лікарем · Письмо",
+          "points": 10,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "plan_index": 11,
+          "status": "published_pending_homework_daily_limit",
+          "question_count": 8,
+          "verified": true,
+          "content_verified": true,
+          "test_url": "https://naurok.com.ua/test-beta/test/3887227",
+          "content_path": "7/sb-u6-look-back/homework-check-sb-u6-writing-01.json",
+          "assessment_lesson_path": "7/sb-u6-look-back/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "What’s the matter?: Письмо Самопочуття і спілкування з лікарем · Письмо",
+          "plan_path": "7/sb-u6-look-back/homework-check-sb-u6-writing-01.json",
+          "content_id": "7-sb-u6-writing-homework-01"
+        }
+      ]
+    }
+  }
+}

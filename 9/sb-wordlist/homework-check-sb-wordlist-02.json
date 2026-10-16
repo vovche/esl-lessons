@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "title": "9 клас · Лексика курсу · Unit 2",
+  "grade": 9,
+  "purpose": "homework_check",
+  "source_lesson": "9/sb-wordlist/index.html",
+  "source_title": "Лексика курсу",
+  "assessment_lesson": "9/sb-wordlist/index.html",
+  "placement": {
+    "rule": "no_next_lesson",
+    "note": "Перевірка після теми: окремого наступного уроку в навігації немає; збережено в папці вихідної теми."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери переклад слова або виразу: outfit.",
+      "points": 1,
+      "options": [
+        "вбрання",
+        "аксесуар",
+        "однотонний"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери переклад слова або виразу: footwear.",
+      "points": 1,
+      "options": [
+        "смугастий",
+        "взуття",
+        "зручний"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери переклад слова або виразу: accessory.",
+      "points": 1,
+      "options": [
+        "стильний",
+        "доступний за ціною",
+        "аксесуар"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери переклад слова або виразу: comfortable.",
+      "points": 1,
+      "options": [
+        "зручний",
+        "однотонний",
+        "вбрання"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери переклад слова або виразу: stylish.",
+      "points": 1,
+      "options": [
+        "взуття",
+        "стильний",
+        "смугастий"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери переклад слова або виразу: plain.",
+      "points": 1,
+      "options": [
+        "доступний за ціною",
+        "аксесуар",
+        "однотонний"
+      ],
+      "key": 2
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «смугастий». Слово або вираз зі словника Unit 2; початкова літера: s.",
+      "points": 2,
+      "answers": [
+        "striped"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «доступний за ціною». Слово або вираз зі словника Unit 2; початкова літера: a.",
+      "points": 2,
+      "answers": [
+        "affordable"
+      ]
+    }
+  ],
+  "id": "9-sb-wordlist-homework-02",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887158",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887158",
+      "builder_url": "https://naurok.com.ua/test/builder/3887158",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

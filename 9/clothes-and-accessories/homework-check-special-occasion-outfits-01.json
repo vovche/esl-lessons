@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "title": "9 клас · Dress for the occasion — святковий одяг",
+  "grade": 9,
+  "purpose": "homework_check",
+  "source_lesson": "9/special-occasion-outfits/index.html",
+  "source_title": "Dress for the occasion Одяг для особливих подій",
+  "assessment_lesson": "9/clothes-and-accessories/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською двома словами: святково вдягатися.",
+      "points": 1,
+      "answers": [
+        "dress up"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською одним словом: комплект одягу.",
+      "points": 1,
+      "answers": [
+        "outfit"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською одним словом: доречний (одяг для ситуації).",
+      "points": 1,
+      "answers": [
+        "appropriate"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Яке речення пояснює власний вибір без осуду інших?",
+      "points": 2,
+      "options": [
+        "Everyone must wear high heels.",
+        "A person in jeans is careless.",
+        "I choose flat shoes because I can dance in them.",
+        "Expensive clothes always mean kindness."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай: Arron wears a kilt and a white shirt for Burns Night. Який висновок підтверджує текст?",
+      "points": 2,
+      "options": [
+        "Arron wears a kilt for this particular celebration.",
+        "Every person always wears a kilt.",
+        "Arron wears only sports clothes.",
+        "Burns Night is a school uniform."
+      ],
+      "key": 0
+    },
+    {
+      "type": "word",
+      "prompt": "Склади речення з усіх слів: school / For / our / concert / I / a / wear / shirt. Почни з For.",
+      "points": 3,
+      "answers": [
+        "For our school concert, I wear a shirt.",
+        "For our school concert, I wear a shirt"
+      ]
+    }
+  ],
+  "id": "9-special-occasion-outfits-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887180",
+      "test_url": "https://naurok.com.ua/test/9-klas-dress-for-the-occasion-svyatkoviy-odyag-3887180.html",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

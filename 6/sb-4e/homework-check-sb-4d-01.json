@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "title": "Outer space · 6 клас · ESL 4d",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-4d/index.html",
+  "source_title": "Outer space Космос і найвищий ступінь",
+  "assessment_lesson": "6/sb-4e/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «галактика».",
+      "points": 1,
+      "answers": [
+        "galaxy"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «Всесвіт».",
+      "points": 1,
+      "answers": [
+        "universe"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «планета».",
+      "points": 1,
+      "answers": [
+        "planet"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the superlative of large.",
+      "points": 1,
+      "options": [
+        "the larger",
+        "more large",
+        "the largest"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "It is the ___ place in this group.",
+      "points": 1,
+      "options": [
+        "hot",
+        "hottest",
+        "hotter"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "This is ___ interesting fact of all.",
+      "points": 1,
+      "options": [
+        "the most",
+        "more",
+        "as"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Our solar system contains the sun and eight planets. Planets differ in size, temperature and distance from the sun. A small planet is not always the coldest one. To compare planets, look at the data carefully. Use bigger than for two planets and the biggest for one planet in a whole group.\n\nHow many planets are in our solar system?",
+      "points": 2,
+      "options": [
+        "Six.",
+        "Ten.",
+        "Eight."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Our solar system contains the sun and eight planets. Planets differ in size, temperature and distance from the sun. A small planet is not always the coldest one. To compare planets, look at the data carefully. Use bigger than for two planets and the biggest for one planet in a whole group.\n\nWhich form compares one planet with a whole group?",
+      "points": 2,
+      "options": [
+        "As big as.",
+        "The biggest.",
+        "Bigger than."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-4d-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886847",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886847",
+      "builder_url": "https://naurok.com.ua/test/builder/3886847",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

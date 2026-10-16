@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "6/sb-6e/index.html",
+  "tests": [
+    {
+      "id": "6-sb-6d-homework-01",
+      "title": "Football · 6 клас · ESL 6d",
+      "source_lesson": "6/sb-6d/index.html",
+      "json": "homework-check-sb-6d-01.json",
+      "markdown": "homework-check-sb-6d-01.md",
+      "answer_key": "homework-check-sb-6d-01-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886906",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

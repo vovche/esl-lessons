@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "9/fashion-blog/index.html",
+  "tests": [
+    {
+      "id": "9-fashion-blog-homework-01",
+      "title": "9 клас · Fashion then and now — блог про моду",
+      "source_lesson": "9/fashion-blog/index.html",
+      "json": "homework-check-fashion-blog-01.json",
+      "markdown": "homework-check-fashion-blog-01.md",
+      "answer_key": "homework-check-fashion-blog-01-key.md",
+      "test_url": "https://naurok.com.ua/test/9-klas-fashion-then-and-now-blog-pro-modu-3886783.html",
+      "status": "homework_created",
+      "student_url": "https://naurok.ua/test/join?gamecode=5349947"
+    },
+    {
+      "id": "9-fashion-grammar-homework-01",
+      "title": "9 клас · Wearing or to wear? — герундій та інфінітив",
+      "source_lesson": "9/fashion-grammar/index.html",
+      "json": "homework-check-fashion-grammar-01.json",
+      "markdown": "homework-check-fashion-grammar-01.md",
+      "answer_key": "homework-check-fashion-grammar-01-key.md",
+      "test_url": "https://naurok.com.ua/test/9-klas-wearing-or-to-wear-gerundiy-ta-infinitiv-3886787.html",
+      "status": "homework_created",
+      "student_url": "https://naurok.ua/test/join?gamecode=6346583"
+    }
+  ]
+}

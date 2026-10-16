@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "7/school-special-days/index.html",
+  "tests": [
+    {
+      "id": "7-clubs-and-hobbies-homework-01",
+      "title": "7 клас · Find your club — інтереси й клуби",
+      "source_lesson": "7/clubs-and-hobbies/index.html",
+      "json": "homework-check-clubs-and-hobbies-01.json",
+      "markdown": "homework-check-clubs-and-hobbies-01.md",
+      "answer_key": "homework-check-clubs-and-hobbies-01-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886786",
+      "status": "homework_created",
+      "student_url": "https://naurok.ua/test/join?gamecode=4153728"
+    }
+  ]
+}

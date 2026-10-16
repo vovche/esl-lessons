@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "title": "Round-up 3 · 6 клас · ESL round-up-3",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-round-up-3/index.html",
+  "source_title": "Round-up 3 Повторення юніту 3",
+  "assessment_lesson": "6/sb-4a/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "At five I ___ home.",
+      "points": 1,
+      "options": [
+        "walk",
+        "am walking",
+        "was walking"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "While we ___, we heard a noise.",
+      "points": 1,
+      "options": [
+        "were walking",
+        "walk",
+        "are walking"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Are there ___ tickets left?",
+      "points": 1,
+      "options": [
+        "a",
+        "any",
+        "no"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "___ knows the answer. We need help.",
+      "points": 1,
+      "options": [
+        "Anybody",
+        "Everywhere",
+        "Nobody"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "___, I lost my keys and could not get inside.",
+      "points": 1,
+      "options": [
+        "Unfortunately",
+        "Fortunately",
+        "Politely"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A boy was skateboarding on the pavement. A woman was driving a car. A cat was in the middle of the street, so the driver swerved and crashed into a tree. The car did not hit the boy, but he fell down and hurt his knee. A neighbour called an ambulance.\n\nWhy did the driver swerve?",
+      "points": 1,
+      "options": [
+        "She wanted to park.",
+        "The boy called her.",
+        "There was a cat in the street."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Two boys went on a water ride at a funfair. One boy was eating a sandwich when the boat went down a hill. Ketchup got on his shirt. The boat splashed into water, and the water washed some ketchup off. There were no roller coasters, but the boys enjoyed the other rides.\n\nWhat was the boy eating?",
+      "points": 2,
+      "options": [
+        "An apple.",
+        "A cake.",
+        "A sandwich."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A boy ran into his garden, and the door closed behind him. He had no keys or phone. Luckily, his bedroom window was open, so he climbed a ladder. A police officer saw him and thought he was a burglar. A neighbour explained that it was the boy’s house. In the end, the boy got inside safely.\n\nWhy did the boy use a ladder?",
+      "points": 2,
+      "options": [
+        "He wanted to repair the roof.",
+        "He was at school.",
+        "His window was open."
+      ],
+      "key": 2
+    }
+  ],
+  "id": "6-sb-round-up-3-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887055",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887055",
+      "builder_url": "https://naurok.com.ua/test/builder/3887055",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

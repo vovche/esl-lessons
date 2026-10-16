@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "title": "9 клас · Лексика курсу · Unit 6",
+  "grade": 9,
+  "purpose": "homework_check",
+  "source_lesson": "9/sb-wordlist/index.html",
+  "source_title": "Лексика курсу",
+  "assessment_lesson": "9/sb-wordlist/index.html",
+  "placement": {
+    "rule": "no_next_lesson",
+    "note": "Перевірка після теми: окремого наступного уроку в навігації немає; збережено в папці вихідної теми."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери переклад слова або виразу: invention.",
+      "points": 1,
+      "options": [
+        "винахід",
+        "пристрій",
+        "прототип"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери переклад слова або виразу: discovery.",
+      "points": 1,
+      "options": [
+        "заряджати",
+        "відкриття",
+        "побутовий прилад"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери переклад слова або виразу: device.",
+      "points": 1,
+      "options": [
+        "науковець",
+        "вимикати",
+        "пристрій"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери переклад слова або виразу: appliance.",
+      "points": 1,
+      "options": [
+        "побутовий прилад",
+        "прототип",
+        "винахід"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери переклад слова або виразу: scientist.",
+      "points": 1,
+      "options": [
+        "відкриття",
+        "науковець",
+        "заряджати"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери переклад слова або виразу: prototype.",
+      "points": 1,
+      "options": [
+        "вимикати",
+        "пристрій",
+        "прототип"
+      ],
+      "key": 2
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «заряджати». Слово або вираз зі словника Unit 6; початкова літера: c.",
+      "points": 2,
+      "answers": [
+        "charge"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «вимикати». Слово або вираз зі словника Unit 6; початкова літера: s.",
+      "points": 2,
+      "answers": [
+        "switch off"
+      ]
+    }
+  ],
+  "id": "9-sb-wordlist-homework-06",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887171",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887171",
+      "builder_url": "https://naurok.com.ua/test/builder/3887171",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

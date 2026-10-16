@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "title": "Food traditions · 6 клас · ESL culture-ukraine-1",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-culture-ukraine-1/index.html",
+  "source_title": "Food traditions Культура: традиції харчування",
+  "assessment_lesson": "6/sb-culture-ukraine-2/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «буряк».",
+      "points": 1,
+      "answers": [
+        "beetroot"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «гриби».",
+      "points": 1,
+      "answers": [
+        "mushrooms"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «рис».",
+      "points": 1,
+      "answers": [
+        "rice"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "There is a ___ rice in the bowl.",
+      "points": 1,
+      "options": [
+        "few",
+        "many",
+        "little"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "The soup contains ___ vegetables.",
+      "points": 1,
+      "options": [
+        "a little",
+        "many",
+        "much"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Which phrase avoids claiming everyone is the same?",
+      "points": 1,
+      "options": [
+        "Many families often…",
+        "Every person always…",
+        "Nobody ever…"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: The textbook describes food traditions in different countries. It gives borscht as an example of a soup made with beetroot and vegetables. It also describes rice in meals, tea with milk and lunch as an important meal in some families. These are examples of traditions; individual people can have different habits.\n\nWhich vegetable is mentioned in borscht?",
+      "points": 2,
+      "options": [
+        "Potato only.",
+        "Lettuce only.",
+        "Beetroot."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: The textbook describes food traditions in different countries. It gives borscht as an example of a soup made with beetroot and vegetables. It also describes rice in meals, tea with milk and lunch as an important meal in some families. These are examples of traditions; individual people can have different habits.\n\nCan people's habits differ from a tradition?",
+      "points": 2,
+      "options": [
+        "Only on holidays.",
+        "Yes.",
+        "No."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-culture-ukraine-1-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887013",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887013",
+      "builder_url": "https://naurok.com.ua/test/builder/3887013",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

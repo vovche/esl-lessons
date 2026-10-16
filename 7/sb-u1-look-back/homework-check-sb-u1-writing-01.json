@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · In and out of school: Письмо Шкільне життя і дозвілля · Письмо",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/sb-u1-writing/index.html",
+  "source_title": "In and out of school: Письмо Шкільне життя і дозвілля · Письмо",
+  "assessment_lesson": "7/sb-u1-look-back/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова bookworm.",
+      "points": 1,
+      "options": [
+        "річниця",
+        "книголюб",
+        "захоплений наукою",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова chatterbox.",
+      "points": 1,
+      "options": [
+        "річниця",
+        "закінчення навчання",
+        "балакун",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова science geek.",
+      "points": 1,
+      "options": [
+        "захоплений наукою",
+        "закінчення навчання",
+        "позакласний",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Maya usually ___ to the club on Mondays.",
+      "points": 1,
+      "options": [
+        "go",
+        "goes",
+        "is going",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Look! The pupils ___ a show.",
+      "points": 1,
+      "options": [
+        "prepare",
+        "prepared",
+        "are preparing",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "___ are you doing now?",
+      "points": 1,
+      "options": [
+        "What",
+        "Who",
+        "Whose",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nBefore writing about clubs and school celebrations, I make a short plan. My first sentence introduces the topic. I add details and examples in a logical order. Then I check my verbs, spelling and punctuation. I ask a classmate for feedback and improve my final text.\n\nWhat comes before the first draft?",
+      "points": 2,
+      "options": [
+        "a film ending",
+        "a short plan",
+        "the final score",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nBefore writing about clubs and school celebrations, I make a short plan. My first sentence introduces the topic. I add details and examples in a logical order. Then I check my verbs, spelling and punctuation. I ask a classmate for feedback and improve my final text.\n\nWhy do I ask a classmate for feedback?",
+      "points": 2,
+      "options": [
+        "to avoid writing",
+        "to copy every answer",
+        "to improve the text",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    }
+  ],
+  "id": "7-sb-u1-writing-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886879",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886879",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

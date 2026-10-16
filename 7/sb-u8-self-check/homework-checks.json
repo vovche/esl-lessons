@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "7/sb-u8-self-check/index.html",
+  "tests": [
+    {
+      "id": "7-sb-u8-look-back-homework-01",
+      "title": "7 клас · What is there to see and to do?: Повторення Подорожі й визначні місця · Повторення",
+      "source_lesson": "7/sb-u8-look-back/index.html",
+      "json": "homework-check-sb-u8-look-back-01.json",
+      "markdown": "homework-check-sb-u8-look-back-01.md",
+      "answer_key": "homework-check-sb-u8-look-back-01-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887244",
+      "status": "published_pending_homework_daily_limit"
+    },
+    {
+      "id": "7-sb-u8-self-check-homework-01",
+      "title": "7 клас · What is there to see and to do?: Самоперевірка Подорожі й визначні місця · Самоперевірка",
+      "source_lesson": "7/sb-u8-self-check/index.html",
+      "json": "homework-check-sb-u8-self-check-01.json",
+      "markdown": "homework-check-sb-u8-self-check-01.md",
+      "answer_key": "homework-check-sb-u8-self-check-01-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887491",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

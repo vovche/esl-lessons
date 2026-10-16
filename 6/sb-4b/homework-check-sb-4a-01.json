@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "title": "Around town · 6 клас · ESL 4a",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-4a/index.html",
+  "source_title": "Around town Місця в місті",
+  "assessment_lesson": "6/sb-4b/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «квітникар, квіткова крамниця».",
+      "points": 1,
+      "answers": [
+        "florist"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «аптекар, аптека».",
+      "points": 1,
+      "answers": [
+        "chemist"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «стрижка».",
+      "points": 1,
+      "answers": [
+        "haircut"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "___ I borrow this book, please?",
+      "points": 1,
+      "options": [
+        "Do",
+        "Am",
+        "May"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Could you ___ the window, please?",
+      "points": 1,
+      "options": [
+        "opens",
+        "open",
+        "to open"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "It ___ rain later, but I am not sure.",
+      "points": 1,
+      "options": [
+        "might",
+        "must to",
+        "does"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A boy wants to borrow a book from the library, but he has left his card at home. The librarian says he cannot borrow it without a card. She suggests asking a friend to borrow the book for him. At another shop, a girl wants a newspaper and a magazine. The shopkeeper checks the shelf.\n\nWhy cannot the boy borrow the book himself?",
+      "points": 2,
+      "options": [
+        "The library is closed.",
+        "He cannot read.",
+        "He has no library card with him."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A boy wants to borrow a book from the library, but he has left his card at home. The librarian says he cannot borrow it without a card. She suggests asking a friend to borrow the book for him. At another shop, a girl wants a newspaper and a magazine. The shopkeeper checks the shelf.\n\nWhere does the shopkeeper look for the magazine?",
+      "points": 2,
+      "options": [
+        "At the airport.",
+        "On a shelf.",
+        "In a car."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-4a-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886830",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886830",
+      "builder_url": "https://naurok.com.ua/test/builder/3886830",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

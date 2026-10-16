@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "title": "9 клас · Learning English — навчальні стратегії",
+  "grade": 9,
+  "purpose": "homework_check",
+  "source_lesson": "9/sb-starter/index.html",
+  "source_title": "Learning English Англійська у моєму житті",
+  "assessment_lesson": "9/sb-u1-lead-in/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською одним словом: допитливий.",
+      "points": 1,
+      "answers": [
+        "curious"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською одним словом: упевнений.",
+      "points": 1,
+      "answers": [
+        "confident"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Впиши форму play: She ___ the guitar every evening.",
+      "points": 1,
+      "answers": [
+        "plays"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Для чого в уроці радять слухати запис двічі?",
+      "points": 2,
+      "options": [
+        "Обидва рази лише рахувати слова.",
+        "Спочатку для головної думки, потім для деталей.",
+        "Лише для перевірки гучності.",
+        "Щоб уникнути будь-яких запитань."
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай: Emma plans to practise regularly, ask questions and keep a record of useful phrases. Яка дія відповідає її плану?",
+      "points": 2,
+      "options": [
+        "Виписувати корисні фрази й регулярно їх повторювати.",
+        "Ніколи не ставити запитань.",
+        "Зберігати лише список цін.",
+        "Читати лише раз на рік."
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Учень хоче поліпшити розуміння англійської. Який план поєднує конкретну дію, повторення і роботу над помилками?",
+      "points": 3,
+      "options": [
+        "Я стану ідеальним без практики.",
+        "Я послухаю один запис і ніколи до нього не повернуся.",
+        "Щодня слухатиму короткий запис: спочатку для змісту, потім для деталей; виписуватиму фрази й виправлятиму помилки.",
+        "Я лише порівнюватиму себе з іншими."
+      ],
+      "key": 2
+    }
+  ],
+  "id": "9-sb-starter-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887192",
+      "test_url": "https://naurok.com.ua/test/9-klas-learning-english-navchalni-strategi-3887192.html",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

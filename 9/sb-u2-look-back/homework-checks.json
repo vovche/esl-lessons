@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "9/sb-u2-look-back/index.html",
+  "tests": [
+    {
+      "id": "9-sb-u2-writing-homework-01",
+      "title": "9 клас · Fashion All the Way: Письмо",
+      "source_lesson": "9/sb-u2-writing/index.html",
+      "json": "homework-check-sb-u2-writing-01.json",
+      "markdown": "homework-check-sb-u2-writing-01.md",
+      "answer_key": "homework-check-sb-u2-writing-01-key.md",
+      "test_url": "https://naurok.com.ua/test/9-klas-fashion-all-the-way-pismo-3887034.html",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

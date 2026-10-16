@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · In and out of school: Починаємо юніт Шкільне життя і дозвілля · Починаємо юніт",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/sb-u1-lead-in/index.html",
+  "source_title": "In and out of school: Починаємо юніт Шкільне життя і дозвілля · Починаємо юніт",
+  "assessment_lesson": "7/sb-u1-blog/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова bookworm.",
+      "points": 1,
+      "options": [
+        "річниця",
+        "книголюб",
+        "захоплений наукою",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова chatterbox.",
+      "points": 1,
+      "options": [
+        "річниця",
+        "закінчення навчання",
+        "балакун",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова science geek.",
+      "points": 1,
+      "options": [
+        "захоплений наукою",
+        "закінчення навчання",
+        "позакласний",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Maya usually ___ to the club on Mondays.",
+      "points": 1,
+      "options": [
+        "go",
+        "goes",
+        "is going",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Look! The pupils ___ a show.",
+      "points": 1,
+      "options": [
+        "prepare",
+        "prepared",
+        "are preparing",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "___ are you doing now?",
+      "points": 1,
+      "options": [
+        "What",
+        "Who",
+        "Whose",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nThis unit is about clubs and school celebrations. Before starting, I write down what I already know. I choose two useful words and one question I want to answer. At the end of the unit, I return to my question and check what I have learned.\n\nWhat do I write before starting?",
+      "points": 2,
+      "options": [
+        "a shopping receipt",
+        "what I already know",
+        "only my final score",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nThis unit is about clubs and school celebrations. Before starting, I write down what I already know. I choose two useful words and one question I want to answer. At the end of the unit, I return to my question and check what I have learned.\n\nWhen do I return to my question?",
+      "points": 2,
+      "options": [
+        "never",
+        "only before starting",
+        "at the end of the unit",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    }
+  ],
+  "id": "7-sb-u1-lead-in-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886839",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886839",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

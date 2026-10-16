@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "title": "Round-up 2 · 6 клас · ESL round-up-2",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-round-up-2/index.html",
+  "source_title": "Round-up 2 Повторення юніту 2",
+  "assessment_lesson": "6/sb-3a/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Last summer we ___ on a cruise.",
+      "points": 1,
+      "options": [
+        "go",
+        "going",
+        "went"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "She is a careful driver. She drives ___.",
+      "points": 1,
+      "options": [
+        "carefully",
+        "careful",
+        "care"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "These tickets are for ___.",
+      "points": 1,
+      "options": [
+        "our",
+        "us",
+        "we"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "People ___ travel on slow ships.",
+      "points": 1,
+      "options": [
+        "use to",
+        "are used",
+        "used to"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "We stayed inside ___ it was raining.",
+      "points": 1,
+      "options": [
+        "because",
+        "so",
+        "but"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A girl returned from a holiday in Egypt . She visited famous sights and went on a cruise. She also rode a camel. She was scared because the camel was tall, but she did not fall off. She bought souvenirs for her friends. She left her camera at home and could not show her photos.\n\nWhy was the girl scared?",
+      "points": 1,
+      "options": [
+        "She lost her passport.",
+        "The museum was closed.",
+        "The camel was tall."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Two friends are preparing for a trip. They check their passports and pack one large suitcase and a small bag. They check the weather and decide to take jumpers. They can check in online and download their boarding passes. Their parents will drive them to the airport.\n\nWhy do the friends take jumpers?",
+      "points": 2,
+      "options": [
+        "They lost their bags.",
+        "They are buying souvenirs.",
+        "They checked the weather."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Last week our class went by coach to a science museum. The journey took two hours because of the traffic. We saw inventions and fossils and watched a film. My favourite place was the experiment room. We could do experiments there. We were tired at the end, but we had a fantastic day.\n\nHow did the class travel?",
+      "points": 2,
+      "options": [
+        "On foot.",
+        "By ferry.",
+        "By coach."
+      ],
+      "key": 2
+    }
+  ],
+  "id": "6-sb-round-up-2-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887047",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887047",
+      "builder_url": "https://naurok.com.ua/test/builder/3887047",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

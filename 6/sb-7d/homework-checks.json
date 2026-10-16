@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "6/sb-7d/index.html",
+  "tests": [
+    {
+      "id": "6-sb-7c-homework-01",
+      "title": "Messages · 6 клас · ESL 7c",
+      "source_lesson": "6/sb-7c/index.html",
+      "json": "homework-check-sb-7c-01.json",
+      "markdown": "homework-check-sb-7c-01.md",
+      "answer_key": "homework-check-sb-7c-01-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886925",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

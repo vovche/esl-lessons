@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "title": "9 клас · Fashion then and now — блог про моду",
+  "grade": 9,
+  "purpose": "homework_check",
+  "source_lesson": "9/fashion-blog/index.html",
+  "source_title": "Fashion then and now Порівняй стилі й напиши допис",
+  "assessment_lesson": "9/fashion-blog/index.html",
+  "placement": {
+    "rule": "no_next_lesson",
+    "note": "Перевірка після теми: окремого наступного уроку в навігації немає; збережено в папці вихідної теми."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Як англійською «широкі джинси»? Напиши два слова.",
+      "points": 1,
+      "answers": [
+        "baggy jeans"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Доповни вступ одним словом: In my ___, comfort matters.",
+      "points": 1,
+      "answers": [
+        "opinion"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Доповни маркер прикладу одним словом: For ___, I choose loose trousers for long walks.",
+      "points": 1,
+      "answers": [
+        "example"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Доповни висновок трьома словами: ___, I choose clothes that help me feel comfortable. Фраза означає «Загалом».",
+      "points": 2,
+      "answers": [
+        "All in all"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Яке речення обережно порівнює минулу і сучасну моду, уникаючи узагальнення про всіх?",
+      "points": 2,
+      "options": [
+        "Everyone wore bright clothes in the 1980s.",
+        "Nobody wears old styles today.",
+        "Some people wore leg warmers in the 1980s, and some wear them again today.",
+        "Everyone has always worn the same style."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери допис, у якому є позиція, конкретний приклад, причина та висновок.",
+      "points": 3,
+      "options": [
+        "I like clothes. Clothes are clothes. That is all.",
+        "In my opinion, comfort matters. For example, I choose trainers because I walk a lot. All in all, comfortable clothes suit my life.",
+        "Everyone must buy the same clothes. No reasons are needed.",
+        "My bag is blue. Tomorrow is Monday. The shop opens at nine."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "9-fashion-blog-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886783",
+      "test_url": "https://naurok.com.ua/test/9-klas-fashion-then-and-now-blog-pro-modu-3886783.html",
+      "status": "homework_created",
+      "verified": true,
+      "homework_id": "86106566",
+      "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106566",
+      "student_url": "https://naurok.ua/test/join?gamecode=5349947",
+      "code": "5349947",
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

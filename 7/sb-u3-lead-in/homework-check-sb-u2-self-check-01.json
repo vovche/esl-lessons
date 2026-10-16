@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · Do your chores: Самоперевірка Домашні справи · Самоперевірка",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/sb-u2-self-check/index.html",
+  "source_title": "Do your chores: Самоперевірка Домашні справи · Самоперевірка",
+  "assessment_lesson": "7/sb-u3-lead-in/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова sweep the floor.",
+      "points": 1,
+      "options": [
+        "праска",
+        "підмітати підлогу",
+        "пилосос",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова wash up.",
+      "points": 1,
+      "options": [
+        "праска",
+        "домашній обов’язок",
+        "мити посуд",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова vacuum cleaner.",
+      "points": 1,
+      "options": [
+        "пилосос",
+        "домашній обов’язок",
+        "посудомийна машина",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "What ___ you clean yesterday?",
+      "points": 1,
+      "options": [
+        "do",
+        "did",
+        "were",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Did you ___ the floor?",
+      "points": 1,
+      "options": [
+        "swept",
+        "sweeping",
+        "sweep",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "At six Dad ___ washing up.",
+      "points": 1,
+      "options": [
+        "was",
+        "were",
+        "did",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nI can now talk about household duties and past activities. I test myself without looking at the examples first. Then I compare my answers with the models and correct mistakes. I choose one speaking task and one written task to show what I can do. My next step is to practise the skill that still feels difficult.\n\nWhat do I do before checking the models?",
+      "points": 2,
+      "options": [
+        "skip all tasks",
+        "test myself",
+        "copy the answers",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nI can now talk about household duties and past activities. I test myself without looking at the examples first. Then I compare my answers with the models and correct mistakes. I choose one speaking task and one written task to show what I can do. My next step is to practise the skill that still feels difficult.\n\nWhat do I practise next?",
+      "points": 2,
+      "options": [
+        "only my favourite word",
+        "nothing",
+        "the skill that feels difficult",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    }
+  ],
+  "id": "7-sb-u2-self-check-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886937",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886937",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "title": "9 клас · What kind of person? — риси характеру",
+  "grade": 9,
+  "purpose": "homework_check",
+  "source_lesson": "9/personality-types/index.html",
+  "source_title": "What kind of person? Типи особистості й риси характеру",
+  "assessment_lesson": "9/personality-growth/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською одним словом: допитливий.",
+      "points": 1,
+      "answers": [
+        "curious"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською одним словом: готовий пробачати.",
+      "points": 1,
+      "answers": [
+        "forgiving"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Доповни одним словом: A ___ analyses facts before making a decision. Українською: мислитель.",
+      "points": 1,
+      "answers": [
+        "thinker"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Яке речення наводить конкретний доказ риси характеру?",
+      "points": 2,
+      "options": [
+        "Oleh is a type.",
+        "Oleh is caring: he helps younger pupils.",
+        "Oleh is just a person.",
+        "Oleh is always everything."
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Який опис обережний і допускає зміну поведінки залежно від ситуації?",
+      "points": 2,
+      "options": [
+        "She never listens to anyone.",
+        "She is always just a chatterbox.",
+        "She is sometimes a chatterbox with friends.",
+        "She can never be quiet."
+      ],
+      "key": 2
+    },
+    {
+      "type": "word",
+      "prompt": "Склади речення з усіх слів: usually / He / cheerful / is / but / quiet / can / be / today / he. Почни з He.",
+      "points": 3,
+      "answers": [
+        "He is usually cheerful, but he can be quiet today.",
+        "He is usually cheerful, but he can be quiet today"
+      ]
+    }
+  ],
+  "id": "9-personality-types-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887165",
+      "test_url": "https://naurok.com.ua/test/9-klas-what-kind-of-person-risi-harakteru-3887165.html",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · Curtain up!: Письмо Кіно і театр · Письмо",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/sb-u7-writing/index.html",
+  "source_title": "Curtain up!: Письмо Кіно і театр · Письмо",
+  "assessment_lesson": "7/sb-u7-look-back/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова performance.",
+      "points": 1,
+      "options": [
+        "комедія",
+        "вистава",
+        "глядачі",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова stage.",
+      "points": 1,
+      "options": [
+        "комедія",
+        "трилер",
+        "сцена",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова audience.",
+      "points": 1,
+      "options": [
+        "глядачі",
+        "трилер",
+        "рецензія",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "The film is ___ interesting.",
+      "points": 1,
+      "options": [
+        "many",
+        "really",
+        "enoughly",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "The acting is good ___.",
+      "points": 1,
+      "options": [
+        "too",
+        "very",
+        "enough",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "The plot is less original ___ the previous one.",
+      "points": 1,
+      "options": [
+        "than",
+        "as",
+        "from",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nBefore writing about films, theatre and personal opinions, I make a short plan. My first sentence introduces the topic. I add details and examples in a logical order. Then I check my verbs, spelling and punctuation. I ask a classmate for feedback and improve my final text.\n\nWhat comes before the first draft?",
+      "points": 2,
+      "options": [
+        "a film ending",
+        "a short plan",
+        "the final score",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nBefore writing about films, theatre and personal opinions, I make a short plan. My first sentence introduces the topic. I add details and examples in a logical order. Then I check my verbs, spelling and punctuation. I ask a classmate for feedback and improve my final text.\n\nWhy do I ask a classmate for feedback?",
+      "points": 2,
+      "options": [
+        "to avoid writing",
+        "to copy every answer",
+        "to improve the text",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    }
+  ],
+  "id": "7-sb-u7-writing-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887228",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887228",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

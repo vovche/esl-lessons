@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "title": "Round-up 8 · 6 клас · ESL round-up-8",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-round-up-8/index.html",
+  "source_title": "Round-up 8 Повторення юніту 8",
+  "assessment_lesson": "6/sb-culture-ukraine-1/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "The girl ___ won the prize is happy.",
+      "points": 1,
+      "options": [
+        "which",
+        "where",
+        "who"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "I am nervous. — ___ am I.",
+      "points": 1,
+      "options": [
+        "So",
+        "Neither",
+        "Too"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "The magazine ___ printed every month.",
+      "points": 1,
+      "options": [
+        "does",
+        "is",
+        "are"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "The film ___ chosen last year.",
+      "points": 1,
+      "options": [
+        "is",
+        "are",
+        "was"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "A film's story is its ___.",
+      "points": 1,
+      "options": [
+        "plot",
+        "soundtrack",
+        "receipt"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A local newspaper reports on two teenagers who won prizes. One girl won a trip at a supermarket. She did not expect to win and wants to share the trip with a friend. Another teenager entered a competition and plans to enter more. Both stories explain who won, what they won and how they felt.\n\nWhere did the girl win a trip?",
+      "points": 1,
+      "options": [
+        "At an airport.",
+        "At a gym.",
+        "At a supermarket."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: First, writers and editors meet and discuss topics. Reporters write articles and interview people. Graphic designers make the layout. The magazine is checked before it is sent to the printers. Many copies are printed, packed and delivered to shops. Readers can then buy the new issue.\n\nWho makes the layout?",
+      "points": 2,
+      "options": [
+        "Drivers.",
+        "Spectators.",
+        "Graphic designers."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: In this adventure film, a museum becomes an exciting place at night. Exhibits come to life, and the main character tries to help his friends. The review praises the acting and special effects but says the soundtrack is not very special. The writer recommends the film to people who enjoy funny adventures.\n\nWhat happens at night in the film?",
+      "points": 2,
+      "options": [
+        "A supermarket closes forever.",
+        "A team wins a match.",
+        "Museum exhibits come to life."
+      ],
+      "key": 2
+    }
+  ],
+  "id": "6-sb-round-up-8-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887089",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887089",
+      "builder_url": "https://naurok.com.ua/test/builder/3887089",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

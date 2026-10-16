@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "6/sb-song-2/index.html",
+  "tests": [
+    {
+      "id": "6-sb-4e-homework-01",
+      "title": "Where I live · 6 клас · ESL 4e",
+      "source_lesson": "6/sb-4e/index.html",
+      "json": "homework-check-sb-4e-01.json",
+      "markdown": "homework-check-sb-4e-01.md",
+      "answer_key": "homework-check-sb-4e-01-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886855",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "title": "Healthy food · 6 клас · ESL 6a",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-6a/index.html",
+  "source_title": "Healthy food Їжа та кількість",
+  "assessment_lesson": "6/sb-6b/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «білок».",
+      "points": 1,
+      "answers": [
+        "protein"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «кальцій».",
+      "points": 1,
+      "answers": [
+        "calcium"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «вітаміни».",
+      "points": 1,
+      "answers": [
+        "vitamins"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "How ___ apples have we got?",
+      "points": 1,
+      "options": [
+        "much",
+        "little",
+        "many"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "There is a ___ milk left.",
+      "points": 1,
+      "options": [
+        "many",
+        "little",
+        "few"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "We have a ___ carrots.",
+      "points": 1,
+      "options": [
+        "few",
+        "little",
+        "much"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A balanced diet can include different kinds of food. Fruit and vegetables provide vitamins. Dairy products contain protein and calcium. Some fast food contains a lot of salt, sugar or fat. A student compares two meals and notices that one has more vegetables. The student chooses that meal and drinks water.\n\nWhat do dairy products contain in the text?",
+      "points": 2,
+      "options": [
+        "Only sugar.",
+        "No protein.",
+        "Protein and calcium."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A balanced diet can include different kinds of food. Fruit and vegetables provide vitamins. Dairy products contain protein and calcium. Some fast food contains a lot of salt, sugar or fat. A student compares two meals and notices that one has more vegetables. The student chooses that meal and drinks water.\n\nWhat does the student drink?",
+      "points": 2,
+      "options": [
+        "Coffee.",
+        "Water.",
+        "Lemonade."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-6a-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886893",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886893",
+      "builder_url": "https://naurok.com.ua/test/builder/3886893",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "title": "Recycling · 6 клас · ESL 5c",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-5c/index.html",
+  "source_title": "Recycling Обов’язки та заборони",
+  "assessment_lesson": "6/sb-5d/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «переробляти».",
+      "points": 1,
+      "answers": [
+        "recycle"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «використовувати повторно».",
+      "points": 1,
+      "answers": [
+        "reuse"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «сміття».",
+      "points": 1,
+      "answers": [
+        "rubbish"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "A rule forbids dropping rubbish. You ___ drop it.",
+      "points": 1,
+      "options": [
+        "do not have to",
+        "may",
+        "must not"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "It is not necessary. You ___ do it.",
+      "points": 1,
+      "options": [
+        "cannot",
+        "do not have to",
+        "must not"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Yesterday we ___ clean the room.",
+      "points": 1,
+      "options": [
+        "had to",
+        "must to",
+        "have to"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A boy wants to recycle a bottle. His friend explains that the container is for glass, but his bottle is plastic. She tells him to rinse it and check the correct bin. She also gives him a leaflet about recycling. They agree that keeping the environment clean is something everyone can help with.\n\nWhat is the boy's bottle made of?",
+      "points": 2,
+      "options": [
+        "Glass.",
+        "Metal.",
+        "Plastic."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A boy wants to recycle a bottle. His friend explains that the container is for glass, but his bottle is plastic. She tells him to rinse it and check the correct bin. She also gives him a leaflet about recycling. They agree that keeping the environment clean is something everyone can help with.\n\nWhat does the friend give him?",
+      "points": 2,
+      "options": [
+        "A passport.",
+        "A leaflet.",
+        "A ticket."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-5c-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886873",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886873",
+      "builder_url": "https://naurok.com.ua/test/builder/3886873",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · Starter — початок навчального року",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/sb-starter/index.html",
+  "source_title": "Back to school Повертаємося до навчання",
+  "assessment_lesson": "7/sb-u1-lead-in/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова bookworm.",
+      "points": 1,
+      "options": [
+        "захоплений наукою",
+        "річниця",
+        "книголюб",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова chatterbox.",
+      "points": 1,
+      "options": [
+        "балакун",
+        "річниця",
+        "закінчення навчання",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова science geek.",
+      "points": 1,
+      "options": [
+        "позакласний",
+        "захоплений наукою",
+        "закінчення навчання",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Maya usually ___ to the club on Mondays.",
+      "points": 1,
+      "options": [
+        "is going",
+        "go",
+        "goes",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Look! The pupils ___ a show.",
+      "points": 1,
+      "options": [
+        "are preparing",
+        "prepare",
+        "prepared",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "___ are you doing now?",
+      "points": 1,
+      "options": [
+        "Whose",
+        "What",
+        "Who",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nEmma is starting a new school year. She wants to join a study group and practise English regularly. Bruce feels worried, so they make a simple plan: ask questions, keep notes and help each other.\n\nWhat does Emma want to join?",
+      "points": 2,
+      "options": [
+        "a cooking show",
+        "a football final",
+        "a study group",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nEmma is starting a new school year. She wants to join a study group and practise English regularly. Bruce feels worried, so they make a simple plan: ask questions, keep notes and help each other.\n\nWhy do they make a plan?",
+      "points": 2,
+      "options": [
+        "to learn regularly and support each other",
+        "to avoid every lesson",
+        "to sell tickets",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    }
+  ],
+  "id": "7-sb-starter-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886821",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886821",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

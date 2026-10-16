@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "title": "9 клас · Fashion All the Way: Слухання",
+  "grade": 9,
+  "purpose": "homework_check",
+  "source_lesson": "9/sb-u2-listening/index.html",
+  "source_title": "Fashion All the Way: Слухання Мода і стиль: Слухання",
+  "assessment_lesson": "9/sb-u2-vocabulary-2/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова outfit.",
+      "points": 1,
+      "options": [
+        "аксесуар",
+        "зручний",
+        "вбрання"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова footwear.",
+      "points": 1,
+      "options": [
+        "стильний",
+        "взуття",
+        "зручний"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова accessory.",
+      "points": 1,
+      "options": [
+        "аксесуар",
+        "стильний",
+        "однотонний"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "She is interested in ... accessories.",
+      "points": 2,
+      "options": [
+        "make",
+        "making",
+        "to make"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "... outfits takes time.",
+      "points": 2,
+      "options": [
+        "Choosing",
+        "To choosing",
+        "Choose"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст. For her fashion blog, Emma describes how her style has changed. She used to wear only dark clothes, but now she enjoys choosing brighter colours. She avoids buying items she will wear just once. She plans to repair a favourite jacket instead of throwing it away. Her conclusion is that fashion can be creative and practical.\n\nWhat will she do with the jacket?",
+      "points": 3,
+      "options": [
+        "wear it once and discard it",
+        "repair it",
+        "sell it immediately"
+      ],
+      "key": 1
+    }
+  ],
+  "id": "9-sb-u2-listening-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886907",
+      "test_url": "https://naurok.com.ua/test/9-klas-fashion-all-the-way-sluhannya-3886907.html",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

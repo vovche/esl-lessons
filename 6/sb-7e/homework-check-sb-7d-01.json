@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "title": "Going shopping · 6 клас · ESL 7d",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-7d/index.html",
+  "source_title": "Going shopping Розмір, ціна та вибір",
+  "assessment_lesson": "6/sb-7e/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «чек».",
+      "points": 1,
+      "answers": [
+        "receipt"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «знижка».",
+      "points": 1,
+      "answers": [
+        "discount"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «готівка».",
+      "points": 1,
+      "answers": [
+        "cash"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "These shoes are ___ small for me.",
+      "points": 1,
+      "options": [
+        "enough",
+        "many",
+        "too"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "This jacket is not warm ___.",
+      "points": 1,
+      "options": [
+        "many",
+        "enough",
+        "too"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "I like these shoes, but I prefer the white ___.",
+      "points": 1,
+      "options": [
+        "ones",
+        "one",
+        "it"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A teenager wants to buy a dress. She likes a blue one, but the first size is too big. The shop assistant brings a smaller one. There is a discount, and she tries the dress on before buying it. Another customer tries on shoes and asks for a larger size. They both keep their receipts.\n\nWhat is wrong with the first dress?",
+      "points": 2,
+      "options": [
+        "It is too warm.",
+        "It is too dark.",
+        "It is too big."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A teenager wants to buy a dress. She likes a blue one, but the first size is too big. The shop assistant brings a smaller one. There is a discount, and she tries the dress on before buying it. Another customer tries on shoes and asks for a larger size. They both keep their receipts.\n\nWhat do the customers keep?",
+      "points": 2,
+      "options": [
+        "Their library cards.",
+        "Their receipts.",
+        "Their boarding passes."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-7d-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886934",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886934",
+      "builder_url": "https://naurok.com.ua/test/builder/3886934",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

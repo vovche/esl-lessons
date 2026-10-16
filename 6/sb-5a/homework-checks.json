@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "6/sb-5a/index.html",
+  "tests": [
+    {
+      "id": "6-sb-round-up-4-homework-01",
+      "title": "Round-up 4 · 6 клас · ESL round-up-4",
+      "source_lesson": "6/sb-round-up-4/index.html",
+      "json": "homework-check-sb-round-up-4-01.json",
+      "markdown": "homework-check-sb-round-up-4-01.md",
+      "answer_key": "homework-check-sb-round-up-4-01-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887062",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

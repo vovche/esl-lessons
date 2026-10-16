@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · Do your chores: Починаємо юніт Домашні справи · Починаємо юніт",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/sb-u2-lead-in/index.html",
+  "source_title": "Do your chores: Починаємо юніт Домашні справи · Починаємо юніт",
+  "assessment_lesson": "7/sb-u2-blog/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова sweep the floor.",
+      "points": 1,
+      "options": [
+        "підмітати підлогу",
+        "пилосос",
+        "праска",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова wash up.",
+      "points": 1,
+      "options": [
+        "домашній обов’язок",
+        "мити посуд",
+        "праска",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова vacuum cleaner.",
+      "points": 1,
+      "options": [
+        "домашній обов’язок",
+        "посудомийна машина",
+        "пилосос",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "What ___ you clean yesterday?",
+      "points": 1,
+      "options": [
+        "did",
+        "were",
+        "do",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Did you ___ the floor?",
+      "points": 1,
+      "options": [
+        "sweeping",
+        "sweep",
+        "swept",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "At six Dad ___ washing up.",
+      "points": 1,
+      "options": [
+        "were",
+        "did",
+        "was",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nThis unit is about household duties and past activities. Before starting, I write down what I already know. I choose two useful words and one question I want to answer. At the end of the unit, I return to my question and check what I have learned.\n\nWhat do I write before starting?",
+      "points": 2,
+      "options": [
+        "what I already know",
+        "only my final score",
+        "a shopping receipt",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nThis unit is about household duties and past activities. Before starting, I write down what I already know. I choose two useful words and one question I want to answer. At the end of the unit, I return to my question and check what I have learned.\n\nWhen do I return to my question?",
+      "points": 2,
+      "options": [
+        "only before starting",
+        "at the end of the unit",
+        "never",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    }
+  ],
+  "id": "7-sb-u2-lead-in-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886911",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886911",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "9/gerund/index.html",
+  "tests": [
+    {
+      "id": "9-gerund-homework-01",
+      "title": "9 клас · Gerund — форма, прийменники й зміст",
+      "source_lesson": "9/gerund/index.html",
+      "json": "homework-check-gerund-01.json",
+      "markdown": "homework-check-gerund-01.md",
+      "answer_key": "homework-check-gerund-01-key.md",
+      "test_url": "https://naurok.com.ua/test/9-klas-gerund-forma-priymenniki-y-zmist-3887177.html",
+      "status": "published_pending_homework_daily_limit"
+    },
+    {
+      "id": "9-gerund-homework-02",
+      "title": "9 клас · Gerund — значення stop, remember, try, regret",
+      "source_lesson": "9/gerund/index.html",
+      "json": "homework-check-gerund-02.json",
+      "markdown": "homework-check-gerund-02.md",
+      "answer_key": "homework-check-gerund-02-key.md",
+      "test_url": "https://naurok.com.ua/test/9-klas-gerund-znachennya-stop-remember-try-regret-3887204.html",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

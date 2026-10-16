@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · Граматика курсу — Units 1–8",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/sb-grammar/index.html",
+  "source_title": "Граматика курсу",
+  "assessment_lesson": "7/sb-grammar/index.html",
+  "placement": {
+    "rule": "no_next_lesson",
+    "note": "Перевірка після теми: окремого наступного уроку в навігації немає; збережено в папці вихідної теми."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Доповни: What ___ Maya doing now?",
+      "points": 1,
+      "answers": [
+        "is"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Доповни: What ___ you do yesterday?",
+      "points": 1,
+      "answers": [
+        "did"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Доповни: ___ Eva washed the tomatoes?",
+      "points": 1,
+      "answers": [
+        "Has"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Доповни: Are cards ___ in winter? (send; пасивний стан)",
+      "points": 1,
+      "answers": [
+        "sent"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Доповни: Was the report ___ yesterday? (write; пасивний стан)",
+      "points": 1,
+      "answers": [
+        "written"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Доповни: If Alex misses a lesson, he ___ for the notes. (ask)",
+      "points": 1,
+      "answers": [
+        "asks"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Склади речення з усіх частин: The acting / is / good enough.",
+      "points": 2,
+      "answers": [
+        "The acting is good enough."
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Склади повне запитання з усіх частин: Do / you / need / another ticket?",
+      "points": 2,
+      "answers": [
+        "Do you need another ticket?"
+      ]
+    }
+  ],
+  "id": "7-sb-grammar-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887116",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887116",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": "annual",
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": "annual",
+    "timezone": "Europe/Kyiv"
+  }
+}

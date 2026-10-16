@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "7/sb-u3-grammar/index.html",
+  "tests": [
+    {
+      "id": "7-sb-u3-reading-homework-01",
+      "title": "7 клас · Are you ready to cook?: Читання Приготування їжі · Читання",
+      "source_lesson": "7/sb-u3-reading/index.html",
+      "json": "homework-check-sb-u3-reading-01.json",
+      "markdown": "homework-check-sb-u3-reading-01.md",
+      "answer_key": "homework-check-sb-u3-reading-01-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886996",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

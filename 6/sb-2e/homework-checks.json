@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "6/sb-2e/index.html",
+  "tests": [
+    {
+      "id": "6-sb-2d-homework-01",
+      "title": "Travelling then and now · 6 клас · ESL 2d",
+      "source_lesson": "6/sb-2d/index.html",
+      "json": "homework-check-sb-2d-01.json",
+      "markdown": "homework-check-sb-2d-01.md",
+      "answer_key": "homework-check-sb-2d-01-key.md",
+      "test_url": "https://naurok.com.ua/test/travelling-then-and-now-6-klas-esl-2d-3886811.html",
+      "status": "homework_created",
+      "student_url": "https://naurok.ua/test/join?gamecode=1491457"
+    }
+  ]
+}

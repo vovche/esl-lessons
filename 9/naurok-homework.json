@@ -1,0 +1,1975 @@
+{
+  "version": 1,
+  "grade": 9,
+  "lessons": {
+    "clothes-and-accessories": {
+      "lesson_path": "9/clothes-and-accessories/index.html",
+      "tests": [
+        {
+          "test_id": "3886775",
+          "test_url": "https://naurok.com.ua/test/9-klas-build-an-outfit-odyag-i-dieslova-3886775.html",
+          "title": "9 клас · Build an outfit — одяг і дієслова",
+          "points": 10,
+          "status": "homework_created",
+          "verified": true,
+          "homework_id": "86106553",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106553",
+          "semester": 1,
+          "deadline": "2027-01-03T23:00",
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "code": "4326418",
+          "student_url": "https://naurok.ua/test/join?gamecode=4326418",
+          "plan_path": "9/fashion-opinions/homework-check-clothes-and-accessories-01.json",
+          "verified_deadline_ui": "2027-01-03T23:00",
+          "verified_test_points_ui": 10,
+          "content_path": "9/fashion-opinions/homework-check-clothes-and-accessories-01.json",
+          "assessment_lesson_path": "9/fashion-opinions/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Build an outfit Одяг, взуття й аксесуари",
+          "content_id": "9-clothes-and-accessories-homework-01"
+        }
+      ]
+    },
+    "fashion-blog": {
+      "lesson_path": "9/fashion-blog/index.html",
+      "tests": [
+        {
+          "test_id": "3886783",
+          "title": "9 клас · Fashion then and now — блог про моду",
+          "points": 10,
+          "status": "homework_created",
+          "test_url": "https://naurok.com.ua/test/9-klas-fashion-then-and-now-blog-pro-modu-3886783.html",
+          "verified": true,
+          "homework_id": "86106566",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106566",
+          "semester": 1,
+          "deadline": "2027-01-03T23:00",
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "code": "5349947",
+          "student_url": "https://naurok.ua/test/join?gamecode=5349947",
+          "plan_path": "9/fashion-blog/homework-check-fashion-blog-01.json",
+          "verified_deadline_ui": "2027-01-03T23:00",
+          "verified_test_points_ui": 10,
+          "content_path": "9/fashion-blog/homework-check-fashion-blog-01.json",
+          "assessment_lesson_path": "9/fashion-blog/index.html",
+          "placement_rule": "no_next_lesson",
+          "source_lesson_title": "Fashion then and now Порівняй стилі й напиши допис",
+          "content_id": "9-fashion-blog-homework-01"
+        }
+      ]
+    },
+    "fashion-grammar": {
+      "lesson_path": "9/fashion-grammar/index.html",
+      "tests": [
+        {
+          "test_id": "3886787",
+          "title": "9 клас · Wearing or to wear? — герундій та інфінітив",
+          "points": 10,
+          "status": "homework_created",
+          "test_url": "https://naurok.com.ua/test/9-klas-wearing-or-to-wear-gerundiy-ta-infinitiv-3886787.html",
+          "homework_id": "86106536",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106536",
+          "semester": 1,
+          "deadline": "2027-01-03T23:00",
+          "code": "6346583",
+          "student_url": "https://naurok.ua/test/join?gamecode=6346583",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/fashion-blog/homework-check-fashion-grammar-01.json",
+          "verified_deadline_ui": "2027-01-03T23:00",
+          "verified_test_points_ui": 10,
+          "content_path": "9/fashion-blog/homework-check-fashion-grammar-01.json",
+          "assessment_lesson_path": "9/fashion-blog/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Wearing or to wear? Форма -ing чи to-інфінітив",
+          "content_id": "9-fashion-grammar-homework-01"
+        }
+      ]
+    },
+    "fashion-opinions": {
+      "lesson_path": "9/fashion-opinions/index.html",
+      "tests": [
+        {
+          "test_id": "3886801",
+          "title": "9 клас · Fashion and me — думки та одяг",
+          "points": 10,
+          "status": "homework_created",
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/styles-and-judgement/homework-check-fashion-opinions-01.json",
+          "verified": true,
+          "test_url": "https://naurok.com.ua/test/9-klas-fashion-and-me-dumki-ta-odyag-3886801.html",
+          "homework_id": "86106607",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106607",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "code": "6326995",
+          "student_url": "https://naurok.ua/test/join?gamecode=6326995",
+          "verified_deadline_ui": "2027-01-03T23:00",
+          "verified_test_points_ui": 10,
+          "content_path": "9/styles-and-judgement/homework-check-fashion-opinions-01.json",
+          "assessment_lesson_path": "9/styles-and-judgement/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Fashion and me Читай і висловлюй думку про моду",
+          "content_id": "9-fashion-opinions-homework-01"
+        }
+      ]
+    },
+    "my-autobiography": {
+      "lesson_path": "9/my-autobiography/index.html",
+      "tests": [
+        {
+          "test_id": "3886807",
+          "title": "9 клас · My story so far — автобіографія",
+          "points": 10,
+          "status": "homework_created",
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/special-occasion-outfits/homework-check-my-autobiography-01.json",
+          "verified": true,
+          "test_url": "https://naurok.com.ua/test/9-klas-my-story-so-far-avtobiografiya-3886807.html",
+          "homework_id": "86106628",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106628",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "code": "6237250",
+          "student_url": "https://naurok.ua/test/join?gamecode=6237250",
+          "verified_deadline_ui": "2027-01-03T23:00",
+          "verified_test_points_ui": 10,
+          "content_path": "9/special-occasion-outfits/homework-check-my-autobiography-01.json",
+          "assessment_lesson_path": "9/special-occasion-outfits/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "My story so far Напиши коротку автобіографію",
+          "content_id": "9-my-autobiography-homework-01"
+        }
+      ]
+    },
+    "online-friends": {
+      "lesson_path": "9/online-friends/index.html",
+      "tests": [
+        {
+          "test_id": "3886812",
+          "title": "9 клас · Meet the people — профілі й інтереси",
+          "points": 10,
+          "status": "homework_created",
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/personality-types/homework-check-online-friends-01.json",
+          "verified": true,
+          "test_url": "https://naurok.com.ua/test/9-klas-meet-the-people-profili-y-interesi-3886812.html",
+          "homework_id": "86106649",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106649",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "code": "7959737",
+          "student_url": "https://naurok.ua/test/join?gamecode=7959737",
+          "verified_deadline_ui": "2027-01-03T23:00",
+          "verified_test_points_ui": 10,
+          "content_path": "9/personality-types/homework-check-online-friends-01.json",
+          "assessment_lesson_path": "9/personality-types/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Meet the people Знайомство через профілі",
+          "content_id": "9-online-friends-homework-01"
+        }
+      ]
+    },
+    "personal-details": {
+      "lesson_path": "9/personal-details/index.html",
+      "tests": [
+        {
+          "test_id": "3886818",
+          "title": "9 клас · Ask for details — анкета та запитання",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/my-autobiography/homework-check-personal-details-01.json",
+          "verified": true,
+          "test_url": "https://naurok.com.ua/test/9-klas-ask-for-details-anketa-ta-zapitannya-3886818.html",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/my-autobiography/homework-check-personal-details-01.json",
+          "assessment_lesson_path": "9/my-autobiography/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Ask for details Особисті дані й запитання",
+          "content_id": "9-personal-details-homework-01"
+        }
+      ]
+    },
+    "sb-u1-blog": {
+      "lesson_path": "9/sb-u1-blog/index.html",
+      "tests": [
+        {
+          "test_id": "3886832",
+          "title": "9 клас · All About Me: Блог і думки однолітків",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u1-vocabulary/homework-check-sb-u1-blog-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-all-about-me-blog-i-dumki-odnolitkiv-3886832.html",
+          "verified": true,
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u1-vocabulary/homework-check-sb-u1-blog-01.json",
+          "assessment_lesson_path": "9/sb-u1-vocabulary/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "All About Me: Блог і думки однолітків Усе про мене: Блог і думки однолітків",
+          "content_id": "9-sb-u1-blog-homework-01"
+        }
+      ]
+    },
+    "sb-u1-grammar": {
+      "lesson_path": "9/sb-u1-grammar/index.html",
+      "tests": [
+        {
+          "test_id": "3886840",
+          "title": "9 клас · All About Me: Граматика",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u1-listening/homework-check-sb-u1-grammar-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-all-about-me-gramatika-3886840.html",
+          "verified": true,
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u1-listening/homework-check-sb-u1-grammar-01.json",
+          "assessment_lesson_path": "9/sb-u1-listening/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "All About Me: Граматика Усе про мене: Граматика",
+          "content_id": "9-sb-u1-grammar-homework-01"
+        }
+      ]
+    },
+    "sb-u1-grammar-2": {
+      "lesson_path": "9/sb-u1-grammar-2/index.html",
+      "tests": [
+        {
+          "test_id": "3886845",
+          "title": "9 клас · All About Me: Граматика в контексті",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u1-speaking/homework-check-sb-u1-grammar-2-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-all-about-me-gramatika-v-konteksti-3886845.html",
+          "verified": true,
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u1-speaking/homework-check-sb-u1-grammar-2-01.json",
+          "assessment_lesson_path": "9/sb-u1-speaking/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "All About Me: Граматика в контексті Усе про мене: Граматика в контексті",
+          "content_id": "9-sb-u1-grammar-2-homework-01"
+        }
+      ]
+    },
+    "sb-u1-lead-in": {
+      "lesson_path": "9/sb-u1-lead-in/index.html",
+      "tests": [
+        {
+          "test_id": "3886850",
+          "title": "9 клас · All About Me: Починаємо тему",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u1-blog/homework-check-sb-u1-lead-in-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-all-about-me-pochinaemo-temu-3886850.html",
+          "verified": true,
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u1-blog/homework-check-sb-u1-lead-in-01.json",
+          "assessment_lesson_path": "9/sb-u1-blog/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "All About Me: Починаємо тему Усе про мене: Починаємо тему",
+          "content_id": "9-sb-u1-lead-in-homework-01"
+        }
+      ]
+    },
+    "sb-u1-listening": {
+      "lesson_path": "9/sb-u1-listening/index.html",
+      "tests": [
+        {
+          "test_id": "3886854",
+          "title": "9 клас · All About Me: Слухання",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u1-vocabulary-2/homework-check-sb-u1-listening-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-all-about-me-sluhannya-3886854.html",
+          "verified": true,
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u1-vocabulary-2/homework-check-sb-u1-listening-01.json",
+          "assessment_lesson_path": "9/sb-u1-vocabulary-2/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "All About Me: Слухання Усе про мене: Слухання",
+          "content_id": "9-sb-u1-listening-homework-01"
+        }
+      ]
+    },
+    "sb-u1-look-back": {
+      "lesson_path": "9/sb-u1-look-back/index.html",
+      "tests": [
+        {
+          "test_id": "3886858",
+          "title": "9 клас · All About Me: Повторення",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u1-self-check/homework-check-sb-u1-look-back-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-all-about-me-povtorennya-3886858.html",
+          "verified": true,
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u1-self-check/homework-check-sb-u1-look-back-01.json",
+          "assessment_lesson_path": "9/sb-u1-self-check/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "All About Me: Повторення Усе про мене: Повторення",
+          "content_id": "9-sb-u1-look-back-homework-01"
+        }
+      ]
+    },
+    "sb-u1-reading": {
+      "lesson_path": "9/sb-u1-reading/index.html",
+      "tests": [
+        {
+          "test_id": "3886862",
+          "title": "9 клас · All About Me: Читання",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u1-grammar/homework-check-sb-u1-reading-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-all-about-me-chitannya-3886862.html",
+          "verified": true,
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u1-grammar/homework-check-sb-u1-reading-01.json",
+          "assessment_lesson_path": "9/sb-u1-grammar/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "All About Me: Читання Усе про мене: Читання",
+          "content_id": "9-sb-u1-reading-homework-01"
+        }
+      ]
+    },
+    "sb-u1-self-check": {
+      "lesson_path": "9/sb-u1-self-check/index.html",
+      "tests": [
+        {
+          "test_id": "3886870",
+          "title": "9 клас · All About Me: Самооцінювання",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u2-lead-in/homework-check-sb-u1-self-check-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-all-about-me-samoocinyuvannya-3886870.html",
+          "verified": true,
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u2-lead-in/homework-check-sb-u1-self-check-01.json",
+          "assessment_lesson_path": "9/sb-u2-lead-in/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "All About Me: Самооцінювання Усе про мене: Самооцінювання",
+          "content_id": "9-sb-u1-self-check-homework-01"
+        }
+      ]
+    },
+    "sb-u1-speaking": {
+      "lesson_path": "9/sb-u1-speaking/index.html",
+      "tests": [
+        {
+          "test_id": "3886872",
+          "title": "9 клас · All About Me: Говоріння",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u1-writing/homework-check-sb-u1-speaking-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-all-about-me-govorinnya-3886872.html",
+          "verified": true,
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u1-writing/homework-check-sb-u1-speaking-01.json",
+          "assessment_lesson_path": "9/sb-u1-writing/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "All About Me: Говоріння Усе про мене: Говоріння",
+          "content_id": "9-sb-u1-speaking-homework-01"
+        }
+      ]
+    },
+    "sb-u1-vocabulary": {
+      "lesson_path": "9/sb-u1-vocabulary/index.html",
+      "tests": [
+        {
+          "test_id": "3886876",
+          "title": "9 клас · All About Me: Слова й словосполучення",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u1-reading/homework-check-sb-u1-vocabulary-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-all-about-me-slova-y-slovospoluchennya-3886876.html",
+          "verified": true,
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u1-reading/homework-check-sb-u1-vocabulary-01.json",
+          "assessment_lesson_path": "9/sb-u1-reading/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "All About Me: Слова й словосполучення Усе про мене: Слова й словосполучення",
+          "content_id": "9-sb-u1-vocabulary-homework-01"
+        }
+      ]
+    },
+    "sb-u1-vocabulary-2": {
+      "lesson_path": "9/sb-u1-vocabulary-2/index.html",
+      "tests": [
+        {
+          "test_id": "3886877",
+          "title": "9 клас · All About Me: Лексика в контексті",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u1-grammar-2/homework-check-sb-u1-vocabulary-2-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-all-about-me-leksika-v-konteksti-3886877.html",
+          "verified": true,
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u1-grammar-2/homework-check-sb-u1-vocabulary-2-01.json",
+          "assessment_lesson_path": "9/sb-u1-grammar-2/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "All About Me: Лексика в контексті Усе про мене: Лексика в контексті",
+          "content_id": "9-sb-u1-vocabulary-2-homework-01"
+        }
+      ]
+    },
+    "sb-u1-writing": {
+      "lesson_path": "9/sb-u1-writing/index.html",
+      "tests": [
+        {
+          "test_id": "3886881",
+          "title": "9 клас · All About Me: Письмо",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u1-look-back/homework-check-sb-u1-writing-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-all-about-me-pismo-3886881.html",
+          "verified": true,
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u1-look-back/homework-check-sb-u1-writing-01.json",
+          "assessment_lesson_path": "9/sb-u1-look-back/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "All About Me: Письмо Усе про мене: Письмо",
+          "content_id": "9-sb-u1-writing-homework-01"
+        }
+      ]
+    },
+    "sb-u2-blog": {
+      "lesson_path": "9/sb-u2-blog/index.html",
+      "tests": [
+        {
+          "test_id": "3886885",
+          "title": "9 клас · Fashion All the Way: Блог і думки однолітків",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u2-vocabulary/homework-check-sb-u2-blog-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-fashion-all-the-way-blog-i-dumki-odnolitkiv-3886885.html",
+          "verified": true,
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u2-vocabulary/homework-check-sb-u2-blog-01.json",
+          "assessment_lesson_path": "9/sb-u2-vocabulary/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Fashion All the Way: Блог і думки однолітків Мода і стиль: Блог і думки однолітків",
+          "content_id": "9-sb-u2-blog-homework-01"
+        }
+      ]
+    },
+    "sb-u2-grammar": {
+      "lesson_path": "9/sb-u2-grammar/index.html",
+      "tests": [
+        {
+          "test_id": "3886889",
+          "title": "9 клас · Fashion All the Way: Граматика",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u2-listening/homework-check-sb-u2-grammar-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-fashion-all-the-way-gramatika-3886889.html",
+          "verified": true,
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u2-listening/homework-check-sb-u2-grammar-01.json",
+          "assessment_lesson_path": "9/sb-u2-listening/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Fashion All the Way: Граматика Мода і стиль: Граматика",
+          "content_id": "9-sb-u2-grammar-homework-01"
+        }
+      ]
+    },
+    "sb-u2-grammar-2": {
+      "lesson_path": "9/sb-u2-grammar-2/index.html",
+      "tests": [
+        {
+          "test_id": "3886894",
+          "title": "9 клас · Fashion All the Way: Граматика в контексті",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u2-speaking/homework-check-sb-u2-grammar-2-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-fashion-all-the-way-gramatika-v-konteksti-3886894.html",
+          "verified": true,
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u2-speaking/homework-check-sb-u2-grammar-2-01.json",
+          "assessment_lesson_path": "9/sb-u2-speaking/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Fashion All the Way: Граматика в контексті Мода і стиль: Граматика в контексті",
+          "content_id": "9-sb-u2-grammar-2-homework-01"
+        }
+      ]
+    },
+    "sb-u2-lead-in": {
+      "lesson_path": "9/sb-u2-lead-in/index.html",
+      "tests": [
+        {
+          "test_id": "3886898",
+          "title": "9 клас · Fashion All the Way: Починаємо тему",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u2-blog/homework-check-sb-u2-lead-in-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-fashion-all-the-way-pochinaemo-temu-3886898.html",
+          "verified": true,
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u2-blog/homework-check-sb-u2-lead-in-01.json",
+          "assessment_lesson_path": "9/sb-u2-blog/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Fashion All the Way: Починаємо тему Мода і стиль: Починаємо тему",
+          "content_id": "9-sb-u2-lead-in-homework-01"
+        }
+      ]
+    },
+    "sb-u2-listening": {
+      "lesson_path": "9/sb-u2-listening/index.html",
+      "tests": [
+        {
+          "test_id": "3886907",
+          "title": "9 клас · Fashion All the Way: Слухання",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u2-vocabulary-2/homework-check-sb-u2-listening-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-fashion-all-the-way-sluhannya-3886907.html",
+          "verified": true,
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u2-vocabulary-2/homework-check-sb-u2-listening-01.json",
+          "assessment_lesson_path": "9/sb-u2-vocabulary-2/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Fashion All the Way: Слухання Мода і стиль: Слухання",
+          "content_id": "9-sb-u2-listening-homework-01"
+        }
+      ]
+    },
+    "sb-u2-look-back": {
+      "lesson_path": "9/sb-u2-look-back/index.html",
+      "tests": [
+        {
+          "test_id": "3886912",
+          "title": "9 клас · Fashion All the Way: Повторення",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u2-self-check/homework-check-sb-u2-look-back-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-fashion-all-the-way-povtorennya-3886912.html",
+          "verified": true,
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u2-self-check/homework-check-sb-u2-look-back-01.json",
+          "assessment_lesson_path": "9/sb-u2-self-check/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Fashion All the Way: Повторення Мода і стиль: Повторення",
+          "content_id": "9-sb-u2-look-back-homework-01"
+        }
+      ]
+    },
+    "sb-u2-reading": {
+      "lesson_path": "9/sb-u2-reading/index.html",
+      "tests": [
+        {
+          "test_id": "3886916",
+          "title": "9 клас · Fashion All the Way: Читання",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u2-grammar/homework-check-sb-u2-reading-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-fashion-all-the-way-chitannya-3886916.html",
+          "verified": true,
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u2-grammar/homework-check-sb-u2-reading-01.json",
+          "assessment_lesson_path": "9/sb-u2-grammar/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Fashion All the Way: Читання Мода і стиль: Читання",
+          "content_id": "9-sb-u2-reading-homework-01"
+        }
+      ]
+    },
+    "sb-u2-self-check": {
+      "lesson_path": "9/sb-u2-self-check/index.html",
+      "tests": [
+        {
+          "test_id": "3886920",
+          "title": "9 клас · Fashion All the Way: Самооцінювання",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u3-lead-in/homework-check-sb-u2-self-check-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-fashion-all-the-way-samoocinyuvannya-3886920.html",
+          "verified": true,
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u3-lead-in/homework-check-sb-u2-self-check-01.json",
+          "assessment_lesson_path": "9/sb-u3-lead-in/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Fashion All the Way: Самооцінювання Мода і стиль: Самооцінювання",
+          "content_id": "9-sb-u2-self-check-homework-01"
+        }
+      ]
+    },
+    "sb-u2-speaking": {
+      "lesson_path": "9/sb-u2-speaking/index.html",
+      "tests": [
+        {
+          "test_id": "3886924",
+          "title": "9 клас · Fashion All the Way: Говоріння",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u2-writing/homework-check-sb-u2-speaking-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-fashion-all-the-way-govorinnya-3886924.html",
+          "verified": true,
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u2-writing/homework-check-sb-u2-speaking-01.json",
+          "assessment_lesson_path": "9/sb-u2-writing/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Fashion All the Way: Говоріння Мода і стиль: Говоріння",
+          "content_id": "9-sb-u2-speaking-homework-01"
+        }
+      ]
+    },
+    "sb-u2-vocabulary": {
+      "lesson_path": "9/sb-u2-vocabulary/index.html",
+      "tests": [
+        {
+          "test_id": "3886932",
+          "title": "9 клас · Fashion All the Way: Слова й словосполучення",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u2-reading/homework-check-sb-u2-vocabulary-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-fashion-all-the-way-slova-y-slovospoluchennya-3886932.html",
+          "verified": true,
+          "semester": 1,
+          "deadline": "2027-01-03T23:00",
+          "content_path": "9/sb-u2-reading/homework-check-sb-u2-vocabulary-01.json",
+          "assessment_lesson_path": "9/sb-u2-reading/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Fashion All the Way: Слова й словосполучення Мода і стиль: Слова й словосполучення",
+          "content_id": "9-sb-u2-vocabulary-homework-01"
+        }
+      ]
+    },
+    "sb-u2-vocabulary-2": {
+      "lesson_path": "9/sb-u2-vocabulary-2/index.html",
+      "tests": [
+        {
+          "test_id": "3886940",
+          "title": "9 клас · Fashion All the Way: Лексика в контексті",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u2-grammar-2/homework-check-sb-u2-vocabulary-2-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-fashion-all-the-way-leksika-v-konteksti-3886940.html",
+          "verified": true,
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u2-grammar-2/homework-check-sb-u2-vocabulary-2-01.json",
+          "assessment_lesson_path": "9/sb-u2-grammar-2/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Fashion All the Way: Лексика в контексті Мода і стиль: Лексика в контексті",
+          "content_id": "9-sb-u2-vocabulary-2-homework-01"
+        }
+      ]
+    },
+    "sb-u2-writing": {
+      "lesson_path": "9/sb-u2-writing/index.html",
+      "tests": [
+        {
+          "test_id": "3887034",
+          "title": "9 клас · Fashion All the Way: Письмо",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u2-look-back/homework-check-sb-u2-writing-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-fashion-all-the-way-pismo-3887034.html",
+          "verified": true,
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u2-look-back/homework-check-sb-u2-writing-01.json",
+          "assessment_lesson_path": "9/sb-u2-look-back/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Fashion All the Way: Письмо Мода і стиль: Письмо",
+          "content_id": "9-sb-u2-writing-homework-01"
+        }
+      ]
+    },
+    "sb-u3-blog": {
+      "lesson_path": "9/sb-u3-blog/index.html",
+      "tests": [
+        {
+          "test_id": "3887041",
+          "title": "9 клас · We Are Young and Cool!: Блог і думки однолітків",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u3-vocabulary/homework-check-sb-u3-blog-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-we-are-young-and-cool-blog-i-dumki-odnolitkiv-3887041.html",
+          "verified": true,
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u3-vocabulary/homework-check-sb-u3-blog-01.json",
+          "assessment_lesson_path": "9/sb-u3-vocabulary/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "We Are Young and Cool!: Блог і думки однолітків Молодіжна культура і спільноти: Блог і думки однолітків",
+          "content_id": "9-sb-u3-blog-homework-01"
+        }
+      ]
+    },
+    "sb-u3-grammar": {
+      "lesson_path": "9/sb-u3-grammar/index.html",
+      "tests": [
+        {
+          "test_id": "3887048",
+          "title": "9 клас · We Are Young and Cool!: Граматика",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u3-listening/homework-check-sb-u3-grammar-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-we-are-young-and-cool-gramatika-3887048.html",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u3-listening/homework-check-sb-u3-grammar-01.json",
+          "assessment_lesson_path": "9/sb-u3-listening/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "We Are Young and Cool!: Граматика Молодіжна культура і спільноти: Граматика",
+          "content_id": "9-sb-u3-grammar-homework-01"
+        }
+      ]
+    },
+    "sb-u3-grammar-2": {
+      "lesson_path": "9/sb-u3-grammar-2/index.html",
+      "tests": [
+        {
+          "test_id": "3887054",
+          "title": "9 клас · We Are Young and Cool!: Граматика в контексті",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u3-speaking/homework-check-sb-u3-grammar-2-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-we-are-young-and-cool-gramatika-v-konteksti-3887054.html",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u3-speaking/homework-check-sb-u3-grammar-2-01.json",
+          "assessment_lesson_path": "9/sb-u3-speaking/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "We Are Young and Cool!: Граматика в контексті Молодіжна культура і спільноти: Граматика в контексті",
+          "content_id": "9-sb-u3-grammar-2-homework-01"
+        }
+      ]
+    },
+    "sb-u3-lead-in": {
+      "lesson_path": "9/sb-u3-lead-in/index.html",
+      "tests": [
+        {
+          "test_id": "3887059",
+          "title": "9 клас · We Are Young and Cool!: Починаємо тему",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u3-blog/homework-check-sb-u3-lead-in-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-we-are-young-and-cool-pochinaemo-temu-3887059.html",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u3-blog/homework-check-sb-u3-lead-in-01.json",
+          "assessment_lesson_path": "9/sb-u3-blog/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "We Are Young and Cool!: Починаємо тему Молодіжна культура і спільноти: Починаємо тему",
+          "content_id": "9-sb-u3-lead-in-homework-01"
+        }
+      ]
+    },
+    "sb-u3-listening": {
+      "lesson_path": "9/sb-u3-listening/index.html",
+      "tests": [
+        {
+          "test_id": "3887064",
+          "title": "9 клас · We Are Young and Cool!: Слухання",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u3-vocabulary-2/homework-check-sb-u3-listening-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-we-are-young-and-cool-sluhannya-3887064.html",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u3-vocabulary-2/homework-check-sb-u3-listening-01.json",
+          "assessment_lesson_path": "9/sb-u3-vocabulary-2/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "We Are Young and Cool!: Слухання Молодіжна культура і спільноти: Слухання",
+          "content_id": "9-sb-u3-listening-homework-01"
+        }
+      ]
+    },
+    "sb-u3-look-back": {
+      "lesson_path": "9/sb-u3-look-back/index.html",
+      "tests": [
+        {
+          "test_id": "3887068",
+          "title": "9 клас · We Are Young and Cool!: Повторення",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u3-self-check/homework-check-sb-u3-look-back-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-we-are-young-and-cool-povtorennya-3887068.html",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u3-self-check/homework-check-sb-u3-look-back-01.json",
+          "assessment_lesson_path": "9/sb-u3-self-check/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "We Are Young and Cool!: Повторення Молодіжна культура і спільноти: Повторення",
+          "content_id": "9-sb-u3-look-back-homework-01"
+        }
+      ]
+    },
+    "sb-u3-reading": {
+      "lesson_path": "9/sb-u3-reading/index.html",
+      "tests": [
+        {
+          "test_id": "3887074",
+          "title": "9 клас · We Are Young and Cool!: Читання",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u3-grammar/homework-check-sb-u3-reading-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-we-are-young-and-cool-chitannya-3887074.html",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u3-grammar/homework-check-sb-u3-reading-01.json",
+          "assessment_lesson_path": "9/sb-u3-grammar/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "We Are Young and Cool!: Читання Молодіжна культура і спільноти: Читання",
+          "content_id": "9-sb-u3-reading-homework-01"
+        }
+      ]
+    },
+    "sb-u3-self-check": {
+      "lesson_path": "9/sb-u3-self-check/index.html",
+      "tests": [
+        {
+          "test_id": "3887081",
+          "title": "9 клас · We Are Young and Cool!: Самооцінювання",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u4-lead-in/homework-check-sb-u3-self-check-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-we-are-young-and-cool-samoocinyuvannya-3887081.html",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u4-lead-in/homework-check-sb-u3-self-check-01.json",
+          "assessment_lesson_path": "9/sb-u4-lead-in/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "We Are Young and Cool!: Самооцінювання Молодіжна культура і спільноти: Самооцінювання",
+          "content_id": "9-sb-u3-self-check-homework-01"
+        }
+      ]
+    },
+    "sb-u3-speaking": {
+      "lesson_path": "9/sb-u3-speaking/index.html",
+      "tests": [
+        {
+          "test_id": "3887085",
+          "title": "9 клас · We Are Young and Cool!: Говоріння",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u3-writing/homework-check-sb-u3-speaking-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-we-are-young-and-cool-govorinnya-3887085.html",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u3-writing/homework-check-sb-u3-speaking-01.json",
+          "assessment_lesson_path": "9/sb-u3-writing/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "We Are Young and Cool!: Говоріння Молодіжна культура і спільноти: Говоріння",
+          "content_id": "9-sb-u3-speaking-homework-01"
+        }
+      ]
+    },
+    "sb-u3-vocabulary": {
+      "lesson_path": "9/sb-u3-vocabulary/index.html",
+      "tests": [
+        {
+          "test_id": "3887090",
+          "title": "9 клас · We Are Young and Cool!: Слова й словосполучення",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u3-reading/homework-check-sb-u3-vocabulary-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-we-are-young-and-cool-slova-y-slovospoluchennya-3887090.html",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u3-reading/homework-check-sb-u3-vocabulary-01.json",
+          "assessment_lesson_path": "9/sb-u3-reading/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "We Are Young and Cool!: Слова й словосполучення Молодіжна культура і спільноти: Слова й словосполучення",
+          "content_id": "9-sb-u3-vocabulary-homework-01"
+        }
+      ]
+    },
+    "sb-u3-vocabulary-2": {
+      "lesson_path": "9/sb-u3-vocabulary-2/index.html",
+      "tests": [
+        {
+          "test_id": "3887093",
+          "title": "9 клас · We Are Young and Cool!: Лексика в контексті",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u3-grammar-2/homework-check-sb-u3-vocabulary-2-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-we-are-young-and-cool-leksika-v-konteksti-3887093.html",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u3-grammar-2/homework-check-sb-u3-vocabulary-2-01.json",
+          "assessment_lesson_path": "9/sb-u3-grammar-2/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "We Are Young and Cool!: Лексика в контексті Молодіжна культура і спільноти: Лексика в контексті",
+          "content_id": "9-sb-u3-vocabulary-2-homework-01"
+        }
+      ]
+    },
+    "sb-u3-writing": {
+      "lesson_path": "9/sb-u3-writing/index.html",
+      "tests": [
+        {
+          "test_id": "3887100",
+          "title": "9 клас · We Are Young and Cool!: Письмо",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u3-look-back/homework-check-sb-u3-writing-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-we-are-young-and-cool-pismo-3887100.html",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u3-look-back/homework-check-sb-u3-writing-01.json",
+          "assessment_lesson_path": "9/sb-u3-look-back/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "We Are Young and Cool!: Письмо Молодіжна культура і спільноти: Письмо",
+          "content_id": "9-sb-u3-writing-homework-01"
+        }
+      ]
+    },
+    "sb-u4-blog": {
+      "lesson_path": "9/sb-u4-blog/index.html",
+      "tests": [
+        {
+          "test_id": "3887106",
+          "title": "9 клас · Media in Our Lives: Блог і думки однолітків",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u4-vocabulary/homework-check-sb-u4-blog-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-media-in-our-lives-blog-i-dumki-odnolitkiv-3887106.html",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u4-vocabulary/homework-check-sb-u4-blog-01.json",
+          "assessment_lesson_path": "9/sb-u4-vocabulary/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Media in Our Lives: Блог і думки однолітків Медіа в нашому житті: Блог і думки однолітків",
+          "content_id": "9-sb-u4-blog-homework-01"
+        }
+      ]
+    },
+    "sb-u4-grammar": {
+      "lesson_path": "9/sb-u4-grammar/index.html",
+      "tests": [
+        {
+          "test_id": "3887111",
+          "title": "9 клас · Media in Our Lives: Граматика",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u4-listening/homework-check-sb-u4-grammar-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-media-in-our-lives-gramatika-3887111.html",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u4-listening/homework-check-sb-u4-grammar-01.json",
+          "assessment_lesson_path": "9/sb-u4-listening/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Media in Our Lives: Граматика Медіа в нашому житті: Граматика",
+          "content_id": "9-sb-u4-grammar-homework-01"
+        }
+      ]
+    },
+    "sb-u4-grammar-2": {
+      "lesson_path": "9/sb-u4-grammar-2/index.html",
+      "tests": [
+        {
+          "test_id": "3887118",
+          "title": "9 клас · Media in Our Lives: Граматика в контексті",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u4-speaking/homework-check-sb-u4-grammar-2-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-media-in-our-lives-gramatika-v-konteksti-3887118.html",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u4-speaking/homework-check-sb-u4-grammar-2-01.json",
+          "assessment_lesson_path": "9/sb-u4-speaking/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Media in Our Lives: Граматика в контексті Медіа в нашому житті: Граматика в контексті",
+          "content_id": "9-sb-u4-grammar-2-homework-01"
+        }
+      ]
+    },
+    "sb-u4-lead-in": {
+      "lesson_path": "9/sb-u4-lead-in/index.html",
+      "tests": [
+        {
+          "test_id": "3887121",
+          "title": "9 клас · Media in Our Lives: Починаємо тему",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u4-blog/homework-check-sb-u4-lead-in-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-media-in-our-lives-pochinaemo-temu-3887121.html",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u4-blog/homework-check-sb-u4-lead-in-01.json",
+          "assessment_lesson_path": "9/sb-u4-blog/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Media in Our Lives: Починаємо тему Медіа в нашому житті: Починаємо тему",
+          "content_id": "9-sb-u4-lead-in-homework-01"
+        }
+      ]
+    },
+    "sb-u4-listening": {
+      "lesson_path": "9/sb-u4-listening/index.html",
+      "tests": [
+        {
+          "test_id": "3887126",
+          "title": "9 клас · Media in Our Lives: Слухання",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u4-vocabulary-2/homework-check-sb-u4-listening-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-media-in-our-lives-sluhannya-3887126.html",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u4-vocabulary-2/homework-check-sb-u4-listening-01.json",
+          "assessment_lesson_path": "9/sb-u4-vocabulary-2/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Media in Our Lives: Слухання Медіа в нашому житті: Слухання",
+          "content_id": "9-sb-u4-listening-homework-01"
+        }
+      ]
+    },
+    "sb-u4-look-back": {
+      "lesson_path": "9/sb-u4-look-back/index.html",
+      "tests": [
+        {
+          "test_id": "3887133",
+          "title": "9 клас · Media in Our Lives: Повторення",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u4-self-check/homework-check-sb-u4-look-back-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-media-in-our-lives-povtorennya-3887133.html",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u4-self-check/homework-check-sb-u4-look-back-01.json",
+          "assessment_lesson_path": "9/sb-u4-self-check/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Media in Our Lives: Повторення Медіа в нашому житті: Повторення",
+          "content_id": "9-sb-u4-look-back-homework-01"
+        }
+      ]
+    },
+    "sb-u4-reading": {
+      "lesson_path": "9/sb-u4-reading/index.html",
+      "tests": [
+        {
+          "test_id": "3887137",
+          "title": "9 клас · Media in Our Lives: Читання",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u4-grammar/homework-check-sb-u4-reading-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-media-in-our-lives-chitannya-3887137.html",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u4-grammar/homework-check-sb-u4-reading-01.json",
+          "assessment_lesson_path": "9/sb-u4-grammar/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Media in Our Lives: Читання Медіа в нашому житті: Читання",
+          "content_id": "9-sb-u4-reading-homework-01"
+        }
+      ]
+    },
+    "sb-u4-self-check": {
+      "lesson_path": "9/sb-u4-self-check/index.html",
+      "tests": [
+        {
+          "test_id": "3887140",
+          "title": "9 клас · Media in Our Lives: Самооцінювання",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u5-lead-in/homework-check-sb-u4-self-check-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-media-in-our-lives-samoocinyuvannya-3887140.html",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u5-lead-in/homework-check-sb-u4-self-check-01.json",
+          "assessment_lesson_path": "9/sb-u5-lead-in/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Media in Our Lives: Самооцінювання Медіа в нашому житті: Самооцінювання",
+          "content_id": "9-sb-u4-self-check-homework-01"
+        }
+      ]
+    },
+    "sb-u4-speaking": {
+      "lesson_path": "9/sb-u4-speaking/index.html",
+      "tests": [
+        {
+          "test_id": "3887144",
+          "title": "9 клас · Media in Our Lives: Говоріння",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u4-writing/homework-check-sb-u4-speaking-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-media-in-our-lives-govorinnya-3887144.html",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u4-writing/homework-check-sb-u4-speaking-01.json",
+          "assessment_lesson_path": "9/sb-u4-writing/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Media in Our Lives: Говоріння Медіа в нашому житті: Говоріння",
+          "content_id": "9-sb-u4-speaking-homework-01"
+        }
+      ]
+    },
+    "sb-u4-vocabulary": {
+      "lesson_path": "9/sb-u4-vocabulary/index.html",
+      "tests": [
+        {
+          "test_id": "3887146",
+          "title": "9 клас · Media in Our Lives: Слова й словосполучення",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u4-reading/homework-check-sb-u4-vocabulary-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-media-in-our-lives-slova-y-slovospoluchennya-3887146.html",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u4-reading/homework-check-sb-u4-vocabulary-01.json",
+          "assessment_lesson_path": "9/sb-u4-reading/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Media in Our Lives: Слова й словосполучення Медіа в нашому житті: Слова й словосполучення",
+          "content_id": "9-sb-u4-vocabulary-homework-01"
+        }
+      ]
+    },
+    "sb-u4-vocabulary-2": {
+      "lesson_path": "9/sb-u4-vocabulary-2/index.html",
+      "tests": [
+        {
+          "test_id": "3887157",
+          "title": "9 клас · Media in Our Lives: Лексика в контексті",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u4-grammar-2/homework-check-sb-u4-vocabulary-2-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-media-in-our-lives-leksika-v-konteksti-3887157.html",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u4-grammar-2/homework-check-sb-u4-vocabulary-2-01.json",
+          "assessment_lesson_path": "9/sb-u4-grammar-2/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Media in Our Lives: Лексика в контексті Медіа в нашому житті: Лексика в контексті",
+          "content_id": "9-sb-u4-vocabulary-2-homework-01"
+        }
+      ]
+    },
+    "sb-u4-writing": {
+      "lesson_path": "9/sb-u4-writing/index.html",
+      "tests": [
+        {
+          "test_id": "3887160",
+          "title": "9 клас · Media in Our Lives: Письмо",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u4-look-back/homework-check-sb-u4-writing-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-media-in-our-lives-pismo-3887160.html",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u4-look-back/homework-check-sb-u4-writing-01.json",
+          "assessment_lesson_path": "9/sb-u4-look-back/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Media in Our Lives: Письмо Медіа в нашому житті: Письмо",
+          "content_id": "9-sb-u4-writing-homework-01"
+        }
+      ]
+    },
+    "personality-types": {
+      "lesson_path": "9/personality-types/index.html",
+      "tests": [
+        {
+          "test_id": "3887165",
+          "title": "9 клас · What kind of person? — риси характеру",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/personality-growth/homework-check-personality-types-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-what-kind-of-person-risi-harakteru-3887165.html",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/personality-growth/homework-check-personality-types-01.json",
+          "assessment_lesson_path": "9/personality-growth/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "What kind of person? Типи особистості й риси характеру",
+          "content_id": "9-personality-types-homework-01"
+        }
+      ]
+    },
+    "personality-growth": {
+      "lesson_path": "9/personality-growth/index.html",
+      "tests": [
+        {
+          "test_id": "3887170",
+          "title": "9 клас · You can grow — саморозвиток",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/present-past-review/homework-check-personality-growth-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-you-can-grow-samorozvitok-3887170.html",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/present-past-review/homework-check-personality-growth-01.json",
+          "assessment_lesson_path": "9/present-past-review/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "You can grow Як змінюється особистість",
+          "content_id": "9-personality-growth-homework-01"
+        }
+      ]
+    },
+    "present-past-review": {
+      "lesson_path": "9/present-past-review/index.html",
+      "tests": [
+        {
+          "test_id": "3887172",
+          "title": "9 клас · Six tenses, one story — теперішні й минулі часи",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/personal-details/homework-check-present-past-review-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-six-tenses-one-story-teperishni-y-minuli-chasi-3887172.html",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/personal-details/homework-check-present-past-review-01.json",
+          "assessment_lesson_path": "9/personal-details/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Six tenses, one story Теперішні й минулі часи в контексті",
+          "content_id": "9-present-past-review-homework-01"
+        }
+      ]
+    },
+    "gerund": {
+      "lesson_path": "9/gerund/index.html",
+      "tests": [
+        {
+          "test_id": "3887177",
+          "title": "9 клас · Gerund — форма, прийменники й зміст",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/gerund/homework-check-gerund-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-gerund-forma-priymenniki-y-zmist-3887177.html",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/gerund/homework-check-gerund-01.json",
+          "assessment_lesson_path": "9/gerund/index.html",
+          "placement_rule": "no_next_lesson",
+          "source_lesson_title": "Gerund: дієслово + ing",
+          "content_id": "9-gerund-homework-01"
+        },
+        {
+          "test_id": "3887204",
+          "title": "9 клас · Gerund — значення stop, remember, try, regret",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/gerund/homework-check-gerund-02.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-gerund-znachennya-stop-remember-try-regret-3887204.html",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/gerund/homework-check-gerund-02.json",
+          "assessment_lesson_path": "9/gerund/index.html",
+          "placement_rule": "no_next_lesson",
+          "source_lesson_title": "Gerund: дієслово + ing",
+          "content_id": "9-gerund-homework-02"
+        }
+      ]
+    },
+    "special-occasion-outfits": {
+      "lesson_path": "9/special-occasion-outfits/index.html",
+      "tests": [
+        {
+          "test_id": "3887180",
+          "title": "9 клас · Dress for the occasion — святковий одяг",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/clothes-and-accessories/homework-check-special-occasion-outfits-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-dress-for-the-occasion-svyatkoviy-odyag-3887180.html",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/clothes-and-accessories/homework-check-special-occasion-outfits-01.json",
+          "assessment_lesson_path": "9/clothes-and-accessories/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Dress for the occasion Одяг для особливих подій",
+          "content_id": "9-special-occasion-outfits-homework-01"
+        }
+      ]
+    },
+    "styles-and-judgement": {
+      "lesson_path": "9/styles-and-judgement/index.html",
+      "tests": [
+        {
+          "test_id": "3887182",
+          "title": "9 клас · Describe the style — прикметники й спостереження",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/fashion-grammar/homework-check-styles-and-judgement-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-describe-the-style-prikmetniki-y-sposterezhennya-3887182.html",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/fashion-grammar/homework-check-styles-and-judgement-01.json",
+          "assessment_lesson_path": "9/fashion-grammar/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Describe the style Стилі, прикметники й перше враження",
+          "content_id": "9-styles-and-judgement-homework-01"
+        }
+      ]
+    },
+    "future-forms": {
+      "lesson_path": "9/future-forms/index.html",
+      "tests": [
+        {
+          "test_id": "3887187",
+          "title": "9 клас · Future Forms — чотири форми майбутнього",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/future-forms/homework-check-future-forms-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-future-forms-chotiri-formi-maybutnogo-3887187.html",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/future-forms/homework-check-future-forms-01.json",
+          "assessment_lesson_path": "9/future-forms/index.html",
+          "placement_rule": "no_next_lesson",
+          "source_lesson_title": "Як англійською говорити про майбутнє",
+          "content_id": "9-future-forms-homework-01"
+        }
+      ]
+    },
+    "future-forms-v2": {
+      "lesson_path": "9/future-forms-v2/index.html",
+      "tests": [
+        {
+          "test_id": "3887190",
+          "title": "9 клас · Future Forms v2 — рішення, намір і домовленість",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/future-forms-v2/homework-check-future-forms-v2-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-future-forms-v2-rishennya-namir-i-domovlenist-3887190.html",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/future-forms-v2/homework-check-future-forms-v2-01.json",
+          "assessment_lesson_path": "9/future-forms-v2/index.html",
+          "placement_rule": "no_next_lesson",
+          "source_lesson_title": "Поверни телефон боком",
+          "content_id": "9-future-forms-v2-homework-01"
+        }
+      ]
+    },
+    "sb-starter": {
+      "lesson_path": "9/sb-starter/index.html",
+      "tests": [
+        {
+          "test_id": "3887192",
+          "title": "9 клас · Learning English — навчальні стратегії",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-u1-lead-in/homework-check-sb-starter-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-learning-english-navchalni-strategi-3887192.html",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "content_path": "9/sb-u1-lead-in/homework-check-sb-starter-01.json",
+          "assessment_lesson_path": "9/sb-u1-lead-in/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Learning English Англійська у моєму житті",
+          "content_id": "9-sb-starter-homework-01"
+        }
+      ]
+    },
+    "sb-grammar": {
+      "lesson_path": "9/sb-grammar/index.html",
+      "tests": [
+        {
+          "test_id": "3887197",
+          "title": "9 клас · Граматика курсу — Units 1–4",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-grammar/homework-check-sb-grammar-01.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-gramatika-kursu-units-1-4-3887197.html",
+          "deadline": "2027-06-01T23:00",
+          "semester": "annual",
+          "content_path": "9/sb-grammar/homework-check-sb-grammar-01.json",
+          "assessment_lesson_path": "9/sb-grammar/index.html",
+          "placement_rule": "no_next_lesson",
+          "source_lesson_title": "Граматика курсу",
+          "content_id": "9-sb-grammar-homework-01"
+        },
+        {
+          "test_id": "3887200",
+          "title": "9 клас · Граматика курсу — Units 5–8",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3
+          ],
+          "plan_path": "9/sb-grammar/homework-check-sb-grammar-02.json",
+          "test_url": "https://naurok.com.ua/test/9-klas-gramatika-kursu-units-5-8-3887200.html",
+          "deadline": "2027-06-01T23:00",
+          "semester": "annual",
+          "content_path": "9/sb-grammar/homework-check-sb-grammar-02.json",
+          "assessment_lesson_path": "9/sb-grammar/index.html",
+          "placement_rule": "no_next_lesson",
+          "source_lesson_title": "Граматика курсу",
+          "content_id": "9-sb-grammar-homework-02"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "6/sb-8e/index.html",
+  "tests": [
+    {
+      "id": "6-sb-8d-homework-01",
+      "title": "The Oscars · 6 клас · ESL 8d",
+      "source_lesson": "6/sb-8d/index.html",
+      "json": "homework-check-sb-8d-01.json",
+      "markdown": "homework-check-sb-8d-01.md",
+      "answer_key": "homework-check-sb-8d-01-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886964",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

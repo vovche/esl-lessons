@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "title": "School · 6 клас · ESL 1a",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-1a/index.html",
+  "source_title": "School Моя школа",
+  "assessment_lesson": "6/sb-1b/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською одним словом: «історія» (шкільний предмет).",
+      "points": 1,
+      "answers": [
+        "history"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «фізика».",
+      "points": 1,
+      "answers": [
+        "physics"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «біологія».",
+      "points": 1,
+      "answers": [
+        "biology"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Впиши правильну форму study: She ___ music every day.",
+      "points": 1,
+      "answers": [
+        "studies"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Впиши Do або Does: ___ your classes start at nine?",
+      "points": 1,
+      "answers": [
+        "Do"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Впиши повну форму заперечення (два слова): He ___ work in the lab on school days.",
+      "points": 1,
+      "answers": [
+        "does not"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Our school has a theatre and a science lab. We study the usual subjects, but we also learn dance and music. Classes start at nine and finish at four. After school, some students practise in the theatre. I enjoy biology because I like learning about animals.\n\nWhere do some students practise after school?",
+      "points": 2,
+      "options": [
+        "In the kitchen.",
+        "In the airport.",
+        "In the theatre."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Our school has a theatre and a science lab. We study the usual subjects, but we also learn dance and music. Classes start at nine and finish at four. After school, some students practise in the theatre. I enjoy biology because I like learning about animals.\n\nWhy does the writer enjoy biology?",
+      "points": 2,
+      "options": [
+        "The writer wants to be an actor.",
+        "The writer likes learning about animals.",
+        "Classes finish early."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-1a-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886774",
+      "test_url": "https://naurok.com.ua/test/school-6-klas-esl-1a-3886774.html",
+      "status": "homework_created",
+      "verified": true,
+      "homework_id": "86106552",
+      "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106552",
+      "student_url": "https://naurok.ua/test/join?gamecode=9803631",
+      "code": "9803631",
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "title": "9 клас · Media in Our Lives: Слухання",
+  "grade": 9,
+  "purpose": "homework_check",
+  "source_lesson": "9/sb-u4-listening/index.html",
+  "source_title": "Media in Our Lives: Слухання Медіа в нашому житті: Слухання",
+  "assessment_lesson": "9/sb-u4-vocabulary-2/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова network.",
+      "points": 1,
+      "options": [
+        "підписник",
+        "надійний",
+        "мережа"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова audience.",
+      "points": 1,
+      "options": [
+        "фейкові новини",
+        "аудиторія",
+        "надійний"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова subscriber.",
+      "points": 1,
+      "options": [
+        "підписник",
+        "фейкові новини",
+        "огляд, рецензія"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "He ... me that the source was reliable.",
+      "points": 2,
+      "options": [
+        "spoke",
+        "told",
+        "said"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "“I will check it,” Dan said. Dan said he ... check it.",
+      "points": 2,
+      "options": [
+        "would",
+        "will yesterday",
+        "had"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст. Dan is reviewing a science vlog. He describes the topic, presentation and examples instead of simply saying that it is good. The presenter said that the next episode would appear the following week. Dan liked the clear explanation, but thought that more sources should be included. He recommends the vlog to viewers who want an introduction to the topic.\n\nWhat would improve the vlog?",
+      "points": 3,
+      "options": [
+        "no examples",
+        "more sources",
+        "fewer explanations"
+      ],
+      "key": 1
+    }
+  ],
+  "id": "9-sb-u4-listening-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887126",
+      "test_url": "https://naurok.com.ua/test/9-klas-media-in-our-lives-sluhannya-3887126.html",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

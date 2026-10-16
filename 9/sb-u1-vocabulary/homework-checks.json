@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "9/sb-u1-vocabulary/index.html",
+  "tests": [
+    {
+      "id": "9-sb-u1-blog-homework-01",
+      "title": "9 клас · All About Me: Блог і думки однолітків",
+      "source_lesson": "9/sb-u1-blog/index.html",
+      "json": "homework-check-sb-u1-blog-01.json",
+      "markdown": "homework-check-sb-u1-blog-01.md",
+      "answer_key": "homework-check-sb-u1-blog-01-key.md",
+      "test_url": "https://naurok.com.ua/test/9-klas-all-about-me-blog-i-dumki-odnolitkiv-3886832.html",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

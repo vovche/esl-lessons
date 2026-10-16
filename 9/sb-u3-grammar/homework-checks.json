@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "9/sb-u3-grammar/index.html",
+  "tests": [
+    {
+      "id": "9-sb-u3-reading-homework-01",
+      "title": "9 клас · We Are Young and Cool!: Читання",
+      "source_lesson": "9/sb-u3-reading/index.html",
+      "json": "homework-check-sb-u3-reading-01.json",
+      "markdown": "homework-check-sb-u3-reading-01.md",
+      "answer_key": "homework-check-sb-u3-reading-01-key.md",
+      "test_url": "https://naurok.com.ua/test/9-klas-we-are-young-and-cool-chitannya-3887074.html",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

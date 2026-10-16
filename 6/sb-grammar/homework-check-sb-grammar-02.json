@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "title": "6 клас · Grammar Reference · Unit 2",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-grammar/index.html",
+  "source_title": "Граматичний довідник",
+  "assessment_lesson": "6/sb-grammar/index.html",
+  "placement": {
+    "rule": "no_next_lesson",
+    "note": "Перевірка після теми: окремого наступного уроку в навігації немає; збережено в папці вихідної теми."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Вставте Past Simple: We ___ on a cruise last summer. (go)",
+      "points": 1,
+      "answers": [
+        "went"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Утворіть прислівник: She drives ___. (careful)",
+      "points": 1,
+      "answers": [
+        "carefully"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Вставте об’єктний займенник замість we: The tickets are for ___.",
+      "points": 1,
+      "answers": [
+        "us"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Вставте правильну форму use: People did not ___ to travel by plane.",
+      "points": 2,
+      "answers": [
+        "use"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Вставте because або so: We were tired, ___ we went home.",
+      "points": 2,
+      "answers": [
+        "so"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Складіть питання з усіх слів: you / Did / souvenirs / buy. Запишіть без знака питання.",
+      "points": 3,
+      "answers": [
+        "Did you buy souvenirs"
+      ]
+    }
+  ],
+  "id": "6-sb-grammar-homework-02",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886834",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886834",
+      "builder_url": "https://naurok.com.ua/test/builder/3886834",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

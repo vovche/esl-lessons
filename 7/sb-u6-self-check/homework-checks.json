@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "7/sb-u6-self-check/index.html",
+  "tests": [
+    {
+      "id": "7-sb-u6-look-back-homework-01",
+      "title": "7 клас · What’s the matter?: Повторення Самопочуття і спілкування з лікарем · Повторення",
+      "source_lesson": "7/sb-u6-look-back/index.html",
+      "json": "homework-check-sb-u6-look-back-01.json",
+      "markdown": "homework-check-sb-u6-look-back-01.md",
+      "answer_key": "homework-check-sb-u6-look-back-01-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887209",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

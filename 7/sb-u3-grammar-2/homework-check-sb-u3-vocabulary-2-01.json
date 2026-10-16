@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · Are you ready to cook?: Лексика: застосування Приготування їжі · Лексика: застосування",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/sb-u3-vocabulary-2/index.html",
+  "source_title": "Are you ready to cook?: Лексика: застосування Приготування їжі · Лексика: застосування",
+  "assessment_lesson": "7/sb-u3-grammar-2/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова mix.",
+      "points": 1,
+      "options": [
+        "намазувати",
+        "приправляти",
+        "змішувати",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова pour.",
+      "points": 1,
+      "options": [
+        "наливати",
+        "приправляти",
+        "солоний",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова spread.",
+      "points": 1,
+      "options": [
+        "гострий",
+        "намазувати",
+        "солоний",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Eva ___ washed the tomatoes.",
+      "points": 1,
+      "options": [
+        "have",
+        "is",
+        "has",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Have you ___ the vegetables?",
+      "points": 1,
+      "options": [
+        "chopped",
+        "chop",
+        "chopping",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "What ___ you prepared?",
+      "points": 1,
+      "options": [
+        "has",
+        "have",
+        "did have",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nIn our next activity, we will choose useful words for cooking, recipes and experience. We will use these words in full sentences, compare our examples with a partner and explain our choices.\n\nHow will we use the words?",
+      "points": 2,
+      "options": [
+        "only as numbers",
+        "without any context",
+        "in full sentences",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nIn our next activity, we will choose useful words for cooking, recipes and experience. We will use these words in full sentences, compare our examples with a partner and explain our choices.\n\nWhat will we explain?",
+      "points": 2,
+      "options": [
+        "our choices",
+        "a ticket price",
+        "nothing",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    }
+  ],
+  "id": "7-sb-u3-vocabulary-2-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887015",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887015",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

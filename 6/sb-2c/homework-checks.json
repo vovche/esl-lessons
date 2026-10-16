@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "6/sb-2c/index.html",
+  "tests": [
+    {
+      "id": "6-sb-2b-homework-01",
+      "title": "Transport · 6 клас · ESL 2b",
+      "source_lesson": "6/sb-2b/index.html",
+      "json": "homework-check-sb-2b-01.json",
+      "markdown": "homework-check-sb-2b-01.md",
+      "answer_key": "homework-check-sb-2b-01-key.md",
+      "test_url": "https://naurok.com.ua/test/transport-6-klas-esl-2b-3886803.html",
+      "status": "homework_created",
+      "student_url": "https://naurok.ua/test/join?gamecode=3111403"
+    }
+  ]
+}

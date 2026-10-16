@@ -1,0 +1,131 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · Лексика курсу — Unit 5",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/sb-wordlist/index.html",
+  "source_title": "Лексика курсу",
+  "assessment_lesson": "7/sb-wordlist/index.html",
+  "placement": {
+    "rule": "no_next_lesson",
+    "note": "Перевірка після теми: окремого наступного уроку в навігації немає; збережено в папці вихідної теми."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери український переклад: athletics.",
+      "points": 1,
+      "options": [
+        "легка атлетика",
+        "арбітр",
+        "спортивне поле",
+        "шайба"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери український переклад: referee.",
+      "points": 1,
+      "options": [
+        "спортивне поле",
+        "шайба",
+        "спорядження",
+        "арбітр"
+      ],
+      "key": 3
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери український переклад: pitch.",
+      "points": 1,
+      "options": [
+        "спорядження",
+        "змагатися",
+        "спортивне поле",
+        "шайба"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери український переклад: puck.",
+      "points": 1,
+      "options": [
+        "медаль",
+        "шайба",
+        "спорядження",
+        "змагатися"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери український переклад: equipment.",
+      "points": 1,
+      "options": [
+        "спорядження",
+        "змагатися",
+        "медаль",
+        "досягнення"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери український переклад: compete.",
+      "points": 1,
+      "options": [
+        "медаль",
+        "досягнення",
+        "легка атлетика",
+        "змагатися"
+      ],
+      "key": 3
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською за словником Unit 5: «медаль». Початкова літера: m.",
+      "points": 2,
+      "answers": [
+        "medal"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською за словником Unit 5: «досягнення». Початкова літера: a.",
+      "points": 2,
+      "answers": [
+        "achievement"
+      ]
+    }
+  ],
+  "id": "7-sb-wordlist-homework-05",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887142",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887142",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

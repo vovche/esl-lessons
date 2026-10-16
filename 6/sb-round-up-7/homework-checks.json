@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "6/sb-round-up-7/index.html",
+  "tests": [
+    {
+      "id": "6-sb-culture-4-homework-01",
+      "title": "Popular musicals · 6 клас · ESL culture-4",
+      "source_lesson": "6/sb-culture-4/index.html",
+      "json": "homework-check-sb-culture-4-01.json",
+      "markdown": "homework-check-sb-culture-4-01.md",
+      "answer_key": "homework-check-sb-culture-4-01-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887009",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

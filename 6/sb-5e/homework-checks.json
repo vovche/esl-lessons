@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "6/sb-5e/index.html",
+  "tests": [
+    {
+      "id": "6-sb-5d-homework-01",
+      "title": "Animal protection · 6 клас · ESL 5d",
+      "source_lesson": "6/sb-5d/index.html",
+      "json": "homework-check-sb-5d-01.json",
+      "markdown": "homework-check-sb-5d-01.md",
+      "answer_key": "homework-check-sb-5d-01-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886878",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

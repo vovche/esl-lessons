@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "title": "6 клас · Wordlist · Unit 4",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-wordlist/index.html",
+  "source_title": "Лексика курсу",
+  "assessment_lesson": "6/sb-wordlist/index.html",
+  "placement": {
+    "rule": "no_next_lesson",
+    "note": "Перевірка після теми: окремого наступного уроку в навігації немає; збережено в папці вихідної теми."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Лексика Unit 4. Перекладіть англійською: «квітникар, квіткова крамниця». Підказка: 7 символів; починається на f. Напишіть слово або словосполучення зі словника уроку.",
+      "points": 1,
+      "answers": [
+        "florist"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Лексика Unit 4. Перекладіть англійською: «перехід». Підказка: 8 символів; починається на c. Напишіть слово або словосполучення зі словника уроку.",
+      "points": 1,
+      "answers": [
+        "crossing"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Лексика Unit 4. Перекладіть англійською: «спокійний». Підказка: 8 символів; починається на p. Напишіть слово або словосполучення зі словника уроку.",
+      "points": 1,
+      "answers": [
+        "peaceful"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Complete: Our solar system is part of a ___. (галактика)",
+      "points": 2,
+      "answers": [
+        "galaxy"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Complete: Tourists visited the old ___ with towers and thick walls. (замок)",
+      "points": 2,
+      "answers": [
+        "castle"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Відновіть слово зі словника Unit 4 («сільська місцевість») із усіх літер: e / d / i / s / y / r / t / n / u / o / c. Напишіть його правильно.",
+      "points": 3,
+      "answers": [
+        "countryside"
+      ]
+    }
+  ],
+  "id": "6-sb-wordlist-homework-04",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886944",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886944",
+      "builder_url": "https://naurok.com.ua/test/builder/3886944",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

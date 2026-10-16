@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · Traditions... Traditions...: Починаємо юніт Свята і традиції · Починаємо юніт",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/sb-u4-lead-in/index.html",
+  "source_title": "Traditions... Traditions...: Починаємо юніт Свята і традиції · Починаємо юніт",
+  "assessment_lesson": "7/sb-u4-blog/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова custom.",
+      "points": 1,
+      "options": [
+        "північ",
+        "звичай",
+        "переддень",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова celebrate.",
+      "points": 1,
+      "options": [
+        "північ",
+        "свічка",
+        "святкувати",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова Eve.",
+      "points": 1,
+      "options": [
+        "переддень",
+        "свічка",
+        "отримувати",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Cards ___ sent to grandparents.",
+      "points": 1,
+      "options": [
+        "be",
+        "are",
+        "is",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "The holiday ___ celebrated in winter.",
+      "points": 1,
+      "options": [
+        "are",
+        "do",
+        "is",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Special food is ___ at home.",
+      "points": 1,
+      "options": [
+        "prepared",
+        "prepare",
+        "preparing",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nThis unit is about customs and family celebrations. Before starting, I write down what I already know. I choose two useful words and one question I want to answer. At the end of the unit, I return to my question and check what I have learned.\n\nWhat do I write before starting?",
+      "points": 2,
+      "options": [
+        "a shopping receipt",
+        "what I already know",
+        "only my final score",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nThis unit is about customs and family celebrations. Before starting, I write down what I already know. I choose two useful words and one question I want to answer. At the end of the unit, I return to my question and check what I have learned.\n\nWhen do I return to my question?",
+      "points": 2,
+      "options": [
+        "never",
+        "only before starting",
+        "at the end of the unit",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    }
+  ],
+  "id": "7-sb-u4-lead-in-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887044",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887044",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

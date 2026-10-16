@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "6/sb-pair-work/index.html",
+  "tests": [
+    {
+      "id": "6-sb-clil-music-homework-01",
+      "title": "Instrument families · 6 клас · ESL clil-music",
+      "source_lesson": "6/sb-clil-music/index.html",
+      "json": "homework-check-sb-clil-music-01.json",
+      "markdown": "homework-check-sb-clil-music-01.md",
+      "answer_key": "homework-check-sb-clil-music-01-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886984",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

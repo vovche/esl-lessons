@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "title": "Films to watch · 6 клас · ESL 8e",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-8e/index.html",
+  "source_title": "Films to watch Пишемо рецензію",
+  "assessment_lesson": "6/sb-song-4/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «сюжет».",
+      "points": 1,
+      "answers": [
+        "plot"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «музичний супровід».",
+      "points": 1,
+      "answers": [
+        "soundtrack"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «сцена».",
+      "points": 1,
+      "answers": [
+        "scene"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "A film's story is its ___.",
+      "points": 1,
+      "options": [
+        "soundtrack",
+        "receipt",
+        "plot"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose a passive sentence about a film.",
+      "points": 1,
+      "options": [
+        "It was direct an artist.",
+        "It was directed by an artist.",
+        "It directed an artist."
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "It is about a girl ___ helps her friends.",
+      "points": 1,
+      "options": [
+        "who",
+        "which",
+        "when"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: In this adventure film, a museum becomes an exciting place at night. Exhibits come to life, and the main character tries to help his friends. The review praises the acting and special effects but says the soundtrack is not very special. The writer recommends the film to people who enjoy funny adventures.\n\nWhat happens at night in the film?",
+      "points": 2,
+      "options": [
+        "A supermarket closes forever.",
+        "A team wins a match.",
+        "Museum exhibits come to life."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: In this adventure film, a museum becomes an exciting place at night. Exhibits come to life, and the main character tries to help his friends. The review praises the acting and special effects but says the soundtrack is not very special. The writer recommends the film to people who enjoy funny adventures.\n\nWhat does the reviewer not praise strongly?",
+      "points": 2,
+      "options": [
+        "The special effects.",
+        "The soundtrack.",
+        "The acting."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-8e-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886971",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886971",
+      "builder_url": "https://naurok.com.ua/test/builder/3886971",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

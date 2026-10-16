@@ -1,0 +1,2125 @@
+{
+  "version": 1,
+  "grade": 6,
+  "lessons": {
+    "sb-1a": {
+      "lesson_path": "6/sb-1a/index.html",
+      "tests": [
+        {
+          "test_id": "3886774",
+          "test_url": "https://naurok.com.ua/test/school-6-klas-esl-1a-3886774.html",
+          "title": "School · 6 клас · ESL 1a",
+          "points": 10,
+          "status": "homework_created",
+          "verified": true,
+          "homework_id": "86106552",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106552",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "code": "9803631",
+          "student_url": "https://naurok.ua/test/join?gamecode=9803631",
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-1b/homework-check-sb-1a-01.json",
+          "content_path": "6/sb-1b/homework-check-sb-1a-01.json",
+          "assessment_lesson_path": "6/sb-1b/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "School Моя школа",
+          "content_id": "6-sb-1a-homework-01"
+        }
+      ]
+    },
+    "sb-1b": {
+      "lesson_path": "6/sb-1b/index.html",
+      "tests": [
+        {
+          "test_id": "3886781",
+          "builder_url": "https://naurok.com.ua/test/builder/3886781",
+          "title": "Appearance · 6 клас · ESL 1b",
+          "points": 10,
+          "status": "homework_created",
+          "verified": true,
+          "test_url": "https://naurok.com.ua/test/appearance-6-klas-esl-1b-3886781.html",
+          "homework_id": "86106556",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106556",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "code": "5461563",
+          "student_url": "https://naurok.ua/test/join?gamecode=5461563",
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-1c/homework-check-sb-1b-01.json",
+          "content_path": "6/sb-1c/homework-check-sb-1b-01.json",
+          "assessment_lesson_path": "6/sb-1c/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Appearance Описуємо зовнішність",
+          "content_id": "6-sb-1b-homework-01"
+        }
+      ]
+    },
+    "sb-1c": {
+      "lesson_path": "6/sb-1c/index.html",
+      "tests": [
+        {
+          "test_id": "3886789",
+          "builder_url": "https://naurok.com.ua/test/builder/3886789",
+          "title": "Character · 6 клас · ESL 1c",
+          "points": 10,
+          "status": "homework_created",
+          "verified": true,
+          "test_url": "https://naurok.com.ua/test/character-6-klas-esl-1c-3886789.html",
+          "homework_id": "86106535",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106535",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "code": "6400268",
+          "student_url": "https://naurok.ua/test/join?gamecode=6400268",
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-1d/homework-check-sb-1c-01.json",
+          "content_path": "6/sb-1d/homework-check-sb-1c-01.json",
+          "assessment_lesson_path": "6/sb-1d/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Character Звички та дії зараз",
+          "content_id": "6-sb-1c-homework-01"
+        }
+      ]
+    },
+    "sb-1d": {
+      "lesson_path": "6/sb-1d/index.html",
+      "tests": [
+        {
+          "test_id": "3886794",
+          "builder_url": "https://naurok.com.ua/test/builder/3886794",
+          "title": "Free time · 6 клас · ESL 1d",
+          "points": 10,
+          "status": "homework_created",
+          "verified": true,
+          "test_url": "https://naurok.com.ua/test/free-time-6-klas-esl-1d-3886794.html",
+          "homework_id": "86106581",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106581",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "code": "3132040",
+          "student_url": "https://naurok.ua/test/join?gamecode=3132040",
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-1e/homework-check-sb-1d-01.json",
+          "content_path": "6/sb-1e/homework-check-sb-1d-01.json",
+          "assessment_lesson_path": "6/sb-1e/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Free time Вільний час",
+          "content_id": "6-sb-1d-homework-01"
+        }
+      ]
+    },
+    "sb-1e": {
+      "lesson_path": "6/sb-1e/index.html",
+      "tests": [
+        {
+          "test_id": "3886797",
+          "builder_url": "https://naurok.com.ua/test/builder/3886797",
+          "title": "My friend's profile · 6 клас · ESL 1e",
+          "points": 10,
+          "status": "homework_created",
+          "verified": true,
+          "test_url": "https://naurok.com.ua/test/my-friend-s-profile-6-klas-esl-1e-3886797.html",
+          "homework_id": "86106594",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106594",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "code": "7745162",
+          "student_url": "https://naurok.ua/test/join?gamecode=7745162",
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-culture-1/homework-check-sb-1e-01.json",
+          "content_path": "6/sb-culture-1/homework-check-sb-1e-01.json",
+          "assessment_lesson_path": "6/sb-culture-1/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "My friend's profile Профіль друга",
+          "content_id": "6-sb-1e-homework-01"
+        }
+      ]
+    },
+    "sb-2a": {
+      "lesson_path": "6/sb-2a/index.html",
+      "tests": [
+        {
+          "test_id": "3886800",
+          "builder_url": "https://naurok.com.ua/test/builder/3886800",
+          "title": "Holiday activity · 6 клас · ESL 2a",
+          "points": 10,
+          "status": "homework_created",
+          "verified": true,
+          "test_url": "https://naurok.com.ua/test/holiday-activity-6-klas-esl-2a-3886800.html",
+          "homework_id": "86106601",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106601",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "code": "9135186",
+          "student_url": "https://naurok.ua/test/join?gamecode=9135186",
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-2b/homework-check-sb-2a-01.json",
+          "content_path": "6/sb-2b/homework-check-sb-2a-01.json",
+          "assessment_lesson_path": "6/sb-2b/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Holiday activity Канікули в минулому",
+          "content_id": "6-sb-2a-homework-01"
+        }
+      ]
+    },
+    "sb-2b": {
+      "lesson_path": "6/sb-2b/index.html",
+      "tests": [
+        {
+          "test_id": "3886803",
+          "builder_url": "https://naurok.com.ua/test/builder/3886803",
+          "title": "Transport · 6 клас · ESL 2b",
+          "points": 10,
+          "status": "homework_created",
+          "verified": true,
+          "test_url": "https://naurok.com.ua/test/transport-6-klas-esl-2b-3886803.html",
+          "homework_id": "86106613",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106613",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "code": "3111403",
+          "student_url": "https://naurok.ua/test/join?gamecode=3111403",
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-2c/homework-check-sb-2b-01.json",
+          "content_path": "6/sb-2c/homework-check-sb-2b-01.json",
+          "assessment_lesson_path": "6/sb-2c/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Transport Обираємо транспорт",
+          "content_id": "6-sb-2b-homework-01"
+        }
+      ]
+    },
+    "sb-2c": {
+      "lesson_path": "6/sb-2c/index.html",
+      "tests": [
+        {
+          "test_id": "3886806",
+          "builder_url": "https://naurok.com.ua/test/builder/3886806",
+          "title": "Travel preparations · 6 клас · ESL 2c",
+          "points": 10,
+          "status": "homework_created",
+          "verified": true,
+          "test_url": "https://naurok.com.ua/test/travel-preparations-6-klas-esl-2c-3886806.html",
+          "homework_id": "86106623",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106623",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "code": "7818947",
+          "student_url": "https://naurok.ua/test/join?gamecode=7818947",
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-2d/homework-check-sb-2c-01.json",
+          "content_path": "6/sb-2d/homework-check-sb-2c-01.json",
+          "assessment_lesson_path": "6/sb-2d/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Travel preparations Готуємося до подорожі",
+          "content_id": "6-sb-2c-homework-01"
+        }
+      ]
+    },
+    "sb-2d": {
+      "lesson_path": "6/sb-2d/index.html",
+      "tests": [
+        {
+          "test_id": "3886811",
+          "builder_url": "https://naurok.com.ua/test/builder/3886811",
+          "title": "Travelling then and now · 6 клас · ESL 2d",
+          "points": 10,
+          "status": "homework_created",
+          "verified": true,
+          "test_url": "https://naurok.com.ua/test/travelling-then-and-now-6-klas-esl-2d-3886811.html",
+          "homework_id": "86106638",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106638",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "code": "1491457",
+          "student_url": "https://naurok.ua/test/join?gamecode=1491457",
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-2e/homework-check-sb-2d-01.json",
+          "content_path": "6/sb-2e/homework-check-sb-2d-01.json",
+          "assessment_lesson_path": "6/sb-2e/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Travelling then and now Подорожі колись і зараз",
+          "content_id": "6-sb-2d-homework-01"
+        }
+      ]
+    },
+    "sb-2e": {
+      "lesson_path": "6/sb-2e/index.html",
+      "tests": [
+        {
+          "test_id": "3886813",
+          "builder_url": "https://naurok.com.ua/test/builder/3886813",
+          "title": "A school trip · 6 клас · ESL 2e",
+          "points": 10,
+          "status": "homework_created",
+          "verified": true,
+          "test_url": "https://naurok.com.ua/test/a-school-trip-6-klas-esl-2e-3886813.html",
+          "homework_id": "86106655",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106655",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "code": "4858667",
+          "student_url": "https://naurok.ua/test/join?gamecode=4858667",
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-song-1/homework-check-sb-2e-01.json",
+          "content_path": "6/sb-song-1/homework-check-sb-2e-01.json",
+          "assessment_lesson_path": "6/sb-song-1/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "A school trip Лист про шкільну поїздку",
+          "content_id": "6-sb-2e-homework-01"
+        }
+      ]
+    },
+    "sb-3a": {
+      "lesson_path": "6/sb-3a/index.html",
+      "tests": [
+        {
+          "test_id": "3886817",
+          "builder_url": "https://naurok.com.ua/test/builder/3886817",
+          "title": "Accident · 6 клас · ESL 3a",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "test_url": "https://naurok.com.ua/test/accident-6-klas-esl-3a-3886817.html",
+          "deadline": "2027-01-03T23:00",
+          "semester": 1,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-3b/homework-check-sb-3a-01.json",
+          "content_path": "6/sb-3b/homework-check-sb-3a-01.json",
+          "assessment_lesson_path": "6/sb-3b/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Accident Що відбувалося під час пригоди",
+          "content_id": "6-sb-3a-homework-01"
+        }
+      ]
+    },
+    "sb-3b": {
+      "lesson_path": "6/sb-3b/index.html",
+      "tests": [
+        {
+          "test_id": "3886820",
+          "builder_url": "https://naurok.com.ua/test/builder/3886820",
+          "title": "Mysteries · 6 клас · ESL 3b",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "test_url": "https://naurok.com.ua/test-beta/test/3886820",
+          "semester": 1,
+          "deadline": "2027-01-03T23:00",
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-3c/homework-check-sb-3b-01.json",
+          "content_path": "6/sb-3c/homework-check-sb-3b-01.json",
+          "assessment_lesson_path": "6/sb-3c/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Mysteries Таємнича історія",
+          "content_id": "6-sb-3b-homework-01"
+        }
+      ]
+    },
+    "sb-3c": {
+      "lesson_path": "6/sb-3c/index.html",
+      "tests": [
+        {
+          "test_id": "3886824",
+          "builder_url": "https://naurok.com.ua/test/builder/3886824",
+          "title": "What happened? · 6 клас · ESL 3c",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "test_url": "https://naurok.com.ua/test-beta/test/3886824",
+          "semester": 1,
+          "deadline": "2027-01-03T23:00",
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-3d/homework-check-sb-3c-01.json",
+          "content_path": "6/sb-3d/homework-check-sb-3c-01.json",
+          "assessment_lesson_path": "6/sb-3d/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "What happened? Пригода в парку атракціонів",
+          "content_id": "6-sb-3c-homework-01"
+        }
+      ]
+    },
+    "sb-3d": {
+      "lesson_path": "6/sb-3d/index.html",
+      "tests": [
+        {
+          "test_id": "3886825",
+          "builder_url": "https://naurok.com.ua/test/builder/3886825",
+          "title": "Emotions · 6 клас · ESL 3d",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "test_url": "https://naurok.com.ua/test-beta/test/3886825",
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-3e/homework-check-sb-3d-01.json",
+          "semester": 1,
+          "deadline": "2027-01-03T23:00",
+          "content_path": "6/sb-3e/homework-check-sb-3d-01.json",
+          "assessment_lesson_path": "6/sb-3e/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Emotions Почуття героїв",
+          "content_id": "6-sb-3d-homework-01"
+        }
+      ]
+    },
+    "sb-3e": {
+      "lesson_path": "6/sb-3e/index.html",
+      "tests": [
+        {
+          "test_id": "3886828",
+          "builder_url": "https://naurok.com.ua/test/builder/3886828",
+          "title": "Unlucky story · 6 клас · ESL 3e",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "test_url": "https://naurok.com.ua/test-beta/test/3886828",
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-culture-2/homework-check-sb-3e-01.json",
+          "semester": 1,
+          "deadline": "2027-01-03T23:00",
+          "content_path": "6/sb-culture-2/homework-check-sb-3e-01.json",
+          "assessment_lesson_path": "6/sb-culture-2/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Unlucky story Пишемо історію",
+          "content_id": "6-sb-3e-homework-01"
+        }
+      ]
+    },
+    "sb-4a": {
+      "lesson_path": "6/sb-4a/index.html",
+      "tests": [
+        {
+          "test_id": "3886830",
+          "builder_url": "https://naurok.com.ua/test/builder/3886830",
+          "title": "Around town · 6 клас · ESL 4a",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "test_url": "https://naurok.com.ua/test-beta/test/3886830",
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-4b/homework-check-sb-4a-01.json",
+          "semester": 1,
+          "deadline": "2027-01-03T23:00",
+          "content_path": "6/sb-4b/homework-check-sb-4a-01.json",
+          "assessment_lesson_path": "6/sb-4b/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Around town Місця в місті",
+          "content_id": "6-sb-4a-homework-01"
+        }
+      ]
+    },
+    "sb-4b": {
+      "lesson_path": "6/sb-4b/index.html",
+      "tests": [
+        {
+          "test_id": "3886836",
+          "builder_url": "https://naurok.com.ua/test/builder/3886836",
+          "title": "How to get there · 6 клас · ESL 4b",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "test_url": "https://naurok.com.ua/test-beta/test/3886836",
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-4c/homework-check-sb-4b-01.json",
+          "semester": 1,
+          "deadline": "2027-01-03T23:00",
+          "content_path": "6/sb-4c/homework-check-sb-4b-01.json",
+          "assessment_lesson_path": "6/sb-4c/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "How to get there Пояснюємо маршрут",
+          "content_id": "6-sb-4b-homework-01"
+        }
+      ]
+    },
+    "sb-4c": {
+      "lesson_path": "6/sb-4c/index.html",
+      "tests": [
+        {
+          "test_id": "3886843",
+          "builder_url": "https://naurok.com.ua/test/builder/3886843",
+          "title": "City vs countryside · 6 клас · ESL 4c",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "test_url": "https://naurok.com.ua/test-beta/test/3886843",
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-4d/homework-check-sb-4c-01.json",
+          "semester": 1,
+          "deadline": "2027-01-03T23:00",
+          "content_path": "6/sb-4d/homework-check-sb-4c-01.json",
+          "assessment_lesson_path": "6/sb-4d/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "City vs countryside Місто чи село",
+          "content_id": "6-sb-4c-homework-01"
+        }
+      ]
+    },
+    "sb-4d": {
+      "lesson_path": "6/sb-4d/index.html",
+      "tests": [
+        {
+          "test_id": "3886847",
+          "builder_url": "https://naurok.com.ua/test/builder/3886847",
+          "title": "Outer space · 6 клас · ESL 4d",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "test_url": "https://naurok.com.ua/test-beta/test/3886847",
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-4e/homework-check-sb-4d-01.json",
+          "semester": 1,
+          "deadline": "2027-01-03T23:00",
+          "content_path": "6/sb-4e/homework-check-sb-4d-01.json",
+          "assessment_lesson_path": "6/sb-4e/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Outer space Космос і найвищий ступінь",
+          "content_id": "6-sb-4d-homework-01"
+        }
+      ]
+    },
+    "sb-4e": {
+      "lesson_path": "6/sb-4e/index.html",
+      "tests": [
+        {
+          "test_id": "3886855",
+          "builder_url": "https://naurok.com.ua/test/builder/3886855",
+          "title": "Where I live · 6 клас · ESL 4e",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "test_url": "https://naurok.com.ua/test-beta/test/3886855",
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-song-2/homework-check-sb-4e-01.json",
+          "semester": 1,
+          "deadline": "2027-01-03T23:00",
+          "content_path": "6/sb-song-2/homework-check-sb-4e-01.json",
+          "assessment_lesson_path": "6/sb-song-2/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Where I live Описуємо своє місто",
+          "content_id": "6-sb-4e-homework-01"
+        }
+      ]
+    },
+    "sb-5a": {
+      "lesson_path": "6/sb-5a/index.html",
+      "tests": [
+        {
+          "test_id": "3886861",
+          "builder_url": "https://naurok.com.ua/test/builder/3886861",
+          "title": "Computer parts · 6 клас · ESL 5a",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "test_url": "https://naurok.com.ua/test-beta/test/3886861",
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-5b/homework-check-sb-5a-01.json",
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "content_path": "6/sb-5b/homework-check-sb-5a-01.json",
+          "assessment_lesson_path": "6/sb-5b/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Computer parts Комп’ютер і плани",
+          "content_id": "6-sb-5a-homework-01"
+        }
+      ]
+    },
+    "sb-5b": {
+      "lesson_path": "6/sb-5b/index.html",
+      "tests": [
+        {
+          "test_id": "3886866",
+          "builder_url": "https://naurok.com.ua/test/builder/3886866",
+          "title": "Gadgets · 6 клас · ESL 5b",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "test_url": "https://naurok.com.ua/test-beta/test/3886866",
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-5c/homework-check-sb-5b-01.json",
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "content_path": "6/sb-5c/homework-check-sb-5b-01.json",
+          "assessment_lesson_path": "6/sb-5c/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Gadgets Технології майбутнього",
+          "content_id": "6-sb-5b-homework-01"
+        }
+      ]
+    },
+    "sb-5c": {
+      "lesson_path": "6/sb-5c/index.html",
+      "tests": [
+        {
+          "test_id": "3886873",
+          "builder_url": "https://naurok.com.ua/test/builder/3886873",
+          "title": "Recycling · 6 клас · ESL 5c",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "test_url": "https://naurok.com.ua/test-beta/test/3886873",
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-5d/homework-check-sb-5c-01.json",
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "content_path": "6/sb-5d/homework-check-sb-5c-01.json",
+          "assessment_lesson_path": "6/sb-5d/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Recycling Обов’язки та заборони",
+          "content_id": "6-sb-5c-homework-01"
+        }
+      ]
+    },
+    "sb-5d": {
+      "lesson_path": "6/sb-5d/index.html",
+      "tests": [
+        {
+          "test_id": "3886878",
+          "builder_url": "https://naurok.com.ua/test/builder/3886878",
+          "title": "Animal protection · 6 клас · ESL 5d",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "test_url": "https://naurok.com.ua/test-beta/test/3886878",
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-5e/homework-check-sb-5d-01.json",
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "content_path": "6/sb-5e/homework-check-sb-5d-01.json",
+          "assessment_lesson_path": "6/sb-5e/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Animal protection Захищаємо тварин",
+          "content_id": "6-sb-5d-homework-01"
+        }
+      ]
+    },
+    "sb-5e": {
+      "lesson_path": "6/sb-5e/index.html",
+      "tests": [
+        {
+          "test_id": "3886882",
+          "builder_url": "https://naurok.com.ua/test/builder/3886882",
+          "title": "An environmental event · 6 клас · ESL 5e",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "test_url": "https://naurok.com.ua/test-beta/test/3886882",
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-culture-3/homework-check-sb-5e-01.json",
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "content_path": "6/sb-culture-3/homework-check-sb-5e-01.json",
+          "assessment_lesson_path": "6/sb-culture-3/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "An environmental event Запрошення на екоподію",
+          "content_id": "6-sb-5e-homework-01"
+        }
+      ]
+    },
+    "sb-6a": {
+      "lesson_path": "6/sb-6a/index.html",
+      "tests": [
+        {
+          "test_id": "3886893",
+          "builder_url": "https://naurok.com.ua/test/builder/3886893",
+          "title": "Healthy food · 6 клас · ESL 6a",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "test_url": "https://naurok.com.ua/test-beta/test/3886893",
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-6b/homework-check-sb-6a-01.json",
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "content_path": "6/sb-6b/homework-check-sb-6a-01.json",
+          "assessment_lesson_path": "6/sb-6b/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Healthy food Їжа та кількість",
+          "content_id": "6-sb-6a-homework-01"
+        }
+      ]
+    },
+    "sb-6b": {
+      "lesson_path": "6/sb-6b/index.html",
+      "tests": [
+        {
+          "test_id": "3886895",
+          "builder_url": "https://naurok.com.ua/test/builder/3886895",
+          "title": "Ailments and illnesses · 6 клас · ESL 6b",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "test_url": "https://naurok.com.ua/test-beta/test/3886895",
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-6c/homework-check-sb-6b-01.json",
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "content_path": "6/sb-6c/homework-check-sb-6b-01.json",
+          "assessment_lesson_path": "6/sb-6c/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Ailments and illnesses Самопочуття й поради",
+          "content_id": "6-sb-6b-homework-01"
+        }
+      ]
+    },
+    "sb-6c": {
+      "lesson_path": "6/sb-6c/index.html",
+      "tests": [
+        {
+          "test_id": "3886899",
+          "builder_url": "https://naurok.com.ua/test/builder/3886899",
+          "title": "Facts about sports · 6 клас · ESL 6c",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886899",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-6d/homework-check-sb-6c-01.json",
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "content_path": "6/sb-6d/homework-check-sb-6c-01.json",
+          "assessment_lesson_path": "6/sb-6d/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Facts about sports Спорт і запитання з хвостиком",
+          "content_id": "6-sb-6c-homework-01"
+        }
+      ]
+    },
+    "sb-6d": {
+      "lesson_path": "6/sb-6d/index.html",
+      "tests": [
+        {
+          "test_id": "3886906",
+          "builder_url": "https://naurok.com.ua/test/builder/3886906",
+          "title": "Football · 6 клас · ESL 6d",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886906",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-6e/homework-check-sb-6d-01.json",
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "content_path": "6/sb-6e/homework-check-sb-6d-01.json",
+          "assessment_lesson_path": "6/sb-6e/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Football Моя команда",
+          "content_id": "6-sb-6d-homework-01"
+        }
+      ]
+    },
+    "sb-6e": {
+      "lesson_path": "6/sb-6e/index.html",
+      "tests": [
+        {
+          "test_id": "3886913",
+          "builder_url": "https://naurok.com.ua/test/builder/3886913",
+          "title": "Get active! · 6 клас · ESL 6e",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886913",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-song-3/homework-check-sb-6e-01.json",
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "content_path": "6/sb-song-3/homework-check-sb-6e-01.json",
+          "assessment_lesson_path": "6/sb-song-3/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Get active! Нове захоплення",
+          "content_id": "6-sb-6e-homework-01"
+        }
+      ]
+    },
+    "sb-7a": {
+      "lesson_path": "6/sb-7a/index.html",
+      "tests": [
+        {
+          "test_id": "3886918",
+          "builder_url": "https://naurok.com.ua/test/builder/3886918",
+          "title": "TV programmes · 6 клас · ESL 7a",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886918",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-7b/homework-check-sb-7a-01.json",
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "content_path": "6/sb-7b/homework-check-sb-7a-01.json",
+          "assessment_lesson_path": "6/sb-7b/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "TV programmes Досвід і телепрограми",
+          "content_id": "6-sb-7a-homework-01"
+        }
+      ]
+    },
+    "sb-7b": {
+      "lesson_path": "6/sb-7b/index.html",
+      "tests": [
+        {
+          "test_id": "3886922",
+          "builder_url": "https://naurok.com.ua/test/builder/3886922",
+          "title": "Music · 6 клас · ESL 7b",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886922",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-7c/homework-check-sb-7b-01.json",
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "content_path": "6/sb-7c/homework-check-sb-7b-01.json",
+          "assessment_lesson_path": "6/sb-7c/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Music Досвід і конкретна подія",
+          "content_id": "6-sb-7b-homework-01"
+        }
+      ]
+    },
+    "sb-7c": {
+      "lesson_path": "6/sb-7c/index.html",
+      "tests": [
+        {
+          "test_id": "3886925",
+          "builder_url": "https://naurok.com.ua/test/builder/3886925",
+          "title": "Messages · 6 клас · ESL 7c",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886925",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-7d/homework-check-sb-7c-01.json",
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "content_path": "6/sb-7d/homework-check-sb-7c-01.json",
+          "assessment_lesson_path": "6/sb-7d/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Messages Повідомлення та тривалість",
+          "content_id": "6-sb-7c-homework-01"
+        }
+      ]
+    },
+    "sb-7d": {
+      "lesson_path": "6/sb-7d/index.html",
+      "tests": [
+        {
+          "test_id": "3886934",
+          "builder_url": "https://naurok.com.ua/test/builder/3886934",
+          "title": "Going shopping · 6 клас · ESL 7d",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886934",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-7e/homework-check-sb-7d-01.json",
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "content_path": "6/sb-7e/homework-check-sb-7d-01.json",
+          "assessment_lesson_path": "6/sb-7e/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Going shopping Розмір, ціна та вибір",
+          "content_id": "6-sb-7d-homework-01"
+        }
+      ]
+    },
+    "sb-7e": {
+      "lesson_path": "6/sb-7e/index.html",
+      "tests": [
+        {
+          "test_id": "3886942",
+          "builder_url": "https://naurok.com.ua/test/builder/3886942",
+          "title": "Teen problems · 6 клас · ESL 7e",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886942",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-culture-4/homework-check-sb-7e-01.json",
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "content_path": "6/sb-culture-4/homework-check-sb-7e-01.json",
+          "assessment_lesson_path": "6/sb-culture-4/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Teen problems Просимо й даємо пораду",
+          "content_id": "6-sb-7e-homework-01"
+        }
+      ]
+    },
+    "sb-8a": {
+      "lesson_path": "6/sb-8a/index.html",
+      "tests": [
+        {
+          "test_id": "3886949",
+          "builder_url": "https://naurok.com.ua/test/builder/3886949",
+          "title": "In the headlines · 6 клас · ESL 8a",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886949",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-8b/homework-check-sb-8a-01.json",
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "content_path": "6/sb-8b/homework-check-sb-8a-01.json",
+          "assessment_lesson_path": "6/sb-8b/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "In the headlines Новини та означальні речення",
+          "content_id": "6-sb-8a-homework-01"
+        }
+      ]
+    },
+    "sb-8b": {
+      "lesson_path": "6/sb-8b/index.html",
+      "tests": [
+        {
+          "test_id": "3886952",
+          "builder_url": "https://naurok.com.ua/test/builder/3886952",
+          "title": "Performing on stage · 6 клас · ESL 8b",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886952",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-8c/homework-check-sb-8b-01.json",
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "content_path": "6/sb-8c/homework-check-sb-8b-01.json",
+          "assessment_lesson_path": "6/sb-8c/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Performing on stage Виступ і згода",
+          "content_id": "6-sb-8b-homework-01"
+        }
+      ]
+    },
+    "sb-8c": {
+      "lesson_path": "6/sb-8c/index.html",
+      "tests": [
+        {
+          "test_id": "3886960",
+          "builder_url": "https://naurok.com.ua/test/builder/3886960",
+          "title": "The press · 6 клас · ESL 8c",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886960",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-8d/homework-check-sb-8c-01.json",
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "content_path": "6/sb-8d/homework-check-sb-8c-01.json",
+          "assessment_lesson_path": "6/sb-8d/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "The press Як створюють журнал",
+          "content_id": "6-sb-8c-homework-01"
+        }
+      ]
+    },
+    "sb-8d": {
+      "lesson_path": "6/sb-8d/index.html",
+      "tests": [
+        {
+          "test_id": "3886964",
+          "builder_url": "https://naurok.com.ua/test/builder/3886964",
+          "title": "The Oscars · 6 клас · ESL 8d",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886964",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-8e/homework-check-sb-8d-01.json",
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "content_path": "6/sb-8e/homework-check-sb-8d-01.json",
+          "assessment_lesson_path": "6/sb-8e/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "The Oscars Нагороди в минулому",
+          "content_id": "6-sb-8d-homework-01"
+        }
+      ]
+    },
+    "sb-8e": {
+      "lesson_path": "6/sb-8e/index.html",
+      "tests": [
+        {
+          "test_id": "3886971",
+          "builder_url": "https://naurok.com.ua/test/builder/3886971",
+          "title": "Films to watch · 6 клас · ESL 8e",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886971",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-song-4/homework-check-sb-8e-01.json",
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "content_path": "6/sb-song-4/homework-check-sb-8e-01.json",
+          "assessment_lesson_path": "6/sb-song-4/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Films to watch Пишемо рецензію",
+          "content_id": "6-sb-8e-homework-01"
+        }
+      ]
+    },
+    "sb-clil-geography": {
+      "lesson_path": "6/sb-clil-geography/index.html",
+      "tests": [
+        {
+          "test_id": "3886976",
+          "builder_url": "https://naurok.com.ua/test/builder/3886976",
+          "title": "A country fact file · 6 клас · ESL clil-geography",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886976",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-clil-sport/homework-check-sb-clil-geography-01.json",
+          "semester": 1,
+          "deadline": "2027-01-03T23:00",
+          "content_path": "6/sb-clil-sport/homework-check-sb-clil-geography-01.json",
+          "assessment_lesson_path": "6/sb-clil-sport/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "A country fact file Географія англійською: профіль країни",
+          "content_id": "6-sb-clil-geography-homework-01"
+        }
+      ]
+    },
+    "sb-clil-history": {
+      "lesson_path": "6/sb-clil-history/index.html",
+      "tests": [
+        {
+          "test_id": "3886981",
+          "builder_url": "https://naurok.com.ua/test/builder/3886981",
+          "title": "An expedition · 6 клас · ESL clil-history",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886981",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-clil-geography/homework-check-sb-clil-history-01.json",
+          "semester": 1,
+          "deadline": "2027-01-03T23:00",
+          "content_path": "6/sb-clil-geography/homework-check-sb-clil-history-01.json",
+          "assessment_lesson_path": "6/sb-clil-geography/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "An expedition Історія англійською: експедиція",
+          "content_id": "6-sb-clil-history-homework-01"
+        }
+      ]
+    },
+    "sb-clil-music": {
+      "lesson_path": "6/sb-clil-music/index.html",
+      "tests": [
+        {
+          "test_id": "3886984",
+          "builder_url": "https://naurok.com.ua/test/builder/3886984",
+          "title": "Instrument families · 6 клас · ESL clil-music",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886984",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-pair-work/homework-check-sb-clil-music-01.json",
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "content_path": "6/sb-pair-work/homework-check-sb-clil-music-01.json",
+          "assessment_lesson_path": "6/sb-pair-work/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Instrument families Музика англійською: групи інструментів",
+          "content_id": "6-sb-clil-music-homework-01"
+        }
+      ]
+    },
+    "sb-clil-sport": {
+      "lesson_path": "6/sb-clil-sport/index.html",
+      "tests": [
+        {
+          "test_id": "3886990",
+          "builder_url": "https://naurok.com.ua/test/builder/3886990",
+          "title": "Ice hockey · 6 клас · ESL clil-sport",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886990",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-clil-music/homework-check-sb-clil-sport-01.json",
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "content_path": "6/sb-clil-music/homework-check-sb-clil-sport-01.json",
+          "assessment_lesson_path": "6/sb-clil-music/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Ice hockey Фізкультура англійською: хокей",
+          "content_id": "6-sb-clil-sport-homework-01"
+        }
+      ]
+    },
+    "sb-culture-1": {
+      "lesson_path": "6/sb-culture-1/index.html",
+      "tests": [
+        {
+          "test_id": "3886992",
+          "builder_url": "https://naurok.com.ua/test/builder/3886992",
+          "title": "Unusual transport · 6 клас · ESL culture-1",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886992",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-round-up-1/homework-check-sb-culture-1-01.json",
+          "semester": 1,
+          "deadline": "2027-01-03T23:00",
+          "content_path": "6/sb-round-up-1/homework-check-sb-culture-1-01.json",
+          "assessment_lesson_path": "6/sb-round-up-1/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Unusual transport Культура: незвичайний транспорт",
+          "content_id": "6-sb-culture-1-homework-01"
+        }
+      ]
+    },
+    "sb-culture-2": {
+      "lesson_path": "6/sb-culture-2/index.html",
+      "tests": [
+        {
+          "test_id": "3886998",
+          "builder_url": "https://naurok.com.ua/test/builder/3886998",
+          "title": "A place full of stories · 6 клас · ESL culture-2",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3886998",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-round-up-3/homework-check-sb-culture-2-01.json",
+          "semester": 1,
+          "deadline": "2027-01-03T23:00",
+          "content_path": "6/sb-round-up-3/homework-check-sb-culture-2-01.json",
+          "assessment_lesson_path": "6/sb-round-up-3/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "A place full of stories Культура: традиції та легенди",
+          "content_id": "6-sb-culture-2-homework-01"
+        }
+      ]
+    },
+    "sb-culture-3": {
+      "lesson_path": "6/sb-culture-3/index.html",
+      "tests": [
+        {
+          "test_id": "3887003",
+          "builder_url": "https://naurok.com.ua/test/builder/3887003",
+          "title": "Parks in the city · 6 клас · ESL culture-3",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887003",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-round-up-5/homework-check-sb-culture-3-01.json",
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "content_path": "6/sb-round-up-5/homework-check-sb-culture-3-01.json",
+          "assessment_lesson_path": "6/sb-round-up-5/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Parks in the city Культура: міські парки",
+          "content_id": "6-sb-culture-3-homework-01"
+        }
+      ]
+    },
+    "sb-culture-4": {
+      "lesson_path": "6/sb-culture-4/index.html",
+      "tests": [
+        {
+          "test_id": "3887009",
+          "builder_url": "https://naurok.com.ua/test/builder/3887009",
+          "title": "Popular musicals · 6 клас · ESL culture-4",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887009",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-round-up-7/homework-check-sb-culture-4-01.json",
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "content_path": "6/sb-round-up-7/homework-check-sb-culture-4-01.json",
+          "assessment_lesson_path": "6/sb-round-up-7/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Popular musicals Культура: музичний театр",
+          "content_id": "6-sb-culture-4-homework-01"
+        }
+      ]
+    },
+    "sb-culture-ukraine-1": {
+      "lesson_path": "6/sb-culture-ukraine-1/index.html",
+      "tests": [
+        {
+          "test_id": "3887013",
+          "builder_url": "https://naurok.com.ua/test/builder/3887013",
+          "title": "Food traditions · 6 клас · ESL culture-ukraine-1",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887013",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-culture-ukraine-2/homework-check-sb-culture-ukraine-1-01.json",
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "content_path": "6/sb-culture-ukraine-2/homework-check-sb-culture-ukraine-1-01.json",
+          "assessment_lesson_path": "6/sb-culture-ukraine-2/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Food traditions Культура: традиції харчування",
+          "content_id": "6-sb-culture-ukraine-1-homework-01"
+        }
+      ]
+    },
+    "sb-culture-ukraine-2": {
+      "lesson_path": "6/sb-culture-ukraine-2/index.html",
+      "tests": [
+        {
+          "test_id": "3887018",
+          "builder_url": "https://naurok.com.ua/test/builder/3887018",
+          "title": "Visiting a capital · 6 клас · ESL culture-ukraine-2",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887018",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-clil-history/homework-check-sb-culture-ukraine-2-01.json",
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "content_path": "6/sb-clil-history/homework-check-sb-culture-ukraine-2-01.json",
+          "assessment_lesson_path": "6/sb-clil-history/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Visiting a capital Культура: путівник містом",
+          "content_id": "6-sb-culture-ukraine-2-homework-01"
+        }
+      ]
+    },
+    "sb-hello": {
+      "lesson_path": "6/sb-hello/index.html",
+      "tests": [
+        {
+          "test_id": "3887023",
+          "builder_url": "https://naurok.com.ua/test/builder/3887023",
+          "title": "Hello! · 6 клас · ESL hello",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887023",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-1a/homework-check-sb-hello-01.json",
+          "semester": 1,
+          "deadline": "2027-01-03T23:00",
+          "content_path": "6/sb-1a/homework-check-sb-hello-01.json",
+          "assessment_lesson_path": "6/sb-1a/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Hello! Знайомство й повторення",
+          "content_id": "6-sb-hello-homework-01"
+        }
+      ]
+    },
+    "sb-learning-tips": {
+      "lesson_path": "6/sb-learning-tips/index.html",
+      "tests": [
+        {
+          "test_id": "3887030",
+          "builder_url": "https://naurok.com.ua/test/builder/3887030",
+          "title": "Learn and create · 6 клас · ESL learning-tips",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887030",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-learning-tips/homework-check-sb-learning-tips-01.json",
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "content_path": "6/sb-learning-tips/homework-check-sb-learning-tips-01.json",
+          "assessment_lesson_path": "6/sb-learning-tips/index.html",
+          "placement_rule": "no_next_lesson",
+          "source_lesson_title": "Learn and create Як учитися й робити проєкти",
+          "content_id": "6-sb-learning-tips-homework-01"
+        }
+      ]
+    },
+    "sb-pair-work": {
+      "lesson_path": "6/sb-pair-work/index.html",
+      "tests": [
+        {
+          "test_id": "3887036",
+          "builder_url": "https://naurok.com.ua/test/builder/3887036",
+          "title": "Talk together · 6 клас · ESL pair-work",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887036",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-learning-tips/homework-check-sb-pair-work-01.json",
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "content_path": "6/sb-learning-tips/homework-check-sb-pair-work-01.json",
+          "assessment_lesson_path": "6/sb-learning-tips/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Talk together Робота в парах",
+          "content_id": "6-sb-pair-work-homework-01"
+        }
+      ]
+    },
+    "sb-round-up-1": {
+      "lesson_path": "6/sb-round-up-1/index.html",
+      "tests": [
+        {
+          "test_id": "3887042",
+          "builder_url": "https://naurok.com.ua/test/builder/3887042",
+          "title": "Round-up 1 · 6 клас · ESL round-up-1",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887042",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-2a/homework-check-sb-round-up-1-01.json",
+          "semester": 1,
+          "deadline": "2027-01-03T23:00",
+          "content_path": "6/sb-2a/homework-check-sb-round-up-1-01.json",
+          "assessment_lesson_path": "6/sb-2a/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Round-up 1 Повторення юніту 1",
+          "content_id": "6-sb-round-up-1-homework-01"
+        }
+      ]
+    },
+    "sb-round-up-2": {
+      "lesson_path": "6/sb-round-up-2/index.html",
+      "tests": [
+        {
+          "test_id": "3887047",
+          "builder_url": "https://naurok.com.ua/test/builder/3887047",
+          "title": "Round-up 2 · 6 клас · ESL round-up-2",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887047",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-3a/homework-check-sb-round-up-2-01.json",
+          "semester": 1,
+          "deadline": "2027-01-03T23:00",
+          "content_path": "6/sb-3a/homework-check-sb-round-up-2-01.json",
+          "assessment_lesson_path": "6/sb-3a/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Round-up 2 Повторення юніту 2",
+          "content_id": "6-sb-round-up-2-homework-01"
+        }
+      ]
+    },
+    "sb-round-up-3": {
+      "lesson_path": "6/sb-round-up-3/index.html",
+      "tests": [
+        {
+          "test_id": "3887055",
+          "builder_url": "https://naurok.com.ua/test/builder/3887055",
+          "title": "Round-up 3 · 6 клас · ESL round-up-3",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887055",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-4a/homework-check-sb-round-up-3-01.json",
+          "semester": 1,
+          "deadline": "2027-01-03T23:00",
+          "content_path": "6/sb-4a/homework-check-sb-round-up-3-01.json",
+          "assessment_lesson_path": "6/sb-4a/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Round-up 3 Повторення юніту 3",
+          "content_id": "6-sb-round-up-3-homework-01"
+        }
+      ]
+    },
+    "sb-round-up-4": {
+      "lesson_path": "6/sb-round-up-4/index.html",
+      "tests": [
+        {
+          "test_id": "3887062",
+          "builder_url": "https://naurok.com.ua/test/builder/3887062",
+          "title": "Round-up 4 · 6 клас · ESL round-up-4",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887062",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-5a/homework-check-sb-round-up-4-01.json",
+          "semester": 1,
+          "deadline": "2027-01-03T23:00",
+          "content_path": "6/sb-5a/homework-check-sb-round-up-4-01.json",
+          "assessment_lesson_path": "6/sb-5a/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Round-up 4 Повторення юніту 4",
+          "content_id": "6-sb-round-up-4-homework-01"
+        }
+      ]
+    },
+    "sb-round-up-5": {
+      "lesson_path": "6/sb-round-up-5/index.html",
+      "tests": [
+        {
+          "test_id": "3887067",
+          "builder_url": "https://naurok.com.ua/test/builder/3887067",
+          "title": "Round-up 5 · 6 клас · ESL round-up-5",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887067",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-6a/homework-check-sb-round-up-5-01.json",
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "content_path": "6/sb-6a/homework-check-sb-round-up-5-01.json",
+          "assessment_lesson_path": "6/sb-6a/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Round-up 5 Повторення юніту 5",
+          "content_id": "6-sb-round-up-5-homework-01"
+        }
+      ]
+    },
+    "sb-round-up-6": {
+      "lesson_path": "6/sb-round-up-6/index.html",
+      "tests": [
+        {
+          "test_id": "3887076",
+          "builder_url": "https://naurok.com.ua/test/builder/3887076",
+          "title": "Round-up 6 · 6 клас · ESL round-up-6",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887076",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-7a/homework-check-sb-round-up-6-01.json",
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "content_path": "6/sb-7a/homework-check-sb-round-up-6-01.json",
+          "assessment_lesson_path": "6/sb-7a/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Round-up 6 Повторення юніту 6",
+          "content_id": "6-sb-round-up-6-homework-01"
+        }
+      ]
+    },
+    "sb-round-up-7": {
+      "lesson_path": "6/sb-round-up-7/index.html",
+      "tests": [
+        {
+          "test_id": "3887083",
+          "builder_url": "https://naurok.com.ua/test/builder/3887083",
+          "title": "Round-up 7 · 6 клас · ESL round-up-7",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887083",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-8a/homework-check-sb-round-up-7-01.json",
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "content_path": "6/sb-8a/homework-check-sb-round-up-7-01.json",
+          "assessment_lesson_path": "6/sb-8a/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Round-up 7 Повторення юніту 7",
+          "content_id": "6-sb-round-up-7-homework-01"
+        }
+      ]
+    },
+    "sb-round-up-8": {
+      "lesson_path": "6/sb-round-up-8/index.html",
+      "tests": [
+        {
+          "test_id": "3887089",
+          "builder_url": "https://naurok.com.ua/test/builder/3887089",
+          "title": "Round-up 8 · 6 клас · ESL round-up-8",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887089",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-culture-ukraine-1/homework-check-sb-round-up-8-01.json",
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "content_path": "6/sb-culture-ukraine-1/homework-check-sb-round-up-8-01.json",
+          "assessment_lesson_path": "6/sb-culture-ukraine-1/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Round-up 8 Повторення юніту 8",
+          "content_id": "6-sb-round-up-8-homework-01"
+        }
+      ]
+    },
+    "sb-song-1": {
+      "lesson_path": "6/sb-song-1/index.html",
+      "tests": [
+        {
+          "test_id": "3887095",
+          "builder_url": "https://naurok.com.ua/test/builder/3887095",
+          "title": "Me and my board · 6 клас · ESL song-1",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887095",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-round-up-2/homework-check-sb-song-1-01.json",
+          "semester": 1,
+          "deadline": "2027-01-03T23:00",
+          "content_path": "6/sb-round-up-2/homework-check-sb-song-1-01.json",
+          "assessment_lesson_path": "6/sb-round-up-2/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Me and my board Пісня: день зі скейтбордом",
+          "content_id": "6-sb-song-1-homework-01"
+        }
+      ]
+    },
+    "sb-song-2": {
+      "lesson_path": "6/sb-song-2/index.html",
+      "tests": [
+        {
+          "test_id": "3887104",
+          "builder_url": "https://naurok.com.ua/test/builder/3887104",
+          "title": "Unlucky day · 6 клас · ESL song-2",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887104",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-round-up-4/homework-check-sb-song-2-01.json",
+          "semester": 1,
+          "deadline": "2027-01-03T23:00",
+          "content_path": "6/sb-round-up-4/homework-check-sb-song-2-01.json",
+          "assessment_lesson_path": "6/sb-round-up-4/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Unlucky day Пісня: невдалий день",
+          "content_id": "6-sb-song-2-homework-01"
+        }
+      ]
+    },
+    "sb-song-3": {
+      "lesson_path": "6/sb-song-3/index.html",
+      "tests": [
+        {
+          "test_id": "3887109",
+          "builder_url": "https://naurok.com.ua/test/builder/3887109",
+          "title": "Where did it all go wrong? · 6 клас · ESL song-3",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887109",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-round-up-6/homework-check-sb-song-3-01.json",
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "content_path": "6/sb-round-up-6/homework-check-sb-song-3-01.json",
+          "assessment_lesson_path": "6/sb-round-up-6/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Where did it all go wrong? Пісня: турбота про планету",
+          "content_id": "6-sb-song-3-homework-01"
+        }
+      ]
+    },
+    "sb-song-4": {
+      "lesson_path": "6/sb-song-4/index.html",
+      "tests": [
+        {
+          "test_id": "3887114",
+          "builder_url": "https://naurok.com.ua/test/builder/3887114",
+          "title": "Superstar · 6 клас · ESL song-4",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887114",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "6/sb-round-up-8/homework-check-sb-song-4-01.json",
+          "semester": 2,
+          "deadline": "2027-06-01T23:00",
+          "content_path": "6/sb-round-up-8/homework-check-sb-song-4-01.json",
+          "assessment_lesson_path": "6/sb-round-up-8/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Superstar Пісня: мрії про успіх",
+          "content_id": "6-sb-song-4-homework-01"
+        }
+      ]
+    }
+  }
+}

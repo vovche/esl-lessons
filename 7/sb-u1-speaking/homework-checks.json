@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "7/sb-u1-speaking/index.html",
+  "tests": [
+    {
+      "id": "7-sb-u1-grammar-2-homework-01",
+      "title": "7 клас · In and out of school: Граматика: застосування Шкільне життя і дозвілля · Граматика: застосування",
+      "source_lesson": "7/sb-u1-grammar-2/index.html",
+      "json": "homework-check-sb-u1-grammar-2-01.json",
+      "markdown": "homework-check-sb-u1-grammar-2-01.md",
+      "answer_key": "homework-check-sb-u1-grammar-2-01-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886831",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

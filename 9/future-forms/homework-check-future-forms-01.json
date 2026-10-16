@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "title": "9 клас · Future Forms — чотири форми майбутнього",
+  "grade": 9,
+  "purpose": "homework_check",
+  "source_lesson": "9/future-forms/index.html",
+  "source_title": "Як англійською говорити про майбутнє",
+  "assessment_lesson": "9/future-forms/index.html",
+  "placement": {
+    "rule": "no_next_lesson",
+    "note": "Перевірка після теми: окремого наступного уроку в навігації немає; збережено в папці вихідної теми."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "The train leaves at 8:20 tomorrow. Яке значення передає Present Simple?",
+      "points": 1,
+      "options": [
+        "Офіційний розклад",
+        "Рішення, прийняте щойно",
+        "Непевну думку",
+        "Дію, що відбувається зараз"
+      ],
+      "key": 0
+    },
+    {
+      "type": "word",
+      "prompt": "Доповни обіцянку допоміжним дієсловом: I promise I ___ help you.",
+      "points": 1,
+      "answers": [
+        "will"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Впиши meet у Present Continuous: We ___ Anna at five tomorrow. We have already arranged it.",
+      "points": 1,
+      "answers": [
+        "are meeting"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Впиши fall з be going to: Look at that loose bag! It ___ on you.",
+      "points": 2,
+      "answers": [
+        "is going to fall"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Впиши win з will: I think our team ___ tomorrow. Це особиста думка, а не видимий доказ.",
+      "points": 2,
+      "answers": [
+        "will win"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Шкільна програма фіксує початок виставки о10:00. Зустріч із командою вже узгоджено на9:30. Обери пару форм: The fair ___ at ten, and we ___ our team at nine thirty.",
+      "points": 3,
+      "options": [
+        "is starting / meet",
+        "starts / are meeting",
+        "will starts / meeting",
+        "start / is meeting"
+      ],
+      "key": 1
+    }
+  ],
+  "id": "9-future-forms-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887187",
+      "test_url": "https://naurok.com.ua/test/9-klas-future-forms-chotiri-formi-maybutnogo-3887187.html",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

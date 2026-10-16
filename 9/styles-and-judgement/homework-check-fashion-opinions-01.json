@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "title": "9 клас · Fashion and me — думки та одяг",
+  "grade": 9,
+  "purpose": "homework_check",
+  "source_lesson": "9/fashion-opinions/index.html",
+  "source_title": "Fashion and me Читай і висловлюй думку про моду",
+  "assessment_lesson": "9/styles-and-judgement/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: дуже обтислі (про джинси). Одне слово.",
+      "points": 1,
+      "answers": [
+        "skinny"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: бавовна. Одне слово.",
+      "points": 1,
+      "answers": [
+        "cotton"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Доповни одним словом: I prefer loose clothes ___ they are comfortable. Потрібен сполучник причини.",
+      "points": 1,
+      "answers": [
+        "because"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Яке речення ввічливо висловлює іншу думку?",
+      "points": 2,
+      "options": [
+        "Your style is silly.",
+        "Nobody should think differently.",
+        "I understand that trends are fun, but I prefer simple clothes.",
+        "Stop talking about your clothes."
+      ],
+      "key": 2
+    },
+    {
+      "type": "word",
+      "prompt": "Переклади двома словами: вільна сорочка. Використай loose.",
+      "points": 2,
+      "answers": [
+        "loose shirt"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери коментар з особистою позицією, конкретною причиною й ввічливою незгодою.",
+      "points": 3,
+      "options": [
+        "Fashion is fashion. I have clothes.",
+        "Everyone must follow my style. Your clothes are bad.",
+        "I like clothes. Nothing else matters.",
+        "I prefer loose cotton shirts because they feel comfortable. I understand that you like skinny jeans, but I choose a different fit."
+      ],
+      "key": 3
+    }
+  ],
+  "id": "9-fashion-opinions-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886801",
+      "test_url": "https://naurok.com.ua/test/9-klas-fashion-and-me-dumki-ta-odyag-3886801.html",
+      "status": "homework_created",
+      "verified": true,
+      "homework_id": "86106607",
+      "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106607",
+      "student_url": "https://naurok.ua/test/join?gamecode=6326995",
+      "code": "6326995",
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

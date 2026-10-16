@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "title": "9 клас · Think Green, Live Green: Письмо",
+  "grade": 9,
+  "purpose": "homework_check",
+  "source_lesson": "9/sb-u7-writing/index.html",
+  "source_title": "Think Green, Live Green: Письмо Думай і живи екологічно: Письмо",
+  "assessment_lesson": "9/sb-u7-look-back/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова environment.",
+      "points": 1,
+      "options": [
+        "під загрозою зникнення",
+        "забруднення",
+        "довкілля"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова wildlife.",
+      "points": 1,
+      "options": [
+        "клімат",
+        "дика природа",
+        "забруднення"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова endangered.",
+      "points": 1,
+      "options": [
+        "під загрозою зникнення",
+        "клімат",
+        "багаторазовий"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "If we recycle more tomorrow, we ... less waste.",
+      "points": 2,
+      "options": [
+        "would produced",
+        "will produce",
+        "produce yesterday"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "We will work outside if it ... dry tomorrow.",
+      "points": 2,
+      "options": [
+        "is",
+        "will be",
+        "was"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст. Dan’s class is planning an Eco Day. They will collect litter if the weather is dry and organise a clothes swap indoors if it rains. Emma says that she would add more refill stations if she managed the school. Their leaflet gives practical advice: bring a reusable bottle, reduce waste and explain why each action helps.\n\nWhat would Emma add?",
+      "points": 3,
+      "options": [
+        "fewer water taps",
+        "more refill stations",
+        "more plastic wrappers"
+      ],
+      "key": 1
+    }
+  ],
+  "id": "9-sb-u7-writing-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887092",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887092",
+      "builder_url": "https://naurok.com.ua/test/builder/3887092",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "schema_version": 1,
+  "title": "Appearance · 6 клас · ESL 1b",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-1b/index.html",
+  "source_title": "Appearance Описуємо зовнішність",
+  "assessment_lesson": "6/sb-1c/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «стрункий».",
+      "points": 1,
+      "answers": [
+        "slim"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «повненький».",
+      "points": 1,
+      "answers": [
+        "chubby"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «кучерявий».",
+      "points": 1,
+      "answers": [
+        "curly"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "She ___ a book at the moment.",
+      "points": 1,
+      "options": [
+        "reads",
+        "read",
+        "is reading"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "They ___ near a tree now.",
+      "points": 1,
+      "options": [
+        "is standing",
+        "are standing",
+        "stands"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "What ___ he doing?",
+      "points": 1,
+      "options": [
+        "is",
+        "does",
+        "are"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Two friends are looking for a player in an online game. The player is tall and slim. He has got short brown hair and is wearing glasses. He is standing near a tree in the park. One friend sees a player with black hair, but that is the wrong person.\n\nWhat colour is the right player's hair?",
+      "points": 2,
+      "options": [
+        "Black.",
+        "Fair.",
+        "Brown."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Two friends are looking for a player in an online game. The player is tall and slim. He has got short brown hair and is wearing glasses. He is standing near a tree in the park. One friend sees a player with black hair, but that is the wrong person.\n\nWhere is the right player standing?",
+      "points": 2,
+      "options": [
+        "On a bus.",
+        "Near a tree.",
+        "Inside a school."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-1b-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886781",
+      "test_url": "https://naurok.com.ua/test/appearance-6-klas-esl-1b-3886781.html",
+      "builder_url": "https://naurok.com.ua/test/builder/3886781",
+      "status": "homework_created",
+      "verified": true,
+      "homework_id": "86106556",
+      "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106556",
+      "student_url": "https://naurok.ua/test/join?gamecode=5461563",
+      "code": "5461563",
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

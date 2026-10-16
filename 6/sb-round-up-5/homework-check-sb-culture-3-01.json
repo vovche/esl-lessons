@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "title": "Parks in the city · 6 клас · ESL culture-3",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-culture-3/index.html",
+  "source_title": "Parks in the city Культура: міські парки",
+  "assessment_lesson": "6/sb-round-up-5/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «природа».",
+      "points": 1,
+      "answers": [
+        "nature"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «відвідувач».",
+      "points": 1,
+      "answers": [
+        "visitor"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «острів».",
+      "points": 1,
+      "answers": [
+        "island"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "To describe a shared feature, use…",
+      "points": 1,
+      "options": [
+        "Only this park has trees.",
+        "Neither park has trees.",
+        "Both parks have trees."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Visitors can ___ in a park.",
+      "points": 1,
+      "options": [
+        "walks",
+        "walk",
+        "walking"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "A place where people can see many different animals is a ___.",
+      "points": 1,
+      "options": [
+        "zoo",
+        "receipt",
+        "keyboard"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Central Park and Hyde Park are large green spaces in busy cities. People can walk, cycle and enjoy nature there. The textbook describes sports, animals and events in both parks. It also explains that parks have changed over time. A city park can be a place for exercise, learning and spending time with friends.\n\nWhat can people enjoy in these parks?",
+      "points": 2,
+      "options": [
+        "A boarding pass.",
+        "An exam.",
+        "Nature."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Central Park and Hyde Park are large green spaces in busy cities. People can walk, cycle and enjoy nature there. The textbook describes sports, animals and events in both parks. It also explains that parks have changed over time. A city park can be a place for exercise, learning and spending time with friends.\n\nHave the parks changed over time?",
+      "points": 2,
+      "options": [
+        "The text says they disappeared.",
+        "Yes.",
+        "No."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-culture-3-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887003",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887003",
+      "builder_url": "https://naurok.com.ua/test/builder/3887003",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

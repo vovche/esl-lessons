@@ -1,0 +1,127 @@
+{
+  "schema_version": 1,
+  "title": "Free time · 6 клас · ESL 1d",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-1d/index.html",
+  "source_title": "Free time Вільний час",
+  "assessment_lesson": "6/sb-1e/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «караоке».",
+      "points": 1,
+      "answers": [
+        "karaoke"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «катання на роликах».",
+      "points": 1,
+      "answers": [
+        "rollerblading"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «катання на скейтборді».",
+      "points": 1,
+      "answers": [
+        "skateboarding"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "I enjoy ___ table tennis.",
+      "points": 1,
+      "options": [
+        "to play",
+        "play",
+        "playing"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Would you like ___ our club?",
+      "points": 1,
+      "options": [
+        "join",
+        "to join",
+        "joining"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "She does not want ___ early.",
+      "points": 1,
+      "options": [
+        "to leave",
+        "leaving",
+        "leave"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Two friends want to join a youth club. They enjoy playing computer games and table tennis. One of them does not like karaoke, but there are other activities. His sister loves arts and crafts. The club is open until ten tonight, so the friends decide to go there after school.\n\nWhich activity does the sister love?",
+      "points": 2,
+      "options": [
+        "Physics tests.",
+        "Travelling by plane.",
+        "Arts and crafts."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Two friends want to join a youth club. They enjoy playing computer games and table tennis. One of them does not like karaoke, but there are other activities. His sister loves arts and crafts. The club is open until ten tonight, so the friends decide to go there after school.\n\nWhen does the club close tonight?",
+      "points": 2,
+      "options": [
+        "At six.",
+        "At ten.",
+        "At four."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-1d-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886794",
+      "test_url": "https://naurok.com.ua/test/free-time-6-klas-esl-1d-3886794.html",
+      "builder_url": "https://naurok.com.ua/test/builder/3886794",
+      "status": "homework_created",
+      "verified": true,
+      "homework_id": "86106581",
+      "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106581",
+      "student_url": "https://naurok.ua/test/join?gamecode=3132040",
+      "code": "3132040",
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

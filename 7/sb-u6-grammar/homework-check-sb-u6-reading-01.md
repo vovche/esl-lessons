@@ -1,0 +1,93 @@
+# Перевірка домашнього завдання
+
+**Тема:** What’s the matter?: Читання Самопочуття і спілкування з лікарем · Читання
+
+**Клас:** 7. **Максимум:** 10 балів.
+
+Код матеріалу: `7-sb-u6-reading-homework-01`.
+
+Ім’я та прізвище: ____________________________________
+
+Дата: ____________________
+
+Обери одну відповідь у завданнях із варіантами. У решті завдань напиши відповідь самостійно.
+
+## 1. 1 бал
+
+Обери значення слова cough.
+
+1. головний біль
+2. запис на прийом
+3. кашель
+4. Жоден із наведених варіантів
+
+## 2. 1 бал
+
+Обери значення слова sore throat.
+
+1. біль у горлі
+2. запис на прийом
+3. симптом
+4. Жоден із наведених варіантів
+
+## 3. 1 бал
+
+Обери значення слова headache.
+
+1. медсестра; медбрат
+2. головний біль
+3. симптом
+4. Жоден із наведених варіантів
+
+## 4. 1 бал
+
+If Alex misses a lesson, he ___ for the notes.
+
+1. asked
+2. will asked
+3. asks
+4. Жоден із наведених варіантів
+
+## 5. 1 бал
+
+He ___ sent a message before the lesson started.
+
+1. had
+2. has
+3. have
+4. Жоден із наведених варіантів
+
+## 6. 1 бал
+
+Had you ___ the homework before the call?
+
+1. finishing
+2. finished
+3. finish
+4. Жоден із наведених варіантів
+
+## 7. 2 бали
+
+Прочитай текст і визнач правильну відповідь.
+
+A health service has different people and places. A patient may make an appointment and describe symptoms to a doctor. A nurse can help with the visit. To understand a text about a health service, notice who speaks, where the visit takes place and which words describe the problem.
+
+Who describes symptoms?
+
+1. a tour guide
+2. a referee
+3. a patient
+4. Жоден із наведених варіантів
+
+## 8. 2 бали
+
+Прочитай текст і визнач правильну відповідь.
+
+A health service has different people and places. A patient may make an appointment and describe symptoms to a doctor. A nurse can help with the visit. To understand a text about a health service, notice who speaks, where the visit takes place and which words describe the problem.
+
+What does appointment mean here?
+
+1. an arranged visit
+2. a theatre performance
+3. a cooking tool
+4. Жоден із наведених варіантів

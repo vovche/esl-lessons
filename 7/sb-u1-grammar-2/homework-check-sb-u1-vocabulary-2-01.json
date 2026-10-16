@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · In and out of school: Лексика: застосування Шкільне життя і дозвілля · Лексика: застосування",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/sb-u1-vocabulary-2/index.html",
+  "source_title": "In and out of school: Лексика: застосування Шкільне життя і дозвілля · Лексика: застосування",
+  "assessment_lesson": "7/sb-u1-grammar-2/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова make decorations.",
+      "points": 1,
+      "options": [
+        "виконувати виставу",
+        "робити прикраси",
+        "проводити змагання",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова give a speech.",
+      "points": 1,
+      "options": [
+        "виконувати виставу",
+        "вступити до гуртка",
+        "виголошувати промову",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова hold a competition.",
+      "points": 1,
+      "options": [
+        "проводити змагання",
+        "вступити до гуртка",
+        "створити презентацію",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Maya usually ___ to the club on Mondays.",
+      "points": 1,
+      "options": [
+        "go",
+        "goes",
+        "is going",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Look! The pupils ___ a show.",
+      "points": 1,
+      "options": [
+        "prepare",
+        "prepared",
+        "are preparing",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "___ are you doing now?",
+      "points": 1,
+      "options": [
+        "What",
+        "Who",
+        "Whose",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nIn our next activity, we will choose useful words for clubs and school celebrations. We will use these words in full sentences, compare our examples with a partner and explain our choices.\n\nHow will we use the words?",
+      "points": 2,
+      "options": [
+        "without any context",
+        "in full sentences",
+        "only as numbers",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nIn our next activity, we will choose useful words for clubs and school celebrations. We will use these words in full sentences, compare our examples with a partner and explain our choices.\n\nWhat will we explain?",
+      "points": 2,
+      "options": [
+        "a ticket price",
+        "nothing",
+        "our choices",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    }
+  ],
+  "id": "7-sb-u1-vocabulary-2-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886874",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886874",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

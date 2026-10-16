@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · Find your club — інтереси й клуби",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/clubs-and-hobbies/index.html",
+  "source_title": "Find your club Знайди свій клуб",
+  "assessment_lesson": "7/school-special-days/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською слово «сильне захоплення». Воно починається з p.",
+      "points": 1,
+      "answers": [
+        "passion"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Як англійською назвати людину, яка багато читає? Одне слово з уроку, починається з b.",
+      "points": 1,
+      "answers": [
+        "bookworm"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Як англійською назвати людину, яка багато говорить? Одне слово з уроку, починається з c.",
+      "points": 1,
+      "answers": [
+        "chatterbox"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Прочитай: Marco takes photos for the school blog. Напиши два слова після Marco: Marco ___ for the school blog.",
+      "points": 2,
+      "answers": [
+        "takes photos"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Прочитай: Yan does experiments in the Science Club. Назви клуб англійською (два слова, без the).",
+      "points": 2,
+      "answers": [
+        "Science Club"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Склади повне речення з усіх частин: I / want / to join / the Comics Club.",
+      "points": 3,
+      "answers": [
+        "I want to join the Comics Club."
+      ]
+    }
+  ],
+  "id": "7-clubs-and-hobbies-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886786",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886786",
+      "status": "homework_created",
+      "verified": true,
+      "homework_id": "86106531",
+      "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106531",
+      "student_url": "https://naurok.ua/test/join?gamecode=4153728",
+      "code": "4153728",
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

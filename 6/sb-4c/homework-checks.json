@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "6/sb-4c/index.html",
+  "tests": [
+    {
+      "id": "6-sb-4b-homework-01",
+      "title": "How to get there · 6 клас · ESL 4b",
+      "source_lesson": "6/sb-4b/index.html",
+      "json": "homework-check-sb-4b-01.json",
+      "markdown": "homework-check-sb-4b-01.md",
+      "answer_key": "homework-check-sb-4b-01-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886836",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

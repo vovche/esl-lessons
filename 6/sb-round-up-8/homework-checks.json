@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "6/sb-round-up-8/index.html",
+  "tests": [
+    {
+      "id": "6-sb-song-4-homework-01",
+      "title": "Superstar · 6 клас · ESL song-4",
+      "source_lesson": "6/sb-song-4/index.html",
+      "json": "homework-check-sb-song-4-01.json",
+      "markdown": "homework-check-sb-song-4-01.md",
+      "answer_key": "homework-check-sb-song-4-01-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887114",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

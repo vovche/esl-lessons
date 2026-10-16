@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "title": "9 клас · Wearing or to wear? — герундій та інфінітив",
+  "grade": 9,
+  "purpose": "homework_check",
+  "source_lesson": "9/fashion-grammar/index.html",
+  "source_title": "Wearing or to wear? Форма -ing чи to-інфінітив",
+  "assessment_lesson": "9/fashion-blog/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Впиши правильну форму make: Mira enjoys ___ her own clothes.",
+      "points": 1,
+      "answers": [
+        "making"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Впиши правильну форму choose: I am ___ a jacket right now.",
+      "points": 1,
+      "answers": [
+        "choosing"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Впиши форму design, що називає заняття: ___ clothes is a hobby.",
+      "points": 1,
+      "answers": [
+        "Designing"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Впиши правильну форму visit: We look forward to ___ the fashion exhibition.",
+      "points": 2,
+      "answers": [
+        "visiting"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Впиши правильну форму help з to, якщо потрібно: They offered ___ us find a suit.",
+      "points": 2,
+      "answers": [
+        "to help"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Перепиши речення, виправивши лише помилкову форму дієслова: She decided wearing a warm jacket.",
+      "points": 3,
+      "answers": [
+        "She decided to wear a warm jacket.",
+        "She decided to wear a warm jacket"
+      ]
+    }
+  ],
+  "id": "9-fashion-grammar-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886787",
+      "test_url": "https://naurok.com.ua/test/9-klas-wearing-or-to-wear-gerundiy-ta-infinitiv-3886787.html",
+      "status": "homework_created",
+      "verified": true,
+      "homework_id": "86106536",
+      "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106536",
+      "student_url": "https://naurok.ua/test/join?gamecode=6346583",
+      "code": "6346583",
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

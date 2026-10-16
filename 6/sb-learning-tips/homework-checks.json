@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "6/sb-learning-tips/index.html",
+  "tests": [
+    {
+      "id": "6-sb-learning-tips-homework-01",
+      "title": "Learn and create · 6 клас · ESL learning-tips",
+      "source_lesson": "6/sb-learning-tips/index.html",
+      "json": "homework-check-sb-learning-tips-01.json",
+      "markdown": "homework-check-sb-learning-tips-01.md",
+      "answer_key": "homework-check-sb-learning-tips-01-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887030",
+      "status": "published_pending_homework_daily_limit"
+    },
+    {
+      "id": "6-sb-pair-work-homework-01",
+      "title": "Talk together · 6 клас · ESL pair-work",
+      "source_lesson": "6/sb-pair-work/index.html",
+      "json": "homework-check-sb-pair-work-01.json",
+      "markdown": "homework-check-sb-pair-work-01.md",
+      "answer_key": "homework-check-sb-pair-work-01-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887036",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "9/sb-u6-writing/index.html",
+  "tests": [
+    {
+      "id": "9-sb-u6-speaking-homework-01",
+      "title": "9 клас · Science Meets Technology: Говоріння",
+      "source_lesson": "9/sb-u6-speaking/index.html",
+      "json": "homework-check-sb-u6-speaking-01.json",
+      "markdown": "homework-check-sb-u6-speaking-01.md",
+      "answer_key": "homework-check-sb-u6-speaking-01-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887032",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "title": "9 клас · All About Me: Слова й словосполучення",
+  "grade": 9,
+  "purpose": "homework_check",
+  "source_lesson": "9/sb-u1-vocabulary/index.html",
+  "source_title": "All About Me: Слова й словосполучення Усе про мене: Слова й словосполучення",
+  "assessment_lesson": "9/sb-u1-reading/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова personality.",
+      "points": 1,
+      "options": [
+        "допитливий",
+        "приклад для наслідування",
+        "особистість"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова confident.",
+      "points": 1,
+      "options": [
+        "саморозвиток",
+        "упевнений",
+        "приклад для наслідування"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова curious.",
+      "points": 1,
+      "options": [
+        "допитливий",
+        "саморозвиток",
+        "ім’я"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "At seven yesterday, I ... my profile.",
+      "points": 2,
+      "options": [
+        "am writing",
+        "was writing",
+        "write"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "When we arrived, the interview ... already ... .",
+      "points": 2,
+      "options": [
+        "had / started",
+        "has / started",
+        "is / starting"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст. Emma enjoys photography and plays the guitar. Her friend Dan is curious and likes learning about science. They have different interests, but they both enjoy meeting friends in person. Emma says that a personality is more than a label: actions show what people are like. Dan admires his sister because she helps others and keeps learning.\n\nWhy does Dan admire his sister?",
+      "points": 3,
+      "options": [
+        "She plays every instrument.",
+        "She helps others and keeps learning.",
+        "She never studies."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "9-sb-u1-vocabulary-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886876",
+      "test_url": "https://naurok.com.ua/test/9-klas-all-about-me-slova-y-slovospoluchennya-3886876.html",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "6/sb-round-up-6/index.html",
+  "tests": [
+    {
+      "id": "6-sb-song-3-homework-01",
+      "title": "Where did it all go wrong? · 6 клас · ESL song-3",
+      "source_lesson": "6/sb-song-3/index.html",
+      "json": "homework-check-sb-song-3-01.json",
+      "markdown": "homework-check-sb-song-3-01.md",
+      "answer_key": "homework-check-sb-song-3-01-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887109",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

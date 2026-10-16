@@ -1,0 +1,131 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · A helping hand",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/sharing-chores/index.html",
+  "source_title": "A helping hand Хто допомагає вдома?",
+  "assessment_lesson": "7/past-simple-questions/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Прочитай: Every morning, Jane’s mother cooks breakfast. Her elder sister sometimes boils sausages, cuts bread and helps make tea. Jane’s father is good at making coffee. After breakfast, the sister puts the dishes in the dishwasher. Their mother cleans the table.\n\nWhat is a household duty?",
+      "points": 1,
+      "options": [
+        "one job you do at home",
+        "a kind of school subject",
+        "a kitchen appliance",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай: Every morning, Jane’s mother cooks breakfast. Her elder sister sometimes boils sausages, cuts bread and helps make tea. Jane’s father is good at making coffee. After breakfast, the sister puts the dishes in the dishwasher. Their mother cleans the table.\n\nWho cooks breakfast in Jane’s family?",
+      "points": 1,
+      "options": [
+        "her mother",
+        "her father",
+        "Jane",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай: Every morning, Jane’s mother cooks breakfast. Her elder sister sometimes boils sausages, cuts bread and helps make tea. Jane’s father is good at making coffee. After breakfast, the sister puts the dishes in the dishwasher. Their mother cleans the table.\n\nWhat does Jane’s sister sometimes boil?",
+      "points": 1,
+      "options": [
+        "sausages",
+        "eggs",
+        "coffee",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай: Every morning, Jane’s mother cooks breakfast. Her elder sister sometimes boils sausages, cuts bread and helps make tea. Jane’s father is good at making coffee. After breakfast, the sister puts the dishes in the dishwasher. Their mother cleans the table.\n\nWho is good at making coffee?",
+      "points": 1,
+      "options": [
+        "Jane’s father",
+        "Jane’s mother",
+        "Jane",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай: Every morning, Jane’s mother cooks breakfast. Her elder sister sometimes boils sausages, cuts bread and helps make tea. Jane’s father is good at making coffee. After breakfast, the sister puts the dishes in the dishwasher. Their mother cleans the table.\n\nWhere does the sister put the dishes after breakfast?",
+      "points": 1,
+      "options": [
+        "in the dishwasher",
+        "in a kettle",
+        "in a frying pan",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай: Every morning, Jane’s mother cooks breakfast. Her elder sister sometimes boils sausages, cuts bread and helps make tea. Jane’s father is good at making coffee. After breakfast, the sister puts the dishes in the dishwasher. Their mother cleans the table.\n\nWhat does the mother clean after breakfast?",
+      "points": 1,
+      "options": [
+        "the table",
+        "the carpet",
+        "the garden",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "word",
+      "prompt": "За історією: Jane’s sister helps with breakfast. Доповни двома словами: Jane’s sister is a ___ ___. (людина, яка допомагає)",
+      "points": 2,
+      "answers": [
+        "helping hand"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Склади повне ввічливе прохання з усіх слів: Please / wash / the dishes / today.",
+      "points": 2,
+      "answers": [
+        "Please wash the dishes today."
+      ]
+    }
+  ],
+  "id": "7-sharing-chores-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887112",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887112",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

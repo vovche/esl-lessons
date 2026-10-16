@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "7/sb-grammar/index.html",
+  "tests": [
+    {
+      "id": "7-sb-grammar-homework-01",
+      "title": "7 клас · Граматика курсу — Units 1–8",
+      "source_lesson": "7/sb-grammar/index.html",
+      "json": "homework-check-sb-grammar-01.json",
+      "markdown": "homework-check-sb-grammar-01.md",
+      "answer_key": "homework-check-sb-grammar-01-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887116",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

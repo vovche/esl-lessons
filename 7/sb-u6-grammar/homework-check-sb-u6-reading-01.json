@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · What’s the matter?: Читання Самопочуття і спілкування з лікарем · Читання",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/sb-u6-reading/index.html",
+  "source_title": "What’s the matter?: Читання Самопочуття і спілкування з лікарем · Читання",
+  "assessment_lesson": "7/sb-u6-grammar/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова cough.",
+      "points": 1,
+      "options": [
+        "головний біль",
+        "запис на прийом",
+        "кашель",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова sore throat.",
+      "points": 1,
+      "options": [
+        "біль у горлі",
+        "запис на прийом",
+        "симптом",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова headache.",
+      "points": 1,
+      "options": [
+        "медсестра; медбрат",
+        "головний біль",
+        "симптом",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "If Alex misses a lesson, he ___ for the notes.",
+      "points": 1,
+      "options": [
+        "asked",
+        "will asked",
+        "asks",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "He ___ sent a message before the lesson started.",
+      "points": 1,
+      "options": [
+        "had",
+        "has",
+        "have",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Had you ___ the homework before the call?",
+      "points": 1,
+      "options": [
+        "finishing",
+        "finished",
+        "finish",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nA health service has different people and places. A patient may make an appointment and describe symptoms to a doctor. A nurse can help with the visit. To understand a text about a health service, notice who speaks, where the visit takes place and which words describe the problem.\n\nWho describes symptoms?",
+      "points": 2,
+      "options": [
+        "a tour guide",
+        "a referee",
+        "a patient",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nA health service has different people and places. A patient may make an appointment and describe symptoms to a doctor. A nurse can help with the visit. To understand a text about a health service, notice who speaks, where the visit takes place and which words describe the problem.\n\nWhat does appointment mean here?",
+      "points": 2,
+      "options": [
+        "an arranged visit",
+        "a theatre performance",
+        "a cooking tool",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    }
+  ],
+  "id": "7-sb-u6-reading-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887212",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887212",
+      "builder_url": "https://naurok.com.ua/test/builder/3887212",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

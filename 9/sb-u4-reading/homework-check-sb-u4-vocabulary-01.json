@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "title": "9 клас · Media in Our Lives: Слова й словосполучення",
+  "grade": 9,
+  "purpose": "homework_check",
+  "source_lesson": "9/sb-u4-vocabulary/index.html",
+  "source_title": "Media in Our Lives: Слова й словосполучення Медіа в нашому житті: Слова й словосполучення",
+  "assessment_lesson": "9/sb-u4-reading/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова network.",
+      "points": 1,
+      "options": [
+        "підписник",
+        "надійний",
+        "мережа"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова audience.",
+      "points": 1,
+      "options": [
+        "фейкові новини",
+        "аудиторія",
+        "надійний"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова subscriber.",
+      "points": 1,
+      "options": [
+        "підписник",
+        "фейкові новини",
+        "огляд, рецензія"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "He ... me that the source was reliable.",
+      "points": 2,
+      "options": [
+        "spoke",
+        "told",
+        "said"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "“I will check it,” Dan said. Dan said he ... check it.",
+      "points": 2,
+      "options": [
+        "would",
+        "will yesterday",
+        "had"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст. Emma watches a video that claims a surprising event has happened. Before sharing it, she checks the source and the date. Dan finds that the picture belongs to a different story. They compare reliable reports and decide not to spread the false claim. Social media can be useful, but popular posts are not always accurate.\n\nWhy do they avoid sharing the claim?",
+      "points": 3,
+      "options": [
+        "The video is too short.",
+        "The picture belongs to a different story.",
+        "They dislike all news."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "9-sb-u4-vocabulary-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887146",
+      "test_url": "https://naurok.com.ua/test/9-klas-media-in-our-lives-slova-y-slovospoluchennya-3887146.html",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

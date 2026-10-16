@@ -1,0 +1,127 @@
+{
+  "schema_version": 1,
+  "title": "Travel preparations · 6 клас · ESL 2c",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-2c/index.html",
+  "source_title": "Travel preparations Готуємося до подорожі",
+  "assessment_lesson": "6/sb-2d/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «паспорт».",
+      "points": 1,
+      "answers": [
+        "passport"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «валюта».",
+      "points": 1,
+      "answers": [
+        "currency"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «посадка».",
+      "points": 1,
+      "answers": [
+        "boarding"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "These tickets are for ___.",
+      "points": 1,
+      "options": [
+        "we",
+        "our",
+        "us"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "I called my brother. I asked ___ to help.",
+      "points": 1,
+      "options": [
+        "his",
+        "him",
+        "he"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Give the boarding passes to ___.",
+      "points": 1,
+      "options": [
+        "me",
+        "I",
+        "my"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Two friends are preparing for a trip. They check their passports and pack one large suitcase and a small bag. They check the weather and decide to take jumpers. They can check in online and download their boarding passes. Their parents will drive them to the airport.\n\nWhy do the friends take jumpers?",
+      "points": 2,
+      "options": [
+        "They lost their bags.",
+        "They are buying souvenirs.",
+        "They checked the weather."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Two friends are preparing for a trip. They check their passports and pack one large suitcase and a small bag. They check the weather and decide to take jumpers. They can check in online and download their boarding passes. Their parents will drive them to the airport.\n\nHow can they get their boarding passes?",
+      "points": 2,
+      "options": [
+        "Find them in a book.",
+        "Download them.",
+        "Buy them at a museum."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-2c-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886806",
+      "test_url": "https://naurok.com.ua/test/travel-preparations-6-klas-esl-2c-3886806.html",
+      "builder_url": "https://naurok.com.ua/test/builder/3886806",
+      "status": "homework_created",
+      "verified": true,
+      "homework_id": "86106623",
+      "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106623",
+      "student_url": "https://naurok.ua/test/join?gamecode=7818947",
+      "code": "7818947",
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

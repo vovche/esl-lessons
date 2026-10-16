@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "9/special-occasion-outfits/index.html",
+  "tests": [
+    {
+      "id": "9-my-autobiography-homework-01",
+      "title": "9 клас · My story so far — автобіографія",
+      "source_lesson": "9/my-autobiography/index.html",
+      "json": "homework-check-my-autobiography-01.json",
+      "markdown": "homework-check-my-autobiography-01.md",
+      "answer_key": "homework-check-my-autobiography-01-key.md",
+      "test_url": "https://naurok.com.ua/test/9-klas-my-story-so-far-avtobiografiya-3886807.html",
+      "status": "homework_created",
+      "student_url": "https://naurok.ua/test/join?gamecode=6237250"
+    }
+  ]
+}

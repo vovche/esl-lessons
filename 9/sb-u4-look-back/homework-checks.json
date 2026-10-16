@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "9/sb-u4-look-back/index.html",
+  "tests": [
+    {
+      "id": "9-sb-u4-writing-homework-01",
+      "title": "9 клас · Media in Our Lives: Письмо",
+      "source_lesson": "9/sb-u4-writing/index.html",
+      "json": "homework-check-sb-u4-writing-01.json",
+      "markdown": "homework-check-sb-u4-writing-01.md",
+      "answer_key": "homework-check-sb-u4-writing-01-key.md",
+      "test_url": "https://naurok.com.ua/test/9-klas-media-in-our-lives-pismo-3887160.html",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

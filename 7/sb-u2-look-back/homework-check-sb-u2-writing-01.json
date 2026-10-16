@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · Do your chores: Письмо Домашні справи · Письмо",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/sb-u2-writing/index.html",
+  "source_title": "Do your chores: Письмо Домашні справи · Письмо",
+  "assessment_lesson": "7/sb-u2-look-back/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова sweep the floor.",
+      "points": 1,
+      "options": [
+        "підмітати підлогу",
+        "пилосос",
+        "праска",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова wash up.",
+      "points": 1,
+      "options": [
+        "домашній обов’язок",
+        "мити посуд",
+        "праска",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова vacuum cleaner.",
+      "points": 1,
+      "options": [
+        "домашній обов’язок",
+        "посудомийна машина",
+        "пилосос",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "What ___ you clean yesterday?",
+      "points": 1,
+      "options": [
+        "did",
+        "were",
+        "do",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Did you ___ the floor?",
+      "points": 1,
+      "options": [
+        "sweeping",
+        "sweep",
+        "swept",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "At six Dad ___ washing up.",
+      "points": 1,
+      "options": [
+        "were",
+        "did",
+        "was",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nBefore writing about household duties and past activities, I make a short plan. My first sentence introduces the topic. I add details and examples in a logical order. Then I check my verbs, spelling and punctuation. I ask a classmate for feedback and improve my final text.\n\nWhat comes before the first draft?",
+      "points": 2,
+      "options": [
+        "a short plan",
+        "the final score",
+        "a film ending",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nBefore writing about household duties and past activities, I make a short plan. My first sentence introduces the topic. I add details and examples in a logical order. Then I check my verbs, spelling and punctuation. I ask a classmate for feedback and improve my final text.\n\nWhy do I ask a classmate for feedback?",
+      "points": 2,
+      "options": [
+        "to copy every answer",
+        "to improve the text",
+        "to avoid writing",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    }
+  ],
+  "id": "7-sb-u2-writing-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886961",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886961",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

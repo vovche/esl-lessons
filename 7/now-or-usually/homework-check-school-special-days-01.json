@@ -1,0 +1,131 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · Special days at school",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/school-special-days/index.html",
+  "source_title": "Special days at school Особливі шкільні дні",
+  "assessment_lesson": "7/now-or-usually/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Which day starts the school year?",
+      "points": 1,
+      "options": [
+        "Knowledge Day",
+        "Graduation Day",
+        "School Anniversary",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Who usually welcomes everyone on Knowledge Day?",
+      "points": 1,
+      "options": [
+        "the headteacher",
+        "the school band",
+        "the graduates",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "What can pupils give teachers on Teachers’ Day?",
+      "points": 1,
+      "options": [
+        "flowers",
+        "report cards",
+        "textbooks",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "When is Graduation Day usually celebrated?",
+      "points": 1,
+      "options": [
+        "in June",
+        "in September",
+        "in January",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "What is a school anniversary?",
+      "points": 1,
+      "options": [
+        "the date the school was founded",
+        "the first day of every week",
+        "the start of each lesson",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Which event may happen on a school anniversary?",
+      "points": 1,
+      "options": [
+        "a festival",
+        "a Maths test",
+        "a bus trip home",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "word",
+      "prompt": "Доповни два пропуски прийменниками. Напиши два слова через пробіл: We celebrate Knowledge Day ___ September and Teachers’ Day ___ a special day.",
+      "points": 2,
+      "answers": [
+        "in on"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Доповни двома словами словосполучення «виголошувати промову»: ___ a ___. Почни з make.",
+      "points": 2,
+      "answers": [
+        "make speech"
+      ]
+    }
+  ],
+  "id": "7-school-special-days-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887105",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887105",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

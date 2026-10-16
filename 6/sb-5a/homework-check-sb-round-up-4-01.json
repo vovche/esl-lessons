@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "title": "Round-up 4 · 6 клас · ESL round-up-4",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-round-up-4/index.html",
+  "source_title": "Round-up 4 Повторення юніту 4",
+  "assessment_lesson": "6/sb-5a/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "___ I borrow this book, please?",
+      "points": 1,
+      "options": [
+        "Do",
+        "Am",
+        "May"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "To move inside a building, go ___.",
+      "points": 1,
+      "options": [
+        "into it",
+        "behind it",
+        "opposite it"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "The country is ___ than the city.",
+      "points": 1,
+      "options": [
+        "quietest",
+        "quieter",
+        "quiet"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the superlative of large.",
+      "points": 1,
+      "options": [
+        "the larger",
+        "more large",
+        "the largest"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "There ___ two galleries in my town.",
+      "points": 1,
+      "options": [
+        "are",
+        "is",
+        "was"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A boy wants to borrow a book from the library, but he has left his card at home. The librarian says he cannot borrow it without a card. She suggests asking a friend to borrow the book for him. At another shop, a girl wants a newspaper and a magazine. The shopkeeper checks the shelf.\n\nWhy cannot the boy borrow the book himself?",
+      "points": 1,
+      "options": [
+        "The library is closed.",
+        "He cannot read.",
+        "He has no library card with him."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Some people enjoy a busy city with shops and restaurants. Other people prefer the countryside because it is quieter and more peaceful. A houseboat can be cheaper than a large house. A caravan lets people travel with their home. The best choice depends on the person’s interests and daily life.\n\nWhy do some people prefer the countryside?",
+      "points": 2,
+      "options": [
+        "It has more traffic.",
+        "It is always crowded.",
+        "It is quieter and more peaceful."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: I live in a city with a river and several bridges. There are museums, art galleries and a large stadium. Many visitors enjoy the view from the old bridge. My favourite place is the park because my friends and I can cycle there. I think our city is a great place to live.\n\nWhere does the writer like cycling?",
+      "points": 2,
+      "options": [
+        "At the airport.",
+        "Inside a museum.",
+        "In the park."
+      ],
+      "key": 2
+    }
+  ],
+  "id": "6-sb-round-up-4-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887062",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887062",
+      "builder_url": "https://naurok.com.ua/test/builder/3887062",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

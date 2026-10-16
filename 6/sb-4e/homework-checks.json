@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "6/sb-4e/index.html",
+  "tests": [
+    {
+      "id": "6-sb-4d-homework-01",
+      "title": "Outer space · 6 клас · ESL 4d",
+      "source_lesson": "6/sb-4d/index.html",
+      "json": "homework-check-sb-4d-01.json",
+      "markdown": "homework-check-sb-4d-01.md",
+      "answer_key": "homework-check-sb-4d-01-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886847",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

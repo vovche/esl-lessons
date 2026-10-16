@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · What were you doing — минула тривала дія",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/past-continuous-questions/index.html",
+  "source_title": "What were you doing? Що відбувалося тоді?",
+  "assessment_lesson": "7/home-stories/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Доповни одним словом: Where ___ they washing the dishes?",
+      "points": 1,
+      "answers": [
+        "were"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Доповни одним словом: What was the dog ___? (do)",
+      "points": 1,
+      "answers": [
+        "doing"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською «чайник» (прилад для кип’ятіння води).",
+      "points": 1,
+      "answers": [
+        "kettle"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською два слова «пилосос».",
+      "points": 2,
+      "answers": [
+        "vacuum cleaner"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Доповни двома словами: Helen ___ dinner at 6 pm yesterday. (make)",
+      "points": 2,
+      "answers": [
+        "was making"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Склади повне запитання з усіх слів: What / were / you / doing / at 8 pm?",
+      "points": 3,
+      "answers": [
+        "What were you doing at 8 pm?"
+      ]
+    }
+  ],
+  "id": "7-past-continuous-questions-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886809",
+      "test_url": "https://naurok.com.ua/test/7-klas-what-were-you-doing-minula-trivala-diya-3886809.html",
+      "status": "homework_created",
+      "verified": true,
+      "homework_id": "86106648",
+      "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106648",
+      "student_url": "https://naurok.ua/test/join?gamecode=4711293",
+      "code": "4711293",
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

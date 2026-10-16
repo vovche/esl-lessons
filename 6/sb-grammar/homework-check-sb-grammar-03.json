@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "title": "6 клас · Grammar Reference · Unit 3",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-grammar/index.html",
+  "source_title": "Граматичний довідник",
+  "assessment_lesson": "6/sb-grammar/index.html",
+  "placement": {
+    "rule": "no_next_lesson",
+    "note": "Перевірка після теми: окремого наступного уроку в навігації немає; збережено в папці вихідної теми."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Вставте was або were: They ___ skateboarding at five.",
+      "points": 1,
+      "answers": [
+        "were"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Вставте Past Simple: While we were walking, we ___ a noise. (hear)",
+      "points": 1,
+      "answers": [
+        "heard"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Вставте some або any: Are there ___ long queues?",
+      "points": 1,
+      "answers": [
+        "any"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Вставте правильну форму: Nobody ___ the answer. (know)",
+      "points": 2,
+      "answers": [
+        "knows"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Вставте -ing форму: She was ___ while he was drawing. (read)",
+      "points": 2,
+      "answers": [
+        "reading"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Складіть речення з усіх слів: home / walking / I / was / when / my keys / I / lost. Запишіть без крапки.",
+      "points": 3,
+      "answers": [
+        "I was walking home when I lost my keys"
+      ]
+    }
+  ],
+  "id": "6-sb-grammar-homework-03",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886842",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886842",
+      "builder_url": "https://naurok.com.ua/test/builder/3886842",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

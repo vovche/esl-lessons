@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "title": "9 клас · We Are Young and Cool!: Повторення",
+  "grade": 9,
+  "purpose": "homework_check",
+  "source_lesson": "9/sb-u3-look-back/index.html",
+  "source_title": "We Are Young and Cool!: Повторення Молодіжна культура і спільноти: Повторення",
+  "assessment_lesson": "9/sb-u3-self-check/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова subculture.",
+      "points": 1,
+      "options": [
+        "об’єднання",
+        "благодійність",
+        "субкультура"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова volunteer.",
+      "points": 1,
+      "options": [
+        "командна робота",
+        "волонтер",
+        "благодійність"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова association.",
+      "points": 1,
+      "options": [
+        "об’єднання",
+        "командна робота",
+        "творчість"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "New members ... every week.",
+      "points": 2,
+      "options": [
+        "are welcomeing",
+        "are welcomed",
+        "welcomes"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "The survey results ... already ... .",
+      "points": 2,
+      "options": [
+        "have / been published",
+        "are / publishing",
+        "were / publish"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст. Dan wants to join a club where he can create videos and learn digital skills. Emma prefers a volunteer group that organises charity events. They discuss youth subcultures and learn that interests and values are more useful than stereotypes. A club gives people a chance to practise teamwork and build confidence. Everyone should be welcomed and heard.\n\nWhat can a club help people practise?",
+      "points": 3,
+      "options": [
+        "isolation",
+        "teamwork",
+        "stereotypes"
+      ],
+      "key": 1
+    }
+  ],
+  "id": "9-sb-u3-look-back-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887068",
+      "test_url": "https://naurok.com.ua/test/9-klas-we-are-young-and-cool-povtorennya-3887068.html",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · Лексика курсу — Unit 6",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/sb-wordlist/index.html",
+  "source_title": "Лексика курсу",
+  "assessment_lesson": "7/sb-wordlist/index.html",
+  "placement": {
+    "rule": "no_next_lesson",
+    "note": "Перевірка після теми: окремого наступного уроку в навігації немає; збережено в папці вихідної теми."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери український переклад: cough.",
+      "points": 1,
+      "options": [
+        "кашель",
+        "біль у горлі",
+        "головний біль",
+        "запис на прийом"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери український переклад: sore throat.",
+      "points": 1,
+      "options": [
+        "головний біль",
+        "запис на прийом",
+        "симптом",
+        "біль у горлі"
+      ],
+      "key": 3
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери український переклад: headache.",
+      "points": 1,
+      "options": [
+        "симптом",
+        "медсестра; медбрат",
+        "головний біль",
+        "запис на прийом"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери український переклад: appointment.",
+      "points": 1,
+      "options": [
+        "температура",
+        "запис на прийом",
+        "симптом",
+        "медсестра; медбрат"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери український переклад: symptom.",
+      "points": 1,
+      "options": [
+        "симптом",
+        "медсестра; медбрат",
+        "температура",
+        "одужувати"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери український переклад: nurse.",
+      "points": 1,
+      "options": [
+        "температура",
+        "одужувати",
+        "кашель",
+        "медсестра; медбрат"
+      ],
+      "key": 3
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською за словником Unit 6: «температура». Початкова літера: t.",
+      "points": 2,
+      "answers": [
+        "temperature"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською за словником Unit 6: «одужувати». Початкова літера: r.",
+      "points": 2,
+      "answers": [
+        "recover"
+      ]
+    }
+  ],
+  "id": "7-sb-wordlist-homework-06",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887147",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887147",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

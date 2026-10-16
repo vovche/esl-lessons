@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "9/sb-u7-lead-in/index.html",
+  "tests": [
+    {
+      "id": "9-sb-u6-self-check-homework-01",
+      "title": "9 клас · Science Meets Technology: Самооцінювання",
+      "source_lesson": "9/sb-u6-self-check/index.html",
+      "json": "homework-check-sb-u6-self-check-01.json",
+      "markdown": "homework-check-sb-u6-self-check-01.md",
+      "answer_key": "homework-check-sb-u6-self-check-01-key.md",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887029",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

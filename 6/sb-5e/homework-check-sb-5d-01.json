@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "title": "Animal protection · 6 клас · ESL 5d",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-5d/index.html",
+  "source_title": "Animal protection Захищаємо тварин",
+  "assessment_lesson": "6/sb-5e/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «середовище існування».",
+      "points": 1,
+      "answers": [
+        "habitat"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «під загрозою зникнення».",
+      "points": 1,
+      "answers": [
+        "endangered"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «вимерлий».",
+      "points": 1,
+      "answers": [
+        "extinct"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "If we ___ the water, animals will suffer.",
+      "points": 1,
+      "options": [
+        "will pollute",
+        "polluted",
+        "pollute"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "If people protect the habitat, animals ___ a better chance.",
+      "points": 1,
+      "options": [
+        "having",
+        "will have",
+        "had"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "If you see rubbish, ___ it up.",
+      "points": 1,
+      "options": [
+        "pick",
+        "picked",
+        "picks"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Some dolphins are endangered. They need clean water and air to breathe. Fishing nets, careless boat users and pollution can harm them. If people protect their habitat, the dolphins will have a better chance to survive. We can help by keeping rivers clean and learning about the animals that live there.\n\nWhy do dolphins need air?",
+      "points": 2,
+      "options": [
+        "To charge a phone.",
+        "To build a nest.",
+        "To breathe."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Some dolphins are endangered. They need clean water and air to breathe. Fishing nets, careless boat users and pollution can harm them. If people protect their habitat, the dolphins will have a better chance to survive. We can help by keeping rivers clean and learning about the animals that live there.\n\nWhich danger is mentioned?",
+      "points": 2,
+      "options": [
+        "Musical instruments.",
+        "Fishing nets.",
+        "School books."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-5d-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886878",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886878",
+      "builder_url": "https://naurok.com.ua/test/builder/3886878",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

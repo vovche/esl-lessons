@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "9/styles-and-judgement/index.html",
+  "tests": [
+    {
+      "id": "9-fashion-opinions-homework-01",
+      "title": "9 клас · Fashion and me — думки та одяг",
+      "source_lesson": "9/fashion-opinions/index.html",
+      "json": "homework-check-fashion-opinions-01.json",
+      "markdown": "homework-check-fashion-opinions-01.md",
+      "answer_key": "homework-check-fashion-opinions-01-key.md",
+      "test_url": "https://naurok.com.ua/test/9-klas-fashion-and-me-dumki-ta-odyag-3886801.html",
+      "status": "homework_created",
+      "student_url": "https://naurok.ua/test/join?gamecode=6326995"
+    }
+  ]
+}

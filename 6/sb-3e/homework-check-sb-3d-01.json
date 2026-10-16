@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "title": "Emotions · 6 клас · ESL 3d",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-3d/index.html",
+  "source_title": "Emotions Почуття героїв",
+  "assessment_lesson": "6/sb-3e/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «здивований».",
+      "points": 1,
+      "answers": [
+        "surprised"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «шокований».",
+      "points": 1,
+      "answers": [
+        "shocked"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «спокійний».",
+      "points": 1,
+      "answers": [
+        "calm"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "___ knows the answer. We need help.",
+      "points": 1,
+      "options": [
+        "Anybody",
+        "Everywhere",
+        "Nobody"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Is there ___ to eat?",
+      "points": 1,
+      "options": [
+        "everywhere",
+        "anything",
+        "nothing not"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Everyone ___ ready.",
+      "points": 1,
+      "options": [
+        "is",
+        "are",
+        "were"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Two men were travelling through a cold forest with their dogs. Wolves were following them. One wolf looked different because it was half dog. A dog ran towards it, and other wolves appeared. One man tried to chase them, but he did not return. The other man felt alone and afraid.\n\nWhy did one wolf look different?",
+      "points": 2,
+      "options": [
+        "It was wearing a coat.",
+        "It had no legs.",
+        "It was half dog."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Two men were travelling through a cold forest with their dogs. Wolves were following them. One wolf looked different because it was half dog. A dog ran towards it, and other wolves appeared. One man tried to chase them, but he did not return. The other man felt alone and afraid.\n\nHow did the man feel at the end?",
+      "points": 2,
+      "options": [
+        "Bored but safe.",
+        "Alone and afraid.",
+        "Excited and happy."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-3d-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886825",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886825",
+      "builder_url": "https://naurok.com.ua/test/builder/3886825",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

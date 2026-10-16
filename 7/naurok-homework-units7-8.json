@@ -1,0 +1,378 @@
+{
+  "version": 1,
+  "grade": 7,
+  "lessons": {
+    "sb-u7-blog": {
+      "lesson_path": "7/sb-u7-blog/index.html",
+      "tests": [
+        {
+          "test_id": "3887183",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887183",
+          "title": "7 клас · Curtain up!: Блог і обговорення Кіно і театр · Блог і обговорення",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u7-vocabulary/homework-check-sb-u7-blog-01.json",
+          "deadline": "2027-06-01T23:00",
+          "semester": 2,
+          "content_path": "7/sb-u7-vocabulary/homework-check-sb-u7-blog-01.json",
+          "assessment_lesson_path": "7/sb-u7-vocabulary/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Curtain up!: Блог і обговорення Кіно і театр · Блог і обговорення",
+          "content_id": "7-sb-u7-blog-homework-01"
+        }
+      ]
+    },
+    "sb-u7-grammar": {
+      "lesson_path": "7/sb-u7-grammar/index.html",
+      "tests": [
+        {
+          "test_id": "3887189",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887189",
+          "title": "7 клас · Curtain up!: Граматика Кіно і театр · Граматика",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u7-listening/homework-check-sb-u7-grammar-01.json",
+          "deadline": "2027-06-01T23:00",
+          "semester": 2,
+          "content_path": "7/sb-u7-listening/homework-check-sb-u7-grammar-01.json",
+          "assessment_lesson_path": "7/sb-u7-listening/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Curtain up!: Граматика Кіно і театр · Граматика",
+          "content_id": "7-sb-u7-grammar-homework-01"
+        }
+      ]
+    },
+    "sb-u7-grammar-2": {
+      "lesson_path": "7/sb-u7-grammar-2/index.html",
+      "tests": [
+        {
+          "test_id": "3887193",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887193",
+          "title": "7 клас · Curtain up!: Граматика: застосування Кіно і театр · Граматика: застосування",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u7-speaking/homework-check-sb-u7-grammar-2-01.json",
+          "deadline": "2027-06-01T23:00",
+          "semester": 2,
+          "content_path": "7/sb-u7-speaking/homework-check-sb-u7-grammar-2-01.json",
+          "assessment_lesson_path": "7/sb-u7-speaking/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Curtain up!: Граматика: застосування Кіно і театр · Граматика: застосування",
+          "content_id": "7-sb-u7-grammar-2-homework-01"
+        }
+      ]
+    },
+    "sb-u7-lead-in": {
+      "lesson_path": "7/sb-u7-lead-in/index.html",
+      "tests": [
+        {
+          "test_id": "3887199",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887199",
+          "title": "7 клас · Curtain up!: Починаємо юніт Кіно і театр · Починаємо юніт",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u7-blog/homework-check-sb-u7-lead-in-01.json",
+          "deadline": "2027-06-01T23:00",
+          "semester": 2,
+          "content_path": "7/sb-u7-blog/homework-check-sb-u7-lead-in-01.json",
+          "assessment_lesson_path": "7/sb-u7-blog/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Curtain up!: Починаємо юніт Кіно і театр · Починаємо юніт",
+          "content_id": "7-sb-u7-lead-in-homework-01"
+        }
+      ]
+    },
+    "sb-u7-listening": {
+      "lesson_path": "7/sb-u7-listening/index.html",
+      "tests": [
+        {
+          "test_id": "3887203",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887203",
+          "title": "7 клас · Curtain up!: Слухання Кіно і театр · Слухання",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u7-vocabulary-2/homework-check-sb-u7-listening-01.json",
+          "deadline": "2027-06-01T23:00",
+          "semester": 2,
+          "content_path": "7/sb-u7-vocabulary-2/homework-check-sb-u7-listening-01.json",
+          "assessment_lesson_path": "7/sb-u7-vocabulary-2/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Curtain up!: Слухання Кіно і театр · Слухання",
+          "content_id": "7-sb-u7-listening-homework-01"
+        }
+      ]
+    },
+    "sb-u7-look-back": {
+      "lesson_path": "7/sb-u7-look-back/index.html",
+      "tests": [
+        {
+          "test_id": "3887207",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887207",
+          "title": "7 клас · Curtain up!: Повторення Кіно і театр · Повторення",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u7-self-check/homework-check-sb-u7-look-back-01.json",
+          "deadline": "2027-06-01T23:00",
+          "semester": 2,
+          "content_path": "7/sb-u7-self-check/homework-check-sb-u7-look-back-01.json",
+          "assessment_lesson_path": "7/sb-u7-self-check/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Curtain up!: Повторення Кіно і театр · Повторення",
+          "content_id": "7-sb-u7-look-back-homework-01"
+        }
+      ]
+    },
+    "sb-u7-reading": {
+      "lesson_path": "7/sb-u7-reading/index.html",
+      "tests": [
+        {
+          "test_id": "3887211",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887211",
+          "title": "7 клас · Curtain up!: Читання Кіно і театр · Читання",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u7-grammar/homework-check-sb-u7-reading-01.json",
+          "deadline": "2027-06-01T23:00",
+          "semester": 2,
+          "content_path": "7/sb-u7-grammar/homework-check-sb-u7-reading-01.json",
+          "assessment_lesson_path": "7/sb-u7-grammar/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Curtain up!: Читання Кіно і театр · Читання",
+          "content_id": "7-sb-u7-reading-homework-01"
+        }
+      ]
+    },
+    "sb-u7-self-check": {
+      "lesson_path": "7/sb-u7-self-check/index.html",
+      "tests": [
+        {
+          "test_id": "3887214",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887214",
+          "title": "7 клас · Curtain up!: Самоперевірка Кіно і театр · Самоперевірка",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u8-lead-in/homework-check-sb-u7-self-check-01.json",
+          "deadline": "2027-06-01T23:00",
+          "semester": 2,
+          "content_path": "7/sb-u8-lead-in/homework-check-sb-u7-self-check-01.json",
+          "assessment_lesson_path": "7/sb-u8-lead-in/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Curtain up!: Самоперевірка Кіно і театр · Самоперевірка",
+          "content_id": "7-sb-u7-self-check-homework-01"
+        }
+      ]
+    },
+    "sb-u7-speaking": {
+      "lesson_path": "7/sb-u7-speaking/index.html",
+      "tests": [
+        {
+          "test_id": "3887217",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887217",
+          "title": "7 клас · Curtain up!: Говоріння Кіно і театр · Говоріння",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u7-writing/homework-check-sb-u7-speaking-01.json",
+          "deadline": "2027-06-01T23:00",
+          "semester": 2,
+          "content_path": "7/sb-u7-writing/homework-check-sb-u7-speaking-01.json",
+          "assessment_lesson_path": "7/sb-u7-writing/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Curtain up!: Говоріння Кіно і театр · Говоріння",
+          "content_id": "7-sb-u7-speaking-homework-01"
+        }
+      ]
+    },
+    "sb-u7-vocabulary": {
+      "lesson_path": "7/sb-u7-vocabulary/index.html",
+      "tests": [
+        {
+          "test_id": "3887221",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887221",
+          "title": "7 клас · Curtain up!: Лексика Кіно і театр · Лексика",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u7-reading/homework-check-sb-u7-vocabulary-01.json",
+          "deadline": "2027-06-01T23:00",
+          "semester": 2,
+          "content_path": "7/sb-u7-reading/homework-check-sb-u7-vocabulary-01.json",
+          "assessment_lesson_path": "7/sb-u7-reading/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Curtain up!: Лексика Кіно і театр · Лексика",
+          "content_id": "7-sb-u7-vocabulary-homework-01"
+        }
+      ]
+    },
+    "sb-u7-vocabulary-2": {
+      "lesson_path": "7/sb-u7-vocabulary-2/index.html",
+      "tests": [
+        {
+          "test_id": "3887224",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887224",
+          "title": "7 клас · Curtain up!: Лексика: застосування Кіно і театр · Лексика: застосування",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u7-grammar-2/homework-check-sb-u7-vocabulary-2-01.json",
+          "deadline": "2027-06-01T23:00",
+          "semester": 2,
+          "content_path": "7/sb-u7-grammar-2/homework-check-sb-u7-vocabulary-2-01.json",
+          "assessment_lesson_path": "7/sb-u7-grammar-2/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Curtain up!: Лексика: застосування Кіно і театр · Лексика: застосування",
+          "content_id": "7-sb-u7-vocabulary-2-homework-01"
+        }
+      ]
+    },
+    "sb-u7-writing": {
+      "lesson_path": "7/sb-u7-writing/index.html",
+      "tests": [
+        {
+          "test_id": "3887228",
+          "test_url": "https://naurok.com.ua/test-beta/test/3887228",
+          "title": "7 клас · Curtain up!: Письмо Кіно і театр · Письмо",
+          "points": 10,
+          "status": "published_pending_homework_daily_limit",
+          "verified": true,
+          "question_points": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+          ],
+          "plan_path": "7/sb-u7-look-back/homework-check-sb-u7-writing-01.json",
+          "deadline": "2027-06-01T23:00",
+          "semester": 2,
+          "content_path": "7/sb-u7-look-back/homework-check-sb-u7-writing-01.json",
+          "assessment_lesson_path": "7/sb-u7-look-back/index.html",
+          "placement_rule": "next_lesson",
+          "source_lesson_title": "Curtain up!: Письмо Кіно і театр · Письмо",
+          "content_id": "7-sb-u7-writing-homework-01"
+        }
+      ]
+    }
+  }
+}

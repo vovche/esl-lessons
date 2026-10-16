@@ -1,0 +1,131 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · Лексика курсу — Unit 8",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/sb-wordlist/index.html",
+  "source_title": "Лексика курсу",
+  "assessment_lesson": "7/sb-wordlist/index.html",
+  "placement": {
+    "rule": "no_next_lesson",
+    "note": "Перевірка після теми: окремого наступного уроку в навігації немає; збережено в папці вихідної теми."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери український переклад: landmark.",
+      "points": 1,
+      "options": [
+        "визначне місце",
+        "столиця",
+        "собор",
+        "замок"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери український переклад: capital.",
+      "points": 1,
+      "options": [
+        "собор",
+        "замок",
+        "екскурсовод",
+        "столиця"
+      ],
+      "key": 3
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери український переклад: cathedral.",
+      "points": 1,
+      "options": [
+        "екскурсовод",
+        "буклет",
+        "собор",
+        "замок"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери український переклад: castle.",
+      "points": 1,
+      "options": [
+        "маршрут",
+        "замок",
+        "екскурсовод",
+        "буклет"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери український переклад: tour guide.",
+      "points": 1,
+      "options": [
+        "екскурсовод",
+        "буклет",
+        "маршрут",
+        "туристична принада"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери український переклад: leaflet.",
+      "points": 1,
+      "options": [
+        "маршрут",
+        "туристична принада",
+        "визначне місце",
+        "буклет"
+      ],
+      "key": 3
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською за словником Unit 8: «маршрут». Початкова літера: i.",
+      "points": 2,
+      "answers": [
+        "itinerary"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською за словником Unit 8: «туристична принада». Початкова літера: a.",
+      "points": 2,
+      "answers": [
+        "attraction"
+      ]
+    }
+  ],
+  "id": "7-sb-wordlist-homework-08",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887155",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887155",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

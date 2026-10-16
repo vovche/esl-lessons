@@ -1,0 +1,127 @@
+{
+  "schema_version": 1,
+  "title": "Character · 6 клас · ESL 1c",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-1c/index.html",
+  "source_title": "Character Звички та дії зараз",
+  "assessment_lesson": "6/sb-1d/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «спідниця».",
+      "points": 1,
+      "answers": [
+        "skirt"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «кишеня».",
+      "points": 1,
+      "answers": [
+        "pocket"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «латка».",
+      "points": 1,
+      "answers": [
+        "patch"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "She usually ___ trainers to school.",
+      "points": 1,
+      "options": [
+        "is wearing",
+        "wear",
+        "wears"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Look! They ___ a skirt.",
+      "points": 1,
+      "options": [
+        "makes",
+        "are making",
+        "make"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "I ___ this blue patch.",
+      "points": 1,
+      "options": [
+        "like",
+        "am liking",
+        "likes"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A girl usually buys her clothes, but today she is changing an old pair of jeans into a skirt. She is drawing a butterfly on a pocket. The drawing looks awful, so her friend gives her a patch. They put it over the drawing and make a new design together.\n\nWhat is the girl making?",
+      "points": 2,
+      "options": [
+        "A jacket.",
+        "A cap.",
+        "A skirt."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A girl usually buys her clothes, but today she is changing an old pair of jeans into a skirt. She is drawing a butterfly on a pocket. The drawing looks awful, so her friend gives her a patch. They put it over the drawing and make a new design together.\n\nWhy do they use a patch?",
+      "points": 2,
+      "options": [
+        "To close the shop.",
+        "To cover the drawing.",
+        "To buy new clothes."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-1c-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886789",
+      "test_url": "https://naurok.com.ua/test/character-6-klas-esl-1c-3886789.html",
+      "builder_url": "https://naurok.com.ua/test/builder/3886789",
+      "status": "homework_created",
+      "verified": true,
+      "homework_id": "86106535",
+      "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106535",
+      "student_url": "https://naurok.ua/test/join?gamecode=6400268",
+      "code": "6400268",
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

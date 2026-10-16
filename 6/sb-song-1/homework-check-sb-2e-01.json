@@ -1,0 +1,127 @@
+{
+  "schema_version": 1,
+  "title": "A school trip · 6 клас · ESL 2e",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-2e/index.html",
+  "source_title": "A school trip Лист про шкільну поїздку",
+  "assessment_lesson": "6/sb-song-1/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «дивовижний».",
+      "points": 1,
+      "answers": [
+        "amazing"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «страшний».",
+      "points": 1,
+      "answers": [
+        "frightening"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «чудовий».",
+      "points": 1,
+      "answers": [
+        "brilliant"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "We stayed inside ___ it was raining.",
+      "points": 1,
+      "options": [
+        "so",
+        "but",
+        "because"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "We were tired, ___ we went home.",
+      "points": 1,
+      "options": [
+        "and not",
+        "so",
+        "because"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "The trip was long, ___ it was exciting.",
+      "points": 1,
+      "options": [
+        "but",
+        "because",
+        "so"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Last week our class went by coach to a science museum. The journey took two hours because of the traffic. We saw inventions and fossils and watched a film. My favourite place was the experiment room. We could do experiments there. We were tired at the end, but we had a fantastic day.\n\nHow did the class travel?",
+      "points": 2,
+      "options": [
+        "On foot.",
+        "By ferry.",
+        "By coach."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Last week our class went by coach to a science museum. The journey took two hours because of the traffic. We saw inventions and fossils and watched a film. My favourite place was the experiment room. We could do experiments there. We were tired at the end, but we had a fantastic day.\n\nWhich room did the writer like best?",
+      "points": 2,
+      "options": [
+        "The bedroom.",
+        "The experiment room.",
+        "The dining room."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-2e-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886813",
+      "test_url": "https://naurok.com.ua/test/a-school-trip-6-klas-esl-2e-3886813.html",
+      "builder_url": "https://naurok.com.ua/test/builder/3886813",
+      "status": "homework_created",
+      "verified": true,
+      "homework_id": "86106655",
+      "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106655",
+      "student_url": "https://naurok.ua/test/join?gamecode=4858667",
+      "code": "4858667",
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

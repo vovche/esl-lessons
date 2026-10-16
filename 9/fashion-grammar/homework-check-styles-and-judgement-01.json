@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "title": "9 клас · Describe the style — прикметники й спостереження",
+  "grade": 9,
+  "purpose": "homework_check",
+  "source_lesson": "9/styles-and-judgement/index.html",
+  "source_title": "Describe the style Стилі, прикметники й перше враження",
+  "assessment_lesson": "9/fashion-grammar/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською протилежне до tight (про одяг).",
+      "points": 1,
+      "answers": [
+        "loose"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською протилежне до comfortable.",
+      "points": 1,
+      "answers": [
+        "uncomfortable"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською одним словом: однотонний, без оздоблення (про одяг).",
+      "points": 1,
+      "answers": [
+        "plain"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Що є спостереженням, яке можна перевірити, а не оцінкою характеру?",
+      "points": 2,
+      "options": [
+        "The person is lazy because of the hoodie.",
+        "The hoodie is blue and loose.",
+        "Only formal clothes show respect.",
+        "The suit proves the person is kind."
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Чому однотонна сорочка може входити до casual і formal комплекту?",
+      "points": 2,
+      "options": [
+        "Because all shirts are uniforms.",
+        "Because style never depends on context.",
+        "Because the rest of the outfit and the occasion change its look.",
+        "Because every shirt is equally expensive."
+      ],
+      "key": 2
+    },
+    {
+      "type": "word",
+      "prompt": "Склади запитання без осуду з усіх слів: you / What / like / do / about / outfit / this. Почни з What.",
+      "points": 3,
+      "answers": [
+        "What do you like about this outfit?",
+        "What do you like about this outfit"
+      ]
+    }
+  ],
+  "id": "9-styles-and-judgement-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887182",
+      "test_url": "https://naurok.com.ua/test/9-klas-describe-the-style-prikmetniki-y-sposterezhennya-3887182.html",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

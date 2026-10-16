@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "title": "9 клас · Лексика курсу · Unit 4",
+  "grade": 9,
+  "purpose": "homework_check",
+  "source_lesson": "9/sb-wordlist/index.html",
+  "source_title": "Лексика курсу",
+  "assessment_lesson": "9/sb-wordlist/index.html",
+  "placement": {
+    "rule": "no_next_lesson",
+    "note": "Перевірка після теми: окремого наступного уроку в навігації немає; збережено в папці вихідної теми."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери переклад слова або виразу: network.",
+      "points": 1,
+      "options": [
+        "мережа",
+        "підписник",
+        "огляд, рецензія"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери переклад слова або виразу: audience.",
+      "points": 1,
+      "options": [
+        "трансляція",
+        "аудиторія",
+        "надійний"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери переклад слова або виразу: subscriber.",
+      "points": 1,
+      "options": [
+        "фейкові новини",
+        "джерело",
+        "підписник"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери переклад слова або виразу: reliable.",
+      "points": 1,
+      "options": [
+        "надійний",
+        "огляд, рецензія",
+        "мережа"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери переклад слова або виразу: fake news.",
+      "points": 1,
+      "options": [
+        "аудиторія",
+        "фейкові новини",
+        "трансляція"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери переклад слова або виразу: review.",
+      "points": 1,
+      "options": [
+        "джерело",
+        "підписник",
+        "огляд, рецензія"
+      ],
+      "key": 2
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «трансляція». Слово або вираз зі словника Unit 4; початкова літера: b.",
+      "points": 2,
+      "answers": [
+        "broadcast"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «джерело». Слово або вираз зі словника Unit 4; початкова літера: s.",
+      "points": 2,
+      "answers": [
+        "source"
+      ]
+    }
+  ],
+  "id": "9-sb-wordlist-homework-04",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887162",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887162",
+      "builder_url": "https://naurok.com.ua/test/builder/3887162",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

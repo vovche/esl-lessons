@@ -1,0 +1,123 @@
+{
+  "schema_version": 1,
+  "title": "Performing on stage · 6 клас · ESL 8b",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-8b/index.html",
+  "source_title": "Performing on stage Виступ і згода",
+  "assessment_lesson": "6/sb-8c/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «заздрісний».",
+      "points": 1,
+      "answers": [
+        "jealous"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «розчарований».",
+      "points": 1,
+      "answers": [
+        "disappointed"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «знервований».",
+      "points": 1,
+      "answers": [
+        "nervous"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "I am nervous. — ___ am I.",
+      "points": 1,
+      "options": [
+        "Neither",
+        "Too",
+        "So"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "I cannot sing. — Neither ___ I.",
+      "points": 1,
+      "options": [
+        "am",
+        "can",
+        "do"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "I played well. — So ___ I.",
+      "points": 1,
+      "options": [
+        "did",
+        "do",
+        "have"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A band is waiting for an audition. Two members feel nervous because a good performance could lead to a television appearance. Another member reminds them that they have worked hard. They agree that they enjoy performing together. They decide to do their best and have fun, even if they do not get on television.\n\nWhy are two members nervous?",
+      "points": 2,
+      "options": [
+        "They lost a suitcase.",
+        "The shop is closed.",
+        "The audition could lead to a TV appearance."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A band is waiting for an audition. Two members feel nervous because a good performance could lead to a television appearance. Another member reminds them that they have worked hard. They agree that they enjoy performing together. They decide to do their best and have fun, even if they do not get on television.\n\nWhat do they decide to do?",
+      "points": 2,
+      "options": [
+        "Leave without performing.",
+        "Do their best and have fun.",
+        "Stop playing music."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-8b-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886952",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886952",
+      "builder_url": "https://naurok.com.ua/test/builder/3886952",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

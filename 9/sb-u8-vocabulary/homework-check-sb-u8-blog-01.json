@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "title": "9 клас · From Ukraine to the UK and Beyond: Блог і думки однолітків",
+  "grade": 9,
+  "purpose": "homework_check",
+  "source_lesson": "9/sb-u8-blog/index.html",
+  "source_title": "From Ukraine to the UK and Beyond: Блог і думки однолітків Україна, Велика Британія та світ: Блог і думки однолітків",
+  "assessment_lesson": "9/sb-u8-vocabulary/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова landmark.",
+      "points": 1,
+      "options": [
+        "набережна",
+        "маршрут",
+        "визначне місце"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова sightseeing.",
+      "points": 1,
+      "options": [
+        "гавань",
+        "огляд визначних місць",
+        "маршрут"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова waterfront.",
+      "points": 1,
+      "options": [
+        "набережна",
+        "гавань",
+        "архітектура"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "If Dan ... earlier, he would have caught the bus.",
+      "points": 2,
+      "options": [
+        "will leave",
+        "had left",
+        "leaves"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "We would not have got lost if we ... a map.",
+      "points": 2,
+      "options": [
+        "had used",
+        "use",
+        "will use"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст. Emma is planning a trip with friends and compares cities in Ukraine and the UK. She wants to learn about landmarks rather than only take photographs. Dan checks routes and public transport. They practise asking for directions politely and giving clear instructions. A good travel plan includes time for museums, local food and a place to rest.\n\nWhat does a good plan include?",
+      "points": 3,
+      "options": [
+        "no route information",
+        "time for landmarks and rest",
+        "only shopping"
+      ],
+      "key": 1
+    }
+  ],
+  "id": "9-sb-u8-blog-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887099",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887099",
+      "builder_url": "https://naurok.com.ua/test/builder/3887099",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

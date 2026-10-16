@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "9/personal-details/index.html",
+  "tests": [
+    {
+      "id": "9-present-past-review-homework-01",
+      "title": "9 клас · Six tenses, one story — теперішні й минулі часи",
+      "source_lesson": "9/present-past-review/index.html",
+      "json": "homework-check-present-past-review-01.json",
+      "markdown": "homework-check-present-past-review-01.md",
+      "answer_key": "homework-check-present-past-review-01-key.md",
+      "test_url": "https://naurok.com.ua/test/9-klas-six-tenses-one-story-teperishni-y-minuli-chasi-3887172.html",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

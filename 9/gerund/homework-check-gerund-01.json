@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "title": "9 клас · Gerund — форма, прийменники й зміст",
+  "grade": 9,
+  "purpose": "homework_check",
+  "source_lesson": "9/gerund/index.html",
+  "source_title": "Gerund: дієслово + ing",
+  "assessment_lesson": "9/gerund/index.html",
+  "placement": {
+    "rule": "no_next_lesson",
+    "note": "Перевірка після теми: окремого наступного уроку в навігації немає; збережено в папці вихідної теми."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши форму -ing від make.",
+      "points": 1,
+      "answers": [
+        "making"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши форму -ing від lie.",
+      "points": 1,
+      "answers": [
+        "lying"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Впиши форму solve: He is good at ___ puzzles.",
+      "points": 1,
+      "answers": [
+        "solving"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Впиши форму see: I look forward to ___ you.",
+      "points": 2,
+      "answers": [
+        "seeing"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "He stopped smoking. Що означає речення?",
+      "points": 2,
+      "options": [
+        "Він зупинився, щоб покурити.",
+        "Він припинив курити.",
+        "Він збирається почати курити.",
+        "Він забув купити сигарети."
+      ],
+      "key": 1
+    },
+    {
+      "type": "word",
+      "prompt": "Доповни дієсловом wake у потрібній формі: I am used to ___ up early. Йдеться про те, до чого я вже звик.",
+      "points": 3,
+      "answers": [
+        "waking"
+      ]
+    }
+  ],
+  "id": "9-gerund-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887177",
+      "test_url": "https://naurok.com.ua/test/9-klas-gerund-forma-priymenniki-y-zmist-3887177.html",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

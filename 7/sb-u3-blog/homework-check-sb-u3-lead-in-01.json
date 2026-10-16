@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · Are you ready to cook?: Починаємо юніт Приготування їжі · Починаємо юніт",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/sb-u3-lead-in/index.html",
+  "source_title": "Are you ready to cook?: Починаємо юніт Приготування їжі · Починаємо юніт",
+  "assessment_lesson": "7/sb-u3-blog/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова chopping board.",
+      "points": 1,
+      "options": [
+        "ополоник",
+        "сковорода",
+        "обробна дошка",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова grater.",
+      "points": 1,
+      "options": [
+        "тертка",
+        "сковорода",
+        "помішувати",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова ladle.",
+      "points": 1,
+      "options": [
+        "варити; кип’ятити",
+        "ополоник",
+        "помішувати",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Eva ___ washed the tomatoes.",
+      "points": 1,
+      "options": [
+        "have",
+        "is",
+        "has",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Have you ___ the vegetables?",
+      "points": 1,
+      "options": [
+        "chopped",
+        "chop",
+        "chopping",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "What ___ you prepared?",
+      "points": 1,
+      "options": [
+        "has",
+        "have",
+        "did have",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nThis unit is about cooking, recipes and experience. Before starting, I write down what I already know. I choose two useful words and one question I want to answer. At the end of the unit, I return to my question and check what I have learned.\n\nWhat do I write before starting?",
+      "points": 2,
+      "options": [
+        "only my final score",
+        "a shopping receipt",
+        "what I already know",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nThis unit is about cooking, recipes and experience. Before starting, I write down what I already know. I choose two useful words and one question I want to answer. At the end of the unit, I return to my question and check what I have learned.\n\nWhen do I return to my question?",
+      "points": 2,
+      "options": [
+        "at the end of the unit",
+        "never",
+        "only before starting",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    }
+  ],
+  "id": "7-sb-u3-lead-in-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886983",
+      "test_url": "https://naurok.com.ua/test-beta/test/3886983",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

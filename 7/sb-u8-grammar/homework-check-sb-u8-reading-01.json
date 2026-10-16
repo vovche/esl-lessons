@@ -1,0 +1,139 @@
+{
+  "schema_version": 1,
+  "title": "7 клас · What is there to see and to do?: Читання Подорожі й визначні місця · Читання",
+  "grade": 7,
+  "purpose": "homework_check",
+  "source_lesson": "7/sb-u8-reading/index.html",
+  "source_title": "What is there to see and to do?: Читання Подорожі й визначні місця · Читання",
+  "assessment_lesson": "7/sb-u8-grammar/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова landmark.",
+      "points": 1,
+      "options": [
+        "визначне місце",
+        "собор",
+        "замок",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова capital.",
+      "points": 1,
+      "options": [
+        "екскурсовод",
+        "столиця",
+        "замок",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Обери значення слова cathedral.",
+      "points": 1,
+      "options": [
+        "екскурсовод",
+        "буклет",
+        "собор",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "I need ___ ticket because mine is lost.",
+      "points": 1,
+      "options": [
+        "another",
+        "others",
+        "other",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Some attractions are better than ___.",
+      "points": 1,
+      "options": [
+        "other one attraction",
+        "others",
+        "another",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "We can visit either the museum ___ the park.",
+      "points": 1,
+      "options": [
+        "nor",
+        "and nor",
+        "or",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nA tourist leaflet helps visitors choose what to see. It can describe a museum, a castle or a botanic garden. Useful information includes the place, its special features and a suggested route. Visitors can compare attractions and decide whether to spend time indoors or outdoors.\n\nWhat does a leaflet help visitors choose?",
+      "points": 2,
+      "options": [
+        "places to see",
+        "household duties",
+        "exam marks",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nA tourist leaflet helps visitors choose what to see. It can describe a museum, a castle or a botanic garden. Useful information includes the place, its special features and a suggested route. Visitors can compare attractions and decide whether to spend time indoors or outdoors.\n\nWhich detail is useful for a route?",
+      "points": 2,
+      "options": [
+        "a recipe ingredient",
+        "the place and its location",
+        "a film ending",
+        "Жоден із наведених варіантів"
+      ],
+      "key": 1
+    }
+  ],
+  "id": "7-sb-u8-reading-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887220",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887220",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-06-01T23:00",
+      "semester": 2,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-06-01T23:00",
+    "semester": 2,
+    "timezone": "Europe/Kyiv"
+  }
+}

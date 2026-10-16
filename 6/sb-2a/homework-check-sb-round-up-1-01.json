@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "title": "Round-up 1 · 6 клас · ESL round-up-1",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-round-up-1/index.html",
+  "source_title": "Round-up 1 Повторення юніту 1",
+  "assessment_lesson": "6/sb-2a/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "choice",
+      "prompt": "She ___ music every day.",
+      "points": 1,
+      "options": [
+        "study",
+        "studying",
+        "studies"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "She ___ a book at the moment.",
+      "points": 1,
+      "options": [
+        "is reading",
+        "reads",
+        "read"
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "She usually ___ trainers to school.",
+      "points": 1,
+      "options": [
+        "wear",
+        "wears",
+        "is wearing"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "I enjoy ___ table tennis.",
+      "points": 1,
+      "options": [
+        "to play",
+        "play",
+        "playing"
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct order.",
+      "points": 1,
+      "options": [
+        "She has got straight hair.",
+        "She straight has got hair.",
+        "Straight she hair has got."
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: Our school has a theatre and a science lab. We study the usual subjects, but we also learn dance and music. Classes start at nine and finish at four. After school, some students practise in the theatre. I enjoy biology because I like learning about animals.\n\nWhere do some students practise after school?",
+      "points": 1,
+      "options": [
+        "In the kitchen.",
+        "In the airport.",
+        "In the theatre."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: A girl usually buys her clothes, but today she is changing an old pair of jeans into a skirt. She is drawing a butterfly on a pocket. The drawing looks awful, so her friend gives her a patch. They put it over the drawing and make a new design together.\n\nWhat is the girl making?",
+      "points": 2,
+      "options": [
+        "A jacket.",
+        "A cap.",
+        "A skirt."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: I am tall and have got curly dark hair. I am active and outgoing, and I love sports. My best friend is short and has got blue eyes. He is clever and helpful, so I like studying with him. We both play ice hockey for a local team.\n\nWhy does the writer like studying with the friend?",
+      "points": 2,
+      "options": [
+        "The friend has blue eyes.",
+        "The friend is very tall.",
+        "The friend is clever and helpful."
+      ],
+      "key": 2
+    }
+  ],
+  "id": "6-sb-round-up-1-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3887042",
+      "test_url": "https://naurok.com.ua/test-beta/test/3887042",
+      "builder_url": "https://naurok.com.ua/test/builder/3887042",
+      "status": "published_pending_homework_daily_limit",
+      "verified": true,
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}

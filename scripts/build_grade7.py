@@ -80,4 +80,6 @@ def main():
  root=ROOT/'index.html';html=root.read_text();start=html.index('<div class="class-heading"><h2 id="class-7">');section_start=html.rfind('<section',0,start);end=html.index('</section>',start)+len('</section>')
  rootblock='<section class="class-section"><div class="class-heading"><h2 id="class-7"><a class="section-link" data-site-nav="grade" href="7/">7 клас →</a></h2><span>Starter · Unit 1–8 · аудіо SB і WB</span></div><div class="cards">'+''.join(card(s,'7/') for s in lessons)+extra.replace('href="','href="7/')+'</div></section>'
  root.write_text(html[:section_start]+rootblock+html[end:]);print(f'grade 7: built {len(lessons)} course sections; retained {len(legacy)} authored lessons; 2 references')
+ from attach_naurok_homework import apply_grade
+ apply_grade(7)
 if __name__=='__main__':main()

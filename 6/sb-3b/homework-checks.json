@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "assessment_lesson": "6/sb-3b/index.html",
+  "tests": [
+    {
+      "id": "6-sb-3a-homework-01",
+      "title": "Accident · 6 клас · ESL 3a",
+      "source_lesson": "6/sb-3a/index.html",
+      "json": "homework-check-sb-3a-01.json",
+      "markdown": "homework-check-sb-3a-01.md",
+      "answer_key": "homework-check-sb-3a-01-key.md",
+      "test_url": "https://naurok.com.ua/test/accident-6-klas-esl-3a-3886817.html",
+      "status": "published_pending_homework_daily_limit"
+    }
+  ]
+}

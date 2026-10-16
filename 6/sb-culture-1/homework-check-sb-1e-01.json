@@ -1,0 +1,127 @@
+{
+  "schema_version": 1,
+  "title": "My friend's profile · 6 клас · ESL 1e",
+  "grade": 6,
+  "purpose": "homework_check",
+  "source_lesson": "6/sb-1e/index.html",
+  "source_title": "My friend's profile Профіль друга",
+  "assessment_lesson": "6/sb-culture-1/index.html",
+  "placement": {
+    "rule": "next_lesson",
+    "note": "Перевірка домашнього завдання за попередньою темою на наступному уроці."
+  },
+  "total_points": 10,
+  "questions": [
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «товариський».",
+      "points": 1,
+      "answers": [
+        "outgoing"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «готовий допомогти».",
+      "points": 1,
+      "answers": [
+        "helpful"
+      ]
+    },
+    {
+      "type": "word",
+      "prompt": "Напиши англійською: «розумний».",
+      "points": 1,
+      "answers": [
+        "clever"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the correct order.",
+      "points": 1,
+      "options": [
+        "She straight has got hair.",
+        "Straight she hair has got.",
+        "She has got straight hair."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "A question about personality is…",
+      "points": 1,
+      "options": [
+        "What time is it?",
+        "What are you like?",
+        "What do you look like?"
+      ],
+      "key": 1
+    },
+    {
+      "type": "choice",
+      "prompt": "Choose the natural sentence.",
+      "points": 1,
+      "options": [
+        "He is a helpful boy.",
+        "He a boy helpful is.",
+        "Helpful he is boy a."
+      ],
+      "key": 0
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: I am tall and have got curly dark hair. I am active and outgoing, and I love sports. My best friend is short and has got blue eyes. He is clever and helpful, so I like studying with him. We both play ice hockey for a local team.\n\nWhy does the writer like studying with the friend?",
+      "points": 2,
+      "options": [
+        "The friend has blue eyes.",
+        "The friend is very tall.",
+        "The friend is clever and helpful."
+      ],
+      "key": 2
+    },
+    {
+      "type": "choice",
+      "prompt": "Прочитай текст: I am tall and have got curly dark hair. I am active and outgoing, and I love sports. My best friend is short and has got blue eyes. He is clever and helpful, so I like studying with him. We both play ice hockey for a local team.\n\nWhat do the friends do together?",
+      "points": 2,
+      "options": [
+        "Make films.",
+        "Play ice hockey.",
+        "Go on cruises."
+      ],
+      "key": 1
+    }
+  ],
+  "id": "6-sb-1e-homework-01",
+  "platforms": {
+    "naurok": {
+      "test_id": "3886797",
+      "test_url": "https://naurok.com.ua/test/my-friend-s-profile-6-klas-esl-1e-3886797.html",
+      "builder_url": "https://naurok.com.ua/test/builder/3886797",
+      "status": "homework_created",
+      "verified": true,
+      "homework_id": "86106594",
+      "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86106594",
+      "student_url": "https://naurok.ua/test/join?gamecode=7745162",
+      "code": "7745162",
+      "deadline": "2027-01-03T23:00",
+      "semester": 1,
+      "points": 10,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
+    }
+  },
+  "assessment": {
+    "deadline": "2027-01-03T23:00",
+    "semester": 1,
+    "timezone": "Europe/Kyiv"
+  }
+}
