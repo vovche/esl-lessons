@@ -10,7 +10,9 @@
       "markdown": "homework-check-sb-grammar-01.md",
       "answer_key": "homework-check-sb-grammar-01-key.md",
       "test_url": "https://naurok.com.ua/test/9-klas-gramatika-kursu-units-1-4-3887197.html",
-      "status": "published_pending_homework_daily_limit"
+      "status": "published_pending_homework_daily_limit",
+      "pdf": "homework-check-sb-grammar-01.pdf",
+      "answer_key_pdf": "homework-check-sb-grammar-01-key.pdf"
     },
     {
       "id": "9-sb-grammar-homework-02",
@@ -20,7 +22,9 @@
       "markdown": "homework-check-sb-grammar-02.md",
       "answer_key": "homework-check-sb-grammar-02-key.md",
       "test_url": "https://naurok.com.ua/test/9-klas-gramatika-kursu-units-5-8-3887200.html",
-      "status": "published_pending_homework_daily_limit"
+      "status": "published_pending_homework_daily_limit",
+      "pdf": "homework-check-sb-grammar-02.pdf",
+      "answer_key_pdf": "homework-check-sb-grammar-02-key.pdf"
     }
   ]
 }

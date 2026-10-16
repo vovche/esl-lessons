@@ -10,7 +10,9 @@
       "markdown": "homework-check-sb-learning-tips-01.md",
       "answer_key": "homework-check-sb-learning-tips-01-key.md",
       "test_url": "https://naurok.com.ua/test-beta/test/3887030",
-      "status": "published_pending_homework_daily_limit"
+      "status": "published_pending_homework_daily_limit",
+      "pdf": "homework-check-sb-learning-tips-01.pdf",
+      "answer_key_pdf": "homework-check-sb-learning-tips-01-key.pdf"
     },
     {
       "id": "6-sb-pair-work-homework-01",
@@ -20,7 +22,9 @@
       "markdown": "homework-check-sb-pair-work-01.md",
       "answer_key": "homework-check-sb-pair-work-01-key.md",
       "test_url": "https://naurok.com.ua/test-beta/test/3887036",
-      "status": "published_pending_homework_daily_limit"
+      "status": "published_pending_homework_daily_limit",
+      "pdf": "homework-check-sb-pair-work-01.pdf",
+      "answer_key_pdf": "homework-check-sb-pair-work-01-key.pdf"
     }
   ]
 }

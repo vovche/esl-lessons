@@ -116,6 +116,9 @@ def sync_grade(grade: str | int, root: Path = ROOT, *, check: bool = False) -> i
                     'json': file.name, 'markdown': file.with_suffix('.md').name,
                     'answer_key': key_file.name,
                     'test_url': receipt['test_url'], 'status': receipt['status'],
+                    **({'pdf': file.with_suffix('.pdf').name} if file.with_suffix('.pdf').is_file() else {}),
+                    **({'answer_key_pdf': file.with_name(file.stem + '-key.pdf').name}
+                       if file.with_name(file.stem + '-key.pdf').is_file() else {}),
                     **({'student_url': receipt['student_url']} if receipt.get('student_url') else {}),
                 })
                 count += 1

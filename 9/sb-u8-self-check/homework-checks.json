@@ -10,7 +10,9 @@
       "markdown": "homework-check-sb-u8-look-back-01.md",
       "answer_key": "homework-check-sb-u8-look-back-01-key.md",
       "test_url": "https://naurok.com.ua/test-beta/test/3887117",
-      "status": "published_pending_homework_daily_limit"
+      "status": "published_pending_homework_daily_limit",
+      "pdf": "homework-check-sb-u8-look-back-01.pdf",
+      "answer_key_pdf": "homework-check-sb-u8-look-back-01-key.pdf"
     },
     {
       "id": "9-sb-u8-self-check-homework-01",
@@ -20,7 +22,9 @@
       "markdown": "homework-check-sb-u8-self-check-01.md",
       "answer_key": "homework-check-sb-u8-self-check-01-key.md",
       "test_url": "https://naurok.com.ua/test-beta/test/3887123",
-      "status": "published_pending_homework_daily_limit"
+      "status": "published_pending_homework_daily_limit",
+      "pdf": "homework-check-sb-u8-self-check-01.pdf",
+      "answer_key_pdf": "homework-check-sb-u8-self-check-01-key.pdf"
     }
   ]
 }

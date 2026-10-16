@@ -10,7 +10,9 @@
       "markdown": "homework-check-sb-wordlist-01.md",
       "answer_key": "homework-check-sb-wordlist-01-key.md",
       "test_url": "https://naurok.com.ua/test-beta/test/3887122",
-      "status": "published_pending_homework_daily_limit"
+      "status": "published_pending_homework_daily_limit",
+      "pdf": "homework-check-sb-wordlist-01.pdf",
+      "answer_key_pdf": "homework-check-sb-wordlist-01-key.pdf"
     },
     {
       "id": "7-sb-wordlist-homework-02",
@@ -20,7 +22,9 @@
       "markdown": "homework-check-sb-wordlist-02.md",
       "answer_key": "homework-check-sb-wordlist-02-key.md",
       "test_url": "https://naurok.com.ua/test-beta/test/3887129",
-      "status": "published_pending_homework_daily_limit"
+      "status": "published_pending_homework_daily_limit",
+      "pdf": "homework-check-sb-wordlist-02.pdf",
+      "answer_key_pdf": "homework-check-sb-wordlist-02-key.pdf"
     },
     {
       "id": "7-sb-wordlist-homework-03",
@@ -30,7 +34,9 @@
       "markdown": "homework-check-sb-wordlist-03.md",
       "answer_key": "homework-check-sb-wordlist-03-key.md",
       "test_url": "https://naurok.com.ua/test-beta/test/3887134",
-      "status": "published_pending_homework_daily_limit"
+      "status": "published_pending_homework_daily_limit",
+      "pdf": "homework-check-sb-wordlist-03.pdf",
+      "answer_key_pdf": "homework-check-sb-wordlist-03-key.pdf"
     },
     {
       "id": "7-sb-wordlist-homework-04",
@@ -40,7 +46,9 @@
       "markdown": "homework-check-sb-wordlist-04.md",
       "answer_key": "homework-check-sb-wordlist-04-key.md",
       "test_url": "https://naurok.com.ua/test-beta/test/3887138",
-      "status": "published_pending_homework_daily_limit"
+      "status": "published_pending_homework_daily_limit",
+      "pdf": "homework-check-sb-wordlist-04.pdf",
+      "answer_key_pdf": "homework-check-sb-wordlist-04-key.pdf"
     },
     {
       "id": "7-sb-wordlist-homework-05",
@@ -50,7 +58,9 @@
       "markdown": "homework-check-sb-wordlist-05.md",
       "answer_key": "homework-check-sb-wordlist-05-key.md",
       "test_url": "https://naurok.com.ua/test-beta/test/3887142",
-      "status": "published_pending_homework_daily_limit"
+      "status": "published_pending_homework_daily_limit",
+      "pdf": "homework-check-sb-wordlist-05.pdf",
+      "answer_key_pdf": "homework-check-sb-wordlist-05-key.pdf"
     },
     {
       "id": "7-sb-wordlist-homework-06",
@@ -60,7 +70,9 @@
       "markdown": "homework-check-sb-wordlist-06.md",
       "answer_key": "homework-check-sb-wordlist-06-key.md",
       "test_url": "https://naurok.com.ua/test-beta/test/3887147",
-      "status": "published_pending_homework_daily_limit"
+      "status": "published_pending_homework_daily_limit",
+      "pdf": "homework-check-sb-wordlist-06.pdf",
+      "answer_key_pdf": "homework-check-sb-wordlist-06-key.pdf"
     },
     {
       "id": "7-sb-wordlist-homework-07",
@@ -70,7 +82,9 @@
       "markdown": "homework-check-sb-wordlist-07.md",
       "answer_key": "homework-check-sb-wordlist-07-key.md",
       "test_url": "https://naurok.com.ua/test-beta/test/3887151",
-      "status": "published_pending_homework_daily_limit"
+      "status": "published_pending_homework_daily_limit",
+      "pdf": "homework-check-sb-wordlist-07.pdf",
+      "answer_key_pdf": "homework-check-sb-wordlist-07-key.pdf"
     },
     {
       "id": "7-sb-wordlist-homework-08",
@@ -80,7 +94,9 @@
       "markdown": "homework-check-sb-wordlist-08.md",
       "answer_key": "homework-check-sb-wordlist-08-key.md",
       "test_url": "https://naurok.com.ua/test-beta/test/3887155",
-      "status": "published_pending_homework_daily_limit"
+      "status": "published_pending_homework_daily_limit",
+      "pdf": "homework-check-sb-wordlist-08.pdf",
+      "answer_key_pdf": "homework-check-sb-wordlist-08-key.pdf"
     }
   ]
 }

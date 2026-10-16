@@ -53,7 +53,7 @@ def validate_test(test: dict) -> None:
             assert link.path == f'/test-beta/homework/{homework_id}', 'homework creation form is not a saved assignment'
 
 
-def render_footer(tests: list[dict], lesson_path: str | None = None) -> str:
+def render_footer(tests: list[dict], lesson_path: str | None = None, root: Path = ROOT) -> str:
     for test in tests:
         validate_test(test)
     links = []
@@ -82,11 +82,14 @@ def render_footer(tests: list[dict], lesson_path: str | None = None) -> str:
             content = Path(os.path.relpath(test['content_path'], Path(lesson_path).parent))
             links.append(f'<a href="{html.escape(content.with_suffix(".md").as_posix(), quote=True)}">'
                          'Версія без відповідей (Markdown)</a>.')
+            if (root / test['content_path']).with_suffix('.pdf').is_file():
+                links.append(f'<a href="{html.escape(content.with_suffix(".pdf").as_posix(), quote=True)}">'
+                             'Завдання для друку (PDF)</a>.')
     return '<p data-naurok-homework="true" data-dictionary-skip>' + '<br>'.join(links) + '</p>'
 
 
-def attach(source: str, tests: list[dict], lesson_path: str | None = None) -> str:
-    block = render_footer(tests, lesson_path)
+def attach(source: str, tests: list[dict], lesson_path: str | None = None, root: Path = ROOT) -> str:
+    block = render_footer(tests, lesson_path, root)
     if BLOCK.search(source):
         return BLOCK.sub(lambda _: block, source, count=1)
     footer = re.search(r'<footer\b[^>]*>', source)
@@ -138,7 +141,7 @@ def apply_grade(grade: str | int, root: Path = ROOT, *, check: bool = False,
                 page.write_text(expected, encoding='utf-8')
             continue
         source = page.read_text(encoding='utf-8')
-        expected = attach(source, tests, lesson_path)
+        expected = attach(source, tests, lesson_path, root)
         if check:
             assert source == expected, f'footer out of sync: {page.relative_to(root)}'
         elif source != expected:

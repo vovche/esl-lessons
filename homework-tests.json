@@ -9,7 +9,9 @@
       "assessment_lesson": "6/sb-grammar/index.html",
       "json": "6/sb-grammar/homework-check-sb-grammar-01.json",
       "markdown": "6/sb-grammar/homework-check-sb-grammar-01.md",
-      "answer_key": "6/sb-grammar/homework-check-sb-grammar-01-key.md"
+      "answer_key": "6/sb-grammar/homework-check-sb-grammar-01-key.md",
+      "pdf": "6/sb-grammar/homework-check-sb-grammar-01.pdf",
+      "answer_key_pdf": "6/sb-grammar/homework-check-sb-grammar-01-key.pdf"
     },
     {
       "id": "6-sb-grammar-homework-02",
@@ -18,7 +20,9 @@
       "assessment_lesson": "6/sb-grammar/index.html",
       "json": "6/sb-grammar/homework-check-sb-grammar-02.json",
       "markdown": "6/sb-grammar/homework-check-sb-grammar-02.md",
-      "answer_key": "6/sb-grammar/homework-check-sb-grammar-02-key.md"
+      "answer_key": "6/sb-grammar/homework-check-sb-grammar-02-key.md",
+      "pdf": "6/sb-grammar/homework-check-sb-grammar-02.pdf",
+      "answer_key_pdf": "6/sb-grammar/homework-check-sb-grammar-02-key.pdf"
     },
     {
       "id": "6-sb-grammar-homework-03",
@@ -27,7 +31,9 @@
       "assessment_lesson": "6/sb-grammar/index.html",
       "json": "6/sb-grammar/homework-check-sb-grammar-03.json",
       "markdown": "6/sb-grammar/homework-check-sb-grammar-03.md",
-      "answer_key": "6/sb-grammar/homework-check-sb-grammar-03-key.md"
+      "answer_key": "6/sb-grammar/homework-check-sb-grammar-03-key.md",
+      "pdf": "6/sb-grammar/homework-check-sb-grammar-03.pdf",
+      "answer_key_pdf": "6/sb-grammar/homework-check-sb-grammar-03-key.pdf"
     },
     {
       "id": "6-sb-grammar-homework-04",
@@ -36,7 +42,9 @@
       "assessment_lesson": "6/sb-grammar/index.html",
       "json": "6/sb-grammar/homework-check-sb-grammar-04.json",
       "markdown": "6/sb-grammar/homework-check-sb-grammar-04.md",
-      "answer_key": "6/sb-grammar/homework-check-sb-grammar-04-key.md"
+      "answer_key": "6/sb-grammar/homework-check-sb-grammar-04-key.md",
+      "pdf": "6/sb-grammar/homework-check-sb-grammar-04.pdf",
+      "answer_key_pdf": "6/sb-grammar/homework-check-sb-grammar-04-key.pdf"
     },
     {
       "id": "6-sb-grammar-homework-05",
@@ -45,7 +53,9 @@
       "assessment_lesson": "6/sb-grammar/index.html",
       "json": "6/sb-grammar/homework-check-sb-grammar-05.json",
       "markdown": "6/sb-grammar/homework-check-sb-grammar-05.md",
-      "answer_key": "6/sb-grammar/homework-check-sb-grammar-05-key.md"
+      "answer_key": "6/sb-grammar/homework-check-sb-grammar-05-key.md",
+      "pdf": "6/sb-grammar/homework-check-sb-grammar-05.pdf",
+      "answer_key_pdf": "6/sb-grammar/homework-check-sb-grammar-05-key.pdf"
     },
     {
       "id": "6-sb-grammar-homework-06",
@@ -54,7 +64,9 @@
       "assessment_lesson": "6/sb-grammar/index.html",
       "json": "6/sb-grammar/homework-check-sb-grammar-06.json",
       "markdown": "6/sb-grammar/homework-check-sb-grammar-06.md",
-      "answer_key": "6/sb-grammar/homework-check-sb-grammar-06-key.md"
+      "answer_key": "6/sb-grammar/homework-check-sb-grammar-06-key.md",
+      "pdf": "6/sb-grammar/homework-check-sb-grammar-06.pdf",
+      "answer_key_pdf": "6/sb-grammar/homework-check-sb-grammar-06-key.pdf"
     },
     {
       "id": "6-sb-grammar-homework-07",
@@ -63,7 +75,9 @@
       "assessment_lesson": "6/sb-grammar/index.html",
       "json": "6/sb-grammar/homework-check-sb-grammar-07.json",
       "markdown": "6/sb-grammar/homework-check-sb-grammar-07.md",
-      "answer_key": "6/sb-grammar/homework-check-sb-grammar-07-key.md"
+      "answer_key": "6/sb-grammar/homework-check-sb-grammar-07-key.md",
+      "pdf": "6/sb-grammar/homework-check-sb-grammar-07.pdf",
+      "answer_key_pdf": "6/sb-grammar/homework-check-sb-grammar-07-key.pdf"
     },
     {
       "id": "6-sb-grammar-homework-08",
@@ -72,7 +86,9 @@
       "assessment_lesson": "6/sb-grammar/index.html",
       "json": "6/sb-grammar/homework-check-sb-grammar-08.json",
       "markdown": "6/sb-grammar/homework-check-sb-grammar-08.md",
-      "answer_key": "6/sb-grammar/homework-check-sb-grammar-08-key.md"
+      "answer_key": "6/sb-grammar/homework-check-sb-grammar-08-key.md",
+      "pdf": "6/sb-grammar/homework-check-sb-grammar-08.pdf",
+      "answer_key_pdf": "6/sb-grammar/homework-check-sb-grammar-08-key.pdf"
     },
     {
       "id": "6-jolly-phonics-homework-01",
@@ -81,7 +97,9 @@
       "assessment_lesson": "6/jolly-phonics/index.html",
       "json": "6/jolly-phonics/homework-check-jolly-phonics-01.json",
       "markdown": "6/jolly-phonics/homework-check-jolly-phonics-01.md",
-      "answer_key": "6/jolly-phonics/homework-check-jolly-phonics-01-key.md"
+      "answer_key": "6/jolly-phonics/homework-check-jolly-phonics-01-key.md",
+      "pdf": "6/jolly-phonics/homework-check-jolly-phonics-01.pdf",
+      "answer_key_pdf": "6/jolly-phonics/homework-check-jolly-phonics-01-key.pdf"
     },
     {
       "id": "6-jolly-phonics-homework-02",
@@ -90,7 +108,9 @@
       "assessment_lesson": "6/jolly-phonics/index.html",
       "json": "6/jolly-phonics/homework-check-jolly-phonics-02.json",
       "markdown": "6/jolly-phonics/homework-check-jolly-phonics-02.md",
-      "answer_key": "6/jolly-phonics/homework-check-jolly-phonics-02-key.md"
+      "answer_key": "6/jolly-phonics/homework-check-jolly-phonics-02-key.md",
+      "pdf": "6/jolly-phonics/homework-check-jolly-phonics-02.pdf",
+      "answer_key_pdf": "6/jolly-phonics/homework-check-jolly-phonics-02-key.pdf"
     },
     {
       "id": "6-jolly-phonics-homework-03",
@@ -99,7 +119,9 @@
       "assessment_lesson": "6/jolly-phonics/index.html",
       "json": "6/jolly-phonics/homework-check-jolly-phonics-03.json",
       "markdown": "6/jolly-phonics/homework-check-jolly-phonics-03.md",
-      "answer_key": "6/jolly-phonics/homework-check-jolly-phonics-03-key.md"
+      "answer_key": "6/jolly-phonics/homework-check-jolly-phonics-03-key.md",
+      "pdf": "6/jolly-phonics/homework-check-jolly-phonics-03.pdf",
+      "answer_key_pdf": "6/jolly-phonics/homework-check-jolly-phonics-03-key.pdf"
     },
     {
       "id": "6-jolly-phonics-homework-04",
@@ -108,7 +130,9 @@
       "assessment_lesson": "6/jolly-phonics/index.html",
       "json": "6/jolly-phonics/homework-check-jolly-phonics-04.json",
       "markdown": "6/jolly-phonics/homework-check-jolly-phonics-04.md",
-      "answer_key": "6/jolly-phonics/homework-check-jolly-phonics-04-key.md"
+      "answer_key": "6/jolly-phonics/homework-check-jolly-phonics-04-key.md",
+      "pdf": "6/jolly-phonics/homework-check-jolly-phonics-04.pdf",
+      "answer_key_pdf": "6/jolly-phonics/homework-check-jolly-phonics-04-key.pdf"
     },
     {
       "id": "6-jolly-phonics-homework-05",
@@ -117,7 +141,9 @@
       "assessment_lesson": "6/jolly-phonics/index.html",
       "json": "6/jolly-phonics/homework-check-jolly-phonics-05.json",
       "markdown": "6/jolly-phonics/homework-check-jolly-phonics-05.md",
-      "answer_key": "6/jolly-phonics/homework-check-jolly-phonics-05-key.md"
+      "answer_key": "6/jolly-phonics/homework-check-jolly-phonics-05-key.md",
+      "pdf": "6/jolly-phonics/homework-check-jolly-phonics-05.pdf",
+      "answer_key_pdf": "6/jolly-phonics/homework-check-jolly-phonics-05-key.pdf"
     },
     {
       "id": "6-jolly-phonics-homework-06",
@@ -126,7 +152,9 @@
       "assessment_lesson": "6/jolly-phonics/index.html",
       "json": "6/jolly-phonics/homework-check-jolly-phonics-06.json",
       "markdown": "6/jolly-phonics/homework-check-jolly-phonics-06.md",
-      "answer_key": "6/jolly-phonics/homework-check-jolly-phonics-06-key.md"
+      "answer_key": "6/jolly-phonics/homework-check-jolly-phonics-06-key.md",
+      "pdf": "6/jolly-phonics/homework-check-jolly-phonics-06.pdf",
+      "answer_key_pdf": "6/jolly-phonics/homework-check-jolly-phonics-06-key.pdf"
     },
     {
       "id": "6-jolly-phonics-homework-07",
@@ -135,7 +163,9 @@
       "assessment_lesson": "6/jolly-phonics/index.html",
       "json": "6/jolly-phonics/homework-check-jolly-phonics-07.json",
       "markdown": "6/jolly-phonics/homework-check-jolly-phonics-07.md",
-      "answer_key": "6/jolly-phonics/homework-check-jolly-phonics-07-key.md"
+      "answer_key": "6/jolly-phonics/homework-check-jolly-phonics-07-key.md",
+      "pdf": "6/jolly-phonics/homework-check-jolly-phonics-07.pdf",
+      "answer_key_pdf": "6/jolly-phonics/homework-check-jolly-phonics-07-key.pdf"
     },
     {
       "id": "6-sb-wordlist-homework-01",
@@ -144,7 +174,9 @@
       "assessment_lesson": "6/sb-wordlist/index.html",
       "json": "6/sb-wordlist/homework-check-sb-wordlist-01.json",
       "markdown": "6/sb-wordlist/homework-check-sb-wordlist-01.md",
-      "answer_key": "6/sb-wordlist/homework-check-sb-wordlist-01-key.md"
+      "answer_key": "6/sb-wordlist/homework-check-sb-wordlist-01-key.md",
+      "pdf": "6/sb-wordlist/homework-check-sb-wordlist-01.pdf",
+      "answer_key_pdf": "6/sb-wordlist/homework-check-sb-wordlist-01-key.pdf"
     },
     {
       "id": "6-sb-wordlist-homework-02",
@@ -153,7 +185,9 @@
       "assessment_lesson": "6/sb-wordlist/index.html",
       "json": "6/sb-wordlist/homework-check-sb-wordlist-02.json",
       "markdown": "6/sb-wordlist/homework-check-sb-wordlist-02.md",
-      "answer_key": "6/sb-wordlist/homework-check-sb-wordlist-02-key.md"
+      "answer_key": "6/sb-wordlist/homework-check-sb-wordlist-02-key.md",
+      "pdf": "6/sb-wordlist/homework-check-sb-wordlist-02.pdf",
+      "answer_key_pdf": "6/sb-wordlist/homework-check-sb-wordlist-02-key.pdf"
     },
     {
       "id": "6-sb-wordlist-homework-03",
@@ -162,7 +196,9 @@
       "assessment_lesson": "6/sb-wordlist/index.html",
       "json": "6/sb-wordlist/homework-check-sb-wordlist-03.json",
       "markdown": "6/sb-wordlist/homework-check-sb-wordlist-03.md",
-      "answer_key": "6/sb-wordlist/homework-check-sb-wordlist-03-key.md"
+      "answer_key": "6/sb-wordlist/homework-check-sb-wordlist-03-key.md",
+      "pdf": "6/sb-wordlist/homework-check-sb-wordlist-03.pdf",
+      "answer_key_pdf": "6/sb-wordlist/homework-check-sb-wordlist-03-key.pdf"
     },
     {
       "id": "6-sb-wordlist-homework-04",
@@ -171,7 +207,9 @@
       "assessment_lesson": "6/sb-wordlist/index.html",
       "json": "6/sb-wordlist/homework-check-sb-wordlist-04.json",
       "markdown": "6/sb-wordlist/homework-check-sb-wordlist-04.md",
-      "answer_key": "6/sb-wordlist/homework-check-sb-wordlist-04-key.md"
+      "answer_key": "6/sb-wordlist/homework-check-sb-wordlist-04-key.md",
+      "pdf": "6/sb-wordlist/homework-check-sb-wordlist-04.pdf",
+      "answer_key_pdf": "6/sb-wordlist/homework-check-sb-wordlist-04-key.pdf"
     },
     {
       "id": "6-sb-wordlist-homework-05",
@@ -180,7 +218,9 @@
       "assessment_lesson": "6/sb-wordlist/index.html",
       "json": "6/sb-wordlist/homework-check-sb-wordlist-05.json",
       "markdown": "6/sb-wordlist/homework-check-sb-wordlist-05.md",
-      "answer_key": "6/sb-wordlist/homework-check-sb-wordlist-05-key.md"
+      "answer_key": "6/sb-wordlist/homework-check-sb-wordlist-05-key.md",
+      "pdf": "6/sb-wordlist/homework-check-sb-wordlist-05.pdf",
+      "answer_key_pdf": "6/sb-wordlist/homework-check-sb-wordlist-05-key.pdf"
     },
     {
       "id": "6-sb-wordlist-homework-06",
@@ -189,7 +229,9 @@
       "assessment_lesson": "6/sb-wordlist/index.html",
       "json": "6/sb-wordlist/homework-check-sb-wordlist-06.json",
       "markdown": "6/sb-wordlist/homework-check-sb-wordlist-06.md",
-      "answer_key": "6/sb-wordlist/homework-check-sb-wordlist-06-key.md"
+      "answer_key": "6/sb-wordlist/homework-check-sb-wordlist-06-key.md",
+      "pdf": "6/sb-wordlist/homework-check-sb-wordlist-06.pdf",
+      "answer_key_pdf": "6/sb-wordlist/homework-check-sb-wordlist-06-key.pdf"
     },
     {
       "id": "6-sb-wordlist-homework-07",
@@ -198,7 +240,9 @@
       "assessment_lesson": "6/sb-wordlist/index.html",
       "json": "6/sb-wordlist/homework-check-sb-wordlist-07.json",
       "markdown": "6/sb-wordlist/homework-check-sb-wordlist-07.md",
-      "answer_key": "6/sb-wordlist/homework-check-sb-wordlist-07-key.md"
+      "answer_key": "6/sb-wordlist/homework-check-sb-wordlist-07-key.md",
+      "pdf": "6/sb-wordlist/homework-check-sb-wordlist-07.pdf",
+      "answer_key_pdf": "6/sb-wordlist/homework-check-sb-wordlist-07-key.pdf"
     },
     {
       "id": "6-sb-wordlist-homework-08",
@@ -207,7 +251,9 @@
       "assessment_lesson": "6/sb-wordlist/index.html",
       "json": "6/sb-wordlist/homework-check-sb-wordlist-08.json",
       "markdown": "6/sb-wordlist/homework-check-sb-wordlist-08.md",
-      "answer_key": "6/sb-wordlist/homework-check-sb-wordlist-08-key.md"
+      "answer_key": "6/sb-wordlist/homework-check-sb-wordlist-08-key.md",
+      "pdf": "6/sb-wordlist/homework-check-sb-wordlist-08.pdf",
+      "answer_key_pdf": "6/sb-wordlist/homework-check-sb-wordlist-08-key.pdf"
     },
     {
       "id": "6-sb-1a-homework-01",
@@ -216,7 +262,9 @@
       "assessment_lesson": "6/sb-1b/index.html",
       "json": "6/sb-1b/homework-check-sb-1a-01.json",
       "markdown": "6/sb-1b/homework-check-sb-1a-01.md",
-      "answer_key": "6/sb-1b/homework-check-sb-1a-01-key.md"
+      "answer_key": "6/sb-1b/homework-check-sb-1a-01-key.md",
+      "pdf": "6/sb-1b/homework-check-sb-1a-01.pdf",
+      "answer_key_pdf": "6/sb-1b/homework-check-sb-1a-01-key.pdf"
     },
     {
       "id": "6-sb-1b-homework-01",
@@ -225,7 +273,9 @@
       "assessment_lesson": "6/sb-1c/index.html",
       "json": "6/sb-1c/homework-check-sb-1b-01.json",
       "markdown": "6/sb-1c/homework-check-sb-1b-01.md",
-      "answer_key": "6/sb-1c/homework-check-sb-1b-01-key.md"
+      "answer_key": "6/sb-1c/homework-check-sb-1b-01-key.md",
+      "pdf": "6/sb-1c/homework-check-sb-1b-01.pdf",
+      "answer_key_pdf": "6/sb-1c/homework-check-sb-1b-01-key.pdf"
     },
     {
       "id": "6-sb-1c-homework-01",
@@ -234,7 +284,9 @@
       "assessment_lesson": "6/sb-1d/index.html",
       "json": "6/sb-1d/homework-check-sb-1c-01.json",
       "markdown": "6/sb-1d/homework-check-sb-1c-01.md",
-      "answer_key": "6/sb-1d/homework-check-sb-1c-01-key.md"
+      "answer_key": "6/sb-1d/homework-check-sb-1c-01-key.md",
+      "pdf": "6/sb-1d/homework-check-sb-1c-01.pdf",
+      "answer_key_pdf": "6/sb-1d/homework-check-sb-1c-01-key.pdf"
     },
     {
       "id": "6-sb-1d-homework-01",
@@ -243,7 +295,9 @@
       "assessment_lesson": "6/sb-1e/index.html",
       "json": "6/sb-1e/homework-check-sb-1d-01.json",
       "markdown": "6/sb-1e/homework-check-sb-1d-01.md",
-      "answer_key": "6/sb-1e/homework-check-sb-1d-01-key.md"
+      "answer_key": "6/sb-1e/homework-check-sb-1d-01-key.md",
+      "pdf": "6/sb-1e/homework-check-sb-1d-01.pdf",
+      "answer_key_pdf": "6/sb-1e/homework-check-sb-1d-01-key.pdf"
     },
     {
       "id": "6-sb-1e-homework-01",
@@ -252,7 +306,9 @@
       "assessment_lesson": "6/sb-culture-1/index.html",
       "json": "6/sb-culture-1/homework-check-sb-1e-01.json",
       "markdown": "6/sb-culture-1/homework-check-sb-1e-01.md",
-      "answer_key": "6/sb-culture-1/homework-check-sb-1e-01-key.md"
+      "answer_key": "6/sb-culture-1/homework-check-sb-1e-01-key.md",
+      "pdf": "6/sb-culture-1/homework-check-sb-1e-01.pdf",
+      "answer_key_pdf": "6/sb-culture-1/homework-check-sb-1e-01-key.pdf"
     },
     {
       "id": "6-sb-2a-homework-01",
@@ -261,7 +317,9 @@
       "assessment_lesson": "6/sb-2b/index.html",
       "json": "6/sb-2b/homework-check-sb-2a-01.json",
       "markdown": "6/sb-2b/homework-check-sb-2a-01.md",
-      "answer_key": "6/sb-2b/homework-check-sb-2a-01-key.md"
+      "answer_key": "6/sb-2b/homework-check-sb-2a-01-key.md",
+      "pdf": "6/sb-2b/homework-check-sb-2a-01.pdf",
+      "answer_key_pdf": "6/sb-2b/homework-check-sb-2a-01-key.pdf"
     },
     {
       "id": "6-sb-2b-homework-01",
@@ -270,7 +328,9 @@
       "assessment_lesson": "6/sb-2c/index.html",
       "json": "6/sb-2c/homework-check-sb-2b-01.json",
       "markdown": "6/sb-2c/homework-check-sb-2b-01.md",
-      "answer_key": "6/sb-2c/homework-check-sb-2b-01-key.md"
+      "answer_key": "6/sb-2c/homework-check-sb-2b-01-key.md",
+      "pdf": "6/sb-2c/homework-check-sb-2b-01.pdf",
+      "answer_key_pdf": "6/sb-2c/homework-check-sb-2b-01-key.pdf"
     },
     {
       "id": "6-sb-2c-homework-01",
@@ -279,7 +339,9 @@
       "assessment_lesson": "6/sb-2d/index.html",
       "json": "6/sb-2d/homework-check-sb-2c-01.json",
       "markdown": "6/sb-2d/homework-check-sb-2c-01.md",
-      "answer_key": "6/sb-2d/homework-check-sb-2c-01-key.md"
+      "answer_key": "6/sb-2d/homework-check-sb-2c-01-key.md",
+      "pdf": "6/sb-2d/homework-check-sb-2c-01.pdf",
+      "answer_key_pdf": "6/sb-2d/homework-check-sb-2c-01-key.pdf"
     },
     {
       "id": "6-sb-2d-homework-01",
@@ -288,7 +350,9 @@
       "assessment_lesson": "6/sb-2e/index.html",
       "json": "6/sb-2e/homework-check-sb-2d-01.json",
       "markdown": "6/sb-2e/homework-check-sb-2d-01.md",
-      "answer_key": "6/sb-2e/homework-check-sb-2d-01-key.md"
+      "answer_key": "6/sb-2e/homework-check-sb-2d-01-key.md",
+      "pdf": "6/sb-2e/homework-check-sb-2d-01.pdf",
+      "answer_key_pdf": "6/sb-2e/homework-check-sb-2d-01-key.pdf"
     },
     {
       "id": "6-sb-2e-homework-01",
@@ -297,7 +361,9 @@
       "assessment_lesson": "6/sb-song-1/index.html",
       "json": "6/sb-song-1/homework-check-sb-2e-01.json",
       "markdown": "6/sb-song-1/homework-check-sb-2e-01.md",
-      "answer_key": "6/sb-song-1/homework-check-sb-2e-01-key.md"
+      "answer_key": "6/sb-song-1/homework-check-sb-2e-01-key.md",
+      "pdf": "6/sb-song-1/homework-check-sb-2e-01.pdf",
+      "answer_key_pdf": "6/sb-song-1/homework-check-sb-2e-01-key.pdf"
     },
     {
       "id": "6-sb-3a-homework-01",
@@ -306,7 +372,9 @@
       "assessment_lesson": "6/sb-3b/index.html",
       "json": "6/sb-3b/homework-check-sb-3a-01.json",
       "markdown": "6/sb-3b/homework-check-sb-3a-01.md",
-      "answer_key": "6/sb-3b/homework-check-sb-3a-01-key.md"
+      "answer_key": "6/sb-3b/homework-check-sb-3a-01-key.md",
+      "pdf": "6/sb-3b/homework-check-sb-3a-01.pdf",
+      "answer_key_pdf": "6/sb-3b/homework-check-sb-3a-01-key.pdf"
     },
     {
       "id": "6-sb-3b-homework-01",
@@ -315,7 +383,9 @@
       "assessment_lesson": "6/sb-3c/index.html",
       "json": "6/sb-3c/homework-check-sb-3b-01.json",
       "markdown": "6/sb-3c/homework-check-sb-3b-01.md",
-      "answer_key": "6/sb-3c/homework-check-sb-3b-01-key.md"
+      "answer_key": "6/sb-3c/homework-check-sb-3b-01-key.md",
+      "pdf": "6/sb-3c/homework-check-sb-3b-01.pdf",
+      "answer_key_pdf": "6/sb-3c/homework-check-sb-3b-01-key.pdf"
     },
     {
       "id": "6-sb-3c-homework-01",
@@ -324,7 +394,9 @@
       "assessment_lesson": "6/sb-3d/index.html",
       "json": "6/sb-3d/homework-check-sb-3c-01.json",
       "markdown": "6/sb-3d/homework-check-sb-3c-01.md",
-      "answer_key": "6/sb-3d/homework-check-sb-3c-01-key.md"
+      "answer_key": "6/sb-3d/homework-check-sb-3c-01-key.md",
+      "pdf": "6/sb-3d/homework-check-sb-3c-01.pdf",
+      "answer_key_pdf": "6/sb-3d/homework-check-sb-3c-01-key.pdf"
     },
     {
       "id": "6-sb-3d-homework-01",
@@ -333,7 +405,9 @@
       "assessment_lesson": "6/sb-3e/index.html",
       "json": "6/sb-3e/homework-check-sb-3d-01.json",
       "markdown": "6/sb-3e/homework-check-sb-3d-01.md",
-      "answer_key": "6/sb-3e/homework-check-sb-3d-01-key.md"
+      "answer_key": "6/sb-3e/homework-check-sb-3d-01-key.md",
+      "pdf": "6/sb-3e/homework-check-sb-3d-01.pdf",
+      "answer_key_pdf": "6/sb-3e/homework-check-sb-3d-01-key.pdf"
     },
     {
       "id": "6-sb-3e-homework-01",
@@ -342,7 +416,9 @@
       "assessment_lesson": "6/sb-culture-2/index.html",
       "json": "6/sb-culture-2/homework-check-sb-3e-01.json",
       "markdown": "6/sb-culture-2/homework-check-sb-3e-01.md",
-      "answer_key": "6/sb-culture-2/homework-check-sb-3e-01-key.md"
+      "answer_key": "6/sb-culture-2/homework-check-sb-3e-01-key.md",
+      "pdf": "6/sb-culture-2/homework-check-sb-3e-01.pdf",
+      "answer_key_pdf": "6/sb-culture-2/homework-check-sb-3e-01-key.pdf"
     },
     {
       "id": "6-sb-4a-homework-01",
@@ -351,7 +427,9 @@
       "assessment_lesson": "6/sb-4b/index.html",
       "json": "6/sb-4b/homework-check-sb-4a-01.json",
       "markdown": "6/sb-4b/homework-check-sb-4a-01.md",
-      "answer_key": "6/sb-4b/homework-check-sb-4a-01-key.md"
+      "answer_key": "6/sb-4b/homework-check-sb-4a-01-key.md",
+      "pdf": "6/sb-4b/homework-check-sb-4a-01.pdf",
+      "answer_key_pdf": "6/sb-4b/homework-check-sb-4a-01-key.pdf"
     },
     {
       "id": "6-sb-4b-homework-01",
@@ -360,7 +438,9 @@
       "assessment_lesson": "6/sb-4c/index.html",
       "json": "6/sb-4c/homework-check-sb-4b-01.json",
       "markdown": "6/sb-4c/homework-check-sb-4b-01.md",
-      "answer_key": "6/sb-4c/homework-check-sb-4b-01-key.md"
+      "answer_key": "6/sb-4c/homework-check-sb-4b-01-key.md",
+      "pdf": "6/sb-4c/homework-check-sb-4b-01.pdf",
+      "answer_key_pdf": "6/sb-4c/homework-check-sb-4b-01-key.pdf"
     },
     {
       "id": "6-sb-4c-homework-01",
@@ -369,7 +449,9 @@
       "assessment_lesson": "6/sb-4d/index.html",
       "json": "6/sb-4d/homework-check-sb-4c-01.json",
       "markdown": "6/sb-4d/homework-check-sb-4c-01.md",
-      "answer_key": "6/sb-4d/homework-check-sb-4c-01-key.md"
+      "answer_key": "6/sb-4d/homework-check-sb-4c-01-key.md",
+      "pdf": "6/sb-4d/homework-check-sb-4c-01.pdf",
+      "answer_key_pdf": "6/sb-4d/homework-check-sb-4c-01-key.pdf"
     },
     {
       "id": "6-sb-4d-homework-01",
@@ -378,7 +460,9 @@
       "assessment_lesson": "6/sb-4e/index.html",
       "json": "6/sb-4e/homework-check-sb-4d-01.json",
       "markdown": "6/sb-4e/homework-check-sb-4d-01.md",
-      "answer_key": "6/sb-4e/homework-check-sb-4d-01-key.md"
+      "answer_key": "6/sb-4e/homework-check-sb-4d-01-key.md",
+      "pdf": "6/sb-4e/homework-check-sb-4d-01.pdf",
+      "answer_key_pdf": "6/sb-4e/homework-check-sb-4d-01-key.pdf"
     },
     {
       "id": "6-sb-4e-homework-01",
@@ -387,7 +471,9 @@
       "assessment_lesson": "6/sb-song-2/index.html",
       "json": "6/sb-song-2/homework-check-sb-4e-01.json",
       "markdown": "6/sb-song-2/homework-check-sb-4e-01.md",
-      "answer_key": "6/sb-song-2/homework-check-sb-4e-01-key.md"
+      "answer_key": "6/sb-song-2/homework-check-sb-4e-01-key.md",
+      "pdf": "6/sb-song-2/homework-check-sb-4e-01.pdf",
+      "answer_key_pdf": "6/sb-song-2/homework-check-sb-4e-01-key.pdf"
     },
     {
       "id": "6-sb-5a-homework-01",
@@ -396,7 +482,9 @@
       "assessment_lesson": "6/sb-5b/index.html",
       "json": "6/sb-5b/homework-check-sb-5a-01.json",
       "markdown": "6/sb-5b/homework-check-sb-5a-01.md",
-      "answer_key": "6/sb-5b/homework-check-sb-5a-01-key.md"
+      "answer_key": "6/sb-5b/homework-check-sb-5a-01-key.md",
+      "pdf": "6/sb-5b/homework-check-sb-5a-01.pdf",
+      "answer_key_pdf": "6/sb-5b/homework-check-sb-5a-01-key.pdf"
     },
     {
       "id": "6-sb-5b-homework-01",
@@ -405,7 +493,9 @@
       "assessment_lesson": "6/sb-5c/index.html",
       "json": "6/sb-5c/homework-check-sb-5b-01.json",
       "markdown": "6/sb-5c/homework-check-sb-5b-01.md",
-      "answer_key": "6/sb-5c/homework-check-sb-5b-01-key.md"
+      "answer_key": "6/sb-5c/homework-check-sb-5b-01-key.md",
+      "pdf": "6/sb-5c/homework-check-sb-5b-01.pdf",
+      "answer_key_pdf": "6/sb-5c/homework-check-sb-5b-01-key.pdf"
     },
     {
       "id": "6-sb-5c-homework-01",
@@ -414,7 +504,9 @@
       "assessment_lesson": "6/sb-5d/index.html",
       "json": "6/sb-5d/homework-check-sb-5c-01.json",
       "markdown": "6/sb-5d/homework-check-sb-5c-01.md",
-      "answer_key": "6/sb-5d/homework-check-sb-5c-01-key.md"
+      "answer_key": "6/sb-5d/homework-check-sb-5c-01-key.md",
+      "pdf": "6/sb-5d/homework-check-sb-5c-01.pdf",
+      "answer_key_pdf": "6/sb-5d/homework-check-sb-5c-01-key.pdf"
     },
     {
       "id": "6-sb-5d-homework-01",
@@ -423,7 +515,9 @@
       "assessment_lesson": "6/sb-5e/index.html",
       "json": "6/sb-5e/homework-check-sb-5d-01.json",
       "markdown": "6/sb-5e/homework-check-sb-5d-01.md",
-      "answer_key": "6/sb-5e/homework-check-sb-5d-01-key.md"
+      "answer_key": "6/sb-5e/homework-check-sb-5d-01-key.md",
+      "pdf": "6/sb-5e/homework-check-sb-5d-01.pdf",
+      "answer_key_pdf": "6/sb-5e/homework-check-sb-5d-01-key.pdf"
     },
     {
       "id": "6-sb-5e-homework-01",
@@ -432,7 +526,9 @@
       "assessment_lesson": "6/sb-culture-3/index.html",
       "json": "6/sb-culture-3/homework-check-sb-5e-01.json",
       "markdown": "6/sb-culture-3/homework-check-sb-5e-01.md",
-      "answer_key": "6/sb-culture-3/homework-check-sb-5e-01-key.md"
+      "answer_key": "6/sb-culture-3/homework-check-sb-5e-01-key.md",
+      "pdf": "6/sb-culture-3/homework-check-sb-5e-01.pdf",
+      "answer_key_pdf": "6/sb-culture-3/homework-check-sb-5e-01-key.pdf"
     },
     {
       "id": "6-sb-6a-homework-01",
@@ -441,7 +537,9 @@
       "assessment_lesson": "6/sb-6b/index.html",
       "json": "6/sb-6b/homework-check-sb-6a-01.json",
       "markdown": "6/sb-6b/homework-check-sb-6a-01.md",
-      "answer_key": "6/sb-6b/homework-check-sb-6a-01-key.md"
+      "answer_key": "6/sb-6b/homework-check-sb-6a-01-key.md",
+      "pdf": "6/sb-6b/homework-check-sb-6a-01.pdf",
+      "answer_key_pdf": "6/sb-6b/homework-check-sb-6a-01-key.pdf"
     },
     {
       "id": "6-sb-6b-homework-01",
@@ -450,7 +548,9 @@
       "assessment_lesson": "6/sb-6c/index.html",
       "json": "6/sb-6c/homework-check-sb-6b-01.json",
       "markdown": "6/sb-6c/homework-check-sb-6b-01.md",
-      "answer_key": "6/sb-6c/homework-check-sb-6b-01-key.md"
+      "answer_key": "6/sb-6c/homework-check-sb-6b-01-key.md",
+      "pdf": "6/sb-6c/homework-check-sb-6b-01.pdf",
+      "answer_key_pdf": "6/sb-6c/homework-check-sb-6b-01-key.pdf"
     },
     {
       "id": "6-sb-6c-homework-01",
@@ -459,7 +559,9 @@
       "assessment_lesson": "6/sb-6d/index.html",
       "json": "6/sb-6d/homework-check-sb-6c-01.json",
       "markdown": "6/sb-6d/homework-check-sb-6c-01.md",
-      "answer_key": "6/sb-6d/homework-check-sb-6c-01-key.md"
+      "answer_key": "6/sb-6d/homework-check-sb-6c-01-key.md",
+      "pdf": "6/sb-6d/homework-check-sb-6c-01.pdf",
+      "answer_key_pdf": "6/sb-6d/homework-check-sb-6c-01-key.pdf"
     },
     {
       "id": "6-sb-6d-homework-01",
@@ -468,7 +570,9 @@
       "assessment_lesson": "6/sb-6e/index.html",
       "json": "6/sb-6e/homework-check-sb-6d-01.json",
       "markdown": "6/sb-6e/homework-check-sb-6d-01.md",
-      "answer_key": "6/sb-6e/homework-check-sb-6d-01-key.md"
+      "answer_key": "6/sb-6e/homework-check-sb-6d-01-key.md",
+      "pdf": "6/sb-6e/homework-check-sb-6d-01.pdf",
+      "answer_key_pdf": "6/sb-6e/homework-check-sb-6d-01-key.pdf"
     },
     {
       "id": "6-sb-6e-homework-01",
@@ -477,7 +581,9 @@
       "assessment_lesson": "6/sb-song-3/index.html",
       "json": "6/sb-song-3/homework-check-sb-6e-01.json",
       "markdown": "6/sb-song-3/homework-check-sb-6e-01.md",
-      "answer_key": "6/sb-song-3/homework-check-sb-6e-01-key.md"
+      "answer_key": "6/sb-song-3/homework-check-sb-6e-01-key.md",
+      "pdf": "6/sb-song-3/homework-check-sb-6e-01.pdf",
+      "answer_key_pdf": "6/sb-song-3/homework-check-sb-6e-01-key.pdf"
     },
     {
       "id": "6-sb-7a-homework-01",
@@ -486,7 +592,9 @@
       "assessment_lesson": "6/sb-7b/index.html",
       "json": "6/sb-7b/homework-check-sb-7a-01.json",
       "markdown": "6/sb-7b/homework-check-sb-7a-01.md",
-      "answer_key": "6/sb-7b/homework-check-sb-7a-01-key.md"
+      "answer_key": "6/sb-7b/homework-check-sb-7a-01-key.md",
+      "pdf": "6/sb-7b/homework-check-sb-7a-01.pdf",
+      "answer_key_pdf": "6/sb-7b/homework-check-sb-7a-01-key.pdf"
     },
     {
       "id": "6-sb-7b-homework-01",
@@ -495,7 +603,9 @@
       "assessment_lesson": "6/sb-7c/index.html",
       "json": "6/sb-7c/homework-check-sb-7b-01.json",
       "markdown": "6/sb-7c/homework-check-sb-7b-01.md",
-      "answer_key": "6/sb-7c/homework-check-sb-7b-01-key.md"
+      "answer_key": "6/sb-7c/homework-check-sb-7b-01-key.md",
+      "pdf": "6/sb-7c/homework-check-sb-7b-01.pdf",
+      "answer_key_pdf": "6/sb-7c/homework-check-sb-7b-01-key.pdf"
     },
     {
       "id": "6-sb-7c-homework-01",
@@ -504,7 +614,9 @@
       "assessment_lesson": "6/sb-7d/index.html",
       "json": "6/sb-7d/homework-check-sb-7c-01.json",
       "markdown": "6/sb-7d/homework-check-sb-7c-01.md",
-      "answer_key": "6/sb-7d/homework-check-sb-7c-01-key.md"
+      "answer_key": "6/sb-7d/homework-check-sb-7c-01-key.md",
+      "pdf": "6/sb-7d/homework-check-sb-7c-01.pdf",
+      "answer_key_pdf": "6/sb-7d/homework-check-sb-7c-01-key.pdf"
     },
     {
       "id": "6-sb-7d-homework-01",
@@ -513,7 +625,9 @@
       "assessment_lesson": "6/sb-7e/index.html",
       "json": "6/sb-7e/homework-check-sb-7d-01.json",
       "markdown": "6/sb-7e/homework-check-sb-7d-01.md",
-      "answer_key": "6/sb-7e/homework-check-sb-7d-01-key.md"
+      "answer_key": "6/sb-7e/homework-check-sb-7d-01-key.md",
+      "pdf": "6/sb-7e/homework-check-sb-7d-01.pdf",
+      "answer_key_pdf": "6/sb-7e/homework-check-sb-7d-01-key.pdf"
     },
     {
       "id": "6-sb-7e-homework-01",
@@ -522,7 +636,9 @@
       "assessment_lesson": "6/sb-culture-4/index.html",
       "json": "6/sb-culture-4/homework-check-sb-7e-01.json",
       "markdown": "6/sb-culture-4/homework-check-sb-7e-01.md",
-      "answer_key": "6/sb-culture-4/homework-check-sb-7e-01-key.md"
+      "answer_key": "6/sb-culture-4/homework-check-sb-7e-01-key.md",
+      "pdf": "6/sb-culture-4/homework-check-sb-7e-01.pdf",
+      "answer_key_pdf": "6/sb-culture-4/homework-check-sb-7e-01-key.pdf"
     },
     {
       "id": "6-sb-8a-homework-01",
@@ -531,7 +647,9 @@
       "assessment_lesson": "6/sb-8b/index.html",
       "json": "6/sb-8b/homework-check-sb-8a-01.json",
       "markdown": "6/sb-8b/homework-check-sb-8a-01.md",
-      "answer_key": "6/sb-8b/homework-check-sb-8a-01-key.md"
+      "answer_key": "6/sb-8b/homework-check-sb-8a-01-key.md",
+      "pdf": "6/sb-8b/homework-check-sb-8a-01.pdf",
+      "answer_key_pdf": "6/sb-8b/homework-check-sb-8a-01-key.pdf"
     },
     {
       "id": "6-sb-8b-homework-01",
@@ -540,7 +658,9 @@
       "assessment_lesson": "6/sb-8c/index.html",
       "json": "6/sb-8c/homework-check-sb-8b-01.json",
       "markdown": "6/sb-8c/homework-check-sb-8b-01.md",
-      "answer_key": "6/sb-8c/homework-check-sb-8b-01-key.md"
+      "answer_key": "6/sb-8c/homework-check-sb-8b-01-key.md",
+      "pdf": "6/sb-8c/homework-check-sb-8b-01.pdf",
+      "answer_key_pdf": "6/sb-8c/homework-check-sb-8b-01-key.pdf"
     },
     {
       "id": "6-sb-8c-homework-01",
@@ -549,7 +669,9 @@
       "assessment_lesson": "6/sb-8d/index.html",
       "json": "6/sb-8d/homework-check-sb-8c-01.json",
       "markdown": "6/sb-8d/homework-check-sb-8c-01.md",
-      "answer_key": "6/sb-8d/homework-check-sb-8c-01-key.md"
+      "answer_key": "6/sb-8d/homework-check-sb-8c-01-key.md",
+      "pdf": "6/sb-8d/homework-check-sb-8c-01.pdf",
+      "answer_key_pdf": "6/sb-8d/homework-check-sb-8c-01-key.pdf"
     },
     {
       "id": "6-sb-8d-homework-01",
@@ -558,7 +680,9 @@
       "assessment_lesson": "6/sb-8e/index.html",
       "json": "6/sb-8e/homework-check-sb-8d-01.json",
       "markdown": "6/sb-8e/homework-check-sb-8d-01.md",
-      "answer_key": "6/sb-8e/homework-check-sb-8d-01-key.md"
+      "answer_key": "6/sb-8e/homework-check-sb-8d-01-key.md",
+      "pdf": "6/sb-8e/homework-check-sb-8d-01.pdf",
+      "answer_key_pdf": "6/sb-8e/homework-check-sb-8d-01-key.pdf"
     },
     {
       "id": "6-sb-8e-homework-01",
@@ -567,7 +691,9 @@
       "assessment_lesson": "6/sb-song-4/index.html",
       "json": "6/sb-song-4/homework-check-sb-8e-01.json",
       "markdown": "6/sb-song-4/homework-check-sb-8e-01.md",
-      "answer_key": "6/sb-song-4/homework-check-sb-8e-01-key.md"
+      "answer_key": "6/sb-song-4/homework-check-sb-8e-01-key.md",
+      "pdf": "6/sb-song-4/homework-check-sb-8e-01.pdf",
+      "answer_key_pdf": "6/sb-song-4/homework-check-sb-8e-01-key.pdf"
     },
     {
       "id": "6-sb-clil-geography-homework-01",
@@ -576,7 +702,9 @@
       "assessment_lesson": "6/sb-clil-sport/index.html",
       "json": "6/sb-clil-sport/homework-check-sb-clil-geography-01.json",
       "markdown": "6/sb-clil-sport/homework-check-sb-clil-geography-01.md",
-      "answer_key": "6/sb-clil-sport/homework-check-sb-clil-geography-01-key.md"
+      "answer_key": "6/sb-clil-sport/homework-check-sb-clil-geography-01-key.md",
+      "pdf": "6/sb-clil-sport/homework-check-sb-clil-geography-01.pdf",
+      "answer_key_pdf": "6/sb-clil-sport/homework-check-sb-clil-geography-01-key.pdf"
     },
     {
       "id": "6-sb-clil-history-homework-01",
@@ -585,7 +713,9 @@
       "assessment_lesson": "6/sb-clil-geography/index.html",
       "json": "6/sb-clil-geography/homework-check-sb-clil-history-01.json",
       "markdown": "6/sb-clil-geography/homework-check-sb-clil-history-01.md",
-      "answer_key": "6/sb-clil-geography/homework-check-sb-clil-history-01-key.md"
+      "answer_key": "6/sb-clil-geography/homework-check-sb-clil-history-01-key.md",
+      "pdf": "6/sb-clil-geography/homework-check-sb-clil-history-01.pdf",
+      "answer_key_pdf": "6/sb-clil-geography/homework-check-sb-clil-history-01-key.pdf"
     },
     {
       "id": "6-sb-clil-music-homework-01",
@@ -594,7 +724,9 @@
       "assessment_lesson": "6/sb-pair-work/index.html",
       "json": "6/sb-pair-work/homework-check-sb-clil-music-01.json",
       "markdown": "6/sb-pair-work/homework-check-sb-clil-music-01.md",
-      "answer_key": "6/sb-pair-work/homework-check-sb-clil-music-01-key.md"
+      "answer_key": "6/sb-pair-work/homework-check-sb-clil-music-01-key.md",
+      "pdf": "6/sb-pair-work/homework-check-sb-clil-music-01.pdf",
+      "answer_key_pdf": "6/sb-pair-work/homework-check-sb-clil-music-01-key.pdf"
     },
     {
       "id": "6-sb-clil-sport-homework-01",
@@ -603,7 +735,9 @@
       "assessment_lesson": "6/sb-clil-music/index.html",
       "json": "6/sb-clil-music/homework-check-sb-clil-sport-01.json",
       "markdown": "6/sb-clil-music/homework-check-sb-clil-sport-01.md",
-      "answer_key": "6/sb-clil-music/homework-check-sb-clil-sport-01-key.md"
+      "answer_key": "6/sb-clil-music/homework-check-sb-clil-sport-01-key.md",
+      "pdf": "6/sb-clil-music/homework-check-sb-clil-sport-01.pdf",
+      "answer_key_pdf": "6/sb-clil-music/homework-check-sb-clil-sport-01-key.pdf"
     },
     {
       "id": "6-sb-culture-1-homework-01",
@@ -612,7 +746,9 @@
       "assessment_lesson": "6/sb-round-up-1/index.html",
       "json": "6/sb-round-up-1/homework-check-sb-culture-1-01.json",
       "markdown": "6/sb-round-up-1/homework-check-sb-culture-1-01.md",
-      "answer_key": "6/sb-round-up-1/homework-check-sb-culture-1-01-key.md"
+      "answer_key": "6/sb-round-up-1/homework-check-sb-culture-1-01-key.md",
+      "pdf": "6/sb-round-up-1/homework-check-sb-culture-1-01.pdf",
+      "answer_key_pdf": "6/sb-round-up-1/homework-check-sb-culture-1-01-key.pdf"
     },
     {
       "id": "6-sb-culture-2-homework-01",
@@ -621,7 +757,9 @@
       "assessment_lesson": "6/sb-round-up-3/index.html",
       "json": "6/sb-round-up-3/homework-check-sb-culture-2-01.json",
       "markdown": "6/sb-round-up-3/homework-check-sb-culture-2-01.md",
-      "answer_key": "6/sb-round-up-3/homework-check-sb-culture-2-01-key.md"
+      "answer_key": "6/sb-round-up-3/homework-check-sb-culture-2-01-key.md",
+      "pdf": "6/sb-round-up-3/homework-check-sb-culture-2-01.pdf",
+      "answer_key_pdf": "6/sb-round-up-3/homework-check-sb-culture-2-01-key.pdf"
     },
     {
       "id": "6-sb-culture-3-homework-01",
@@ -630,7 +768,9 @@
       "assessment_lesson": "6/sb-round-up-5/index.html",
       "json": "6/sb-round-up-5/homework-check-sb-culture-3-01.json",
       "markdown": "6/sb-round-up-5/homework-check-sb-culture-3-01.md",
-      "answer_key": "6/sb-round-up-5/homework-check-sb-culture-3-01-key.md"
+      "answer_key": "6/sb-round-up-5/homework-check-sb-culture-3-01-key.md",
+      "pdf": "6/sb-round-up-5/homework-check-sb-culture-3-01.pdf",
+      "answer_key_pdf": "6/sb-round-up-5/homework-check-sb-culture-3-01-key.pdf"
     },
     {
       "id": "6-sb-culture-4-homework-01",
@@ -639,7 +779,9 @@
       "assessment_lesson": "6/sb-round-up-7/index.html",
       "json": "6/sb-round-up-7/homework-check-sb-culture-4-01.json",
       "markdown": "6/sb-round-up-7/homework-check-sb-culture-4-01.md",
-      "answer_key": "6/sb-round-up-7/homework-check-sb-culture-4-01-key.md"
+      "answer_key": "6/sb-round-up-7/homework-check-sb-culture-4-01-key.md",
+      "pdf": "6/sb-round-up-7/homework-check-sb-culture-4-01.pdf",
+      "answer_key_pdf": "6/sb-round-up-7/homework-check-sb-culture-4-01-key.pdf"
     },
     {
       "id": "6-sb-culture-ukraine-1-homework-01",
@@ -648,7 +790,9 @@
       "assessment_lesson": "6/sb-culture-ukraine-2/index.html",
       "json": "6/sb-culture-ukraine-2/homework-check-sb-culture-ukraine-1-01.json",
       "markdown": "6/sb-culture-ukraine-2/homework-check-sb-culture-ukraine-1-01.md",
-      "answer_key": "6/sb-culture-ukraine-2/homework-check-sb-culture-ukraine-1-01-key.md"
+      "answer_key": "6/sb-culture-ukraine-2/homework-check-sb-culture-ukraine-1-01-key.md",
+      "pdf": "6/sb-culture-ukraine-2/homework-check-sb-culture-ukraine-1-01.pdf",
+      "answer_key_pdf": "6/sb-culture-ukraine-2/homework-check-sb-culture-ukraine-1-01-key.pdf"
     },
     {
       "id": "6-sb-culture-ukraine-2-homework-01",
@@ -657,7 +801,9 @@
       "assessment_lesson": "6/sb-clil-history/index.html",
       "json": "6/sb-clil-history/homework-check-sb-culture-ukraine-2-01.json",
       "markdown": "6/sb-clil-history/homework-check-sb-culture-ukraine-2-01.md",
-      "answer_key": "6/sb-clil-history/homework-check-sb-culture-ukraine-2-01-key.md"
+      "answer_key": "6/sb-clil-history/homework-check-sb-culture-ukraine-2-01-key.md",
+      "pdf": "6/sb-clil-history/homework-check-sb-culture-ukraine-2-01.pdf",
+      "answer_key_pdf": "6/sb-clil-history/homework-check-sb-culture-ukraine-2-01-key.pdf"
     },
     {
       "id": "6-sb-hello-homework-01",
@@ -666,7 +812,9 @@
       "assessment_lesson": "6/sb-1a/index.html",
       "json": "6/sb-1a/homework-check-sb-hello-01.json",
       "markdown": "6/sb-1a/homework-check-sb-hello-01.md",
-      "answer_key": "6/sb-1a/homework-check-sb-hello-01-key.md"
+      "answer_key": "6/sb-1a/homework-check-sb-hello-01-key.md",
+      "pdf": "6/sb-1a/homework-check-sb-hello-01.pdf",
+      "answer_key_pdf": "6/sb-1a/homework-check-sb-hello-01-key.pdf"
     },
     {
       "id": "6-sb-learning-tips-homework-01",
@@ -675,7 +823,9 @@
       "assessment_lesson": "6/sb-learning-tips/index.html",
       "json": "6/sb-learning-tips/homework-check-sb-learning-tips-01.json",
       "markdown": "6/sb-learning-tips/homework-check-sb-learning-tips-01.md",
-      "answer_key": "6/sb-learning-tips/homework-check-sb-learning-tips-01-key.md"
+      "answer_key": "6/sb-learning-tips/homework-check-sb-learning-tips-01-key.md",
+      "pdf": "6/sb-learning-tips/homework-check-sb-learning-tips-01.pdf",
+      "answer_key_pdf": "6/sb-learning-tips/homework-check-sb-learning-tips-01-key.pdf"
     },
     {
       "id": "6-sb-pair-work-homework-01",
@@ -684,7 +834,9 @@
       "assessment_lesson": "6/sb-learning-tips/index.html",
       "json": "6/sb-learning-tips/homework-check-sb-pair-work-01.json",
       "markdown": "6/sb-learning-tips/homework-check-sb-pair-work-01.md",
-      "answer_key": "6/sb-learning-tips/homework-check-sb-pair-work-01-key.md"
+      "answer_key": "6/sb-learning-tips/homework-check-sb-pair-work-01-key.md",
+      "pdf": "6/sb-learning-tips/homework-check-sb-pair-work-01.pdf",
+      "answer_key_pdf": "6/sb-learning-tips/homework-check-sb-pair-work-01-key.pdf"
     },
     {
       "id": "6-sb-round-up-1-homework-01",
@@ -693,7 +845,9 @@
       "assessment_lesson": "6/sb-2a/index.html",
       "json": "6/sb-2a/homework-check-sb-round-up-1-01.json",
       "markdown": "6/sb-2a/homework-check-sb-round-up-1-01.md",
-      "answer_key": "6/sb-2a/homework-check-sb-round-up-1-01-key.md"
+      "answer_key": "6/sb-2a/homework-check-sb-round-up-1-01-key.md",
+      "pdf": "6/sb-2a/homework-check-sb-round-up-1-01.pdf",
+      "answer_key_pdf": "6/sb-2a/homework-check-sb-round-up-1-01-key.pdf"
     },
     {
       "id": "6-sb-round-up-2-homework-01",
@@ -702,7 +856,9 @@
       "assessment_lesson": "6/sb-3a/index.html",
       "json": "6/sb-3a/homework-check-sb-round-up-2-01.json",
       "markdown": "6/sb-3a/homework-check-sb-round-up-2-01.md",
-      "answer_key": "6/sb-3a/homework-check-sb-round-up-2-01-key.md"
+      "answer_key": "6/sb-3a/homework-check-sb-round-up-2-01-key.md",
+      "pdf": "6/sb-3a/homework-check-sb-round-up-2-01.pdf",
+      "answer_key_pdf": "6/sb-3a/homework-check-sb-round-up-2-01-key.pdf"
     },
     {
       "id": "6-sb-round-up-3-homework-01",
@@ -711,7 +867,9 @@
       "assessment_lesson": "6/sb-4a/index.html",
       "json": "6/sb-4a/homework-check-sb-round-up-3-01.json",
       "markdown": "6/sb-4a/homework-check-sb-round-up-3-01.md",
-      "answer_key": "6/sb-4a/homework-check-sb-round-up-3-01-key.md"
+      "answer_key": "6/sb-4a/homework-check-sb-round-up-3-01-key.md",
+      "pdf": "6/sb-4a/homework-check-sb-round-up-3-01.pdf",
+      "answer_key_pdf": "6/sb-4a/homework-check-sb-round-up-3-01-key.pdf"
     },
     {
       "id": "6-sb-round-up-4-homework-01",
@@ -720,7 +878,9 @@
       "assessment_lesson": "6/sb-5a/index.html",
       "json": "6/sb-5a/homework-check-sb-round-up-4-01.json",
       "markdown": "6/sb-5a/homework-check-sb-round-up-4-01.md",
-      "answer_key": "6/sb-5a/homework-check-sb-round-up-4-01-key.md"
+      "answer_key": "6/sb-5a/homework-check-sb-round-up-4-01-key.md",
+      "pdf": "6/sb-5a/homework-check-sb-round-up-4-01.pdf",
+      "answer_key_pdf": "6/sb-5a/homework-check-sb-round-up-4-01-key.pdf"
     },
     {
       "id": "6-sb-round-up-5-homework-01",
@@ -729,7 +889,9 @@
       "assessment_lesson": "6/sb-6a/index.html",
       "json": "6/sb-6a/homework-check-sb-round-up-5-01.json",
       "markdown": "6/sb-6a/homework-check-sb-round-up-5-01.md",
-      "answer_key": "6/sb-6a/homework-check-sb-round-up-5-01-key.md"
+      "answer_key": "6/sb-6a/homework-check-sb-round-up-5-01-key.md",
+      "pdf": "6/sb-6a/homework-check-sb-round-up-5-01.pdf",
+      "answer_key_pdf": "6/sb-6a/homework-check-sb-round-up-5-01-key.pdf"
     },
     {
       "id": "6-sb-round-up-6-homework-01",
@@ -738,7 +900,9 @@
       "assessment_lesson": "6/sb-7a/index.html",
       "json": "6/sb-7a/homework-check-sb-round-up-6-01.json",
       "markdown": "6/sb-7a/homework-check-sb-round-up-6-01.md",
-      "answer_key": "6/sb-7a/homework-check-sb-round-up-6-01-key.md"
+      "answer_key": "6/sb-7a/homework-check-sb-round-up-6-01-key.md",
+      "pdf": "6/sb-7a/homework-check-sb-round-up-6-01.pdf",
+      "answer_key_pdf": "6/sb-7a/homework-check-sb-round-up-6-01-key.pdf"
     },
     {
       "id": "6-sb-round-up-7-homework-01",
@@ -747,7 +911,9 @@
       "assessment_lesson": "6/sb-8a/index.html",
       "json": "6/sb-8a/homework-check-sb-round-up-7-01.json",
       "markdown": "6/sb-8a/homework-check-sb-round-up-7-01.md",
-      "answer_key": "6/sb-8a/homework-check-sb-round-up-7-01-key.md"
+      "answer_key": "6/sb-8a/homework-check-sb-round-up-7-01-key.md",
+      "pdf": "6/sb-8a/homework-check-sb-round-up-7-01.pdf",
+      "answer_key_pdf": "6/sb-8a/homework-check-sb-round-up-7-01-key.pdf"
     },
     {
       "id": "6-sb-round-up-8-homework-01",
@@ -756,7 +922,9 @@
       "assessment_lesson": "6/sb-culture-ukraine-1/index.html",
       "json": "6/sb-culture-ukraine-1/homework-check-sb-round-up-8-01.json",
       "markdown": "6/sb-culture-ukraine-1/homework-check-sb-round-up-8-01.md",
-      "answer_key": "6/sb-culture-ukraine-1/homework-check-sb-round-up-8-01-key.md"
+      "answer_key": "6/sb-culture-ukraine-1/homework-check-sb-round-up-8-01-key.md",
+      "pdf": "6/sb-culture-ukraine-1/homework-check-sb-round-up-8-01.pdf",
+      "answer_key_pdf": "6/sb-culture-ukraine-1/homework-check-sb-round-up-8-01-key.pdf"
     },
     {
       "id": "6-sb-song-1-homework-01",
@@ -765,7 +933,9 @@
       "assessment_lesson": "6/sb-round-up-2/index.html",
       "json": "6/sb-round-up-2/homework-check-sb-song-1-01.json",
       "markdown": "6/sb-round-up-2/homework-check-sb-song-1-01.md",
-      "answer_key": "6/sb-round-up-2/homework-check-sb-song-1-01-key.md"
+      "answer_key": "6/sb-round-up-2/homework-check-sb-song-1-01-key.md",
+      "pdf": "6/sb-round-up-2/homework-check-sb-song-1-01.pdf",
+      "answer_key_pdf": "6/sb-round-up-2/homework-check-sb-song-1-01-key.pdf"
     },
     {
       "id": "6-sb-song-2-homework-01",
@@ -774,7 +944,9 @@
       "assessment_lesson": "6/sb-round-up-4/index.html",
       "json": "6/sb-round-up-4/homework-check-sb-song-2-01.json",
       "markdown": "6/sb-round-up-4/homework-check-sb-song-2-01.md",
-      "answer_key": "6/sb-round-up-4/homework-check-sb-song-2-01-key.md"
+      "answer_key": "6/sb-round-up-4/homework-check-sb-song-2-01-key.md",
+      "pdf": "6/sb-round-up-4/homework-check-sb-song-2-01.pdf",
+      "answer_key_pdf": "6/sb-round-up-4/homework-check-sb-song-2-01-key.pdf"
     },
     {
       "id": "6-sb-song-3-homework-01",
@@ -783,7 +955,9 @@
       "assessment_lesson": "6/sb-round-up-6/index.html",
       "json": "6/sb-round-up-6/homework-check-sb-song-3-01.json",
       "markdown": "6/sb-round-up-6/homework-check-sb-song-3-01.md",
-      "answer_key": "6/sb-round-up-6/homework-check-sb-song-3-01-key.md"
+      "answer_key": "6/sb-round-up-6/homework-check-sb-song-3-01-key.md",
+      "pdf": "6/sb-round-up-6/homework-check-sb-song-3-01.pdf",
+      "answer_key_pdf": "6/sb-round-up-6/homework-check-sb-song-3-01-key.pdf"
     },
     {
       "id": "6-sb-song-4-homework-01",
@@ -792,7 +966,9 @@
       "assessment_lesson": "6/sb-round-up-8/index.html",
       "json": "6/sb-round-up-8/homework-check-sb-song-4-01.json",
       "markdown": "6/sb-round-up-8/homework-check-sb-song-4-01.md",
-      "answer_key": "6/sb-round-up-8/homework-check-sb-song-4-01-key.md"
+      "answer_key": "6/sb-round-up-8/homework-check-sb-song-4-01-key.md",
+      "pdf": "6/sb-round-up-8/homework-check-sb-song-4-01.pdf",
+      "answer_key_pdf": "6/sb-round-up-8/homework-check-sb-song-4-01-key.pdf"
     },
     {
       "id": "7-sb-u5-lead-in-homework-01",
@@ -801,7 +977,9 @@
       "assessment_lesson": "7/sb-u5-blog/index.html",
       "json": "7/sb-u5-blog/homework-check-sb-u5-lead-in-01.json",
       "markdown": "7/sb-u5-blog/homework-check-sb-u5-lead-in-01.md",
-      "answer_key": "7/sb-u5-blog/homework-check-sb-u5-lead-in-01-key.md"
+      "answer_key": "7/sb-u5-blog/homework-check-sb-u5-lead-in-01-key.md",
+      "pdf": "7/sb-u5-blog/homework-check-sb-u5-lead-in-01.pdf",
+      "answer_key_pdf": "7/sb-u5-blog/homework-check-sb-u5-lead-in-01-key.pdf"
     },
     {
       "id": "7-sb-u5-vocabulary-homework-01",
@@ -810,7 +988,9 @@
       "assessment_lesson": "7/sb-u5-reading/index.html",
       "json": "7/sb-u5-reading/homework-check-sb-u5-vocabulary-01.json",
       "markdown": "7/sb-u5-reading/homework-check-sb-u5-vocabulary-01.md",
-      "answer_key": "7/sb-u5-reading/homework-check-sb-u5-vocabulary-01-key.md"
+      "answer_key": "7/sb-u5-reading/homework-check-sb-u5-vocabulary-01-key.md",
+      "pdf": "7/sb-u5-reading/homework-check-sb-u5-vocabulary-01.pdf",
+      "answer_key_pdf": "7/sb-u5-reading/homework-check-sb-u5-vocabulary-01-key.pdf"
     },
     {
       "id": "7-sb-u5-reading-homework-01",
@@ -819,7 +999,9 @@
       "assessment_lesson": "7/sb-u5-grammar/index.html",
       "json": "7/sb-u5-grammar/homework-check-sb-u5-reading-01.json",
       "markdown": "7/sb-u5-grammar/homework-check-sb-u5-reading-01.md",
-      "answer_key": "7/sb-u5-grammar/homework-check-sb-u5-reading-01-key.md"
+      "answer_key": "7/sb-u5-grammar/homework-check-sb-u5-reading-01-key.md",
+      "pdf": "7/sb-u5-grammar/homework-check-sb-u5-reading-01.pdf",
+      "answer_key_pdf": "7/sb-u5-grammar/homework-check-sb-u5-reading-01-key.pdf"
     },
     {
       "id": "7-sb-u5-grammar-homework-01",
@@ -828,7 +1010,9 @@
       "assessment_lesson": "7/sb-u5-listening/index.html",
       "json": "7/sb-u5-listening/homework-check-sb-u5-grammar-01.json",
       "markdown": "7/sb-u5-listening/homework-check-sb-u5-grammar-01.md",
-      "answer_key": "7/sb-u5-listening/homework-check-sb-u5-grammar-01-key.md"
+      "answer_key": "7/sb-u5-listening/homework-check-sb-u5-grammar-01-key.md",
+      "pdf": "7/sb-u5-listening/homework-check-sb-u5-grammar-01.pdf",
+      "answer_key_pdf": "7/sb-u5-listening/homework-check-sb-u5-grammar-01-key.pdf"
     },
     {
       "id": "7-sb-u5-listening-homework-01",
@@ -837,7 +1021,9 @@
       "assessment_lesson": "7/sb-u5-vocabulary-2/index.html",
       "json": "7/sb-u5-vocabulary-2/homework-check-sb-u5-listening-01.json",
       "markdown": "7/sb-u5-vocabulary-2/homework-check-sb-u5-listening-01.md",
-      "answer_key": "7/sb-u5-vocabulary-2/homework-check-sb-u5-listening-01-key.md"
+      "answer_key": "7/sb-u5-vocabulary-2/homework-check-sb-u5-listening-01-key.md",
+      "pdf": "7/sb-u5-vocabulary-2/homework-check-sb-u5-listening-01.pdf",
+      "answer_key_pdf": "7/sb-u5-vocabulary-2/homework-check-sb-u5-listening-01-key.pdf"
     },
     {
       "id": "7-sb-u5-vocabulary-2-homework-01",
@@ -846,7 +1032,9 @@
       "assessment_lesson": "7/sb-u5-grammar-2/index.html",
       "json": "7/sb-u5-grammar-2/homework-check-sb-u5-vocabulary-2-01.json",
       "markdown": "7/sb-u5-grammar-2/homework-check-sb-u5-vocabulary-2-01.md",
-      "answer_key": "7/sb-u5-grammar-2/homework-check-sb-u5-vocabulary-2-01-key.md"
+      "answer_key": "7/sb-u5-grammar-2/homework-check-sb-u5-vocabulary-2-01-key.md",
+      "pdf": "7/sb-u5-grammar-2/homework-check-sb-u5-vocabulary-2-01.pdf",
+      "answer_key_pdf": "7/sb-u5-grammar-2/homework-check-sb-u5-vocabulary-2-01-key.pdf"
     },
     {
       "id": "7-sb-u5-grammar-2-homework-01",
@@ -855,7 +1043,9 @@
       "assessment_lesson": "7/sb-u5-speaking/index.html",
       "json": "7/sb-u5-speaking/homework-check-sb-u5-grammar-2-01.json",
       "markdown": "7/sb-u5-speaking/homework-check-sb-u5-grammar-2-01.md",
-      "answer_key": "7/sb-u5-speaking/homework-check-sb-u5-grammar-2-01-key.md"
+      "answer_key": "7/sb-u5-speaking/homework-check-sb-u5-grammar-2-01-key.md",
+      "pdf": "7/sb-u5-speaking/homework-check-sb-u5-grammar-2-01.pdf",
+      "answer_key_pdf": "7/sb-u5-speaking/homework-check-sb-u5-grammar-2-01-key.pdf"
     },
     {
       "id": "7-sb-u5-speaking-homework-01",
@@ -864,7 +1054,9 @@
       "assessment_lesson": "7/sb-u5-writing/index.html",
       "json": "7/sb-u5-writing/homework-check-sb-u5-speaking-01.json",
       "markdown": "7/sb-u5-writing/homework-check-sb-u5-speaking-01.md",
-      "answer_key": "7/sb-u5-writing/homework-check-sb-u5-speaking-01-key.md"
+      "answer_key": "7/sb-u5-writing/homework-check-sb-u5-speaking-01-key.md",
+      "pdf": "7/sb-u5-writing/homework-check-sb-u5-speaking-01.pdf",
+      "answer_key_pdf": "7/sb-u5-writing/homework-check-sb-u5-speaking-01-key.pdf"
     },
     {
       "id": "7-sb-u5-writing-homework-01",
@@ -873,7 +1065,9 @@
       "assessment_lesson": "7/sb-u5-look-back/index.html",
       "json": "7/sb-u5-look-back/homework-check-sb-u5-writing-01.json",
       "markdown": "7/sb-u5-look-back/homework-check-sb-u5-writing-01.md",
-      "answer_key": "7/sb-u5-look-back/homework-check-sb-u5-writing-01-key.md"
+      "answer_key": "7/sb-u5-look-back/homework-check-sb-u5-writing-01-key.md",
+      "pdf": "7/sb-u5-look-back/homework-check-sb-u5-writing-01.pdf",
+      "answer_key_pdf": "7/sb-u5-look-back/homework-check-sb-u5-writing-01-key.pdf"
     },
     {
       "id": "7-sb-u5-blog-homework-01",
@@ -882,7 +1076,9 @@
       "assessment_lesson": "7/sb-u5-vocabulary/index.html",
       "json": "7/sb-u5-vocabulary/homework-check-sb-u5-blog-01.json",
       "markdown": "7/sb-u5-vocabulary/homework-check-sb-u5-blog-01.md",
-      "answer_key": "7/sb-u5-vocabulary/homework-check-sb-u5-blog-01-key.md"
+      "answer_key": "7/sb-u5-vocabulary/homework-check-sb-u5-blog-01-key.md",
+      "pdf": "7/sb-u5-vocabulary/homework-check-sb-u5-blog-01.pdf",
+      "answer_key_pdf": "7/sb-u5-vocabulary/homework-check-sb-u5-blog-01-key.pdf"
     },
     {
       "id": "7-sb-u5-look-back-homework-01",
@@ -891,7 +1087,9 @@
       "assessment_lesson": "7/sb-u5-self-check/index.html",
       "json": "7/sb-u5-self-check/homework-check-sb-u5-look-back-01.json",
       "markdown": "7/sb-u5-self-check/homework-check-sb-u5-look-back-01.md",
-      "answer_key": "7/sb-u5-self-check/homework-check-sb-u5-look-back-01-key.md"
+      "answer_key": "7/sb-u5-self-check/homework-check-sb-u5-look-back-01-key.md",
+      "pdf": "7/sb-u5-self-check/homework-check-sb-u5-look-back-01.pdf",
+      "answer_key_pdf": "7/sb-u5-self-check/homework-check-sb-u5-look-back-01-key.pdf"
     },
     {
       "id": "7-sb-u5-self-check-homework-01",
@@ -900,7 +1098,9 @@
       "assessment_lesson": "7/sb-u6-lead-in/index.html",
       "json": "7/sb-u6-lead-in/homework-check-sb-u5-self-check-01.json",
       "markdown": "7/sb-u6-lead-in/homework-check-sb-u5-self-check-01.md",
-      "answer_key": "7/sb-u6-lead-in/homework-check-sb-u5-self-check-01-key.md"
+      "answer_key": "7/sb-u6-lead-in/homework-check-sb-u5-self-check-01-key.md",
+      "pdf": "7/sb-u6-lead-in/homework-check-sb-u5-self-check-01.pdf",
+      "answer_key_pdf": "7/sb-u6-lead-in/homework-check-sb-u5-self-check-01-key.pdf"
     },
     {
       "id": "7-sb-u6-blog-homework-01",
@@ -909,7 +1109,9 @@
       "assessment_lesson": "7/sb-u6-vocabulary/index.html",
       "json": "7/sb-u6-vocabulary/homework-check-sb-u6-blog-01.json",
       "markdown": "7/sb-u6-vocabulary/homework-check-sb-u6-blog-01.md",
-      "answer_key": "7/sb-u6-vocabulary/homework-check-sb-u6-blog-01-key.md"
+      "answer_key": "7/sb-u6-vocabulary/homework-check-sb-u6-blog-01-key.md",
+      "pdf": "7/sb-u6-vocabulary/homework-check-sb-u6-blog-01.pdf",
+      "answer_key_pdf": "7/sb-u6-vocabulary/homework-check-sb-u6-blog-01-key.pdf"
     },
     {
       "id": "7-sb-u6-grammar-2-homework-01",
@@ -918,7 +1120,9 @@
       "assessment_lesson": "7/sb-u6-speaking/index.html",
       "json": "7/sb-u6-speaking/homework-check-sb-u6-grammar-2-01.json",
       "markdown": "7/sb-u6-speaking/homework-check-sb-u6-grammar-2-01.md",
-      "answer_key": "7/sb-u6-speaking/homework-check-sb-u6-grammar-2-01-key.md"
+      "answer_key": "7/sb-u6-speaking/homework-check-sb-u6-grammar-2-01-key.md",
+      "pdf": "7/sb-u6-speaking/homework-check-sb-u6-grammar-2-01.pdf",
+      "answer_key_pdf": "7/sb-u6-speaking/homework-check-sb-u6-grammar-2-01-key.pdf"
     },
     {
       "id": "7-sb-u6-grammar-homework-01",
@@ -927,7 +1131,9 @@
       "assessment_lesson": "7/sb-u6-listening/index.html",
       "json": "7/sb-u6-listening/homework-check-sb-u6-grammar-01.json",
       "markdown": "7/sb-u6-listening/homework-check-sb-u6-grammar-01.md",
-      "answer_key": "7/sb-u6-listening/homework-check-sb-u6-grammar-01-key.md"
+      "answer_key": "7/sb-u6-listening/homework-check-sb-u6-grammar-01-key.md",
+      "pdf": "7/sb-u6-listening/homework-check-sb-u6-grammar-01.pdf",
+      "answer_key_pdf": "7/sb-u6-listening/homework-check-sb-u6-grammar-01-key.pdf"
     },
     {
       "id": "7-sb-u6-lead-in-homework-01",
@@ -936,7 +1142,9 @@
       "assessment_lesson": "7/sb-u6-blog/index.html",
       "json": "7/sb-u6-blog/homework-check-sb-u6-lead-in-01.json",
       "markdown": "7/sb-u6-blog/homework-check-sb-u6-lead-in-01.md",
-      "answer_key": "7/sb-u6-blog/homework-check-sb-u6-lead-in-01-key.md"
+      "answer_key": "7/sb-u6-blog/homework-check-sb-u6-lead-in-01-key.md",
+      "pdf": "7/sb-u6-blog/homework-check-sb-u6-lead-in-01.pdf",
+      "answer_key_pdf": "7/sb-u6-blog/homework-check-sb-u6-lead-in-01-key.pdf"
     },
     {
       "id": "7-sb-u6-listening-homework-01",
@@ -945,7 +1153,9 @@
       "assessment_lesson": "7/sb-u6-vocabulary-2/index.html",
       "json": "7/sb-u6-vocabulary-2/homework-check-sb-u6-listening-01.json",
       "markdown": "7/sb-u6-vocabulary-2/homework-check-sb-u6-listening-01.md",
-      "answer_key": "7/sb-u6-vocabulary-2/homework-check-sb-u6-listening-01-key.md"
+      "answer_key": "7/sb-u6-vocabulary-2/homework-check-sb-u6-listening-01-key.md",
+      "pdf": "7/sb-u6-vocabulary-2/homework-check-sb-u6-listening-01.pdf",
+      "answer_key_pdf": "7/sb-u6-vocabulary-2/homework-check-sb-u6-listening-01-key.pdf"
     },
     {
       "id": "7-sb-u6-look-back-homework-01",
@@ -954,7 +1164,9 @@
       "assessment_lesson": "7/sb-u6-self-check/index.html",
       "json": "7/sb-u6-self-check/homework-check-sb-u6-look-back-01.json",
       "markdown": "7/sb-u6-self-check/homework-check-sb-u6-look-back-01.md",
-      "answer_key": "7/sb-u6-self-check/homework-check-sb-u6-look-back-01-key.md"
+      "answer_key": "7/sb-u6-self-check/homework-check-sb-u6-look-back-01-key.md",
+      "pdf": "7/sb-u6-self-check/homework-check-sb-u6-look-back-01.pdf",
+      "answer_key_pdf": "7/sb-u6-self-check/homework-check-sb-u6-look-back-01-key.pdf"
     },
     {
       "id": "7-sb-u6-reading-homework-01",
@@ -963,7 +1175,9 @@
       "assessment_lesson": "7/sb-u6-grammar/index.html",
       "json": "7/sb-u6-grammar/homework-check-sb-u6-reading-01.json",
       "markdown": "7/sb-u6-grammar/homework-check-sb-u6-reading-01.md",
-      "answer_key": "7/sb-u6-grammar/homework-check-sb-u6-reading-01-key.md"
+      "answer_key": "7/sb-u6-grammar/homework-check-sb-u6-reading-01-key.md",
+      "pdf": "7/sb-u6-grammar/homework-check-sb-u6-reading-01.pdf",
+      "answer_key_pdf": "7/sb-u6-grammar/homework-check-sb-u6-reading-01-key.pdf"
     },
     {
       "id": "7-sb-u6-self-check-homework-01",
@@ -972,7 +1186,9 @@
       "assessment_lesson": "7/sb-u7-lead-in/index.html",
       "json": "7/sb-u7-lead-in/homework-check-sb-u6-self-check-01.json",
       "markdown": "7/sb-u7-lead-in/homework-check-sb-u6-self-check-01.md",
-      "answer_key": "7/sb-u7-lead-in/homework-check-sb-u6-self-check-01-key.md"
+      "answer_key": "7/sb-u7-lead-in/homework-check-sb-u6-self-check-01-key.md",
+      "pdf": "7/sb-u7-lead-in/homework-check-sb-u6-self-check-01.pdf",
+      "answer_key_pdf": "7/sb-u7-lead-in/homework-check-sb-u6-self-check-01-key.pdf"
     },
     {
       "id": "7-sb-u6-speaking-homework-01",
@@ -981,7 +1197,9 @@
       "assessment_lesson": "7/sb-u6-writing/index.html",
       "json": "7/sb-u6-writing/homework-check-sb-u6-speaking-01.json",
       "markdown": "7/sb-u6-writing/homework-check-sb-u6-speaking-01.md",
-      "answer_key": "7/sb-u6-writing/homework-check-sb-u6-speaking-01-key.md"
+      "answer_key": "7/sb-u6-writing/homework-check-sb-u6-speaking-01-key.md",
+      "pdf": "7/sb-u6-writing/homework-check-sb-u6-speaking-01.pdf",
+      "answer_key_pdf": "7/sb-u6-writing/homework-check-sb-u6-speaking-01-key.pdf"
     },
     {
       "id": "7-sb-u6-vocabulary-2-homework-01",
@@ -990,7 +1208,9 @@
       "assessment_lesson": "7/sb-u6-grammar-2/index.html",
       "json": "7/sb-u6-grammar-2/homework-check-sb-u6-vocabulary-2-01.json",
       "markdown": "7/sb-u6-grammar-2/homework-check-sb-u6-vocabulary-2-01.md",
-      "answer_key": "7/sb-u6-grammar-2/homework-check-sb-u6-vocabulary-2-01-key.md"
+      "answer_key": "7/sb-u6-grammar-2/homework-check-sb-u6-vocabulary-2-01-key.md",
+      "pdf": "7/sb-u6-grammar-2/homework-check-sb-u6-vocabulary-2-01.pdf",
+      "answer_key_pdf": "7/sb-u6-grammar-2/homework-check-sb-u6-vocabulary-2-01-key.pdf"
     },
     {
       "id": "7-sb-u6-vocabulary-homework-01",
@@ -999,7 +1219,9 @@
       "assessment_lesson": "7/sb-u6-reading/index.html",
       "json": "7/sb-u6-reading/homework-check-sb-u6-vocabulary-01.json",
       "markdown": "7/sb-u6-reading/homework-check-sb-u6-vocabulary-01.md",
-      "answer_key": "7/sb-u6-reading/homework-check-sb-u6-vocabulary-01-key.md"
+      "answer_key": "7/sb-u6-reading/homework-check-sb-u6-vocabulary-01-key.md",
+      "pdf": "7/sb-u6-reading/homework-check-sb-u6-vocabulary-01.pdf",
+      "answer_key_pdf": "7/sb-u6-reading/homework-check-sb-u6-vocabulary-01-key.pdf"
     },
     {
       "id": "7-sb-u6-writing-homework-01",
@@ -1008,7 +1230,9 @@
       "assessment_lesson": "7/sb-u6-look-back/index.html",
       "json": "7/sb-u6-look-back/homework-check-sb-u6-writing-01.json",
       "markdown": "7/sb-u6-look-back/homework-check-sb-u6-writing-01.md",
-      "answer_key": "7/sb-u6-look-back/homework-check-sb-u6-writing-01-key.md"
+      "answer_key": "7/sb-u6-look-back/homework-check-sb-u6-writing-01-key.md",
+      "pdf": "7/sb-u6-look-back/homework-check-sb-u6-writing-01.pdf",
+      "answer_key_pdf": "7/sb-u6-look-back/homework-check-sb-u6-writing-01-key.pdf"
     },
     {
       "id": "7-sb-u8-lead-in-homework-01",
@@ -1017,7 +1241,9 @@
       "assessment_lesson": "7/sb-u8-blog/index.html",
       "json": "7/sb-u8-blog/homework-check-sb-u8-lead-in-01.json",
       "markdown": "7/sb-u8-blog/homework-check-sb-u8-lead-in-01.md",
-      "answer_key": "7/sb-u8-blog/homework-check-sb-u8-lead-in-01-key.md"
+      "answer_key": "7/sb-u8-blog/homework-check-sb-u8-lead-in-01-key.md",
+      "pdf": "7/sb-u8-blog/homework-check-sb-u8-lead-in-01.pdf",
+      "answer_key_pdf": "7/sb-u8-blog/homework-check-sb-u8-lead-in-01-key.pdf"
     },
     {
       "id": "7-sb-u8-vocabulary-homework-01",
@@ -1026,7 +1252,9 @@
       "assessment_lesson": "7/sb-u8-reading/index.html",
       "json": "7/sb-u8-reading/homework-check-sb-u8-vocabulary-01.json",
       "markdown": "7/sb-u8-reading/homework-check-sb-u8-vocabulary-01.md",
-      "answer_key": "7/sb-u8-reading/homework-check-sb-u8-vocabulary-01-key.md"
+      "answer_key": "7/sb-u8-reading/homework-check-sb-u8-vocabulary-01-key.md",
+      "pdf": "7/sb-u8-reading/homework-check-sb-u8-vocabulary-01.pdf",
+      "answer_key_pdf": "7/sb-u8-reading/homework-check-sb-u8-vocabulary-01-key.pdf"
     },
     {
       "id": "7-sb-u8-reading-homework-01",
@@ -1035,7 +1263,9 @@
       "assessment_lesson": "7/sb-u8-grammar/index.html",
       "json": "7/sb-u8-grammar/homework-check-sb-u8-reading-01.json",
       "markdown": "7/sb-u8-grammar/homework-check-sb-u8-reading-01.md",
-      "answer_key": "7/sb-u8-grammar/homework-check-sb-u8-reading-01-key.md"
+      "answer_key": "7/sb-u8-grammar/homework-check-sb-u8-reading-01-key.md",
+      "pdf": "7/sb-u8-grammar/homework-check-sb-u8-reading-01.pdf",
+      "answer_key_pdf": "7/sb-u8-grammar/homework-check-sb-u8-reading-01-key.pdf"
     },
     {
       "id": "7-sb-u8-grammar-homework-01",
@@ -1044,7 +1274,9 @@
       "assessment_lesson": "7/sb-u8-listening/index.html",
       "json": "7/sb-u8-listening/homework-check-sb-u8-grammar-01.json",
       "markdown": "7/sb-u8-listening/homework-check-sb-u8-grammar-01.md",
-      "answer_key": "7/sb-u8-listening/homework-check-sb-u8-grammar-01-key.md"
+      "answer_key": "7/sb-u8-listening/homework-check-sb-u8-grammar-01-key.md",
+      "pdf": "7/sb-u8-listening/homework-check-sb-u8-grammar-01.pdf",
+      "answer_key_pdf": "7/sb-u8-listening/homework-check-sb-u8-grammar-01-key.pdf"
     },
     {
       "id": "7-sb-u8-listening-homework-01",
@@ -1053,7 +1285,9 @@
       "assessment_lesson": "7/sb-u8-vocabulary-2/index.html",
       "json": "7/sb-u8-vocabulary-2/homework-check-sb-u8-listening-01.json",
       "markdown": "7/sb-u8-vocabulary-2/homework-check-sb-u8-listening-01.md",
-      "answer_key": "7/sb-u8-vocabulary-2/homework-check-sb-u8-listening-01-key.md"
+      "answer_key": "7/sb-u8-vocabulary-2/homework-check-sb-u8-listening-01-key.md",
+      "pdf": "7/sb-u8-vocabulary-2/homework-check-sb-u8-listening-01.pdf",
+      "answer_key_pdf": "7/sb-u8-vocabulary-2/homework-check-sb-u8-listening-01-key.pdf"
     },
     {
       "id": "7-sb-u8-vocabulary-2-homework-01",
@@ -1062,7 +1296,9 @@
       "assessment_lesson": "7/sb-u8-grammar-2/index.html",
       "json": "7/sb-u8-grammar-2/homework-check-sb-u8-vocabulary-2-01.json",
       "markdown": "7/sb-u8-grammar-2/homework-check-sb-u8-vocabulary-2-01.md",
-      "answer_key": "7/sb-u8-grammar-2/homework-check-sb-u8-vocabulary-2-01-key.md"
+      "answer_key": "7/sb-u8-grammar-2/homework-check-sb-u8-vocabulary-2-01-key.md",
+      "pdf": "7/sb-u8-grammar-2/homework-check-sb-u8-vocabulary-2-01.pdf",
+      "answer_key_pdf": "7/sb-u8-grammar-2/homework-check-sb-u8-vocabulary-2-01-key.pdf"
     },
     {
       "id": "7-sb-u8-grammar-2-homework-01",
@@ -1071,7 +1307,9 @@
       "assessment_lesson": "7/sb-u8-speaking/index.html",
       "json": "7/sb-u8-speaking/homework-check-sb-u8-grammar-2-01.json",
       "markdown": "7/sb-u8-speaking/homework-check-sb-u8-grammar-2-01.md",
-      "answer_key": "7/sb-u8-speaking/homework-check-sb-u8-grammar-2-01-key.md"
+      "answer_key": "7/sb-u8-speaking/homework-check-sb-u8-grammar-2-01-key.md",
+      "pdf": "7/sb-u8-speaking/homework-check-sb-u8-grammar-2-01.pdf",
+      "answer_key_pdf": "7/sb-u8-speaking/homework-check-sb-u8-grammar-2-01-key.pdf"
     },
     {
       "id": "7-sb-u8-speaking-homework-01",
@@ -1080,7 +1318,9 @@
       "assessment_lesson": "7/sb-u8-writing/index.html",
       "json": "7/sb-u8-writing/homework-check-sb-u8-speaking-01.json",
       "markdown": "7/sb-u8-writing/homework-check-sb-u8-speaking-01.md",
-      "answer_key": "7/sb-u8-writing/homework-check-sb-u8-speaking-01-key.md"
+      "answer_key": "7/sb-u8-writing/homework-check-sb-u8-speaking-01-key.md",
+      "pdf": "7/sb-u8-writing/homework-check-sb-u8-speaking-01.pdf",
+      "answer_key_pdf": "7/sb-u8-writing/homework-check-sb-u8-speaking-01-key.pdf"
     },
     {
       "id": "7-sb-u8-writing-homework-01",
@@ -1089,7 +1329,9 @@
       "assessment_lesson": "7/sb-u8-look-back/index.html",
       "json": "7/sb-u8-look-back/homework-check-sb-u8-writing-01.json",
       "markdown": "7/sb-u8-look-back/homework-check-sb-u8-writing-01.md",
-      "answer_key": "7/sb-u8-look-back/homework-check-sb-u8-writing-01-key.md"
+      "answer_key": "7/sb-u8-look-back/homework-check-sb-u8-writing-01-key.md",
+      "pdf": "7/sb-u8-look-back/homework-check-sb-u8-writing-01.pdf",
+      "answer_key_pdf": "7/sb-u8-look-back/homework-check-sb-u8-writing-01-key.pdf"
     },
     {
       "id": "7-sb-u8-blog-homework-01",
@@ -1098,7 +1340,9 @@
       "assessment_lesson": "7/sb-u8-vocabulary/index.html",
       "json": "7/sb-u8-vocabulary/homework-check-sb-u8-blog-01.json",
       "markdown": "7/sb-u8-vocabulary/homework-check-sb-u8-blog-01.md",
-      "answer_key": "7/sb-u8-vocabulary/homework-check-sb-u8-blog-01-key.md"
+      "answer_key": "7/sb-u8-vocabulary/homework-check-sb-u8-blog-01-key.md",
+      "pdf": "7/sb-u8-vocabulary/homework-check-sb-u8-blog-01.pdf",
+      "answer_key_pdf": "7/sb-u8-vocabulary/homework-check-sb-u8-blog-01-key.pdf"
     },
     {
       "id": "7-sb-u8-look-back-homework-01",
@@ -1107,7 +1351,9 @@
       "assessment_lesson": "7/sb-u8-self-check/index.html",
       "json": "7/sb-u8-self-check/homework-check-sb-u8-look-back-01.json",
       "markdown": "7/sb-u8-self-check/homework-check-sb-u8-look-back-01.md",
-      "answer_key": "7/sb-u8-self-check/homework-check-sb-u8-look-back-01-key.md"
+      "answer_key": "7/sb-u8-self-check/homework-check-sb-u8-look-back-01-key.md",
+      "pdf": "7/sb-u8-self-check/homework-check-sb-u8-look-back-01.pdf",
+      "answer_key_pdf": "7/sb-u8-self-check/homework-check-sb-u8-look-back-01-key.pdf"
     },
     {
       "id": "7-sb-u8-self-check-homework-01",
@@ -1116,7 +1362,9 @@
       "assessment_lesson": "7/sb-u8-self-check/index.html",
       "json": "7/sb-u8-self-check/homework-check-sb-u8-self-check-01.json",
       "markdown": "7/sb-u8-self-check/homework-check-sb-u8-self-check-01.md",
-      "answer_key": "7/sb-u8-self-check/homework-check-sb-u8-self-check-01-key.md"
+      "answer_key": "7/sb-u8-self-check/homework-check-sb-u8-self-check-01-key.md",
+      "pdf": "7/sb-u8-self-check/homework-check-sb-u8-self-check-01.pdf",
+      "answer_key_pdf": "7/sb-u8-self-check/homework-check-sb-u8-self-check-01-key.pdf"
     },
     {
       "id": "7-sb-u7-blog-homework-01",
@@ -1125,7 +1373,9 @@
       "assessment_lesson": "7/sb-u7-vocabulary/index.html",
       "json": "7/sb-u7-vocabulary/homework-check-sb-u7-blog-01.json",
       "markdown": "7/sb-u7-vocabulary/homework-check-sb-u7-blog-01.md",
-      "answer_key": "7/sb-u7-vocabulary/homework-check-sb-u7-blog-01-key.md"
+      "answer_key": "7/sb-u7-vocabulary/homework-check-sb-u7-blog-01-key.md",
+      "pdf": "7/sb-u7-vocabulary/homework-check-sb-u7-blog-01.pdf",
+      "answer_key_pdf": "7/sb-u7-vocabulary/homework-check-sb-u7-blog-01-key.pdf"
     },
     {
       "id": "7-sb-u7-grammar-homework-01",
@@ -1134,7 +1384,9 @@
       "assessment_lesson": "7/sb-u7-listening/index.html",
       "json": "7/sb-u7-listening/homework-check-sb-u7-grammar-01.json",
       "markdown": "7/sb-u7-listening/homework-check-sb-u7-grammar-01.md",
-      "answer_key": "7/sb-u7-listening/homework-check-sb-u7-grammar-01-key.md"
+      "answer_key": "7/sb-u7-listening/homework-check-sb-u7-grammar-01-key.md",
+      "pdf": "7/sb-u7-listening/homework-check-sb-u7-grammar-01.pdf",
+      "answer_key_pdf": "7/sb-u7-listening/homework-check-sb-u7-grammar-01-key.pdf"
     },
     {
       "id": "7-sb-u7-grammar-2-homework-01",
@@ -1143,7 +1395,9 @@
       "assessment_lesson": "7/sb-u7-speaking/index.html",
       "json": "7/sb-u7-speaking/homework-check-sb-u7-grammar-2-01.json",
       "markdown": "7/sb-u7-speaking/homework-check-sb-u7-grammar-2-01.md",
-      "answer_key": "7/sb-u7-speaking/homework-check-sb-u7-grammar-2-01-key.md"
+      "answer_key": "7/sb-u7-speaking/homework-check-sb-u7-grammar-2-01-key.md",
+      "pdf": "7/sb-u7-speaking/homework-check-sb-u7-grammar-2-01.pdf",
+      "answer_key_pdf": "7/sb-u7-speaking/homework-check-sb-u7-grammar-2-01-key.pdf"
     },
     {
       "id": "7-sb-u7-lead-in-homework-01",
@@ -1152,7 +1406,9 @@
       "assessment_lesson": "7/sb-u7-blog/index.html",
       "json": "7/sb-u7-blog/homework-check-sb-u7-lead-in-01.json",
       "markdown": "7/sb-u7-blog/homework-check-sb-u7-lead-in-01.md",
-      "answer_key": "7/sb-u7-blog/homework-check-sb-u7-lead-in-01-key.md"
+      "answer_key": "7/sb-u7-blog/homework-check-sb-u7-lead-in-01-key.md",
+      "pdf": "7/sb-u7-blog/homework-check-sb-u7-lead-in-01.pdf",
+      "answer_key_pdf": "7/sb-u7-blog/homework-check-sb-u7-lead-in-01-key.pdf"
     },
     {
       "id": "7-sb-u7-listening-homework-01",
@@ -1161,7 +1417,9 @@
       "assessment_lesson": "7/sb-u7-vocabulary-2/index.html",
       "json": "7/sb-u7-vocabulary-2/homework-check-sb-u7-listening-01.json",
       "markdown": "7/sb-u7-vocabulary-2/homework-check-sb-u7-listening-01.md",
-      "answer_key": "7/sb-u7-vocabulary-2/homework-check-sb-u7-listening-01-key.md"
+      "answer_key": "7/sb-u7-vocabulary-2/homework-check-sb-u7-listening-01-key.md",
+      "pdf": "7/sb-u7-vocabulary-2/homework-check-sb-u7-listening-01.pdf",
+      "answer_key_pdf": "7/sb-u7-vocabulary-2/homework-check-sb-u7-listening-01-key.pdf"
     },
     {
       "id": "7-sb-u7-look-back-homework-01",
@@ -1170,7 +1428,9 @@
       "assessment_lesson": "7/sb-u7-self-check/index.html",
       "json": "7/sb-u7-self-check/homework-check-sb-u7-look-back-01.json",
       "markdown": "7/sb-u7-self-check/homework-check-sb-u7-look-back-01.md",
-      "answer_key": "7/sb-u7-self-check/homework-check-sb-u7-look-back-01-key.md"
+      "answer_key": "7/sb-u7-self-check/homework-check-sb-u7-look-back-01-key.md",
+      "pdf": "7/sb-u7-self-check/homework-check-sb-u7-look-back-01.pdf",
+      "answer_key_pdf": "7/sb-u7-self-check/homework-check-sb-u7-look-back-01-key.pdf"
     },
     {
       "id": "7-sb-u7-reading-homework-01",
@@ -1179,7 +1439,9 @@
       "assessment_lesson": "7/sb-u7-grammar/index.html",
       "json": "7/sb-u7-grammar/homework-check-sb-u7-reading-01.json",
       "markdown": "7/sb-u7-grammar/homework-check-sb-u7-reading-01.md",
-      "answer_key": "7/sb-u7-grammar/homework-check-sb-u7-reading-01-key.md"
+      "answer_key": "7/sb-u7-grammar/homework-check-sb-u7-reading-01-key.md",
+      "pdf": "7/sb-u7-grammar/homework-check-sb-u7-reading-01.pdf",
+      "answer_key_pdf": "7/sb-u7-grammar/homework-check-sb-u7-reading-01-key.pdf"
     },
     {
       "id": "7-sb-u7-self-check-homework-01",
@@ -1188,7 +1450,9 @@
       "assessment_lesson": "7/sb-u8-lead-in/index.html",
       "json": "7/sb-u8-lead-in/homework-check-sb-u7-self-check-01.json",
       "markdown": "7/sb-u8-lead-in/homework-check-sb-u7-self-check-01.md",
-      "answer_key": "7/sb-u8-lead-in/homework-check-sb-u7-self-check-01-key.md"
+      "answer_key": "7/sb-u8-lead-in/homework-check-sb-u7-self-check-01-key.md",
+      "pdf": "7/sb-u8-lead-in/homework-check-sb-u7-self-check-01.pdf",
+      "answer_key_pdf": "7/sb-u8-lead-in/homework-check-sb-u7-self-check-01-key.pdf"
     },
     {
       "id": "7-sb-u7-speaking-homework-01",
@@ -1197,7 +1461,9 @@
       "assessment_lesson": "7/sb-u7-writing/index.html",
       "json": "7/sb-u7-writing/homework-check-sb-u7-speaking-01.json",
       "markdown": "7/sb-u7-writing/homework-check-sb-u7-speaking-01.md",
-      "answer_key": "7/sb-u7-writing/homework-check-sb-u7-speaking-01-key.md"
+      "answer_key": "7/sb-u7-writing/homework-check-sb-u7-speaking-01-key.md",
+      "pdf": "7/sb-u7-writing/homework-check-sb-u7-speaking-01.pdf",
+      "answer_key_pdf": "7/sb-u7-writing/homework-check-sb-u7-speaking-01-key.pdf"
     },
     {
       "id": "7-sb-u7-vocabulary-homework-01",
@@ -1206,7 +1472,9 @@
       "assessment_lesson": "7/sb-u7-reading/index.html",
       "json": "7/sb-u7-reading/homework-check-sb-u7-vocabulary-01.json",
       "markdown": "7/sb-u7-reading/homework-check-sb-u7-vocabulary-01.md",
-      "answer_key": "7/sb-u7-reading/homework-check-sb-u7-vocabulary-01-key.md"
+      "answer_key": "7/sb-u7-reading/homework-check-sb-u7-vocabulary-01-key.md",
+      "pdf": "7/sb-u7-reading/homework-check-sb-u7-vocabulary-01.pdf",
+      "answer_key_pdf": "7/sb-u7-reading/homework-check-sb-u7-vocabulary-01-key.pdf"
     },
     {
       "id": "7-sb-u7-vocabulary-2-homework-01",
@@ -1215,7 +1483,9 @@
       "assessment_lesson": "7/sb-u7-grammar-2/index.html",
       "json": "7/sb-u7-grammar-2/homework-check-sb-u7-vocabulary-2-01.json",
       "markdown": "7/sb-u7-grammar-2/homework-check-sb-u7-vocabulary-2-01.md",
-      "answer_key": "7/sb-u7-grammar-2/homework-check-sb-u7-vocabulary-2-01-key.md"
+      "answer_key": "7/sb-u7-grammar-2/homework-check-sb-u7-vocabulary-2-01-key.md",
+      "pdf": "7/sb-u7-grammar-2/homework-check-sb-u7-vocabulary-2-01.pdf",
+      "answer_key_pdf": "7/sb-u7-grammar-2/homework-check-sb-u7-vocabulary-2-01-key.pdf"
     },
     {
       "id": "7-sb-u7-writing-homework-01",
@@ -1224,7 +1494,9 @@
       "assessment_lesson": "7/sb-u7-look-back/index.html",
       "json": "7/sb-u7-look-back/homework-check-sb-u7-writing-01.json",
       "markdown": "7/sb-u7-look-back/homework-check-sb-u7-writing-01.md",
-      "answer_key": "7/sb-u7-look-back/homework-check-sb-u7-writing-01-key.md"
+      "answer_key": "7/sb-u7-look-back/homework-check-sb-u7-writing-01-key.md",
+      "pdf": "7/sb-u7-look-back/homework-check-sb-u7-writing-01.pdf",
+      "answer_key_pdf": "7/sb-u7-look-back/homework-check-sb-u7-writing-01-key.pdf"
     },
     {
       "id": "7-ask-about-school-homework-01",
@@ -1233,7 +1505,9 @@
       "assessment_lesson": "7/our-school-event/index.html",
       "json": "7/our-school-event/homework-check-ask-about-school-01.json",
       "markdown": "7/our-school-event/homework-check-ask-about-school-01.md",
-      "answer_key": "7/our-school-event/homework-check-ask-about-school-01-key.md"
+      "answer_key": "7/our-school-event/homework-check-ask-about-school-01-key.md",
+      "pdf": "7/our-school-event/homework-check-ask-about-school-01.pdf",
+      "answer_key_pdf": "7/our-school-event/homework-check-ask-about-school-01-key.pdf"
     },
     {
       "id": "7-chores-homework-01",
@@ -1242,7 +1516,9 @@
       "assessment_lesson": "7/sharing-chores/index.html",
       "json": "7/sharing-chores/homework-check-chores-01.json",
       "markdown": "7/sharing-chores/homework-check-chores-01.md",
-      "answer_key": "7/sharing-chores/homework-check-chores-01-key.md"
+      "answer_key": "7/sharing-chores/homework-check-chores-01-key.md",
+      "pdf": "7/sharing-chores/homework-check-chores-01.pdf",
+      "answer_key_pdf": "7/sharing-chores/homework-check-chores-01-key.pdf"
     },
     {
       "id": "7-clubs-and-hobbies-homework-01",
@@ -1251,7 +1527,9 @@
       "assessment_lesson": "7/school-special-days/index.html",
       "json": "7/school-special-days/homework-check-clubs-and-hobbies-01.json",
       "markdown": "7/school-special-days/homework-check-clubs-and-hobbies-01.md",
-      "answer_key": "7/school-special-days/homework-check-clubs-and-hobbies-01-key.md"
+      "answer_key": "7/school-special-days/homework-check-clubs-and-hobbies-01-key.md",
+      "pdf": "7/school-special-days/homework-check-clubs-and-hobbies-01.pdf",
+      "answer_key_pdf": "7/school-special-days/homework-check-clubs-and-hobbies-01-key.pdf"
     },
     {
       "id": "7-home-stories-homework-01",
@@ -1260,7 +1538,9 @@
       "assessment_lesson": "7/home-stories/index.html",
       "json": "7/home-stories/homework-check-home-stories-01.json",
       "markdown": "7/home-stories/homework-check-home-stories-01.md",
-      "answer_key": "7/home-stories/homework-check-home-stories-01-key.md"
+      "answer_key": "7/home-stories/homework-check-home-stories-01-key.md",
+      "pdf": "7/home-stories/homework-check-home-stories-01.pdf",
+      "answer_key_pdf": "7/home-stories/homework-check-home-stories-01-key.pdf"
     },
     {
       "id": "7-now-or-usually-homework-01",
@@ -1269,7 +1549,9 @@
       "assessment_lesson": "7/ask-about-school/index.html",
       "json": "7/ask-about-school/homework-check-now-or-usually-01.json",
       "markdown": "7/ask-about-school/homework-check-now-or-usually-01.md",
-      "answer_key": "7/ask-about-school/homework-check-now-or-usually-01-key.md"
+      "answer_key": "7/ask-about-school/homework-check-now-or-usually-01-key.md",
+      "pdf": "7/ask-about-school/homework-check-now-or-usually-01.pdf",
+      "answer_key_pdf": "7/ask-about-school/homework-check-now-or-usually-01-key.pdf"
     },
     {
       "id": "7-our-school-event-homework-01",
@@ -1278,7 +1560,9 @@
       "assessment_lesson": "7/our-school-event/index.html",
       "json": "7/our-school-event/homework-check-our-school-event-01.json",
       "markdown": "7/our-school-event/homework-check-our-school-event-01.md",
-      "answer_key": "7/our-school-event/homework-check-our-school-event-01-key.md"
+      "answer_key": "7/our-school-event/homework-check-our-school-event-01-key.md",
+      "pdf": "7/our-school-event/homework-check-our-school-event-01.pdf",
+      "answer_key_pdf": "7/our-school-event/homework-check-our-school-event-01-key.pdf"
     },
     {
       "id": "7-past-continuous-questions-homework-01",
@@ -1287,7 +1571,9 @@
       "assessment_lesson": "7/home-stories/index.html",
       "json": "7/home-stories/homework-check-past-continuous-questions-01.json",
       "markdown": "7/home-stories/homework-check-past-continuous-questions-01.md",
-      "answer_key": "7/home-stories/homework-check-past-continuous-questions-01-key.md"
+      "answer_key": "7/home-stories/homework-check-past-continuous-questions-01-key.md",
+      "pdf": "7/home-stories/homework-check-past-continuous-questions-01.pdf",
+      "answer_key_pdf": "7/home-stories/homework-check-past-continuous-questions-01-key.pdf"
     },
     {
       "id": "7-past-simple-questions-homework-01",
@@ -1296,7 +1582,9 @@
       "assessment_lesson": "7/past-continuous-questions/index.html",
       "json": "7/past-continuous-questions/homework-check-past-simple-questions-01.json",
       "markdown": "7/past-continuous-questions/homework-check-past-simple-questions-01.md",
-      "answer_key": "7/past-continuous-questions/homework-check-past-simple-questions-01-key.md"
+      "answer_key": "7/past-continuous-questions/homework-check-past-simple-questions-01-key.md",
+      "pdf": "7/past-continuous-questions/homework-check-past-simple-questions-01.pdf",
+      "answer_key_pdf": "7/past-continuous-questions/homework-check-past-simple-questions-01-key.pdf"
     },
     {
       "id": "7-sb-starter-homework-01",
@@ -1305,7 +1593,9 @@
       "assessment_lesson": "7/sb-u1-lead-in/index.html",
       "json": "7/sb-u1-lead-in/homework-check-sb-starter-01.json",
       "markdown": "7/sb-u1-lead-in/homework-check-sb-starter-01.md",
-      "answer_key": "7/sb-u1-lead-in/homework-check-sb-starter-01-key.md"
+      "answer_key": "7/sb-u1-lead-in/homework-check-sb-starter-01-key.md",
+      "pdf": "7/sb-u1-lead-in/homework-check-sb-starter-01.pdf",
+      "answer_key_pdf": "7/sb-u1-lead-in/homework-check-sb-starter-01-key.pdf"
     },
     {
       "id": "7-sb-u1-blog-homework-01",
@@ -1314,7 +1604,9 @@
       "assessment_lesson": "7/sb-u1-vocabulary/index.html",
       "json": "7/sb-u1-vocabulary/homework-check-sb-u1-blog-01.json",
       "markdown": "7/sb-u1-vocabulary/homework-check-sb-u1-blog-01.md",
-      "answer_key": "7/sb-u1-vocabulary/homework-check-sb-u1-blog-01-key.md"
+      "answer_key": "7/sb-u1-vocabulary/homework-check-sb-u1-blog-01-key.md",
+      "pdf": "7/sb-u1-vocabulary/homework-check-sb-u1-blog-01.pdf",
+      "answer_key_pdf": "7/sb-u1-vocabulary/homework-check-sb-u1-blog-01-key.pdf"
     },
     {
       "id": "7-sb-u1-grammar-homework-01",
@@ -1323,7 +1615,9 @@
       "assessment_lesson": "7/sb-u1-listening/index.html",
       "json": "7/sb-u1-listening/homework-check-sb-u1-grammar-01.json",
       "markdown": "7/sb-u1-listening/homework-check-sb-u1-grammar-01.md",
-      "answer_key": "7/sb-u1-listening/homework-check-sb-u1-grammar-01-key.md"
+      "answer_key": "7/sb-u1-listening/homework-check-sb-u1-grammar-01-key.md",
+      "pdf": "7/sb-u1-listening/homework-check-sb-u1-grammar-01.pdf",
+      "answer_key_pdf": "7/sb-u1-listening/homework-check-sb-u1-grammar-01-key.pdf"
     },
     {
       "id": "7-sb-u1-grammar-2-homework-01",
@@ -1332,7 +1626,9 @@
       "assessment_lesson": "7/sb-u1-speaking/index.html",
       "json": "7/sb-u1-speaking/homework-check-sb-u1-grammar-2-01.json",
       "markdown": "7/sb-u1-speaking/homework-check-sb-u1-grammar-2-01.md",
-      "answer_key": "7/sb-u1-speaking/homework-check-sb-u1-grammar-2-01-key.md"
+      "answer_key": "7/sb-u1-speaking/homework-check-sb-u1-grammar-2-01-key.md",
+      "pdf": "7/sb-u1-speaking/homework-check-sb-u1-grammar-2-01.pdf",
+      "answer_key_pdf": "7/sb-u1-speaking/homework-check-sb-u1-grammar-2-01-key.pdf"
     },
     {
       "id": "7-sb-u1-lead-in-homework-01",
@@ -1341,7 +1637,9 @@
       "assessment_lesson": "7/sb-u1-blog/index.html",
       "json": "7/sb-u1-blog/homework-check-sb-u1-lead-in-01.json",
       "markdown": "7/sb-u1-blog/homework-check-sb-u1-lead-in-01.md",
-      "answer_key": "7/sb-u1-blog/homework-check-sb-u1-lead-in-01-key.md"
+      "answer_key": "7/sb-u1-blog/homework-check-sb-u1-lead-in-01-key.md",
+      "pdf": "7/sb-u1-blog/homework-check-sb-u1-lead-in-01.pdf",
+      "answer_key_pdf": "7/sb-u1-blog/homework-check-sb-u1-lead-in-01-key.pdf"
     },
     {
       "id": "7-sb-u1-listening-homework-01",
@@ -1350,7 +1648,9 @@
       "assessment_lesson": "7/sb-u1-vocabulary-2/index.html",
       "json": "7/sb-u1-vocabulary-2/homework-check-sb-u1-listening-01.json",
       "markdown": "7/sb-u1-vocabulary-2/homework-check-sb-u1-listening-01.md",
-      "answer_key": "7/sb-u1-vocabulary-2/homework-check-sb-u1-listening-01-key.md"
+      "answer_key": "7/sb-u1-vocabulary-2/homework-check-sb-u1-listening-01-key.md",
+      "pdf": "7/sb-u1-vocabulary-2/homework-check-sb-u1-listening-01.pdf",
+      "answer_key_pdf": "7/sb-u1-vocabulary-2/homework-check-sb-u1-listening-01-key.pdf"
     },
     {
       "id": "7-sb-u1-look-back-homework-01",
@@ -1359,7 +1659,9 @@
       "assessment_lesson": "7/sb-u1-self-check/index.html",
       "json": "7/sb-u1-self-check/homework-check-sb-u1-look-back-01.json",
       "markdown": "7/sb-u1-self-check/homework-check-sb-u1-look-back-01.md",
-      "answer_key": "7/sb-u1-self-check/homework-check-sb-u1-look-back-01-key.md"
+      "answer_key": "7/sb-u1-self-check/homework-check-sb-u1-look-back-01-key.md",
+      "pdf": "7/sb-u1-self-check/homework-check-sb-u1-look-back-01.pdf",
+      "answer_key_pdf": "7/sb-u1-self-check/homework-check-sb-u1-look-back-01-key.pdf"
     },
     {
       "id": "7-sb-u1-reading-homework-01",
@@ -1368,7 +1670,9 @@
       "assessment_lesson": "7/sb-u1-grammar/index.html",
       "json": "7/sb-u1-grammar/homework-check-sb-u1-reading-01.json",
       "markdown": "7/sb-u1-grammar/homework-check-sb-u1-reading-01.md",
-      "answer_key": "7/sb-u1-grammar/homework-check-sb-u1-reading-01-key.md"
+      "answer_key": "7/sb-u1-grammar/homework-check-sb-u1-reading-01-key.md",
+      "pdf": "7/sb-u1-grammar/homework-check-sb-u1-reading-01.pdf",
+      "answer_key_pdf": "7/sb-u1-grammar/homework-check-sb-u1-reading-01-key.pdf"
     },
     {
       "id": "7-sb-u1-self-check-homework-01",
@@ -1377,7 +1681,9 @@
       "assessment_lesson": "7/sb-u2-lead-in/index.html",
       "json": "7/sb-u2-lead-in/homework-check-sb-u1-self-check-01.json",
       "markdown": "7/sb-u2-lead-in/homework-check-sb-u1-self-check-01.md",
-      "answer_key": "7/sb-u2-lead-in/homework-check-sb-u1-self-check-01-key.md"
+      "answer_key": "7/sb-u2-lead-in/homework-check-sb-u1-self-check-01-key.md",
+      "pdf": "7/sb-u2-lead-in/homework-check-sb-u1-self-check-01.pdf",
+      "answer_key_pdf": "7/sb-u2-lead-in/homework-check-sb-u1-self-check-01-key.pdf"
     },
     {
       "id": "7-sb-u1-speaking-homework-01",
@@ -1386,7 +1692,9 @@
       "assessment_lesson": "7/sb-u1-writing/index.html",
       "json": "7/sb-u1-writing/homework-check-sb-u1-speaking-01.json",
       "markdown": "7/sb-u1-writing/homework-check-sb-u1-speaking-01.md",
-      "answer_key": "7/sb-u1-writing/homework-check-sb-u1-speaking-01-key.md"
+      "answer_key": "7/sb-u1-writing/homework-check-sb-u1-speaking-01-key.md",
+      "pdf": "7/sb-u1-writing/homework-check-sb-u1-speaking-01.pdf",
+      "answer_key_pdf": "7/sb-u1-writing/homework-check-sb-u1-speaking-01-key.pdf"
     },
     {
       "id": "7-sb-u1-vocabulary-homework-01",
@@ -1395,7 +1703,9 @@
       "assessment_lesson": "7/sb-u1-reading/index.html",
       "json": "7/sb-u1-reading/homework-check-sb-u1-vocabulary-01.json",
       "markdown": "7/sb-u1-reading/homework-check-sb-u1-vocabulary-01.md",
-      "answer_key": "7/sb-u1-reading/homework-check-sb-u1-vocabulary-01-key.md"
+      "answer_key": "7/sb-u1-reading/homework-check-sb-u1-vocabulary-01-key.md",
+      "pdf": "7/sb-u1-reading/homework-check-sb-u1-vocabulary-01.pdf",
+      "answer_key_pdf": "7/sb-u1-reading/homework-check-sb-u1-vocabulary-01-key.pdf"
     },
     {
       "id": "7-sb-u1-vocabulary-2-homework-01",
@@ -1404,7 +1714,9 @@
       "assessment_lesson": "7/sb-u1-grammar-2/index.html",
       "json": "7/sb-u1-grammar-2/homework-check-sb-u1-vocabulary-2-01.json",
       "markdown": "7/sb-u1-grammar-2/homework-check-sb-u1-vocabulary-2-01.md",
-      "answer_key": "7/sb-u1-grammar-2/homework-check-sb-u1-vocabulary-2-01-key.md"
+      "answer_key": "7/sb-u1-grammar-2/homework-check-sb-u1-vocabulary-2-01-key.md",
+      "pdf": "7/sb-u1-grammar-2/homework-check-sb-u1-vocabulary-2-01.pdf",
+      "answer_key_pdf": "7/sb-u1-grammar-2/homework-check-sb-u1-vocabulary-2-01-key.pdf"
     },
     {
       "id": "7-sb-u1-writing-homework-01",
@@ -1413,7 +1725,9 @@
       "assessment_lesson": "7/sb-u1-look-back/index.html",
       "json": "7/sb-u1-look-back/homework-check-sb-u1-writing-01.json",
       "markdown": "7/sb-u1-look-back/homework-check-sb-u1-writing-01.md",
-      "answer_key": "7/sb-u1-look-back/homework-check-sb-u1-writing-01-key.md"
+      "answer_key": "7/sb-u1-look-back/homework-check-sb-u1-writing-01-key.md",
+      "pdf": "7/sb-u1-look-back/homework-check-sb-u1-writing-01.pdf",
+      "answer_key_pdf": "7/sb-u1-look-back/homework-check-sb-u1-writing-01-key.pdf"
     },
     {
       "id": "7-sb-u2-blog-homework-01",
@@ -1422,7 +1736,9 @@
       "assessment_lesson": "7/sb-u2-vocabulary/index.html",
       "json": "7/sb-u2-vocabulary/homework-check-sb-u2-blog-01.json",
       "markdown": "7/sb-u2-vocabulary/homework-check-sb-u2-blog-01.md",
-      "answer_key": "7/sb-u2-vocabulary/homework-check-sb-u2-blog-01-key.md"
+      "answer_key": "7/sb-u2-vocabulary/homework-check-sb-u2-blog-01-key.md",
+      "pdf": "7/sb-u2-vocabulary/homework-check-sb-u2-blog-01.pdf",
+      "answer_key_pdf": "7/sb-u2-vocabulary/homework-check-sb-u2-blog-01-key.pdf"
     },
     {
       "id": "7-sb-u2-grammar-homework-01",
@@ -1431,7 +1747,9 @@
       "assessment_lesson": "7/sb-u2-listening/index.html",
       "json": "7/sb-u2-listening/homework-check-sb-u2-grammar-01.json",
       "markdown": "7/sb-u2-listening/homework-check-sb-u2-grammar-01.md",
-      "answer_key": "7/sb-u2-listening/homework-check-sb-u2-grammar-01-key.md"
+      "answer_key": "7/sb-u2-listening/homework-check-sb-u2-grammar-01-key.md",
+      "pdf": "7/sb-u2-listening/homework-check-sb-u2-grammar-01.pdf",
+      "answer_key_pdf": "7/sb-u2-listening/homework-check-sb-u2-grammar-01-key.pdf"
     },
     {
       "id": "7-sb-u2-grammar-2-homework-01",
@@ -1440,7 +1758,9 @@
       "assessment_lesson": "7/sb-u2-speaking/index.html",
       "json": "7/sb-u2-speaking/homework-check-sb-u2-grammar-2-01.json",
       "markdown": "7/sb-u2-speaking/homework-check-sb-u2-grammar-2-01.md",
-      "answer_key": "7/sb-u2-speaking/homework-check-sb-u2-grammar-2-01-key.md"
+      "answer_key": "7/sb-u2-speaking/homework-check-sb-u2-grammar-2-01-key.md",
+      "pdf": "7/sb-u2-speaking/homework-check-sb-u2-grammar-2-01.pdf",
+      "answer_key_pdf": "7/sb-u2-speaking/homework-check-sb-u2-grammar-2-01-key.pdf"
     },
     {
       "id": "7-sb-u2-lead-in-homework-01",
@@ -1449,7 +1769,9 @@
       "assessment_lesson": "7/sb-u2-blog/index.html",
       "json": "7/sb-u2-blog/homework-check-sb-u2-lead-in-01.json",
       "markdown": "7/sb-u2-blog/homework-check-sb-u2-lead-in-01.md",
-      "answer_key": "7/sb-u2-blog/homework-check-sb-u2-lead-in-01-key.md"
+      "answer_key": "7/sb-u2-blog/homework-check-sb-u2-lead-in-01-key.md",
+      "pdf": "7/sb-u2-blog/homework-check-sb-u2-lead-in-01.pdf",
+      "answer_key_pdf": "7/sb-u2-blog/homework-check-sb-u2-lead-in-01-key.pdf"
     },
     {
       "id": "7-sb-u2-listening-homework-01",
@@ -1458,7 +1780,9 @@
       "assessment_lesson": "7/sb-u2-vocabulary-2/index.html",
       "json": "7/sb-u2-vocabulary-2/homework-check-sb-u2-listening-01.json",
       "markdown": "7/sb-u2-vocabulary-2/homework-check-sb-u2-listening-01.md",
-      "answer_key": "7/sb-u2-vocabulary-2/homework-check-sb-u2-listening-01-key.md"
+      "answer_key": "7/sb-u2-vocabulary-2/homework-check-sb-u2-listening-01-key.md",
+      "pdf": "7/sb-u2-vocabulary-2/homework-check-sb-u2-listening-01.pdf",
+      "answer_key_pdf": "7/sb-u2-vocabulary-2/homework-check-sb-u2-listening-01-key.pdf"
     },
     {
       "id": "7-sb-u2-look-back-homework-01",
@@ -1467,7 +1791,9 @@
       "assessment_lesson": "7/sb-u2-self-check/index.html",
       "json": "7/sb-u2-self-check/homework-check-sb-u2-look-back-01.json",
       "markdown": "7/sb-u2-self-check/homework-check-sb-u2-look-back-01.md",
-      "answer_key": "7/sb-u2-self-check/homework-check-sb-u2-look-back-01-key.md"
+      "answer_key": "7/sb-u2-self-check/homework-check-sb-u2-look-back-01-key.md",
+      "pdf": "7/sb-u2-self-check/homework-check-sb-u2-look-back-01.pdf",
+      "answer_key_pdf": "7/sb-u2-self-check/homework-check-sb-u2-look-back-01-key.pdf"
     },
     {
       "id": "7-sb-u2-reading-homework-01",
@@ -1476,7 +1802,9 @@
       "assessment_lesson": "7/sb-u2-grammar/index.html",
       "json": "7/sb-u2-grammar/homework-check-sb-u2-reading-01.json",
       "markdown": "7/sb-u2-grammar/homework-check-sb-u2-reading-01.md",
-      "answer_key": "7/sb-u2-grammar/homework-check-sb-u2-reading-01-key.md"
+      "answer_key": "7/sb-u2-grammar/homework-check-sb-u2-reading-01-key.md",
+      "pdf": "7/sb-u2-grammar/homework-check-sb-u2-reading-01.pdf",
+      "answer_key_pdf": "7/sb-u2-grammar/homework-check-sb-u2-reading-01-key.pdf"
     },
     {
       "id": "7-sb-u2-self-check-homework-01",
@@ -1485,7 +1813,9 @@
       "assessment_lesson": "7/sb-u3-lead-in/index.html",
       "json": "7/sb-u3-lead-in/homework-check-sb-u2-self-check-01.json",
       "markdown": "7/sb-u3-lead-in/homework-check-sb-u2-self-check-01.md",
-      "answer_key": "7/sb-u3-lead-in/homework-check-sb-u2-self-check-01-key.md"
+      "answer_key": "7/sb-u3-lead-in/homework-check-sb-u2-self-check-01-key.md",
+      "pdf": "7/sb-u3-lead-in/homework-check-sb-u2-self-check-01.pdf",
+      "answer_key_pdf": "7/sb-u3-lead-in/homework-check-sb-u2-self-check-01-key.pdf"
     },
     {
       "id": "7-sb-u2-speaking-homework-01",
@@ -1494,7 +1824,9 @@
       "assessment_lesson": "7/sb-u2-writing/index.html",
       "json": "7/sb-u2-writing/homework-check-sb-u2-speaking-01.json",
       "markdown": "7/sb-u2-writing/homework-check-sb-u2-speaking-01.md",
-      "answer_key": "7/sb-u2-writing/homework-check-sb-u2-speaking-01-key.md"
+      "answer_key": "7/sb-u2-writing/homework-check-sb-u2-speaking-01-key.md",
+      "pdf": "7/sb-u2-writing/homework-check-sb-u2-speaking-01.pdf",
+      "answer_key_pdf": "7/sb-u2-writing/homework-check-sb-u2-speaking-01-key.pdf"
     },
     {
       "id": "7-sb-u2-vocabulary-homework-01",
@@ -1503,7 +1835,9 @@
       "assessment_lesson": "7/sb-u2-reading/index.html",
       "json": "7/sb-u2-reading/homework-check-sb-u2-vocabulary-01.json",
       "markdown": "7/sb-u2-reading/homework-check-sb-u2-vocabulary-01.md",
-      "answer_key": "7/sb-u2-reading/homework-check-sb-u2-vocabulary-01-key.md"
+      "answer_key": "7/sb-u2-reading/homework-check-sb-u2-vocabulary-01-key.md",
+      "pdf": "7/sb-u2-reading/homework-check-sb-u2-vocabulary-01.pdf",
+      "answer_key_pdf": "7/sb-u2-reading/homework-check-sb-u2-vocabulary-01-key.pdf"
     },
     {
       "id": "7-sb-u2-vocabulary-2-homework-01",
@@ -1512,7 +1846,9 @@
       "assessment_lesson": "7/sb-u2-grammar-2/index.html",
       "json": "7/sb-u2-grammar-2/homework-check-sb-u2-vocabulary-2-01.json",
       "markdown": "7/sb-u2-grammar-2/homework-check-sb-u2-vocabulary-2-01.md",
-      "answer_key": "7/sb-u2-grammar-2/homework-check-sb-u2-vocabulary-2-01-key.md"
+      "answer_key": "7/sb-u2-grammar-2/homework-check-sb-u2-vocabulary-2-01-key.md",
+      "pdf": "7/sb-u2-grammar-2/homework-check-sb-u2-vocabulary-2-01.pdf",
+      "answer_key_pdf": "7/sb-u2-grammar-2/homework-check-sb-u2-vocabulary-2-01-key.pdf"
     },
     {
       "id": "7-sb-u2-writing-homework-01",
@@ -1521,7 +1857,9 @@
       "assessment_lesson": "7/sb-u2-look-back/index.html",
       "json": "7/sb-u2-look-back/homework-check-sb-u2-writing-01.json",
       "markdown": "7/sb-u2-look-back/homework-check-sb-u2-writing-01.md",
-      "answer_key": "7/sb-u2-look-back/homework-check-sb-u2-writing-01-key.md"
+      "answer_key": "7/sb-u2-look-back/homework-check-sb-u2-writing-01-key.md",
+      "pdf": "7/sb-u2-look-back/homework-check-sb-u2-writing-01.pdf",
+      "answer_key_pdf": "7/sb-u2-look-back/homework-check-sb-u2-writing-01-key.pdf"
     },
     {
       "id": "7-sb-u3-blog-homework-01",
@@ -1530,7 +1868,9 @@
       "assessment_lesson": "7/sb-u3-vocabulary/index.html",
       "json": "7/sb-u3-vocabulary/homework-check-sb-u3-blog-01.json",
       "markdown": "7/sb-u3-vocabulary/homework-check-sb-u3-blog-01.md",
-      "answer_key": "7/sb-u3-vocabulary/homework-check-sb-u3-blog-01-key.md"
+      "answer_key": "7/sb-u3-vocabulary/homework-check-sb-u3-blog-01-key.md",
+      "pdf": "7/sb-u3-vocabulary/homework-check-sb-u3-blog-01.pdf",
+      "answer_key_pdf": "7/sb-u3-vocabulary/homework-check-sb-u3-blog-01-key.pdf"
     },
     {
       "id": "7-sb-u3-grammar-homework-01",
@@ -1539,7 +1879,9 @@
       "assessment_lesson": "7/sb-u3-listening/index.html",
       "json": "7/sb-u3-listening/homework-check-sb-u3-grammar-01.json",
       "markdown": "7/sb-u3-listening/homework-check-sb-u3-grammar-01.md",
-      "answer_key": "7/sb-u3-listening/homework-check-sb-u3-grammar-01-key.md"
+      "answer_key": "7/sb-u3-listening/homework-check-sb-u3-grammar-01-key.md",
+      "pdf": "7/sb-u3-listening/homework-check-sb-u3-grammar-01.pdf",
+      "answer_key_pdf": "7/sb-u3-listening/homework-check-sb-u3-grammar-01-key.pdf"
     },
     {
       "id": "7-sb-u3-grammar-2-homework-01",
@@ -1548,7 +1890,9 @@
       "assessment_lesson": "7/sb-u3-speaking/index.html",
       "json": "7/sb-u3-speaking/homework-check-sb-u3-grammar-2-01.json",
       "markdown": "7/sb-u3-speaking/homework-check-sb-u3-grammar-2-01.md",
-      "answer_key": "7/sb-u3-speaking/homework-check-sb-u3-grammar-2-01-key.md"
+      "answer_key": "7/sb-u3-speaking/homework-check-sb-u3-grammar-2-01-key.md",
+      "pdf": "7/sb-u3-speaking/homework-check-sb-u3-grammar-2-01.pdf",
+      "answer_key_pdf": "7/sb-u3-speaking/homework-check-sb-u3-grammar-2-01-key.pdf"
     },
     {
       "id": "7-sb-u3-lead-in-homework-01",
@@ -1557,7 +1901,9 @@
       "assessment_lesson": "7/sb-u3-blog/index.html",
       "json": "7/sb-u3-blog/homework-check-sb-u3-lead-in-01.json",
       "markdown": "7/sb-u3-blog/homework-check-sb-u3-lead-in-01.md",
-      "answer_key": "7/sb-u3-blog/homework-check-sb-u3-lead-in-01-key.md"
+      "answer_key": "7/sb-u3-blog/homework-check-sb-u3-lead-in-01-key.md",
+      "pdf": "7/sb-u3-blog/homework-check-sb-u3-lead-in-01.pdf",
+      "answer_key_pdf": "7/sb-u3-blog/homework-check-sb-u3-lead-in-01-key.pdf"
     },
     {
       "id": "7-sb-u3-listening-homework-01",
@@ -1566,7 +1912,9 @@
       "assessment_lesson": "7/sb-u3-vocabulary-2/index.html",
       "json": "7/sb-u3-vocabulary-2/homework-check-sb-u3-listening-01.json",
       "markdown": "7/sb-u3-vocabulary-2/homework-check-sb-u3-listening-01.md",
-      "answer_key": "7/sb-u3-vocabulary-2/homework-check-sb-u3-listening-01-key.md"
+      "answer_key": "7/sb-u3-vocabulary-2/homework-check-sb-u3-listening-01-key.md",
+      "pdf": "7/sb-u3-vocabulary-2/homework-check-sb-u3-listening-01.pdf",
+      "answer_key_pdf": "7/sb-u3-vocabulary-2/homework-check-sb-u3-listening-01-key.pdf"
     },
     {
       "id": "7-sb-u3-look-back-homework-01",
@@ -1575,7 +1923,9 @@
       "assessment_lesson": "7/sb-u3-self-check/index.html",
       "json": "7/sb-u3-self-check/homework-check-sb-u3-look-back-01.json",
       "markdown": "7/sb-u3-self-check/homework-check-sb-u3-look-back-01.md",
-      "answer_key": "7/sb-u3-self-check/homework-check-sb-u3-look-back-01-key.md"
+      "answer_key": "7/sb-u3-self-check/homework-check-sb-u3-look-back-01-key.md",
+      "pdf": "7/sb-u3-self-check/homework-check-sb-u3-look-back-01.pdf",
+      "answer_key_pdf": "7/sb-u3-self-check/homework-check-sb-u3-look-back-01-key.pdf"
     },
     {
       "id": "7-sb-u3-reading-homework-01",
@@ -1584,7 +1934,9 @@
       "assessment_lesson": "7/sb-u3-grammar/index.html",
       "json": "7/sb-u3-grammar/homework-check-sb-u3-reading-01.json",
       "markdown": "7/sb-u3-grammar/homework-check-sb-u3-reading-01.md",
-      "answer_key": "7/sb-u3-grammar/homework-check-sb-u3-reading-01-key.md"
+      "answer_key": "7/sb-u3-grammar/homework-check-sb-u3-reading-01-key.md",
+      "pdf": "7/sb-u3-grammar/homework-check-sb-u3-reading-01.pdf",
+      "answer_key_pdf": "7/sb-u3-grammar/homework-check-sb-u3-reading-01-key.pdf"
     },
     {
       "id": "7-sb-u3-self-check-homework-01",
@@ -1593,7 +1945,9 @@
       "assessment_lesson": "7/sb-u4-lead-in/index.html",
       "json": "7/sb-u4-lead-in/homework-check-sb-u3-self-check-01.json",
       "markdown": "7/sb-u4-lead-in/homework-check-sb-u3-self-check-01.md",
-      "answer_key": "7/sb-u4-lead-in/homework-check-sb-u3-self-check-01-key.md"
+      "answer_key": "7/sb-u4-lead-in/homework-check-sb-u3-self-check-01-key.md",
+      "pdf": "7/sb-u4-lead-in/homework-check-sb-u3-self-check-01.pdf",
+      "answer_key_pdf": "7/sb-u4-lead-in/homework-check-sb-u3-self-check-01-key.pdf"
     },
     {
       "id": "7-sb-u3-speaking-homework-01",
@@ -1602,7 +1956,9 @@
       "assessment_lesson": "7/sb-u3-writing/index.html",
       "json": "7/sb-u3-writing/homework-check-sb-u3-speaking-01.json",
       "markdown": "7/sb-u3-writing/homework-check-sb-u3-speaking-01.md",
-      "answer_key": "7/sb-u3-writing/homework-check-sb-u3-speaking-01-key.md"
+      "answer_key": "7/sb-u3-writing/homework-check-sb-u3-speaking-01-key.md",
+      "pdf": "7/sb-u3-writing/homework-check-sb-u3-speaking-01.pdf",
+      "answer_key_pdf": "7/sb-u3-writing/homework-check-sb-u3-speaking-01-key.pdf"
     },
     {
       "id": "7-sb-u3-vocabulary-homework-01",
@@ -1611,7 +1967,9 @@
       "assessment_lesson": "7/sb-u3-reading/index.html",
       "json": "7/sb-u3-reading/homework-check-sb-u3-vocabulary-01.json",
       "markdown": "7/sb-u3-reading/homework-check-sb-u3-vocabulary-01.md",
-      "answer_key": "7/sb-u3-reading/homework-check-sb-u3-vocabulary-01-key.md"
+      "answer_key": "7/sb-u3-reading/homework-check-sb-u3-vocabulary-01-key.md",
+      "pdf": "7/sb-u3-reading/homework-check-sb-u3-vocabulary-01.pdf",
+      "answer_key_pdf": "7/sb-u3-reading/homework-check-sb-u3-vocabulary-01-key.pdf"
     },
     {
       "id": "7-sb-u3-vocabulary-2-homework-01",
@@ -1620,7 +1978,9 @@
       "assessment_lesson": "7/sb-u3-grammar-2/index.html",
       "json": "7/sb-u3-grammar-2/homework-check-sb-u3-vocabulary-2-01.json",
       "markdown": "7/sb-u3-grammar-2/homework-check-sb-u3-vocabulary-2-01.md",
-      "answer_key": "7/sb-u3-grammar-2/homework-check-sb-u3-vocabulary-2-01-key.md"
+      "answer_key": "7/sb-u3-grammar-2/homework-check-sb-u3-vocabulary-2-01-key.md",
+      "pdf": "7/sb-u3-grammar-2/homework-check-sb-u3-vocabulary-2-01.pdf",
+      "answer_key_pdf": "7/sb-u3-grammar-2/homework-check-sb-u3-vocabulary-2-01-key.pdf"
     },
     {
       "id": "7-sb-u3-writing-homework-01",
@@ -1629,7 +1989,9 @@
       "assessment_lesson": "7/sb-u3-look-back/index.html",
       "json": "7/sb-u3-look-back/homework-check-sb-u3-writing-01.json",
       "markdown": "7/sb-u3-look-back/homework-check-sb-u3-writing-01.md",
-      "answer_key": "7/sb-u3-look-back/homework-check-sb-u3-writing-01-key.md"
+      "answer_key": "7/sb-u3-look-back/homework-check-sb-u3-writing-01-key.md",
+      "pdf": "7/sb-u3-look-back/homework-check-sb-u3-writing-01.pdf",
+      "answer_key_pdf": "7/sb-u3-look-back/homework-check-sb-u3-writing-01-key.pdf"
     },
     {
       "id": "7-sb-u4-blog-homework-01",
@@ -1638,7 +2000,9 @@
       "assessment_lesson": "7/sb-u4-vocabulary/index.html",
       "json": "7/sb-u4-vocabulary/homework-check-sb-u4-blog-01.json",
       "markdown": "7/sb-u4-vocabulary/homework-check-sb-u4-blog-01.md",
-      "answer_key": "7/sb-u4-vocabulary/homework-check-sb-u4-blog-01-key.md"
+      "answer_key": "7/sb-u4-vocabulary/homework-check-sb-u4-blog-01-key.md",
+      "pdf": "7/sb-u4-vocabulary/homework-check-sb-u4-blog-01.pdf",
+      "answer_key_pdf": "7/sb-u4-vocabulary/homework-check-sb-u4-blog-01-key.pdf"
     },
     {
       "id": "7-sb-u4-grammar-homework-01",
@@ -1647,7 +2011,9 @@
       "assessment_lesson": "7/sb-u4-listening/index.html",
       "json": "7/sb-u4-listening/homework-check-sb-u4-grammar-01.json",
       "markdown": "7/sb-u4-listening/homework-check-sb-u4-grammar-01.md",
-      "answer_key": "7/sb-u4-listening/homework-check-sb-u4-grammar-01-key.md"
+      "answer_key": "7/sb-u4-listening/homework-check-sb-u4-grammar-01-key.md",
+      "pdf": "7/sb-u4-listening/homework-check-sb-u4-grammar-01.pdf",
+      "answer_key_pdf": "7/sb-u4-listening/homework-check-sb-u4-grammar-01-key.pdf"
     },
     {
       "id": "7-sb-u4-grammar-2-homework-01",
@@ -1656,7 +2022,9 @@
       "assessment_lesson": "7/sb-u4-speaking/index.html",
       "json": "7/sb-u4-speaking/homework-check-sb-u4-grammar-2-01.json",
       "markdown": "7/sb-u4-speaking/homework-check-sb-u4-grammar-2-01.md",
-      "answer_key": "7/sb-u4-speaking/homework-check-sb-u4-grammar-2-01-key.md"
+      "answer_key": "7/sb-u4-speaking/homework-check-sb-u4-grammar-2-01-key.md",
+      "pdf": "7/sb-u4-speaking/homework-check-sb-u4-grammar-2-01.pdf",
+      "answer_key_pdf": "7/sb-u4-speaking/homework-check-sb-u4-grammar-2-01-key.pdf"
     },
     {
       "id": "7-sb-u4-lead-in-homework-01",
@@ -1665,7 +2033,9 @@
       "assessment_lesson": "7/sb-u4-blog/index.html",
       "json": "7/sb-u4-blog/homework-check-sb-u4-lead-in-01.json",
       "markdown": "7/sb-u4-blog/homework-check-sb-u4-lead-in-01.md",
-      "answer_key": "7/sb-u4-blog/homework-check-sb-u4-lead-in-01-key.md"
+      "answer_key": "7/sb-u4-blog/homework-check-sb-u4-lead-in-01-key.md",
+      "pdf": "7/sb-u4-blog/homework-check-sb-u4-lead-in-01.pdf",
+      "answer_key_pdf": "7/sb-u4-blog/homework-check-sb-u4-lead-in-01-key.pdf"
     },
     {
       "id": "7-sb-u4-listening-homework-01",
@@ -1674,7 +2044,9 @@
       "assessment_lesson": "7/sb-u4-vocabulary-2/index.html",
       "json": "7/sb-u4-vocabulary-2/homework-check-sb-u4-listening-01.json",
       "markdown": "7/sb-u4-vocabulary-2/homework-check-sb-u4-listening-01.md",
-      "answer_key": "7/sb-u4-vocabulary-2/homework-check-sb-u4-listening-01-key.md"
+      "answer_key": "7/sb-u4-vocabulary-2/homework-check-sb-u4-listening-01-key.md",
+      "pdf": "7/sb-u4-vocabulary-2/homework-check-sb-u4-listening-01.pdf",
+      "answer_key_pdf": "7/sb-u4-vocabulary-2/homework-check-sb-u4-listening-01-key.pdf"
     },
     {
       "id": "7-sb-u4-look-back-homework-01",
@@ -1683,7 +2055,9 @@
       "assessment_lesson": "7/sb-u4-self-check/index.html",
       "json": "7/sb-u4-self-check/homework-check-sb-u4-look-back-01.json",
       "markdown": "7/sb-u4-self-check/homework-check-sb-u4-look-back-01.md",
-      "answer_key": "7/sb-u4-self-check/homework-check-sb-u4-look-back-01-key.md"
+      "answer_key": "7/sb-u4-self-check/homework-check-sb-u4-look-back-01-key.md",
+      "pdf": "7/sb-u4-self-check/homework-check-sb-u4-look-back-01.pdf",
+      "answer_key_pdf": "7/sb-u4-self-check/homework-check-sb-u4-look-back-01-key.pdf"
     },
     {
       "id": "7-sb-u4-reading-homework-01",
@@ -1692,7 +2066,9 @@
       "assessment_lesson": "7/sb-u4-grammar/index.html",
       "json": "7/sb-u4-grammar/homework-check-sb-u4-reading-01.json",
       "markdown": "7/sb-u4-grammar/homework-check-sb-u4-reading-01.md",
-      "answer_key": "7/sb-u4-grammar/homework-check-sb-u4-reading-01-key.md"
+      "answer_key": "7/sb-u4-grammar/homework-check-sb-u4-reading-01-key.md",
+      "pdf": "7/sb-u4-grammar/homework-check-sb-u4-reading-01.pdf",
+      "answer_key_pdf": "7/sb-u4-grammar/homework-check-sb-u4-reading-01-key.pdf"
     },
     {
       "id": "7-sb-u4-self-check-homework-01",
@@ -1701,7 +2077,9 @@
       "assessment_lesson": "7/sb-u5-lead-in/index.html",
       "json": "7/sb-u5-lead-in/homework-check-sb-u4-self-check-01.json",
       "markdown": "7/sb-u5-lead-in/homework-check-sb-u4-self-check-01.md",
-      "answer_key": "7/sb-u5-lead-in/homework-check-sb-u4-self-check-01-key.md"
+      "answer_key": "7/sb-u5-lead-in/homework-check-sb-u4-self-check-01-key.md",
+      "pdf": "7/sb-u5-lead-in/homework-check-sb-u4-self-check-01.pdf",
+      "answer_key_pdf": "7/sb-u5-lead-in/homework-check-sb-u4-self-check-01-key.pdf"
     },
     {
       "id": "7-sb-u4-speaking-homework-01",
@@ -1710,7 +2088,9 @@
       "assessment_lesson": "7/sb-u4-writing/index.html",
       "json": "7/sb-u4-writing/homework-check-sb-u4-speaking-01.json",
       "markdown": "7/sb-u4-writing/homework-check-sb-u4-speaking-01.md",
-      "answer_key": "7/sb-u4-writing/homework-check-sb-u4-speaking-01-key.md"
+      "answer_key": "7/sb-u4-writing/homework-check-sb-u4-speaking-01-key.md",
+      "pdf": "7/sb-u4-writing/homework-check-sb-u4-speaking-01.pdf",
+      "answer_key_pdf": "7/sb-u4-writing/homework-check-sb-u4-speaking-01-key.pdf"
     },
     {
       "id": "7-sb-u4-vocabulary-homework-01",
@@ -1719,7 +2099,9 @@
       "assessment_lesson": "7/sb-u4-reading/index.html",
       "json": "7/sb-u4-reading/homework-check-sb-u4-vocabulary-01.json",
       "markdown": "7/sb-u4-reading/homework-check-sb-u4-vocabulary-01.md",
-      "answer_key": "7/sb-u4-reading/homework-check-sb-u4-vocabulary-01-key.md"
+      "answer_key": "7/sb-u4-reading/homework-check-sb-u4-vocabulary-01-key.md",
+      "pdf": "7/sb-u4-reading/homework-check-sb-u4-vocabulary-01.pdf",
+      "answer_key_pdf": "7/sb-u4-reading/homework-check-sb-u4-vocabulary-01-key.pdf"
     },
     {
       "id": "7-sb-u4-vocabulary-2-homework-01",
@@ -1728,7 +2110,9 @@
       "assessment_lesson": "7/sb-u4-grammar-2/index.html",
       "json": "7/sb-u4-grammar-2/homework-check-sb-u4-vocabulary-2-01.json",
       "markdown": "7/sb-u4-grammar-2/homework-check-sb-u4-vocabulary-2-01.md",
-      "answer_key": "7/sb-u4-grammar-2/homework-check-sb-u4-vocabulary-2-01-key.md"
+      "answer_key": "7/sb-u4-grammar-2/homework-check-sb-u4-vocabulary-2-01-key.md",
+      "pdf": "7/sb-u4-grammar-2/homework-check-sb-u4-vocabulary-2-01.pdf",
+      "answer_key_pdf": "7/sb-u4-grammar-2/homework-check-sb-u4-vocabulary-2-01-key.pdf"
     },
     {
       "id": "7-sb-u4-writing-homework-01",
@@ -1737,7 +2121,9 @@
       "assessment_lesson": "7/sb-u4-look-back/index.html",
       "json": "7/sb-u4-look-back/homework-check-sb-u4-writing-01.json",
       "markdown": "7/sb-u4-look-back/homework-check-sb-u4-writing-01.md",
-      "answer_key": "7/sb-u4-look-back/homework-check-sb-u4-writing-01-key.md"
+      "answer_key": "7/sb-u4-look-back/homework-check-sb-u4-writing-01-key.md",
+      "pdf": "7/sb-u4-look-back/homework-check-sb-u4-writing-01.pdf",
+      "answer_key_pdf": "7/sb-u4-look-back/homework-check-sb-u4-writing-01-key.pdf"
     },
     {
       "id": "7-school-special-days-homework-01",
@@ -1746,7 +2132,9 @@
       "assessment_lesson": "7/now-or-usually/index.html",
       "json": "7/now-or-usually/homework-check-school-special-days-01.json",
       "markdown": "7/now-or-usually/homework-check-school-special-days-01.md",
-      "answer_key": "7/now-or-usually/homework-check-school-special-days-01-key.md"
+      "answer_key": "7/now-or-usually/homework-check-school-special-days-01-key.md",
+      "pdf": "7/now-or-usually/homework-check-school-special-days-01.pdf",
+      "answer_key_pdf": "7/now-or-usually/homework-check-school-special-days-01-key.pdf"
     },
     {
       "id": "7-sharing-chores-homework-01",
@@ -1755,7 +2143,9 @@
       "assessment_lesson": "7/past-simple-questions/index.html",
       "json": "7/past-simple-questions/homework-check-sharing-chores-01.json",
       "markdown": "7/past-simple-questions/homework-check-sharing-chores-01.md",
-      "answer_key": "7/past-simple-questions/homework-check-sharing-chores-01-key.md"
+      "answer_key": "7/past-simple-questions/homework-check-sharing-chores-01-key.md",
+      "pdf": "7/past-simple-questions/homework-check-sharing-chores-01.pdf",
+      "answer_key_pdf": "7/past-simple-questions/homework-check-sharing-chores-01-key.pdf"
     },
     {
       "id": "7-sb-grammar-homework-01",
@@ -1764,7 +2154,9 @@
       "assessment_lesson": "7/sb-grammar/index.html",
       "json": "7/sb-grammar/homework-check-sb-grammar-01.json",
       "markdown": "7/sb-grammar/homework-check-sb-grammar-01.md",
-      "answer_key": "7/sb-grammar/homework-check-sb-grammar-01-key.md"
+      "answer_key": "7/sb-grammar/homework-check-sb-grammar-01-key.md",
+      "pdf": "7/sb-grammar/homework-check-sb-grammar-01.pdf",
+      "answer_key_pdf": "7/sb-grammar/homework-check-sb-grammar-01-key.pdf"
     },
     {
       "id": "7-sb-wordlist-homework-01",
@@ -1773,7 +2165,9 @@
       "assessment_lesson": "7/sb-wordlist/index.html",
       "json": "7/sb-wordlist/homework-check-sb-wordlist-01.json",
       "markdown": "7/sb-wordlist/homework-check-sb-wordlist-01.md",
-      "answer_key": "7/sb-wordlist/homework-check-sb-wordlist-01-key.md"
+      "answer_key": "7/sb-wordlist/homework-check-sb-wordlist-01-key.md",
+      "pdf": "7/sb-wordlist/homework-check-sb-wordlist-01.pdf",
+      "answer_key_pdf": "7/sb-wordlist/homework-check-sb-wordlist-01-key.pdf"
     },
     {
       "id": "7-sb-wordlist-homework-02",
@@ -1782,7 +2176,9 @@
       "assessment_lesson": "7/sb-wordlist/index.html",
       "json": "7/sb-wordlist/homework-check-sb-wordlist-02.json",
       "markdown": "7/sb-wordlist/homework-check-sb-wordlist-02.md",
-      "answer_key": "7/sb-wordlist/homework-check-sb-wordlist-02-key.md"
+      "answer_key": "7/sb-wordlist/homework-check-sb-wordlist-02-key.md",
+      "pdf": "7/sb-wordlist/homework-check-sb-wordlist-02.pdf",
+      "answer_key_pdf": "7/sb-wordlist/homework-check-sb-wordlist-02-key.pdf"
     },
     {
       "id": "7-sb-wordlist-homework-03",
@@ -1791,7 +2187,9 @@
       "assessment_lesson": "7/sb-wordlist/index.html",
       "json": "7/sb-wordlist/homework-check-sb-wordlist-03.json",
       "markdown": "7/sb-wordlist/homework-check-sb-wordlist-03.md",
-      "answer_key": "7/sb-wordlist/homework-check-sb-wordlist-03-key.md"
+      "answer_key": "7/sb-wordlist/homework-check-sb-wordlist-03-key.md",
+      "pdf": "7/sb-wordlist/homework-check-sb-wordlist-03.pdf",
+      "answer_key_pdf": "7/sb-wordlist/homework-check-sb-wordlist-03-key.pdf"
     },
     {
       "id": "7-sb-wordlist-homework-04",
@@ -1800,7 +2198,9 @@
       "assessment_lesson": "7/sb-wordlist/index.html",
       "json": "7/sb-wordlist/homework-check-sb-wordlist-04.json",
       "markdown": "7/sb-wordlist/homework-check-sb-wordlist-04.md",
-      "answer_key": "7/sb-wordlist/homework-check-sb-wordlist-04-key.md"
+      "answer_key": "7/sb-wordlist/homework-check-sb-wordlist-04-key.md",
+      "pdf": "7/sb-wordlist/homework-check-sb-wordlist-04.pdf",
+      "answer_key_pdf": "7/sb-wordlist/homework-check-sb-wordlist-04-key.pdf"
     },
     {
       "id": "7-sb-wordlist-homework-05",
@@ -1809,7 +2209,9 @@
       "assessment_lesson": "7/sb-wordlist/index.html",
       "json": "7/sb-wordlist/homework-check-sb-wordlist-05.json",
       "markdown": "7/sb-wordlist/homework-check-sb-wordlist-05.md",
-      "answer_key": "7/sb-wordlist/homework-check-sb-wordlist-05-key.md"
+      "answer_key": "7/sb-wordlist/homework-check-sb-wordlist-05-key.md",
+      "pdf": "7/sb-wordlist/homework-check-sb-wordlist-05.pdf",
+      "answer_key_pdf": "7/sb-wordlist/homework-check-sb-wordlist-05-key.pdf"
     },
     {
       "id": "7-sb-wordlist-homework-06",
@@ -1818,7 +2220,9 @@
       "assessment_lesson": "7/sb-wordlist/index.html",
       "json": "7/sb-wordlist/homework-check-sb-wordlist-06.json",
       "markdown": "7/sb-wordlist/homework-check-sb-wordlist-06.md",
-      "answer_key": "7/sb-wordlist/homework-check-sb-wordlist-06-key.md"
+      "answer_key": "7/sb-wordlist/homework-check-sb-wordlist-06-key.md",
+      "pdf": "7/sb-wordlist/homework-check-sb-wordlist-06.pdf",
+      "answer_key_pdf": "7/sb-wordlist/homework-check-sb-wordlist-06-key.pdf"
     },
     {
       "id": "7-sb-wordlist-homework-07",
@@ -1827,7 +2231,9 @@
       "assessment_lesson": "7/sb-wordlist/index.html",
       "json": "7/sb-wordlist/homework-check-sb-wordlist-07.json",
       "markdown": "7/sb-wordlist/homework-check-sb-wordlist-07.md",
-      "answer_key": "7/sb-wordlist/homework-check-sb-wordlist-07-key.md"
+      "answer_key": "7/sb-wordlist/homework-check-sb-wordlist-07-key.md",
+      "pdf": "7/sb-wordlist/homework-check-sb-wordlist-07.pdf",
+      "answer_key_pdf": "7/sb-wordlist/homework-check-sb-wordlist-07-key.pdf"
     },
     {
       "id": "7-sb-wordlist-homework-08",
@@ -1836,7 +2242,9 @@
       "assessment_lesson": "7/sb-wordlist/index.html",
       "json": "7/sb-wordlist/homework-check-sb-wordlist-08.json",
       "markdown": "7/sb-wordlist/homework-check-sb-wordlist-08.md",
-      "answer_key": "7/sb-wordlist/homework-check-sb-wordlist-08-key.md"
+      "answer_key": "7/sb-wordlist/homework-check-sb-wordlist-08-key.md",
+      "pdf": "7/sb-wordlist/homework-check-sb-wordlist-08.pdf",
+      "answer_key_pdf": "7/sb-wordlist/homework-check-sb-wordlist-08-key.pdf"
     },
     {
       "id": "9-sb-u5-blog-homework-01",
@@ -1845,7 +2253,9 @@
       "assessment_lesson": "9/sb-u5-vocabulary/index.html",
       "json": "9/sb-u5-vocabulary/homework-check-sb-u5-blog-01.json",
       "markdown": "9/sb-u5-vocabulary/homework-check-sb-u5-blog-01.md",
-      "answer_key": "9/sb-u5-vocabulary/homework-check-sb-u5-blog-01-key.md"
+      "answer_key": "9/sb-u5-vocabulary/homework-check-sb-u5-blog-01-key.md",
+      "pdf": "9/sb-u5-vocabulary/homework-check-sb-u5-blog-01.pdf",
+      "answer_key_pdf": "9/sb-u5-vocabulary/homework-check-sb-u5-blog-01-key.pdf"
     },
     {
       "id": "9-sb-u5-grammar-homework-01",
@@ -1854,7 +2264,9 @@
       "assessment_lesson": "9/sb-u5-listening/index.html",
       "json": "9/sb-u5-listening/homework-check-sb-u5-grammar-01.json",
       "markdown": "9/sb-u5-listening/homework-check-sb-u5-grammar-01.md",
-      "answer_key": "9/sb-u5-listening/homework-check-sb-u5-grammar-01-key.md"
+      "answer_key": "9/sb-u5-listening/homework-check-sb-u5-grammar-01-key.md",
+      "pdf": "9/sb-u5-listening/homework-check-sb-u5-grammar-01.pdf",
+      "answer_key_pdf": "9/sb-u5-listening/homework-check-sb-u5-grammar-01-key.pdf"
     },
     {
       "id": "9-sb-u5-grammar-2-homework-01",
@@ -1863,7 +2275,9 @@
       "assessment_lesson": "9/sb-u5-speaking/index.html",
       "json": "9/sb-u5-speaking/homework-check-sb-u5-grammar-2-01.json",
       "markdown": "9/sb-u5-speaking/homework-check-sb-u5-grammar-2-01.md",
-      "answer_key": "9/sb-u5-speaking/homework-check-sb-u5-grammar-2-01-key.md"
+      "answer_key": "9/sb-u5-speaking/homework-check-sb-u5-grammar-2-01-key.md",
+      "pdf": "9/sb-u5-speaking/homework-check-sb-u5-grammar-2-01.pdf",
+      "answer_key_pdf": "9/sb-u5-speaking/homework-check-sb-u5-grammar-2-01-key.pdf"
     },
     {
       "id": "9-sb-u5-lead-in-homework-01",
@@ -1872,7 +2286,9 @@
       "assessment_lesson": "9/sb-u5-blog/index.html",
       "json": "9/sb-u5-blog/homework-check-sb-u5-lead-in-01.json",
       "markdown": "9/sb-u5-blog/homework-check-sb-u5-lead-in-01.md",
-      "answer_key": "9/sb-u5-blog/homework-check-sb-u5-lead-in-01-key.md"
+      "answer_key": "9/sb-u5-blog/homework-check-sb-u5-lead-in-01-key.md",
+      "pdf": "9/sb-u5-blog/homework-check-sb-u5-lead-in-01.pdf",
+      "answer_key_pdf": "9/sb-u5-blog/homework-check-sb-u5-lead-in-01-key.pdf"
     },
     {
       "id": "9-sb-u5-listening-homework-01",
@@ -1881,7 +2297,9 @@
       "assessment_lesson": "9/sb-u5-vocabulary-2/index.html",
       "json": "9/sb-u5-vocabulary-2/homework-check-sb-u5-listening-01.json",
       "markdown": "9/sb-u5-vocabulary-2/homework-check-sb-u5-listening-01.md",
-      "answer_key": "9/sb-u5-vocabulary-2/homework-check-sb-u5-listening-01-key.md"
+      "answer_key": "9/sb-u5-vocabulary-2/homework-check-sb-u5-listening-01-key.md",
+      "pdf": "9/sb-u5-vocabulary-2/homework-check-sb-u5-listening-01.pdf",
+      "answer_key_pdf": "9/sb-u5-vocabulary-2/homework-check-sb-u5-listening-01-key.pdf"
     },
     {
       "id": "9-sb-u5-look-back-homework-01",
@@ -1890,7 +2308,9 @@
       "assessment_lesson": "9/sb-u5-self-check/index.html",
       "json": "9/sb-u5-self-check/homework-check-sb-u5-look-back-01.json",
       "markdown": "9/sb-u5-self-check/homework-check-sb-u5-look-back-01.md",
-      "answer_key": "9/sb-u5-self-check/homework-check-sb-u5-look-back-01-key.md"
+      "answer_key": "9/sb-u5-self-check/homework-check-sb-u5-look-back-01-key.md",
+      "pdf": "9/sb-u5-self-check/homework-check-sb-u5-look-back-01.pdf",
+      "answer_key_pdf": "9/sb-u5-self-check/homework-check-sb-u5-look-back-01-key.pdf"
     },
     {
       "id": "9-sb-u5-reading-homework-01",
@@ -1899,7 +2319,9 @@
       "assessment_lesson": "9/sb-u5-grammar/index.html",
       "json": "9/sb-u5-grammar/homework-check-sb-u5-reading-01.json",
       "markdown": "9/sb-u5-grammar/homework-check-sb-u5-reading-01.md",
-      "answer_key": "9/sb-u5-grammar/homework-check-sb-u5-reading-01-key.md"
+      "answer_key": "9/sb-u5-grammar/homework-check-sb-u5-reading-01-key.md",
+      "pdf": "9/sb-u5-grammar/homework-check-sb-u5-reading-01.pdf",
+      "answer_key_pdf": "9/sb-u5-grammar/homework-check-sb-u5-reading-01-key.pdf"
     },
     {
       "id": "9-sb-u5-self-check-homework-01",
@@ -1908,7 +2330,9 @@
       "assessment_lesson": "9/sb-u6-lead-in/index.html",
       "json": "9/sb-u6-lead-in/homework-check-sb-u5-self-check-01.json",
       "markdown": "9/sb-u6-lead-in/homework-check-sb-u5-self-check-01.md",
-      "answer_key": "9/sb-u6-lead-in/homework-check-sb-u5-self-check-01-key.md"
+      "answer_key": "9/sb-u6-lead-in/homework-check-sb-u5-self-check-01-key.md",
+      "pdf": "9/sb-u6-lead-in/homework-check-sb-u5-self-check-01.pdf",
+      "answer_key_pdf": "9/sb-u6-lead-in/homework-check-sb-u5-self-check-01-key.pdf"
     },
     {
       "id": "9-sb-u5-speaking-homework-01",
@@ -1917,7 +2341,9 @@
       "assessment_lesson": "9/sb-u5-writing/index.html",
       "json": "9/sb-u5-writing/homework-check-sb-u5-speaking-01.json",
       "markdown": "9/sb-u5-writing/homework-check-sb-u5-speaking-01.md",
-      "answer_key": "9/sb-u5-writing/homework-check-sb-u5-speaking-01-key.md"
+      "answer_key": "9/sb-u5-writing/homework-check-sb-u5-speaking-01-key.md",
+      "pdf": "9/sb-u5-writing/homework-check-sb-u5-speaking-01.pdf",
+      "answer_key_pdf": "9/sb-u5-writing/homework-check-sb-u5-speaking-01-key.pdf"
     },
     {
       "id": "9-sb-u5-vocabulary-homework-01",
@@ -1926,7 +2352,9 @@
       "assessment_lesson": "9/sb-u5-reading/index.html",
       "json": "9/sb-u5-reading/homework-check-sb-u5-vocabulary-01.json",
       "markdown": "9/sb-u5-reading/homework-check-sb-u5-vocabulary-01.md",
-      "answer_key": "9/sb-u5-reading/homework-check-sb-u5-vocabulary-01-key.md"
+      "answer_key": "9/sb-u5-reading/homework-check-sb-u5-vocabulary-01-key.md",
+      "pdf": "9/sb-u5-reading/homework-check-sb-u5-vocabulary-01.pdf",
+      "answer_key_pdf": "9/sb-u5-reading/homework-check-sb-u5-vocabulary-01-key.pdf"
     },
     {
       "id": "9-sb-u5-vocabulary-2-homework-01",
@@ -1935,7 +2363,9 @@
       "assessment_lesson": "9/sb-u5-grammar-2/index.html",
       "json": "9/sb-u5-grammar-2/homework-check-sb-u5-vocabulary-2-01.json",
       "markdown": "9/sb-u5-grammar-2/homework-check-sb-u5-vocabulary-2-01.md",
-      "answer_key": "9/sb-u5-grammar-2/homework-check-sb-u5-vocabulary-2-01-key.md"
+      "answer_key": "9/sb-u5-grammar-2/homework-check-sb-u5-vocabulary-2-01-key.md",
+      "pdf": "9/sb-u5-grammar-2/homework-check-sb-u5-vocabulary-2-01.pdf",
+      "answer_key_pdf": "9/sb-u5-grammar-2/homework-check-sb-u5-vocabulary-2-01-key.pdf"
     },
     {
       "id": "9-sb-u5-writing-homework-01",
@@ -1944,7 +2374,9 @@
       "assessment_lesson": "9/sb-u5-look-back/index.html",
       "json": "9/sb-u5-look-back/homework-check-sb-u5-writing-01.json",
       "markdown": "9/sb-u5-look-back/homework-check-sb-u5-writing-01.md",
-      "answer_key": "9/sb-u5-look-back/homework-check-sb-u5-writing-01-key.md"
+      "answer_key": "9/sb-u5-look-back/homework-check-sb-u5-writing-01-key.md",
+      "pdf": "9/sb-u5-look-back/homework-check-sb-u5-writing-01.pdf",
+      "answer_key_pdf": "9/sb-u5-look-back/homework-check-sb-u5-writing-01-key.pdf"
     },
     {
       "id": "9-sb-u6-blog-homework-01",
@@ -1953,7 +2385,9 @@
       "assessment_lesson": "9/sb-u6-vocabulary/index.html",
       "json": "9/sb-u6-vocabulary/homework-check-sb-u6-blog-01.json",
       "markdown": "9/sb-u6-vocabulary/homework-check-sb-u6-blog-01.md",
-      "answer_key": "9/sb-u6-vocabulary/homework-check-sb-u6-blog-01-key.md"
+      "answer_key": "9/sb-u6-vocabulary/homework-check-sb-u6-blog-01-key.md",
+      "pdf": "9/sb-u6-vocabulary/homework-check-sb-u6-blog-01.pdf",
+      "answer_key_pdf": "9/sb-u6-vocabulary/homework-check-sb-u6-blog-01-key.pdf"
     },
     {
       "id": "9-sb-u6-grammar-homework-01",
@@ -1962,7 +2396,9 @@
       "assessment_lesson": "9/sb-u6-listening/index.html",
       "json": "9/sb-u6-listening/homework-check-sb-u6-grammar-01.json",
       "markdown": "9/sb-u6-listening/homework-check-sb-u6-grammar-01.md",
-      "answer_key": "9/sb-u6-listening/homework-check-sb-u6-grammar-01-key.md"
+      "answer_key": "9/sb-u6-listening/homework-check-sb-u6-grammar-01-key.md",
+      "pdf": "9/sb-u6-listening/homework-check-sb-u6-grammar-01.pdf",
+      "answer_key_pdf": "9/sb-u6-listening/homework-check-sb-u6-grammar-01-key.pdf"
     },
     {
       "id": "9-sb-u6-grammar-2-homework-01",
@@ -1971,7 +2407,9 @@
       "assessment_lesson": "9/sb-u6-speaking/index.html",
       "json": "9/sb-u6-speaking/homework-check-sb-u6-grammar-2-01.json",
       "markdown": "9/sb-u6-speaking/homework-check-sb-u6-grammar-2-01.md",
-      "answer_key": "9/sb-u6-speaking/homework-check-sb-u6-grammar-2-01-key.md"
+      "answer_key": "9/sb-u6-speaking/homework-check-sb-u6-grammar-2-01-key.md",
+      "pdf": "9/sb-u6-speaking/homework-check-sb-u6-grammar-2-01.pdf",
+      "answer_key_pdf": "9/sb-u6-speaking/homework-check-sb-u6-grammar-2-01-key.pdf"
     },
     {
       "id": "9-sb-u6-lead-in-homework-01",
@@ -1980,7 +2418,9 @@
       "assessment_lesson": "9/sb-u6-blog/index.html",
       "json": "9/sb-u6-blog/homework-check-sb-u6-lead-in-01.json",
       "markdown": "9/sb-u6-blog/homework-check-sb-u6-lead-in-01.md",
-      "answer_key": "9/sb-u6-blog/homework-check-sb-u6-lead-in-01-key.md"
+      "answer_key": "9/sb-u6-blog/homework-check-sb-u6-lead-in-01-key.md",
+      "pdf": "9/sb-u6-blog/homework-check-sb-u6-lead-in-01.pdf",
+      "answer_key_pdf": "9/sb-u6-blog/homework-check-sb-u6-lead-in-01-key.pdf"
     },
     {
       "id": "9-sb-u6-listening-homework-01",
@@ -1989,7 +2429,9 @@
       "assessment_lesson": "9/sb-u6-vocabulary-2/index.html",
       "json": "9/sb-u6-vocabulary-2/homework-check-sb-u6-listening-01.json",
       "markdown": "9/sb-u6-vocabulary-2/homework-check-sb-u6-listening-01.md",
-      "answer_key": "9/sb-u6-vocabulary-2/homework-check-sb-u6-listening-01-key.md"
+      "answer_key": "9/sb-u6-vocabulary-2/homework-check-sb-u6-listening-01-key.md",
+      "pdf": "9/sb-u6-vocabulary-2/homework-check-sb-u6-listening-01.pdf",
+      "answer_key_pdf": "9/sb-u6-vocabulary-2/homework-check-sb-u6-listening-01-key.pdf"
     },
     {
       "id": "9-sb-u6-look-back-homework-01",
@@ -1998,7 +2440,9 @@
       "assessment_lesson": "9/sb-u6-self-check/index.html",
       "json": "9/sb-u6-self-check/homework-check-sb-u6-look-back-01.json",
       "markdown": "9/sb-u6-self-check/homework-check-sb-u6-look-back-01.md",
-      "answer_key": "9/sb-u6-self-check/homework-check-sb-u6-look-back-01-key.md"
+      "answer_key": "9/sb-u6-self-check/homework-check-sb-u6-look-back-01-key.md",
+      "pdf": "9/sb-u6-self-check/homework-check-sb-u6-look-back-01.pdf",
+      "answer_key_pdf": "9/sb-u6-self-check/homework-check-sb-u6-look-back-01-key.pdf"
     },
     {
       "id": "9-sb-u6-reading-homework-01",
@@ -2007,7 +2451,9 @@
       "assessment_lesson": "9/sb-u6-grammar/index.html",
       "json": "9/sb-u6-grammar/homework-check-sb-u6-reading-01.json",
       "markdown": "9/sb-u6-grammar/homework-check-sb-u6-reading-01.md",
-      "answer_key": "9/sb-u6-grammar/homework-check-sb-u6-reading-01-key.md"
+      "answer_key": "9/sb-u6-grammar/homework-check-sb-u6-reading-01-key.md",
+      "pdf": "9/sb-u6-grammar/homework-check-sb-u6-reading-01.pdf",
+      "answer_key_pdf": "9/sb-u6-grammar/homework-check-sb-u6-reading-01-key.pdf"
     },
     {
       "id": "9-sb-u6-self-check-homework-01",
@@ -2016,7 +2462,9 @@
       "assessment_lesson": "9/sb-u7-lead-in/index.html",
       "json": "9/sb-u7-lead-in/homework-check-sb-u6-self-check-01.json",
       "markdown": "9/sb-u7-lead-in/homework-check-sb-u6-self-check-01.md",
-      "answer_key": "9/sb-u7-lead-in/homework-check-sb-u6-self-check-01-key.md"
+      "answer_key": "9/sb-u7-lead-in/homework-check-sb-u6-self-check-01-key.md",
+      "pdf": "9/sb-u7-lead-in/homework-check-sb-u6-self-check-01.pdf",
+      "answer_key_pdf": "9/sb-u7-lead-in/homework-check-sb-u6-self-check-01-key.pdf"
     },
     {
       "id": "9-sb-u6-speaking-homework-01",
@@ -2025,7 +2473,9 @@
       "assessment_lesson": "9/sb-u6-writing/index.html",
       "json": "9/sb-u6-writing/homework-check-sb-u6-speaking-01.json",
       "markdown": "9/sb-u6-writing/homework-check-sb-u6-speaking-01.md",
-      "answer_key": "9/sb-u6-writing/homework-check-sb-u6-speaking-01-key.md"
+      "answer_key": "9/sb-u6-writing/homework-check-sb-u6-speaking-01-key.md",
+      "pdf": "9/sb-u6-writing/homework-check-sb-u6-speaking-01.pdf",
+      "answer_key_pdf": "9/sb-u6-writing/homework-check-sb-u6-speaking-01-key.pdf"
     },
     {
       "id": "9-sb-u6-vocabulary-homework-01",
@@ -2034,7 +2484,9 @@
       "assessment_lesson": "9/sb-u6-reading/index.html",
       "json": "9/sb-u6-reading/homework-check-sb-u6-vocabulary-01.json",
       "markdown": "9/sb-u6-reading/homework-check-sb-u6-vocabulary-01.md",
-      "answer_key": "9/sb-u6-reading/homework-check-sb-u6-vocabulary-01-key.md"
+      "answer_key": "9/sb-u6-reading/homework-check-sb-u6-vocabulary-01-key.md",
+      "pdf": "9/sb-u6-reading/homework-check-sb-u6-vocabulary-01.pdf",
+      "answer_key_pdf": "9/sb-u6-reading/homework-check-sb-u6-vocabulary-01-key.pdf"
     },
     {
       "id": "9-sb-u6-vocabulary-2-homework-01",
@@ -2043,7 +2495,9 @@
       "assessment_lesson": "9/sb-u6-grammar-2/index.html",
       "json": "9/sb-u6-grammar-2/homework-check-sb-u6-vocabulary-2-01.json",
       "markdown": "9/sb-u6-grammar-2/homework-check-sb-u6-vocabulary-2-01.md",
-      "answer_key": "9/sb-u6-grammar-2/homework-check-sb-u6-vocabulary-2-01-key.md"
+      "answer_key": "9/sb-u6-grammar-2/homework-check-sb-u6-vocabulary-2-01-key.md",
+      "pdf": "9/sb-u6-grammar-2/homework-check-sb-u6-vocabulary-2-01.pdf",
+      "answer_key_pdf": "9/sb-u6-grammar-2/homework-check-sb-u6-vocabulary-2-01-key.pdf"
     },
     {
       "id": "9-sb-u6-writing-homework-01",
@@ -2052,7 +2506,9 @@
       "assessment_lesson": "9/sb-u6-look-back/index.html",
       "json": "9/sb-u6-look-back/homework-check-sb-u6-writing-01.json",
       "markdown": "9/sb-u6-look-back/homework-check-sb-u6-writing-01.md",
-      "answer_key": "9/sb-u6-look-back/homework-check-sb-u6-writing-01-key.md"
+      "answer_key": "9/sb-u6-look-back/homework-check-sb-u6-writing-01-key.md",
+      "pdf": "9/sb-u6-look-back/homework-check-sb-u6-writing-01.pdf",
+      "answer_key_pdf": "9/sb-u6-look-back/homework-check-sb-u6-writing-01-key.pdf"
     },
     {
       "id": "9-sb-u7-blog-homework-01",
@@ -2061,7 +2517,9 @@
       "assessment_lesson": "9/sb-u7-vocabulary/index.html",
       "json": "9/sb-u7-vocabulary/homework-check-sb-u7-blog-01.json",
       "markdown": "9/sb-u7-vocabulary/homework-check-sb-u7-blog-01.md",
-      "answer_key": "9/sb-u7-vocabulary/homework-check-sb-u7-blog-01-key.md"
+      "answer_key": "9/sb-u7-vocabulary/homework-check-sb-u7-blog-01-key.md",
+      "pdf": "9/sb-u7-vocabulary/homework-check-sb-u7-blog-01.pdf",
+      "answer_key_pdf": "9/sb-u7-vocabulary/homework-check-sb-u7-blog-01-key.pdf"
     },
     {
       "id": "9-sb-u7-grammar-homework-01",
@@ -2070,7 +2528,9 @@
       "assessment_lesson": "9/sb-u7-listening/index.html",
       "json": "9/sb-u7-listening/homework-check-sb-u7-grammar-01.json",
       "markdown": "9/sb-u7-listening/homework-check-sb-u7-grammar-01.md",
-      "answer_key": "9/sb-u7-listening/homework-check-sb-u7-grammar-01-key.md"
+      "answer_key": "9/sb-u7-listening/homework-check-sb-u7-grammar-01-key.md",
+      "pdf": "9/sb-u7-listening/homework-check-sb-u7-grammar-01.pdf",
+      "answer_key_pdf": "9/sb-u7-listening/homework-check-sb-u7-grammar-01-key.pdf"
     },
     {
       "id": "9-sb-u7-grammar-2-homework-01",
@@ -2079,7 +2539,9 @@
       "assessment_lesson": "9/sb-u7-speaking/index.html",
       "json": "9/sb-u7-speaking/homework-check-sb-u7-grammar-2-01.json",
       "markdown": "9/sb-u7-speaking/homework-check-sb-u7-grammar-2-01.md",
-      "answer_key": "9/sb-u7-speaking/homework-check-sb-u7-grammar-2-01-key.md"
+      "answer_key": "9/sb-u7-speaking/homework-check-sb-u7-grammar-2-01-key.md",
+      "pdf": "9/sb-u7-speaking/homework-check-sb-u7-grammar-2-01.pdf",
+      "answer_key_pdf": "9/sb-u7-speaking/homework-check-sb-u7-grammar-2-01-key.pdf"
     },
     {
       "id": "9-sb-u7-lead-in-homework-01",
@@ -2088,7 +2550,9 @@
       "assessment_lesson": "9/sb-u7-blog/index.html",
       "json": "9/sb-u7-blog/homework-check-sb-u7-lead-in-01.json",
       "markdown": "9/sb-u7-blog/homework-check-sb-u7-lead-in-01.md",
-      "answer_key": "9/sb-u7-blog/homework-check-sb-u7-lead-in-01-key.md"
+      "answer_key": "9/sb-u7-blog/homework-check-sb-u7-lead-in-01-key.md",
+      "pdf": "9/sb-u7-blog/homework-check-sb-u7-lead-in-01.pdf",
+      "answer_key_pdf": "9/sb-u7-blog/homework-check-sb-u7-lead-in-01-key.pdf"
     },
     {
       "id": "9-sb-u7-listening-homework-01",
@@ -2097,7 +2561,9 @@
       "assessment_lesson": "9/sb-u7-vocabulary-2/index.html",
       "json": "9/sb-u7-vocabulary-2/homework-check-sb-u7-listening-01.json",
       "markdown": "9/sb-u7-vocabulary-2/homework-check-sb-u7-listening-01.md",
-      "answer_key": "9/sb-u7-vocabulary-2/homework-check-sb-u7-listening-01-key.md"
+      "answer_key": "9/sb-u7-vocabulary-2/homework-check-sb-u7-listening-01-key.md",
+      "pdf": "9/sb-u7-vocabulary-2/homework-check-sb-u7-listening-01.pdf",
+      "answer_key_pdf": "9/sb-u7-vocabulary-2/homework-check-sb-u7-listening-01-key.pdf"
     },
     {
       "id": "9-sb-u7-look-back-homework-01",
@@ -2106,7 +2572,9 @@
       "assessment_lesson": "9/sb-u7-self-check/index.html",
       "json": "9/sb-u7-self-check/homework-check-sb-u7-look-back-01.json",
       "markdown": "9/sb-u7-self-check/homework-check-sb-u7-look-back-01.md",
-      "answer_key": "9/sb-u7-self-check/homework-check-sb-u7-look-back-01-key.md"
+      "answer_key": "9/sb-u7-self-check/homework-check-sb-u7-look-back-01-key.md",
+      "pdf": "9/sb-u7-self-check/homework-check-sb-u7-look-back-01.pdf",
+      "answer_key_pdf": "9/sb-u7-self-check/homework-check-sb-u7-look-back-01-key.pdf"
     },
     {
       "id": "9-sb-u7-reading-homework-01",
@@ -2115,7 +2583,9 @@
       "assessment_lesson": "9/sb-u7-grammar/index.html",
       "json": "9/sb-u7-grammar/homework-check-sb-u7-reading-01.json",
       "markdown": "9/sb-u7-grammar/homework-check-sb-u7-reading-01.md",
-      "answer_key": "9/sb-u7-grammar/homework-check-sb-u7-reading-01-key.md"
+      "answer_key": "9/sb-u7-grammar/homework-check-sb-u7-reading-01-key.md",
+      "pdf": "9/sb-u7-grammar/homework-check-sb-u7-reading-01.pdf",
+      "answer_key_pdf": "9/sb-u7-grammar/homework-check-sb-u7-reading-01-key.pdf"
     },
     {
       "id": "9-sb-u7-self-check-homework-01",
@@ -2124,7 +2594,9 @@
       "assessment_lesson": "9/sb-u8-lead-in/index.html",
       "json": "9/sb-u8-lead-in/homework-check-sb-u7-self-check-01.json",
       "markdown": "9/sb-u8-lead-in/homework-check-sb-u7-self-check-01.md",
-      "answer_key": "9/sb-u8-lead-in/homework-check-sb-u7-self-check-01-key.md"
+      "answer_key": "9/sb-u8-lead-in/homework-check-sb-u7-self-check-01-key.md",
+      "pdf": "9/sb-u8-lead-in/homework-check-sb-u7-self-check-01.pdf",
+      "answer_key_pdf": "9/sb-u8-lead-in/homework-check-sb-u7-self-check-01-key.pdf"
     },
     {
       "id": "9-sb-u7-speaking-homework-01",
@@ -2133,7 +2605,9 @@
       "assessment_lesson": "9/sb-u7-writing/index.html",
       "json": "9/sb-u7-writing/homework-check-sb-u7-speaking-01.json",
       "markdown": "9/sb-u7-writing/homework-check-sb-u7-speaking-01.md",
-      "answer_key": "9/sb-u7-writing/homework-check-sb-u7-speaking-01-key.md"
+      "answer_key": "9/sb-u7-writing/homework-check-sb-u7-speaking-01-key.md",
+      "pdf": "9/sb-u7-writing/homework-check-sb-u7-speaking-01.pdf",
+      "answer_key_pdf": "9/sb-u7-writing/homework-check-sb-u7-speaking-01-key.pdf"
     },
     {
       "id": "9-sb-u7-vocabulary-homework-01",
@@ -2142,7 +2616,9 @@
       "assessment_lesson": "9/sb-u7-reading/index.html",
       "json": "9/sb-u7-reading/homework-check-sb-u7-vocabulary-01.json",
       "markdown": "9/sb-u7-reading/homework-check-sb-u7-vocabulary-01.md",
-      "answer_key": "9/sb-u7-reading/homework-check-sb-u7-vocabulary-01-key.md"
+      "answer_key": "9/sb-u7-reading/homework-check-sb-u7-vocabulary-01-key.md",
+      "pdf": "9/sb-u7-reading/homework-check-sb-u7-vocabulary-01.pdf",
+      "answer_key_pdf": "9/sb-u7-reading/homework-check-sb-u7-vocabulary-01-key.pdf"
     },
     {
       "id": "9-sb-u7-vocabulary-2-homework-01",
@@ -2151,7 +2627,9 @@
       "assessment_lesson": "9/sb-u7-grammar-2/index.html",
       "json": "9/sb-u7-grammar-2/homework-check-sb-u7-vocabulary-2-01.json",
       "markdown": "9/sb-u7-grammar-2/homework-check-sb-u7-vocabulary-2-01.md",
-      "answer_key": "9/sb-u7-grammar-2/homework-check-sb-u7-vocabulary-2-01-key.md"
+      "answer_key": "9/sb-u7-grammar-2/homework-check-sb-u7-vocabulary-2-01-key.md",
+      "pdf": "9/sb-u7-grammar-2/homework-check-sb-u7-vocabulary-2-01.pdf",
+      "answer_key_pdf": "9/sb-u7-grammar-2/homework-check-sb-u7-vocabulary-2-01-key.pdf"
     },
     {
       "id": "9-sb-u7-writing-homework-01",
@@ -2160,7 +2638,9 @@
       "assessment_lesson": "9/sb-u7-look-back/index.html",
       "json": "9/sb-u7-look-back/homework-check-sb-u7-writing-01.json",
       "markdown": "9/sb-u7-look-back/homework-check-sb-u7-writing-01.md",
-      "answer_key": "9/sb-u7-look-back/homework-check-sb-u7-writing-01-key.md"
+      "answer_key": "9/sb-u7-look-back/homework-check-sb-u7-writing-01-key.md",
+      "pdf": "9/sb-u7-look-back/homework-check-sb-u7-writing-01.pdf",
+      "answer_key_pdf": "9/sb-u7-look-back/homework-check-sb-u7-writing-01-key.pdf"
     },
     {
       "id": "9-sb-u8-blog-homework-01",
@@ -2169,7 +2649,9 @@
       "assessment_lesson": "9/sb-u8-vocabulary/index.html",
       "json": "9/sb-u8-vocabulary/homework-check-sb-u8-blog-01.json",
       "markdown": "9/sb-u8-vocabulary/homework-check-sb-u8-blog-01.md",
-      "answer_key": "9/sb-u8-vocabulary/homework-check-sb-u8-blog-01-key.md"
+      "answer_key": "9/sb-u8-vocabulary/homework-check-sb-u8-blog-01-key.md",
+      "pdf": "9/sb-u8-vocabulary/homework-check-sb-u8-blog-01.pdf",
+      "answer_key_pdf": "9/sb-u8-vocabulary/homework-check-sb-u8-blog-01-key.pdf"
     },
     {
       "id": "9-sb-u8-grammar-homework-01",
@@ -2178,7 +2660,9 @@
       "assessment_lesson": "9/sb-u8-listening/index.html",
       "json": "9/sb-u8-listening/homework-check-sb-u8-grammar-01.json",
       "markdown": "9/sb-u8-listening/homework-check-sb-u8-grammar-01.md",
-      "answer_key": "9/sb-u8-listening/homework-check-sb-u8-grammar-01-key.md"
+      "answer_key": "9/sb-u8-listening/homework-check-sb-u8-grammar-01-key.md",
+      "pdf": "9/sb-u8-listening/homework-check-sb-u8-grammar-01.pdf",
+      "answer_key_pdf": "9/sb-u8-listening/homework-check-sb-u8-grammar-01-key.pdf"
     },
     {
       "id": "9-sb-u8-grammar-2-homework-01",
@@ -2187,7 +2671,9 @@
       "assessment_lesson": "9/sb-u8-speaking/index.html",
       "json": "9/sb-u8-speaking/homework-check-sb-u8-grammar-2-01.json",
       "markdown": "9/sb-u8-speaking/homework-check-sb-u8-grammar-2-01.md",
-      "answer_key": "9/sb-u8-speaking/homework-check-sb-u8-grammar-2-01-key.md"
+      "answer_key": "9/sb-u8-speaking/homework-check-sb-u8-grammar-2-01-key.md",
+      "pdf": "9/sb-u8-speaking/homework-check-sb-u8-grammar-2-01.pdf",
+      "answer_key_pdf": "9/sb-u8-speaking/homework-check-sb-u8-grammar-2-01-key.pdf"
     },
     {
       "id": "9-sb-u8-lead-in-homework-01",
@@ -2196,7 +2682,9 @@
       "assessment_lesson": "9/sb-u8-blog/index.html",
       "json": "9/sb-u8-blog/homework-check-sb-u8-lead-in-01.json",
       "markdown": "9/sb-u8-blog/homework-check-sb-u8-lead-in-01.md",
-      "answer_key": "9/sb-u8-blog/homework-check-sb-u8-lead-in-01-key.md"
+      "answer_key": "9/sb-u8-blog/homework-check-sb-u8-lead-in-01-key.md",
+      "pdf": "9/sb-u8-blog/homework-check-sb-u8-lead-in-01.pdf",
+      "answer_key_pdf": "9/sb-u8-blog/homework-check-sb-u8-lead-in-01-key.pdf"
     },
     {
       "id": "9-sb-u8-listening-homework-01",
@@ -2205,7 +2693,9 @@
       "assessment_lesson": "9/sb-u8-vocabulary-2/index.html",
       "json": "9/sb-u8-vocabulary-2/homework-check-sb-u8-listening-01.json",
       "markdown": "9/sb-u8-vocabulary-2/homework-check-sb-u8-listening-01.md",
-      "answer_key": "9/sb-u8-vocabulary-2/homework-check-sb-u8-listening-01-key.md"
+      "answer_key": "9/sb-u8-vocabulary-2/homework-check-sb-u8-listening-01-key.md",
+      "pdf": "9/sb-u8-vocabulary-2/homework-check-sb-u8-listening-01.pdf",
+      "answer_key_pdf": "9/sb-u8-vocabulary-2/homework-check-sb-u8-listening-01-key.pdf"
     },
     {
       "id": "9-sb-u8-look-back-homework-01",
@@ -2214,7 +2704,9 @@
       "assessment_lesson": "9/sb-u8-self-check/index.html",
       "json": "9/sb-u8-self-check/homework-check-sb-u8-look-back-01.json",
       "markdown": "9/sb-u8-self-check/homework-check-sb-u8-look-back-01.md",
-      "answer_key": "9/sb-u8-self-check/homework-check-sb-u8-look-back-01-key.md"
+      "answer_key": "9/sb-u8-self-check/homework-check-sb-u8-look-back-01-key.md",
+      "pdf": "9/sb-u8-self-check/homework-check-sb-u8-look-back-01.pdf",
+      "answer_key_pdf": "9/sb-u8-self-check/homework-check-sb-u8-look-back-01-key.pdf"
     },
     {
       "id": "9-sb-u8-reading-homework-01",
@@ -2223,7 +2715,9 @@
       "assessment_lesson": "9/sb-u8-grammar/index.html",
       "json": "9/sb-u8-grammar/homework-check-sb-u8-reading-01.json",
       "markdown": "9/sb-u8-grammar/homework-check-sb-u8-reading-01.md",
-      "answer_key": "9/sb-u8-grammar/homework-check-sb-u8-reading-01-key.md"
+      "answer_key": "9/sb-u8-grammar/homework-check-sb-u8-reading-01-key.md",
+      "pdf": "9/sb-u8-grammar/homework-check-sb-u8-reading-01.pdf",
+      "answer_key_pdf": "9/sb-u8-grammar/homework-check-sb-u8-reading-01-key.pdf"
     },
     {
       "id": "9-sb-u8-self-check-homework-01",
@@ -2232,7 +2726,9 @@
       "assessment_lesson": "9/sb-u8-self-check/index.html",
       "json": "9/sb-u8-self-check/homework-check-sb-u8-self-check-01.json",
       "markdown": "9/sb-u8-self-check/homework-check-sb-u8-self-check-01.md",
-      "answer_key": "9/sb-u8-self-check/homework-check-sb-u8-self-check-01-key.md"
+      "answer_key": "9/sb-u8-self-check/homework-check-sb-u8-self-check-01-key.md",
+      "pdf": "9/sb-u8-self-check/homework-check-sb-u8-self-check-01.pdf",
+      "answer_key_pdf": "9/sb-u8-self-check/homework-check-sb-u8-self-check-01-key.pdf"
     },
     {
       "id": "9-sb-u8-speaking-homework-01",
@@ -2241,7 +2737,9 @@
       "assessment_lesson": "9/sb-u8-writing/index.html",
       "json": "9/sb-u8-writing/homework-check-sb-u8-speaking-01.json",
       "markdown": "9/sb-u8-writing/homework-check-sb-u8-speaking-01.md",
-      "answer_key": "9/sb-u8-writing/homework-check-sb-u8-speaking-01-key.md"
+      "answer_key": "9/sb-u8-writing/homework-check-sb-u8-speaking-01-key.md",
+      "pdf": "9/sb-u8-writing/homework-check-sb-u8-speaking-01.pdf",
+      "answer_key_pdf": "9/sb-u8-writing/homework-check-sb-u8-speaking-01-key.pdf"
     },
     {
       "id": "9-sb-u8-vocabulary-homework-01",
@@ -2250,7 +2748,9 @@
       "assessment_lesson": "9/sb-u8-reading/index.html",
       "json": "9/sb-u8-reading/homework-check-sb-u8-vocabulary-01.json",
       "markdown": "9/sb-u8-reading/homework-check-sb-u8-vocabulary-01.md",
-      "answer_key": "9/sb-u8-reading/homework-check-sb-u8-vocabulary-01-key.md"
+      "answer_key": "9/sb-u8-reading/homework-check-sb-u8-vocabulary-01-key.md",
+      "pdf": "9/sb-u8-reading/homework-check-sb-u8-vocabulary-01.pdf",
+      "answer_key_pdf": "9/sb-u8-reading/homework-check-sb-u8-vocabulary-01-key.pdf"
     },
     {
       "id": "9-sb-u8-vocabulary-2-homework-01",
@@ -2259,7 +2759,9 @@
       "assessment_lesson": "9/sb-u8-grammar-2/index.html",
       "json": "9/sb-u8-grammar-2/homework-check-sb-u8-vocabulary-2-01.json",
       "markdown": "9/sb-u8-grammar-2/homework-check-sb-u8-vocabulary-2-01.md",
-      "answer_key": "9/sb-u8-grammar-2/homework-check-sb-u8-vocabulary-2-01-key.md"
+      "answer_key": "9/sb-u8-grammar-2/homework-check-sb-u8-vocabulary-2-01-key.md",
+      "pdf": "9/sb-u8-grammar-2/homework-check-sb-u8-vocabulary-2-01.pdf",
+      "answer_key_pdf": "9/sb-u8-grammar-2/homework-check-sb-u8-vocabulary-2-01-key.pdf"
     },
     {
       "id": "9-sb-u8-writing-homework-01",
@@ -2268,7 +2770,9 @@
       "assessment_lesson": "9/sb-u8-look-back/index.html",
       "json": "9/sb-u8-look-back/homework-check-sb-u8-writing-01.json",
       "markdown": "9/sb-u8-look-back/homework-check-sb-u8-writing-01.md",
-      "answer_key": "9/sb-u8-look-back/homework-check-sb-u8-writing-01-key.md"
+      "answer_key": "9/sb-u8-look-back/homework-check-sb-u8-writing-01-key.md",
+      "pdf": "9/sb-u8-look-back/homework-check-sb-u8-writing-01.pdf",
+      "answer_key_pdf": "9/sb-u8-look-back/homework-check-sb-u8-writing-01-key.pdf"
     },
     {
       "id": "9-sb-wordlist-homework-01",
@@ -2277,7 +2781,9 @@
       "assessment_lesson": "9/sb-wordlist/index.html",
       "json": "9/sb-wordlist/homework-check-sb-wordlist-01.json",
       "markdown": "9/sb-wordlist/homework-check-sb-wordlist-01.md",
-      "answer_key": "9/sb-wordlist/homework-check-sb-wordlist-01-key.md"
+      "answer_key": "9/sb-wordlist/homework-check-sb-wordlist-01-key.md",
+      "pdf": "9/sb-wordlist/homework-check-sb-wordlist-01.pdf",
+      "answer_key_pdf": "9/sb-wordlist/homework-check-sb-wordlist-01-key.pdf"
     },
     {
       "id": "9-sb-wordlist-homework-02",
@@ -2286,7 +2792,9 @@
       "assessment_lesson": "9/sb-wordlist/index.html",
       "json": "9/sb-wordlist/homework-check-sb-wordlist-02.json",
       "markdown": "9/sb-wordlist/homework-check-sb-wordlist-02.md",
-      "answer_key": "9/sb-wordlist/homework-check-sb-wordlist-02-key.md"
+      "answer_key": "9/sb-wordlist/homework-check-sb-wordlist-02-key.md",
+      "pdf": "9/sb-wordlist/homework-check-sb-wordlist-02.pdf",
+      "answer_key_pdf": "9/sb-wordlist/homework-check-sb-wordlist-02-key.pdf"
     },
     {
       "id": "9-sb-wordlist-homework-03",
@@ -2295,7 +2803,9 @@
       "assessment_lesson": "9/sb-wordlist/index.html",
       "json": "9/sb-wordlist/homework-check-sb-wordlist-03.json",
       "markdown": "9/sb-wordlist/homework-check-sb-wordlist-03.md",
-      "answer_key": "9/sb-wordlist/homework-check-sb-wordlist-03-key.md"
+      "answer_key": "9/sb-wordlist/homework-check-sb-wordlist-03-key.md",
+      "pdf": "9/sb-wordlist/homework-check-sb-wordlist-03.pdf",
+      "answer_key_pdf": "9/sb-wordlist/homework-check-sb-wordlist-03-key.pdf"
     },
     {
       "id": "9-sb-wordlist-homework-04",
@@ -2304,7 +2814,9 @@
       "assessment_lesson": "9/sb-wordlist/index.html",
       "json": "9/sb-wordlist/homework-check-sb-wordlist-04.json",
       "markdown": "9/sb-wordlist/homework-check-sb-wordlist-04.md",
-      "answer_key": "9/sb-wordlist/homework-check-sb-wordlist-04-key.md"
+      "answer_key": "9/sb-wordlist/homework-check-sb-wordlist-04-key.md",
+      "pdf": "9/sb-wordlist/homework-check-sb-wordlist-04.pdf",
+      "answer_key_pdf": "9/sb-wordlist/homework-check-sb-wordlist-04-key.pdf"
     },
     {
       "id": "9-sb-wordlist-homework-05",
@@ -2313,7 +2825,9 @@
       "assessment_lesson": "9/sb-wordlist/index.html",
       "json": "9/sb-wordlist/homework-check-sb-wordlist-05.json",
       "markdown": "9/sb-wordlist/homework-check-sb-wordlist-05.md",
-      "answer_key": "9/sb-wordlist/homework-check-sb-wordlist-05-key.md"
+      "answer_key": "9/sb-wordlist/homework-check-sb-wordlist-05-key.md",
+      "pdf": "9/sb-wordlist/homework-check-sb-wordlist-05.pdf",
+      "answer_key_pdf": "9/sb-wordlist/homework-check-sb-wordlist-05-key.pdf"
     },
     {
       "id": "9-sb-wordlist-homework-06",
@@ -2322,7 +2836,9 @@
       "assessment_lesson": "9/sb-wordlist/index.html",
       "json": "9/sb-wordlist/homework-check-sb-wordlist-06.json",
       "markdown": "9/sb-wordlist/homework-check-sb-wordlist-06.md",
-      "answer_key": "9/sb-wordlist/homework-check-sb-wordlist-06-key.md"
+      "answer_key": "9/sb-wordlist/homework-check-sb-wordlist-06-key.md",
+      "pdf": "9/sb-wordlist/homework-check-sb-wordlist-06.pdf",
+      "answer_key_pdf": "9/sb-wordlist/homework-check-sb-wordlist-06-key.pdf"
     },
     {
       "id": "9-sb-wordlist-homework-07",
@@ -2331,7 +2847,9 @@
       "assessment_lesson": "9/sb-wordlist/index.html",
       "json": "9/sb-wordlist/homework-check-sb-wordlist-07.json",
       "markdown": "9/sb-wordlist/homework-check-sb-wordlist-07.md",
-      "answer_key": "9/sb-wordlist/homework-check-sb-wordlist-07-key.md"
+      "answer_key": "9/sb-wordlist/homework-check-sb-wordlist-07-key.md",
+      "pdf": "9/sb-wordlist/homework-check-sb-wordlist-07.pdf",
+      "answer_key_pdf": "9/sb-wordlist/homework-check-sb-wordlist-07-key.pdf"
     },
     {
       "id": "9-sb-wordlist-homework-08",
@@ -2340,7 +2858,9 @@
       "assessment_lesson": "9/sb-wordlist/index.html",
       "json": "9/sb-wordlist/homework-check-sb-wordlist-08.json",
       "markdown": "9/sb-wordlist/homework-check-sb-wordlist-08.md",
-      "answer_key": "9/sb-wordlist/homework-check-sb-wordlist-08-key.md"
+      "answer_key": "9/sb-wordlist/homework-check-sb-wordlist-08-key.md",
+      "pdf": "9/sb-wordlist/homework-check-sb-wordlist-08.pdf",
+      "answer_key_pdf": "9/sb-wordlist/homework-check-sb-wordlist-08-key.pdf"
     },
     {
       "id": "9-clothes-and-accessories-homework-01",
@@ -2349,7 +2869,9 @@
       "assessment_lesson": "9/fashion-opinions/index.html",
       "json": "9/fashion-opinions/homework-check-clothes-and-accessories-01.json",
       "markdown": "9/fashion-opinions/homework-check-clothes-and-accessories-01.md",
-      "answer_key": "9/fashion-opinions/homework-check-clothes-and-accessories-01-key.md"
+      "answer_key": "9/fashion-opinions/homework-check-clothes-and-accessories-01-key.md",
+      "pdf": "9/fashion-opinions/homework-check-clothes-and-accessories-01.pdf",
+      "answer_key_pdf": "9/fashion-opinions/homework-check-clothes-and-accessories-01-key.pdf"
     },
     {
       "id": "9-fashion-blog-homework-01",
@@ -2358,7 +2880,9 @@
       "assessment_lesson": "9/fashion-blog/index.html",
       "json": "9/fashion-blog/homework-check-fashion-blog-01.json",
       "markdown": "9/fashion-blog/homework-check-fashion-blog-01.md",
-      "answer_key": "9/fashion-blog/homework-check-fashion-blog-01-key.md"
+      "answer_key": "9/fashion-blog/homework-check-fashion-blog-01-key.md",
+      "pdf": "9/fashion-blog/homework-check-fashion-blog-01.pdf",
+      "answer_key_pdf": "9/fashion-blog/homework-check-fashion-blog-01-key.pdf"
     },
     {
       "id": "9-fashion-grammar-homework-01",
@@ -2367,7 +2891,9 @@
       "assessment_lesson": "9/fashion-blog/index.html",
       "json": "9/fashion-blog/homework-check-fashion-grammar-01.json",
       "markdown": "9/fashion-blog/homework-check-fashion-grammar-01.md",
-      "answer_key": "9/fashion-blog/homework-check-fashion-grammar-01-key.md"
+      "answer_key": "9/fashion-blog/homework-check-fashion-grammar-01-key.md",
+      "pdf": "9/fashion-blog/homework-check-fashion-grammar-01.pdf",
+      "answer_key_pdf": "9/fashion-blog/homework-check-fashion-grammar-01-key.pdf"
     },
     {
       "id": "9-fashion-opinions-homework-01",
@@ -2376,7 +2902,9 @@
       "assessment_lesson": "9/styles-and-judgement/index.html",
       "json": "9/styles-and-judgement/homework-check-fashion-opinions-01.json",
       "markdown": "9/styles-and-judgement/homework-check-fashion-opinions-01.md",
-      "answer_key": "9/styles-and-judgement/homework-check-fashion-opinions-01-key.md"
+      "answer_key": "9/styles-and-judgement/homework-check-fashion-opinions-01-key.md",
+      "pdf": "9/styles-and-judgement/homework-check-fashion-opinions-01.pdf",
+      "answer_key_pdf": "9/styles-and-judgement/homework-check-fashion-opinions-01-key.pdf"
     },
     {
       "id": "9-my-autobiography-homework-01",
@@ -2385,7 +2913,9 @@
       "assessment_lesson": "9/special-occasion-outfits/index.html",
       "json": "9/special-occasion-outfits/homework-check-my-autobiography-01.json",
       "markdown": "9/special-occasion-outfits/homework-check-my-autobiography-01.md",
-      "answer_key": "9/special-occasion-outfits/homework-check-my-autobiography-01-key.md"
+      "answer_key": "9/special-occasion-outfits/homework-check-my-autobiography-01-key.md",
+      "pdf": "9/special-occasion-outfits/homework-check-my-autobiography-01.pdf",
+      "answer_key_pdf": "9/special-occasion-outfits/homework-check-my-autobiography-01-key.pdf"
     },
     {
       "id": "9-online-friends-homework-01",
@@ -2394,7 +2924,9 @@
       "assessment_lesson": "9/personality-types/index.html",
       "json": "9/personality-types/homework-check-online-friends-01.json",
       "markdown": "9/personality-types/homework-check-online-friends-01.md",
-      "answer_key": "9/personality-types/homework-check-online-friends-01-key.md"
+      "answer_key": "9/personality-types/homework-check-online-friends-01-key.md",
+      "pdf": "9/personality-types/homework-check-online-friends-01.pdf",
+      "answer_key_pdf": "9/personality-types/homework-check-online-friends-01-key.pdf"
     },
     {
       "id": "9-personal-details-homework-01",
@@ -2403,7 +2935,9 @@
       "assessment_lesson": "9/my-autobiography/index.html",
       "json": "9/my-autobiography/homework-check-personal-details-01.json",
       "markdown": "9/my-autobiography/homework-check-personal-details-01.md",
-      "answer_key": "9/my-autobiography/homework-check-personal-details-01-key.md"
+      "answer_key": "9/my-autobiography/homework-check-personal-details-01-key.md",
+      "pdf": "9/my-autobiography/homework-check-personal-details-01.pdf",
+      "answer_key_pdf": "9/my-autobiography/homework-check-personal-details-01-key.pdf"
     },
     {
       "id": "9-sb-u1-blog-homework-01",
@@ -2412,7 +2946,9 @@
       "assessment_lesson": "9/sb-u1-vocabulary/index.html",
       "json": "9/sb-u1-vocabulary/homework-check-sb-u1-blog-01.json",
       "markdown": "9/sb-u1-vocabulary/homework-check-sb-u1-blog-01.md",
-      "answer_key": "9/sb-u1-vocabulary/homework-check-sb-u1-blog-01-key.md"
+      "answer_key": "9/sb-u1-vocabulary/homework-check-sb-u1-blog-01-key.md",
+      "pdf": "9/sb-u1-vocabulary/homework-check-sb-u1-blog-01.pdf",
+      "answer_key_pdf": "9/sb-u1-vocabulary/homework-check-sb-u1-blog-01-key.pdf"
     },
     {
       "id": "9-sb-u1-grammar-homework-01",
@@ -2421,7 +2957,9 @@
       "assessment_lesson": "9/sb-u1-listening/index.html",
       "json": "9/sb-u1-listening/homework-check-sb-u1-grammar-01.json",
       "markdown": "9/sb-u1-listening/homework-check-sb-u1-grammar-01.md",
-      "answer_key": "9/sb-u1-listening/homework-check-sb-u1-grammar-01-key.md"
+      "answer_key": "9/sb-u1-listening/homework-check-sb-u1-grammar-01-key.md",
+      "pdf": "9/sb-u1-listening/homework-check-sb-u1-grammar-01.pdf",
+      "answer_key_pdf": "9/sb-u1-listening/homework-check-sb-u1-grammar-01-key.pdf"
     },
     {
       "id": "9-sb-u1-grammar-2-homework-01",
@@ -2430,7 +2968,9 @@
       "assessment_lesson": "9/sb-u1-speaking/index.html",
       "json": "9/sb-u1-speaking/homework-check-sb-u1-grammar-2-01.json",
       "markdown": "9/sb-u1-speaking/homework-check-sb-u1-grammar-2-01.md",
-      "answer_key": "9/sb-u1-speaking/homework-check-sb-u1-grammar-2-01-key.md"
+      "answer_key": "9/sb-u1-speaking/homework-check-sb-u1-grammar-2-01-key.md",
+      "pdf": "9/sb-u1-speaking/homework-check-sb-u1-grammar-2-01.pdf",
+      "answer_key_pdf": "9/sb-u1-speaking/homework-check-sb-u1-grammar-2-01-key.pdf"
     },
     {
       "id": "9-sb-u1-lead-in-homework-01",
@@ -2439,7 +2979,9 @@
       "assessment_lesson": "9/sb-u1-blog/index.html",
       "json": "9/sb-u1-blog/homework-check-sb-u1-lead-in-01.json",
       "markdown": "9/sb-u1-blog/homework-check-sb-u1-lead-in-01.md",
-      "answer_key": "9/sb-u1-blog/homework-check-sb-u1-lead-in-01-key.md"
+      "answer_key": "9/sb-u1-blog/homework-check-sb-u1-lead-in-01-key.md",
+      "pdf": "9/sb-u1-blog/homework-check-sb-u1-lead-in-01.pdf",
+      "answer_key_pdf": "9/sb-u1-blog/homework-check-sb-u1-lead-in-01-key.pdf"
     },
     {
       "id": "9-sb-u1-listening-homework-01",
@@ -2448,7 +2990,9 @@
       "assessment_lesson": "9/sb-u1-vocabulary-2/index.html",
       "json": "9/sb-u1-vocabulary-2/homework-check-sb-u1-listening-01.json",
       "markdown": "9/sb-u1-vocabulary-2/homework-check-sb-u1-listening-01.md",
-      "answer_key": "9/sb-u1-vocabulary-2/homework-check-sb-u1-listening-01-key.md"
+      "answer_key": "9/sb-u1-vocabulary-2/homework-check-sb-u1-listening-01-key.md",
+      "pdf": "9/sb-u1-vocabulary-2/homework-check-sb-u1-listening-01.pdf",
+      "answer_key_pdf": "9/sb-u1-vocabulary-2/homework-check-sb-u1-listening-01-key.pdf"
     },
     {
       "id": "9-sb-u1-look-back-homework-01",
@@ -2457,7 +3001,9 @@
       "assessment_lesson": "9/sb-u1-self-check/index.html",
       "json": "9/sb-u1-self-check/homework-check-sb-u1-look-back-01.json",
       "markdown": "9/sb-u1-self-check/homework-check-sb-u1-look-back-01.md",
-      "answer_key": "9/sb-u1-self-check/homework-check-sb-u1-look-back-01-key.md"
+      "answer_key": "9/sb-u1-self-check/homework-check-sb-u1-look-back-01-key.md",
+      "pdf": "9/sb-u1-self-check/homework-check-sb-u1-look-back-01.pdf",
+      "answer_key_pdf": "9/sb-u1-self-check/homework-check-sb-u1-look-back-01-key.pdf"
     },
     {
       "id": "9-sb-u1-reading-homework-01",
@@ -2466,7 +3012,9 @@
       "assessment_lesson": "9/sb-u1-grammar/index.html",
       "json": "9/sb-u1-grammar/homework-check-sb-u1-reading-01.json",
       "markdown": "9/sb-u1-grammar/homework-check-sb-u1-reading-01.md",
-      "answer_key": "9/sb-u1-grammar/homework-check-sb-u1-reading-01-key.md"
+      "answer_key": "9/sb-u1-grammar/homework-check-sb-u1-reading-01-key.md",
+      "pdf": "9/sb-u1-grammar/homework-check-sb-u1-reading-01.pdf",
+      "answer_key_pdf": "9/sb-u1-grammar/homework-check-sb-u1-reading-01-key.pdf"
     },
     {
       "id": "9-sb-u1-self-check-homework-01",
@@ -2475,7 +3023,9 @@
       "assessment_lesson": "9/sb-u2-lead-in/index.html",
       "json": "9/sb-u2-lead-in/homework-check-sb-u1-self-check-01.json",
       "markdown": "9/sb-u2-lead-in/homework-check-sb-u1-self-check-01.md",
-      "answer_key": "9/sb-u2-lead-in/homework-check-sb-u1-self-check-01-key.md"
+      "answer_key": "9/sb-u2-lead-in/homework-check-sb-u1-self-check-01-key.md",
+      "pdf": "9/sb-u2-lead-in/homework-check-sb-u1-self-check-01.pdf",
+      "answer_key_pdf": "9/sb-u2-lead-in/homework-check-sb-u1-self-check-01-key.pdf"
     },
     {
       "id": "9-sb-u1-speaking-homework-01",
@@ -2484,7 +3034,9 @@
       "assessment_lesson": "9/sb-u1-writing/index.html",
       "json": "9/sb-u1-writing/homework-check-sb-u1-speaking-01.json",
       "markdown": "9/sb-u1-writing/homework-check-sb-u1-speaking-01.md",
-      "answer_key": "9/sb-u1-writing/homework-check-sb-u1-speaking-01-key.md"
+      "answer_key": "9/sb-u1-writing/homework-check-sb-u1-speaking-01-key.md",
+      "pdf": "9/sb-u1-writing/homework-check-sb-u1-speaking-01.pdf",
+      "answer_key_pdf": "9/sb-u1-writing/homework-check-sb-u1-speaking-01-key.pdf"
     },
     {
       "id": "9-sb-u1-vocabulary-homework-01",
@@ -2493,7 +3045,9 @@
       "assessment_lesson": "9/sb-u1-reading/index.html",
       "json": "9/sb-u1-reading/homework-check-sb-u1-vocabulary-01.json",
       "markdown": "9/sb-u1-reading/homework-check-sb-u1-vocabulary-01.md",
-      "answer_key": "9/sb-u1-reading/homework-check-sb-u1-vocabulary-01-key.md"
+      "answer_key": "9/sb-u1-reading/homework-check-sb-u1-vocabulary-01-key.md",
+      "pdf": "9/sb-u1-reading/homework-check-sb-u1-vocabulary-01.pdf",
+      "answer_key_pdf": "9/sb-u1-reading/homework-check-sb-u1-vocabulary-01-key.pdf"
     },
     {
       "id": "9-sb-u1-vocabulary-2-homework-01",
@@ -2502,7 +3056,9 @@
       "assessment_lesson": "9/sb-u1-grammar-2/index.html",
       "json": "9/sb-u1-grammar-2/homework-check-sb-u1-vocabulary-2-01.json",
       "markdown": "9/sb-u1-grammar-2/homework-check-sb-u1-vocabulary-2-01.md",
-      "answer_key": "9/sb-u1-grammar-2/homework-check-sb-u1-vocabulary-2-01-key.md"
+      "answer_key": "9/sb-u1-grammar-2/homework-check-sb-u1-vocabulary-2-01-key.md",
+      "pdf": "9/sb-u1-grammar-2/homework-check-sb-u1-vocabulary-2-01.pdf",
+      "answer_key_pdf": "9/sb-u1-grammar-2/homework-check-sb-u1-vocabulary-2-01-key.pdf"
     },
     {
       "id": "9-sb-u1-writing-homework-01",
@@ -2511,7 +3067,9 @@
       "assessment_lesson": "9/sb-u1-look-back/index.html",
       "json": "9/sb-u1-look-back/homework-check-sb-u1-writing-01.json",
       "markdown": "9/sb-u1-look-back/homework-check-sb-u1-writing-01.md",
-      "answer_key": "9/sb-u1-look-back/homework-check-sb-u1-writing-01-key.md"
+      "answer_key": "9/sb-u1-look-back/homework-check-sb-u1-writing-01-key.md",
+      "pdf": "9/sb-u1-look-back/homework-check-sb-u1-writing-01.pdf",
+      "answer_key_pdf": "9/sb-u1-look-back/homework-check-sb-u1-writing-01-key.pdf"
     },
     {
       "id": "9-sb-u2-blog-homework-01",
@@ -2520,7 +3078,9 @@
       "assessment_lesson": "9/sb-u2-vocabulary/index.html",
       "json": "9/sb-u2-vocabulary/homework-check-sb-u2-blog-01.json",
       "markdown": "9/sb-u2-vocabulary/homework-check-sb-u2-blog-01.md",
-      "answer_key": "9/sb-u2-vocabulary/homework-check-sb-u2-blog-01-key.md"
+      "answer_key": "9/sb-u2-vocabulary/homework-check-sb-u2-blog-01-key.md",
+      "pdf": "9/sb-u2-vocabulary/homework-check-sb-u2-blog-01.pdf",
+      "answer_key_pdf": "9/sb-u2-vocabulary/homework-check-sb-u2-blog-01-key.pdf"
     },
     {
       "id": "9-sb-u2-grammar-homework-01",
@@ -2529,7 +3089,9 @@
       "assessment_lesson": "9/sb-u2-listening/index.html",
       "json": "9/sb-u2-listening/homework-check-sb-u2-grammar-01.json",
       "markdown": "9/sb-u2-listening/homework-check-sb-u2-grammar-01.md",
-      "answer_key": "9/sb-u2-listening/homework-check-sb-u2-grammar-01-key.md"
+      "answer_key": "9/sb-u2-listening/homework-check-sb-u2-grammar-01-key.md",
+      "pdf": "9/sb-u2-listening/homework-check-sb-u2-grammar-01.pdf",
+      "answer_key_pdf": "9/sb-u2-listening/homework-check-sb-u2-grammar-01-key.pdf"
     },
     {
       "id": "9-sb-u2-grammar-2-homework-01",
@@ -2538,7 +3100,9 @@
       "assessment_lesson": "9/sb-u2-speaking/index.html",
       "json": "9/sb-u2-speaking/homework-check-sb-u2-grammar-2-01.json",
       "markdown": "9/sb-u2-speaking/homework-check-sb-u2-grammar-2-01.md",
-      "answer_key": "9/sb-u2-speaking/homework-check-sb-u2-grammar-2-01-key.md"
+      "answer_key": "9/sb-u2-speaking/homework-check-sb-u2-grammar-2-01-key.md",
+      "pdf": "9/sb-u2-speaking/homework-check-sb-u2-grammar-2-01.pdf",
+      "answer_key_pdf": "9/sb-u2-speaking/homework-check-sb-u2-grammar-2-01-key.pdf"
     },
     {
       "id": "9-sb-u2-lead-in-homework-01",
@@ -2547,7 +3111,9 @@
       "assessment_lesson": "9/sb-u2-blog/index.html",
       "json": "9/sb-u2-blog/homework-check-sb-u2-lead-in-01.json",
       "markdown": "9/sb-u2-blog/homework-check-sb-u2-lead-in-01.md",
-      "answer_key": "9/sb-u2-blog/homework-check-sb-u2-lead-in-01-key.md"
+      "answer_key": "9/sb-u2-blog/homework-check-sb-u2-lead-in-01-key.md",
+      "pdf": "9/sb-u2-blog/homework-check-sb-u2-lead-in-01.pdf",
+      "answer_key_pdf": "9/sb-u2-blog/homework-check-sb-u2-lead-in-01-key.pdf"
     },
     {
       "id": "9-sb-u2-listening-homework-01",
@@ -2556,7 +3122,9 @@
       "assessment_lesson": "9/sb-u2-vocabulary-2/index.html",
       "json": "9/sb-u2-vocabulary-2/homework-check-sb-u2-listening-01.json",
       "markdown": "9/sb-u2-vocabulary-2/homework-check-sb-u2-listening-01.md",
-      "answer_key": "9/sb-u2-vocabulary-2/homework-check-sb-u2-listening-01-key.md"
+      "answer_key": "9/sb-u2-vocabulary-2/homework-check-sb-u2-listening-01-key.md",
+      "pdf": "9/sb-u2-vocabulary-2/homework-check-sb-u2-listening-01.pdf",
+      "answer_key_pdf": "9/sb-u2-vocabulary-2/homework-check-sb-u2-listening-01-key.pdf"
     },
     {
       "id": "9-sb-u2-look-back-homework-01",
@@ -2565,7 +3133,9 @@
       "assessment_lesson": "9/sb-u2-self-check/index.html",
       "json": "9/sb-u2-self-check/homework-check-sb-u2-look-back-01.json",
       "markdown": "9/sb-u2-self-check/homework-check-sb-u2-look-back-01.md",
-      "answer_key": "9/sb-u2-self-check/homework-check-sb-u2-look-back-01-key.md"
+      "answer_key": "9/sb-u2-self-check/homework-check-sb-u2-look-back-01-key.md",
+      "pdf": "9/sb-u2-self-check/homework-check-sb-u2-look-back-01.pdf",
+      "answer_key_pdf": "9/sb-u2-self-check/homework-check-sb-u2-look-back-01-key.pdf"
     },
     {
       "id": "9-sb-u2-reading-homework-01",
@@ -2574,7 +3144,9 @@
       "assessment_lesson": "9/sb-u2-grammar/index.html",
       "json": "9/sb-u2-grammar/homework-check-sb-u2-reading-01.json",
       "markdown": "9/sb-u2-grammar/homework-check-sb-u2-reading-01.md",
-      "answer_key": "9/sb-u2-grammar/homework-check-sb-u2-reading-01-key.md"
+      "answer_key": "9/sb-u2-grammar/homework-check-sb-u2-reading-01-key.md",
+      "pdf": "9/sb-u2-grammar/homework-check-sb-u2-reading-01.pdf",
+      "answer_key_pdf": "9/sb-u2-grammar/homework-check-sb-u2-reading-01-key.pdf"
     },
     {
       "id": "9-sb-u2-self-check-homework-01",
@@ -2583,7 +3155,9 @@
       "assessment_lesson": "9/sb-u3-lead-in/index.html",
       "json": "9/sb-u3-lead-in/homework-check-sb-u2-self-check-01.json",
       "markdown": "9/sb-u3-lead-in/homework-check-sb-u2-self-check-01.md",
-      "answer_key": "9/sb-u3-lead-in/homework-check-sb-u2-self-check-01-key.md"
+      "answer_key": "9/sb-u3-lead-in/homework-check-sb-u2-self-check-01-key.md",
+      "pdf": "9/sb-u3-lead-in/homework-check-sb-u2-self-check-01.pdf",
+      "answer_key_pdf": "9/sb-u3-lead-in/homework-check-sb-u2-self-check-01-key.pdf"
     },
     {
       "id": "9-sb-u2-speaking-homework-01",
@@ -2592,7 +3166,9 @@
       "assessment_lesson": "9/sb-u2-writing/index.html",
       "json": "9/sb-u2-writing/homework-check-sb-u2-speaking-01.json",
       "markdown": "9/sb-u2-writing/homework-check-sb-u2-speaking-01.md",
-      "answer_key": "9/sb-u2-writing/homework-check-sb-u2-speaking-01-key.md"
+      "answer_key": "9/sb-u2-writing/homework-check-sb-u2-speaking-01-key.md",
+      "pdf": "9/sb-u2-writing/homework-check-sb-u2-speaking-01.pdf",
+      "answer_key_pdf": "9/sb-u2-writing/homework-check-sb-u2-speaking-01-key.pdf"
     },
     {
       "id": "9-sb-u2-vocabulary-homework-01",
@@ -2601,7 +3177,9 @@
       "assessment_lesson": "9/sb-u2-reading/index.html",
       "json": "9/sb-u2-reading/homework-check-sb-u2-vocabulary-01.json",
       "markdown": "9/sb-u2-reading/homework-check-sb-u2-vocabulary-01.md",
-      "answer_key": "9/sb-u2-reading/homework-check-sb-u2-vocabulary-01-key.md"
+      "answer_key": "9/sb-u2-reading/homework-check-sb-u2-vocabulary-01-key.md",
+      "pdf": "9/sb-u2-reading/homework-check-sb-u2-vocabulary-01.pdf",
+      "answer_key_pdf": "9/sb-u2-reading/homework-check-sb-u2-vocabulary-01-key.pdf"
     },
     {
       "id": "9-sb-u2-vocabulary-2-homework-01",
@@ -2610,7 +3188,9 @@
       "assessment_lesson": "9/sb-u2-grammar-2/index.html",
       "json": "9/sb-u2-grammar-2/homework-check-sb-u2-vocabulary-2-01.json",
       "markdown": "9/sb-u2-grammar-2/homework-check-sb-u2-vocabulary-2-01.md",
-      "answer_key": "9/sb-u2-grammar-2/homework-check-sb-u2-vocabulary-2-01-key.md"
+      "answer_key": "9/sb-u2-grammar-2/homework-check-sb-u2-vocabulary-2-01-key.md",
+      "pdf": "9/sb-u2-grammar-2/homework-check-sb-u2-vocabulary-2-01.pdf",
+      "answer_key_pdf": "9/sb-u2-grammar-2/homework-check-sb-u2-vocabulary-2-01-key.pdf"
     },
     {
       "id": "9-sb-u2-writing-homework-01",
@@ -2619,7 +3199,9 @@
       "assessment_lesson": "9/sb-u2-look-back/index.html",
       "json": "9/sb-u2-look-back/homework-check-sb-u2-writing-01.json",
       "markdown": "9/sb-u2-look-back/homework-check-sb-u2-writing-01.md",
-      "answer_key": "9/sb-u2-look-back/homework-check-sb-u2-writing-01-key.md"
+      "answer_key": "9/sb-u2-look-back/homework-check-sb-u2-writing-01-key.md",
+      "pdf": "9/sb-u2-look-back/homework-check-sb-u2-writing-01.pdf",
+      "answer_key_pdf": "9/sb-u2-look-back/homework-check-sb-u2-writing-01-key.pdf"
     },
     {
       "id": "9-sb-u3-blog-homework-01",
@@ -2628,7 +3210,9 @@
       "assessment_lesson": "9/sb-u3-vocabulary/index.html",
       "json": "9/sb-u3-vocabulary/homework-check-sb-u3-blog-01.json",
       "markdown": "9/sb-u3-vocabulary/homework-check-sb-u3-blog-01.md",
-      "answer_key": "9/sb-u3-vocabulary/homework-check-sb-u3-blog-01-key.md"
+      "answer_key": "9/sb-u3-vocabulary/homework-check-sb-u3-blog-01-key.md",
+      "pdf": "9/sb-u3-vocabulary/homework-check-sb-u3-blog-01.pdf",
+      "answer_key_pdf": "9/sb-u3-vocabulary/homework-check-sb-u3-blog-01-key.pdf"
     },
     {
       "id": "9-sb-u3-grammar-homework-01",
@@ -2637,7 +3221,9 @@
       "assessment_lesson": "9/sb-u3-listening/index.html",
       "json": "9/sb-u3-listening/homework-check-sb-u3-grammar-01.json",
       "markdown": "9/sb-u3-listening/homework-check-sb-u3-grammar-01.md",
-      "answer_key": "9/sb-u3-listening/homework-check-sb-u3-grammar-01-key.md"
+      "answer_key": "9/sb-u3-listening/homework-check-sb-u3-grammar-01-key.md",
+      "pdf": "9/sb-u3-listening/homework-check-sb-u3-grammar-01.pdf",
+      "answer_key_pdf": "9/sb-u3-listening/homework-check-sb-u3-grammar-01-key.pdf"
     },
     {
       "id": "9-sb-u3-grammar-2-homework-01",
@@ -2646,7 +3232,9 @@
       "assessment_lesson": "9/sb-u3-speaking/index.html",
       "json": "9/sb-u3-speaking/homework-check-sb-u3-grammar-2-01.json",
       "markdown": "9/sb-u3-speaking/homework-check-sb-u3-grammar-2-01.md",
-      "answer_key": "9/sb-u3-speaking/homework-check-sb-u3-grammar-2-01-key.md"
+      "answer_key": "9/sb-u3-speaking/homework-check-sb-u3-grammar-2-01-key.md",
+      "pdf": "9/sb-u3-speaking/homework-check-sb-u3-grammar-2-01.pdf",
+      "answer_key_pdf": "9/sb-u3-speaking/homework-check-sb-u3-grammar-2-01-key.pdf"
     },
     {
       "id": "9-sb-u3-lead-in-homework-01",
@@ -2655,7 +3243,9 @@
       "assessment_lesson": "9/sb-u3-blog/index.html",
       "json": "9/sb-u3-blog/homework-check-sb-u3-lead-in-01.json",
       "markdown": "9/sb-u3-blog/homework-check-sb-u3-lead-in-01.md",
-      "answer_key": "9/sb-u3-blog/homework-check-sb-u3-lead-in-01-key.md"
+      "answer_key": "9/sb-u3-blog/homework-check-sb-u3-lead-in-01-key.md",
+      "pdf": "9/sb-u3-blog/homework-check-sb-u3-lead-in-01.pdf",
+      "answer_key_pdf": "9/sb-u3-blog/homework-check-sb-u3-lead-in-01-key.pdf"
     },
     {
       "id": "9-sb-u3-listening-homework-01",
@@ -2664,7 +3254,9 @@
       "assessment_lesson": "9/sb-u3-vocabulary-2/index.html",
       "json": "9/sb-u3-vocabulary-2/homework-check-sb-u3-listening-01.json",
       "markdown": "9/sb-u3-vocabulary-2/homework-check-sb-u3-listening-01.md",
-      "answer_key": "9/sb-u3-vocabulary-2/homework-check-sb-u3-listening-01-key.md"
+      "answer_key": "9/sb-u3-vocabulary-2/homework-check-sb-u3-listening-01-key.md",
+      "pdf": "9/sb-u3-vocabulary-2/homework-check-sb-u3-listening-01.pdf",
+      "answer_key_pdf": "9/sb-u3-vocabulary-2/homework-check-sb-u3-listening-01-key.pdf"
     },
     {
       "id": "9-sb-u3-look-back-homework-01",
@@ -2673,7 +3265,9 @@
       "assessment_lesson": "9/sb-u3-self-check/index.html",
       "json": "9/sb-u3-self-check/homework-check-sb-u3-look-back-01.json",
       "markdown": "9/sb-u3-self-check/homework-check-sb-u3-look-back-01.md",
-      "answer_key": "9/sb-u3-self-check/homework-check-sb-u3-look-back-01-key.md"
+      "answer_key": "9/sb-u3-self-check/homework-check-sb-u3-look-back-01-key.md",
+      "pdf": "9/sb-u3-self-check/homework-check-sb-u3-look-back-01.pdf",
+      "answer_key_pdf": "9/sb-u3-self-check/homework-check-sb-u3-look-back-01-key.pdf"
     },
     {
       "id": "9-sb-u3-reading-homework-01",
@@ -2682,7 +3276,9 @@
       "assessment_lesson": "9/sb-u3-grammar/index.html",
       "json": "9/sb-u3-grammar/homework-check-sb-u3-reading-01.json",
       "markdown": "9/sb-u3-grammar/homework-check-sb-u3-reading-01.md",
-      "answer_key": "9/sb-u3-grammar/homework-check-sb-u3-reading-01-key.md"
+      "answer_key": "9/sb-u3-grammar/homework-check-sb-u3-reading-01-key.md",
+      "pdf": "9/sb-u3-grammar/homework-check-sb-u3-reading-01.pdf",
+      "answer_key_pdf": "9/sb-u3-grammar/homework-check-sb-u3-reading-01-key.pdf"
     },
     {
       "id": "9-sb-u3-self-check-homework-01",
@@ -2691,7 +3287,9 @@
       "assessment_lesson": "9/sb-u4-lead-in/index.html",
       "json": "9/sb-u4-lead-in/homework-check-sb-u3-self-check-01.json",
       "markdown": "9/sb-u4-lead-in/homework-check-sb-u3-self-check-01.md",
-      "answer_key": "9/sb-u4-lead-in/homework-check-sb-u3-self-check-01-key.md"
+      "answer_key": "9/sb-u4-lead-in/homework-check-sb-u3-self-check-01-key.md",
+      "pdf": "9/sb-u4-lead-in/homework-check-sb-u3-self-check-01.pdf",
+      "answer_key_pdf": "9/sb-u4-lead-in/homework-check-sb-u3-self-check-01-key.pdf"
     },
     {
       "id": "9-sb-u3-speaking-homework-01",
@@ -2700,7 +3298,9 @@
       "assessment_lesson": "9/sb-u3-writing/index.html",
       "json": "9/sb-u3-writing/homework-check-sb-u3-speaking-01.json",
       "markdown": "9/sb-u3-writing/homework-check-sb-u3-speaking-01.md",
-      "answer_key": "9/sb-u3-writing/homework-check-sb-u3-speaking-01-key.md"
+      "answer_key": "9/sb-u3-writing/homework-check-sb-u3-speaking-01-key.md",
+      "pdf": "9/sb-u3-writing/homework-check-sb-u3-speaking-01.pdf",
+      "answer_key_pdf": "9/sb-u3-writing/homework-check-sb-u3-speaking-01-key.pdf"
     },
     {
       "id": "9-sb-u3-vocabulary-homework-01",
@@ -2709,7 +3309,9 @@
       "assessment_lesson": "9/sb-u3-reading/index.html",
       "json": "9/sb-u3-reading/homework-check-sb-u3-vocabulary-01.json",
       "markdown": "9/sb-u3-reading/homework-check-sb-u3-vocabulary-01.md",
-      "answer_key": "9/sb-u3-reading/homework-check-sb-u3-vocabulary-01-key.md"
+      "answer_key": "9/sb-u3-reading/homework-check-sb-u3-vocabulary-01-key.md",
+      "pdf": "9/sb-u3-reading/homework-check-sb-u3-vocabulary-01.pdf",
+      "answer_key_pdf": "9/sb-u3-reading/homework-check-sb-u3-vocabulary-01-key.pdf"
     },
     {
       "id": "9-sb-u3-vocabulary-2-homework-01",
@@ -2718,7 +3320,9 @@
       "assessment_lesson": "9/sb-u3-grammar-2/index.html",
       "json": "9/sb-u3-grammar-2/homework-check-sb-u3-vocabulary-2-01.json",
       "markdown": "9/sb-u3-grammar-2/homework-check-sb-u3-vocabulary-2-01.md",
-      "answer_key": "9/sb-u3-grammar-2/homework-check-sb-u3-vocabulary-2-01-key.md"
+      "answer_key": "9/sb-u3-grammar-2/homework-check-sb-u3-vocabulary-2-01-key.md",
+      "pdf": "9/sb-u3-grammar-2/homework-check-sb-u3-vocabulary-2-01.pdf",
+      "answer_key_pdf": "9/sb-u3-grammar-2/homework-check-sb-u3-vocabulary-2-01-key.pdf"
     },
     {
       "id": "9-sb-u3-writing-homework-01",
@@ -2727,7 +3331,9 @@
       "assessment_lesson": "9/sb-u3-look-back/index.html",
       "json": "9/sb-u3-look-back/homework-check-sb-u3-writing-01.json",
       "markdown": "9/sb-u3-look-back/homework-check-sb-u3-writing-01.md",
-      "answer_key": "9/sb-u3-look-back/homework-check-sb-u3-writing-01-key.md"
+      "answer_key": "9/sb-u3-look-back/homework-check-sb-u3-writing-01-key.md",
+      "pdf": "9/sb-u3-look-back/homework-check-sb-u3-writing-01.pdf",
+      "answer_key_pdf": "9/sb-u3-look-back/homework-check-sb-u3-writing-01-key.pdf"
     },
     {
       "id": "9-sb-u4-blog-homework-01",
@@ -2736,7 +3342,9 @@
       "assessment_lesson": "9/sb-u4-vocabulary/index.html",
       "json": "9/sb-u4-vocabulary/homework-check-sb-u4-blog-01.json",
       "markdown": "9/sb-u4-vocabulary/homework-check-sb-u4-blog-01.md",
-      "answer_key": "9/sb-u4-vocabulary/homework-check-sb-u4-blog-01-key.md"
+      "answer_key": "9/sb-u4-vocabulary/homework-check-sb-u4-blog-01-key.md",
+      "pdf": "9/sb-u4-vocabulary/homework-check-sb-u4-blog-01.pdf",
+      "answer_key_pdf": "9/sb-u4-vocabulary/homework-check-sb-u4-blog-01-key.pdf"
     },
     {
       "id": "9-sb-u4-grammar-homework-01",
@@ -2745,7 +3353,9 @@
       "assessment_lesson": "9/sb-u4-listening/index.html",
       "json": "9/sb-u4-listening/homework-check-sb-u4-grammar-01.json",
       "markdown": "9/sb-u4-listening/homework-check-sb-u4-grammar-01.md",
-      "answer_key": "9/sb-u4-listening/homework-check-sb-u4-grammar-01-key.md"
+      "answer_key": "9/sb-u4-listening/homework-check-sb-u4-grammar-01-key.md",
+      "pdf": "9/sb-u4-listening/homework-check-sb-u4-grammar-01.pdf",
+      "answer_key_pdf": "9/sb-u4-listening/homework-check-sb-u4-grammar-01-key.pdf"
     },
     {
       "id": "9-sb-u4-grammar-2-homework-01",
@@ -2754,7 +3364,9 @@
       "assessment_lesson": "9/sb-u4-speaking/index.html",
       "json": "9/sb-u4-speaking/homework-check-sb-u4-grammar-2-01.json",
       "markdown": "9/sb-u4-speaking/homework-check-sb-u4-grammar-2-01.md",
-      "answer_key": "9/sb-u4-speaking/homework-check-sb-u4-grammar-2-01-key.md"
+      "answer_key": "9/sb-u4-speaking/homework-check-sb-u4-grammar-2-01-key.md",
+      "pdf": "9/sb-u4-speaking/homework-check-sb-u4-grammar-2-01.pdf",
+      "answer_key_pdf": "9/sb-u4-speaking/homework-check-sb-u4-grammar-2-01-key.pdf"
     },
     {
       "id": "9-sb-u4-lead-in-homework-01",
@@ -2763,7 +3375,9 @@
       "assessment_lesson": "9/sb-u4-blog/index.html",
       "json": "9/sb-u4-blog/homework-check-sb-u4-lead-in-01.json",
       "markdown": "9/sb-u4-blog/homework-check-sb-u4-lead-in-01.md",
-      "answer_key": "9/sb-u4-blog/homework-check-sb-u4-lead-in-01-key.md"
+      "answer_key": "9/sb-u4-blog/homework-check-sb-u4-lead-in-01-key.md",
+      "pdf": "9/sb-u4-blog/homework-check-sb-u4-lead-in-01.pdf",
+      "answer_key_pdf": "9/sb-u4-blog/homework-check-sb-u4-lead-in-01-key.pdf"
     },
     {
       "id": "9-sb-u4-listening-homework-01",
@@ -2772,7 +3386,9 @@
       "assessment_lesson": "9/sb-u4-vocabulary-2/index.html",
       "json": "9/sb-u4-vocabulary-2/homework-check-sb-u4-listening-01.json",
       "markdown": "9/sb-u4-vocabulary-2/homework-check-sb-u4-listening-01.md",
-      "answer_key": "9/sb-u4-vocabulary-2/homework-check-sb-u4-listening-01-key.md"
+      "answer_key": "9/sb-u4-vocabulary-2/homework-check-sb-u4-listening-01-key.md",
+      "pdf": "9/sb-u4-vocabulary-2/homework-check-sb-u4-listening-01.pdf",
+      "answer_key_pdf": "9/sb-u4-vocabulary-2/homework-check-sb-u4-listening-01-key.pdf"
     },
     {
       "id": "9-sb-u4-look-back-homework-01",
@@ -2781,7 +3397,9 @@
       "assessment_lesson": "9/sb-u4-self-check/index.html",
       "json": "9/sb-u4-self-check/homework-check-sb-u4-look-back-01.json",
       "markdown": "9/sb-u4-self-check/homework-check-sb-u4-look-back-01.md",
-      "answer_key": "9/sb-u4-self-check/homework-check-sb-u4-look-back-01-key.md"
+      "answer_key": "9/sb-u4-self-check/homework-check-sb-u4-look-back-01-key.md",
+      "pdf": "9/sb-u4-self-check/homework-check-sb-u4-look-back-01.pdf",
+      "answer_key_pdf": "9/sb-u4-self-check/homework-check-sb-u4-look-back-01-key.pdf"
     },
     {
       "id": "9-sb-u4-reading-homework-01",
@@ -2790,7 +3408,9 @@
       "assessment_lesson": "9/sb-u4-grammar/index.html",
       "json": "9/sb-u4-grammar/homework-check-sb-u4-reading-01.json",
       "markdown": "9/sb-u4-grammar/homework-check-sb-u4-reading-01.md",
-      "answer_key": "9/sb-u4-grammar/homework-check-sb-u4-reading-01-key.md"
+      "answer_key": "9/sb-u4-grammar/homework-check-sb-u4-reading-01-key.md",
+      "pdf": "9/sb-u4-grammar/homework-check-sb-u4-reading-01.pdf",
+      "answer_key_pdf": "9/sb-u4-grammar/homework-check-sb-u4-reading-01-key.pdf"
     },
     {
       "id": "9-sb-u4-self-check-homework-01",
@@ -2799,7 +3419,9 @@
       "assessment_lesson": "9/sb-u5-lead-in/index.html",
       "json": "9/sb-u5-lead-in/homework-check-sb-u4-self-check-01.json",
       "markdown": "9/sb-u5-lead-in/homework-check-sb-u4-self-check-01.md",
-      "answer_key": "9/sb-u5-lead-in/homework-check-sb-u4-self-check-01-key.md"
+      "answer_key": "9/sb-u5-lead-in/homework-check-sb-u4-self-check-01-key.md",
+      "pdf": "9/sb-u5-lead-in/homework-check-sb-u4-self-check-01.pdf",
+      "answer_key_pdf": "9/sb-u5-lead-in/homework-check-sb-u4-self-check-01-key.pdf"
     },
     {
       "id": "9-sb-u4-speaking-homework-01",
@@ -2808,7 +3430,9 @@
       "assessment_lesson": "9/sb-u4-writing/index.html",
       "json": "9/sb-u4-writing/homework-check-sb-u4-speaking-01.json",
       "markdown": "9/sb-u4-writing/homework-check-sb-u4-speaking-01.md",
-      "answer_key": "9/sb-u4-writing/homework-check-sb-u4-speaking-01-key.md"
+      "answer_key": "9/sb-u4-writing/homework-check-sb-u4-speaking-01-key.md",
+      "pdf": "9/sb-u4-writing/homework-check-sb-u4-speaking-01.pdf",
+      "answer_key_pdf": "9/sb-u4-writing/homework-check-sb-u4-speaking-01-key.pdf"
     },
     {
       "id": "9-sb-u4-vocabulary-homework-01",
@@ -2817,7 +3441,9 @@
       "assessment_lesson": "9/sb-u4-reading/index.html",
       "json": "9/sb-u4-reading/homework-check-sb-u4-vocabulary-01.json",
       "markdown": "9/sb-u4-reading/homework-check-sb-u4-vocabulary-01.md",
-      "answer_key": "9/sb-u4-reading/homework-check-sb-u4-vocabulary-01-key.md"
+      "answer_key": "9/sb-u4-reading/homework-check-sb-u4-vocabulary-01-key.md",
+      "pdf": "9/sb-u4-reading/homework-check-sb-u4-vocabulary-01.pdf",
+      "answer_key_pdf": "9/sb-u4-reading/homework-check-sb-u4-vocabulary-01-key.pdf"
     },
     {
       "id": "9-sb-u4-vocabulary-2-homework-01",
@@ -2826,7 +3452,9 @@
       "assessment_lesson": "9/sb-u4-grammar-2/index.html",
       "json": "9/sb-u4-grammar-2/homework-check-sb-u4-vocabulary-2-01.json",
       "markdown": "9/sb-u4-grammar-2/homework-check-sb-u4-vocabulary-2-01.md",
-      "answer_key": "9/sb-u4-grammar-2/homework-check-sb-u4-vocabulary-2-01-key.md"
+      "answer_key": "9/sb-u4-grammar-2/homework-check-sb-u4-vocabulary-2-01-key.md",
+      "pdf": "9/sb-u4-grammar-2/homework-check-sb-u4-vocabulary-2-01.pdf",
+      "answer_key_pdf": "9/sb-u4-grammar-2/homework-check-sb-u4-vocabulary-2-01-key.pdf"
     },
     {
       "id": "9-sb-u4-writing-homework-01",
@@ -2835,7 +3463,9 @@
       "assessment_lesson": "9/sb-u4-look-back/index.html",
       "json": "9/sb-u4-look-back/homework-check-sb-u4-writing-01.json",
       "markdown": "9/sb-u4-look-back/homework-check-sb-u4-writing-01.md",
-      "answer_key": "9/sb-u4-look-back/homework-check-sb-u4-writing-01-key.md"
+      "answer_key": "9/sb-u4-look-back/homework-check-sb-u4-writing-01-key.md",
+      "pdf": "9/sb-u4-look-back/homework-check-sb-u4-writing-01.pdf",
+      "answer_key_pdf": "9/sb-u4-look-back/homework-check-sb-u4-writing-01-key.pdf"
     },
     {
       "id": "9-personality-types-homework-01",
@@ -2844,7 +3474,9 @@
       "assessment_lesson": "9/personality-growth/index.html",
       "json": "9/personality-growth/homework-check-personality-types-01.json",
       "markdown": "9/personality-growth/homework-check-personality-types-01.md",
-      "answer_key": "9/personality-growth/homework-check-personality-types-01-key.md"
+      "answer_key": "9/personality-growth/homework-check-personality-types-01-key.md",
+      "pdf": "9/personality-growth/homework-check-personality-types-01.pdf",
+      "answer_key_pdf": "9/personality-growth/homework-check-personality-types-01-key.pdf"
     },
     {
       "id": "9-personality-growth-homework-01",
@@ -2853,7 +3485,9 @@
       "assessment_lesson": "9/present-past-review/index.html",
       "json": "9/present-past-review/homework-check-personality-growth-01.json",
       "markdown": "9/present-past-review/homework-check-personality-growth-01.md",
-      "answer_key": "9/present-past-review/homework-check-personality-growth-01-key.md"
+      "answer_key": "9/present-past-review/homework-check-personality-growth-01-key.md",
+      "pdf": "9/present-past-review/homework-check-personality-growth-01.pdf",
+      "answer_key_pdf": "9/present-past-review/homework-check-personality-growth-01-key.pdf"
     },
     {
       "id": "9-present-past-review-homework-01",
@@ -2862,7 +3496,9 @@
       "assessment_lesson": "9/personal-details/index.html",
       "json": "9/personal-details/homework-check-present-past-review-01.json",
       "markdown": "9/personal-details/homework-check-present-past-review-01.md",
-      "answer_key": "9/personal-details/homework-check-present-past-review-01-key.md"
+      "answer_key": "9/personal-details/homework-check-present-past-review-01-key.md",
+      "pdf": "9/personal-details/homework-check-present-past-review-01.pdf",
+      "answer_key_pdf": "9/personal-details/homework-check-present-past-review-01-key.pdf"
     },
     {
       "id": "9-gerund-homework-01",
@@ -2871,7 +3507,9 @@
       "assessment_lesson": "9/gerund/index.html",
       "json": "9/gerund/homework-check-gerund-01.json",
       "markdown": "9/gerund/homework-check-gerund-01.md",
-      "answer_key": "9/gerund/homework-check-gerund-01-key.md"
+      "answer_key": "9/gerund/homework-check-gerund-01-key.md",
+      "pdf": "9/gerund/homework-check-gerund-01.pdf",
+      "answer_key_pdf": "9/gerund/homework-check-gerund-01-key.pdf"
     },
     {
       "id": "9-gerund-homework-02",
@@ -2880,7 +3518,9 @@
       "assessment_lesson": "9/gerund/index.html",
       "json": "9/gerund/homework-check-gerund-02.json",
       "markdown": "9/gerund/homework-check-gerund-02.md",
-      "answer_key": "9/gerund/homework-check-gerund-02-key.md"
+      "answer_key": "9/gerund/homework-check-gerund-02-key.md",
+      "pdf": "9/gerund/homework-check-gerund-02.pdf",
+      "answer_key_pdf": "9/gerund/homework-check-gerund-02-key.pdf"
     },
     {
       "id": "9-special-occasion-outfits-homework-01",
@@ -2889,7 +3529,9 @@
       "assessment_lesson": "9/clothes-and-accessories/index.html",
       "json": "9/clothes-and-accessories/homework-check-special-occasion-outfits-01.json",
       "markdown": "9/clothes-and-accessories/homework-check-special-occasion-outfits-01.md",
-      "answer_key": "9/clothes-and-accessories/homework-check-special-occasion-outfits-01-key.md"
+      "answer_key": "9/clothes-and-accessories/homework-check-special-occasion-outfits-01-key.md",
+      "pdf": "9/clothes-and-accessories/homework-check-special-occasion-outfits-01.pdf",
+      "answer_key_pdf": "9/clothes-and-accessories/homework-check-special-occasion-outfits-01-key.pdf"
     },
     {
       "id": "9-styles-and-judgement-homework-01",
@@ -2898,7 +3540,9 @@
       "assessment_lesson": "9/fashion-grammar/index.html",
       "json": "9/fashion-grammar/homework-check-styles-and-judgement-01.json",
       "markdown": "9/fashion-grammar/homework-check-styles-and-judgement-01.md",
-      "answer_key": "9/fashion-grammar/homework-check-styles-and-judgement-01-key.md"
+      "answer_key": "9/fashion-grammar/homework-check-styles-and-judgement-01-key.md",
+      "pdf": "9/fashion-grammar/homework-check-styles-and-judgement-01.pdf",
+      "answer_key_pdf": "9/fashion-grammar/homework-check-styles-and-judgement-01-key.pdf"
     },
     {
       "id": "9-future-forms-homework-01",
@@ -2907,7 +3551,9 @@
       "assessment_lesson": "9/future-forms/index.html",
       "json": "9/future-forms/homework-check-future-forms-01.json",
       "markdown": "9/future-forms/homework-check-future-forms-01.md",
-      "answer_key": "9/future-forms/homework-check-future-forms-01-key.md"
+      "answer_key": "9/future-forms/homework-check-future-forms-01-key.md",
+      "pdf": "9/future-forms/homework-check-future-forms-01.pdf",
+      "answer_key_pdf": "9/future-forms/homework-check-future-forms-01-key.pdf"
     },
     {
       "id": "9-future-forms-v2-homework-01",
@@ -2916,7 +3562,9 @@
       "assessment_lesson": "9/future-forms-v2/index.html",
       "json": "9/future-forms-v2/homework-check-future-forms-v2-01.json",
       "markdown": "9/future-forms-v2/homework-check-future-forms-v2-01.md",
-      "answer_key": "9/future-forms-v2/homework-check-future-forms-v2-01-key.md"
+      "answer_key": "9/future-forms-v2/homework-check-future-forms-v2-01-key.md",
+      "pdf": "9/future-forms-v2/homework-check-future-forms-v2-01.pdf",
+      "answer_key_pdf": "9/future-forms-v2/homework-check-future-forms-v2-01-key.pdf"
     },
     {
       "id": "9-sb-starter-homework-01",
@@ -2925,7 +3573,9 @@
       "assessment_lesson": "9/sb-u1-lead-in/index.html",
       "json": "9/sb-u1-lead-in/homework-check-sb-starter-01.json",
       "markdown": "9/sb-u1-lead-in/homework-check-sb-starter-01.md",
-      "answer_key": "9/sb-u1-lead-in/homework-check-sb-starter-01-key.md"
+      "answer_key": "9/sb-u1-lead-in/homework-check-sb-starter-01-key.md",
+      "pdf": "9/sb-u1-lead-in/homework-check-sb-starter-01.pdf",
+      "answer_key_pdf": "9/sb-u1-lead-in/homework-check-sb-starter-01-key.pdf"
     },
     {
       "id": "9-sb-grammar-homework-01",
@@ -2934,7 +3584,9 @@
       "assessment_lesson": "9/sb-grammar/index.html",
       "json": "9/sb-grammar/homework-check-sb-grammar-01.json",
       "markdown": "9/sb-grammar/homework-check-sb-grammar-01.md",
-      "answer_key": "9/sb-grammar/homework-check-sb-grammar-01-key.md"
+      "answer_key": "9/sb-grammar/homework-check-sb-grammar-01-key.md",
+      "pdf": "9/sb-grammar/homework-check-sb-grammar-01.pdf",
+      "answer_key_pdf": "9/sb-grammar/homework-check-sb-grammar-01-key.pdf"
     },
     {
       "id": "9-sb-grammar-homework-02",
@@ -2943,7 +3595,9 @@
       "assessment_lesson": "9/sb-grammar/index.html",
       "json": "9/sb-grammar/homework-check-sb-grammar-02.json",
       "markdown": "9/sb-grammar/homework-check-sb-grammar-02.md",
-      "answer_key": "9/sb-grammar/homework-check-sb-grammar-02-key.md"
+      "answer_key": "9/sb-grammar/homework-check-sb-grammar-02-key.md",
+      "pdf": "9/sb-grammar/homework-check-sb-grammar-02.pdf",
+      "answer_key_pdf": "9/sb-grammar/homework-check-sb-grammar-02-key.pdf"
     }
   ]
 }

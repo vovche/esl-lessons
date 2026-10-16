@@ -10,7 +10,9 @@
       "markdown": "homework-check-gerund-01.md",
       "answer_key": "homework-check-gerund-01-key.md",
       "test_url": "https://naurok.com.ua/test/9-klas-gerund-forma-priymenniki-y-zmist-3887177.html",
-      "status": "published_pending_homework_daily_limit"
+      "status": "published_pending_homework_daily_limit",
+      "pdf": "homework-check-gerund-01.pdf",
+      "answer_key_pdf": "homework-check-gerund-01-key.pdf"
     },
     {
       "id": "9-gerund-homework-02",
@@ -20,7 +22,9 @@
       "markdown": "homework-check-gerund-02.md",
       "answer_key": "homework-check-gerund-02-key.md",
       "test_url": "https://naurok.com.ua/test/9-klas-gerund-znachennya-stop-remember-try-regret-3887204.html",
-      "status": "published_pending_homework_daily_limit"
+      "status": "published_pending_homework_daily_limit",
+      "pdf": "homework-check-gerund-02.pdf",
+      "answer_key_pdf": "homework-check-gerund-02-key.pdf"
     }
   ]
 }

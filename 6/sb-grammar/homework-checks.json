@@ -10,7 +10,9 @@
       "markdown": "homework-check-sb-grammar-01.md",
       "answer_key": "homework-check-sb-grammar-01-key.md",
       "test_url": "https://naurok.com.ua/test-beta/test/3886819",
-      "status": "published_pending_homework_daily_limit"
+      "status": "published_pending_homework_daily_limit",
+      "pdf": "homework-check-sb-grammar-01.pdf",
+      "answer_key_pdf": "homework-check-sb-grammar-01-key.pdf"
     },
     {
       "id": "6-sb-grammar-homework-02",
@@ -20,7 +22,9 @@
       "markdown": "homework-check-sb-grammar-02.md",
       "answer_key": "homework-check-sb-grammar-02-key.md",
       "test_url": "https://naurok.com.ua/test-beta/test/3886834",
-      "status": "published_pending_homework_daily_limit"
+      "status": "published_pending_homework_daily_limit",
+      "pdf": "homework-check-sb-grammar-02.pdf",
+      "answer_key_pdf": "homework-check-sb-grammar-02-key.pdf"
     },
     {
       "id": "6-sb-grammar-homework-03",
@@ -30,7 +34,9 @@
       "markdown": "homework-check-sb-grammar-03.md",
       "answer_key": "homework-check-sb-grammar-03-key.md",
       "test_url": "https://naurok.com.ua/test-beta/test/3886842",
-      "status": "published_pending_homework_daily_limit"
+      "status": "published_pending_homework_daily_limit",
+      "pdf": "homework-check-sb-grammar-03.pdf",
+      "answer_key_pdf": "homework-check-sb-grammar-03-key.pdf"
     },
     {
       "id": "6-sb-grammar-homework-04",
@@ -40,7 +46,9 @@
       "markdown": "homework-check-sb-grammar-04.md",
       "answer_key": "homework-check-sb-grammar-04-key.md",
       "test_url": "https://naurok.com.ua/test-beta/test/3886853",
-      "status": "published_pending_homework_daily_limit"
+      "status": "published_pending_homework_daily_limit",
+      "pdf": "homework-check-sb-grammar-04.pdf",
+      "answer_key_pdf": "homework-check-sb-grammar-04-key.pdf"
     },
     {
       "id": "6-sb-grammar-homework-05",
@@ -50,7 +58,9 @@
       "markdown": "homework-check-sb-grammar-05.md",
       "answer_key": "homework-check-sb-grammar-05-key.md",
       "test_url": "https://naurok.com.ua/test-beta/test/3886856",
-      "status": "published_pending_homework_daily_limit"
+      "status": "published_pending_homework_daily_limit",
+      "pdf": "homework-check-sb-grammar-05.pdf",
+      "answer_key_pdf": "homework-check-sb-grammar-05-key.pdf"
     },
     {
       "id": "6-sb-grammar-homework-06",
@@ -60,7 +70,9 @@
       "markdown": "homework-check-sb-grammar-06.md",
       "answer_key": "homework-check-sb-grammar-06-key.md",
       "test_url": "https://naurok.com.ua/test-beta/test/3886864",
-      "status": "published_pending_homework_daily_limit"
+      "status": "published_pending_homework_daily_limit",
+      "pdf": "homework-check-sb-grammar-06.pdf",
+      "answer_key_pdf": "homework-check-sb-grammar-06-key.pdf"
     },
     {
       "id": "6-sb-grammar-homework-07",
@@ -70,7 +82,9 @@
       "markdown": "homework-check-sb-grammar-07.md",
       "answer_key": "homework-check-sb-grammar-07-key.md",
       "test_url": "https://naurok.com.ua/test-beta/test/3886868",
-      "status": "published_pending_homework_daily_limit"
+      "status": "published_pending_homework_daily_limit",
+      "pdf": "homework-check-sb-grammar-07.pdf",
+      "answer_key_pdf": "homework-check-sb-grammar-07-key.pdf"
     },
     {
       "id": "6-sb-grammar-homework-08",
@@ -80,7 +94,9 @@
       "markdown": "homework-check-sb-grammar-08.md",
       "answer_key": "homework-check-sb-grammar-08-key.md",
       "test_url": "https://naurok.com.ua/test-beta/test/3886871",
-      "status": "published_pending_homework_daily_limit"
+      "status": "published_pending_homework_daily_limit",
+      "pdf": "homework-check-sb-grammar-08.pdf",
+      "answer_key_pdf": "homework-check-sb-grammar-08-key.pdf"
     }
   ]
 }
