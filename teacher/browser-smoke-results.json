@@ -1,0 +1,33 @@
+{
+  "checked_on": "2026-10-18",
+  "browser": "Chromium",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "reduced_motion": true,
+  "smooth_scroll": false,
+  "reports": [
+    {
+      "grade": 6,
+      "lessons": 123,
+      "games": 246,
+      "routes": 67,
+      "errors": []
+    },
+    {
+      "grade": 7,
+      "lessons": 140,
+      "games": 280,
+      "routes": 109,
+      "errors": []
+    },
+    {
+      "grade": 9,
+      "lessons": 121,
+      "games": 242,
+      "routes": 114,
+      "errors": []
+    }
+  ]
+}

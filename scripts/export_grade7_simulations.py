@@ -220,6 +220,9 @@ def mission(p, phase, content):
         source = '\n'.join(en+' — '+uk for en, uk in p['lex'][:4]) if learn else ''
     else:
         source = '\n\n'.join(dict.fromkeys(c['source'] for c in cards))
+    # Source-card assembly may add a sentence stop after an a.m./p.m. abbreviation.
+    # Clean only that duplicated stop, preserving abbreviations and relative paths.
+    source = re.sub(r'([ap]\.m\.)\.', r'\1', source)
     steps = []
     for c, letter in zip(cards, letters):
         ordered = [(c['answer'], 'advance'), (c['wrong'], 'retry')]
@@ -230,7 +233,9 @@ def mission(p, phase, content):
                       'hint': hint(p)})
     return {'id': phase, 'mode': phase,
             'title': ('Відкрий картку: ' if learn else 'Нова картка: ') + public_title(p),
-            'role': ROLES[p['u']], 'goal': GOALS[p['mode']], 'source': source,
+            'role': ('Редактор підсумкової тематичної картки' if p['mode'] == 'assessment' else ROLES[p['u']]),
+            'goal': ('Прочитай картку й потренуйся перевіряти дві деталі з підказкою.'
+                     if learn and p['mode'] == 'assessment' else GOALS[p['mode']]), 'source': source,
             'steps': steps, 'production': production(p, cards),
             'reflection': {key: content['sel_profile'](p)[key] for key in ('focus', 'prompt')}}
 

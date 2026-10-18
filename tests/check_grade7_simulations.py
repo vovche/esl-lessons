@@ -30,6 +30,9 @@ for record,original in zip(actual['lessons'],calendar):
  for game in record['games']:
   assert set(game)=={'id','mode','title','role','goal','source','steps','production','reflection'}
   phase=game['mode'];assert phase==game['id'] and phase in ('learn','check')
+  if p['mode']=='assessment':
+   assert game['role']=='Редактор підсумкової тематичної картки'
+   assert ('з підказкою' in game['goal']) == (phase=='learn')
   assert set(game['reflection'])=={'focus','prompt'}
   assert game['reflection']=={k:content['sel_profile'](p)[k] for k in ('focus','prompt')}
   assert all(game['reflection'].values())
@@ -54,6 +57,7 @@ for record,original in zip(actual['lessons'],calendar):
     assert game['source']
     assert correct[0]['text'].casefold() in game['source'].casefold(),(n,'unsupported public answer')
   patterns.add(tuple(pattern))
+  assert not re.search(r'[ap]\.m\.\.',game['source']), (n,'duplicated time punctuation')
   assert game['production']['prompt'] and set(game['production'])=={'prompt','starter'}
   if p['mode'] in ('grammar','review','portfolio','vocabulary') and phase=='check':
    assert game['source']=='', 'recall check must not display grammar rule/dictionary'

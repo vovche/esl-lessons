@@ -30,6 +30,8 @@ def check():
             assert 'пропустити' in g['reflection']['prompt'] and 'балів' in g['reflection']['prompt']
             assert 'How do you feel' not in g['reflection']['prompt']
             assert 'Оціни' not in g['reflection']['prompt']
+            if mode=='check' and c['type'] in ('reading','listening','assessment','starter'):
+                assert mod['tidy'](raw[ri][0]['prompt']) in g['reflection']['prompt'],(n,'reflection points to another round')
             assert len(g['steps'])==2 and g['source'] and g['production']['prompt']
             for si,step in enumerate(g['steps']):
                 assert set(step)=={'prompt','choices','hint'}

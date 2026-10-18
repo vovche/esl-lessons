@@ -86,6 +86,12 @@
     function focusHeading() { const heading = host.querySelector('[tabindex="-1"]'); if (heading) heading.focus(); }
     function go(next) { state = next; persist(); renderGame(); }
     function heading(text) { const h = el('h3', '', text); h.tabIndex = -1; return h; }
+    function sourceCard(open) {
+      const source = el('details', 'sim-source'); source.open = open;
+      source.append(el('summary', '', open ? 'Картка ситуації' : 'Перечитати картку ситуації'));
+      const text = el('p', '', game.source); text.lang = 'en'; source.append(text);
+      return source;
+    }
 
     function showMenu() {
       game = null;
@@ -108,7 +114,7 @@
           const card = el('article', 'sim-mode-card');
           card.append(el('p', 'sim-mode-name', item.mode === 'learn' ? 'Разом із підказками' : 'Самостійна спроба'),
             el('h3', '', item.title), el('p', '', item.role),
-            el('p', 'sim-muted', item.mode === 'learn' ? 'Приймай рішення, користуйся підказкою та повторюй хід.' : 'Збережи два перші рішення. Результат побачиш наприкінці.'));
+            el('p', 'sim-muted', item.mode === 'learn' ? 'Обери відповідь. Після помилки можна взяти підказку й спробувати ще раз.' : 'Обери по одній відповіді на два запитання. Змінити вибір у цій спробі не можна. Результат побачиш наприкінці.'));
           card.append(button('Почати місію', () => start(item)));
           cards.append(card);
         });
@@ -130,6 +136,7 @@
       toolbar.append(button('← Інші місії', showMenu, true));
       toolbar.append(button(state.paused ? 'Продовжити' : 'Пауза', () => { go({ ...state, paused: !state.paused }); focusHeading(); }, true));
       host.append(toolbar, heading(game.title));
+      if (!saved) host.append(el('p', 'sim-note', 'Браузер не зберігає поступ після закриття чи оновлення сторінки. Можна продовжувати тут або занотувати, на якому ході зупинився.'));
       if (state.paused) {
         host.append(el('p', 'sim-note', 'Місію призупинено. Повертайся, коли матимеш змогу.'));
         return;
@@ -144,9 +151,7 @@
       progress.setAttribute('aria-label', 'Пройдені ходи');
       host.append(progressLabel, progress);
       if (game.source) {
-        const source = el('details', 'sim-source'); source.open = true;
-        source.append(el('summary', '', 'Картка ситуації'));
-        const text = el('p', '', game.source); text.lang = 'en'; source.append(text); host.append(source);
+        host.append(sourceCard(true));
       }
       const step = game.steps[state.cursor];
       const fieldset = el('fieldset', 'sim-step');
@@ -162,7 +167,7 @@
       fieldset.append(choices); host.append(fieldset);
       const feedback = el('p', 'sim-feedback'); feedback.setAttribute('role', 'status'); feedback.setAttribute('aria-live', 'polite');
       if (state.lastChoice !== null) {
-        feedback.textContent = game.mode === 'check' ? 'Вибір збережено. Переходь до наступного ходу.' :
+        feedback.textContent = game.mode === 'check' ? (state.cursor === game.steps.length - 1 ? 'Вибір збережено. Натисни «Завершити місію», щоб побачити результат.' : 'Вибір збережено. Переходь до наступного ходу.') :
           state.lastCorrect ? 'Рішення прийнято. Можна рухатися далі.' : 'Цей хід ще не відкрив наступний крок. Спробуй інший варіант або візьми підказку.';
         if (game.mode === 'learn') feedback.classList.add(state.lastCorrect ? 'sim-good' : 'sim-retry');
       }
@@ -182,7 +187,18 @@
       const total = game.steps.length;
       host.append(el('p', 'sim-score', 'З першої спроби в цьому проходженні: ' + score(state) + ' із ' + total + '.'));
       if (state.run > 1 && state.firstResult !== null) host.append(el('p', 'sim-muted', 'Перший завершений результат: ' + state.firstResult + ' із ' + total + '.'));
-      host.append(el('p', 'sim-muted', 'Це коротка самоперевірка. Обери наступний крок: перечитати картку, потренуватися з підказкою або скласти власний приклад. Результат не є оцінкою за тему.'));
+      host.append(el('p', 'sim-muted', 'Це коротка самоперевірка. Обери наступний крок: ' + (game.source ? 'перечитати картку' : 'повернутися до матеріалу уроку') + ', потренуватися з підказкою або скласти власний приклад. Результат не є оцінкою за тему.'));
+      const review = el('details', 'sim-review');
+      review.append(el('summary', '', 'Мої перші рішення: що вдалося і що повторити'));
+      game.steps.forEach((step, index) => {
+        const item = el('div', 'sim-review-item');
+        const prompt = el('p', '', step.prompt); prompt.lang = 'en';
+        item.append(el('p', 'sim-review-result', 'Хід ' + (index + 1) + ': ' + (state.first[index] ? 'вдалося з першого вибору.' : 'варто повторити.')), prompt);
+        if (!state.first[index] && step.hint) item.append(el('p', 'sim-note', step.hint));
+        review.append(item);
+      });
+      host.append(review);
+      if (game.source) host.append(sourceCard(false));
       if (game.production && game.production.prompt) {
         const label = el('label', 'sim-label', 'Твоя англійська репліка');
         const id = 'sim-production-' + grade + '-' + slug;
@@ -231,5 +247,30 @@
     });
   }
 
-  document.querySelectorAll('[data-lesson-simulations]').forEach(mount);
+  function connectFullscreenLesson(root) {
+    if (!root.closest('.quest-stage')) return;
+    const dialog = el('dialog', 'sim-dialog');
+    dialog.setAttribute('aria-labelledby', 'lesson-simulations-title');
+    const close = button('Повернутися до уроку', () => dialog.close(), true);
+    close.classList.add('sim-dialog-close');
+    dialog.append(close, root);
+    document.body.append(dialog);
+    // The legacy fullscreen lesson listens for letter and arrow shortcuts on window.
+    // Typing in a mission must not navigate the lesson behind the modal.
+    dialog.addEventListener('keydown', event => event.stopPropagation());
+    const launch = () => {
+      const control = button('Ігрові місії', () => dialog.showModal());
+      control.classList.add('sim-launch');
+      return control;
+    };
+    const portrait = document.querySelector('.rotate-card');
+    if (portrait) portrait.append(launch());
+    const controls = document.querySelector('.quest-tip');
+    if (controls) controls.replaceChildren(launch());
+  }
+
+  document.querySelectorAll('[data-lesson-simulations]').forEach(root => {
+    connectFullscreenLesson(root);
+    mount(root);
+  });
 })(typeof window !== 'undefined' ? window : globalThis);

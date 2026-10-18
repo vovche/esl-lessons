@@ -143,6 +143,14 @@ def production(c):
     return {'prompt':prompt,'starter':starter}
 
 
+def reflection(c,mode,qs):
+    profile=BUILD['sel_profile'](c)
+    prompt=profile['prompt']
+    if mode=='check' and c['type'] in ('reading','listening','assessment','starter'):
+        prompt=f'Який спосіб перевірки допоміг у питанні «{qs[0]["prompt"]}»? У якій іншій ситуації він допоміг би перевірити припущення?'
+    return {'focus':tidy(profile['focus']),'prompt':'За бажанням: '+tidy(prompt)+' Можна подумати мовчки або пропустити; балів за це немає.'}
+
+
 def export():
     lessons=[]
     for l in PLAN:
@@ -164,7 +172,7 @@ def export():
                 opts=[{'text':tidy(q['answer']),'effect':'advance'},{'text':tidy(q['wrong'][0]),'effect':'retry'}]
                 if (n+round_index+i)%2:opts.reverse()
                 steps.append({'prompt':tidy(q['prompt']),'choices':opts,'hint':HINTS[typ]})
-            games.append({'id':mode,'mode':mode,'title':('Майстерня: ' if mode=='learn' else 'Новий виклик: ')+title,'role':learner_role,'goal':goal,'source':tidy(material(c,mode)),'steps':steps,'production':production(c),'reflection':{'focus':tidy(BUILD['sel_profile'](c)['focus']),'prompt':'За бажанням: '+tidy(BUILD['sel_profile'](c)['prompt'])+' Можна подумати мовчки або пропустити; балів за це немає.'}})
+            games.append({'id':mode,'mode':mode,'title':('Майстерня: ' if mode=='learn' else 'Новий виклик: ')+title,'role':learner_role,'goal':goal,'source':tidy(material(c,mode)),'steps':steps,'production':production(c),'reflection':reflection(c,mode,qs)})
         lessons.append({'id':f'g9-{n:03d}','number':n,'title':title,'slugs':slugs(l,c),'games':games})
     return {'version':1,'grade':9,'lessons':lessons}
 

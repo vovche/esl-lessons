@@ -1566,7 +1566,7 @@
           "title": "Відкрий картку: Підготуй картку шкільної події",
           "role": "Редактор шкільної картки",
           "goal": "Звір факти для своєї тематичної картки.",
-          "source": "Kim belongs to a school club. The club meets in the art room on Monday at 4 p.m.. This week the members are preparing a short school play for the school anniversary. Kim usually collects ideas, but today is making a decoration. One member calls himself a science geek; another enjoys books. The teacher explains that labels must never be used to tease people. Everyone can choose a useful role.",
+          "source": "Kim belongs to a school club. The club meets in the art room on Monday at 4 p.m. This week the members are preparing a short school play for the school anniversary. Kim usually collects ideas, but today is making a decoration. One member calls himself a science geek; another enjoys books. The teacher explains that labels must never be used to tease people. Everyone can choose a useful role.",
           "steps": [
             {
               "prompt": "What are members preparing for?",
@@ -1612,7 +1612,7 @@
           "title": "Нова картка: Підготуй картку шкільної події",
           "role": "Редактор шкільної картки",
           "goal": "Звір факти для своєї тематичної картки.",
-          "source": "Alex belongs to a school club. The club meets in the school hall on Wednesday at 2 p.m.. This week the members are preparing an exhibition of drawings for the school anniversary. Alex usually collects ideas, but today is making a poster. One member calls himself a science geek; another enjoys books. The teacher explains that labels must never be used to tease people. Everyone can choose a useful role.",
+          "source": "Alex belongs to a school club. The club meets in the school hall on Wednesday at 2 p.m. This week the members are preparing an exhibition of drawings for the school anniversary. Alex usually collects ideas, but today is making a poster. One member calls himself a science geek; another enjoys books. The teacher explains that labels must never be used to tease people. Everyone can choose a useful role.",
           "steps": [
             {
               "prompt": "What are members preparing for?",
@@ -3219,9 +3219,9 @@
           "id": "learn",
           "mode": "learn",
           "title": "Відкрий картку: Школа, справи й традиції: нові деталі",
-          "role": "Учасник команди домашніх справ",
-          "goal": "Самостійно перевір дві деталі англійської картки.",
-          "source": "Dana belongs to a school club. The club meets in the science lab on Friday at 3 p.m.. This week the members are preparing a presentation about birds for the school anniversary. Dana usually collects ideas, but today is making a decoration. One member calls himself a science geek; another enjoys books. The teacher explains that labels must never be used to tease people. Everyone can choose a useful role.",
+          "role": "Редактор підсумкової тематичної картки",
+          "goal": "Прочитай картку й потренуйся перевіряти дві деталі з підказкою.",
+          "source": "Dana belongs to a school club. The club meets in the science lab on Friday at 3 p.m. This week the members are preparing a presentation about birds for the school anniversary. Dana usually collects ideas, but today is making a decoration. One member calls himself a science geek; another enjoys books. The teacher explains that labels must never be used to tease people. Everyone can choose a useful role.",
           "steps": [
             {
               "prompt": "What are members preparing for?",
@@ -3265,9 +3265,9 @@
           "id": "check",
           "mode": "check",
           "title": "Нова картка: Школа, справи й традиції: нові деталі",
-          "role": "Учасник команди домашніх справ",
+          "role": "Редактор підсумкової тематичної картки",
           "goal": "Самостійно перевір дві деталі англійської картки.",
-          "source": "Robin and two friends met in the community room on Friday at 5 p.m.. They made a simple chore chart. Yesterday Robin dried the dishes while Ari washed up. At ten o’clock Sam was reading the plan. The dishwasher was not working, so the friends used a saucepan. They shared the tasks by agreement and asked before changing a partner’s job. They switched off the vacuum cleaner when the work was finished.",
+          "source": "Robin and two friends met in the community room on Friday at 5 p.m. They made a simple chore chart. Yesterday Robin dried the dishes while Ari washed up. At ten o’clock Sam was reading the plan. The dishwasher was not working, so the friends used a saucepan. They shared the tasks by agreement and asked before changing a partner’s job. They switched off the vacuum cleaner when the work was finished.",
           "steps": [
             {
               "prompt": "What did the learner do yesterday?",
@@ -4657,7 +4657,7 @@
           "title": "Відкрий картку: Підготуй картку страви",
           "role": "Редактор кулінарної картки",
           "goal": "Звір факти для своєї тематичної картки.",
-          "source": "Kim has brought a recipe for a cold sandwich to the recipe workshop. The group meets on Saturday at 11 a.m.. The members have checked the ingredients, but they have not chosen all the utensils yet. There is a bowl, a ladle and a chopping board on the table. An adult manages all sharp tools and hot equipment. The students only write instructions today. They respect different food choices and ask before suggesting an ingredient.",
+          "source": "Kim has brought a recipe for a cold sandwich to the recipe workshop. The group meets on Saturday at 11 a.m. The members have checked the ingredients, but they have not chosen all the utensils yet. There is a bowl, a ladle and a chopping board on the table. An adult manages all sharp tools and hot equipment. The students only write instructions today. They respect different food choices and ask before suggesting an ingredient.",
           "steps": [
             {
               "prompt": "What have members already checked?",
@@ -4703,7 +4703,7 @@
           "title": "Нова картка: Підготуй картку страви",
           "role": "Редактор кулінарної картки",
           "goal": "Звір факти для своєї тематичної картки.",
-          "source": "Alex has brought a fruit salad recipe to the school kitchen. The group meets on Thursday at 2 p.m.. The members have checked the utensils, but they have not chosen all the utensils yet. There is a saucepan, a ladle and a chopping board on the table. An adult manages all sharp tools and hot equipment. The students only write instructions today. They respect different food choices and ask before suggesting an ingredient.",
+          "source": "Alex has brought a fruit salad recipe to the school kitchen. The group meets on Thursday at 2 p.m. The members have checked the utensils, but they have not chosen all the utensils yet. There is a saucepan, a ladle and a chopping board on the table. An adult manages all sharp tools and hot equipment. The students only write instructions today. They respect different food choices and ask before suggesting an ingredient.",
           "steps": [
             {
               "prompt": "What have members already checked?",
@@ -6199,9 +6199,9 @@
           "id": "learn",
           "mode": "learn",
           "title": "Відкрий картку: Школа, справи й традиції: нові деталі",
-          "role": "Автор картки святкових традицій",
-          "goal": "Самостійно перевір дві деталі англійської картки.",
-          "source": "Robin has brought a recipe for a cold sandwich to the recipe workshop. The group meets on Saturday at 11 a.m.. The members have checked the ingredients, but they have not chosen all the utensils yet. There is a bowl, a ladle and a chopping board on the table. An adult manages all sharp tools and hot equipment. The students only write instructions today. They respect different food choices and ask before suggesting an ingredient.",
+          "role": "Редактор підсумкової тематичної картки",
+          "goal": "Прочитай картку й потренуйся перевіряти дві деталі з підказкою.",
+          "source": "Robin has brought a recipe for a cold sandwich to the recipe workshop. The group meets on Saturday at 11 a.m. The members have checked the ingredients, but they have not chosen all the utensils yet. There is a bowl, a ladle and a chopping board on the table. An adult manages all sharp tools and hot equipment. The students only write instructions today. They respect different food choices and ask before suggesting an ingredient.",
           "steps": [
             {
               "prompt": "What have members already checked?",
@@ -6245,9 +6245,9 @@
           "id": "check",
           "mode": "check",
           "title": "Нова картка: Школа, справи й традиції: нові деталі",
-          "role": "Автор картки святкових традицій",
+          "role": "Редактор підсумкової тематичної картки",
           "goal": "Самостійно перевір дві деталі англійської картки.",
-          "source": "Leo is making a guide to an imaginary local celebration. It is held in the town library on Saturday at 2 p.m.. Visitors are shown a collection of greeting cards. Cards are made by older pupils and guests are greeted politely. Some stories mention New Year’s Eve and midnight. A drawing of a candle is used instead of a real flame. Visitors may take part or quietly observe. The guide does not claim that everyone celebrates in the same way.",
+          "source": "Leo is making a guide to an imaginary local celebration. It is held in the town library on Saturday at 2 p.m. Visitors are shown a collection of greeting cards. Cards are made by older pupils and guests are greeted politely. Some stories mention New Year’s Eve and midnight. A drawing of a candle is used instead of a real flame. Visitors may take part or quietly observe. The guide does not claim that everyone celebrates in the same way.",
           "steps": [
             {
               "prompt": "Who makes the cards?",
@@ -6304,9 +6304,9 @@
           "id": "learn",
           "mode": "learn",
           "title": "Відкрий картку: Школа, справи й традиції: нові деталі",
-          "role": "Автор картки святкових традицій",
-          "goal": "Самостійно перевір дві деталі англійської картки.",
-          "source": "Dana belongs to a school club. The club meets in the science lab on Friday at 3 p.m.. This week the members are preparing a presentation about birds for the school anniversary. Dana usually collects ideas, but today is making a decoration. One member calls himself a science geek; another enjoys books. The teacher explains that labels must never be used to tease people. Everyone can choose a useful role. Dana and two friends met in the kitchen on Saturday at 10 a.m.. They made a list of household duties. Yesterday Dana swept the floor while Ari washed up. At ten o’clock Sam was checking the list. The dishwasher was not working, so the friends used a bowl. They shared the tasks fairly and asked before changing a partner’s job. They switched off the vacuum cleaner when the work was finished.",
+          "role": "Редактор підсумкової тематичної картки",
+          "goal": "Прочитай картку й потренуйся перевіряти дві деталі з підказкою.",
+          "source": "Dana belongs to a school club. The club meets in the science lab on Friday at 3 p.m. This week the members are preparing a presentation about birds for the school anniversary. Dana usually collects ideas, but today is making a decoration. One member calls himself a science geek; another enjoys books. The teacher explains that labels must never be used to tease people. Everyone can choose a useful role. Dana and two friends met in the kitchen on Saturday at 10 a.m. They made a list of household duties. Yesterday Dana swept the floor while Ari washed up. At ten o’clock Sam was checking the list. The dishwasher was not working, so the friends used a bowl. They shared the tasks fairly and asked before changing a partner’s job. They switched off the vacuum cleaner when the work was finished.",
           "steps": [
             {
               "prompt": "What are members preparing for?",
@@ -6350,9 +6350,9 @@
           "id": "check",
           "mode": "check",
           "title": "Нова картка: Школа, справи й традиції: нові деталі",
-          "role": "Автор картки святкових традицій",
+          "role": "Редактор підсумкової тематичної картки",
           "goal": "Самостійно перевір дві деталі англійської картки.",
-          "source": "Robin is making a guide to an imaginary local celebration. It is held in the school museum on Thursday at 3 p.m.. Visitors are shown a story about a winter custom. Cards are made by older pupils and guests are greeted politely. Some stories mention New Year’s Eve and midnight. A drawing of a candle is used instead of a real flame. Visitors may take part or quietly observe. The guide does not claim that everyone celebrates in the same way.",
+          "source": "Robin is making a guide to an imaginary local celebration. It is held in the school museum on Thursday at 3 p.m. Visitors are shown a story about a winter custom. Cards are made by older pupils and guests are greeted politely. Some stories mention New Year’s Eve and midnight. A drawing of a candle is used instead of a real flame. Visitors may take part or quietly observe. The guide does not claim that everyone celebrates in the same way.",
           "steps": [
             {
               "prompt": "Who makes the cards?",
@@ -6409,9 +6409,9 @@
           "id": "learn",
           "mode": "learn",
           "title": "Відкрий картку: Школа, справи й традиції: нові деталі",
-          "role": "Автор картки святкових традицій",
-          "goal": "Самостійно перевір дві деталі англійської картки.",
-          "source": "Alex belongs to a school club. The club meets in the school hall on Wednesday at 2 p.m.. This week the members are preparing an exhibition of drawings for the school anniversary. Alex usually collects ideas, but today is making a decoration. One member calls himself a science geek; another enjoys books. The teacher explains that labels must never be used to tease people. Everyone can choose a useful role. Alex and two friends met in the living room on Sunday at 11 a.m.. They made a shared cleaning plan. Yesterday Alex swept the floor while Ari washed up. At ten o’clock Sam was checking the list. The dishwasher was not working, so the friends used a bowl. They shared the tasks fairly and asked before changing a partner’s job. They switched off the vacuum cleaner when the work was finished.",
+          "role": "Редактор підсумкової тематичної картки",
+          "goal": "Прочитай картку й потренуйся перевіряти дві деталі з підказкою.",
+          "source": "Alex belongs to a school club. The club meets in the school hall on Wednesday at 2 p.m. This week the members are preparing an exhibition of drawings for the school anniversary. Alex usually collects ideas, but today is making a decoration. One member calls himself a science geek; another enjoys books. The teacher explains that labels must never be used to tease people. Everyone can choose a useful role. Alex and two friends met in the living room on Sunday at 11 a.m. They made a shared cleaning plan. Yesterday Alex swept the floor while Ari washed up. At ten o’clock Sam was checking the list. The dishwasher was not working, so the friends used a bowl. They shared the tasks fairly and asked before changing a partner’s job. They switched off the vacuum cleaner when the work was finished.",
           "steps": [
             {
               "prompt": "What are members preparing for?",
@@ -6455,9 +6455,9 @@
           "id": "check",
           "mode": "check",
           "title": "Нова картка: Школа, справи й традиції: нові деталі",
-          "role": "Автор картки святкових традицій",
+          "role": "Редактор підсумкової тематичної картки",
           "goal": "Самостійно перевір дві деталі англійської картки.",
-          "source": "Dana is making a guide to an imaginary local celebration. It is held in the community hall on Friday at 4 p.m.. Visitors are shown a paper lantern display. Cards are made by older pupils and guests are greeted politely. Some stories mention New Year’s Eve and midnight. A drawing of a candle is used instead of a real flame. Visitors may take part or quietly observe. The guide does not claim that everyone celebrates in the same way.",
+          "source": "Dana is making a guide to an imaginary local celebration. It is held in the community hall on Friday at 4 p.m. Visitors are shown a paper lantern display. Cards are made by older pupils and guests are greeted politely. Some stories mention New Year’s Eve and midnight. A drawing of a candle is used instead of a real flame. Visitors may take part or quietly observe. The guide does not claim that everyone celebrates in the same way.",
           "steps": [
             {
               "prompt": "Who makes the cards?",
@@ -8361,7 +8361,7 @@
           "title": "Відкрий картку: Підготуй спортивний допис",
           "role": "Спортивний кореспондент",
           "goal": "Звір факти для своєї тематичної картки.",
-          "source": "A friendly volleyball match was organised by the school club. It was played in the school playground on Wednesday at 3 p.m.. Kim wrote a short report. The equipment was checked by the coach before the game. Two teams took part and the reporter checked the score before publication. A prize was given for fair play, not only for winning. Students could also help as reporters or scorekeepers. The report describes actions without insulting the other team.",
+          "source": "A friendly volleyball match was organised by the school club. It was played in the school playground on Wednesday at 3 p.m. Kim wrote a short report. The equipment was checked by the coach before the game. Two teams took part and the reporter checked the score before publication. A prize was given for fair play, not only for winning. Students could also help as reporters or scorekeepers. The report describes actions without insulting the other team.",
           "steps": [
             {
               "prompt": "Who checked the equipment?",
@@ -8407,7 +8407,7 @@
           "title": "Нова картка: Підготуй спортивний допис",
           "role": "Спортивний кореспондент",
           "goal": "Звір факти для своєї тематичної картки.",
-          "source": "A school table tennis competition was organised by the school club. It was played in the town sports hall on Saturday at 10 a.m.. Alex wrote a short report. The equipment was checked by the organiser before the game. Two teams took part and the reporter checked the score before publication. A prize was given for teamwork, not only for winning. Students could also help as scorekeepers or scorekeepers. The report describes actions without insulting the other team.",
+          "source": "A school table tennis competition was organised by the school club. It was played in the town sports hall on Saturday at 10 a.m. Alex wrote a short report. The equipment was checked by the organiser before the game. Two teams took part and the reporter checked the score before publication. A prize was given for teamwork, not only for winning. Students could also help as scorekeepers or scorekeepers. The report describes actions without insulting the other team.",
           "steps": [
             {
               "prompt": "Who checked the equipment?",
@@ -10313,9 +10313,9 @@
           "id": "learn",
           "mode": "learn",
           "title": "Відкрий картку: Спорт, кіно й подорожі: нові деталі",
-          "role": "Автор ввічливого запиту",
-          "goal": "Самостійно перевір дві деталі англійської картки.",
-          "source": "A friendly basketball match was organised by the school club. It was played in the school gym on Friday at 2 p.m.. Mia wrote a short report. The equipment was checked by the coach before the game. Two teams took part and the reporter checked the score before publication. A prize was given for fair play, not only for winning. Students could also help as reporters or scorekeepers. The report describes actions without insulting the other team.",
+          "role": "Редактор підсумкової тематичної картки",
+          "goal": "Прочитай картку й потренуйся перевіряти дві деталі з підказкою.",
+          "source": "A friendly basketball match was organised by the school club. It was played in the school gym on Friday at 2 p.m. Mia wrote a short report. The equipment was checked by the coach before the game. Two teams took part and the reporter checked the score before publication. A prize was given for fair play, not only for winning. Students could also help as reporters or scorekeepers. The report describes actions without insulting the other team.",
           "steps": [
             {
               "prompt": "Who checked the equipment?",
@@ -10359,9 +10359,9 @@
           "id": "check",
           "mode": "check",
           "title": "Нова картка: Спорт, кіно й подорожі: нові деталі",
-          "role": "Автор ввічливого запиту",
+          "role": "Редактор підсумкової тематичної картки",
           "goal": "Самостійно перевір дві деталі англійської картки.",
-          "source": "Kim, a fictional character, arrives at the clinic waiting room on Thursday at 11 a.m.. Before the visit, the character had prepared a completed information form. The receptionist asks about the appointment, and Kim describes a headache in simple words. If a visitor needs language help, the receptionist offers a printed card. The nurse listens and asks one question at a time. This is language practice: students do not diagnose illness or suggest medicine.",
+          "source": "Kim, a fictional character, arrives at the clinic waiting room on Thursday at 11 a.m. Before the visit, the character had prepared a completed information form. The receptionist asks about the appointment, and Kim describes a headache in simple words. If a visitor needs language help, the receptionist offers a printed card. The nurse listens and asks one question at a time. This is language practice: students do not diagnose illness or suggest medicine.",
           "steps": [
             {
               "prompt": "What symptom does the fictional character describe?",
@@ -11955,7 +11955,7 @@
           "title": "Відкрий картку: Підготуй відгук про фільм",
           "role": "Редактор театральної та кінокартки",
           "goal": "Звір факти для своєї тематичної картки.",
-          "source": "Alex watched a play about a travelling musician in the community cinema on Saturday at 3 p.m.. The plot was quite simple, but the performance was very lively. The audience could read subtitles on a screen. Alex found the first half more interesting than the second half. A friend preferred the ending because it was less predictable. Their review compares the story and the acting. Both opinions are accepted when they include a reason and respectful language.",
+          "source": "Alex watched a play about a travelling musician in the community cinema on Saturday at 3 p.m. The plot was quite simple, but the performance was very lively. The audience could read subtitles on a screen. Alex found the first half more interesting than the second half. A friend preferred the ending because it was less predictable. Their review compares the story and the acting. Both opinions are accepted when they include a reason and respectful language.",
           "steps": [
             {
               "prompt": "How is the plot described?",
@@ -12001,7 +12001,7 @@
           "title": "Нова картка: Підготуй відгук про фільм",
           "role": "Редактор театральної та кінокартки",
           "goal": "Звір факти для своєї тематичної картки.",
-          "source": "Dana watched a comedy about two lost robots in the school theatre on Friday at 5 p.m.. The plot was very clear, but the performance was very lively. The audience could read a written summary on a screen. Dana found the first half more interesting than the second half. A friend preferred the ending because it was less predictable. Their review compares the story and the acting. Both opinions are accepted when they include a reason and respectful language.",
+          "source": "Dana watched a comedy about two lost robots in the school theatre on Friday at 5 p.m. The plot was very clear, but the performance was very lively. The audience could read a written summary on a screen. Dana found the first half more interesting than the second half. A friend preferred the ending because it was less predictable. Their review compares the story and the acting. Both opinions are accepted when they include a reason and respectful language.",
           "steps": [
             {
               "prompt": "How is the plot described?",
@@ -13804,9 +13804,9 @@
           "id": "learn",
           "mode": "learn",
           "title": "Відкрий картку: Спорт, кіно й подорожі: нові деталі",
-          "role": "Укладач уявного маршруту",
-          "goal": "Самостійно перевір дві деталі англійської картки.",
-          "source": "Alex watched a play about a travelling musician in the community cinema on Saturday at 3 p.m.. The plot was quite simple, but the performance was very lively. The audience could read subtitles on a screen. Alex found the first half more interesting than the second half. A friend preferred the ending because it was less predictable. Their review compares the story and the acting. Both opinions are accepted when they include a reason and respectful language.",
+          "role": "Редактор підсумкової тематичної картки",
+          "goal": "Прочитай картку й потренуйся перевіряти дві деталі з підказкою.",
+          "source": "Alex watched a play about a travelling musician in the community cinema on Saturday at 3 p.m. The plot was quite simple, but the performance was very lively. The audience could read subtitles on a screen. Alex found the first half more interesting than the second half. A friend preferred the ending because it was less predictable. Their review compares the story and the acting. Both opinions are accepted when they include a reason and respectful language.",
           "steps": [
             {
               "prompt": "How is the plot described?",
@@ -13850,9 +13850,9 @@
           "id": "check",
           "mode": "check",
           "title": "Нова картка: Спорт, кіно й подорожі: нові деталі",
-          "role": "Укладач уявного маршруту",
+          "role": "Редактор підсумкової тематичної картки",
           "goal": "Самостійно перевір дві деталі англійської картки.",
-          "source": "Dana is planning an imaginary trip. The group meets at the old castle gate on Saturday at 10 a.m.. The itinerary includes a castle and a small museum. Both attractions are shown on a paper map. Each visitor receives a route card, but no online ticket is needed for this classroom story. The tour guide suggests either a short route or a longer route. Dana chooses the accessible route because it includes a quiet stop. The group checks the meeting point before leaving.",
+          "source": "Dana is planning an imaginary trip. The group meets at the old castle gate on Saturday at 10 a.m. The itinerary includes a castle and a small museum. Both attractions are shown on a paper map. Each visitor receives a route card, but no online ticket is needed for this classroom story. The tour guide suggests either a short route or a longer route. Dana chooses the accessible route because it includes a quiet stop. The group checks the meeting point before leaving.",
           "steps": [
             {
               "prompt": "What does each visitor receive?",
@@ -14013,9 +14013,9 @@
           "id": "learn",
           "mode": "learn",
           "title": "Відкрий картку: Спорт, кіно й подорожі: нові деталі",
-          "role": "Укладач уявного маршруту",
-          "goal": "Самостійно перевір дві деталі англійської картки.",
-          "source": "A friendly basketball match was organised by the school club. It was played in the school gym on Friday at 2 p.m.. Mia wrote a short report. The equipment was checked by the coach before the game. Two teams took part and the reporter checked the score before publication. A prize was given for fair play, not only for winning. Students could also help as reporters or scorekeepers. The report describes actions without insulting the other team. Mia, a fictional character, arrives at the school health room on Monday at 9 a.m.. Before the visit, the character had prepared an appointment card. The receptionist asks about the appointment, and Mia describes a sore throat in simple words. If a visitor needs language help, the receptionist offers a paper form. The nurse listens and asks one question at a time. This is language practice: students do not diagnose illness or suggest medicine.",
+          "role": "Редактор підсумкової тематичної картки",
+          "goal": "Прочитай картку й потренуйся перевіряти дві деталі з підказкою.",
+          "source": "A friendly basketball match was organised by the school club. It was played in the school gym on Friday at 2 p.m. Mia wrote a short report. The equipment was checked by the coach before the game. Two teams took part and the reporter checked the score before publication. A prize was given for fair play, not only for winning. Students could also help as reporters or scorekeepers. The report describes actions without insulting the other team. Mia, a fictional character, arrives at the school health room on Monday at 9 a.m. Before the visit, the character had prepared an appointment card. The receptionist asks about the appointment, and Mia describes a sore throat in simple words. If a visitor needs language help, the receptionist offers a paper form. The nurse listens and asks one question at a time. This is language practice: students do not diagnose illness or suggest medicine.",
           "steps": [
             {
               "prompt": "Who checked the equipment?",
@@ -14059,9 +14059,9 @@
           "id": "check",
           "mode": "check",
           "title": "Нова картка: Спорт, кіно й подорожі: нові деталі",
-          "role": "Укладач уявного маршруту",
+          "role": "Редактор підсумкової тематичної картки",
           "goal": "Самостійно перевір дві деталі англійської картки.",
-          "source": "Kim is planning an imaginary trip. The group meets at the central library on Friday at 2 p.m.. The itinerary includes a landmark and an art gallery. Both attractions are shown on a paper map. Each visitor receives a route card, but no online ticket is needed for this classroom story. The tour guide suggests either a short route or a longer route. Kim chooses the accessible route because it includes a quiet stop. The group checks the meeting point before leaving.",
+          "source": "Kim is planning an imaginary trip. The group meets at the central library on Friday at 2 p.m. The itinerary includes a landmark and an art gallery. Both attractions are shown on a paper map. Each visitor receives a route card, but no online ticket is needed for this classroom story. The tour guide suggests either a short route or a longer route. Kim chooses the accessible route because it includes a quiet stop. The group checks the meeting point before leaving.",
           "steps": [
             {
               "prompt": "What does each visitor receive?",
@@ -14118,9 +14118,9 @@
           "id": "learn",
           "mode": "learn",
           "title": "Відкрий картку: Спорт, кіно й подорожі: нові деталі",
-          "role": "Укладач уявного маршруту",
-          "goal": "Самостійно перевір дві деталі англійської картки.",
-          "source": "A school table tennis competition was organised by the school club. It was played in the town sports hall on Saturday at 10 a.m.. Leo wrote a short report. The equipment was checked by the coach before the game. Two teams took part and the reporter checked the score before publication. A prize was given for fair play, not only for winning. Students could also help as reporters or scorekeepers. The report describes actions without insulting the other team. Leo, a fictional character, arrives at the reception desk on Tuesday at 10 a.m.. Before the visit, the character had prepared a short message for the nurse. The receptionist asks about the appointment, and Leo describes a sore throat in simple words. If a visitor needs language help, the receptionist offers a paper form. The nurse listens and asks one question at a time. This is language practice: students do not diagnose illness or suggest medicine.",
+          "role": "Редактор підсумкової тематичної картки",
+          "goal": "Прочитай картку й потренуйся перевіряти дві деталі з підказкою.",
+          "source": "A school table tennis competition was organised by the school club. It was played in the town sports hall on Saturday at 10 a.m. Leo wrote a short report. The equipment was checked by the coach before the game. Two teams took part and the reporter checked the score before publication. A prize was given for fair play, not only for winning. Students could also help as reporters or scorekeepers. The report describes actions without insulting the other team. Leo, a fictional character, arrives at the reception desk on Tuesday at 10 a.m. Before the visit, the character had prepared a short message for the nurse. The receptionist asks about the appointment, and Leo describes a sore throat in simple words. If a visitor needs language help, the receptionist offers a paper form. The nurse listens and asks one question at a time. This is language practice: students do not diagnose illness or suggest medicine.",
           "steps": [
             {
               "prompt": "Who checked the equipment?",
@@ -14164,9 +14164,9 @@
           "id": "check",
           "mode": "check",
           "title": "Нова картка: Спорт, кіно й подорожі: нові деталі",
-          "role": "Укладач уявного маршруту",
+          "role": "Редактор підсумкової тематичної картки",
           "goal": "Самостійно перевір дві деталі англійської картки.",
-          "source": "Mia is planning an imaginary trip. The group meets at the old castle gate on Saturday at 10 a.m.. The itinerary includes a castle and a small museum. Both attractions are shown on a paper map. Each visitor receives a route card, but no online ticket is needed for this classroom story. The tour guide suggests either a short route or a longer route. Mia chooses the accessible route because it includes a quiet stop. The group checks the meeting point before leaving.",
+          "source": "Mia is planning an imaginary trip. The group meets at the old castle gate on Saturday at 10 a.m. The itinerary includes a castle and a small museum. Both attractions are shown on a paper map. Each visitor receives a route card, but no online ticket is needed for this classroom story. The tour guide suggests either a short route or a longer route. Mia chooses the accessible route because it includes a quiet stop. The group checks the meeting point before leaving.",
           "steps": [
             {
               "prompt": "What does each visitor receive?",

@@ -37,7 +37,7 @@
 .lesson-simulations .sim-progress-label { margin-bottom: 4px; }
 .lesson-simulations .sim-progress { width: 100%; accent-color: var(--blue, #075b79); height: 10px; display: block; margin-bottom: 24px; }
 .lesson-simulations .sim-source { padding: 18px; background: var(--blue-soft, #e6f4f7); border: 1px solid var(--line); border-radius: 12px; margin: 20px 0; }
-.lesson-simulations .sim-source summary { cursor: pointer; font-weight: 700; }
+.lesson-simulations :is(.sim-source, .sim-reflection, .sim-review) summary { cursor: pointer; font-weight: 700; min-height: 44px; padding: 9px 0; }
 .lesson-simulations .sim-source p { white-space: pre-wrap; margin-bottom: 0; }
 .lesson-simulations .sim-step { min-width: 0; border: 0; padding: 0; margin: 26px 0 12px; }
 .lesson-simulations .sim-step legend { padding: 0; width: 100%; font-weight: 700; font-size: 20px; margin-bottom: 16px; }
@@ -63,3 +63,14 @@
 .lesson-simulations .sim-skill-focus { background: var(--sand, #fff5df); padding: 14px 18px; border-radius: 10px; }
 .lesson-simulations .sim-reflection { margin: 22px 0; padding: 18px; border: 1px solid var(--line, #d9e4e9); border-radius: 12px; background: var(--bg, #f3f7f6); }
 .lesson-simulations .sim-reflection summary { cursor: pointer; font-weight: 700; }
+.lesson-simulations .sim-review { margin: 22px 0; padding: 16px; border: 1px solid var(--line, #d9e4e9); border-radius: 12px; }
+.lesson-simulations .sim-review-item + .sim-review-item { border-top: 1px solid var(--line, #d9e4e9); margin-top: 18px; padding-top: 8px; }
+.lesson-simulations .sim-review-result { font-weight: 700; }
+
+.sim-dialog { width: min(960px, calc(100% - 24px)); max-width: none; max-height: calc(100dvh - 24px); padding: 0; border: 1px solid #718697; border-radius: 18px; background: #fff; color: #14243a; overflow: auto; overscroll-behavior: contain; }
+.sim-dialog::backdrop { background: #10354bcc; }
+.sim-dialog .lesson-simulations { width: 100%; margin: 0; border: 0; }
+.sim-launch, .sim-dialog-close { min-height: 46px; padding: 10px 16px; border: 1px solid #075b79; border-radius: 10px; font: 650 16px/1.4 system-ui, sans-serif; background: #075b79; color: #fff; cursor: pointer; }
+.sim-launch:focus-visible, .sim-dialog-close:focus-visible { outline: 3px solid #b96709; outline-offset: 3px; }
+.sim-dialog-close { position: sticky; top: 0; z-index: 1; display: block; margin: 8px 8px 0 auto; background: #fff; color: #075b79; }
+.rotate-card .sim-launch { margin-top: 18px; }
