@@ -13,7 +13,8 @@
 
 Дедлайн: 2027-01-03T23:00, Europe/Kyiv.
 
-[naurok: тест](https://naurok.com.ua/test/accident-6-klas-esl-3a-3886817.html). Стан: `published_pending_homework_daily_limit`.
+[naurok: тест](https://naurok.com.ua/test/accident-6-klas-esl-3a-3886817.html). Стан: `homework_created`.
+[naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=5279543).
 ## 1. 1 бал
 
 Напиши англійською: «нещасний випадок».

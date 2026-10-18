@@ -84,8 +84,12 @@
     "naurok": {
       "test_id": "3886840",
       "test_url": "https://naurok.com.ua/test/9-klas-all-about-me-gramatika-3886840.html",
-      "status": "published_pending_homework_daily_limit",
+      "status": "homework_created",
       "verified": true,
+      "homework_id": "86133421",
+      "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133421",
+      "student_url": "https://naurok.ua/test/join?gamecode=7699659",
+      "code": "7699659",
       "deadline": "2027-01-03T23:00",
       "semester": 1,
       "points": 10,

@@ -241,7 +241,7 @@
           "test_url": "https://naurok.com.ua/test-beta/test/3886815",
           "title": "7 клас · What did you do — минулі запитання",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -258,7 +258,11 @@
           "assessment_lesson_path": "7/past-continuous-questions/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "What did you do? Запитання про вчора",
-          "content_id": "7-past-simple-questions-homework-01"
+          "content_id": "7-past-simple-questions-homework-01",
+          "homework_id": "86133316",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133316",
+          "code": "9478728",
+          "student_url": "https://naurok.ua/test/join?gamecode=9478728"
         }
       ]
     },
@@ -270,7 +274,7 @@
           "test_url": "https://naurok.com.ua/test-beta/test/3886821",
           "title": "7 клас · Starter — початок навчального року",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -289,7 +293,11 @@
           "assessment_lesson_path": "7/sb-u1-lead-in/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Back to school Повертаємося до навчання",
-          "content_id": "7-sb-starter-homework-01"
+          "content_id": "7-sb-starter-homework-01",
+          "homework_id": "86133362",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133362",
+          "code": "9727818",
+          "student_url": "https://naurok.ua/test/join?gamecode=9727818"
         }
       ]
     },
@@ -301,7 +309,7 @@
           "test_url": "https://naurok.com.ua/test-beta/test/3886826",
           "title": "7 клас · In and out of school: Блог і обговорення Шкільне життя і дозвілля · Блог і обговорення",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -320,7 +328,11 @@
           "assessment_lesson_path": "7/sb-u1-vocabulary/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "In and out of school: Блог і обговорення Шкільне життя і дозвілля · Блог і обговорення",
-          "content_id": "7-sb-u1-blog-homework-01"
+          "content_id": "7-sb-u1-blog-homework-01",
+          "homework_id": "86133390",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133390",
+          "code": "8748995",
+          "student_url": "https://naurok.ua/test/join?gamecode=8748995"
         }
       ]
     },
@@ -332,7 +344,7 @@
           "test_url": "https://naurok.com.ua/test-beta/test/3886829",
           "title": "7 клас · In and out of school: Граматика Шкільне життя і дозвілля · Граматика",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -351,7 +363,11 @@
           "assessment_lesson_path": "7/sb-u1-listening/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "In and out of school: Граматика Шкільне життя і дозвілля · Граматика",
-          "content_id": "7-sb-u1-grammar-homework-01"
+          "content_id": "7-sb-u1-grammar-homework-01",
+          "homework_id": "86133392",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133392",
+          "code": "4868360",
+          "student_url": "https://naurok.ua/test/join?gamecode=4868360"
         }
       ]
     },
@@ -363,7 +379,7 @@
           "test_url": "https://naurok.com.ua/test-beta/test/3886831",
           "title": "7 клас · In and out of school: Граматика: застосування Шкільне життя і дозвілля · Граматика: застосування",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -382,7 +398,11 @@
           "assessment_lesson_path": "7/sb-u1-speaking/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "In and out of school: Граматика: застосування Шкільне життя і дозвілля · Граматика: застосування",
-          "content_id": "7-sb-u1-grammar-2-homework-01"
+          "content_id": "7-sb-u1-grammar-2-homework-01",
+          "homework_id": "86133405",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133405",
+          "code": "9437509",
+          "student_url": "https://naurok.ua/test/join?gamecode=9437509"
         }
       ]
     },
@@ -394,7 +414,7 @@
           "test_url": "https://naurok.com.ua/test-beta/test/3886839",
           "title": "7 клас · In and out of school: Починаємо юніт Шкільне життя і дозвілля · Починаємо юніт",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -413,7 +433,11 @@
           "assessment_lesson_path": "7/sb-u1-blog/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "In and out of school: Починаємо юніт Шкільне життя і дозвілля · Починаємо юніт",
-          "content_id": "7-sb-u1-lead-in-homework-01"
+          "content_id": "7-sb-u1-lead-in-homework-01",
+          "homework_id": "86133419",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133419",
+          "code": "2406429",
+          "student_url": "https://naurok.ua/test/join?gamecode=2406429"
         }
       ]
     },
@@ -425,7 +449,7 @@
           "test_url": "https://naurok.com.ua/test-beta/test/3886844",
           "title": "7 клас · In and out of school: Слухання Шкільне життя і дозвілля · Слухання",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -444,7 +468,11 @@
           "assessment_lesson_path": "7/sb-u1-vocabulary-2/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "In and out of school: Слухання Шкільне життя і дозвілля · Слухання",
-          "content_id": "7-sb-u1-listening-homework-01"
+          "content_id": "7-sb-u1-listening-homework-01",
+          "homework_id": "86133428",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133428",
+          "code": "6845248",
+          "student_url": "https://naurok.ua/test/join?gamecode=6845248"
         }
       ]
     },
@@ -456,7 +484,7 @@
           "test_url": "https://naurok.com.ua/test-beta/test/3886846",
           "title": "7 клас · In and out of school: Повторення Шкільне життя і дозвілля · Повторення",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -475,7 +503,11 @@
           "assessment_lesson_path": "7/sb-u1-self-check/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "In and out of school: Повторення Шкільне життя і дозвілля · Повторення",
-          "content_id": "7-sb-u1-look-back-homework-01"
+          "content_id": "7-sb-u1-look-back-homework-01",
+          "homework_id": "86133433",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133433",
+          "code": "7421422",
+          "student_url": "https://naurok.ua/test/join?gamecode=7421422"
         }
       ]
     },

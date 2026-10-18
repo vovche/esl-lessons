@@ -21,7 +21,7 @@
           "semester": 1,
           "deadline": "2027-01-03T23:00",
           "plan_index": 0,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "question_count": 6,
           "verified": true,
           "test_url": "https://naurok.com.ua/test-beta/test/3886819",
@@ -30,7 +30,11 @@
           "placement_rule": "no_next_lesson",
           "source_lesson_title": "Граматичний довідник",
           "plan_path": "6/sb-grammar/homework-check-sb-grammar-01.json",
-          "content_id": "6-sb-grammar-homework-01"
+          "content_id": "6-sb-grammar-homework-01",
+          "homework_id": "86133326",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133326",
+          "code": "6900021",
+          "student_url": "https://naurok.ua/test/join?gamecode=6900021"
         },
         {
           "test_id": "3886834",
@@ -48,7 +52,7 @@
           "semester": 1,
           "deadline": "2027-01-03T23:00",
           "plan_index": 1,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "question_count": 6,
           "verified": true,
           "test_url": "https://naurok.com.ua/test-beta/test/3886834",
@@ -57,7 +61,11 @@
           "placement_rule": "no_next_lesson",
           "source_lesson_title": "Граматичний довідник",
           "plan_path": "6/sb-grammar/homework-check-sb-grammar-02.json",
-          "content_id": "6-sb-grammar-homework-02"
+          "content_id": "6-sb-grammar-homework-02",
+          "homework_id": "86133410",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133410",
+          "code": "8355290",
+          "student_url": "https://naurok.ua/test/join?gamecode=8355290"
         },
         {
           "test_id": "3886842",
@@ -75,7 +83,7 @@
           "semester": 1,
           "deadline": "2027-01-03T23:00",
           "plan_index": 2,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "question_count": 6,
           "verified": true,
           "test_url": "https://naurok.com.ua/test-beta/test/3886842",
@@ -84,7 +92,11 @@
           "placement_rule": "no_next_lesson",
           "source_lesson_title": "Граматичний довідник",
           "plan_path": "6/sb-grammar/homework-check-sb-grammar-03.json",
-          "content_id": "6-sb-grammar-homework-03"
+          "content_id": "6-sb-grammar-homework-03",
+          "homework_id": "86133424",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133424",
+          "code": "3426948",
+          "student_url": "https://naurok.ua/test/join?gamecode=3426948"
         },
         {
           "test_id": "3886853",

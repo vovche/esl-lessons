@@ -369,7 +369,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3886817",
           "title": "Accident · 6 клас · ESL 3a",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "test_url": "https://naurok.com.ua/test/accident-6-klas-esl-3a-3886817.html",
           "deadline": "2027-01-03T23:00",
@@ -389,7 +389,11 @@
           "assessment_lesson_path": "6/sb-3b/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Accident Що відбувалося під час пригоди",
-          "content_id": "6-sb-3a-homework-01"
+          "content_id": "6-sb-3a-homework-01",
+          "homework_id": "86133285",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133285",
+          "code": "5279543",
+          "student_url": "https://naurok.ua/test/join?gamecode=5279543"
         }
       ]
     },
@@ -401,7 +405,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3886820",
           "title": "Mysteries · 6 клас · ESL 3b",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "test_url": "https://naurok.com.ua/test-beta/test/3886820",
           "semester": 1,
@@ -421,7 +425,11 @@
           "assessment_lesson_path": "6/sb-3c/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Mysteries Таємнича історія",
-          "content_id": "6-sb-3b-homework-01"
+          "content_id": "6-sb-3b-homework-01",
+          "homework_id": "86133328",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133328",
+          "code": "4863579",
+          "student_url": "https://naurok.ua/test/join?gamecode=4863579"
         }
       ]
     },
@@ -433,7 +441,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3886824",
           "title": "What happened? · 6 клас · ESL 3c",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "test_url": "https://naurok.com.ua/test-beta/test/3886824",
           "semester": 1,
@@ -453,7 +461,11 @@
           "assessment_lesson_path": "6/sb-3d/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "What happened? Пригода в парку атракціонів",
-          "content_id": "6-sb-3c-homework-01"
+          "content_id": "6-sb-3c-homework-01",
+          "homework_id": "86133364",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133364",
+          "code": "6844339",
+          "student_url": "https://naurok.ua/test/join?gamecode=6844339"
         }
       ]
     },
@@ -465,7 +477,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3886825",
           "title": "Emotions · 6 клас · ESL 3d",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "test_url": "https://naurok.com.ua/test-beta/test/3886825",
           "question_points": [
@@ -485,7 +497,11 @@
           "assessment_lesson_path": "6/sb-3e/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Emotions Почуття героїв",
-          "content_id": "6-sb-3d-homework-01"
+          "content_id": "6-sb-3d-homework-01",
+          "homework_id": "86133367",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133367",
+          "code": "5242233",
+          "student_url": "https://naurok.ua/test/join?gamecode=5242233"
         }
       ]
     },
@@ -497,7 +513,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3886828",
           "title": "Unlucky story · 6 клас · ESL 3e",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "test_url": "https://naurok.com.ua/test-beta/test/3886828",
           "question_points": [
@@ -517,7 +533,11 @@
           "assessment_lesson_path": "6/sb-culture-2/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Unlucky story Пишемо історію",
-          "content_id": "6-sb-3e-homework-01"
+          "content_id": "6-sb-3e-homework-01",
+          "homework_id": "86133391",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133391",
+          "code": "8762779",
+          "student_url": "https://naurok.ua/test/join?gamecode=8762779"
         }
       ]
     },
@@ -529,7 +549,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3886830",
           "title": "Around town · 6 клас · ESL 4a",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "test_url": "https://naurok.com.ua/test-beta/test/3886830",
           "question_points": [
@@ -549,7 +569,11 @@
           "assessment_lesson_path": "6/sb-4b/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Around town Місця в місті",
-          "content_id": "6-sb-4a-homework-01"
+          "content_id": "6-sb-4a-homework-01",
+          "homework_id": "86133395",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133395",
+          "code": "9424233",
+          "student_url": "https://naurok.ua/test/join?gamecode=9424233"
         }
       ]
     },
@@ -561,7 +585,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3886836",
           "title": "How to get there · 6 клас · ESL 4b",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "test_url": "https://naurok.com.ua/test-beta/test/3886836",
           "question_points": [
@@ -581,7 +605,11 @@
           "assessment_lesson_path": "6/sb-4c/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "How to get there Пояснюємо маршрут",
-          "content_id": "6-sb-4b-homework-01"
+          "content_id": "6-sb-4b-homework-01",
+          "homework_id": "86133412",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133412",
+          "code": "5374064",
+          "student_url": "https://naurok.ua/test/join?gamecode=5374064"
         }
       ]
     },
@@ -593,7 +621,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3886843",
           "title": "City vs countryside · 6 клас · ESL 4c",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "test_url": "https://naurok.com.ua/test-beta/test/3886843",
           "question_points": [
@@ -613,7 +641,11 @@
           "assessment_lesson_path": "6/sb-4d/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "City vs countryside Місто чи село",
-          "content_id": "6-sb-4c-homework-01"
+          "content_id": "6-sb-4c-homework-01",
+          "homework_id": "86133425",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133425",
+          "code": "3845598",
+          "student_url": "https://naurok.ua/test/join?gamecode=3845598"
         }
       ]
     },
@@ -625,7 +657,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3886847",
           "title": "Outer space · 6 клас · ESL 4d",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "test_url": "https://naurok.com.ua/test-beta/test/3886847",
           "question_points": [
@@ -645,7 +677,11 @@
           "assessment_lesson_path": "6/sb-4e/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Outer space Космос і найвищий ступінь",
-          "content_id": "6-sb-4d-homework-01"
+          "content_id": "6-sb-4d-homework-01",
+          "homework_id": "86133435",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133435",
+          "code": "1983711",
+          "student_url": "https://naurok.ua/test/join?gamecode=1983711"
         }
       ]
     },

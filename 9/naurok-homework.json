@@ -219,7 +219,7 @@
           "test_id": "3886818",
           "title": "9 клас · Ask for details — анкета та запитання",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "question_points": [
             1,
             1,
@@ -237,7 +237,11 @@
           "assessment_lesson_path": "9/my-autobiography/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Ask for details Особисті дані й запитання",
-          "content_id": "9-personal-details-homework-01"
+          "content_id": "9-personal-details-homework-01",
+          "homework_id": "86133323",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133323",
+          "code": "9797264",
+          "student_url": "https://naurok.ua/test/join?gamecode=9797264"
         }
       ]
     },
@@ -248,7 +252,7 @@
           "test_id": "3886832",
           "title": "9 клас · All About Me: Блог і думки однолітків",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "question_points": [
             1,
             1,
@@ -266,7 +270,11 @@
           "assessment_lesson_path": "9/sb-u1-vocabulary/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "All About Me: Блог і думки однолітків Усе про мене: Блог і думки однолітків",
-          "content_id": "9-sb-u1-blog-homework-01"
+          "content_id": "9-sb-u1-blog-homework-01",
+          "homework_id": "86133407",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133407",
+          "code": "8621857",
+          "student_url": "https://naurok.ua/test/join?gamecode=8621857"
         }
       ]
     },
@@ -277,7 +285,7 @@
           "test_id": "3886840",
           "title": "9 клас · All About Me: Граматика",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "question_points": [
             1,
             1,
@@ -295,7 +303,11 @@
           "assessment_lesson_path": "9/sb-u1-listening/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "All About Me: Граматика Усе про мене: Граматика",
-          "content_id": "9-sb-u1-grammar-homework-01"
+          "content_id": "9-sb-u1-grammar-homework-01",
+          "homework_id": "86133421",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133421",
+          "code": "7699659",
+          "student_url": "https://naurok.ua/test/join?gamecode=7699659"
         }
       ]
     },
@@ -306,7 +318,7 @@
           "test_id": "3886845",
           "title": "9 клас · All About Me: Граматика в контексті",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "question_points": [
             1,
             1,
@@ -324,7 +336,11 @@
           "assessment_lesson_path": "9/sb-u1-speaking/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "All About Me: Граматика в контексті Усе про мене: Граматика в контексті",
-          "content_id": "9-sb-u1-grammar-2-homework-01"
+          "content_id": "9-sb-u1-grammar-2-homework-01",
+          "homework_id": "86133430",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133430",
+          "code": "6150952",
+          "student_url": "https://naurok.ua/test/join?gamecode=6150952"
         }
       ]
     },
