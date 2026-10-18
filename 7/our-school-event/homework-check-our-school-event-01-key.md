@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test/7-klas-our-school-event-shkilna-podiya-3886804.html). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=3202447).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/009762480).
 ## 1. 1 бал
 
 Доповни дієсловом: We ___ a present to our teacher.

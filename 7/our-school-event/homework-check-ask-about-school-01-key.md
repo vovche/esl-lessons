@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test/7-klas-ask-and-check-shkilni-zapitannya-3886776.html). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=1473165).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/006420021).
 ## 1. 1 бал
 
 Доповни одним словом: Where ___ your friends go after school?
