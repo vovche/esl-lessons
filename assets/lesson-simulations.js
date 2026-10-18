@@ -54,6 +54,7 @@
   if (typeof module !== 'undefined' && module.exports) module.exports = engine;
   if (!global.document) return;
 
+  const siteBase = new URL('../', document.currentScript.src);
   const cache = new Map();
   function el(tag, className, text) {
     const node = document.createElement(tag);
@@ -81,8 +82,56 @@
     const host = root.querySelector('[data-sim-host]');
     const loadButton = root.querySelector('[data-sim-load]');
     let lessons = [], selected = null, game = null, state = null, storageKey = '', saved = true;
+    const lastKey = ['esl-simulation-last-v1', grade, slug].join(':');
+    const keyFor = item => ['esl-simulation-v1', grade, slug, selected.id, item.id].join(':');
+    let offlineReady = false, preparing = false;
+    const connection = el('p', 'sim-muted'); connection.setAttribute('role', 'status');
+    const retryOffline = button('Підготувати для роботи без інтернету', prepareOffline, true);
+    root.insertBefore(connection, host); root.insertBefore(retryOffline, host);
+    retryOffline.hidden = true;
 
-    function persist() { saved = write(storageKey, state); }
+    function connectionStatus() {
+      connection.textContent = offlineReady ? (navigator.onLine ?
+        'Місії готові до роботи без інтернету й перезавантаження на цьому пристрої. Не очищуй дані сайту.' :
+        'Інтернету немає. Завантажені місії можна продовжувати й перезавантажувати; повний урок потребує зв’язку.') :
+        preparing ? 'Готую місії для перезавантаження без інтернету… Поки не закривай сторінку.' :
+        'Завантажену гру можна продовжувати тут. Офлайн-перезавантаження ще не підготовлене: для повернення на сторінку потрібен інтернет.';
+      if (!saved) connection.textContent += ' Збереження поступу заблоковане: не оновлюй сторінку, якщо хочеш продовжити з цього місця.';
+    }
+    async function prepareOffline() {
+      if (preparing) return;
+      preparing = true; retryOffline.hidden = true; connectionStatus();
+      let channel, timer;
+      try {
+        if (!('serviceWorker' in navigator)) throw new Error('unsupported');
+        const workerURL = new URL('simulations-sw.js', siteBase).href;
+        let registration = await navigator.serviceWorker.getRegistration(siteBase.href);
+        if (registration && registration.active && registration.active.scriptURL !== workerURL) throw new Error('different worker');
+        if (!registration || navigator.onLine) registration = await navigator.serviceWorker.register(workerURL, {scope: siteBase.href});
+        registration = await Promise.race([navigator.serviceWorker.ready, new Promise((_, reject) => { timer = setTimeout(() => reject(new Error('timeout')), 15000); })]);
+        clearTimeout(timer);
+        await new Promise((resolve, reject) => {
+          channel = new MessageChannel();
+          timer = setTimeout(() => reject(new Error('timeout')), 15000);
+          channel.port1.onmessage = event => event.data && event.data.ok ? resolve() : reject(new Error('cache unavailable'));
+          registration.active.postMessage({type: 'PREPARE_MISSIONS', grade}, [channel.port2]);
+        });
+        offlineReady = true;
+      } catch (_) { offlineReady = false; }
+      finally {
+        clearTimeout(timer); if (channel) channel.port1.close();
+        preparing = false; retryOffline.hidden = offlineReady; connectionStatus();
+      }
+    }
+    global.addEventListener('offline', connectionStatus);
+    global.addEventListener('online', () => { connectionStatus(); if (lessons.length && !offlineReady) prepareOffline(); });
+    connectionStatus();
+
+    function persist() {
+      saved = write(storageKey, state);
+      saved = write(lastKey, {lesson: selected.id, game: game.id}) && saved;
+      connectionStatus();
+    }
     function focusHeading() { const heading = host.querySelector('[tabindex="-1"]'); if (heading) heading.focus(); }
     function go(next) { state = next; persist(); renderGame(); }
     function heading(text) { const h = el('h3', '', text); h.tabIndex = -1; return h; }
@@ -104,7 +153,8 @@
         const option = el('option', '', (i + 1) + '. ' + lesson.title);
         option.value = lesson.id; select.append(option);
       });
-      select.value = selected ? selected.id : lessons[0].id;
+      const last = read(lastKey);
+      select.value = selected ? selected.id : (last && lessons.some(item => item.id === last.lesson) ? last.lesson : lessons[0].id);
       selected = lessons.find(lesson => lesson.id === select.value);
       host.append(label, select);
       const cards = el('div', 'sim-mode-grid');
@@ -115,18 +165,25 @@
           card.append(el('p', 'sim-mode-name', item.mode === 'learn' ? 'Разом із підказками' : 'Самостійна спроба'),
             el('h3', '', item.title), el('p', '', item.role),
             el('p', 'sim-muted', item.mode === 'learn' ? 'Обери відповідь. Після помилки можна взяти підказку й спробувати ще раз.' : 'Обери по одній відповіді на два запитання. Змінити вибір у цій спробі не можна. Результат побачиш наприкінці.'));
-          card.append(button('Почати місію', () => start(item)));
+          const previous = read(keyFor(item));
+          const restored = createState(item, previous);
+          const resumable = previous && previous.signature === restored.signature && previous.phase === restored.phase && previous.cursor === restored.cursor;
+          if (previous && previous.signature !== restored.signature) card.append(el('p', 'sim-note', 'Зміст місії оновлено. Для нових завдань потрібна нова спроба; попередній поступ до них не застосовується.'));
+          if (resumable) card.append(el('p', 'sim-resume', restored.phase === 'complete' ? 'Місію завершено. Результат і чернетка доступні.' :
+            'Збережено: хід ' + (restored.cursor + 1) + ' із ' + item.steps.length + (restored.paused ? '. Місія на паузі.' : '.')));
+          card.append(button(resumable ? (restored.phase === 'complete' ? 'Переглянути результат' : 'Продовжити місію') : 'Почати місію', () => start(item)));
           cards.append(card);
         });
       }
-      select.addEventListener('change', () => { selected = lessons.find(lesson => lesson.id === select.value); modes(); });
+      select.addEventListener('change', () => { selected = lessons.find(lesson => lesson.id === select.value); write(lastKey, {lesson: selected.id, game: null}); modes(); });
       modes(); host.append(cards); select.focus();
     }
 
     function start(item) {
       game = item;
-      storageKey = ['esl-simulation-v1', grade, slug, selected.id, game.id].join(':');
+      storageKey = keyFor(game);
       state = createState(game, read(storageKey));
+      persist();
       renderGame(); focusHeading();
     }
 
@@ -232,13 +289,14 @@
       loadButton.disabled = true;
       loadButton.textContent = 'Завантаження місій…';
       try {
-        if (!cache.has(grade)) cache.set(grade, fetch('../simulations.json').then(response => {
+        if (!cache.has(grade)) cache.set(grade, fetch(new URL(grade + '/simulations.json', siteBase)).then(response => {
           if (!response.ok) throw new Error('unavailable'); return response.json();
         }).catch(error => { cache.delete(grade); throw error; }));
         const data = await cache.get(grade);
         lessons = data.lessons.filter(lesson => lesson.slugs.includes(slug));
         if (!lessons.length) throw new Error('no missions');
         showMenu(); loadButton.hidden = true;
+        prepareOffline();
         const select = host.querySelector('select'); if (select) select.focus();
       } catch (_) {
         host.replaceChildren(el('p', 'sim-note', 'Не вдалося завантажити місії. Коли буде зв’язок, спробуй ще раз.'));

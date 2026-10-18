@@ -26,7 +26,7 @@ const fs=require('node:fs');const assert=require('node:assert/strict');
    try{
     await load(lesson.slugs[0]);await root.locator('.sim-select').selectOption(lesson.id);
     for(const game of lesson.games){
-     await root.getByRole('button',{name:'Почати місію',exact:true}).nth(game.mode==='learn'?0:1).click();
+     await root.getByRole('button',{name:/^(Почати місію|Продовжити місію|Переглянути результат)$/}).nth(game.mode==='learn'?0:1).click();
      for(let i=0;i<game.steps.length;i++){
       const step=game.steps[i];const wanted=game.mode==='check'&&i===0?'retry':'advance';
       await root.locator('.sim-choice').nth(step.choices.findIndex(c=>c.effect===wanted)).click();
