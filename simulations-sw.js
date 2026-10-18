@@ -1,5 +1,6 @@
 /* A small, explicit offline cache for student missions, not whole lessons. */
 'use strict';
+// Shell revision 2: reinstall the core files so existing caches receive touch-readiness fixes.
 const CACHE_NAME = 'esl-missions-v1';
 const SITE = new URL('./', self.registration.scope);
 const CORE_PATHS = ['offline-simulations.html', 'assets/offline-simulations.js', 'assets/lesson-simulations.js', 'assets/lesson-simulations.css', 'assets/lesson-theme.css'];

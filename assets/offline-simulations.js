@@ -12,6 +12,9 @@
   const section = document.querySelector('[data-lesson-simulations]');
   section.dataset.simGrade = match[1]; section.dataset.simSlug = match[2];
   section.dataset.simDataUrl = new URL(match[1] + '/simulations.json', base).href;
+  const loadButton = section.querySelector('[data-sim-load]');
+  loadButton.disabled = true;
+  loadButton.textContent = 'Готую ігри…';
   section.hidden = false;
   document.querySelector('[data-offline-hint]').textContent = 'Доступні збережені місії цього уроку. Після відновлення зв’язку можна повернутися до повного матеріалу.';
   const returnButton = document.querySelector('[data-offline-return]');
@@ -31,6 +34,7 @@
   });
   const runtime = document.createElement('script');
   runtime.src = new URL('assets/lesson-simulations.js', base).href;
-  runtime.onerror = () => { document.querySelector('[data-offline-hint]').textContent = 'Не вдалося відкрити збережені місії. Коли з’явиться зв’язок, повернися до уроку й підготуй місії до роботи без мережі.'; };
+  runtime.onload = () => { loadButton.textContent = 'Відкрити місії'; loadButton.disabled = false; };
+  runtime.onerror = () => { loadButton.textContent = 'Ігри недоступні'; document.querySelector('[data-offline-hint]').textContent = 'Не вдалося відкрити збережені місії. Коли з’явиться зв’язок, повернися до уроку й підготуй місії до роботи без мережі.'; };
   document.head.append(runtime);
 })();

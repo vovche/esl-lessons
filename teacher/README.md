@@ -4,6 +4,7 @@
 Обсяг і межі виконаної перевірки: [VALIDATION.md](VALIDATION.md).
 
 Проходження учнівських ігор у браузері, виправлення та межі мобільної перевірки: [BROWSER_REVIEW.md](BROWSER_REVIEW.md).
+Мобільні дотики та перезапуск браузера: [MOBILE_RESTART_REVIEW.md](MOBILE_RESTART_REVIEW.md).
 Перевірка вже опублікованого сайту: [PUBLISHED_OFFLINE_REVIEW.md](PUBLISHED_OFFLINE_REVIEW.md).
 Перевірка втрати інтернету, перезавантаження та відновлення прогресу: [OFFLINE_REVIEW.md](OFFLINE_REVIEW.md).
 Методичні виправлення й поурочні результати: [6 клас](6/QUALITY_REVIEW.md), [7 клас](7/QUALITY_REVIEW.md), [9 клас](9/QUALITY_REVIEW.md). Оцінка часу — експертний розрахунок обсягу роботи з резервом на інструкцію й підтримку; хронометражу з реальним класом не проводили.
