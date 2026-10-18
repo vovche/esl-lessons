@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test/appearance-6-klas-esl-1b-3886781.html). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=5461563).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/004313556).
 ## 1. 1 бал
 
 Напиши англійською: «стрункий».

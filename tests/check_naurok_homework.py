@@ -54,6 +54,52 @@ with tempfile.TemporaryDirectory() as directory:
     assert apply_grade(6, root) == (0, 1)
     assert lesson.read_text() == source, 'unverified test link was not removed'
 
+with tempfile.TemporaryDirectory() as directory:
+    root = Path(directory)
+    canonical_path = root / '7' / 'sample' / 'homework-check-sample-01.json'
+    canonical_path.parent.mkdir(parents=True)
+    kahoot = {
+        'status': 'homework_created', 'verified': True, 'code': '0025790251',
+        'student_url': 'https://kahoot.it/challenge/0025790251',
+        'editor_url': 'https://create.kahoot.it/creator/private-test-id',
+        'test_url': 'https://create.kahoot.it/details/private-test-id',
+        'teacher_assignment_url': 'https://create.kahoot.it/reports/private-assignment-id',
+        'normalization_max': 10, 'no_deadline': True, 'deadline': None,
+    }
+    portable_receipt = dict(receipt, content_path='7/sample/homework-check-sample-01.json')
+
+    def render_kahoot(remote: dict) -> str:
+        canonical_path.write_text(json.dumps({'platforms': {'kahoot': remote}}), encoding='utf-8')
+        return attach(source, [portable_receipt], '7/sample/index.html', root)
+
+    kahoot_html = render_kahoot(kahoot)
+    assert 'href="https://kahoot.it/challenge/0025790251"' in kahoot_html
+    assert 'Резервне ДЗ на Kahoot</a> (без кінцевої дати; оцінка за шкалою 10)' in kahoot_html
+    assert 'private-test-id' not in kahoot_html and 'private-assignment-id' not in kahoot_html
+    assert 'create.kahoot.it' not in kahoot_html, 'teacher Kahoot URL leaked into student footer'
+    assert kahoot_html == attach(kahoot_html, [portable_receipt], '7/sample/index.html', root), \
+        'repeated attach duplicated Kahoot homework'
+    assert kahoot_html.count('Резервне ДЗ на Kahoot') == 1
+    assert 'Резервне ДЗ на Kahoot' not in render_kahoot(dict(kahoot, status='created_pending_assignment'))
+    assert 'Резервне ДЗ на Kahoot' not in render_kahoot(dict(kahoot, verified=False))
+    for invalid in [
+        dict(kahoot, student_url='https://create.kahoot.it/creator/private-test-id'),
+        dict(kahoot, student_url='https://kahoot.it/challenge/9999999999'),
+        dict(kahoot, student_url='http://kahoot.it/challenge/0025790251'),
+        dict(kahoot, student_url='https://kahoot.it.example/challenge/0025790251'),
+        dict(kahoot, student_url='https://kahoot.it/challenge/0025790251?teacher=private'),
+        dict(kahoot, normalization_max=12),
+        dict(kahoot, no_deadline=False, deadline='2027-01-03T23:00'),
+    ]:
+        try:
+            render_kahoot(invalid)
+        except AssertionError:
+            pass
+        else:
+            raise AssertionError(f'invalid Kahoot homework accepted: {invalid}')
+    canonical_path.unlink()
+    assert 'Резервне ДЗ на Kahoot' not in attach(source, [portable_receipt], '7/sample/index.html', root)
+
 for grade in ('6', '7', '9'):
     done, total = apply_grade(grade, check=True)
     print(f'Naurok grade {grade}: {done}/{total} lesson footers verified')

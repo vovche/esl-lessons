@@ -15,6 +15,8 @@
 
 [naurok: тест](https://naurok.com.ua/test/school-6-klas-esl-1a-3886774.html). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=9803631).
+[kahoot: тест](https://create.kahoot.it/details/school-6-esl-1a/e1a04241-d2b0-4914-b7e2-700edfb10d83). Стан: `homework_created`.
+[kahoot: домашнє завдання](https://kahoot.it/challenge/0025790251).
 ## 1. 1 бал
 
 Напиши англійською одним словом: «історія» (шкільний предмет).

@@ -85,6 +85,28 @@ def render_footer(tests: list[dict], lesson_path: str | None = None, root: Path 
             if (root / test['content_path']).with_suffix('.pdf').is_file():
                 links.append(f'<a href="{html.escape(content.with_suffix(".pdf").as_posix(), quote=True)}">'
                              'Завдання для друку (PDF)</a>.')
+        if test.get('content_path') and root.is_dir():
+            content_file = root / test['content_path']
+            if content_file.is_file():
+                assert content_file.resolve().is_relative_to(root.resolve()), 'content path outside lesson root'
+                document = json.loads(content_file.read_text(encoding='utf-8'))
+                kahoot = document.get('platforms', {}).get('kahoot', {})
+                if kahoot.get('status') == 'homework_created' and kahoot.get('verified') is True:
+                    code = str(kahoot.get('code', ''))
+                    assert re.fullmatch(r'[0-9]+', code), 'invalid Kahoot challenge code'
+                    student = urlparse(kahoot.get('student_url', ''))
+                    assert ((student.scheme, student.netloc, student.path)
+                            == ('https', 'kahoot.it', f'/challenge/{code}')
+                            and not student.params and not student.query and not student.fragment), \
+                        'invalid Kahoot student URL or challenge code mismatch'
+                    assert kahoot.get('normalization_max') == 10, 'expected Kahoot normalization to 10'
+                    assert kahoot.get('no_deadline') is True and kahoot.get('deadline') is None, \
+                        'expected Kahoot homework without a deadline'
+                    links.append(
+                        f'<a href="{html.escape(kahoot["student_url"], quote=True)}" target="_blank" '
+                        'rel="noopener noreferrer">Резервне ДЗ на Kahoot</a> '
+                        '(без кінцевої дати; оцінка за шкалою 10).'
+                    )
     return '<p data-naurok-homework="true" data-dictionary-skip>' + '<br>'.join(links) + '</p>'
 
 

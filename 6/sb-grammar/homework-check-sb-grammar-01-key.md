@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886819). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=6900021).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/00885591).
 ## 1. 1 бал
 
 Вставте форму дієслова: Our school ___ at nine. (start)
