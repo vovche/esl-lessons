@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886834). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=8355290).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/007405015).
 ## 1. 1 бал
 
 Вставте Past Simple: We ___ on a cruise last summer. (go)
