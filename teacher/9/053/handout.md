@@ -1,128 +1,82 @@
-# Роздатка · 9 клас · урок 053 · 2026-12-17
+# Роздатка ·9 клас · урок 053 · 2026-12-17
 
-**Тема:** Media in Our Lives. Засоби масової інформації.
+**Тема календарного плану:** Media in Our Lives. Засоби масової інформації.
 
-Умовне ім’я/код учня: __________________ Дата фактичної роботи: __________
+Умовне ім’я/код: __________________ Фактична дата: _______________
 
-**Можна:** виконувати на папері, зробити паузу, працювати з вигаданим героєм. Особисті історії й камера не потрібні. Мова завдань не оцінює емоції. Під час переміщення до укриття не виконуй завдань. Читай і пиши лише коли є безпечні умови та достатнє світло.
+Особисті дані й камера не потрібні. Під час переміщення завдання зупиняються. У темряві не читай і не пиши; повернись, коли є безпечні умови. Можна зробити паузу; термін здавання узгоджується за доступністю.
 
-**Швидкий маршрут без мережі (10 хв):** 2 хв — модель і слова; 4 хв — перша секція, вправа 1; 4 хв — два власні речення за моделлю. За ресурсом ще до 5 хв на одну відповідь вправи 2 й питання до вчителя. Решту виконаєш після домовленості.
+## Мінімум B/D: окрема коротка картка
 
-## Секція 1: Медіа в нашому житті: Письмо
+**Опора:** Review: the fictional vlog uses clear diagrams but does not name sources.
 
-**Слова:** network — мережа; audience — аудиторія; subscriber — підписник; reliable — надійний; fake news — фейкові новини; review — огляд, рецензія; broadcast — трансляція; source — джерело
+Write one strength or limitation with a specific detail.
 
-**Опора:** Плануй текст, дотримуйся його формату й відредагуй чернетку за критеріями.
-**Модель:** She said that she liked the programme. He told me that he would check the source.
+Не потрібно виконувати весь основний пакет.
 
-### 1. Read and find evidence
+My example / field / row: __________________________________________
 
-Dan is reviewing a science vlog. He describes the topic, presentation and examples instead of simply saying that it is good. The presenter said that the next episode would appear the following week. Dan liked the clear explanation, but thought that more sources should be included. He recommends the vlog to viewers who want an introduction to the topic.
+__________________________________________________________________
 
-1. За адаптованим текстом: What does Dan describe in his review?
+Одне питання вчителю (можна українською): ___________________________
 
-A) his own phone / B) the topic, presentation and examples / C) only the number of subscribers
+B:2 хв готовність +4 хв опора +6 хв приклад +3 хв збереження. D:2+3+5 хв, потім необов’язково до 5 хв уточнення. Це тренувальний фрагмент, не повний урок або контроль. Результат можна передати пізніше.
 
-Answer: ______ Evidence from the text: ______________________________
+## Основний маршрут A/C —45 хв
 
-2. За адаптованим текстом: What would improve the vlog?
+**Мовний фокус / жанр:** vlog review
 
-A) more sources / B) fewer explanations / C) no examples
+**Опора:** Vlog review: basic information → оцінка з прикладом → limitation → адресна recommendation. Мікромодель: The diagrams explain the idea clearly, but the episode should name its sources.
 
-Answer: ______ Evidence from the text: ______________________________
+### Джерело / brief
 
-### 2. Choose a form; explain one choice
+Invent a school science vlog. Write a title and 4 sentences: topic, strength with example, limitation, recommendation for a named audience. Do not invent claims about a real creator.
 
-1. “I like this vlog,” she said. She said that she ... the vlog.
+### Цільові пункти
 
-A) liking / B) liked / C) likes yesterday
 
-Answer: ______
 
-2. He ... me that the source was reliable.
+1. Which review sentence gives an evaluated strength with evidence?
 
-A) told / B) said / C) spoke
+A) The diagrams explain the filter clearly. / B) It is good. / C) It is a video.
 
-Answer: ______
+Answer: _____ Reason/evidence: __________________________________
 
-3. “I will check it,” Dan said. Dan said he ... check it.
+2. Which review sentence gives a specific limitation?
 
-A) will yesterday / B) had / C) would
+A) I watched it. / B) It has a title. / C) The episode does not name its sources.
 
-Answer: ______
+Answer: _____ Reason/evidence: __________________________________
 
-One explanation (time, meaning or form): __________________________
 
-________________________________________________________________
+### Один головний продукт
 
-## Окрема ситуація цього уроку: a first draft
+Invent a school science vlog. Write a title and 4 sentences: topic, strength with example, limitation, recommendation for a named audience. Do not invent claims about a real creator.
 
-Sam is working on a first draft about media and sources. The task is to organise ideas and check the draft before sharing it. There are 10 minutes for a first attempt. A partner suggests making the message shorter, but Sam wants to keep one clear reason. They agree to check the meaning before sharing the final version. The work is about a fictional character, so no private details are needed.
-
-A. How much time is available for a first attempt? ___________________
-
-B. What will the partners check before sharing? _____________________
-
-C. Complete the actual mini-product (a first draft) in two lines about media and sources. Include one clear reason. Use the language model above and the strategy from the message.
+Для навчального мінімуму: один потрібний фрагмент і позначка, що ще треба завершити. Для повного A/C — весь зазначений короткий жанр/продукт. Це не вимога написати 120–130 слів за 7 хв.
 
 __________________________________________________________________
 
 __________________________________________________________________
 
-## 3. Create and explain
-
-Write a short media review with a source-checking step for a fictional Alex. Use two details from the text(s), give two reasons and add one suggestion. Write 4–6 sentences. You may use the model(s) above. Do not include real addresses, phone numbers or private experiences.
-
-**Start:** In the text, … . Alex could … because … . Another reason is … . I suggest … .
-
-1. ________________________________________________________________
-
-2. ________________________________________________________________
-
-3. ________________________________________________________________
-
-4. ________________________________________________________________
-
-5. ________________________________________________________________
-
-6. ________________________________________________________________
-
-## 4. Interaction
-
-Fictional situation: Alex needs help choosing a next step about media and sources. Ask for one reason, reply and respond politely. Say it if the teacher has arranged an oral channel; otherwise write a dialogue and mark it as written.
-
-A: Why would you choose ________________________________________?
-
-B: I would choose __________________ because ____________________.
-
-A: I see your point. Another option is ____________________________.
-
-Спосіб: усно / письмово. Партнера немає? Напиши обидві ролі як тренування; усну взаємодію перевірять окремо.
-
-## 5. Listening (only with the teacher's audio)
-
-Do not guess if you cannot hear the audio. Write «не перевірено» and arrange another time.
-
-1. On which day does Alex plan the activity? _______________________
-
-2. How many sources does Alex check? ______________________
-
-## 6. Correction / portfolio / homework
-
-Original phrase: __________________________________________________
-
-My corrected phrase and reason: ____________________________________
+__________________________________________________________________
 
 __________________________________________________________________
 
-Second correction (for portfolio): _________________________________
-
-My next language step: ____________________________________________
-
-Add two sentences to your product, if this is homework: ______________
+__________________________________________________________________
 
 __________________________________________________________________
 
-Optional respectful phrase for fictional Alex: ______________________
+__________________________________________________________________
 
-**ДЗ:** одна виправлена відповідь із поясненням і два додані речення, до 10 хв. Термін — наступний доступний контакт за домовленістю. Після короткого маршруту спочатку заверши мінімум.
+__________________________________________________________________
+
+### Після завершення
+
+Мій точний пункт повернення: _______________________________________
+
+Моє мовне питання / одне виправлення: _______________________________
+
+**Резерв, тільки за окремим вибором вчителя:** розширити продукт однією новою деталлю й пояснити її; цей резерв не додається до 45 хв. На інших уроках аудіювання/говоріння не приписуються автоматично, якщо їх не перевіряли.
+
+**ДЗ, до 10 хв:** виправити один цільовий пункт із поясненням або завершити одну потрібну частину чернетки. Не виконувати заново весь пропущений урок. Після B/D спершу зберегти мінімум, решту погодити з учителем. Контроль удома не зараховується без погодженої процедури.

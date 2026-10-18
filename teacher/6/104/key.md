@@ -8,17 +8,11 @@
 
 2. **C — which**. Для предмета — which.
 
-3. **B — Helpful.**. Help + -ful → helpful.
+3. **B — Mia, who won a prize, is my friend.**. Ім’я визначає особу; додаткова інформація з who виділена комами.
 
-4. **A — At a supermarket.**. У другому реченні названо supermarket.
+Вправа 5, можливий тематичний діалог: A: Who is Mia? B: She is the girl who won a prize. A: What is this? B: It is the camera which she bought.
 
-5. **C — Share it with a friend.**. У тексті: share the trip with a friend.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): YOUNG ARTIST WINS A PRIZE. Mia is a student who loves painting. She won a prize for a picture which shows a beautiful garden. Her friends congratulated her.
-
-Модель додаткового висловлення: YOUNG ARTIST WINS A PRIZE. Mia is a student who loves painting. She won a prize for a picture which shows a beautiful garden. Her friends congratulated her.
-
-Вправа 5, зразок: A: This is the girl who won a prize. B: Could you explain? A: A local newspaper reports on two teenagers who won prizes. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: YOUNG ARTIST WINS A PRIZE. Mia is a student who loves painting. She won a prize for a picture which shows a beautiful garden. Her friends congratulated her.
 
 ## Рубрика відкритого продукту
 

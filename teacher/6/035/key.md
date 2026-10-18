@@ -10,15 +10,13 @@
 
 3. **B — is**. Everyone граматично узгоджується з одниною.
 
-4. **A — It was half dog.**. Це деталь із тексту, адаптованого за історією White Fang.
+4. **A — Nobody is at the gate.**. У тексті названо причину: nobody is at the gate.
 
-5. **C — Alone and afraid.**. Останнє речення прямо називає його почуття.
+5. **C — Relieved.**. Останнє речення: everyone feels relieved.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Two men were travelling through a cold forest with their dogs. Wolves were following them. Everyone is afraid. Nobody knows the answer. Is there anything to eat? I can hear something.
+Вправа 5, можливий тематичний діалог: A: Is there anyone at the gate? B: Yes, someone is there. A: How does the traveller feel now? B: He feels relieved.
 
-Модель додаткового висловлення: At first, Mia was worried because nobody was at the gate. Then someone waved to her. She felt happy. At the end, she found something funny in her bag and laughed.
-
-Вправа 5, зразок: A: Everyone is afraid. B: Could you explain? A: Two men were travelling through a cold forest with their dogs. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: This is an original classroom story inspired by the theme of White Fang, not a quotation. A traveller and a dog are waiting at a forest camp. Мій вигаданий варіант: At first, Mia was worried because nobody was at the gate. Then someone waved to her.
 
 ## Рубрика відкритого продукту
 

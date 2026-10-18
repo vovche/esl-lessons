@@ -14,13 +14,9 @@
 
 5. **B — Play ice hockey.**. В останньому реченні названо ice hockey.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): I am tall and have got curly dark hair. I am active and outgoing, and I love sports. My friend has got curly hair. She is helpful. We play ice hockey together. She is a friendly person.
+Вправа 5, можливий тематичний діалог: A: What is your friend like? B: She is helpful. A: What do you do together? B: We play tennis.
 
-Модель додаткового висловлення: I am tall and I have got dark hair. I am quiet.
-
-My imaginary friend Mia has got short hair. She is helpful. We play tennis together.
-
-Вправа 5, зразок: A: My friend has got curly hair. B: Could you explain? A: I am tall and have got curly dark hair. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: I am tall and have got curly dark hair. I am active and outgoing, and I love sports. Мій вигаданий варіант: I am tall and I have got dark hair. I am quiet.
 
 ## Рубрика відкритого продукту
 

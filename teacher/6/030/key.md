@@ -8,17 +8,11 @@
 
 2. **B — were playing**. They + were + playing.
 
-3. **A — Was**. Past Continuous запитання: Was the driver going…?
+3. **A — Was**. Eva + was; запитання у Past Continuous.
 
-4. **C — There was a cat in the street.**. Водій побачив кота на дорозі.
+Вправа 5, можливий тематичний діалог: A: What was Mia doing at five? B: She was drawing. A: Was Leo reading? B: No, he was carrying a box.
 
-5. **B — No, he fell down.**. У тексті прямо вказано, що машина не збила хлопця.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Mia was reading in the garden. Leo was drawing. Eva was playing with a ball. The ball rolled under a bench. They found it and laughed.
-
-Модель додаткового висловлення: Mia was reading in the garden. Leo was drawing. Eva was playing with a ball. The ball rolled under a bench. They found it and laughed.
-
-Вправа 5, зразок: A: I was walking at five. B: Could you explain? A: A boy was skateboarding on the pavement. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Mia was reading in the garden. Leo was drawing. Eva was playing with a ball. The ball rolled under a bench. They found it and laughed.
 
 ## Рубрика відкритого продукту
 

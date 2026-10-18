@@ -4,21 +4,19 @@
 
 ## Блок 1: TV programmes
 
-1. **C — seen**. Present Perfect: have + seen.
+1. **C — учасник конкурсу**. contestant — учасник конкурсу; це перевірка лексики, не нової граматики.
 
-2. **B — has**. She + has + третя форма.
+2. **B — канал**. channel — канал; це перевірка лексики, не нової граматики.
 
-3. **A — Have you ever appeared on TV?**. Досвід без конкретної дати: Have you ever…?
+3. **A — документальна програма**. documentary — документальна програма; це перевірка лексики, не нової граматики.
 
-4. **C — Five.**. У другому реченні названо five questions.
+Вправа 4, можливий варіант: Можливі слова: contestant; channel; documentary; cartoon. Припустимі різні підгрупи, якщо пояснення логічне. Репліку можна скопіювати з моделі; це не доказ самостійного володіння новою формою.
 
-5. **B — One boy answered too quickly and made mistakes.**. Текст пояснює помилки поспішними відповідями.
+## Блок 2: Going shopping
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Two boys are contestants on a game show. They must answer five questions about their friends to win a prize. Have you ever watched a talent show? I have seen it twice. She has never won a competition.
+1. **C — чек**. receipt — чек; це перевірка лексики, не нової граматики.
 
-Модель додаткового висловлення: Have you ever watched a musical? Yes, I have. Have you ever played tennis? Yes, I have. Have you ever made a film? No, I haven’t. Have you ever visited a museum? Yes, I have. Have you ever won a prize? No, I haven’t.
-
-Вправа 5, зразок: A: Have you ever watched a talent show? I have seen it twice. B: Could you explain? A: Two boys are contestants on a game show. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+2. **B — знижка**. discount — знижка; це перевірка лексики, не нової граматики.
 
 ## Рубрика відкритого продукту
 

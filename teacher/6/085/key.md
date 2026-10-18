@@ -6,19 +6,17 @@
 
 1. **B — many**. Apples — злічувана множина.
 
-2. **A — Protein and calcium.**. У тексті названо protein and calcium.
+2. **A — tell**. Після should — основна форма.
 
-3. **C — tell**. Після should — основна форма.
+3. **C — isn't she**. Після ствердження з is — isn’t she.
 
-4. **B — At the cinema.**. Вона телефонувала через його відсутність у кіно.
+4. **B — won**. Yesterday потребує Past Simple.
 
-5. **A — isn't she**. Після ствердження з is — isn’t she.
+5. **A — joined**. Last year — Past Simple.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): A balanced diet can include different kinds of food. A girl calls her friend because he has not arrived at the cinema. How much milk is there? How many apples have we got? There is a little water and a few vegetables. I have got a headache. You should tell an adult. You should not ignore it. Should I ask for help? You like tennis, do you not? She is the instructor, is she not? They cannot swim, can they? Our team plays in the local league. Last year they won a trophy. Many spectators watched the final. I joined the tennis club last year. I practise three times a week. I am going to enter a tournament.
+Вправа 5, можливий тематичний діалог: A: How many carrots are there? B: There are a few. A: How much rice is there? B: There is a little.
 
-Модель додаткового висловлення: How much milk is there? How many apples have we got? There is a little water and a few vegetables. I have got a headache. You should tell an adult. You should not ignore it. Should I ask for help? You like tennis, do you not? She is the instructor, is she not? They cannot swim, can they? Our team plays in the local league. Last year they won a trophy. Many spectators watched the final. I joined the tennis club last year. I practise three times a week. I am going to enter a tournament.
-
-Вправа 5, зразок: A: How much milk is there? How many apples have we got? There is a little water and a few vegetables. B: Could you explain? A: A balanced diet can include different kinds of food. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: Mia has a few carrots and a little rice for lunch. Leo feels unwell and should tell an adult. Мій вигаданий варіант: There is a little water and a few vegetables. I have got a headache.
 
 ## Рубрика відкритого продукту
 

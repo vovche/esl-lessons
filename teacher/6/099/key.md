@@ -14,11 +14,9 @@
 
 5. **B — Music, costumes and scenery.**. Текст прямо називає спільні елементи.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): The textbook compares two popular musicals. The Phantom of the Opera tells a story set in an opera house. The musical was written by a composer. It is performed in theatres. I think the costumes are impressive.
+Вправа 5, можливий тематичний діалог: A: What does the text say? B: The textbook compares two popular musicals. A: Can you give another example? B: The musical was written by a composer.
 
-Модель додаткового висловлення: The musical was written by a composer. It is performed in theatres. I think the costumes are impressive.
-
-Вправа 5, зразок: A: The musical was written by a composer. B: Could you explain? A: The textbook compares two popular musicals. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: The textbook compares two popular musicals. The Phantom of the Opera tells a story set in an opera house. Мій вигаданий варіант: The musical was written by a composer. It is performed in theatres.
 
 ## Рубрика відкритого продукту
 

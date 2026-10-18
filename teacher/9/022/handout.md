@@ -1,128 +1,88 @@
-# Роздатка · 9 клас · урок 022 · 2026-10-13
+# Роздатка ·9 клас · урок 022 · 2026-10-13
 
-**Тема:** Fashion All the Way. Мода і стиль. Елементи одягу.
+**Тема календарного плану:** Fashion All the Way. Мода і стиль. Елементи одягу.
 
-Умовне ім’я/код учня: __________________ Дата фактичної роботи: __________
+Умовне ім’я/код: __________________ Фактична дата: _______________
 
-**Можна:** виконувати на папері, зробити паузу, працювати з вигаданим героєм. Особисті історії й камера не потрібні. Мова завдань не оцінює емоції. Під час переміщення до укриття не виконуй завдань. Читай і пиши лише коли є безпечні умови та достатнє світло.
+Особисті дані й камера не потрібні. Під час переміщення завдання зупиняються. У темряві не читай і не пиши; повернись, коли є безпечні умови. Можна зробити паузу; термін здавання узгоджується за доступністю.
 
-**Швидкий маршрут без мережі (10 хв):** 2 хв — модель і слова; 4 хв — перша секція, вправа 1; 4 хв — два власні речення за моделлю. За ресурсом ще до 5 хв на одну відповідь вправи 2 й питання до вчителя. Решту виконаєш після домовленості.
+## Мінімум B/D: окрема коротка картка
 
-## Секція 1: Мода і стиль: Лексика в контексті
+**Опора:** comfortable — зручний; plain — однотонний/без візерунка; expensive — дорогий
 
-**Слова:** outfit — вбрання; footwear — взуття; accessory — аксесуар; comfortable — зручний; stylish — стильний; plain — однотонний; striped — смугастий; affordable — доступний за ціною
+The jacket costs more than the buyer can afford. Which word or phrase fits?
 
-**Опора:** Порівняй значення близьких слів, поясни вибір у контексті й склади власні речення.
-**Модель:** Choosing comfortable clothes matters. I enjoy wearing a plain shirt.
+Не потрібно виконувати весь основний пакет.
 
-### 1. Read and find evidence
+My example / field / row: __________________________________________
 
-Emma and Dan discuss clothes for a special school event. Emma wants a comfortable outfit and chooses a plain shirt with trousers. Dan prefers a striped shirt and clean shoes. They agree that clothes can express interests, but a person should not be judged only by an outfit. They compare price and quality before buying anything.
+__________________________________________________________________
 
-1. За адаптованим текстом: What matters to Emma?
+Одне питання вчителю (можна українською): ___________________________
 
-A) the highest price / B) wearing a costume every day / C) comfort
+B:2 хв готовність +4 хв опора +6 хв приклад +3 хв збереження. D:2+3+5 хв, потім необов’язково до 5 хв уточнення. Це тренувальний фрагмент, не повний урок або контроль. Результат можна передати пізніше.
 
-Answer: ______ Evidence from the text: ______________________________
+## Основний маршрут A/C —45 хв
 
-2. За адаптованим текстом: What do they compare before buying?
+**Мовний фокус / жанр:** лексика у контексті
 
-A) phones and games / B) price and quality / C) names and ages
+**Опора:** Обираємо слово за значенням у ситуації. Після розпізнавання переносимо слово в новий контекст. Публічні форми заповнюємо лише вигаданими даними.
 
-Answer: ______ Evidence from the text: ______________________________
+### Джерело / brief
 
-### 2. Choose a form; explain one choice
+Word bank: comfortable — зручний; plain — однотонний/без візерунка; expensive — дорогий.
 
-1. I enjoy ... comfortable clothes.
+### Цільові пункти
 
-A) to wear / B) wear / C) wearing
 
-Answer: ______
 
-2. She is interested in ... accessories.
+1. The shoes feel good during a long walk. Which word or phrase fits?
 
-A) make / B) making / C) to make
+A) expensive / B) comfortable / C) plain
 
-Answer: ______
+Answer: _____ Reason/evidence: __________________________________
 
-3. ... outfits takes time.
+2. The shirt has no stripes or pictures. Which word or phrase fits?
 
-A) Choosing / B) To choosing / C) Choose
+A) plain / B) comfortable / C) expensive
 
-Answer: ______
+Answer: _____ Reason/evidence: __________________________________
 
-One explanation (time, meaning or form): __________________________
+3. The jacket costs more than the buyer can afford. Which word or phrase fits?
 
-________________________________________________________________
+A) comfortable / B) plain / C) expensive
 
-## Окрема ситуація цього уроку: a phrase collection
+Answer: _____ Reason/evidence: __________________________________
 
-Jess is working on a phrase collection about clothes and choices. The task is to choose phrases that fit a particular situation. There are 9 minutes for a first attempt. A partner suggests making the message shorter, but Jess wants to keep one clear reason. They agree to check the meaning before sharing the final version. The work is about a fictional character, so no private details are needed.
 
-A. How much time is available for a first attempt? ___________________
+### Один головний продукт
 
-B. What will the partners check before sharing? _____________________
+Choose two words from the word bank and write a different contextual example for each. Do not copy the task sentences.
 
-C. Complete the actual mini-product (a phrase collection) in two lines about clothes and choices. Include one clear reason. Use the language model above and the strategy from the message.
+Для навчального мінімуму: один потрібний фрагмент і позначка, що ще треба завершити. Для повного A/C — весь зазначений короткий жанр/продукт. Це не вимога написати 120–130 слів за 7 хв.
 
 __________________________________________________________________
 
 __________________________________________________________________
 
-## 3. Create and explain
-
-Write a reasoned outfit recommendation for a fictional Alex. Use two details from the text(s), give two reasons and add one suggestion. Write 4–6 sentences. You may use the model(s) above. Do not include real addresses, phone numbers or private experiences.
-
-**Start:** In the text, … . Alex could … because … . Another reason is … . I suggest … .
-
-1. ________________________________________________________________
-
-2. ________________________________________________________________
-
-3. ________________________________________________________________
-
-4. ________________________________________________________________
-
-5. ________________________________________________________________
-
-6. ________________________________________________________________
-
-## 4. Interaction
-
-Fictional situation: Alex needs help choosing a next step about clothes and choices. Ask for one reason, reply and respond politely. Say it if the teacher has arranged an oral channel; otherwise write a dialogue and mark it as written.
-
-A: Why would you choose ________________________________________?
-
-B: I would choose __________________ because ____________________.
-
-A: I see your point. Another option is ____________________________.
-
-Спосіб: усно / письмово. Партнера немає? Напиши обидві ролі як тренування; усну взаємодію перевірять окремо.
-
-## 5. Listening (only with the teacher's audio)
-
-Do not guess if you cannot hear the audio. Write «не перевірено» and arrange another time.
-
-1. On which day does Alex plan the activity? _______________________
-
-2. Who lends Alex the shirt? ______________________
-
-## 6. Correction / portfolio / homework
-
-Original phrase: __________________________________________________
-
-My corrected phrase and reason: ____________________________________
+__________________________________________________________________
 
 __________________________________________________________________
 
-Second correction (for portfolio): _________________________________
-
-My next language step: ____________________________________________
-
-Add two sentences to your product, if this is homework: ______________
+__________________________________________________________________
 
 __________________________________________________________________
 
-Optional respectful phrase for fictional Alex: ______________________
+__________________________________________________________________
 
-**ДЗ:** одна виправлена відповідь із поясненням і два додані речення, до 10 хв. Термін — наступний доступний контакт за домовленістю. Після короткого маршруту спочатку заверши мінімум.
+__________________________________________________________________
+
+### Після завершення
+
+Мій точний пункт повернення: _______________________________________
+
+Моє мовне питання / одне виправлення: _______________________________
+
+**Резерв, тільки за окремим вибором вчителя:** розширити продукт однією новою деталлю й пояснити її; цей резерв не додається до 45 хв. На інших уроках аудіювання/говоріння не приписуються автоматично, якщо їх не перевіряли.
+
+**ДЗ, до 10 хв:** виправити один цільовий пункт із поясненням або завершити одну потрібну частину чернетки. Не виконувати заново весь пропущений урок. Після B/D спершу зберегти мінімум, решту погодити з учителем. Контроль удома не зараховується без погодженої процедури.

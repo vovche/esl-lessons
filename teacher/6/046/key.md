@@ -14,11 +14,9 @@
 
 5. **A — Travel with their home.**. У тексті: travel with their home.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Some people enjoy a busy city with shops and restaurants. Other people prefer the countryside because it is quieter and more peaceful. The country is quieter than the city. The city is more exciting. This house is as comfortable as that one.
+Вправа 5, можливий тематичний діалог: A: Is the village quieter than the town? B: Yes, it is. A: Which place do you prefer? B: I prefer the village.
 
-Модель додаткового висловлення: I would like to live in Green Town or Hill Village. The village is quieter than the town. The town is bigger than the village. The village is as beautiful as the town.
-
-Вправа 5, зразок: A: The country is quieter than the city. B: Could you explain? A: Some people enjoy a busy city with shops and restaurants. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: Some people enjoy a busy city with shops and restaurants. Other people prefer the countryside because it is quieter and more peaceful. Мій вигаданий варіант: I would like to live in Green Town or Hill Village. The village is quieter than the town.
 
 ## Рубрика відкритого продукту
 

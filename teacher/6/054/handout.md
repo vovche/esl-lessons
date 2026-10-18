@@ -4,7 +4,7 @@
 
 Можна працювати з вигаданими персонажами. Під час переміщення в укриття не виконувати завдань. Якщо немає безпечних умов / освітлення, відкласти. Перевірку стану можна пропустити.
 
-# Завдання: A town story
+# Завдання: A town story · варіант 054 P
 
 Це запропонований матеріал перевірки, а не підтвердження її проведення. Працюй самостійно; перед початком учитель пояснить критерії. Якщо зв’язок зник або пролунала тривога, зупинись. Відсутній доказ перевірять іншого безпечного разу.
 
@@ -12,21 +12,39 @@
 
 Прочитай запитання. Прослухай учителя двічі у звичайних безпечних умовах. Не потрібно повторювати вголос. Текст слухання міститься тільки в учительському ключі. Якщо не чути, повідом доступним способом; читання тексту не замінює перевірку слухання.
 
-1. Where was Leo?
+1. Where was Mia?
 
-A) At the bank / B) In a shop / C) In the library
-
-Відповідь: __________
-
-2. What book did Mia want?
-
-A) A book about football / B) A book about planets / C) A book about cooking
+A) In the library. / B) In the school. / C) In the museum.
 
 Відповідь: __________
 
-3. When did Leo leave?
+2. What book did Sam want?
 
-A) At five / B) At half past four / C) At six
+A) A book about trains. / B) A book about animals. / C) A book about planets.
+
+Відповідь: __________
+
+3. When did Mia leave?
+
+A) At three. / B) At two. / C) At four.
+
+Відповідь: __________
+
+4. What colour was the book?
+
+A) Blue. / B) Red. / C) Green.
+
+Відповідь: __________
+
+5. What time did the friend arrive?
+
+A) At eleven. / B) At ten. / C) At nine.
+
+Відповідь: __________
+
+6. Where did they sit?
+
+A) Near the window. / B) At the gate. / C) Under a tree.
 
 Відповідь: __________
 

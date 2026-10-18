@@ -48,8 +48,12 @@ def main():
         source = json.loads((folder / "source-plan.json").read_text())
         manifest = json.loads((folder / "manifest.json").read_text())
         printed = json.loads((folder / "print-manifest.json").read_text())
+        reviewed = json.loads((folder / "quality-review.json").read_text())
         lessons, entries = source["lessons"], manifest["lessons"]
         assert len(lessons) == len(entries) == len(printed["lessons"]) == expected, grade
+        assert reviewed["grade"] == grade and len(reviewed["lessons"]) == expected, grade
+        reviews = {entry["number"]: entry for entry in reviewed["lessons"]}
+        assert len(reviews) == expected, grade
         assert [x["number"] for x in entries] == list(range(1, expected+1)), grade
         assert len({x["date"] for x in entries}) == expected, grade
         sources = {x["number"]: x for x in lessons}
@@ -60,8 +64,20 @@ def main():
             assert entry["topic"] == original["topic"], entry
             lesson = folder / entry["directory"]
             assert lesson.resolve().parent == folder.resolve(), lesson
-            for name in ("lesson.md", "handout.md", "key.md", "report.md"):
+            review = reviews[entry["number"]]
+            assert review["date"] == entry["date"] and review["topic"] == entry["topic"], entry
+            reviewed_files = {"lesson.md", "handout.md", "key.md"}
+            if (lesson/"recovery-handout.md").exists():
+                reviewed_files.add("recovery-handout.md")
+            assert set(review["source_sha256"]) == reviewed_files, lesson
+            for name in reviewed_files:
+                assert digest(lesson/name) == review["source_sha256"][name], f"Stale quality review: {lesson/name}"
+            for name in ("lesson.md", "handout.md", "key.md", "report.md", "games.md"):
                 assert (lesson / name).stat().st_size > 100, lesson / name
+            games = (lesson/"games.md").read_text()
+            game_headings = re.findall(r"^## (?:[12]\s*[.·—–:]|(?:Гра|Симуляція)\s*[12](?:[.\s—–·:]|$))",
+                                       games, flags=re.MULTILINE | re.IGNORECASE)
+            assert len(game_headings) == 2, f"Expected two game simulations: {lesson}"
             text = (lesson / "lesson.md").read_text()
             assert entry["date"] in text, lesson
             check_timing(text, lesson)
@@ -69,7 +85,8 @@ def main():
                                  "\n".join(p.read_text() for p in lesson.glob("*.md"))), lesson
             pdf_entry = pdf_entries[f"{grade}/{lesson.name}"]
             variants = [("handout.pdf", ["handout.md"]),
-                        ("teacher.pdf", ["lesson.md", "key.md", "report.md"])]
+                        ("teacher.pdf", ["lesson.md", "key.md", "report.md"]),
+                        ("games.pdf", ["games.md"])]
             if (lesson/"recovery-handout.md").exists():
                 variants.append(("recovery-handout.pdf", ["recovery-handout.md"]))
             assert set(pdf_entry["files"]) == {v[0] for v in variants}, lesson

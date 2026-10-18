@@ -4,29 +4,47 @@
 
 Можна працювати з вигаданими персонажами. Під час переміщення в укриття не виконувати завдань. Якщо немає безпечних умов / освітлення, відкласти. Перевірку стану можна пропустити.
 
-# Завдання: A town story
+# Завдання: A town story · варіант 056 P
 
 Це запропонований матеріал перевірки, а не підтвердження її проведення. Працюй самостійно; перед початком учитель пояснить критерії. Якщо зв’язок зник або пролунала тривога, зупинись. Відсутній доказ перевірять іншого безпечного разу.
 
 ## R — розуміння прочитаного
 
-Green Town has a library, a park and a small market. The library is opposite the park. On Monday, Eva was walking to the library when she found a green notebook. She gave it to the librarian. Later a boy came to ask for it. He thanked Eva. It was the happiest moment of her day.
+Green Town has a library, a park and a small market. The library is opposite the market. On Tuesday, Mia was walking to the library when she found a green notebook. She gave it to a librarian. Later Alex came to ask for it. He thanked Mia. She felt happy because the object was back with its owner.
 
 1. Where is the library?
 
-A) Opposite the park / B) Behind the market / C) Next to a lake
+A) Opposite the market. / B) Opposite the park. / C) Opposite the school.
 
 Відповідь: __________
 
-2. What did Eva find?
+2. What did the girl find?
 
-A) A blue book / B) A bag / C) A green notebook
+A) A blue bag. / B) A red pencil case. / C) A green notebook.
 
 Відповідь: __________
 
-3. Who received the notebook from Eva?
+3. Who received the object from her?
 
-A) A shop assistant / B) The librarian / C) A bus driver
+A) A shop assistant. / B) A librarian. / C) A teacher.
+
+Відповідь: __________
+
+4. Who asked for the object?
+
+A) Alex. / B) Leo. / C) Sam.
+
+Відповідь: __________
+
+5. Where was the girl going?
+
+A) To the cinema. / B) To the airport. / C) To the library.
+
+Відповідь: __________
+
+6. Why did she feel happy?
+
+A) She bought a new bag. / B) The owner had the object again. / C) She won a prize.
 
 Відповідь: __________
 

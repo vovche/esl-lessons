@@ -1,128 +1,82 @@
-# Роздатка · 9 клас · урок 018 · 2026-10-05
+# Роздатка ·9 клас · урок 018 · 2026-10-05
 
-**Тема:** Fashion All the Way. Мода і стиль. Елементи одягу.
+**Тема календарного плану:** Fashion All the Way. Мода і стиль. Елементи одягу.
 
-Умовне ім’я/код учня: __________________ Дата фактичної роботи: __________
+Умовне ім’я/код: __________________ Фактична дата: _______________
 
-**Можна:** виконувати на папері, зробити паузу, працювати з вигаданим героєм. Особисті історії й камера не потрібні. Мова завдань не оцінює емоції. Під час переміщення до укриття не виконуй завдань. Читай і пиши лише коли є безпечні умови та достатнє світло.
+Особисті дані й камера не потрібні. Під час переміщення завдання зупиняються. У темряві не читай і не пиши; повернись, коли є безпечні умови. Можна зробити паузу; термін здавання узгоджується за доступністю.
 
-**Швидкий маршрут без мережі (10 хв):** 2 хв — модель і слова; 4 хв — перша секція, вправа 1; 4 хв — два власні речення за моделлю. За ресурсом ще до 5 хв на одну відповідь вправи 2 й питання до вчителя. Решту виконаєш після домовленості.
+## Мінімум B/D: окрема коротка картка
 
-## Секція 1: Мода і стиль: Читання
+**Опора:** Emma and Dan discuss clothes for a special school event. Emma wants a comfortable outfit and chooses a plain shirt with trousers.
 
-**Слова:** outfit — вбрання; footwear — взуття; accessory — аксесуар; comfortable — зручний; stylish — стильний; plain — однотонний; striped — смугастий; affordable — доступний за ціною
+Copy one accurate short fact from this source and add one clearly labelled question. This is reading, not a listening test.
+
+Не потрібно виконувати весь основний пакет.
+
+My example / field / row: __________________________________________
+
+__________________________________________________________________
+
+Одне питання вчителю (можна українською): ___________________________
+
+B:2 хв готовність +4 хв опора +6 хв приклад +3 хв збереження. D:2+3+5 хв, потім необов’язково до 5 хв уточнення. Це тренувальний фрагмент, не повний урок або контроль. Результат можна передати пізніше.
+
+## Основний маршрут A/C —45 хв
+
+**Мовний фокус / жанр:** читання: факт → пояснення
 
 **Опора:** Прочитай для загального змісту, потім знайди докази для кожної відповіді.
-**Модель:** Choosing comfortable clothes matters. I enjoy wearing a plain shirt.
 
-### 1. Read and find evidence
+### Джерело / brief
 
 Emma and Dan discuss clothes for a special school event. Emma wants a comfortable outfit and chooses a plain shirt with trousers. Dan prefers a striped shirt and clean shoes. They agree that clothes can express interests, but a person should not be judged only by an outfit. They compare price and quality before buying anything.
 
-1. За адаптованим текстом: What matters to Emma?
+### Цільові пункти
 
-A) comfort / B) the highest price / C) wearing a costume every day
 
-Answer: ______ Evidence from the text: ______________________________
 
-2. За адаптованим текстом: What do they compare before buying?
+1. What matters to Emma?
 
-A) names and ages / B) phones and games / C) price and quality
+A) the highest price / B) wearing a costume every day / C) comfort
 
-Answer: ______ Evidence from the text: ______________________________
+Answer: _____ Reason/evidence: __________________________________
 
-### 2. Choose a form; explain one choice
+2. What do they compare before buying?
 
-1. I enjoy ... comfortable clothes.
+A) phones and games / B) price and quality / C) names and ages
 
-A) wearing / B) to wear / C) wear
+Answer: _____ Reason/evidence: __________________________________
 
-Answer: ______
 
-2. She is interested in ... accessories.
+### Один головний продукт
 
-A) to make / B) make / C) making
+Make a reading note: two short facts from the text and one clearly labelled opinion or question. Underline one phrase as evidence. Do not treat an inference as a quoted fact.
 
-Answer: ______
-
-3. ... outfits takes time.
-
-A) Choose / B) Choosing / C) To choosing
-
-Answer: ______
-
-One explanation (time, meaning or form): __________________________
-
-________________________________________________________________
-
-## Окрема ситуація цього уроку: a reading note
-
-Jess is working on a reading note about clothes and choices. The task is to separate the writer’s fact from the reader’s opinion. There are 5 minutes for a first attempt. A partner suggests making the message shorter, but Jess wants to keep one clear reason. They agree to check the meaning before sharing the final version. The work is about a fictional character, so no private details are needed.
-
-A. How much time is available for a first attempt? ___________________
-
-B. What will the partners check before sharing? _____________________
-
-C. Complete the actual mini-product (a reading note) in two lines about clothes and choices. Include one clear reason. Use the language model above and the strategy from the message.
+Для навчального мінімуму: один потрібний фрагмент і позначка, що ще треба завершити. Для повного A/C — весь зазначений короткий жанр/продукт. Це не вимога написати 120–130 слів за 7 хв.
 
 __________________________________________________________________
 
 __________________________________________________________________
 
-## 3. Create and explain
-
-Write a reasoned outfit recommendation for a fictional Alex. Use two details from the text(s), give two reasons and add one suggestion. Write 4–6 sentences. You may use the model(s) above. Do not include real addresses, phone numbers or private experiences.
-
-**Start:** In the text, … . Alex could … because … . Another reason is … . I suggest … .
-
-1. ________________________________________________________________
-
-2. ________________________________________________________________
-
-3. ________________________________________________________________
-
-4. ________________________________________________________________
-
-5. ________________________________________________________________
-
-6. ________________________________________________________________
-
-## 4. Interaction
-
-Fictional situation: Alex needs help choosing a next step about clothes and choices. Ask for one reason, reply and respond politely. Say it if the teacher has arranged an oral channel; otherwise write a dialogue and mark it as written.
-
-A: Why would you choose ________________________________________?
-
-B: I would choose __________________ because ____________________.
-
-A: I see your point. Another option is ____________________________.
-
-Спосіб: усно / письмово. Партнера немає? Напиши обидві ролі як тренування; усну взаємодію перевірять окремо.
-
-## 5. Listening (only with the teacher's audio)
-
-Do not guess if you cannot hear the audio. Write «не перевірено» and arrange another time.
-
-1. On which day does Alex plan the activity? _______________________
-
-2. Who lends Alex the shirt? ______________________
-
-## 6. Correction / portfolio / homework
-
-Original phrase: __________________________________________________
-
-My corrected phrase and reason: ____________________________________
+__________________________________________________________________
 
 __________________________________________________________________
 
-Second correction (for portfolio): _________________________________
-
-My next language step: ____________________________________________
-
-Add two sentences to your product, if this is homework: ______________
+__________________________________________________________________
 
 __________________________________________________________________
 
-Optional respectful phrase for fictional Alex: ______________________
+__________________________________________________________________
 
-**ДЗ:** одна виправлена відповідь із поясненням і два додані речення, до 10 хв. Термін — наступний доступний контакт за домовленістю. Після короткого маршруту спочатку заверши мінімум.
+__________________________________________________________________
+
+### Після завершення
+
+Мій точний пункт повернення: _______________________________________
+
+Моє мовне питання / одне виправлення: _______________________________
+
+**Резерв, тільки за окремим вибором вчителя:** розширити продукт однією новою деталлю й пояснити її; цей резерв не додається до 45 хв. На інших уроках аудіювання/говоріння не приписуються автоматично, якщо їх не перевіряли.
+
+**ДЗ, до 10 хв:** виправити один цільовий пункт із поясненням або завершити одну потрібну частину чернетки. Не виконувати заново весь пропущений урок. Після B/D спершу зберегти мінімум, решту погодити з учителем. Контроль удома не зараховується без погодженої процедури.

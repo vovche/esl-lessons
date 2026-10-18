@@ -10,15 +10,9 @@
 
 3. **B — play**. Going to + основна форма.
 
-4. **A — Three times a week.**. Частоту прямо названо в тексті.
+Вправа 5, можливий тематичний діалог: A: When did you join the tennis club? B: Last month. A: What are you going to do next? B: I am going to play a friendly match.
 
-5. **C — Take part in a tournament.**. Вона планує турнір через два тижні.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Dear Mia, I joined the art club last month. I go there twice a week. We draw animals. Next week I am going to paint a bird. Would you like to come? Alex
-
-Модель додаткового висловлення: Dear Mia, I joined the art club last month. I go there twice a week. We draw animals. Next week I am going to paint a bird. Would you like to come? Alex
-
-Вправа 5, зразок: A: I joined the tennis club last year. B: Could you explain? A: A girl joined a tennis club after a friend gave her advice. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Dear Mia, I joined the tennis club last month. I practise twice a week. Last week I played a friendly match. Next week I am going to practise with Leo. Would you like to join us? Alex
 
 ## Рубрика відкритого продукту
 

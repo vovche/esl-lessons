@@ -4,7 +4,7 @@
 
 Можна працювати з вигаданими персонажами. Під час переміщення в укриття не виконувати завдань. Якщо немає безпечних умов / освітлення, відкласти. Перевірку стану можна пропустити.
 
-# Завдання: A school film club
+# Завдання: A school film club · варіант 116 P
 
 Це запропонований матеріал перевірки, а не підтвердження її проведення. Працюй самостійно; перед початком учитель пояснить критерії. Якщо зв’язок зник або пролунала тривога, зупинись. Відсутній доказ перевірять іншого безпечного разу.
 
@@ -14,19 +14,37 @@
 
 1. Who directed the film?
 
-A) Leo / B) Mia / C) Eva
+A) Sam. / B) Leo. / C) Alex.
 
 Відповідь: __________
 
 2. Where was it filmed?
 
-A) In a shop / B) In a museum / C) In the school garden
+A) In the school garden. / B) In the town park. / C) In the library.
 
 Відповідь: __________
 
-3. When is the show?
+3. Which day is the show?
 
-A) Monday at three / B) Wednesday at four / C) Friday at five
+A) Tuesday. / B) Wednesday. / C) Monday.
+
+Відповідь: __________
+
+4. Who wrote the film?
+
+A) Mia. / B) Eva. / C) Anna.
+
+Відповідь: __________
+
+5. What time is the show?
+
+A) At two. / B) At four. / C) At three.
+
+Відповідь: __________
+
+6. What kind of film is it?
+
+A) Cartoon. / B) Adventure film. / C) Comedy.
 
 Відповідь: __________
 

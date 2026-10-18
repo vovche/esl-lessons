@@ -4,15 +4,37 @@
 
 ## Текст учителя для слухання — не друкувати учням
 
-Our film club has made a short comedy. The film was written by Mia and directed by Leo. It was filmed in the school garden. We are showing it on Wednesday at four. Tickets are free. You can bring a friend.
+Our film club has made a short cartoon. The film was written by Mia and directed by Alex. It was filmed in the town park. We are showing it on Sunday at four. Tickets are free. You can bring a friend.
 
 Читати двічі чітко, без зайвих підказок; між читаннями пауза близько 30 секунд. На контрольних не показувати текст на екрані. Після переривання початий стимул не оцінювати автоматично: провести еквівалентну перевірку за погодженим графіком.
 
-R1. B — For two years.
+R1. B — For four years..
 
-R2. A — In the town library.
+R2. A — In the town library..
 
-R3. C — Eva.
+R3. C — Mia..
+
+R4. B — The quiet music..
+
+R5. A — A school magazine..
+
+R6. C — Make a short music video..
+
+## Резервний варіант — ключ учителя
+
+Видайте recovery-handout.md тільки після визначення окремого слота. Не відкривайте цей ключ учням.
+
+Резерв R1: A — For two years.
+
+Резерв R2: C — In the school garden.
+
+Резерв R3: B — Eva.
+
+Резерв R4: A — The quiet music.
+
+Резерв R5: C — A school magazine.
+
+Резерв R6: B — Make a short music video.
 
 ## Рубрика відкритого продукту
 

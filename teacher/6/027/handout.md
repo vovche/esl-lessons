@@ -6,19 +6,15 @@
 
 ## Блок 1: Round-up 2
 
-### 1. Словник і опора
+### 1. Словник
 
-sunbathe — засмагати; souvenirs — сувеніри; ferry — пором; underground — метро; passport — паспорт; currency — валюта; voyage — морська подорож; explorer — дослідник
-
-Повтори ключові правила з п’яти уроків. Спочатку виконай завдання без підказок. Потім прочитай пояснення до помилок і повернися до відповідного уроку. Для кожного правила склади власний приклад.
-
-Мовна модель: We went on a cruise. I took photos. Did you buy souvenirs? I did not ride a horse. He could not find the river. She drives carefully. We travelled by ferry and walked on foot. We booked a flight. The tickets are for us. Give them to me. Did you pack your passport? People used to travel on slow ships. Did they use to spend months at sea? Trains did not use to be so fast. We visited a museum and watched a film. We were tired, so we went home. I liked the trip because it was exciting.
+sunbathe — засмагати; ferry — пором; passport — паспорт; voyage — морська подорож; amazing — дивовижний
 
 ### 2. Прочитай
 
-A girl returned from a holiday in Egypt. A visitor wanted to find a restaurant near a river. Two friends are preparing for a trip. Travel has changed. Last week our class went by coach to a science museum.
+Last Saturday Mia went to a museum by bus. The driver drove carefully. Mia could read a map when she was six. She gave her tickets to Leo and asked him to keep them. People used to travel more slowly. The friends enjoyed the trip because they saw an interesting exhibition.
 
-### 3. Обери відповідь. Запиши літеру та підкресли доказ / форму в тексті.
+### 3. Обери відповідь. Для мовної форми поясни правило; для факту підкресли його в тексті.
 
 1. Last summer we ___ on a cruise.
 
@@ -26,33 +22,37 @@ A) go / B) going / C) went
 
 Відповідь: __________ Доказ / пояснення: __________________________
 
-2. Why was the girl scared?
+2. She is a careful driver. She drives ___.
 
-A) The museum was closed. / B) The camel was tall. / C) She lost her passport.
-
-Відповідь: __________ Доказ / пояснення: __________________________
-
-3. She is a careful driver. She drives ___.
-
-A) carefully / B) careful / C) care
+A) care / B) carefully / C) careful
 
 Відповідь: __________ Доказ / пояснення: __________________________
 
-4. Why did the visitor leave the bus?
+3. These tickets are for ___.
 
-A) The bus was free. / B) He wanted to go home. / C) The traffic was slow.
-
-Відповідь: __________ Доказ / пояснення: __________________________
-
-5. These tickets are for ___.
-
-A) our / B) us / C) we
+A) us / B) we / C) our
 
 Відповідь: __________ Доказ / пояснення: __________________________
 
-### 4. Мій короткий продукт
+4. People ___ travel on slow ships.
 
-Використай тему «Round-up 2». Напиши 4 пов’язані речення (або 4 репліки діалогу): два за змістом тексту й два про вигаданого героя / власний варіант. Ужий щонайменше два слова зі словника та одну структуру з опори. Особисті дані не потрібні.
+A) use to / B) are used / C) used to
+
+Відповідь: __________ Доказ / пояснення: __________________________
+
+5. We stayed inside ___ it was raining.
+
+A) but / B) because / C) so
+
+Відповідь: __________ Доказ / пояснення: __________________________
+
+Після власної спроби: Повтори п’ять мовних фокусів у вправах 3 №1–5. Спочатку дай власну відповідь; опора відкривається після спроби. Після перевірки обери одну форму для власного прикладу. Це формувальне повторення, не контроль.
+
+Опора після спроби: We went on a cruise. He could not find the river. We booked a flight. People used to travel on slow ships. We visited a museum and watched a film.
+
+### 4. Мій тематичний продукт
+
+За текстом «Round-up 2» запиши два факти (можна короткими реченнями). Окремо під заголовком «Мій вигаданий варіант» напиши ще два тематичні речення. Використай структуру з опори. Це 4 речення разом; не потрібно розкривати особисті дані.
 
 Початок на вибір: Hi… Last week we… My favourite place was… Speak to you soon!
 
@@ -68,11 +68,11 @@ ________________________________________________________________________
 
 ________________________________________________________________________
 
-Перевірка: □ зміст зрозумілий □ два слова □ структура □ перевірив(ла) одне місце.
+Перевірка: □ виконав зміст завдання □ зрозумілі речення □ перевірив(ла) одну форму.
 
-### 5. Взаємодія за бажанням у класі / онлайн
+### 5. Мініситуація на вибір (якщо лишився час)
 
-Учень A читає одне своє речення про «Round-up 2». Учень B питає “Could you explain?” або “What about you?” A додає ще один факт. Зміна ролей. Можна записати репліки замість говоріння; це письмова взаємодія, не доказ усної.
+Вигадана ситуація «Round-up 2». A починає: “Where did you go last summer?” B відповідає за темою; A ставить друге запитання / репліку, B реагує. Поміняйте одну деталь і ролі. Можна грати соло й записати обидві ролі. Мовчазна / чат-версія дає письмовий доказ; усний фіксують тільки за реальним говорінням.
 
 A: __________________________ B: __________________________
 
@@ -82,4 +82,4 @@ A: __________________________ B: __________________________
 
 00–02: відкрий блок 1, словник і модель. 02–06: прочитай текст, підкресли 2 факти. 06–10: виконай вправу 3 №1–2. 10–13: напиши 1–2 речення вправи 4. 13–15: постав ? біля труднощів і збережи аркуш. За відсутності ресурсу зупинись раніше; надсилати роботу під час відключення не потрібно. Принеси її за наступної можливості.
 
-ДЗ до 10 хв: допиши / відредагуй до 4 речень вправи 4. Після короткого маршруту — лише два початі пункти й 1–2 речення; без подвійного навантаження.
+ДЗ до 10 хв: відредагуй одне речення / деталь уже початого основного продукту; нового повного твору не потрібно. Після короткого маршруту — лише два початі пункти й 1–2 речення; без подвійного навантаження.

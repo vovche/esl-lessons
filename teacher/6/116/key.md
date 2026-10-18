@@ -4,15 +4,39 @@
 
 ## Текст учителя для слухання — не друкувати учням
 
-Our film club has made a short comedy. The film was written by Mia and directed by Leo. It was filmed in the school garden. We are showing it on Wednesday at four. Tickets are free. You can bring a friend.
+Our film club has made a short adventure film. The film was written by Mia and directed by Sam. It was filmed in the library. We are showing it on Wednesday at three. Tickets are free. You can bring a friend.
 
 Читати двічі чітко, без зайвих підказок; між читаннями пауза близько 30 секунд. На контрольних не показувати текст на екрані. Після переривання початий стимул не оцінювати автоматично: провести еквівалентну перевірку за погодженим графіком.
 
-L1. A — Leo.
+L1. A — Sam..
 
-L2. C — In the school garden.
+L2. C — In the library..
 
-L3. B — Wednesday at four.
+L3. B — Wednesday..
+
+L4. A — Mia..
+
+L5. C — At three..
+
+L6. B — Adventure film..
+
+## Резервний варіант — ключ учителя
+
+Видайте recovery-handout.md тільки після визначення окремого слота. Не відкривайте цей ключ учням.
+
+Прихований текст резервного слухання (двічі): Our film club has made a short cartoon. The film was written by Eva and directed by Alex. It was filmed in the town park. We are showing it on Thursday at four. Tickets are free. You can bring a friend.
+
+Резерв L1: C — Alex.
+
+Резерв L2: B — In the town park.
+
+Резерв L3: A — Thursday.
+
+Резерв L4: C — Eva.
+
+Резерв L5: B — At four.
+
+Резерв L6: A — Cartoon.
 
 ## Рубрика відкритого продукту
 

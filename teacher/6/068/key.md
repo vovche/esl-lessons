@@ -10,19 +10,11 @@
 
 3. **B — The place and time.**. Гостю потрібно знати, де й коли подія.
 
-4. **A — At eight.**. У тексті: meet at the club at eight.
+Вправа 5, можливий тематичний діалог: A: Would you like to come to our event? B: I would love to. A: Where are we meeting? B: At school at ten.
 
-5. **C — A reply.**. В останньому реченні просять send a reply.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Hi Mia, Would you like to come to our school garden event? We are meeting at ten on Saturday. We are going to plant flowers. Please write back. Alex.
+Вправа 4, можливий варіант: Hi Mia, Would you like to come to our school garden event? We are meeting at ten on Saturday. We are going to plant flowers. Please write back. Alex.
 Reply 1: Thanks! I would love to come.
 Reply 2: Thanks for inviting me. I cannot come on Saturday. Have a lovely day!
-
-Модель додаткового висловлення: Hi Mia, Would you like to come to our school garden event? We are meeting at ten on Saturday. We are going to plant flowers. Please write back. Alex.
-Reply 1: Thanks! I would love to come.
-Reply 2: Thanks for inviting me. I cannot come on Saturday. Have a lovely day!
-
-Вправа 5, зразок: A: Would you like to come to our clean-up? We are going to meet at nine. B: Could you explain? A: Our youth club is organising a tree-planting event. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
 
 ## Рубрика відкритого продукту
 

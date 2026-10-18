@@ -14,29 +14,15 @@
 
 5. **B — A flag.**. У тексті прямо вказано a flag.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Two expedition teams wanted to reach the South Pole. They chose different routes and forms of transport. The team began an expedition. They travelled on sledges. When they reached the place, they saw a flag.
+Вправа 5, можливий тематичний діалог: A: What does the text say? B: Two expedition teams wanted to reach the South Pole. A: Can you give another example? B: The team began an expedition.
 
-Модель додаткового висловлення: The team began an expedition. They travelled on sledges. When they reached the place, they saw a flag.
-
-Вправа 5, зразок: A: The team began an expedition. B: Could you explain? A: Two expedition teams wanted to reach the South Pole. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: Two expedition teams wanted to reach the South Pole. They chose different routes and forms of transport. Мій вигаданий варіант: The team began an expedition. They travelled on sledges.
 
 ## Блок 2: Unlucky day
 
 1. **C — woke**. Wake — неправильне дієслово: woke.
 
 2. **B — was walking**. Тривалий фон у минулому: was walking.
-
-3. **A — Later.**. Later показує наступну частину історії.
-
-4. **C — They missed the bus.**. Переказ пісні називає пропущений автобус.
-
-5. **B — An unlucky day.**. Це основна тема пісні.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): The song tells a story about a difficult day. The person wakes up late, misses a bus and has to walk. I woke up late. While I was walking, I slipped. I was riding home when something happened.
-
-Модель додаткового висловлення: I woke up late. While I was walking, I slipped. I was riding home when something happened.
-
-Вправа 5, зразок: A: I woke up late. B: Could you explain? A: The song tells a story about a difficult day. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
 
 ## Рубрика відкритого продукту
 

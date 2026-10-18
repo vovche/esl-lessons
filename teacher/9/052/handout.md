@@ -1,128 +1,82 @@
-# Роздатка · 9 клас · урок 052 · 2026-12-16
+# Роздатка ·9 клас · урок 052 · 2026-12-16
 
-**Тема:** Media in Our Lives. Засоби масової інформації. Радіо.
+**Тема календарного плану:** Media in Our Lives. Засоби масової інформації. Радіо.
 
-Умовне ім’я/код учня: __________________ Дата фактичної роботи: __________
+Умовне ім’я/код: __________________ Фактична дата: _______________
 
-**Можна:** виконувати на папері, зробити паузу, працювати з вигаданим героєм. Особисті історії й камера не потрібні. Мова завдань не оцінює емоції. Під час переміщення до укриття не виконуй завдань. Читай і пиши лише коли є безпечні умови та достатнє світло.
+Особисті дані й камера не потрібні. Під час переміщення завдання зупиняються. У темряві не читай і не пиши; повернись, коли є безпечні умови. Можна зробити паузу; термін здавання узгоджується за доступністю.
 
-**Швидкий маршрут без мережі (10 хв):** 2 хв — модель і слова; 4 хв — перша секція, вправа 1; 4 хв — два власні речення за моделлю. За ресурсом ще до 5 хв на одну відповідь вправи 2 й питання до вчителя. Решту виконаєш після домовленості.
+## Мінімум B/D: окрема коротка картка
 
-## Секція 1: Медіа в нашому житті: Говоріння
+**Опора:** Fictional school radio brief: the presenter interviews a guest about a science programme. The guest values clear demonstrations but wants sources to be named.
 
-**Слова:** network — мережа; audience — аудиторія; subscriber — підписник; reliable — надійний; fake news — фейкові новини; review — огляд, рецензія; broadcast — трансляція; source — джерело
+Write a two-turn information exchange: ask about one source detail and answer using that detail. This is written rehearsal, not an oral test.
+
+Не потрібно виконувати весь основний пакет.
+
+My example / field / row: __________________________________________
+
+__________________________________________________________________
+
+Одне питання вчителю (можна українською): ___________________________
+
+B:2 хв готовність +4 хв опора +6 хв приклад +3 хв збереження. D:2+3+5 хв, потім необов’язково до 5 хв уточнення. Це тренувальний фрагмент, не повний урок або контроль. Результат можна передати пізніше.
+
+## Основний маршрут A/C —45 хв
+
+**Мовний фокус / жанр:** радіоінтерв’ю: presenter / guest
 
 **Опора:** Відповідай розгорнуто, обґрунтовуй думку й став партнеру уточнювальні запитання.
-**Модель:** She said that she liked the programme. He told me that he would check the source.
 
-### 1. Read and find evidence
+### Джерело / brief
 
-Dan is reviewing a science vlog. He describes the topic, presentation and examples instead of simply saying that it is good. The presenter said that the next episode would appear the following week. Dan liked the clear explanation, but thought that more sources should be included. He recommends the vlog to viewers who want an introduction to the topic.
+Fictional school radio brief: the presenter interviews a guest about a science programme. The guest values clear demonstrations but wants sources to be named. The interview has time for one question, one follow-up and a brief conclusion; it should separate the guest’s opinion from a documented fact.
 
-1. За адаптованим текстом: What does Dan describe in his review?
+### Цільові пункти
 
-A) only the number of subscribers / B) his own phone / C) the topic, presentation and examples
 
-Answer: ______ Evidence from the text: ______________________________
 
-2. За адаптованим текстом: What would improve the vlog?
+1. What does the guest want named?
 
-A) no examples / B) more sources / C) fewer explanations
+A) Every viewer’s age / B) Sources / C) Private contacts
 
-Answer: ______ Evidence from the text: ______________________________
+Answer: _____ Reason/evidence: __________________________________
 
-### 2. Choose a form; explain one choice
+2. Which statement is an opinion?
 
-1. “I like this vlog,” she said. She said that she ... the vlog.
+A) The guest values clear demonstrations. / B) The format includes a follow-up. / C) The interview has a guest.
 
-A) likes yesterday / B) liking / C) liked
+Answer: _____ Reason/evidence: __________________________________
 
-Answer: ______
 
-2. He ... me that the source was reliable.
+### Один головний продукт
 
-A) spoke / B) told / C) said
+Create a6-turn radio interview: opening question, guest answer, follow-up asking for a reason, reason with example, presenter summary and guest confirmation. No real recording or broadcast is required.
 
-Answer: ______
-
-3. “I will check it,” Dan said. Dan said he ... check it.
-
-A) would / B) will yesterday / C) had
-
-Answer: ______
-
-One explanation (time, meaning or form): __________________________
-
-________________________________________________________________
-
-## Окрема ситуація цього уроку: a short dialogue
-
-Robin is working on a short dialogue about media and sources. The task is to ask a question and react to the other speaker’s reason. There are 9 minutes for a first attempt. A partner suggests making the message shorter, but Robin wants to keep one clear reason. They agree to check the meaning before sharing the final version. The work is about a fictional character, so no private details are needed.
-
-A. How much time is available for a first attempt? ___________________
-
-B. What will the partners check before sharing? _____________________
-
-C. Complete the actual mini-product (a short dialogue) in two lines about media and sources. Include one clear reason. Use the language model above and the strategy from the message.
+Для навчального мінімуму: один потрібний фрагмент і позначка, що ще треба завершити. Для повного A/C — весь зазначений короткий жанр/продукт. Це не вимога написати 120–130 слів за 7 хв.
 
 __________________________________________________________________
 
 __________________________________________________________________
 
-## 3. Create and explain
-
-Write a short media review with a source-checking step for a fictional Alex. Use two details from the text(s), give two reasons and add one suggestion. Write 4–6 sentences. You may use the model(s) above. Do not include real addresses, phone numbers or private experiences.
-
-**Start:** In the text, … . Alex could … because … . Another reason is … . I suggest … .
-
-1. ________________________________________________________________
-
-2. ________________________________________________________________
-
-3. ________________________________________________________________
-
-4. ________________________________________________________________
-
-5. ________________________________________________________________
-
-6. ________________________________________________________________
-
-## 4. Interaction
-
-Fictional situation: Alex needs help choosing a next step about media and sources. Ask for one reason, reply and respond politely. Say it if the teacher has arranged an oral channel; otherwise write a dialogue and mark it as written.
-
-A: Why would you choose ________________________________________?
-
-B: I would choose __________________ because ____________________.
-
-A: I see your point. Another option is ____________________________.
-
-Спосіб: усно / письмово. Партнера немає? Напиши обидві ролі як тренування; усну взаємодію перевірять окремо.
-
-## 5. Listening (only with the teacher's audio)
-
-Do not guess if you cannot hear the audio. Write «не перевірено» and arrange another time.
-
-1. On which day does Alex plan the activity? _______________________
-
-2. How many sources does Alex check? ______________________
-
-## 6. Correction / portfolio / homework
-
-Original phrase: __________________________________________________
-
-My corrected phrase and reason: ____________________________________
+__________________________________________________________________
 
 __________________________________________________________________
 
-Second correction (for portfolio): _________________________________
-
-My next language step: ____________________________________________
-
-Add two sentences to your product, if this is homework: ______________
+__________________________________________________________________
 
 __________________________________________________________________
 
-Optional respectful phrase for fictional Alex: ______________________
+__________________________________________________________________
 
-**ДЗ:** одна виправлена відповідь із поясненням і два додані речення, до 10 хв. Термін — наступний доступний контакт за домовленістю. Після короткого маршруту спочатку заверши мінімум.
+__________________________________________________________________
+
+### Після завершення
+
+Мій точний пункт повернення: _______________________________________
+
+Моє мовне питання / одне виправлення: _______________________________
+
+**Резерв, тільки за окремим вибором вчителя:** розширити продукт однією новою деталлю й пояснити її; цей резерв не додається до 45 хв. На інших уроках аудіювання/говоріння не приписуються автоматично, якщо їх не перевіряли.
+
+**ДЗ, до 10 хв:** виправити один цільовий пункт із поясненням або завершити одну потрібну частину чернетки. Не виконувати заново весь пропущений урок. Після B/D спершу зберегти мінімум, решту погодити з учителем. Контроль удома не зараховується без погодженої процедури.

@@ -10,15 +10,9 @@
 
 3. **B — was listening to**. Дві одночасні тривалі дії — Continuous.
 
-4. **A — They were much bigger than human footprints.**. Розмір слідів здивував друзів.
+Вправа 5, можливий тематичний діалог: A: What happened while you were walking? B: We heard a noise. A: What was it? B: It was a cat.
 
-5. **C — To the campsite.**. У тексті: ran back to the campsite.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): We were walking near a house when we heard a noise. While I was looking at the door, Mia saw a shadow. We stopped. Something moved behind a box. It was a small cat. We smiled and went home.
-
-Модель додаткового висловлення: We were walking near a house when we heard a noise. While I was looking at the door, Mia saw a shadow. We stopped. Something moved behind a box. It was a small cat. We smiled and went home.
-
-Вправа 5, зразок: A: While we were walking, we heard a noise. B: Could you explain? A: Two friends were exploring a snowy area when they saw huge footprints. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: We were walking near a house when we heard a noise. While I was looking at the door, Mia saw a shadow. We stopped. Something moved behind a box. It was a small cat. We smiled and went home.
 
 ## Рубрика відкритого продукту
 

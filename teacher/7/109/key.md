@@ -1,79 +1,69 @@
-# Ключі · 7 клас · Урок 109
+# Ключ · 7 клас · 109 · 2027-04-07
 
-Лише для вчителя; не роздавати разом з учнівським аркушем. Переклад/синонімічна коротка відповідь прийнятні для розуміння, якщо факт точний; мовну форму коментувати окремо. Орфографічну помилку, що не змінює факту, не карати вдруге.
+Відповіді лише для вчителя. Короткий синонімічний факт прийнятний; не знімати вдруге бал за форму, яка не змінює зрозумілий факт. Тут є резерви вчителя: вони не є вимогою виконати всі блоки за 45 хв.
 
-## V
+## R · Повний текст, факти й докази
 
-1 — A, 2 — D, 3 — C, 4 — B. По 1 за точну відповідність; /4. Власні словосполучення: прийняти осмислену сполуку з тематичним словом, зразок контекстного вживання — у моделі P нижче; за потреби виправити лексичну сполучуваність; ці 2 приклади не додають прихованих балів.
+Our fictional programme offers a comedy and a cartoon. Another screen shows a science fiction film. A historical film is on later. Viewers can choose a genre without watching frightening content.
 
-## R
+1. **comedy**. Доказ у тексті: «comedy».
+2. **cartoon**. Доказ у тексті: «cartoon».
+3. **science fiction film**. Доказ у тексті: «science fiction film».
 
-1. the small arts centre.
-2. Thursday at 4 p.m.
-3. an animated film about a curious fox.
+## L · Текст для двох читань
 
-По 1 за факт; /3. Можна відповісти коротко; докази — відповідні речення тексту про місце, час і предмет/подію.
+Відділити додаток L в учня до слухання. Прочитати двічі, між читаннями 45 секунд. Не підказувати інтонацією тільки потрібні слова. За відсутності чутності перенести L.
 
-## G
+Dana watched a comedy about two lost robots in the school theatre on Friday at 5 p.m. The plot was quite simple, but the performance was very lively. The audience could read subtitles on a screen. Dana found the first half more interesting than the second half. A friend preferred the ending because it was less predictable. Their review compares the story and the acting. Both opinions are accepted when they include a reason and respectful language.
+
+1. **quite simple**. Доказ у тексті: «quite simple».
+2. **subtitles**. Доказ у тексті: «subtitles».
+3. **it was less predictable**. Доказ у тексті: «it was less predictable».
+
+## V · Відповідності
+
+1 — A, 2 — D, 3 — C, 4 — B. По 1 за відповідність; /4, лише коли V є основним блоком.
+
+## G · Форми
 
 1. than.
 2. as.
 3. less.
 4. as.
 
-По 1 за правильну форму; /4. Пояснення: Порівнюємо ознаки: more/less + довгий прикметник + than; as + прикметник + as; the same as. Для коротких прикметників — -er.
+Порівнюємо ознаки: more/less + довгий прикметник + than; as + прикметник + as; the same as. Для коротких прикметників — -er.
 
-## L · Сценарій читання вчителем
+## T · Перенесення моделі
 
-Закрити/відділити додаток L в учнів. Прочитати двічі чітко, без театральних рухів та звукових ефектів, з паузою 45 секунд. Не наголошувати тільки правильні слова й не підказувати жестами.
+1. Film A is more interesting than Film B.
+2. The first play is as long as the second play.
 
-Dana watched a comedy about two lost robots in the school theatre on Friday at 5 p.m. The plot was quite simple, but the performance was very lively. The audience could read subtitles on a screen. Dana found the first half more interesting than the second half. A friend preferred the ending because it was less predictable. Their review compares the story and the acting. Both opinions are accepted when they include a reason and respectful language.
+Кожна відповідь має зберігати зміст, часову форму та структуру; інше граматично правильне формулювання прийнятне за збереження умови.
 
-**Відповіді:**
+## F · Повна корекція
 
-1. the school theatre.
-2. Friday at 5 p.m.
-3. a comedy about two lost robots.
+This film is more interesting than that one. This play is as long as that film. These tickets cost the same as those tickets.
 
-По 1 за факт; /3. При поганій чутності перенести L; текстове читання позначити R, не L.
+Пояснення: Порівнюємо ознаки: more/less + довгий прикметник + than; as + прикметник + as; the same as. Для коротких прикметників — -er. Для портфоліо 2 пояснення можуть бути українською. Наступний крок має бути конкретною дією, наприклад перевірити auxiliary verb.
 
-## S · Зразок діалогу
+## P / S · Умова та повний зразок
 
-A: Let us meet at the small arts centre.
-B: When shall we meet?
-A: Thursday at 4 p.m.
-B: Could you repeat the place, please?
-A: the small arts centre. I suggest preparing an animated film about a curious fox because it fits our topic.
-B: Thank you. Can we write a short plan first?
+Напиши 4 короткі речення за словником: використай перші 4 слова/вирази по одному разу в осмисленому контексті. Дозволено вигадані персонажі; не вживай ярликів до однокласників.
 
-Це один можливий варіант, не текст для обов’язкового заучування. Додатковий запит Where shall we meet? прийнятний. Оцінити, чи співрозмовник справді отримав відповідь; письмовий сценарій сам собою не доводить говоріння.
+**Зразок:** One fictional programme offers a comedy. Another screen shows a cartoon. A science fiction film is on the third card. A historical film is on the fourth card.
 
-## P · Зразок та критерії
+## Відкриті відповіді: конкретні критерії
 
-I watched an animated film about a curious fox in the small arts centre on Thursday at 4 p.m. The story follows its main characters through a problem. The plot was quite simple, but the acting was very lively. The first half was more interesting than the second half. I liked it because the audience could read subtitles. I would recommend it to a friend who enjoys this kind of story. Our fictional programme offers a comedy and a cartoon. Another screen shows a science fiction film. A historical film is on later. Viewers can choose a genre without watching frightening content.
+- Зміст 0–2:0 немає потрібної дії/теми;1 основна мета зрозуміла, але бракує обов’язкової деталі;2 усі деталі з умови присутні. У читанні/слуханні не додавати непідтверджених фактів.
+- Організація 0–2:0 послідовність не відновлюється;1 зв’язок зрозумілий із підтримкою;2 логічний текст або взаємний обмін репліками.
+- Мовна зрозумілість 0–2:0 зміст не відновлюється;1 помилки не руйнують основний зміст;2 цільові слова/структури переважно точні. У T обов’язкова саме модель, названа в умові.
 
-Факти власної вигаданої події можуть відрізнятися від R, якщо завдання не вимагає перенесення саме фактів R. Для завдання читання з додатковими 2 фактами перевірити їх за R: **the small arts centre; Thursday at 4 p.m.; an animated film about a curious fox**. У проєкті перевірити назву, читабельні 3 факти, чернетку й 2 зміни; у граматичному уроці — дві цільові моделі; у лексичному — 4 слова.
+Для S потрібен реально почутий зразок; письмовий чат підтверджує письмову взаємодію. Вимову оцінювати за зрозумілістю, не за акцентом. Пауза/відсутність камери не є помилкою. У проєкті доказ — чернетка, точний відгук,2 зміни; у портфоліо —3 корекції,2 причини, власна модель й наступний крок. Особисте переживання/емоція не оцінюється.
 
-Формувальна рубрика відкритого продукту (кожен вимір 0–2):
+## Критерії саме цього уроку
 
-- Зміст: 0 — продукт відсутній/поза темою; 1 — мета зрозуміла, але бракує 2 обов’язкових деталей; 2 — є мета, адресат і потрібні тематичні деталі.
-- Організація: 0 — не можна відновити послідовність; 1 — послідовність зрозуміла з підтримкою; 2 — логічний початок, факти й завершення / доречна черговість реплік.
-- Мовна зрозумілість: 0 — зміст не відновлюється; 1 — помилки є, але основний зміст зрозумілий; 2 — цільові моделі переважно точні, ключові слова доречні.
-
-/6 — первинний навчальний показник, не автоматична офіційна оцінка. У S допускається пауза, паперова підготовка й відсутність камери. Для 6-бальної рубрики S: зміст — виконання ролі/запитів; організація — відповідь/уточнення; мовна зрозумілість — зрозумілий усний зразок. Потрібну допомогу зафіксувати, емоції не оцінювати.
-
-## F
-
-**Виправлена версія:** This film is more interesting than that one. This play is as long as that film. These tickets cost the same as those tickets.
-
-**Пояснення:** Порівнюємо ознаки: more/less + довгий прикметник + than; as + прикметник + as; the same as. Для коротких прикметників — -er. Прийняти інші граматично коректні виправлення зі збереженим змістом; пояснення двох змін може бути українською. Для портфоліо доказ — «до», «після», дві причини й наступний перевірюваний крок; твердження «я старався» без прикладу попросити конкретизувати.
-
-## Специфікація цього уроку
-
-Формувально: V /4, R /3, G /4, L /3 — окремі свідчення, не сума в офіційну оцінку. Відкритий продукт: зміст, організація, зрозумілість — по 0–2; див. ключ.
-
-B/D — скорочений місток, не повна перевірка всіх умінь. Не переносити автоматично бал за письмовий чат у результат говоріння; не записувати повне аудіювання, якщо учень читав. За переривання зберегти достовірні блоки, невиконане позначити «перенесено», не нулем за технічну недоступність.
+Формувально: точність факту/форми позначати окремо. Відкритий продукт: зміст, організація та мовна зрозумілість — по 0–2, для зворотного зв’язку. Це первинні показники для педагогічного рішення; офіційне переведення визначає затверджений порядок закладу.
 
 ## ДЗ
 
-Приймається будь-який осмислений чистовий текст за тематичною умовою P, 2 тематичні слова й одне запитання з правильною моделлю. Приклади запитання до R: Where does the story take place? When does the event happen? Відповіді: the small arts centre; Thursday at 4 p.m. Після контрольного уроку перевіряється лише факт навчальної рефлексії; це не новий підсумковий бал.
+До 5 хв: завершений основний продукт або одна перевірена фраза з поясненням правки. Після B/D —2 рядки. Приймати варіанти за критеріями умови; після контролю домашнє переписування не створює нової самостійної оцінки.

@@ -4,15 +4,39 @@
 
 ## Текст учителя для слухання — не друкувати учням
 
-Leo was reading in the library when Mia arrived. It was half past four. Mia wanted a book about planets. The librarian showed her a blue book. They sat near the window. Leo left at five.
+Mia was reading in the museum when Sam arrived. It was ten o’clock. Sam wanted a book about animals. A teacher showed them a green book. They sat near the window. Mia left at three.
 
 Читати двічі чітко, без зайвих підказок; між читаннями пауза близько 30 секунд. На контрольних не показувати текст на екрані. Після переривання початий стимул не оцінювати автоматично: провести еквівалентну перевірку за погодженим графіком.
 
-L1. C — In the library.
+L1. C — In the museum..
 
-L2. B — A book about planets.
+L2. B — A book about animals..
 
-L3. A — At five.
+L3. A — At three..
+
+L4. C — Green..
+
+L5. B — At ten..
+
+L6. A — Near the window..
+
+## Резервний варіант — ключ учителя
+
+Видайте recovery-handout.md тільки після визначення окремого слота. Не відкривайте цей ключ учням.
+
+Прихований текст резервного слухання (двічі): Eva was reading in the school when Alex arrived. It was eleven o’clock. Alex wanted a book about trains. A teacher showed them a red book. They sat near the window. Eva left at four.
+
+Резерв L1: B — In the school.
+
+Резерв L2: A — A book about trains.
+
+Резерв L3: C — At four.
+
+Резерв L4: B — Red.
+
+Резерв L5: A — At eleven.
+
+Резерв L6: C — Near the window.
 
 ## Рубрика відкритого продукту
 

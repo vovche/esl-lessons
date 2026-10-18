@@ -1,89 +1,93 @@
-# Ключі · 7 клас · Урок 032
+# Ключ · 7 клас · 032 · 2026-11-02
 
-Лише для вчителя; не роздавати разом з учнівським аркушем. Переклад/синонімічна коротка відповідь прийнятні для розуміння, якщо факт точний; мовну форму коментувати окремо. Орфографічну помилку, що не змінює факту, не карати вдруге.
+Відповіді лише для вчителя. Короткий синонімічний факт прийнятний; не знімати вдруге бал за форму, яка не змінює зрозумілий факт. Тут є резерви вчителя: вони не є вимогою виконати всі блоки за 45 хв.
 
-## V
+## R · Повний текст, факти й докази
 
-1 — D, 2 — C, 3 — B, 4 — A. По 1 за точну відповідність; /4. Власні словосполучення: прийняти осмислену сполуку з тематичним словом, зразок контекстного вживання — у моделі P нижче; за потреби виправити лексичну сполучуваність; ці 2 приклади не додають прихованих балів.
+Dana belongs to a school club. The club meets in the science lab on Friday at 3 p.m. This week the members are preparing a presentation about birds for the school anniversary. Dana usually collects ideas, but today is making a decoration. One member calls himself a science geek; another enjoys books. The teacher explains that labels must never be used to tease people. Everyone can choose a useful role.
 
-## R
+1. **the school anniversary**. Доказ у тексті: «the school anniversary».
+2. **a decoration**. Доказ у тексті: «a decoration».
+3. **a useful role**. Доказ у тексті: «a useful role».
 
-1. the science lab.
-2. Friday at 3 p.m.
-3. a presentation about birds.
+## L · Текст для двох читань
 
-По 1 за факт; /3. Можна відповісти коротко; докази — відповідні речення тексту про місце, час і предмет/подію.
+Відділити додаток L в учня до слухання. Прочитати двічі, між читаннями 45 секунд. Не підказувати інтонацією тільки потрібні слова. За відсутності чутності перенести L.
 
-## G
+Alex and two friends met in the living room on Sunday at 11 a.m. They made a shared cleaning plan. Yesterday Alex swept the floor while Alex washed up. At ten o’clock Sam was checking the list. The dishwasher was not working, so the friends used a bowl. They shared the tasks fairly and asked before changing a partner’s job. They switched off the vacuum cleaner when the work was finished.
+
+1. **swept the floor**. Доказ у тексті: «swept the floor».
+2. **checking the list**. Доказ у тексті: «checking the list».
+3. **fairly**. Доказ у тексті: «fairly».
+
+## V · Відповідності
+
+1 — D, 2 — C, 3 — B, 4 — A. По 1 за відповідність; /4, лише коли V є основним блоком.
+
+## G · Форми
 
 1. swept.
 2. Did.
 3. wash.
 4. made.
 
-По 1 за правильну форму; /4. Пояснення: Past Simple: завершена дія в минулому. Ствердження V2; запитання did + V1; заперечення did not + V1.
+Past Simple: завершена дія в минулому. Ствердження V2; запитання did + V1; заперечення did not + V1.
 
-## L · Сценарій читання вчителем
+## T · Перенесення моделі
 
-Закрити/відділити додаток L в учнів. Прочитати двічі чітко, без театральних рухів та звукових ефектів, з паузою 45 секунд. Не наголошувати тільки правильні слова й не підказувати жестами.
+1. Did Sam sweep the floor yesterday?
+2. They did not make a chart.
 
-Alex and two friends met in the living room on Sunday at 11 a.m. They made a shared cleaning plan. Yesterday Alex swept the floor while Alex washed up. At ten o’clock Sam was checking the list. The dishwasher was not working, so the friends used a bowl. They shared the tasks fairly and asked before changing a partner’s job. They switched off the vacuum cleaner when the work was finished.
+Кожна відповідь має зберігати зміст, часову форму та структуру; інше граматично правильне формулювання прийнятне за збереження умови.
 
-**Відповіді:**
+## F · Повна корекція
 
-1. the living room.
-2. Sunday at 11 a.m.
-3. a shared cleaning plan.
+Sam swept the floor yesterday. Did Sam wash up? They did not make a list.
 
-По 1 за факт; /3. При поганій чутності перенести L; текстове читання позначити R, не L.
+Пояснення: Past Simple: завершена дія в минулому. Ствердження V2; запитання did + V1; заперечення did not + V1. Для портфоліо 2 пояснення можуть бути українською. Наступний крок має бути конкретною дією, наприклад перевірити auxiliary verb.
 
-## S · Зразок діалогу
+## P / S · Умова та повний зразок
 
-A: Let us meet at the science lab.
-B: When shall we meet?
-A: Friday at 3 p.m.
-B: Could you repeat the place, please?
-A: the science lab. I suggest preparing a presentation about birds because it fits our topic.
-B: Thank you. Can we write a short plan first?
+Напиши 4 речення про вигаданий розподіл справ:2 виконані дії, процес у певну мить, ввічлива пропозиція.
 
-Це один можливий варіант, не текст для обов’язкового заучування. Додатковий запит Where shall we meet? прийнятний. Оцінити, чи співрозмовник справді отримав відповідь; письмовий сценарій сам собою не доводить говоріння.
+**Зразок:** Sam swept the floor yesterday. Alex washed up. At ten Robin was checking the list. Could we share the jobs again?
 
-## P · Зразок та критерії
+**Умова S:** За темою поточного юніту створіть 6 реплік. A називає вигадану ситуацію/пропозицію; B ставить змістове запитання й просить уточнення; A відповідає; поміняйтеся ролями.
 
-Our friends met in the community room on Friday at 5 p.m. They made a simple chore chart. Yesterday Robin swept the floor and Alex washed up. At ten Sam was checking the list. The friends shared the work fairly. Could we write a similar plan and take turns?
+**Зразок S:** A: Shall we prepare the room? B: Yes. I can tidy the tables. A: I can make decorations. B: Could you repeat your job? A: I can make decorations. B: Good, let us write the plan.
 
-Факти власної вигаданої події можуть відрізнятися від R, якщо завдання не вимагає перенесення саме фактів R. Для завдання читання з додатковими 2 фактами перевірити їх за R: **the science lab; Friday at 3 p.m.; a presentation about birds**. У проєкті перевірити назву, читабельні 3 факти, чернетку й 2 зміни; у граматичному уроці — дві цільові моделі; у лексичному — 4 слова.
+## Відкриті відповіді: конкретні критерії
 
-Формувальна рубрика відкритого продукту (кожен вимір 0–2):
+- Зміст 0–2:0 немає потрібної дії/теми;1 основна мета зрозуміла, але бракує обов’язкової деталі;2 усі деталі з умови присутні. У читанні/слуханні не додавати непідтверджених фактів.
+- Організація 0–2:0 послідовність не відновлюється;1 зв’язок зрозумілий із підтримкою;2 логічний текст або взаємний обмін репліками.
+- Мовна зрозумілість 0–2:0 зміст не відновлюється;1 помилки не руйнують основний зміст;2 цільові слова/структури переважно точні. У T обов’язкова саме модель, названа в умові.
 
-- Зміст: 0 — продукт відсутній/поза темою; 1 — мета зрозуміла, але бракує 2 обов’язкових деталей; 2 — є мета, адресат і потрібні тематичні деталі.
-- Організація: 0 — не можна відновити послідовність; 1 — послідовність зрозуміла з підтримкою; 2 — логічний початок, факти й завершення / доречна черговість реплік.
-- Мовна зрозумілість: 0 — зміст не відновлюється; 1 — помилки є, але основний зміст зрозумілий; 2 — цільові моделі переважно точні, ключові слова доречні.
+Для S потрібен реально почутий зразок; письмовий чат підтверджує письмову взаємодію. Вимову оцінювати за зрозумілістю, не за акцентом. Пауза/відсутність камери не є помилкою. У проєкті доказ — чернетка, точний відгук,2 зміни; у портфоліо —3 корекції,2 причини, власна модель й наступний крок. Особисте переживання/емоція не оцінюється.
 
-/6 — первинний навчальний показник, не автоматична офіційна оцінка. У S допускається пауза, паперова підготовка й відсутність камери. Для 6-бальної рубрики S: зміст — виконання ролі/запитів; організація — відповідь/уточнення; мовна зрозумілість — зрозумілий усний зразок. Потрібну допомогу зафіксувати, емоції не оцінювати.
+## Критерії саме цього уроку
 
-## F
+L /3, R /3: по 1 за кожний правильний факт; S /3: по 1 за запит, змістовну відповідь та уточнення; P /3: по 1 за відповідність темі, потрібні деталі та мовну зрозумілість. Первинні 12 балів з 4 окремими профілями. Це первинні показники для педагогічного рішення; офіційне переведення визначає затверджений порядок закладу.
 
-**Виправлена версія:** Sam swept the floor yesterday. Did Sam wash up? They did not make a list.
+## Резерв після переривання
 
-**Пояснення:** Past Simple: завершена дія в минулому. Ствердження V2; запитання did + V1; заперечення did not + V1. Прийняти інші граматично коректні виправлення зі збереженим змістом; пояснення двох змін може бути українською. Для портфоліо доказ — «до», «після», дві причини й наступний перевірюваний крок; твердження «я старався» без прикладу попросити конкретизувати.
+Окремий друк: [recovery-handout.md](recovery-handout.md). Проводити тільки відкладені блоки; завершене не перевіряти вдруге. Критерії ті самі. Нові персонажі/деталі не повинні змінювати складність. Якщо учень уже прочитав L, дати резервне L.
 
-## Специфікація цього уроку
+**Резерв R:**
 
-L /3 і R /3: по 1 за кожний правильний факт. S /3: по 1 за запит, змістовну відповідь, ввічливе уточнення. P /3: по 1 за відповідність темі, 3 факти, зрозумілі речення. Разом /12 первинних балів; зберігати 4 окремі профілі.
+1. **the school anniversary**. Доказ у тексті: «the school anniversary».
+2. **a poster**. Доказ у тексті: «a poster».
+3. **a useful role**. Доказ у тексті: «a useful role».
 
-B/D — скорочений місток, не повна перевірка всіх умінь. Не переносити автоматично бал за письмовий чат у результат говоріння; не записувати повне аудіювання, якщо учень читав. За переривання зберегти достовірні блоки, невиконане позначити «перенесено», не нулем за технічну недоступність.
+**Резерв L — прочитати двічі:**
+
+Alex and two friends met in the living room on Sunday at 11 a.m. They made a shared cleaning plan. Yesterday Alex dried the dishes while Alex washed up. At ten o’clock Sam was reading the plan. The dishwasher was not working, so the friends used a saucepan. They shared the tasks by agreement and asked before changing a partner’s job. They switched off the vacuum cleaner when the work was finished.
+
+1. **dried the dishes**. Доказ у тексті: «dried the dishes».
+2. **reading the plan**. Доказ у тексті: «reading the plan».
+3. **by agreement**. Доказ у тексті: «by agreement».
+
+Резерв S/P: інші вигадані деталі при збереженому форматі; зразок вище — один можливий, критерії не змінюються.
 
 ## ДЗ
 
-Приймається будь-який осмислений чистовий текст за тематичною умовою P, 2 тематичні слова й одне запитання з правильною моделлю. Приклади запитання до R: Where does the story take place? When does the event happen? Відповіді: the science lab; Friday at 3 p.m. Після контрольного уроку перевіряється лише факт навчальної рефлексії; це не новий підсумковий бал.
-
-## Резерв після переривання — ключ до recovery-handout.md
-
-L: 1. the community room; 2. Friday at 5 p.m; 3. a simple chore chart.
-
-R: 1. the art room; 2. Monday at 4 p.m; 3. a short school play.
-
-Текст L для двох читань: Robin and two friends met in the community room on Friday at 5 p.m. They made a simple chore chart. Yesterday Robin swept the floor while Alex washed up. At ten o’clock Sam was checking the list. The dishwasher was not working, so the friends used a bowl. They shared the tasks fairly and asked before changing a partner’s job. They switched off the vacuum cleaner when the work was finished.
-
-S/P: критерії першого варіанта зберігаються; нові місце, час і деталі є вигаданими, довільними та внутрішньо узгодженими. Для діалогу зсув часу на годину перевіряти відносно попереднього учнівського продукту, а не чужої історії. Якщо зразка попереднього S немає, учень обирає нові деталі без порівняння. Зараховувати тільки відкладені блоки; не підсумовувати два варіанти подвійно.
+До 5 хв: завершений основний продукт або одна перевірена фраза з поясненням правки. Після B/D —2 рядки. Приймати варіанти за критеріями умови; після контролю домашнє переписування не створює нової самостійної оцінки.

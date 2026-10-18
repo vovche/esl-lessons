@@ -1,79 +1,71 @@
-# Ключі · 7 клас · Урок 136
+# Ключ · 7 клас · 136 · 2027-05-25
 
-Лише для вчителя; не роздавати разом з учнівським аркушем. Переклад/синонімічна коротка відповідь прийнятні для розуміння, якщо факт точний; мовну форму коментувати окремо. Орфографічну помилку, що не змінює факту, не карати вдруге.
+Відповіді лише для вчителя. Короткий синонімічний факт прийнятний; не знімати вдруге бал за форму, яка не змінює зрозумілий факт. Тут є резерви вчителя: вони не є вимогою виконати всі блоки за 45 хв.
 
-## V
+## R · Повний текст, факти й докази
 
-1 — D, 2 — C, 3 — B, 4 — A. По 1 за точну відповідність; /4. Власні словосполучення: прийняти осмислену сполуку з тематичним словом, зразок контекстного вживання — у моделі P нижче; за потреби виправити лексичну сполучуваність; ці 2 приклади не додають прихованих балів.
+At a fictional travel fair, one card describes a castle route with a quiet stop. A sports card says the equipment was checked by the coach. A cinema card recommends a comedy because its dialogue is funny. A health-room card asks a responsible adult for help. Visitors choose a card and explain which phrase supports their answer.
 
-## R
+1. **a quiet stop**. Доказ у тексті: «a quiet stop».
+2. **the coach**. Доказ у тексті: «the coach».
+3. **its dialogue is funny**. Доказ у тексті: «its dialogue is funny».
 
-1. the central library.
-2. Friday at 2 p.m.
-3. a landmark and an art gallery.
+4. The health-room card asks a responsible adult for help.
 
-По 1 за факт; /3. Можна відповісти коротко; докази — відповідні речення тексту про місце, час і предмет/подію.
+## L · Текст для двох читань
 
-## G
+Відділити додаток L в учня до слухання. Прочитати двічі, між читаннями 45 секунд. Не підказувати інтонацією тільки потрібні слова. За відсутності чутності перенести L.
+
+Mia is planning an imaginary trip. The group meets at the old castle gate on Saturday at 10 a.m. The itinerary includes a castle and a small museum. Both attractions are shown on a paper map. Each visitor receives a leaflet, but no online ticket is needed for this classroom story. The tour guide suggests either a short route or a longer route. Mia chooses the short route because it includes a quiet stop. The group checks the meeting point before leaving.
+
+1. **a leaflet**. Доказ у тексті: «a leaflet».
+2. **the short route**. Доказ у тексті: «the short route».
+3. **it includes a quiet stop**. Доказ у тексті: «it includes a quiet stop».
+
+## V · Відповідності
+
+1 — D, 2 — C, 3 — B, 4 — A. По 1 за відповідність; /4, лише коли V є основним блоком.
+
+## G · Форми
 
 1. was.
 2. were.
 3. checked.
 4. was.
 
-По 1 за правильну форму; /4. Пояснення: Past Simple Passive: was/were + V3 для минулої дії над об’єктом. Wh-запитання: Where/When + was/were + підмет + V3?
+Past Simple Passive: was/were + V3 для минулої дії над об’єктом. Wh-запитання: Where/When + was/were + підмет + V3?
 
-## L · Сценарій читання вчителем
+## T · Перенесення моделі
 
-Закрити/відділити додаток L в учнів. Прочитати двічі чітко, без театральних рухів та звукових ефектів, з паузою 45 секунд. Не наголошувати тільки правильні слова й не підказувати жестами.
+1. The equipment was checked by the coach.
+2. Where was the match played?
 
-Mia is planning an imaginary trip. The group meets at the old castle gate on Saturday at 10 a.m. The itinerary includes a castle and a small museum. Both attractions are shown on a paper map. Each visitor receives a leaflet, but no online ticket is needed for this classroom story. The tour guide suggests either a short route or a longer route. Mia chooses the short route because it includes a quiet stop. The group checks the meeting point before leaving.
+Кожна відповідь має зберігати зміст, часову форму та структуру; інше граматично правильне формулювання прийнятне за збереження умови.
 
-**Відповіді:**
+## F · Повна корекція
 
-1. the old castle gate.
-2. Saturday at 10 a.m.
-3. a castle and a small museum.
+The match was played yesterday. Prizes were given. Where was the match played?
 
-По 1 за факт; /3. При поганій чутності перенести L; текстове читання позначити R, не L.
+Пояснення: Past Simple Passive: was/were + V3 для минулої дії над об’єктом. Wh-запитання: Where/When + was/were + підмет + V3? Для портфоліо 2 пояснення можуть бути українською. Наступний крок має бути конкретною дією, наприклад перевірити auxiliary verb.
 
-## S · Зразок діалогу
+## P / S · Умова та повний зразок
 
-A: Let us meet at the central library.
-B: When shall we meet?
-A: Friday at 2 p.m.
-B: Could you repeat the place, please?
-A: the central library. I suggest preparing a landmark and an art gallery because it fits our topic.
-B: Thank you. Can we write a short plan first?
+За 4 картками: дай R1–R3; додатково знайди фразу звернення по допомогу; виконай G1–G2 Past Simple Passive.2 речення пояснення вибору картки — резерв.
 
-Це один можливий варіант, не текст для обов’язкового заучування. Додатковий запит Where shall we meet? прийнятний. Оцінити, чи співрозмовник справді отримав відповідь; письмовий сценарій сам собою не доводить говоріння.
+**Зразок:** The equipment was checked by the coach. The comedy is recommended because its dialogue is funny. The health-room card asks a responsible adult for help.
 
-## P · Зразок та критерії
+## Відкриті відповіді: конкретні критерії
 
-Meet at the central library on Friday at 2 p.m. Our itinerary includes a landmark and an art gallery. Both attractions are on our paper map. Choose either a short route or a longer route. I suggest the short route because it includes a quiet stop. Finish at the same meeting point.
+- Зміст 0–2:0 немає потрібної дії/теми;1 основна мета зрозуміла, але бракує обов’язкової деталі;2 усі деталі з умови присутні. У читанні/слуханні не додавати непідтверджених фактів.
+- Організація 0–2:0 послідовність не відновлюється;1 зв’язок зрозумілий із підтримкою;2 логічний текст або взаємний обмін репліками.
+- Мовна зрозумілість 0–2:0 зміст не відновлюється;1 помилки не руйнують основний зміст;2 цільові слова/структури переважно точні. У T обов’язкова саме модель, названа в умові.
 
-Факти власної вигаданої події можуть відрізнятися від R, якщо завдання не вимагає перенесення саме фактів R. Для завдання читання з додатковими 2 фактами перевірити їх за R: **the central library; Friday at 2 p.m.; a landmark and an art gallery**. У проєкті перевірити назву, читабельні 3 факти, чернетку й 2 зміни; у граматичному уроці — дві цільові моделі; у лексичному — 4 слова.
+Для S потрібен реально почутий зразок; письмовий чат підтверджує письмову взаємодію. Вимову оцінювати за зрозумілістю, не за акцентом. Пауза/відсутність камери не є помилкою. У проєкті доказ — чернетка, точний відгук,2 зміни; у портфоліо —3 корекції,2 причини, власна модель й наступний крок. Особисте переживання/емоція не оцінюється.
 
-Формувальна рубрика відкритого продукту (кожен вимір 0–2):
+## Критерії саме цього уроку
 
-- Зміст: 0 — продукт відсутній/поза темою; 1 — мета зрозуміла, але бракує 2 обов’язкових деталей; 2 — є мета, адресат і потрібні тематичні деталі.
-- Організація: 0 — не можна відновити послідовність; 1 — послідовність зрозуміла з підтримкою; 2 — логічний початок, факти й завершення / доречна черговість реплік.
-- Мовна зрозумілість: 0 — зміст не відновлюється; 1 — помилки є, але основний зміст зрозумілий; 2 — цільові моделі переважно точні, ключові слова доречні.
-
-/6 — первинний навчальний показник, не автоматична офіційна оцінка. У S допускається пауза, паперова підготовка й відсутність камери. Для 6-бальної рубрики S: зміст — виконання ролі/запитів; організація — відповідь/уточнення; мовна зрозумілість — зрозумілий усний зразок. Потрібну допомогу зафіксувати, емоції не оцінювати.
-
-## F
-
-**Виправлена версія:** The match was played yesterday. Prizes were given. Where was the match played?
-
-**Пояснення:** Past Simple Passive: was/were + V3 для минулої дії над об’єктом. Wh-запитання: Where/When + was/were + підмет + V3? Прийняти інші граматично коректні виправлення зі збереженим змістом; пояснення двох змін може бути українською. Для портфоліо доказ — «до», «після», дві причини й наступний перевірюваний крок; твердження «я старався» без прикладу попросити конкретизувати.
-
-## Специфікація цього уроку
-
-Формувально: V /4, R /3, G /4, L /3 — окремі свідчення, не сума в офіційну оцінку. Відкритий продукт: зміст, організація, зрозумілість — по 0–2; див. ключ.
-
-B/D — скорочений місток, не повна перевірка всіх умінь. Не переносити автоматично бал за письмовий чат у результат говоріння; не записувати повне аудіювання, якщо учень читав. За переривання зберегти достовірні блоки, невиконане позначити «перенесено», не нулем за технічну недоступність.
+Формувально: точність факту/форми позначати окремо. Відкритий продукт: зміст, організація та мовна зрозумілість — по 0–2, для зворотного зв’язку. Це первинні показники для педагогічного рішення; офіційне переведення визначає затверджений порядок закладу.
 
 ## ДЗ
 
-Приймається будь-який осмислений чистовий текст за тематичною умовою P, 2 тематичні слова й одне запитання з правильною моделлю. Приклади запитання до R: Where does the story take place? When does the event happen? Відповіді: the central library; Friday at 2 p.m. Після контрольного уроку перевіряється лише факт навчальної рефлексії; це не новий підсумковий бал.
+До 5 хв: завершений основний продукт або одна перевірена фраза з поясненням правки. Після B/D —2 рядки. Приймати варіанти за критеріями умови; після контролю домашнє переписування не створює нової самостійної оцінки.

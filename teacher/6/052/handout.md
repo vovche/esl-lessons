@@ -6,19 +6,15 @@
 
 ## Блок 1: Round-up 4
 
-### 1. Словник і опора
+### 1. Словник
 
-florist — квітникар, квіткова крамниця; chemist — аптекар, аптека; crossing — перехід; footbridge — пішохідний міст; peaceful — спокійний; noisy — галасливий; galaxy — галактика; universe — Всесвіт
-
-Повтори ключові правила з п’яти уроків. Спочатку виконай завдання без підказок. Потім прочитай пояснення до помилок і повернися до відповідного уроку. Для кожного правила склади власний приклад.
-
-Мовна модель: May I borrow this book? Could you help me? I might visit the market later. Go straight on and turn right at the traffic lights. The bank is on your left, opposite the park. The country is quieter than the city. The city is more exciting. This house is as comfortable as that one. This is the largest planet in the group. That planet is hotter than this one. It has the highest temperature. There is a castle near the river. There are two galleries. The park is the most peaceful place in my town.
+florist — квітникар, квіткова крамниця; crossing — перехід; peaceful — спокійний; galaxy — галактика; castle — замок
 
 ### 2. Прочитай
 
-A boy wants to borrow a book from the library, but he has left his card at home. Two friends are playing a game. Some people enjoy a busy city with shops and restaurants. Our solar system contains the sun and eight planets. I live in a city with a river and several bridges.
+Mia asked, “May I borrow a book?” Then she walked through the park. The library is opposite the school. The park is quieter than the street. The library is the largest building in the square. Mia likes this place because she can read there. It has two reading rooms.
 
-### 3. Обери відповідь. Запиши літеру та підкресли доказ / форму в тексті.
+### 3. Обери відповідь. Для мовної форми поясни правило; для факту підкресли його в тексті.
 
 1. ___ I borrow this book, please?
 
@@ -26,33 +22,37 @@ A) Am / B) May / C) Do
 
 Відповідь: __________ Доказ / пояснення: __________________________
 
-2. Why cannot the boy borrow the book himself?
+2. To move inside a building, go ___.
 
-A) He has no library card with him. / B) The library is closed. / C) He cannot read.
-
-Відповідь: __________ Доказ / пояснення: __________________________
-
-3. To move inside a building, go ___.
-
-A) behind it / B) opposite it / C) into it
+A) into it / B) behind it / C) opposite it
 
 Відповідь: __________ Доказ / пояснення: __________________________
 
-4. Where do the friends stop?
+3. The country is ___ than the city.
 
-A) Under a bridge. / B) In front of a supermarket. / C) Inside the bank.
-
-Відповідь: __________ Доказ / пояснення: __________________________
-
-5. The country is ___ than the city.
-
-A) quieter / B) quiet / C) quietest
+A) quiet / B) quietest / C) quieter
 
 Відповідь: __________ Доказ / пояснення: __________________________
 
-### 4. Мій короткий продукт
+4. Choose the superlative of large.
 
-Використай тему «Round-up 4». Напиши 4 пов’язані речення (або 4 репліки діалогу): два за змістом тексту й два про вигаданого героя / власний варіант. Ужий щонайменше два слова зі словника та одну структуру з опори. Особисті дані не потрібні.
+A) more large / B) the largest / C) the larger
+
+Відповідь: __________ Доказ / пояснення: __________________________
+
+5. There ___ two galleries in my town.
+
+A) are / B) is / C) was
+
+Відповідь: __________ Доказ / пояснення: __________________________
+
+Після власної спроби: Повтори п’ять мовних фокусів у вправах 3 №1–5. Спочатку дай власну відповідь; опора відкривається після спроби. Після перевірки обери одну форму для власного прикладу. Це формувальне повторення, не контроль.
+
+Опора після спроби: May I borrow this book? Could you help me? I might visit the market later. Go straight on and turn right at the traffic lights. The country is quieter than the city. This is the largest planet in the group. There is a castle near the river.
+
+### 4. Мій тематичний продукт
+
+За текстом «Round-up 4» запиши два факти (можна короткими реченнями). Окремо під заголовком «Мій вигаданий варіант» напиши ще два тематичні речення. Використай структуру з опори. Це 4 речення разом; не потрібно розкривати особисті дані.
 
 Початок на вибір: I live in… There is… There are… My favourite place is…
 
@@ -68,11 +68,11 @@ ________________________________________________________________________
 
 ________________________________________________________________________
 
-Перевірка: □ зміст зрозумілий □ два слова □ структура □ перевірив(ла) одне місце.
+Перевірка: □ виконав зміст завдання □ зрозумілі речення □ перевірив(ла) одну форму.
 
-### 5. Взаємодія за бажанням у класі / онлайн
+### 5. Мініситуація на вибір (якщо лишився час)
 
-Учень A читає одне своє речення про «Round-up 4». Учень B питає “Could you explain?” або “What about you?” A додає ще один факт. Зміна ролей. Можна записати репліки замість говоріння; це письмова взаємодія, не доказ усної.
+Вигадана ситуація «Round-up 4». A починає: “May I borrow this book?” B відповідає за темою; A ставить друге запитання / репліку, B реагує. Поміняйте одну деталь і ролі. Можна грати соло й записати обидві ролі. Мовчазна / чат-версія дає письмовий доказ; усний фіксують тільки за реальним говорінням.
 
 A: __________________________ B: __________________________
 
@@ -82,4 +82,4 @@ A: __________________________ B: __________________________
 
 00–02: відкрий блок 1, словник і модель. 02–06: прочитай текст, підкресли 2 факти. 06–10: виконай вправу 3 №1–2. 10–13: напиши 1–2 речення вправи 4. 13–15: постав ? біля труднощів і збережи аркуш. За відсутності ресурсу зупинись раніше; надсилати роботу під час відключення не потрібно. Принеси її за наступної можливості.
 
-ДЗ до 10 хв: допиши / відредагуй до 4 речень вправи 4. Після короткого маршруту — лише два початі пункти й 1–2 речення; без подвійного навантаження.
+ДЗ до 10 хв: відредагуй одне речення / деталь уже початого основного продукту; нового повного твору не потрібно. Після короткого маршруту — лише два початі пункти й 1–2 речення; без подвійного навантаження.

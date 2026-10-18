@@ -10,15 +10,9 @@
 
 3. **C — can they**. Після заперечення — стверджувальний хвостик.
 
-4. **B — The friend who prefers aerobics.**. У тексті це друг, який обирає aerobics.
+Вправа 5, можливий тематичний діалог: A: You like tennis, don’t you? B: Yes, I do. A: Mia can swim, can’t she? B: Yes, she can.
 
-5. **A — Choosing an enjoyable activity.**. В останньому реченні сформульована їхня спільна думка.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): You like tennis, don’t you? Yes, I do. Mia enjoys skating, doesn’t she? Yes, she does. Leo can swim, can’t he? Yes, he can. You aren’t a football fan, are you? No, I’m not. They play hockey, don’t they? Yes, they do.
-
-Модель додаткового висловлення: You like tennis, don’t you? Yes, I do. Mia enjoys skating, doesn’t she? Yes, she does. Leo can swim, can’t he? Yes, he can. You aren’t a football fan, are you? No, I’m not. They play hockey, don’t they? Yes, they do.
-
-Вправа 5, зразок: A: You like tennis, do you not? She is the instructor, is she not? They cannot swim, can they?. B: Could you explain? A: Two friends visit a gym. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: You like tennis, don’t you? Yes, I do. Mia enjoys skating, doesn’t she? Yes, she does. Leo can swim, can’t he? Yes, he can. You aren’t a football fan, are you? No, I’m not. They play hockey, don’t they? Yes, they do.
 
 ## Рубрика відкритого продукту
 

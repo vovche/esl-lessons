@@ -6,19 +6,17 @@
 
 1. **C — went**. Минула форма go — went.
 
-2. **B — The camel was tall.**. Причина прямо названа в тексті.
+2. **B — carefully**. Дію описує прислівник carefully.
 
-3. **A — carefully**. Дію описує прислівник carefully.
+3. **A — us**. Після for потрібна об’єктна форма us.
 
-4. **C — The traffic was slow.**. У тексті згадано повільний дорожній рух.
+4. **C — used to**. Минула звичка: used to + travel.
 
-5. **B — us**. Після for потрібна об’єктна форма us.
+5. **B — because**. Because вводить причину.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): A girl returned from a holiday in Egypt. A visitor wanted to find a restaurant near a river. We went on a cruise. I took photos. Did you buy souvenirs? I did not ride a horse. He could not find the river. She drives carefully. We travelled by ferry and walked on foot. We booked a flight. The tickets are for us. Give them to me. Did you pack your passport? People used to travel on slow ships. Did they use to spend months at sea? Trains did not use to be so fast. We visited a museum and watched a film. We were tired, so we went home. I liked the trip because it was exciting.
+Вправа 5, можливий тематичний діалог: A: Where did you go last summer? B: I went to a lake. A: Did you take photos? B: Yes, I did.
 
-Модель додаткового висловлення: We went on a cruise. I took photos. Did you buy souvenirs? I did not ride a horse. He could not find the river. She drives carefully. We travelled by ferry and walked on foot. We booked a flight. The tickets are for us. Give them to me. Did you pack your passport? People used to travel on slow ships. Did they use to spend months at sea? Trains did not use to be so fast. We visited a museum and watched a film. We were tired, so we went home. I liked the trip because it was exciting.
-
-Вправа 5, зразок: A: We went on a cruise. B: Could you explain? A: A girl returned from a holiday in Egypt. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: Last Saturday Mia went to a museum by bus. The driver drove carefully. Мій вигаданий варіант: We went on a cruise. Leo could not find the river.
 
 ## Рубрика відкритого продукту
 

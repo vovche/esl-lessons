@@ -10,19 +10,11 @@
 
 3. **C — He is a helpful boy.**. Прикметник helpful стоїть перед boy.
 
-4. **B — The friend is clever and helpful.**. Причина — риси характеру clever і helpful.
+Вправа 5, можливий тематичний діалог: A: What is your friend like? B: She is helpful. A: What do you do together? B: We play tennis.
 
-5. **A — Play ice hockey.**. В останньому реченні названо ice hockey.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): I am tall and I have got dark hair. I am quiet.
+Вправа 4, можливий варіант: I am tall and I have got dark hair. I am quiet.
 
 My imaginary friend Mia has got short hair. She is helpful. We play tennis together.
-
-Модель додаткового висловлення: I am tall and I have got dark hair. I am quiet.
-
-My imaginary friend Mia has got short hair. She is helpful. We play tennis together.
-
-Вправа 5, зразок: A: My friend has got curly hair. B: Could you explain? A: I am tall and have got curly dark hair. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
 
 ## Рубрика відкритого продукту
 

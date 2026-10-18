@@ -6,19 +6,19 @@
 
 ## Блок 1: Emotions
 
-### 1. Словник і опора
+### 1. Словник
 
 surprised — здивований; shocked — шокований; calm — спокійний; wolf — вовк; brave — сміливий; alone — сам, на самоті
 
-Someone/somebody — хтось; something — щось; somewhere — десь. Anyone/anything/anywhere часто в запитаннях і запереченнях. Nobody/nothing/nowhere уже містять заперечення. Everyone/everything/everywhere — усі/усе/скрізь. З everyone і nobody використовуємо однину дієслова.
+Опора (можна відкрити): Someone/somebody — хтось; something — щось; somewhere — десь. Anyone/anything/anywhere часто в запитаннях і запереченнях. Nobody/nothing/nowhere уже містять заперечення. Everyone/everything/everywhere — усі/усе/скрізь. З everyone і nobody використовуємо однину дієслова.
 
-Мовна модель: Everyone is afraid. Nobody knows the answer. Is there anything to eat? I can hear something.
+Мовна модель: Someone is at the gate. Nobody is alone now. Everyone feels relieved. There is something to eat.
 
 ### 2. Прочитай
 
-Two men were travelling through a cold forest with their dogs. Wolves were following them. One wolf looked different because it was half dog. A dog ran towards it, and other wolves appeared. One man tried to chase them, but he did not return. The other man felt alone and afraid.
+This is an original classroom story inspired by the theme of White Fang, not a quotation. A traveller and a dog are waiting at a forest camp. Their friend has gone to get food. The traveller feels worried because nobody is at the gate. Then someone calls his name. The friend returns with something to eat. Everyone feels relieved.
 
-### 3. Обери відповідь. Запиши літеру та підкресли доказ / форму в тексті.
+### 3. Обери відповідь. Для мовної форми поясни правило; для факту підкресли його в тексті.
 
 1. ___ knows the answer. We need help.
 
@@ -38,21 +38,9 @@ A) is / B) are / C) were
 
 Відповідь: __________ Доказ / пояснення: __________________________
 
-4. Why did one wolf look different?
+### 4. Мій тематичний продукт
 
-A) It was wearing a coat. / B) It had no legs. / C) It was half dog.
-
-Відповідь: __________ Доказ / пояснення: __________________________
-
-5. How did the man feel at the end?
-
-A) Bored but safe. / B) Alone and afraid. / C) Excited and happy.
-
-Відповідь: __________ Доказ / пояснення: __________________________
-
-### 4. Мій короткий продукт
-
-Опиши почуття героя в трьох моментах історії. Використай someone, something або nobody. Можна обрати вигаданих персонажів та обставини; особисті дані не потрібні.
+Опиши почуття героя в трьох моментах історії. Використай someone, something або nobody. Можна обрати вигаданих персонажів та обставини.
 
 Початок на вибір: At first the character felt… Then… In the end…
 
@@ -68,11 +56,19 @@ ________________________________________________________________________
 
 ________________________________________________________________________
 
-Перевірка: □ зміст зрозумілий □ два слова □ структура □ перевірив(ла) одне місце.
+________________________________________________________________________
 
-### 5. Взаємодія за бажанням у класі / онлайн
+________________________________________________________________________
 
-Учень A читає одне своє речення про «Emotions». Учень B питає “Could you explain?” або “What about you?” A додає ще один факт. Зміна ролей. Можна записати репліки замість говоріння; це письмова взаємодія, не доказ усної.
+________________________________________________________________________
+
+________________________________________________________________________
+
+Перевірка: □ виконав зміст завдання □ зрозумілі речення □ перевірив(ла) одну форму.
+
+### 5. Мініситуація на вибір (якщо лишився час)
+
+Вигадана ситуація «Emotions». A починає: “Is there anyone at the gate?” B відповідає за темою; A ставить друге запитання / репліку, B реагує. Поміняйте одну деталь і ролі. Можна грати соло й записати обидві ролі. Мовчазна / чат-версія дає письмовий доказ; усний фіксують тільки за реальним говорінням.
 
 A: __________________________ B: __________________________
 
@@ -82,4 +78,4 @@ A: __________________________ B: __________________________
 
 00–02: відкрий блок 1, словник і модель. 02–06: прочитай текст, підкресли 2 факти. 06–10: виконай вправу 3 №1–2. 10–13: напиши 1–2 речення вправи 4. 13–15: постав ? біля труднощів і збережи аркуш. За відсутності ресурсу зупинись раніше; надсилати роботу під час відключення не потрібно. Принеси її за наступної можливості.
 
-ДЗ до 10 хв: допиши / відредагуй до 4 речень вправи 4. Після короткого маршруту — лише два початі пункти й 1–2 речення; без подвійного навантаження.
+ДЗ до 10 хв: відредагуй одне речення / деталь уже початого основного продукту; нового повного твору не потрібно. Після короткого маршруту — лише два початі пункти й 1–2 речення; без подвійного навантаження.

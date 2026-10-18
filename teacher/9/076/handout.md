@@ -1,128 +1,86 @@
-# Роздатка · 9 клас · урок 076 · 2027-02-18
+# Роздатка ·9 клас · урок 076 · 2027-02-18
 
-**Тема:** Science Meets Technology. Наука і технічний прогрес. Відомі вчені і винахідники/винахідниці.
+**Тема календарного плану:** Science Meets Technology. Наука і технічний прогрес. Відомі вчені і винахідники/винахідниці.
 
-Умовне ім’я/код учня: __________________ Дата фактичної роботи: __________
+Умовне ім’я/код: __________________ Фактична дата: _______________
 
-**Можна:** виконувати на папері, зробити паузу, працювати з вигаданим героєм. Особисті історії й камера не потрібні. Мова завдань не оцінює емоції. Під час переміщення до укриття не виконуй завдань. Читай і пиши лише коли є безпечні умови та достатнє світло.
+Особисті дані й камера не потрібні. Під час переміщення завдання зупиняються. У темряві не читай і не пиши; повернись, коли є безпечні умови. Можна зробити паузу; термін здавання узгоджується за доступністю.
 
-**Швидкий маршрут без мережі (10 хв):** 2 хв — модель і слова; 4 хв — перша секція, вправа 1; 4 хв — два власні речення за моделлю. За ресурсом ще до 5 хв на одну відповідь вправи 2 й питання до вчителя. Решту виконаєш після домовленості.
+## Мінімум B/D: окрема коротка картка
 
-## Секція 1: Наука і технології: Читання
+**Опора:** Marie Curie shared the Nobel Prize in Physics in 1903. She received the Nobel Prize in Chemistry in 1911.
 
-**Слова:** invention — винахід; discovery — відкриття; device — пристрій; appliance — побутовий прилад; scientist — науковець; prototype — прототип; charge — заряджати; switch off — вимикати
+Copy one accurate short fact from this source and add one clearly labelled question. This is reading, not a listening test.
 
-**Опора:** Прочитай для загального змісту, потім знайди докази для кожної відповіді.
-**Модель:** The device that I use saves time. My tablet, which is on the table, needs charging.
+Не потрібно виконувати весь основний пакет.
 
-### 1. Read and find evidence
+My example / field / row: __________________________________________
 
-Emma and Dan compare inventions that changed daily life. The telephone made communication over long distances easier. Household appliances saved time on chores, while computers opened new ways to work and learn. They also discuss disadvantages: devices need energy and can distract users. They decide to explain both benefits and limitations in their presentation.
+__________________________________________________________________
 
-1. За адаптованим текстом: What did the telephone make easier?
+Одне питання вчителю (можна українською): ___________________________
 
-A) growing food / B) washing clothes / C) communication over long distances
+B:2 хв готовність +4 хв опора +6 хв приклад +3 хв збереження. D:2+3+5 хв, потім необов’язково до 5 хв уточнення. Це тренувальний фрагмент, не повний урок або контроль. Результат можна передати пізніше.
 
-Answer: ______ Evidence from the text: ______________________________
+## Основний маршрут A/C —45 хв
 
-2. За адаптованим текстом: What will the presentation include?
+**Мовний фокус / жанр:** читання: факт → пояснення
 
-A) only prices / B) benefits and limitations / C) only brand names
+**Опора:** Факти біографії підтверджуємо джерелом, оцінні слова позначаємо як власне ставлення. Electric / electrical не взаємозамінні в усіх сполученнях.
 
-Answer: ______ Evidence from the text: ______________________________
+### Джерело / brief
 
-### 2. Choose a form; explain one choice
+Marie Curie shared the Nobel Prize in Physics in 1903. She received the Nobel Prize in Chemistry in 1911. Her research concerned radioactivity. A biography note should distinguish a documented achievement from a personal judgement. The years and prize subjects are facts; calling an achievement inspiring is an interpretation.
 
-1. The scientist ... invented this device lives here.
+### Цільові пункти
 
-A) where / B) when / C) who
 
-Answer: ______
 
-2. My tablet, ... I bought last year, is slow.
+1. Which prize did Marie Curie receive in 1911?
 
-A) what / B) which / C) that
+A) Literature / B) Chemistry / C) Physics
 
-Answer: ______
+Answer: _____ Reason/evidence: __________________________________
 
-3. The place ... they work is a laboratory.
+2. Which statement is a judgement rather than a dated fact?
 
-A) where / B) who / C) whose
+A) Her work is inspiring. / B) She shared the Physics prize in 1903. / C) She received the Chemistry prize in 1911.
 
-Answer: ______
+Answer: _____ Reason/evidence: __________________________________
 
-One explanation (time, meaning or form): __________________________
 
-________________________________________________________________
+### Один головний продукт
 
-## Окрема ситуація цього уроку: a reading note
+Make a two-row year / achievement note and add one labelled interpretation.
 
-Robin is working on a reading note about science and technology. The task is to separate the writer’s fact from the reader’s opinion. There are 9 minutes for a first attempt. A partner suggests making the message shorter, but Robin wants to keep one clear reason. They agree to check the meaning before sharing the final version. The work is about a fictional character, so no private details are needed.
-
-A. How much time is available for a first attempt? ___________________
-
-B. What will the partners check before sharing? _____________________
-
-C. Complete the actual mini-product (a reading note) in two lines about science and technology. Include one clear reason. Use the language model above and the strategy from the message.
+Для навчального мінімуму: один потрібний фрагмент і позначка, що ще треба завершити. Для повного A/C — весь зазначений короткий жанр/продукт. Це не вимога написати 120–130 слів за 7 хв.
 
 __________________________________________________________________
 
 __________________________________________________________________
 
-## 3. Create and explain
-
-Write a description of an invented device for a fictional Alex. Use two details from the text(s), give two reasons and add one suggestion. Write 4–6 sentences. You may use the model(s) above. Do not include real addresses, phone numbers or private experiences.
-
-**Start:** In the text, … . Alex could … because … . Another reason is … . I suggest … .
-
-1. ________________________________________________________________
-
-2. ________________________________________________________________
-
-3. ________________________________________________________________
-
-4. ________________________________________________________________
-
-5. ________________________________________________________________
-
-6. ________________________________________________________________
-
-## 4. Interaction
-
-Fictional situation: Alex needs help choosing a next step about science and technology. Ask for one reason, reply and respond politely. Say it if the teacher has arranged an oral channel; otherwise write a dialogue and mark it as written.
-
-A: Why would you choose ________________________________________?
-
-B: I would choose __________________ because ____________________.
-
-A: I see your point. Another option is ____________________________.
-
-Спосіб: усно / письмово. Партнера немає? Напиши обидві ролі як тренування; усну взаємодію перевірять окремо.
-
-## 5. Listening (only with the teacher's audio)
-
-Do not guess if you cannot hear the audio. Write «не перевірено» and arrange another time.
-
-1. On which day does Alex plan the activity? _______________________
-
-2. Where does Alex present the device? ______________________
-
-## 6. Correction / portfolio / homework
-
-Original phrase: __________________________________________________
-
-My corrected phrase and reason: ____________________________________
+__________________________________________________________________
 
 __________________________________________________________________
 
-Second correction (for portfolio): _________________________________
-
-My next language step: ____________________________________________
-
-Add two sentences to your product, if this is homework: ______________
+__________________________________________________________________
 
 __________________________________________________________________
 
-Optional respectful phrase for fictional Alex: ______________________
+__________________________________________________________________
 
-**ДЗ:** одна виправлена відповідь із поясненням і два додані речення, до 10 хв. Термін — наступний доступний контакт за домовленістю. Після короткого маршруту спочатку заверши мінімум.
+__________________________________________________________________
+
+### Після завершення
+
+Мій точний пункт повернення: _______________________________________
+
+Моє мовне питання / одне виправлення: _______________________________
+
+**Резерв, тільки за окремим вибором вчителя:** розширити продукт однією новою деталлю й пояснити її; цей резерв не додається до 45 хв. На інших уроках аудіювання/говоріння не приписуються автоматично, якщо їх не перевіряли.
+
+**ДЗ, до 10 хв:** виправити один цільовий пункт із поясненням або завершити одну потрібну частину чернетки. Не виконувати заново весь пропущений урок. Після B/D спершу зберегти мінімум, решту погодити з учителем. Контроль удома не зараховується без погодженої процедури.
+
+## Джерело історичних фактів
+
+[NobelPrize.org: Marie Curie, Physics 1903](https://www.nobelprize.org/prizes/physics/1903/marie-curie/facts/) і [Chemistry 1911](https://www.nobelprize.org/prizes/chemistry/1911/summary/). Факти перевірено 18.10.2026; текст стисло адаптований, не цитата.

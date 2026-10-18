@@ -4,7 +4,7 @@
 
 Можна працювати з вигаданими персонажами. Під час переміщення в укриття не виконувати завдань. Якщо немає безпечних умов / освітлення, відкласти. Перевірку стану можна пропустити.
 
-# Завдання: A town story
+# Завдання: A town story · варіант 053 P
 
 Це запропонований матеріал перевірки, а не підтвердження її проведення. Працюй самостійно; перед початком учитель пояснить критерії. Якщо зв’язок зник або пролунала тривога, зупинись. Відсутній доказ перевірять іншого безпечного разу.
 
@@ -12,49 +12,49 @@
 
 Прочитай запитання. Прослухай учителя двічі у звичайних безпечних умовах. Не потрібно повторювати вголос. Текст слухання міститься тільки в учительському ключі. Якщо не чути, повідом доступним способом; читання тексту не замінює перевірку слухання.
 
-1. Where was Leo?
+1. Where was Anna?
 
-A) In the library / B) At the bank / C) In a shop
-
-Відповідь: __________
-
-2. What book did Mia want?
-
-A) A book about cooking / B) A book about football / C) A book about planets
+A) In the school. / B) In the library. / C) In the museum.
 
 Відповідь: __________
 
-3. When did Leo leave?
+2. What book did Alex want?
 
-A) At six / B) At five / C) At half past four
+A) A book about planets. / B) A book about animals. / C) A book about trains.
+
+Відповідь: __________
+
+3. When did Anna leave?
+
+A) At three. / B) At four. / C) At two.
 
 Відповідь: __________
 
 ## R — розуміння прочитаного
 
-Green Town has a library, a park and a small market. The library is opposite the park. On Monday, Eva was walking to the library when she found a green notebook. She gave it to the librarian. Later a boy came to ask for it. He thanked Eva. It was the happiest moment of her day.
+Green Town has a library, a park and a small market. The library is opposite the market. On Wednesday, Anna was walking to the library when she found a red pencil case. She gave it to a shop assistant. Later Alex came to ask for it. He thanked Anna. She felt happy because the object was back with its owner.
 
 1. Where is the library?
 
-A) Opposite the park / B) Behind the market / C) Next to a lake
+A) Opposite the market. / B) Opposite the park. / C) Opposite the school.
 
 Відповідь: __________
 
-2. What did Eva find?
+2. What did the girl find?
 
-A) A blue book / B) A bag / C) A green notebook
+A) A green notebook. / B) A blue bag. / C) A red pencil case.
 
 Відповідь: __________
 
-3. Who received the notebook from Eva?
+3. Who received the object from her?
 
-A) A shop assistant / B) The librarian / C) A bus driver
+A) A teacher. / B) A shop assistant. / C) A librarian.
 
 Відповідь: __________
 
 ## S — усна взаємодія
 
-A — відвідувач міста, шукає бібліотеку. B — місцевий житель: від школи прямо, парк ліворуч, бібліотека навпроти парку. A питає шлях, уточнює одне місце й дякує; B пояснює та перевіряє розуміння. По 3–4 репліки.
+A — відвідувач, шукає бібліотеку. B пояснює: «Turn right at the school.», потім повз market, бібліотека навпроти market. A уточнює положення, B перевіряє розуміння. По 3–4 репліки; карта вигадана.
 
 Можна взяти 2 хвилини на план і 3 ключові слова. У звичайних умовах говоріть 2–3 хв на пару; партнером може бути вчитель. Письмові репліки доступні як підготовка, але не є завершеним усним контролем.
 
@@ -76,7 +76,7 @@ ________________________________________________________________________
 
 ## W — письмове висловлення
 
-Напиши 5–6 речень про безпечну вигадану пригоду в місті. Назви двох героїв, що вони робили, що сталося й чим завершилося; використай when або while.
+Напиши 5–6 речень про безпечну вигадану пригоду: герой загубив bag біля market, а друг допоміг. Опиши фон, подію й завершення; ужий when або while.
 
 ________________________________________________________________________
 

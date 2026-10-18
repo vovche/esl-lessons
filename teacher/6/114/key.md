@@ -6,19 +6,17 @@
 
 1. **C — who**. Для людини — who.
 
-2. **B — At a supermarket.**. У другому реченні названо supermarket.
+2. **B — So**. Ствердження з am → So am I.
 
-3. **A — So**. Ствердження з am → So am I.
+3. **A — is**. Однина + is + третя форма.
 
-4. **C — The audition could lead to a TV appearance.**. Можливість виступу на TV робить подію важливою.
+4. **C — was**. Last year → Past Simple Passive з was.
 
-5. **B — is**. Однина + is + третя форма.
+5. **B — plot**. Plot — сюжет.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): A local newspaper reports on two teenagers who won prizes. A band is waiting for an audition. This is the girl who won a prize. That is the camera which she bought. He is a helpful person. I am nervous. So am I. I love performing. So do I. I have not been on TV. Neither have I. Articles are written by reporters. The magazine is designed on computers. Copies are delivered to shops. The film was directed by a young director. Two awards were given. Was the scene filmed here? The film was directed by a young artist. It is about a boy who helps his friends. I liked the plot and special effects.
+Вправа 5, можливий тематичний діалог: A: Who is Mia? B: She is the girl who won a prize. A: What is this? B: It is the camera which she bought.
 
-Модель додаткового висловлення: This is the girl who won a prize. That is the camera which she bought. He is a helpful person. I am nervous. So am I. I love performing. So do I. I have not been on TV. Neither have I. Articles are written by reporters. The magazine is designed on computers. Copies are delivered to shops. The film was directed by a young director. Two awards were given. Was the scene filmed here? The film was directed by a young artist. It is about a boy who helps his friends. I liked the plot and special effects.
-
-Вправа 5, зразок: A: This is the girl who won a prize. B: Could you explain? A: A local newspaper reports on two teenagers who won prizes. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: Mia is the student who writes for our magazine. Articles are checked by the teacher. Мій вигаданий варіант: The girl who won the prize is happy. I am nervous.
 
 ## Рубрика відкритого продукту
 

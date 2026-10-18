@@ -10,11 +10,9 @@
 
 3. **A — Three.**. Three books.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): There are two boxes under the desk. One bag is next to the desk. There are two boxes under the desk. These books are on the shelf. How many books are there?
+Вправа 5, можливий тематичний діалог: A: How many boxes are there? B: There are two. A: Where are they? B: They are under the desk.
 
-Модель додаткового висловлення: There are two books on the desk. There is a bag under the desk. These pens are in a box. The box is next to a lamp.
-
-Вправа 5, зразок: A: There are two boxes under the desk. B: Could you explain? A: There are two boxes under the desk. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: There are two boxes under the desk. One bag is next to the desk. Мій вигаданий варіант: There are two books on the desk. There is a bag under the desk.
 
 ## Рубрика відкритого продукту
 

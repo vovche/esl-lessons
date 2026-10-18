@@ -14,12 +14,9 @@
 
 5. **C — Who took it and when it will be returned.**. У тексті прямо названо дві потрібні деталі.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): People sometimes shorten words in messages to type faster. They also use symbols to show feelings. I have lived here for two years. We have known each other since school. I will be back at six.
+Вправа 5, можливий тематичний діалог: A: How long have you had this book? B: I have had it for two days. A: When will you return it? B: I will return it on Monday.
 
-Модель додаткового висловлення: Mia, I have borrowed your book. I have had it for two days. I will return it on Monday. Thanks! Alex.
-Leo, our meeting is now at four. I have been at the library since two. See you at the entrance. Mia
-
-Вправа 5, зразок: A: I have lived here for two years. B: Could you explain? A: People sometimes shorten words in messages to type faster. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: People sometimes shorten words in messages to type faster. They also use symbols to show feelings. Мій вигаданий варіант: Mia, I have borrowed your book. I have had it for two days.
 
 ## Рубрика відкритого продукту
 

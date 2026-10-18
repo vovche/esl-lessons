@@ -6,19 +6,15 @@
 
 ## Блок 1: Round-up 6
 
-### 1. Словник і опора
+### 1. Словник
 
-protein — білок; calcium — кальцій; headache — головний біль; toothache — зубний біль; gym — спортивна зала; instructor — інструктор; spectator — глядач; league — ліга
-
-Повтори ключові правила з п’яти уроків. Спочатку виконай завдання без підказок. Потім прочитай пояснення до помилок і повернися до відповідного уроку. Для кожного правила склади власний приклад.
-
-Мовна модель: How much milk is there? How many apples have we got? There is a little water and a few vegetables. I have got a headache. You should tell an adult. You should not ignore it. Should I ask for help? You like tennis, do you not? She is the instructor, is she not? They cannot swim, can they? Our team plays in the local league. Last year they won a trophy. Many spectators watched the final. I joined the tennis club last year. I practise three times a week. I am going to enter a tournament.
+protein — білок; headache — головний біль; gym — спортивна зала; spectator — глядач; racket — ракетка
 
 ### 2. Прочитай
 
-A balanced diet can include different kinds of food. A girl calls her friend because he has not arrived at the cinema. Two friends visit a gym. A sports club can have more than one team. A girl joined a tennis club after a friend gave her advice.
+Mia has a few carrots and a little rice for lunch. Leo feels unwell and should tell an adult. He likes tennis, doesn’t he? Last month Mia joined a tennis club. She practises twice a week. She is going to play a friendly match on Friday. Her team won a small cup last year.
 
-### 3. Обери відповідь. Запиши літеру та підкресли доказ / форму в тексті.
+### 3. Обери відповідь. Для мовної форми поясни правило; для факту підкресли його в тексті.
 
 1. How ___ apples have we got?
 
@@ -26,33 +22,37 @@ A) little / B) many / C) much
 
 Відповідь: __________ Доказ / пояснення: __________________________
 
-2. What do dairy products contain in the text?
+2. You should ___ an adult how you feel.
 
-A) Protein and calcium. / B) Only sugar. / C) No protein.
-
-Відповідь: __________ Доказ / пояснення: __________________________
-
-3. You should ___ an adult how you feel.
-
-A) to tell / B) telling / C) tell
+A) tell / B) to tell / C) telling
 
 Відповідь: __________ Доказ / пояснення: __________________________
 
-4. Where was the girl waiting?
+3. She is the instructor, ___?
 
-A) At a music class. / B) At the cinema. / C) At the airport.
-
-Відповідь: __________ Доказ / пояснення: __________________________
-
-5. She is the instructor, ___?
-
-A) isn't she / B) doesn't she / C) is she
+A) doesn't she / B) is she / C) isn't she
 
 Відповідь: __________ Доказ / пояснення: __________________________
 
-### 4. Мій короткий продукт
+4. Yesterday the team ___ a trophy.
 
-Використай тему «Round-up 6». Напиши 4 пов’язані речення (або 4 репліки діалогу): два за змістом тексту й два про вигаданого героя / власний варіант. Ужий щонайменше два слова зі словника та одну структуру з опори. Особисті дані не потрібні.
+A) winning / B) won / C) wins
+
+Відповідь: __________ Доказ / пояснення: __________________________
+
+5. Last year I ___ a tennis club.
+
+A) joined / B) join / C) am joining every day
+
+Відповідь: __________ Доказ / пояснення: __________________________
+
+Після власної спроби: Повтори п’ять мовних фокусів у вправах 3 №1–5. Спочатку дай власну відповідь; опора відкривається після спроби. Після перевірки обери одну форму для власного прикладу. Це формувальне повторення, не контроль.
+
+Опора після спроби: How much milk is there? How many apples have we got? There is a little water and a few vegetables. I have got a headache. You like tennis, don’t you? She is the instructor, isn’t she? They cannot swim, can they?. Our team plays in the local league. I joined the tennis club last year.
+
+### 4. Мій тематичний продукт
+
+За текстом «Round-up 6» запиши два факти (можна короткими реченнями). Окремо під заголовком «Мій вигаданий варіант» напиши ще два тематичні речення. Використай структуру з опори. Це 4 речення разом; не потрібно розкривати особисті дані.
 
 Початок на вибір: Hi… I took up… I practise… Last week… I am going to…
 
@@ -68,11 +68,11 @@ ________________________________________________________________________
 
 ________________________________________________________________________
 
-Перевірка: □ зміст зрозумілий □ два слова □ структура □ перевірив(ла) одне місце.
+Перевірка: □ виконав зміст завдання □ зрозумілі речення □ перевірив(ла) одну форму.
 
-### 5. Взаємодія за бажанням у класі / онлайн
+### 5. Мініситуація на вибір (якщо лишився час)
 
-Учень A читає одне своє речення про «Round-up 6». Учень B питає “Could you explain?” або “What about you?” A додає ще один факт. Зміна ролей. Можна записати репліки замість говоріння; це письмова взаємодія, не доказ усної.
+Вигадана ситуація «Round-up 6». A починає: “How many carrots are there?” B відповідає за темою; A ставить друге запитання / репліку, B реагує. Поміняйте одну деталь і ролі. Можна грати соло й записати обидві ролі. Мовчазна / чат-версія дає письмовий доказ; усний фіксують тільки за реальним говорінням.
 
 A: __________________________ B: __________________________
 
@@ -82,4 +82,4 @@ A: __________________________ B: __________________________
 
 00–02: відкрий блок 1, словник і модель. 02–06: прочитай текст, підкресли 2 факти. 06–10: виконай вправу 3 №1–2. 10–13: напиши 1–2 речення вправи 4. 13–15: постав ? біля труднощів і збережи аркуш. За відсутності ресурсу зупинись раніше; надсилати роботу під час відключення не потрібно. Принеси її за наступної можливості.
 
-ДЗ до 10 хв: допиши / відредагуй до 4 речень вправи 4. Після короткого маршруту — лише два початі пункти й 1–2 речення; без подвійного навантаження.
+ДЗ до 10 хв: відредагуй одне речення / деталь уже початого основного продукту; нового повного твору не потрібно. Після короткого маршруту — лише два початі пункти й 1–2 речення; без подвійного навантаження.

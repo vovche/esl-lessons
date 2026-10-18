@@ -6,19 +6,17 @@
 
 1. **B — May**. May I…? — прохання про дозвіл.
 
-2. **A — He has no library card with him.**. Картка залишилася вдома.
+2. **A — into it**. Into означає рух усередину.
 
-3. **C — into it**. Into означає рух усередину.
+3. **C — quieter**. Порівняння двох місць: quieter than.
 
-4. **B — In front of a supermarket.**. У тексті: stop in front of a supermarket.
+4. **B — the largest**. Large → the largest.
 
-5. **A — quieter**. Порівняння двох місць: quieter than.
+5. **A — are**. Two galleries — множина.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): A boy wants to borrow a book from the library, but he has left his card at home. Two friends are playing a game. May I borrow this book? Could you help me? I might visit the market later. Go straight on and turn right at the traffic lights. The bank is on your left, opposite the park. The country is quieter than the city. The city is more exciting. This house is as comfortable as that one. This is the largest planet in the group. That planet is hotter than this one. It has the highest temperature. There is a castle near the river. There are two galleries. The park is the most peaceful place in my town.
+Вправа 5, можливий тематичний діалог: A: May I borrow this book? B: Yes, you may. A: Could you help me find another book? B: Of course.
 
-Модель додаткового висловлення: May I borrow this book? Could you help me? I might visit the market later. Go straight on and turn right at the traffic lights. The bank is on your left, opposite the park. The country is quieter than the city. The city is more exciting. This house is as comfortable as that one. This is the largest planet in the group. That planet is hotter than this one. It has the highest temperature. There is a castle near the river. There are two galleries. The park is the most peaceful place in my town.
-
-Вправа 5, зразок: A: May I borrow this book? Could you help me? I might visit the market later. B: Could you explain? A: A boy wants to borrow a book from the library, but he has left his card at home. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: Mia asked, “May I borrow a book?” Then she walked through the park. The library is opposite the school. Мій вигаданий варіант: I might visit the market later. Go straight on and turn right at the traffic lights.
 
 ## Рубрика відкритого продукту
 

@@ -14,11 +14,9 @@
 
 5. **A — Their receipts.**. Останнє речення: keep their receipts.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): A teenager wants to buy a dress. She likes a blue one, but the first size is too big. These shoes are too small. They are not big enough. I like the white ones. I will take the blue one.
+Вправа 5, можливий тематичний діалог: A: Can I try on the blue T-shirt? B: Yes, here you are. A: How much is it? B: It is ten pounds.
 
-Модель додаткового висловлення: A: Can I help you? B: I would like a T-shirt. A: What size? B: Medium, please. This one is too small. A: Are these ones big enough? B: Yes. How much is the blue one? A: Ten pounds. B: I will pay in cash.
-
-Вправа 5, зразок: A: These shoes are too small. B: Could you explain? A: A teenager wants to buy a dress. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: A teenager wants to buy a dress. She likes a blue one, but the first size is too big. Мій вигаданий варіант: B: I would like a T-shirt. B: Medium, please.
 
 ## Рубрика відкритого продукту
 

@@ -14,9 +14,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 2,
@@ -29,9 +31,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 3,
@@ -44,9 +48,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 4,
@@ -59,9 +65,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 5,
@@ -74,9 +82,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 6,
@@ -89,9 +99,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 7,
@@ -104,9 +116,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 8,
@@ -119,9 +133,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 9,
@@ -134,9 +150,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 10,
@@ -149,9 +167,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 11,
@@ -164,9 +184,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 12,
@@ -179,9 +201,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 13,
@@ -194,9 +218,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 14,
@@ -209,9 +235,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 15,
@@ -224,9 +252,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 16,
@@ -239,9 +269,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 17,
@@ -254,9 +286,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 18,
@@ -269,9 +303,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 19,
@@ -284,9 +320,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 20,
@@ -299,9 +337,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 21,
@@ -314,9 +354,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 22,
@@ -329,9 +371,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 23,
@@ -344,9 +388,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 24,
@@ -359,9 +405,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 25,
@@ -374,9 +422,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 26,
@@ -389,9 +439,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 27,
@@ -404,9 +456,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 28,
@@ -419,9 +473,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": true
+      "assessment": true,
+      "recovery_file": "recovery-handout.md"
     },
     {
       "number": 29,
@@ -434,9 +490,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 30,
@@ -449,9 +507,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 31,
@@ -464,9 +524,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 32,
@@ -479,9 +541,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 33,
@@ -494,9 +558,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 34,
@@ -509,9 +575,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 35,
@@ -524,9 +592,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 36,
@@ -539,9 +609,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 37,
@@ -554,9 +626,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 38,
@@ -569,9 +643,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 39,
@@ -584,9 +660,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 40,
@@ -599,9 +677,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 41,
@@ -614,9 +694,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 42,
@@ -629,9 +711,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 43,
@@ -644,9 +728,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 44,
@@ -659,9 +745,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 45,
@@ -674,9 +762,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 46,
@@ -689,9 +779,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 47,
@@ -704,9 +796,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 48,
@@ -719,9 +813,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 49,
@@ -734,9 +830,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 50,
@@ -749,9 +847,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 51,
@@ -764,9 +864,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 52,
@@ -779,9 +881,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 53,
@@ -794,9 +898,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": true
+      "assessment": true,
+      "recovery_file": "recovery-handout.md"
     },
     {
       "number": 54,
@@ -809,9 +915,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": true
+      "assessment": true,
+      "recovery_file": "recovery-handout.md"
     },
     {
       "number": 55,
@@ -824,9 +932,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": true
+      "assessment": true,
+      "recovery_file": "recovery-handout.md"
     },
     {
       "number": 56,
@@ -839,9 +949,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": true
+      "assessment": true,
+      "recovery_file": "recovery-handout.md"
     },
     {
       "number": 57,
@@ -854,9 +966,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": true
+      "assessment": true,
+      "recovery_file": "recovery-handout.md"
     },
     {
       "number": 58,
@@ -869,9 +983,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 59,
@@ -884,9 +1000,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 60,
@@ -899,9 +1017,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 61,
@@ -914,9 +1034,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 62,
@@ -929,9 +1051,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 63,
@@ -944,9 +1068,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 64,
@@ -959,9 +1085,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 65,
@@ -974,9 +1102,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 66,
@@ -989,9 +1119,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 67,
@@ -1004,9 +1136,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 68,
@@ -1019,9 +1153,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 69,
@@ -1034,9 +1170,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 70,
@@ -1049,9 +1187,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 71,
@@ -1064,9 +1204,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 72,
@@ -1079,9 +1221,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 73,
@@ -1094,9 +1238,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 74,
@@ -1109,9 +1255,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 75,
@@ -1124,9 +1272,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 76,
@@ -1139,9 +1289,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 77,
@@ -1154,9 +1306,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 78,
@@ -1169,9 +1323,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 79,
@@ -1184,9 +1340,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 80,
@@ -1199,9 +1357,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 81,
@@ -1214,9 +1374,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 82,
@@ -1229,9 +1391,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 83,
@@ -1244,9 +1408,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 84,
@@ -1259,9 +1425,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 85,
@@ -1274,9 +1442,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 86,
@@ -1289,9 +1459,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": true
+      "assessment": true,
+      "recovery_file": "recovery-handout.md"
     },
     {
       "number": 87,
@@ -1304,9 +1476,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 88,
@@ -1319,9 +1493,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 89,
@@ -1334,9 +1510,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 90,
@@ -1349,9 +1527,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 91,
@@ -1364,9 +1544,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 92,
@@ -1379,9 +1561,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 93,
@@ -1394,9 +1578,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 94,
@@ -1409,9 +1595,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 95,
@@ -1424,9 +1612,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 96,
@@ -1439,9 +1629,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 97,
@@ -1454,9 +1646,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 98,
@@ -1469,9 +1663,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 99,
@@ -1484,9 +1680,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 100,
@@ -1499,9 +1697,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 101,
@@ -1514,9 +1714,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 102,
@@ -1529,9 +1731,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 103,
@@ -1544,9 +1748,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 104,
@@ -1559,9 +1765,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 105,
@@ -1574,9 +1782,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 106,
@@ -1589,9 +1799,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 107,
@@ -1604,9 +1816,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 108,
@@ -1619,9 +1833,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 109,
@@ -1634,9 +1850,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 110,
@@ -1649,9 +1867,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 111,
@@ -1664,9 +1884,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 112,
@@ -1679,9 +1901,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 113,
@@ -1694,9 +1918,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 114,
@@ -1709,9 +1935,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 115,
@@ -1724,9 +1952,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": true
+      "assessment": true,
+      "recovery_file": "recovery-handout.md"
     },
     {
       "number": 116,
@@ -1739,9 +1969,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": true
+      "assessment": true,
+      "recovery_file": "recovery-handout.md"
     },
     {
       "number": 117,
@@ -1754,9 +1986,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": true
+      "assessment": true,
+      "recovery_file": "recovery-handout.md"
     },
     {
       "number": 118,
@@ -1769,9 +2003,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": true
+      "assessment": true,
+      "recovery_file": "recovery-handout.md"
     },
     {
       "number": 119,
@@ -1784,9 +2020,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": true
+      "assessment": true,
+      "recovery_file": "recovery-handout.md"
     },
     {
       "number": 120,
@@ -1799,9 +2037,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 121,
@@ -1814,9 +2054,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 122,
@@ -1829,9 +2071,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     },
     {
       "number": 123,
@@ -1844,9 +2088,11 @@
         "lesson.md",
         "handout.md",
         "key.md",
-        "report.md"
+        "report.md",
+        "games.md"
       ],
-      "assessment": false
+      "assessment": false,
+      "recovery_file": null
     }
   ]
 }

@@ -10,15 +10,9 @@
 
 3. **A — is**. Everyone граматично узгоджується з одниною.
 
-4. **C — It was half dog.**. Це деталь із тексту, адаптованого за історією White Fang.
+Вправа 5, можливий тематичний діалог: A: Is there anyone at the gate? B: Yes, someone is there. A: How does the traveller feel now? B: He feels relieved.
 
-5. **B — Alone and afraid.**. Останнє речення прямо називає його почуття.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): At first, Mia was worried because nobody was at the gate. Then someone waved to her. She felt happy. At the end, she found something funny in her bag and laughed.
-
-Модель додаткового висловлення: At first, Mia was worried because nobody was at the gate. Then someone waved to her. She felt happy. At the end, she found something funny in her bag and laughed.
-
-Вправа 5, зразок: A: Everyone is afraid. B: Could you explain? A: Two men were travelling through a cold forest with their dogs. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: At first, Mia was worried because nobody was at the gate. Then someone waved to her. She felt happy. At the end, she found something funny in her bag and laughed.
 
 ## Рубрика відкритого продукту
 

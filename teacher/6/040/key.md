@@ -14,29 +14,15 @@
 
 5. **A — No.**. Правило уроку пояснює, що ці поняття різні.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): A country fact file gives short, organised information. It can name the capital, the largest city, mountains and lakes. The capital is near the coast. The largest city is in another region. The climate is cool and wet.
+Вправа 5, можливий тематичний діалог: A: What does the text say? B: A country fact file gives short, organised information. A: Can you give another example? B: The capital is near the coast.
 
-Модель додаткового висловлення: The capital is near the coast. The largest city is in another region. The climate is cool and wet.
-
-Вправа 5, зразок: A: The capital is near the coast. B: Could you explain? A: A country fact file gives short, organised information. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: A country fact file gives short, organised information. It can name the capital, the largest city, mountains and lakes. Мій вигаданий варіант: The capital is near the coast. The largest city is in another region.
 
 ## Блок 2: A place full of stories
 
 1. **B — bagpipes.**. Bagpipes — музичний інструмент.
 
 2. **A — People believe…**. People believe позначає вірування, а не перевірений факт.
-
-3. **C — clothing**. Кілт — традиційний одяг.
-
-4. **B — Lakes.**. У тексті: lakes called lochs.
-
-5. **A — A monster legend.**. У тексті згадано monster legend.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Scotland has castles, hills and many lakes called lochs. Its capital is Edinburgh. The city is a capital. People play bagpipes. A legend says that a monster lives in the lake.
-
-Модель додаткового висловлення: The city is a capital. People play bagpipes. A legend says that a monster lives in the lake.
-
-Вправа 5, зразок: A: The city is a capital. B: Could you explain? A: Scotland has castles, hills and many lakes called lochs. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
 
 ## Рубрика відкритого продукту
 

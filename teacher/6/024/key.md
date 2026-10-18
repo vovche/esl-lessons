@@ -10,15 +10,9 @@
 
 3. **A — use to**. Після did not немає -d у use.
 
-4. **C — Land.**. У тексті: before they saw land.
+Вправа 5, можливий тематичний діалог: A: Did people use to travel on slow ships? B: Yes, they did. A: How do they travel now? B: They can travel by fast trains.
 
-5. **B — Places to charge them.**. Останнє речення пояснює потребу в заряджанні.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): People used to travel by horse. They used to walk long distances. Ships used to be slow. Today people travel by train. They fly to other countries. They use fast buses.
-
-Модель додаткового висловлення: People used to travel by horse. They used to walk long distances. Ships used to be slow. Today people travel by train. They fly to other countries. They use fast buses.
-
-Вправа 5, зразок: A: People used to travel on slow ships. B: Could you explain? A: Travel has changed. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: People used to travel by horse. They used to walk long distances. Ships used to be slow. Today people travel by train. They fly to other countries. They use fast buses.
 
 ## Рубрика відкритого продукту
 

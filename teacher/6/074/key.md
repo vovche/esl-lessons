@@ -14,11 +14,9 @@
 
 5. **C — Water.**. Останнє речення: drinks water.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): A balanced diet can include different kinds of food. Fruit and vegetables provide vitamins. How much milk is there? How many apples have we got? There is a little water and a few vegetables.
+Вправа 5, можливий тематичний діалог: A: How many carrots are there? B: There are a few. A: How much rice is there? B: There is a little.
 
-Модель додаткового висловлення: Lunch A has a few tomatoes and a little rice. There are not many carrots. There is not much juice. Lunch B has a lot of vegetables and a little bread.
-
-Вправа 5, зразок: A: How much milk is there? How many apples have we got? There is a little water and a few vegetables.. B: Could you explain? A: A balanced diet can include different kinds of food. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: A balanced diet can include different kinds of food. Fruit and vegetables provide vitamins. Мій вигаданий варіант: Lunch A has a few tomatoes and a little rice. There are not many carrots.
 
 ## Рубрика відкритого продукту
 

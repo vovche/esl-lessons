@@ -14,11 +14,9 @@
 
 5. **A — Visit an electronics shop.**. Останнє речення називає його рішення.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): A teenager asks for advice about wireless headphones. One person recommends a cheaper pair. I think gadgets will change. I will help you. Will you bring the headphones? We will be leaving at eight.
+Вправа 5, можливий тематичний діалог: A: Will phones use less energy? B: I think they will. A: Will you help me compare them? B: Yes, I will.
 
-Модель додаткового висловлення: Phones will be smaller. Robots will help people. Batteries will last longer. Screens will use less energy. I will help you fix your computer.
-
-Вправа 5, зразок: A: I think gadgets will change. B: Could you explain? A: A teenager asks for advice about wireless headphones. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: A teenager asks for advice about wireless headphones. One person recommends a cheaper pair. Мій вигаданий варіант: Phones will be smaller. Robots will help people.
 
 ## Рубрика відкритого продукту
 

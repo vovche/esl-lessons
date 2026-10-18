@@ -1,79 +1,69 @@
-# Ключі · 7 клас · Урок 127
+# Ключ · 7 клас · 127 · 2027-05-10
 
-Лише для вчителя; не роздавати разом з учнівським аркушем. Переклад/синонімічна коротка відповідь прийнятні для розуміння, якщо факт точний; мовну форму коментувати окремо. Орфографічну помилку, що не змінює факту, не карати вдруге.
+Відповіді лише для вчителя. Короткий синонімічний факт прийнятний; не знімати вдруге бал за форму, яка не змінює зрозумілий факт. Тут є резерви вчителя: вони не є вимогою виконати всі блоки за 45 хв.
 
-## V
+## R · Повний текст, факти й докази
 
-1 — C, 2 — B, 3 — A, 4 — D. По 1 за точну відповідність; /4. Власні словосполучення: прийняти осмислену сполуку з тематичним словом, зразок контекстного вживання — у моделі P нижче; за потреби виправити лексичну сполучуваність; ці 2 приклади не додають прихованих балів.
+Robin is planning an imaginary trip. The group meets at the central library on Friday at 2 p.m. The itinerary includes a landmark and an art gallery. Both attractions are shown on a paper map. Each visitor receives a leaflet, but no online ticket is needed for this classroom story. The tour guide suggests either a short route or a longer route. Robin chooses the short route because it includes a quiet stop. The group checks the meeting point before leaving.
 
-## R
+1. **a leaflet**. Доказ у тексті: «a leaflet».
+2. **the short route**. Доказ у тексті: «the short route».
+3. **it includes a quiet stop**. Доказ у тексті: «it includes a quiet stop».
 
-1. the central library.
-2. Friday at 2 p.m.
-3. a landmark and an art gallery.
+## L · Текст для двох читань
 
-По 1 за факт; /3. Можна відповісти коротко; докази — відповідні речення тексту про місце, час і предмет/подію.
+Відділити додаток L в учня до слухання. Прочитати двічі, між читаннями 45 секунд. Не підказувати інтонацією тільки потрібні слова. За відсутності чутності перенести L.
 
-## G
+Dana is planning an imaginary trip. The group meets at the old castle gate on Saturday at 10 a.m. The itinerary includes a castle and a small museum. Both attractions are shown on a paper map. Each visitor receives a leaflet, but no online ticket is needed for this classroom story. The tour guide suggests either a short route or a longer route. Dana chooses the short route because it includes a quiet stop. The group checks the meeting point before leaving.
+
+1. **a leaflet**. Доказ у тексті: «a leaflet».
+2. **the short route**. Доказ у тексті: «the short route».
+3. **it includes a quiet stop**. Доказ у тексті: «it includes a quiet stop».
+
+## V · Відповідності
+
+1 — C, 2 — B, 3 — A, 4 — D. По 1 за відповідність; /4, лише коли V є основним блоком.
+
+## G · Форми
 
 1. and.
 2. or.
 3. because.
 4. but.
 
-По 1 за правильну форму; /4. Пояснення: And додає; but протиставляє; because дає причину. Both… and… поєднує два варіанти; either… or… пропонує вибір.
+And додає; but протиставляє; because дає причину. Both… and… поєднує два варіанти; either… or… пропонує вибір.
 
-## L · Сценарій читання вчителем
+## T · Перенесення моделі
 
-Закрити/відділити додаток L в учнів. Прочитати двічі чітко, без театральних рухів та звукових ефектів, з паузою 45 секунд. Не наголошувати тільки правильні слова й не підказувати жестами.
+1. You can take either the short route or the long route.
+2. I choose the short route because it includes a quiet stop.
 
-Dana is planning an imaginary trip. The group meets at the old castle gate on Saturday at 10 a.m. The itinerary includes a castle and a small museum. Both attractions are shown on a paper map. Each visitor receives a leaflet, but no online ticket is needed for this classroom story. The tour guide suggests either a short route or a longer route. Dana chooses the short route because it includes a quiet stop. The group checks the meeting point before leaving.
+Кожна відповідь має зберігати зміст, часову форму та структуру; інше граматично правильне формулювання прийнятне за збереження умови.
 
-**Відповіді:**
+## F · Повна корекція
 
-1. the old castle gate.
-2. Saturday at 10 a.m.
-3. a castle and a small museum.
+Both the castle and the museum are open. Choose either the short route or the long route. I choose this route because it includes a quiet stop.
 
-По 1 за факт; /3. При поганій чутності перенести L; текстове читання позначити R, не L.
+Пояснення: And додає; but протиставляє; because дає причину. Both… and… поєднує два варіанти; either… or… пропонує вибір. Для портфоліо 2 пояснення можуть бути українською. Наступний крок має бути конкретною дією, наприклад перевірити auxiliary verb.
 
-## S · Зразок діалогу
+## P / S · Умова та повний зразок
 
-A: Let us meet at the central library.
-B: When shall we meet?
-A: Friday at 2 p.m.
-B: Could you repeat the place, please?
-A: the central library. I suggest preparing a landmark and an art gallery because it fits our topic.
-B: Thank you. Can we write a short plan first?
+Виконай G1–G4 і T1–T2; поясни один вибір. Новий великий тематичний текст не потрібний.
 
-Це один можливий варіант, не текст для обов’язкового заучування. Додатковий запит Where shall we meet? прийнятний. Оцінити, чи співрозмовник справді отримав відповідь; письмовий сценарій сам собою не доводить говоріння.
+**Зразок:** You can take either the short route or the long route. I choose the short route because it includes a quiet stop.
 
-## P · Зразок та критерії
+## Відкриті відповіді: конкретні критерії
 
-Meet at the central library on Friday at 2 p.m. Our itinerary includes a landmark and an art gallery. Both attractions are on our paper map. Choose either a short route or a longer route. I suggest the short route because it includes a quiet stop. Finish at the same meeting point.
+- Зміст 0–2:0 немає потрібної дії/теми;1 основна мета зрозуміла, але бракує обов’язкової деталі;2 усі деталі з умови присутні. У читанні/слуханні не додавати непідтверджених фактів.
+- Організація 0–2:0 послідовність не відновлюється;1 зв’язок зрозумілий із підтримкою;2 логічний текст або взаємний обмін репліками.
+- Мовна зрозумілість 0–2:0 зміст не відновлюється;1 помилки не руйнують основний зміст;2 цільові слова/структури переважно точні. У T обов’язкова саме модель, названа в умові.
 
-Факти власної вигаданої події можуть відрізнятися від R, якщо завдання не вимагає перенесення саме фактів R. Для завдання читання з додатковими 2 фактами перевірити їх за R: **the central library; Friday at 2 p.m.; a landmark and an art gallery**. У проєкті перевірити назву, читабельні 3 факти, чернетку й 2 зміни; у граматичному уроці — дві цільові моделі; у лексичному — 4 слова.
+Для S потрібен реально почутий зразок; письмовий чат підтверджує письмову взаємодію. Вимову оцінювати за зрозумілістю, не за акцентом. Пауза/відсутність камери не є помилкою. У проєкті доказ — чернетка, точний відгук,2 зміни; у портфоліо —3 корекції,2 причини, власна модель й наступний крок. Особисте переживання/емоція не оцінюється.
 
-Формувальна рубрика відкритого продукту (кожен вимір 0–2):
+## Критерії саме цього уроку
 
-- Зміст: 0 — продукт відсутній/поза темою; 1 — мета зрозуміла, але бракує 2 обов’язкових деталей; 2 — є мета, адресат і потрібні тематичні деталі.
-- Організація: 0 — не можна відновити послідовність; 1 — послідовність зрозуміла з підтримкою; 2 — логічний початок, факти й завершення / доречна черговість реплік.
-- Мовна зрозумілість: 0 — зміст не відновлюється; 1 — помилки є, але основний зміст зрозумілий; 2 — цільові моделі переважно точні, ключові слова доречні.
-
-/6 — первинний навчальний показник, не автоматична офіційна оцінка. У S допускається пауза, паперова підготовка й відсутність камери. Для 6-бальної рубрики S: зміст — виконання ролі/запитів; організація — відповідь/уточнення; мовна зрозумілість — зрозумілий усний зразок. Потрібну допомогу зафіксувати, емоції не оцінювати.
-
-## F
-
-**Виправлена версія:** Both the castle and the museum are open. Choose either the short route or the long route. I choose this route because it includes a quiet stop.
-
-**Пояснення:** And додає; but протиставляє; because дає причину. Both… and… поєднує два варіанти; either… or… пропонує вибір. Прийняти інші граматично коректні виправлення зі збереженим змістом; пояснення двох змін може бути українською. Для портфоліо доказ — «до», «після», дві причини й наступний перевірюваний крок; твердження «я старався» без прикладу попросити конкретизувати.
-
-## Специфікація цього уроку
-
-Формувально: V /4, R /3, G /4, L /3 — окремі свідчення, не сума в офіційну оцінку. Відкритий продукт: зміст, організація, зрозумілість — по 0–2; див. ключ.
-
-B/D — скорочений місток, не повна перевірка всіх умінь. Не переносити автоматично бал за письмовий чат у результат говоріння; не записувати повне аудіювання, якщо учень читав. За переривання зберегти достовірні блоки, невиконане позначити «перенесено», не нулем за технічну недоступність.
+Формувально: точність факту/форми позначати окремо. Відкритий продукт: зміст, організація та мовна зрозумілість — по 0–2, для зворотного зв’язку. Це первинні показники для педагогічного рішення; офіційне переведення визначає затверджений порядок закладу.
 
 ## ДЗ
 
-Приймається будь-який осмислений чистовий текст за тематичною умовою P, 2 тематичні слова й одне запитання з правильною моделлю. Приклади запитання до R: Where does the story take place? When does the event happen? Відповіді: the central library; Friday at 2 p.m. Після контрольного уроку перевіряється лише факт навчальної рефлексії; це не новий підсумковий бал.
+До 5 хв: завершений основний продукт або одна перевірена фраза з поясненням правки. Після B/D —2 рядки. Приймати варіанти за критеріями умови; після контролю домашнє переписування не створює нової самостійної оцінки.

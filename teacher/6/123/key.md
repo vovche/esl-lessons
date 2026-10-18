@@ -10,33 +10,15 @@
 
 3. **A — ones**. Shoes — множина, заміна ones.
 
-4. **C — It is too big.**. У тексті: the first size is too big.
+Вправа 5, можливий тематичний діалог: A: Can I try on the blue T-shirt? B: Yes, here you are. A: How much is it? B: It is ten pounds.
 
-5. **B — Their receipts.**. Останнє речення: keep their receipts.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): A: Can I help you? B: I would like a T-shirt. A: What size? B: Medium, please. This one is too small. A: Are these ones big enough? B: Yes. How much is the blue one? A: Ten pounds. B: I will pay in cash.
-
-Модель додаткового висловлення: A: Can I help you? B: I would like a T-shirt. A: What size? B: Medium, please. This one is too small. A: Are these ones big enough? B: Yes. How much is the blue one? A: Ten pounds. B: I will pay in cash.
-
-Вправа 5, зразок: A: These shoes are too small. B: Could you explain? A: A teenager wants to buy a dress. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: A: Can I help you? B: I would like a T-shirt. A: What size? B: Medium, please. This one is too small. A: Are these ones big enough? B: Yes. How much is the blue one? A: Ten pounds. B: I will pay in cash.
 
 ## Блок 2: Teen problems
 
-1. **C — Some advice.**. Advice — незлічуваний іменник.
+1. **C — hers**. Hers замінює her notebook; після нього іменник не потрібен.
 
-2. **B — explain**. Should + основна форма.
-
-3. **A — Describe the problem and ask a clear question.**. Зрозумілий опис допомагає дати доречну пораду.
-
-4. **C — The student has exams.**. Причина — власні іспити.
-
-5. **B — Show the brother how to study independently.**. Порада підтримує самостійність молодшого брата.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Mia has lost her notebook. It is hers. Her homework is in it. She feels worried. You should ask the teacher for help. You should explain what happened.
-
-Модель додаткового висловлення: Mia has lost her notebook. It is hers. Her homework is in it. She feels worried. You should ask the teacher for help. You should explain what happened.
-
-Вправа 5, зразок: A: I need some advice. B: Could you explain? A: A student used to help a younger brother with all his homework. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+2. **B — my**. My стоїть перед book.
 
 ## Рубрика відкритого продукту
 

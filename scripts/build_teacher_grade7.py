@@ -93,7 +93,7 @@ LEX_EXAMPLES={
 68:'Our imaginary sports leaflet lists athletics and weightlifting. Another page explains cycle ball and windsurfing. Visitors read about the sports and choose a reporting topic. No one has to perform the activities.',
 73:'A basketball court has a basket. A tennis player uses a racket and a net. Ice hockey is played on a rink with a stick and a puck. These are vocabulary examples, not instructions to exercise here.',
 86:'Our fictional form lists a rash, a cough, a headache and a sore throat. The character chooses words to explain a symptom to a nurse. Pupils do not diagnose anyone or discuss classmates’ health.',
-91:'The fictional form has the words chest and pain. Another card shows an X-ray and the word injection. A nurse asks one question at a time. The exercise describes language, not medical treatment.',
+91:'The fictional form uses the phrase suffer from pain and the word chest. Another card shows an X-ray and the word injection. A nurse asks one question at a time. The exercise describes language, not medical treatment.',
 104:'The curtain is in front of the stage. The audience sits in seats and on balconies. The lights are above the stage. Our drawing also has a screen for subtitles.',
 109:'Our fictional programme offers a comedy and a cartoon. Another screen shows a science fiction film. A historical film is on later. Viewers can choose a genre without watching frightening content.',
 121:'Our imaginary itinerary lists Kingston and Suva. A second leaflet lists Wellington and Dublin. A third lists London, Ottawa, Washington, DC and Canberra. We practise city names and compare paper routes; we do not need real tickets.',
@@ -141,55 +141,7 @@ def table(rows):
 def practice(g):
  return '\n'.join(f'{i}. {q} → ____________________' for i,(q,a) in enumerate(g['items'],1))
 
-def build(l):
- n=l['number'];u=l['unit'];mode=focus(l)
- # Semester assessments and portfolios sample the relevant half-year, rather than the Starter.
- if u==0 and n>1:u=4 if l['semester']==1 else 8
- b=BANK[u];g=grammar(l,u);c=context(u,n)
- read_u=u-1 if l['kind']=='pair_diagnostic' else u
- if l['kind']=='semester_assessment':read_u=2 if l['semester']==1 else 6
- r=context(read_u,n,1);a=context(u,n,2)
- folder=BASE/f'{n:03d}';folder.mkdir(parents=True,exist_ok=True)
- assessed=mode=='assessment';lr=assessed and ('слухання і читання' in l['topic']);sw=assessed and ('говоріння і письмо' in l['topic']);diag=l['kind']=='pair_diagnostic'
- lex=LEXICAL.get(n,b['lex'])
- lex_table='| English | Українською |\n|---|---|\n'+'\n'.join('| '+en+' | '+uk+' |' for en,uk in lex)
- rquestion=[('Where does the story take place?',r['place']),('When does the event or meeting happen?',r['time']),('What item, activity or document is mentioned?',r['item'])]
- aquest=[('Where does the story take place?',a['place']),('When does the event or meeting happen?',a['time']),('What item, activity or document is mentioned?',a['item'])]
- questions=lambda qs:'\n'.join(f'{i}. {q}\n\n   __________________________________________________________' for i,(q,_) in enumerate(qs,1))
- # Variant-specific lexical retrieval; reversal prevents answer leakage from aligned lists.
- order=list(range(4));shift=n%4;order=order[shift:]+order[:shift];order.reverse()
- choices='; '.join(f'{chr(65+i)} — {lex[idx][1]}' for i,idx in enumerate(order))
- match='\n'.join(f'{i+1}. {lex[i][0]} → ____' for i in range(4))+'\n\nВаріанти: '+choices+'.'
- match_key=', '.join(f'{i+1} — {chr(65+order.index(i))}' for i in range(4))
- pctx=r if read_u==u else c
- model_by_unit={
- 0:f'Hello! Where does the group meet? — In {pctx["place"]}. When does it meet? — {pctx["time"]}. Could you repeat the task, please? — The first task is {pctx["item"]}. Thank you!',
- 1:f'Join our school event! We meet in {pctx["place"]} on {pctx["time"]}. We are preparing {pctx["item"]}. It is for the school anniversary. Members usually collect ideas, but today they are making decorations. You can write a label or present an idea.',
- 2:f'Our friends met in {pctx["place"]} on {pctx["time"]}. They made {pctx["item"]}. Yesterday {pctx["name"]} swept the floor and Alex washed up. At ten Sam was checking the list. The friends shared the work fairly. Could we write a similar plan and take turns?',
- 3:f'Our group meets in {pctx["place"]} on {pctx["time"]}. We have brought {pctx["item"]}. For our paper fruit salad recipe we need apples, bananas and oranges. Use a bowl and a spoon. First, ask an adult to prepare the fruit. Next, put it in the bowl. Finally, stir gently. We have checked the ingredients; we are only writing today.',
- 4:f'The celebration is held in {pctx["place"]} on {pctx["time"]}. Visitors are shown {pctx["item"]}. Paper cards are made by volunteers. Guests are greeted politely. A candle is drawn instead of using a real flame. Visitors can join the activity or quietly observe.',
- 5:f'{pctx["item_cap"]} was played in {pctx["place"]} on {pctx["time"]}. The equipment was checked by the coach. Two teams took part. The final score was 12–10. A prize was given for fair play. Students could help as reporters.',
- 6:f'Good morning. Where is my appointment? — At {pctx["place"]}. When is it? — {pctx["time"]}. I have a sore throat; could you repeat your question, please? I had prepared {pctx["item"]} before I arrived. Thank you for your help.',
- 7:f'I watched {pctx["item"]} in {pctx["place"]} on {pctx["time"]}. The story follows its main characters through a problem. The plot was quite simple, but the acting was very lively. The first half was more interesting than the second half. I liked it because the audience could read subtitles. I would recommend it to a friend who enjoys this kind of story.',
- 8:f'Meet at {pctx["place"]} on {pctx["time"]}. Our itinerary includes {pctx["item"]}. Both attractions are on our paper map. Choose either a short route or a longer route. I suggest the short route because it includes a quiet stop. Finish at the same meeting point.'}
- product_model=model_by_unit[u]
- if mode=='vocabulary':product_model+=' '+LEX_EXAMPLES.get(n,'')
- section=' / '.join(x.get('title_uk',x.get('title','')) for x in l.get('catalog_sections',[])) or 'доданий календарний урок'
- skill={'reading':'читання й аргументована відповідь','vocabulary':'лексичний вибір у контексті','grammar':'граматична точність і пояснення моделі','listening':'розуміння усного повідомлення','speaking':'діалог і ввічливе уточнення','writing':'зв’язний письмовий текст','project':'створення й редагування продукту','review':'відновлення знань і виправлення помилок','assessment':'самостійне виконання діагностичних завдань','portfolio':'порівняння чернетки та покращеного тексту'}[mode]
- core={'reading':'R1–R3 + доказ із тексту','vocabulary':'V1–V4 + 2 власні словосполучення','grammar':'G1–G4 + одне пояснення вибору','listening':'L1–L3 після двох читань','speaking':'S: 4–6 реплік із запитанням і уточненням','writing':'P: 5–6 зв’язних речень','project':'P: чернетка → відгук → чистова картка','review':'V + G + виправлення 2 помилок','assessment':'продукт за специфікацією контролю нижче','portfolio':'F: до → після → пояснення зміни'}[mode]
- # Per-mode tasks create different learning products; all supporting content is supplied.
- task=b['task']
- if mode=='reading':task+=' Додай 2 факти саме з тексту R; підкресли їх у своєму повідомленні. Для цього варіанта можна 6–8 речень/реплік.'
- if mode=='vocabulary':task+=' Використай щонайменше 4 слова зі словничка; обведи їх. Можна додати 2 короткі речення для точного вживання цих слів.'
- if mode=='grammar':task+=' Застосуй сьогоднішню граматичну модель двічі та підкресли допоміжні дієслова.'
- if mode=='listening':task+=' Додай один факт з L; під час слухання познач ключове слово, а після другого читання перевір.'
- if mode=='speaking':task='Ролі: A — автор пропозиції; B — партнер, який уточнює місце й час та пропонує зміну. '+task+' Спочатку 30 секунд подумай; потім обміняйтеся ролями. Самостійний варіант — запиши обидві ролі.'
- if mode=='project':task+=' Продукт: односторінкова картка для іншої групи. Зроби чернетку, отримай відгук «зрозуміло… / уточни…», внеси 2 зміни й познач їх.'
- if mode=='review':task+=' Перед текстом виконай V і G без підказок; потім відкрий модель, виправ 2 місця іншим кольором і поясни одну зміну.'
- if mode=='portfolio':task='Порівняй чернетку F з моделлю; виправ 3 неточності, поясни 2 зміни. '+b['task']+' Наприкінці допиши конкретний навчальний крок: «Наступного разу перевірю…». Емоції не оцінюються.'
- if assessed:task=b['task']+' Виконай самостійно. Достатньо 5–6 речень або 6 реплік із двома запитаннями; оцінюється зміст і зрозумілість, а не публічність відповіді.'
- # Error-editing examples are independently answerable and tied to grammar.
- wrong={'present':('Alex usually read in the club. Today Alex making a poster. Where Alex reads?','Alex usually reads in the club. Today Alex is making a poster. Where does Alex read?'),
+ERRORS={'present':('Alex usually read in the club. Today Alex making a poster. Where Alex reads?','Alex usually reads in the club. Today Alex is making a poster. Where does Alex read?'),
  'past':('Sam sweep the floor yesterday. Did Sam washed up? They did not made a list.','Sam swept the floor yesterday. Did Sam wash up? They did not make a list.'),
  'past_cont':('Sam were cleaning at ten. What Sam was doing? They was washing up.','Sam was cleaning at ten. What was Sam doing? They were washing up.'),
  'perfect':('We has checked the list. Alex has bring a bowl. What Alex has prepared?','We have checked the list. Alex has brought a bowl. What has Alex prepared?'),
@@ -201,523 +153,1088 @@ def build(l):
  'comparison':('This film is more interesting as that one. This play is as long than that film. These tickets cost the same than those tickets.','This film is more interesting than that one. This play is as long as that film. These tickets cost the same as those tickets.'),
  'determiners':('Both visitor gets a leaflet. Each attractions are open. Are there some tickets left?','Each visitor gets a leaflet. Both attractions are open. Are there any tickets left?'),
  'conjunctions':('Both the castle or the museum are open. Choose either the short route and the long route. I choose this route but it includes a quiet stop.','Both the castle and the museum are open. Choose either the short route or the long route. I choose this route because it includes a quiet stop.')}
- gid=next(k for k,v in GRAMMAR.items() if v is g);bad,fixed=wrong[gid]
- admin=f'''# Урок {n:03d} · 7 клас · {l['date']}
 
-**Тема календарного плану:** {l['topic']}  
-**Рік:** 2026/2027. **Семестр:** {l['semester']}. **Статус дати:** {l['calendar_status']}.  
-**Тип / пріоритет:** {l['kind']} / {skill}. **Тематичне джерело каталогу:** {section}.  
-**Це проєкт підготовки, а не запис про фактичне проведення.** Після уроку заповнити [report.md](report.md).
+# Curated texts correspond to individual calendar outcomes, not just the unit name.
+# Every closed comprehension answer is an exact phrase in the supplied text.
+def passage(text,*qas):
+ return {'text':text,'qas':[{'question':q,'answer':a,'evidence':a} for q,a in qas]}
+
+READING={
+1:passage('A new study group has three rules. Ask a clear question when a task is difficult. Take turns so that everyone can contribute. Never tease someone who needs more time. Students can write instead of speaking to the whole class. The first task is to make a short word list together.',('What should a learner ask when a task is difficult?','a clear question'),('Why should members take turns?','so that everyone can contribute'),('What can a student do instead of speaking?','write')),
+2:passage('Mia writes a school blog: I collect stones in the science club. We compare their colours and make labels. Leo replies: I play the guitar in a band. We practise quietly before our concert. Neither club requires an expensive project. New members can borrow materials and choose a small first task.',('What does Mia collect?','stones'),('What does Leo play?','the guitar'),('How can new members get materials?','borrow materials')),
+3:passage('Robin likes reading, but does not want to act on stage. The library club needs someone to recommend books. The drama club needs someone to design posters. Robin asks whether a quiet role is possible. Both clubs say yes. Robin chooses the library club because recommending books fits this hobby.',('What does the library club need?','someone to recommend books'),('Which club does Robin choose?','the library club'),('Why does that choice fit?','recommending books fits this hobby')),
+5:passage('Our fictional school is celebrating its anniversary. Students have prepared an exhibition about the school. One group has collected old photographs; another has written short captions. Visitors can compare the classrooms in the pictures with the rooms today. No student has to give a public speech. A caption is also a useful contribution.',('What have students prepared?','an exhibition'),('What has one group collected?','old photographs'),('What is an alternative to a public speech?','A caption')),
+6:passage('School A holds a concert for its anniversary. Students practise songs and make decorations. School B holds a book exhibition instead. Students write recommendations and arrange the books. Both schools invite visitors and offer quiet jobs. A fictional pupil can compare the two celebrations without describing a real family or school.',('What does School A hold?','a concert'),('What does School B hold?','a book exhibition'),('What do both schools offer?','quiet jobs')),
+18:passage('Alex: I washed up yesterday, but I cannot do every job today. Sam: Let us share the chores. I can sweep the floor. You can dry the dishes. Alex: That is fair. Shall we write a list before we start? Sam: Yes. We can change the plan if someone needs help.',('Which job did Alex do yesterday?','washed up'),('What can Sam do today?','sweep the floor'),('When will they write a list?','before we start')),
+19:passage('Dana writes a post about an imaginary home: Our chore chart is a plan, not a label for a person. Yesterday I tidied the table and my brother fed the pet. We checked the chart together. Next time we will ask which job each person can do. A changed plan does not mean that someone is lazy.',('What did Dana tidy?','the table'),('Who fed the pet?','my brother'),('What will they ask next time?','which job each person can do')),
+21:passage('Three fictional housemates have different timetables. Kim comes home early, so Kim feeds the pet. Leo washes up after dinner. Robin takes out the garbage before leaving in the morning. At the weekend they review the chart. They agree that a fair plan considers available time, not gender.',('Why does Kim feed the pet?','Kim comes home early'),('When does Leo wash up?','after dinner'),('What does a fair plan consider?','available time')),
+22:passage('A class is reading two imaginary chore charts. In Chart A, one child does every job. In Chart B, three children share the jobs and can swap by agreement. The class prefers Chart B because everyone has a manageable task. They ask who checks the chart and how changes are agreed.',('Which chart gives one child every job?','Chart A'),('How can children swap jobs in Chart B?','by agreement'),('Why does the class prefer Chart B?','everyone has a manageable task')),
+33:passage('At an imaginary international dinner, a guest is not sure which utensil to use. The host says, You can ask politely; you do not have to copy everyone. The guest asks before taking a shared dish. Different people may have different customs. Respect means listening and asking, rather than calling another custom strange.',('What can a guest do when unsure?','ask politely'),('When does the guest ask?','before taking a shared dish'),('What does respect mean here?','listening and asking')),
+34:passage('Two fictional guests discuss table manners. One is used to a spoon; the other often uses chopsticks. They agree to offer choices instead of judging a guest. At their paper dinner plan, shared dishes have separate serving utensils. Either guest can ask the host to explain a custom. A polite question is more useful than a stereotype.',('What does the second guest often use?','chopsticks'),('What do shared dishes have?','separate serving utensils'),('What is more useful than a stereotype?','A polite question')),
+36:passage('A paper recipe has three stages: prepare the ingredients, combine them, and write a serving suggestion. Mia has checked the list but has not written the last stage yet. A friend suggests a clear order: first, next, finally. The group is only editing instructions. No food, heat or sharp tools are used in this lesson.',('What is the first stage?','prepare the ingredients'),('Which stage has Mia not written?','the last stage'),('Which words show order?','first, next, finally')),
+37:passage('A fictional food artist creates a picture using shapes of fruit on a plate. The plate is like a canvas. First, the artist sketches the design on paper. An adult prepares the pieces; the pupils only arrange paper shapes in this lesson. The artist wants viewers to notice colour and pattern, not the price of the food.',('What is compared with a canvas?','The plate'),('What does the artist do first?','sketches the design on paper'),('What should viewers notice?','colour and pattern')),
+48:passage('Two fictional pen pals describe winter celebrations. One makes greeting cards; the other tells a story at a community meeting. Their customs differ, but both ask before sharing another person’s photograph. A class display uses invented names and drawings. Visitors may compare the traditions or simply observe without joining a celebration.',('What does the first pen pal make?','greeting cards'),('What do both ask before sharing?','another person’s photograph'),('What does the display use?','invented names and drawings')),
+49:passage('An invented family in Ukraine describes its own spring celebration. They decorate paper eggs and write greetings. One member prefers drawing to singing, and that choice is accepted. Their blog says, This is our family example, not a rule for everyone in Ukraine. Readers can describe an invented tradition instead of personal experiences.',('What do the characters decorate?','paper eggs'),('Which choice is accepted?','drawing to singing'),('Is this a rule for everyone?','not a rule for everyone in Ukraine')),
+51:passage('A class compares two invented New Year celebrations. In Story A, people exchange written wishes before midnight. In Story B, they create a paper calendar together the next morning. Both stories are examples, not descriptions of an entire country. The pupils compare the time and the activity, and avoid saying that everyone celebrates alike.',('What is exchanged in Story A?','written wishes'),('What is created in Story B?','a paper calendar'),('What two features do pupils compare?','the time and the activity')),
+66:passage('School sports news: A friendly table tennis game was played yesterday. Mia won one game, and Leo won the next. The reporter checked the result with both players before writing the post. The report praised fair play and clear rules. It did not describe the losing player as a failure.',('Which sport is reported?','table tennis'),('Who checked the result?','The reporter'),('What did the report praise?','fair play and clear rules')),
+67:passage('A fictional school newsletter has two sports headlines. The first reports a new chess club; the second reports a swimming team. The editor asks reporters to check names and results before publication. If a result is uncertain, they write that it needs checking. Accuracy matters more than posting first.',('What club is new?','a new chess club'),('What should reporters check?','names and results'),('What matters more than posting first?','Accuracy')),
+69:passage('At a school exhibition about the Olympic Games, a group chooses three topics: different sports, athletes, and fair play. One poster shows that taking part requires practice. Another asks how an audience can show respect. The exhibition is not a list of current medal results. Pupils write questions rather than guessing facts they have not checked.',('Which three topics are chosen?','different sports, athletes, and fair play'),('What does taking part require?','practice'),('What do pupils write instead of guessing facts?','questions')),
+70:passage('An imaginary interview at an Olympic exhibition has three questions: Which sport is shown? What equipment is needed? How can spectators show respect? The guide answers only questions supported by the display. When the date of an event is missing, the guide says it needs checking. A good question helps a reader find reliable information.',('What is the first interview question?','Which sport is shown?'),('Which questions does the guide answer?','questions supported by the display'),('What happens when a date is missing?','the guide says it needs checking')),
+84:passage('In a fictional school story, a pupil notices that a character needs adult help. The pupil calls the responsible adult and describes what has been observed in simple words. The class does not practise treatment or invent a diagnosis. The language task is to identify the person, the place and the need for help. Real action follows the school safety procedure.',('Whom does the pupil call?','the responsible adult'),('What does the pupil describe?','what has been observed'),('What must the class not invent?','a diagnosis')),
+85:passage('A message card in an invented story says: An adult is needed in Room 5. A pupil is sitting near the door and says they feel unwell. Please send the responsible adult. The speaker gives a clear location and observed details. The message contains no guess about an illness and no medicine instructions.',('Where is an adult needed?','Room 5'),('Where is the fictional pupil sitting?','near the door'),('What does the message avoid guessing?','an illness')),
+87:passage('A fictional patient arrives for an appointment. Before the visit, the patient had written a short symptom note. The receptionist checks the name on the appointment card. The nurse asks one question at a time and allows the patient to read the note. The patient can ask for a question to be repeated. This story practises language, not diagnosis.',('What had the patient written?','a short symptom note'),('What does the receptionist check?','the name on the appointment card'),('What may the patient ask?','for a question to be repeated')),
+88:passage('An invented doctor begins by listening to the patient. Next, the doctor asks clear questions and checks the written note. The patient asks what a difficult word means. The doctor explains it in simpler language. In our language lesson, no pupil plays the role of choosing treatment. The useful skill is asking for clarification.',('What does the doctor do first?','listening to the patient'),('What does the patient ask about?','a difficult word'),('Which useful skill is practised?','asking for clarification')),
+102:passage('A fictional film blog describes a comedy about two robots who lose their map. They ask a musician for help and learn to listen to each other. The plot is simple, but the dialogue is lively. The blogger recommends it to viewers who enjoy gentle humour. No real film or age rating is being reviewed.',('What do the robots lose?','their map'),('Whom do they ask for help?','a musician'),('Who may enjoy the story?','viewers who enjoy gentle humour')),
+103:passage('Two invented viewers disagree about a film. Kim enjoys the funny dialogue, while Robin prefers a story with more action. They give reasons instead of saying that one viewer has bad taste. Their class poll allows a third answer: neither film. A recommendation can be useful even when another person chooses differently.',('What does Kim enjoy?','the funny dialogue'),('What does Robin prefer?','a story with more action'),('What third answer does the poll allow?','neither film')),
+105:passage('An imaginary theatre exhibition compares two model buildings. Theatre A has a wide stage and a small audience area. Theatre B has balconies and a narrow stage. The guide explains the difference between a live performance and a film on a screen. Pupils describe the models; real theatre names and historical facts require a checked source.',('What is wide in Theatre A?','a wide stage'),('What does Theatre B have above its seats?','balconies'),('Which two forms does the guide compare?','a live performance and a film on a screen')),
+106:passage('A pupil presents a fictional theatre called River Theatre. Its leaflet shows a stage, rows of seats and two balconies. The audience can read a short summary before the play. The presentation describes the building first and the programme second. The pupil clearly labels all invented details instead of presenting them as facts about a real theatre.',('What is the theatre called?','River Theatre'),('What can the audience read?','a short summary'),('What is described first?','the building')),
+119:passage('A classroom travel folder is labelled United Kingdom. Four separate cards are labelled England, Scotland, Wales and Northern Ireland. Learners compare the names and prepare questions for a guide. One card uses a drawing of a double-decker bus, another a coastline. The task is to read the supplied cards; no learner needs to claim they have travelled there.',('How many separate cards are described?','Four'),('Which card name begins with N?','Northern Ireland'),('What do learners prepare for a guide?','questions')),
+120:passage('A fictional blogger is preparing a city post headed London. The draft has three parts: a title, a description of two places on the paper map, and an invitation to ask questions. A peer says the map needs clearer labels. The blogger adds the labels before publishing the classroom draft. No real opening times or prices are claimed.',('What is the heading of the post?','London'),('What needs clearer labels?','the map'),('When are labels added?','before publishing the classroom draft')),
+122:passage('A paper exhibition shows three named landmarks: Tower Bridge, the Sydney Opera House and the White House. Each card has a name and a labelled drawing. Pupils practise describing shape and purpose using the information provided. If a card gives no date, they do not invent one. Their final product is a short comparison of two cards.',('How many named landmarks are shown?','three'),('What does each card have?','a name and a labelled drawing'),('What is the final product?','a short comparison of two cards')),
+123:passage('A fictional walking leaflet for Kyiv has two stops labelled Golden Gate and a public garden. The paper route begins at a meeting point and finishes at the same place. A quiet stop is marked between the two attractions. Pupils describe this invented route, not a real safe walking route. They can change the plan on paper without giving a home address.',('Which named stop is included?','Golden Gate'),('Where does the paper route finish?','at the same place'),('What is marked between the attractions?','A quiet stop')),
+}
+
+# Thematic default questions examine actions, reasons and language, never a universal place/time/item triplet.
+UNIT_Q={
+0:[('What is one useful tip?','ask a clear question'),('What do members take?','turns'),('What does the learner ask for politely?','help')],
+1:[('What are members preparing for?','the school anniversary'),('What is the learner making today?','a decoration'),('What can everyone choose?','a useful role')],
+2:[('What did the learner do yesterday?','swept the floor'),('What was Sam doing at ten?','checking the list'),('How were the tasks shared?','fairly')],
+3:[('What have members already checked?','the ingredients'),('Who manages sharp tools?','An adult'),('What do the students write today?','instructions')],
+4:[('Who makes the cards?','volunteers'),('What is used instead of a real flame?','A drawing of a candle'),('What can visitors do instead of taking part?','quietly observe')],
+5:[('Who checked the equipment?','the coach'),('What was the prize given for?','fair play'),('Which alternative role could students choose?','reporters')],
+6:[('What symptom does the fictional character describe?','a sore throat'),('What does the receptionist offer for language help?','a paper form'),('How many questions does the nurse ask at a time?','one question')],
+7:[('How is the plot described?','quite simple'),('What could the audience read?','subtitles'),('Why did the friend prefer the ending?','it was less predictable')],
+8:[('What does each visitor receive?','a leaflet'),('Which route does the learner choose?','the short route'),('Why is that route chosen?','it includes a quiet stop')],
+}
+OLD_CONTEXT=context
+def context(u,n,offset=0):
+ d=OLD_CONTEXT(u,n,offset)
+ # Avoid inaccurate full-game scores across different sports; this is a reporting task.
+ if u==5:d['text']=d['text'].replace('the final score was 12–10','the reporter checked the score before publication')
+ # A cooking club is a group, not a room; grammar must remain natural in every variant.
+ d['text']=d['text'].replace('to the cooking club','to a meeting of the cooking club').replace('in Room 12','in Room 12')
+ d['qas']=[{'question':q,'answer':a,'evidence':a} for q,a in UNIT_Q[u]]
+ return d
+
+# Specific spoken/written products replace the former generic event invitation.
+PRODUCT={
+11:('Проведи мініопитування вигаданого співрозмовника про гурток: 2 запитання (вибір і причина), 2 відповіді та підсумок. 5–6 реплік.','A: Which club would you choose? B: The library club. A: Why? B: Because I enjoy recommending books. A: I will record one vote for the library club. B: Thank you.'),
+12:('Напиши допис для вигаданого шкільного сайту: подія, дві дії учнів, спосіб участі без виступу, завершення. 5 речень.','Our school is preparing an anniversary exhibition. One group is collecting photographs. Another group is writing captions. You can write a label instead of making a speech. Come and see the display.'),
+27:('У6 репліках домовтеся про підготовку вигаданого свята: 2 справи, розподіл ролей, ввічливе уточнення.','A: Shall we prepare the room? B: Yes. I can tidy the tables. A: I can make decorations. B: Could you repeat your job? A: I can make decorations. B: Good, let us write the plan.'),
+28:('Напиши5-реченнєве повідомлення про вигаданий день домашніх справ: привітання, 2 виконані справи, прохання, завершення.','Hi Sam! Yesterday I swept the floor. My friend washed up. Could we share the jobs again tomorrow? Thank you for your help.'),
+42:('Поясни роботу кухонного приладдя у6 репліках: запитай про предмет, назви функцію, уточни деталь. Лише мовний опис, нічого не вмикаємо й не готуємо.','A: What is this? B: It is a grater. A: What is it used for? B: It is used for grating food. A: Could we label it on paper? B: Yes, let us write its name and function.'),
+43:('Опиши вигадану страву у5–6 коротких реченнях: назва, 3 інгредієнти, два предмети посуду, причина вибору. Не потрібно рецепта з3 кроками.','My imaginary dish is fruit salad. It has apples, bananas and oranges. We use a bowl and a spoon. It is colourful. I chose it because the ingredients are easy to name.'),
+56:('У6 репліках обговори вигадане родинне святкування Thanksgiving: чим дякують, як можуть долучитися гості, одне уточнення. Це одна придумана родина, а не правило для країни.','A: What does the family do at its imaginary Thanksgiving meal? B: They write thank-you notes. A: Must every guest read a note aloud? B: No, a guest can leave a written note. A: Could I draw a card instead? B: Yes, that is another way to join.'),
+57:('Напиши короткий email про Easter у вигаданій родині: привітання, 2 конкретні традиції, прийняття іншого вибору, завершення.5 речень.','Hi Kim! In our imaginary family, we decorate paper eggs at Easter. We also write greeting cards. Guests can join or quietly observe. Write back when you can. Best wishes, Robin.'),
+75:('У6 репліках прочитай/розіграй розмову про underwater hockey: що це за назва, де відбувається гра за карткою, яке приладдя показано; попроси уточнення. Картка: underwater hockey; pool; stick; puck. Нічого не випробовуємо.','A: Which sport is on the card? B: Underwater hockey. A: Where is it played according to the card? B: In a pool. A: Could you name the equipment? B: A stick and a puck.'),
+76:('У6 репліках запитай про вигаданий спортивний гурток: назва спорту, час, спосіб участі як репортер.','A: Which club is open? B: The table tennis club. A: When does it meet? B: On Friday at three. A: Can I join as a reporter? B: Yes, you can write our news.'),
+77:('Напиши5-реченнєвий блог про вигадану спортсменку/спортсмена: спорт, тренування, конкретне досягнення, fair play, висновок. Не приписуй вигаданих рекордів реальній людині.','Dana is a fictional table tennis player. She practises twice a week. Last month she won a school game. She thanked her opponent and checked the score. I admire her fair play.'),
+94:('У6 репліках зіграй вигадані ролі patient/receptionist: симптом персонажа, запит допомоги дорослого, повторення запитання, подяка. Мовні рекомендації обмежені зверненням до відповідального дорослого; діагнозу й ліків немає.','A: Good morning. I have a sore throat. B: Would you like me to call the responsible adult? A: Yes, please. Could you repeat your question? B: Shall I call the responsible adult? A: Yes, thank you for your help.'),
+95:('Напиши5-реченнєвий email від вигаданого персонажа: проблема зі самопочуттям, звернення до дорослого, факт розмови з медпрацівником, завершення. Без назв ліків, доз і лікувальних рекомендацій.','Hi Sam! My fictional character had a sore throat. The character asked a responsible adult for help. A nurse listened and explained the next steps privately. I will write again later. Best wishes, Kim.'),
+111:('Порекомендуй вигаданий фільм у6 репліках: назва/жанр, одна оцінка, причина, ввічливе прийняття іншого вибору.','A: Would you recommend Lost Robots? B: Yes, it is a comedy. A: Why do you like it? B: The dialogue is quite funny. A: I prefer an action story. B: That is fine; we can choose different films.'),
+112:('Напиши5–6-реченнєву рецензію на вигаданий фільм: назва/жанр, конкретний сюжет, 2 оцінки з причинами, рекомендація.','Lost Robots is a fictional comedy. Two robots lose a map and ask a musician for help. The plot is clear because the problem is simple. The dialogue is lively because the characters disagree politely. I recommend it to viewers who enjoy gentle humour.'),
+128:('У6 репліках презентуй паперову картку вигаданого визначного місця: назва,2 ознаки з картки, уточнення. Картка: River Castle; two towers; a small garden. Фото замінює намальована картка; інтернет не потрібний.','A: My card shows River Castle. B: What can visitors see? A: Two towers and a small garden. B: Could you repeat the second feature? A: A small garden. B: Thank you; the description is clear.'),
+129:('Напиши туристичний мінібуклет із5–6 речень про вигаданий маршрут: точка зустрічі,2 об’єкти,2 варіанти шляху, причина вибору, точка завершення.','Meet at River Castle gate. Our route includes the castle and a public garden. Choose either the short route or the long route. I suggest the short route because it includes a quiet stop. Finish at the same gate.'),
+}
+LISTENING={
+8:passage('Our school anniversary is next week. One group will make decorations, and another will perform a short play. The organiser asks each member to choose a role. A pupil who does not want to speak can write labels for the exhibition. Please tell the organiser your choice before the group writes its plan.',('Which event is being prepared?','school anniversary'),('What will the second group perform?','a short play'),('Which quiet role is offered?','write labels')),
+24:passage('In our imaginary home, Alex usually washes up and Sam dries the dishes. Yesterday they changed the jobs because Alex was busy with a school task. Sam washed up, and Robin dried the dishes. They agreed on the change before starting. The story is about a flexible plan, not about what every family must do.',('Who usually washes up?','Alex'),('Who dried the dishes yesterday?','Robin'),('When was the change agreed?','before starting')),
+39:passage('This is a paper recipe for fruit salad. The ingredients are an apple, a banana and an orange. The utensils are a bowl and a spoon. First, an adult prepares the fruit. Next, the pieces go into the bowl. Finally, they are stirred gently. The pupils only write these instructions; they do not prepare food in class.',('Name the three ingredients.','an apple, a banana and an orange'),('Which two utensils are named?','a bowl and a spoon'),('What happens finally?','they are stirred gently')),
+53:passage('Two invented families describe winter traditions. At an imaginary Christmas gathering, one family makes paper stars. At New Year, another family writes wishes for the coming year. Neither story describes everyone in a country. Guests can join the activity or quietly observe. The class compares what people make and write, without asking pupils to share personal beliefs.',('What does the first family make?','paper stars'),('What does the second family write?','wishes for the coming year'),('What may guests do instead of joining?','quietly observe')),
+72:passage('A: Which sport is on this club card? B: Water polo. A: What does the card show? B: A pool, two teams and a ball. A: Is this the underwater hockey card? B: No, that is a different card. Today we only compare the names and equipment on paper. Nobody practises a water sport in this classroom.',('Which sport is discussed?','Water polo'),('What playing object is on the card?','a ball'),('Which other sport is mentioned?','underwater hockey')),
+90:passage('A fictional character reads a short verse: I have a note; I have a question. Please listen first to my suggestion. Ask one thing, then let me say: I need an adult here today. After the verse, the character describes a sore throat on a paper card. The class practises polite requests and a symptom phrase, without diagnosis or treatment.',('What does the character have besides a note?','a question'),('Whom does the character request?','an adult'),('What symptom is on the card?','a sore throat')),
+108:passage('A school radio story introduces a fictional actor, Robin Ray. Robin began in a school play and later worked on an imaginary comedy about robots. Robin practises clear speech before a performance. A reviewer praises the lively dialogue. The biography is invented for this lesson; it does not claim facts about a real actor.',('What is the fictional actor called?','Robin Ray'),('Where did Robin begin?','a school play'),('What does the reviewer praise?','the lively dialogue')),
+125:passage('Listen to an invented classroom guide for Kyiv. Our paper map marks Golden Gate and a public garden. The suggested route begins and ends at the same meeting point. A quiet stop is marked between the attractions. This is a language map, not a real route for travel during an alert. Learners describe the labelled stops and explain one choice.',('Which named landmark is marked?','Golden Gate'),('Where does the route end?','the same meeting point'),('What is marked between the attractions?','A quiet stop')),
+}
+GRAMMAR['tags']=dict(rule='Present Simple/Continuous та question tags: після ствердження заперечний хвостик; допоміжне дієслово й займенник узгоджені з основою.',model='Alex reads every day, doesn’t he? Mia is making a poster, isn’t she? They do not meet today, do they?',items=[('Alex usually ___ books. (read / reads)','reads'),('Mia ___ making a poster now. (is / does)','is'),('Alex reads every day, ___ he? (doesn’t / isn’t)','doesn’t'),('They do not meet today, ___ they? (do / are)','do')])
+ERRORS['tags']=('Alex read every day. Mia making a poster now. Alex reads, isn’t he?','Alex reads every day. Mia is making a poster now. Alex reads, doesn’t he?')
+
+# Two transformations per grammar family; their complete answers are independently authored.
+TRANSFER={
+'present': [('Запитай про звичку: Alex reads books every day. (What…?)','What does Alex read every day?'),('Запитай про дію зараз: Mia is making a poster. (What…?)','What is Mia making?')],
+'past':[('Зроби запитання: Sam swept the floor yesterday.','Did Sam sweep the floor yesterday?'),('Зроби заперечення: They made a chart.','They did not make a chart.')],
+'past_cont':[('Запитай про процес: Sam was cleaning at ten. (What…?)','What was Sam doing at ten?'),('Запитай про учасників: They were washing up.','Were they washing up?')],
+'perfect':[('Запитай про результат: Alex has brought a bowl. (What…?)','What has Alex brought?'),('Запитай: They have checked the ingredients.','Have they checked the ingredients?')],
+'passive':[('Пасив: Volunteers make cards.','Cards are made by volunteers.'),('Запитай про місце: Cards are made in the hall. (Where…?)','Where are cards made?')],
+'past_passive':[('Пасив: The coach checked the equipment.','The equipment was checked by the coach.'),('Запитай про місце: The match was played in the gym. (Where…?)','Where was the match played?')],
+'zero':[('Поєднай if: A visitor needs language help. The receptionist offers a form.','If a visitor needs language help, the receptionist offers a form.'),('Поєднай if: I do not understand. I ask a question.','If I do not understand, I ask a question.')],
+'past_perfect':[('Познач ранішу дію: Alex prepared the form. Then the visit began.','Alex had prepared the form before the visit began.'),('Запитай про ранішу дію: Alex had prepared the form. (What…?)','What had Alex prepared?')],
+'degree':[('Розташуй слова: clear / enough / The subtitles / are.','The subtitles are clear enough.'),('Розташуй слова: too / to read / The screen / small / is.','The screen is too small to read.')],
+'comparison':[('Порівняй за підказкою: Film A: interesting 5/5; Film B: interesting 3/5. (more…than)','Film A is more interesting than Film B.'),('Рівність: Both plays last 60 minutes. (as long as)','The first play is as long as the second play.')],
+'determiners':[('Опиши за each: There are three visitors. Every visitor gets a leaflet.','Each visitor gets a leaflet.'),('Опиши за both: There are two attractions. The two attractions are open.','Both attractions are open.')],
+'conjunctions':[('Вибір за either…or: You can take the short route. You can take the long route.','You can take either the short route or the long route.'),('Причина за because: I choose the short route. It includes a quiet stop.','I choose the short route because it includes a quiet stop.')],
+ 'tags':[('Додай хвостик: Alex reads every day, …?','Alex reads every day, doesn’t he?'),('Додай хвостик: Mia is making a poster, …?','Mia is making a poster, isn’t she?')],
+}
+
+MODE_UK={'reading':'читання','vocabulary':'лексика','grammar':'граматика','listening':'слухання','speaking':'усна взаємодія','writing':'письмо','project':'проєкт','review':'повторення','assessment':'діагностика','portfolio':'портфоліо'}
+
+def effective_unit(l):
+ if l['unit']:return l['unit']
+ return 0 if l['number']==1 else (4 if l['semester']==1 else 8)
+
+def grammar_id(l,u):
+ if l['number'] in (64,65):return 'tags'
+ if l['number'] in (136,139,140):return 'past_passive'
+ selected=grammar(l,u)
+ return next(k for k,v in GRAMMAR.items() if v is selected)
+
+def alternate(p):
+ """Equivalent reserve: new character/objects/actions, same three comprehension constructs."""
+ substitutions=[('volunteers','older pupils'),('the coach','the organiser'),('a sore throat','a headache'),('a paper form','a printed card'),('a leaflet','a route card'),('the short route','the accessible route'),('a decoration','a poster'),('the ingredients','the utensils'),('a bowl','a saucepan'),('subtitles','a written summary'),('quite simple','very clear'),('fair play','teamwork'),('reporters','scorekeepers'),('swept the floor','dried the dishes'),('checking the list','reading the plan'),('fairly','by agreement'),('paper stars','paper lanterns'),('written wishes','greeting cards'),('a question','a request')]
+ text=p['text'];qas=[dict(x) for x in p['qas']]
+ for old,new in substitutions:
+  if old.lower() in text.lower():
+   text=re.sub(re.escape(old),new,text,flags=re.I)
+   for q in qas:
+    for k in ('question','answer','evidence'):q[k]=re.sub(re.escape(old),new,q[k],flags=re.I)
+ # Reserve must be substantively distinct, rather than another sheet with the same answer key.
+ assert text!=p['text']
+ return {'text':text,'qas':qas}
+
+def simple_product(u):
+ options={
+0:('Створи6 реплік вигаданої навчальної групи: запит завдання, уточнення, відповідь і подяка.','A: What is our task? B: Make a word list. A: Could you repeat that, please? B: Make a short word list. A: Can I write my answer? B: Yes, thank you for asking.'),
+1:('Створи коротку картку вигаданої шкільної події: назва, дві дії учнів, тихий спосіб долучитися.4 речення.','Our event is a school exhibition. One group is collecting pictures. Another group is writing captions. You can write a label instead of giving a speech.'),
+2:('Напиши4 речення про вигаданий розподіл справ:2 виконані дії, процес у певну мить, ввічлива пропозиція.','Sam swept the floor yesterday. Alex washed up. At ten Robin was checking the list. Could we share the jobs again?'),
+3:('Створи4-реченнєву паперову картку: назва страви,3 інгредієнти,2 предмети посуду, одне речення Present Perfect про підготовку. Без реального готування.','Our dish is fruit salad. We need an apple, a banana and an orange. We use a bowl and a spoon. We have checked the ingredients.'),
+4:('Напиши4 речення про вигадане свято: що проводять, що роблять/показують, хто створює матеріал і як можна спостерігати.','A paper festival is held in our imaginary hall. Cards are made by volunteers. Drawings are shown to visitors. Guests can join or quietly observe.'),
+5:('Напиши4-реченнєву спортивну новину про вигадану подію: що відбулося, хто перевірив спорядження,2 речення Past Simple Passive, згадка fair play.','A school game was organised yesterday. The equipment was checked by the coach. The report praised fair play. The result was checked before publication.'),
+6:('Склади6 реплік вигаданого відвідувача й реєстратора: симптом, ввічливе уточнення, звернення до дорослого й подяка. Без діагнозу/ліків.','A: I have a sore throat. B: Shall I call the responsible adult? A: Could you repeat that, please? B: Shall I call the responsible adult? A: Yes, please. B: Thank you for explaining.'),
+7:('Напиши4-реченнєвий відгук про вигаданий фільм: назва, конкретний сюжет, оцінка з причиною, рекомендація.','Lost Robots is a fictional comedy. Two robots lose a map and ask a musician for help. I like the dialogue because it is funny. I recommend it to viewers who enjoy gentle humour.'),
+8:('Напиши4-реченнєвий мінібуклет вигаданого маршруту:2 об’єкти, вибір двох маршрутів, причина, точка завершення.','Our route includes a castle and a garden. Choose either a short route or a long route. I suggest the short route because it includes a quiet stop. Finish at the castle gate.'),
+ }
+ return options[u]
+
+# 136 genuinely integrates the four topics named in its calendar title.
+INTEGRATED=passage('At a fictional travel fair, one card describes a castle route with a quiet stop. A sports card says the equipment was checked by the coach. A cinema card recommends a comedy because its dialogue is funny. A health-room card asks a responsible adult for help. Visitors choose a card and explain which phrase supports their answer.',('What does the castle route include?','a quiet stop'),('Who checked the equipment?','the coach'),('Why is the comedy recommended?','its dialogue is funny'))
+
+
+def profile(l):
+ n=l['number'];u=effective_unit(l);mode=focus(l)
+ if l['kind']=='integrated_review':mode='review'
+ gid=grammar_id(l,u);g=GRAMMAR[gid]
+ r=READING.get(n,context(u,n,1));a=LISTENING.get(n,context(u,n,2))
+ if n in (81,99,116,133):
+  a=LISTENING[{81:72,99:90,116:108,133:125}[n]]
+ if l['kind']=='pair_diagnostic':r=context(u-1,n,1)
+ if l['kind']=='semester_assessment':
+  # L+R together sample all four semester units, rather than only the last unit.
+  us=range(1,5) if l['semester']==1 else range(5,9)
+  cards=[context(v,n,1) for v in us]
+  r=passage(' '.join(x['text'] for x in cards[:2]),*[ (x['qas'][0]['question'],x['qas'][0]['answer']) for x in cards[:2] ],(cards[0]['qas'][1]['question'],cards[0]['qas'][1]['answer']))
+  a=passage(' '.join(x['text'] for x in cards[2:]),*[ (x['qas'][0]['question'],x['qas'][0]['answer']) for x in cards[2:] ],(cards[3]['qas'][1]['question'],cards[3]['qas'][1]['answer']))
+ if n==136:r=INTEGRATED
+ lex=LEXICAL.get(n,BANK[u]['lex'])
+ task,model=PRODUCT.get(n,simple_product(u))
+ if mode=='vocabulary':
+  r=passage(LEX_EXAMPLES[n],*[(f'Знайди англійський відповідник «{uk}».',en) for en,uk in lex[:3]])
+  task='Напиши4 короткі речення за словником: використай перші4 слова/вирази по одному разу в осмисленому контексті. Дозволено вигадані персонажі; не вживай ярликів до однокласників.'
+  model=LEX_EXAMPLES[n]
+ if mode=='reading':
+  task='Дай3 короткі відповіді R; до двох випиши2–4 слова-докази. Потім2 речення: один точний факт і одна ввічлива реакція/запит до тексту. Нової події вигадувати не треба.'
+  model=f"{r['qas'][0]['answer']}. Could you explain the detail about {r['qas'][1]['answer']}?"
+ if mode=='listening':
+  task='Після двох читань запиши3 факти L. Потім2 речення-перекази з двома різними фактами; можна короткі цитати. Не додавай непочутих деталей.'
+  model=' '.join(q['answer'].rstrip('.')+'.' for q in a['qas'][:2])
+ if mode=='grammar':
+  task='Виконай G1–G4 і T1–T2; поясни один вибір. Новий великий тематичний текст не потрібний.'
+  model=' '.join(answer for _,answer in TRANSFER[gid])
+ if mode=='review':
+  task='Віднови4 слова V, виконай G1–G2 та виправ2 місця у F. Після самоперевірки поясни одну зміну; великий новий текст — лише резерв.'
+  model=ERRORS[gid][1]
+ if n==136:
+  task='За4 картками: дай R1–R3; додатково знайди фразу звернення по допомогу; виконай G1–G2 Past Simple Passive.2 речення пояснення вибору картки — резерв.'
+  model='The equipment was checked by the coach. The comedy is recommended because its dialogue is funny. The health-room card asks a responsible adult for help.'
+ if mode=='portfolio':
+  task='Збережи версії F «до» й «після»; виправ3 мовні помилки, поясни2 зміни, додай1 власне застосування моделі й1 конкретний наступний крок. Не потрібно нового повного проєкту.'
+  model=ERRORS[gid][1]+' '+TRANSFER[gid][0][1]+' Next time I will check the auxiliary verb.'
+ if mode=='project':
+  task+=' Це компактний проєкт: чернетка, один точний відгук,2 позначені зміни. Коротка презентація20–30 секунд за можливості; якщо не почуто — позначити відкладено.'
+ # Main load is explicit. Other tasks stay in the teacher's reserve instead of the student packet.
+ core={
+ 'reading':['R: 3 відповіді','P: 2 речення з опорою на текст'],
+ 'listening':['L: 3 відповіді після двох читань','P: 2 факти-перекази'],
+ 'grammar':['G: 4 вибори','T: 2 перетворення'],
+ 'vocabulary':['V: 4 відповідності','P: 4 короткі речення'],
+ 'speaking':['S: 5–6 реплік за ролями','P: 2 ключові фрази до діалогу'],
+ 'writing':['P: 5–6 коротких речень','редагування: 1 зміна'],
+ 'project':['P: компактна картка/чернетка','2 правки і коротка презентація за можливості'],
+ 'review':['V: 4 відповідності','G: 2 вибори','F: 2 корекції'],
+ 'portfolio':['F: 3 корекції + 2 пояснення','1 власна модель + 1 наступний крок'],
+ 'assessment':['тільки визначені контрольні блоки'],
+ }[mode]
+ if n==136:core=['R: 3 факти з карток + фраза допомоги','G: 2 вибори']
+ return dict(number=n,u=u,mode=mode,gid=gid,g=g,r=r,a=a,lex=lex,task=task,model=model,core=core,source=l)
+
+
+def qsheet(p):
+ return '\n\n'.join(f"{i}. {x['question']}\n\n   ______________________________________________________________" for i,x in enumerate(p['qas'],1))
+
+def qkey(p):
+ return '\n'.join(f"{i}. **{x['answer'].rstrip('.')}**. Доказ у тексті: «{x['evidence']}»." for i,x in enumerate(p['qas'],1))
+
+
+def matching(p):
+ lex=p['lex'];n=p['number'];order=list(range(4));shift=n%4;order=order[shift:]+order[:shift];order.reverse()
+ prompt='\n'.join(f'{i+1}. {lex[i][0]} → ____' for i in range(4))+'\n\n'+ '; '.join(f'{chr(65+j)} — {lex[i][1]}' for j,i in enumerate(order))+'.'
+ key=', '.join(f'{i+1} — {chr(65+order.index(i))}' for i in range(4))
+ return prompt,key
+
+
+def rubric(p):
+ if p['source']['kind']=='pair_diagnostic':return 'L /3, R /3: по1 за кожний правильний факт; S /3: по1 за запит, змістовну відповідь та уточнення; P /3: по1 за відповідність темі, потрібні деталі та мовну зрозумілість. Первинні12 балів з4 окремими профілями.'
+ if p['mode']=='assessment' and 'слухання і читання' in p['source']['topic']:return 'L /3 та R /3: по1 за кожний точний факт. Первинні6 балів; ці два результати зберігаються окремо.'
+ if p['mode']=='assessment':return 'S /6: виконання ролі/запитів, зрозумілість і відповідь/уточнення — по0–2. P /6: зміст, організація, мовна зрозумілість — по0–2. Первинні12 балів; S та P окремо.'
+ return 'Формувально: точність факту/форми позначати окремо. Відкритий продукт: зміст, організація та мовна зрозумілість — по0–2, для зворотного зв’язку.'
+
+
+def write(path,text):
+ text=re.sub(r'(?<!\.)\.\.(?!\.)','.',text)
+ text=re.sub(r'([А-Яа-яІіЇїЄєґҐ])([0-9])',r'\1 \2',text)
+ text=re.sub(r'([0-9])([А-Яа-яІіЇїЄєґҐ])',r'\1 \2',text)
+ path.write_text(text.rstrip()+'\n',encoding='utf-8')
+
+
+def learner_sheet(p,reserve=False):
+ l=p['source'];n=p['number'];mode=p['mode'];r=alternate(p['r']) if reserve else p['r'];a=alternate(p['a']) if reserve else p['a'];g=p['g'];assessed=mode=='assessment';diag=l['kind']=='pair_diagnostic';lr=assessed and ('слухання і читання' in l['topic']);sw=assessed and not lr and not diag
+ title='Резерв після переривання' if reserve else 'Основний аркуш'
+ s=f'''# 7 клас · {n:03d} · {l['date']} · {title}
+
+**Тема:** {l['topic']}  
+Код учня: ____________________ Фактична дата: ____________________
+
+Усі життєві ситуації можна вигадати. Камера добровільна. Особисті історії не потрібні. За небезпечних умов припини завдання; у русі до укриття не вчимося.
+
+**Сьогодні обов’язково:** {'; '.join(p['core'])}. Резерв учитель дає лише замість завершеного блоку. Не потрібно виконувати всі вправи з конспекту.
+
+'''
+ if assessed:
+  s+='**Самостійна перевірка:** '+rubric(p)+' За переривання зберігаємо завершене й переносимо решту; читання не зараховуємо як слухання, чат — як говоріння.\n\n'
+ else:
+  # Four working items; the rest is a reference, not eight new words to test.
+  s+='## Опора · 4 робочі слова\n\n'+ '; '.join(en+' — '+uk for en,uk in p['lex'][:4])+'.\n\n'
+  s+='Складні слова з авторської картки можна уточнити в учителя; це не новий обов’язковий словниковий диктант.\n\n'
+ if mode=='reading' or (assessed and (lr or diag)) or n==136:
+  s+='## R · Прочитай\n\n'+r['text']+'\n\n'+qsheet(r)+'\n\n'
+  if n==136:s+='4. Знайди в тексті фразу звернення до дорослого: __________________________\n\n'
+ if mode=='listening' or (assessed and (lr or diag)):
+  s+='## L · Прослухай двічі\n\nЗакрий додаток L; учитель читає двічі. Якщо звук недоступний, познач блок як відкладений.\n\n'+qsheet(a)+'\n\n'
+  if l['kind']=='listening_workshop':
+   s+='Письмова картка для зіставлення: «'+a['qas'][0]['answer']+'». Після слухання знайди в ній одну підтверджену деталь; поряд запиши ще один факт L. Це авторські картки, не відтворення SB/WB.\n\n'
+ if mode=='vocabulary' or (mode=='review' and n!=136):s+='## V · Зістав\n\n'+matching(p)[0]+'\n\n'
+ if mode=='grammar' or mode=='review':
+  if mode=='grammar':s+='## Модель\n\n'+g['rule']+'\n\n'+g['model']+'\n\n'
+  count=4 if mode=='grammar' else 2
+  s+='## G · Обери форму\n\n'+'\n'.join(f'{i}. {q} → __________' for i,(q,_) in enumerate(g['items'][:count],1))+'\n\n'
+  if mode=='grammar':s+='## T · Застосуй модель\n\n'+'\n\n'.join(f'{i}. {q}\n\n   __________________________________________________________' for i,(q,_) in enumerate(TRANSFER[p['gid']],1))+'\n\n'
+ if mode in ('portfolio','review') and n!=136:
+  s+='## F · Чернетка для редагування\n\n'+ERRORS[p['gid']][0]+'\n\nМоя версія: ______________________________________________________________\n\n_________________________________________________________________________\n\nЧому змінив/змінила: ______________________________________________________\n\n'
+ if mode in ('speaking','writing','project') or (assessed and (diag or sw)):
+  if assessed:
+   s+='## S · Усна взаємодія\n\n'+p['s_task']+' На підготовку2 хв. Усне свідчення — лише реально почутий зразок, без вимоги камери.\n\n'
+   if reserve:s+='Обери іншу вигадану деталь/роль, ніж у чернетці до переривання.\n\n'
+  s+='## '+('S' if mode=='speaking' else 'P')+' · Продукт\n\n'+p['task']+'\n\n'
+  if assessed and reserve:s+='Використай нові вигадані деталі; збережи формат і критерії.\n\n'
+  s+='План: __________________ / __________________ / __________________\n\n'+'\n\n'.join(f'{i}. ______________________________________________________________' for i in range(1,7))+'\n\n'
+ elif mode in ('reading','listening'):
+  count=3 if n in (19,49,106,120) else 2
+  s+=f'## P · {count} короткі речення/репліки\n\n'+p['task']+'\n\n'+'\n\n'.join(f'{i}. ____________________________________________________________________' for i in range(1,count+1))+'\n\n'
+ elif mode=='vocabulary':s+='## P · Лексика в контексті\n\n'+p['task']+'\n\n'+'\n\n'.join(f'{i}. ______________________________________________________________' for i in range(1,5))+'\n\n'
+ if mode=='portfolio':s+='Власна модель: ___________________________________________________________\n\nНаступного разу перевірю: _________________________________________________\n\n'
+ if mode=='project':s+='Відгук про зміст: _____________________\n\nЗміна1: ________________________ Зміна2: ________________________\n\n'
+ if not assessed:s+='**Exit:** одна точна відповідь / виправлена форма: _________________________\n\n**ДЗ до5 хв:** завершити тільки незакінчений основний продукт; якщо завершено — перевірити1 фразу й пояснити1 зміну. Після B/D —2 рядки, без накопичення всього45-хвилинного обсягу.\n\n'
+ else:s+='**Після здавання:** який прийом допоміг? _______________________________\n\nОфіційний результат не визначається камерою/емоціями чи недоступним зв’язком.\n\n'
+ s+='**Паперовий місток D (12 хв після відновлення безпечних умов і світла):**2 хв прочитай опору/умову;4 хв виконай перші2 доступні пункти або сплануй2 репліки;4 хв перевір одну відповідь/напиши одну власну фразу;2 хв познач завершене та збережи аркуш. Для контролю це підготовка, а не завершена перевірка.\n\n'
+ if mode=='listening' or (assessed and (lr or diag)):
+  s+='## Додаток L — ВІДДІЛИТИ ДО СЛУХАННЯ\n\nПовний текст для вчителя та подальшої паперової роботи. Самостійне читання цього додатка не є доказом слухання.\n\n'+a['text']+'\n'
+ return s
+# Corrected lexical models contain all four actually requested target expressions.
+LEX_EXAMPLES[4]='A fictional bookworm recommends books. A chatterbox in the story learns to take turns. A computer geek helps with the club website. The class explains why the label drama queen can hurt someone and should not be used to judge a classmate.'
+LEX_EXAMPLES[25]='An oven is an appliance. Some appliances are electrical. A clearer paper label is an improvement to our diagram. We describe the words switch on and switch off without operating equipment.'
+LEX_EXAMPLES[50]='Our imaginary celebration has cards labelled Good Friday, Boxing Day and New Year’s Eve. Each card explains one custom. A visitor can observe the display without celebrating these days.'
+LEX_EXAMPLES[73]='A basketball court has a basket. A football pitch is shown on the next card. A tennis player uses a racket and a net. Ice hockey is played on a rink with a stick and a puck.'
+
+def evidence_sentence(p,answer):
+ for sentence in re.split(r'(?<=[.!?])\s+',p['text']):
+  if answer.casefold() in sentence.casefold():return sentence
+ raise ValueError((p['text'],answer))
+
+BASE_PROFILE=profile
+def profile(l):
+ p=BASE_PROFILE(l)
+ if p['mode']=='reading':p['model']='The text says: “'+evidence_sentence(p['r'],p['r']['qas'][0]['answer'])+'” Could you explain the next detail, please?'
+ if p['mode']=='listening':p['model']=' '.join(evidence_sentence(p['a'],x['answer']) for x in p['a']['qas'][:2])
+ return p
+
+
+def teaching_actions(p):
+ mode=p['mode'];g=p['g']
+ principal={
+ 'reading':('«Прочитай R. Спочатку визнач головну думку, потім дай3 відповіді; до двох знайди слова-докази».','R1–R3 та2 короткі докази, без нового запрошення на подію.'),
+ 'listening':('«Закрий L. Після першого читання запиши тему; після другого —3 факти». Читати двічі з паузою45 секунд.','L1–L3. Якщо звук/умови недоступні — позначити відкладено, не підміняти R.'),
+ 'grammar':('«Обери форми G1–G4; поясни, яке слово допомогло. Потім T1–T2 — запитання або перетворення за сьогоднішньою моделлю».','4 форми та2 перенесення правила; не додаємо новий великий текст.'),
+ 'vocabulary':('«Закрий переклади. V1–V4: зістав перші4 слова. Поверни переклади для перевірки; склади по одному контексту для кожного слова».','4 відповідності;4 короткі тематичні речення, слова підкреслено.'),
+ 'speaking':('«Умова S на аркуші: спочатку30 секунд подумати, потім6 реплік. Після однієї спроби обміняйся ролями».','Один короткий діалог; учитель фіксує лише реально почуті запитання/відповіді.'),
+ 'writing':('«Виділи формат і3 обов’язкові деталі P. План —3 ключові слова. Пиши5–6 коротких речень».','План і чернетка P; достатньо одного завершеного повідомлення.'),
+ 'project':('«Результат — компактна картка за P; можна працювати самому. Зроби чернетку, попроси один точний відгук і внеси2 зміни».','Чернетка, відгук про зміст,2 правки; одна коротка презентація за можливості.'),
+ 'review':('«V1–V4, G1–G2, потім2 корекції F. Спочатку самостійно; після сигналу відкрий модель».','4 слова,2 форми,2 виправлення; одна пояснена зміна.'),
+ 'portfolio':('«F: збережи початкову версію. Виправ3 помилки, поясни2, напиши одну власну модель і конкретний наступний крок».','Дві версії з позначеними змінами; емоційний звіт не потрібний.'),
+ }
+ if p['number']==136:return ('«Прочитай4 тематичні картки. Дай R1–R3, знайди прохання дорослому; виконай G1–G2».','Факти подорожей/спорту/кіно/самопочуття та2 форми Passive.')
+ return principal[mode]
+
+
+def lesson_plan(p):
+ l=p['source'];n=p['number'];mode=p['mode'];g=p['g'];assessed=mode=='assessment'
+ primary='; '.join(p['core']);criterion='2 із3 точних фактів' if mode in ('reading','listening') else ('3 із4 лексичних відповідностей' if mode=='vocabulary' else ('3 із4 форм та1 із2 переносів правила' if mode=='grammar' else 'виконано змістову умову й зрозумілий адресату продукт'))
+ s=f'''# Урок {n:03d} · 7 клас · {l['date']}
+
+**Тема:** {l['topic']}  
+**Рік:** 2026/2027. **Семестр:** {l['semester']}. **Дата:** {l['calendar_status']}.  
+**Тип:** {l['kind']}. **Пріоритет:** {MODE_UK[mode]}. Це план підготовки, не запис факту проведення.
 
 ## План для адміністрації
 
-- Мовна мета: у темі «{b['title']}» зрозуміти 3 конкретні факти, використати 4 тематичні слова та створити короткий продукт; пріоритет цього уроку — {skill}.
-- Доказ досягнення: {core}. Критерій успіху: 2 з 3 фактів або 3 з 4 контрольованих виборів; у відкритому продукті є адресат/мета, тематичний зміст і зрозуміла модель.
-- Комунікативна функція вихідного плану: {l.get('communicative_functions','Запитує, уточнює, пояснює вибір.').removeprefix('y ')}.
-- Орієнтир плану: {l.get('expected_learning_evidence','Надає інформацію за темою.')}. Зміст адаптовано до власних мікротекстів; матеріал не оголошується дослівним відтворенням SB/WB.
-- Компетентності НУШ: іншомовна комунікація (запит і відповідь із доказом); навчання впродовж життя (перевірка й наступний крок); громадянська та соціальна (повага до іншого вибору, черга реплік). Нормативні коди не приписано.
-- Авторська SEL-адаптація у дусі «Зерна»: вибір «сам / пара / письмово / пропускаю публічну репліку», уважне уточнення, відгук про дію. Це не офіційна вправа програми «Зерна». Емоції, камера та особисті розповіді не є об’єктом оцінювання.
-- Матеріали: друк [handout.md](handout.md), олівець, [key.md](key.md) лише в учителя; годинник за наявності. Паперова копія в класній резервній папці ДО відключення. Інтернет і підручник для вправ не потрібні.
-- Маршрут A — 45 хв; B — 15 хв після прибуття й дозволу; C — 45 хв дистанційно; D — 12 хв на папері. Скорочення часу не дорівнює повному виконанню плану.
+- Очікуваний орієнтир календаря: {l.get('expected_learning_evidence','')}
+- Дія, яку перевіряємо сьогодні: {p['task']}
+- Обов’язковий мінімум A/C: {primary}. Критерій успіху: {criterion}; за потреби окрема адаптація з фіксацією підтримки.
+- Комунікативна функція джерела: {l.get('communicative_functions','')}. Авторські тексти відповідають темі; це не дослівні сторінки SB/WB. Реальні особисті, медичні й родинні обставини можна замінювати вигаданими.
+- НУШ: іншомовна комунікація (відповідь/уточнення з доказом), навчання впродовж життя (самоперевірка), соціальна та громадянська компетентність (повага до вибору й черга реплік). Нормативні коди не вигадано.
+- Авторська SEL-адаптація у дусі «Зерна»: вибір «сам / пара / письмово / пропускаю публічну репліку»; відгук про дію, не про особистість. Це не офіційна вправа програми «Зерна». Емоції, камера, особисті історії не оцінюються.
+- Матеріали: [handout.md](handout.md) і олівець; ключ тільки в учителя. Паперовий пакет видати до відключення. Інтернет, підручник і телефон для завдань не потрібні.
 
-## Опорний конспект учителя
+## Опорний конспект
 
-**Ситуація уроку / основний текст R:** {r['text']}
+**4 робочі слова:** {'; '.join(en+' — '+uk for en,uk in p['lex'][:4])}. Інші слова словника джерела — довідка, не прихований додатковий диктант.
 
-**Робоча лексика (звужене посильне ядро):**
-
-{lex_table}
-
-**Лексичний орієнтир оригінального плану:** {l.get('language_inventory',{}).get('lexis','')}. У цьому авторському пакеті відпрацьовуємо ядро вище; додаткові слова підручника не перевіряємо без окремого введення.
-
-**Модель:** {g['model']}  
+**Мовна модель для навчання:** {g['model']}  
 **Правило:** {g['rule']}  
-**Мовні опори взаємодії:** Where…? When…? Could you repeat that, please? I suggest… because… I see your point. Can I write my answer?  
-**Приклад кінцевого продукту:** {product_model}  
-**Типова помилка й корекція:** «{bad}» → «{fixed}». Запитати: «Яке слово показує час / кількість / зв’язок думок?» Дати час виправити, не називати учня «неуважним».
+**Зразок продукту саме цього уроку:** {p['model']}
 
-## Протокол переривання та повернення
+**Типова помилка:** {ERRORS[p['gid']][0]}  
+**Корекція:** {ERRORS[p['gid']][1]}  
+**Репліка підтримки:** «Зміст зрозумілий. Перевір одне допоміжне слово/факт». Модель і ключ не показувати під час самостійної перевірки.
 
-За сигналу: «Зупиняємо завдання, діємо за правилами школи». При переміщенні не проводити урок, не просити відповіді/фото/читання, не затримувати маршрут заради аркуша. B починається лише ПІСЛЯ прибуття, перевірки присутності й дозволу відповідального дорослого, якщо можна безпечно сидіти та читати. У тісному шумному укритті немає руханок, аудіо чи особистих історій. Якщо умов немає — навчання переносимо; D виконується пізніше у безпечних умовах, не в темряві та не під час руху. При новому сигналі зупинити й B.
+## Переривання й місток повернення
 
-Залишити на аркуші, якщо це не затримує безпеку, код останнього завершеного завдання: V / R / G / L / P. Місток наступної зустрічі: 0–2 хв «Знайди останній код»; 2–4 хв одна модель і одна відповідь із попереднього; 4–6 хв завершити мінімум, далі перейти до плану. Не починати весь 45-хвилинний урок заново; перенести решту та зафіксувати у звіті. Втрату зв’язку не трактувати автоматично як відмову навчатися.
+За тривоги: «Зупиняємо роботу, діємо за правилами школи». У русі до укриття не вчимося й не вимагаємо зберігати аркуш ціною затримки. B — тільки після прибуття, перевірки присутності, дозволу відповідального дорослого та за умов читання. У шумному тісному укритті без руханок/аудіо/публічних особистих розповідей. Якщо немає умов — перенести навчання; D пізніше в безпечному достатньо освітленому місці. При новому сигналі зупиняється і B.
+
+Безпечне повернення:0–2 хв знайти останній завершений код;2–4 хв відновити одну модель/факт;4–6 хв завершити мінімальний пункт і продовжити. Решту обсягу перенести, не накопичувати всі пропущені вправи. Для контролю зберегти завершені блоки, відкладені провести за [резервом](recovery-handout.md), якщо він є.
 
 '''
- core_actions={
- 'reading':('«Прочитай R мовчки; знайди місце, час і предмет. Підкресли 3 докази». Не перекладати весь текст замість учня.','Учні заповнюють R1–R3, поруч із відповіддю записують 2–4 слова-докази.'),
- 'vocabulary':('«Закрий український стовпчик. Зістав V1–V4; потім знайди в R два слова з нашої теми».','Учні дають 4 відповідності, складають 2 власні словосполучення й перевіряють за словником.'),
- 'grammar':('«Виконай G1–G4. Покажи часовий маркер або слово, що керує вибором; поясни один вибір».','Учні записують 4 форми й коротке пояснення до однієї; порівнюють з моделлю.'),
- 'listening':('«Закрий додаток L. Спочатку слухай заради загальної ситуації, вдруге — місця, часу, предмета». Прочитати L з key.md двічі, між читаннями пауза 45 секунд.','Після першого читання учні записують тему одним словом; після другого — L1–L3, позначають непевну відповідь знаком ?.'),
- 'speaking':('«Підготуй одне запитання Where/When і одне Could you repeat…? Спочатку A, потім B. Можна записати репліку до вимови».','Учні проводять діалог S, обмінюються ролями; учитель фіксує, чи є запит, уточнення та відповідь.'),
- 'writing':('«Прочитай умову P; виділи адресата, мету, обов’язкові деталі. Склади план із трьох пунктів».','Учні записують план: початок → факти → завершення; створюють перші 2 речення.'),
- 'project':('«Домовтеся про продукт: односторінкова картка. Оберіть ролі: автор тексту, перевіряльник фактів або редактор; можна працювати самому».','Учні створюють чернетку P з назвою, 3 фактами й тематичними моделями; підписують ролі без особистих даних.'),
- 'review':('«V і G спочатку без моделі, потім перевірка іншим кольором. Мета — знайти, що треба повторити».','Учні виконують V1–V4 та G1–G4, позначають дві зміни, пояснюють одну.'),
- 'portfolio':('«У F є три помилки. Спочатку виправ їх самостійно, потім зістав із моделлю й поясни 2 зміни».','Учні роблять версію «після», стрілками показують зміни та пишуть правило до двох.'),
- }
  if not assessed:
-  ca,ua=core_actions[mode]
-  rows=[('0–3 хв','«Працюємо з вигаданими героями. Можна самостійно, у парі чи письмово. Покажи готовність аркушем або просто почни». Перевірити безпечні умови.','Учні обирають спосіб участі; записують номер уроку. Особистий емоційний звіт не потрібний.'),
- ('3–7 хв','«Знайди в словнику 4 потрібні слова. Назви або запиши одне слово та його значення».','V1–V4 як проба; невідоме позначають ?, отримують підтримку.'),
- ('7–12 хв',f'На дошці/аркуші модель: «{g["model"]}». «Що змінює зміст?». Показати правило, дати один власний приклад.',f'Учні підкреслюють опору в моделі; за зразком пишуть одне речення про {c["item"]}.'),
- ('12–20 хв',ca,ua),
- ('20–28 хв','«Перевірмо модель у G. Після власної відповіді звірся з партнером/учителем; до F повертаємося для редагування».', 'G1–G4; у граматичному/повторювальному уроці — F і пояснення; в інших — одна виправлена форма та 3 короткі відповіді R.'),
- ('28–37 хв','«Тепер P: '+task.replace('|','/')+'»','Учні створюють P; у говорінні — 6 реплік S і коротка письмова картка; у проєкті — чернетка з 2 позначеними змінами.'),
- ('37–42 хв','«Відгук стосується тексту: одна зрозуміла деталь і одне уточнення. Перевірте місце/час, 2 мовні моделі, ввічливість».','Учні редагують одну фразу. Можна самоперевірка без обміну роботою. Учитель вибірково читає 2–3 продукти.'),
- ('42–45 хв','«Напиши exit: один факт + одна модель + що перевіриш наступного разу». Оголосити паперове ДЗ.','Учні здають/залишають exit і позначають останній виконаний код. Учитель записує, що потребує повернення.')]
+  ca,ua=teaching_actions(p)
+  rows=[('0–3 хв','«Можна самостійно, у парі чи письмово; особисті історії не потрібні». Перевірити умови.','Позначка уроку й вибір способу роботи.'),('3–7 хв','«Знайди4 робочі слова; що вже знайоме?». Не перевіряти весь словник джерела.','Коротка проба з4 слів, невідоме можна позначити ?.'),('7–12 хв','Показати потрібну мовну/текстову опору. «'+g['model']+'»; у читанні/слуханні пояснити спосіб знайти доказ.','Один пробний приклад; не новий великий граматичний блок.'),('12–24 хв',ca,ua),('24–33 хв','«Заверши лише основний продукт, зазначений на аркуші. Якщо основне вже готове, виправ одну фразу або поясни доказ».','Завершений основний продукт; у граматиці — T, у читанні/слуханні —2 речення, у письмі — один текст.'),('33–40 хв','«Звір зміст за ключем/критеріями. Назви одну точну деталь та одну правку». Дозволити самоперевірку без обміну.','Одна помітна зміна, коротке пояснення. Не додавати новий контроль.'),('40–45 хв','«Exit: один точний факт/форма і наступний мовний крок». Дати ДЗ до5 хв.','Один рядок exit; позначка завершеного/перенесеного.')]
  else:
+  diag=l['kind']=='pair_diagnostic';lr='слухання і читання' in l['topic']
   if lr:
-   rows=[('0–4 хв','«Це окремі докази слухання й читання. Перевір, чи чутно. При перериванні зупиняємо контроль». Прибрати додаток L; не показувати модель.','Учні читають лише запитання L1–L3; повідомляють про технічну/мовну потребу без обговорення здоров’я.'),('4–7 хв','Один раз прочитати L з key.md природно й чітко; не підказувати відповіді.','Учні записують тему та чернеткові відповіді.'),('7–10 хв','Дати тиху паузу для відповідей; прочитати L вдруге.','Учні уточнюють L1–L3.'),('10–15 хв','«Перевір, що кожна відповідь відповідає на своє запитання». Зібрати блок L.','Самостійні L1–L3 здано; текст L не відкрито до збору.'),('15–20 хв','«Переходимо до R. Прочитай текст один раз заради змісту».','Учні читають R, підкреслюють факти.'),('20–32 хв','«Дай R1–R3; поруч випиши 2–4 слова-докази».','Самостійні три відповіді з підтвердженням.'),('32–40 хв','«Перевір відповіді за текстом. Не змінюй L після його здавання».','Учні виправляють лише власний блок R, здають.'),('40–45 хв','«Яку стратегію використаєш ще раз?» Прийняти відповідь без оцінювання емоцій; призначити відновлення за потреби.','Окремий короткий коментар про спосіб роботи; учитель фіксує L/R та умови.')]
-  elif sw:
-   rows=[('0–4 хв','Пояснити критерії S і P. «Камера й емоції не оцінюються; усний продукт можна надати індивідуально». Не показувати зразок відповіді.','Учні читають картку S/P, обирають вигаданого героя.'),('4–10 хв','Дати тиху підготовку: 6 ключових слів, без готового сценарію вчителя.','План діалогу й письмового продукту.'),('10–24 хв','Слухати пари або індивідуальні 45–60-секундні фрагменти, іншим — почати P. Якщо клас великий, зібрати лише посильну частину усних свідчень і призначити продовження.','S: 6 реплік з двома запитаннями й уточненням; решта працює над P. Не приписувати невислуханим учням результат говоріння.'),('24–36 хв','«Заверши P самостійно: 5–6 речень за умовою».','Письмовий продукт P із тематичними фактами та моделлю.'),('36–41 хв','«Перевір зміст, порядок слів і зрозумілість адресату».','Власне редагування; учні здають P.'),('41–45 хв','Зібрати роботи; записати, чиї усні фрагменти ще потрібні, домовитися про безпечний канал продовження.','Фіксуються окремо наявний доказ письма та наявний/відкладений доказ говоріння.')]
+   rows=[('0–4 хв','Пояснити L/R-критерії; відділити додаток L; перевірити чутність без відповідей.','Учні читають тільки запитання.'),('4–13 хв','Прочитати L двічі, між читаннями45 секунд; зібрати відповіді L.','3 самостійні відповіді; непочуте через технічні умови перенесено.'),('13–30 хв','«R: прочитай два тематичні повідомлення, дай3 відповіді з доказами».','R1–R3; довший текст має17 хв, а не час короткого розігріву.'),('30–40 хв','«Перевір тільки R за текстом; L після здавання не змінюй».','Власне редагування й здавання.'),('40–45 хв','Зафіксувати окремі L/R і відкладені блоки; короткий відгук про стратегію після збору.','Заплановано повернення тільки до незавершеного.')]
+  elif diag:
+   rows=[('0–4 хв','Пояснити4 блоки, відділити L; ключі й моделі закриті.','Читання запитань без відповідей.'),('4–12 хв','Двічі прочитати L з паузою45 секунд; зібрати L.','L1–L3.'),('12–22 хв','«R з попереднього юніту:3 факти».','R1–R3 із підтвердженнями.'),('22–31 хв','S: тихе планування2 хв, потім слухати реально доступну кількість пар/учнів. Інші починають P.','Частина S реально почута; решту відкладено, без вигаданих балів.'),('31–41 хв','«Заверши компактний P:4–6 речень або6 реплік відповідно до теми».','Один письмовий продукт.'),('41–45 хв','Зібрати, позначити відкладені S/інші блоки та індивідуальний наступний крок.','Окремі L/R/S/P; не стверджувати, що кожен учень уже пройшов S.')]
   else:
-   rows=[('0–4 хв','Пояснити 4 блоки L/R/S/P та порядок; прибрати додаток L. «Це пошук наступного кроку; при перериванні переносимо незавершені блоки».','Учні читають L1–L3, готують аркуш.'),('4–10 хв','Прочитати L двічі з паузою 45 секунд; зібрати L.','3 відповіді слухання.'),('10–19 хв','«Прочитай R з попереднього юніту; знайди 3 факти».','R1–R3 самостійно, з підкресленими доказами.'),('19–29 хв','«S: партнер ставить Where/When та уточнює; поміняйтеся ролями». Слухати доступну кількість коротких фрагментів.','6 реплік; учитель фіксує тільки реально почуті зразки, решту S переносить.'),('29–39 хв','«P: створи короткий тематичний продукт самостійно».','5–6 речень за умовою P.'),('39–45 хв','Зібрати блоки; попросити позначити незавершене; пояснити індивідуальний наступний крок.','Наявні L/R/S/P зафіксовано окремо; незавершене не вигадується й не карається автоматично.')]
- admin+='## A · Клас, 45 хв\n\n'+table(rows)
- bcore='G1–G2 + одне речення P' if mode=='grammar' else 'R1–R2 + одне речення P'
- admin+='''\n## B · Укриття, 15 хв ПІСЛЯ переміщення
+   rows=[('0–4 хв','Пояснити S/P-критерії; дати вигадану тему поточного юніту.','Умову прочитано; камера не потрібна.'),('4–9 хв','«План —6 ключових слів; заучений учительський текст не даємо».','План S та P.'),('9–25 хв','Слухати короткі S, решта пише P. Для великого класу S розділити на кілька зустрічей.','Лише реально почуті усні зразки мають оцінку S; інші відкладені.'),('25–37 хв','«P: завершити4–6 речень /6 реплік за тематичною умовою».','Самостійний письмовий продукт.'),('37–41 хв','«Перевір потрібні деталі, послідовність, одну мовну модель».','Власне редагування.'),('41–45 хв','Зібрати; узгодити продовження неотриманих S.','Окремі результати письма та реально почутого говоріння.')]
+ s+='## A · Клас,45 хв\n\n'+table(rows)
+ s+='''\n## B · Укриття,15 хв після прибуття
 
-Лише якщо є дозвіл, місце безпечне й достатньо світла для паперу. Коли ці умови не виконано, цей маршрут не проводиться. Слухання замінене читанням і не є доказом аудіювання; контроль не оголошується завершеним.
+Без дозволу/умов читання — переносимо, не намагаємося проводити урок. Навіть за дозволених умов це тихий мінімум, а не стиснуті всі45 хв. Для контролю — тільки підготовка; L/S і самостійні блоки перевіряємо пізніше.
 
-'''+table([
- ('0–2 хв','«Можна тихо працювати на папері або відкласти. Особисте розповідати не потрібно». Показати словник і рядок моделі.','Учні, які мають умови, знаходять R і G; інші залишають аркуш до безпечного часу.'),
- ('2–5 хв','«Прочитай R; підкресли місце й час. Запиши ключові слова».','Два підкреслені фрагменти; R1–R2 або підготовка до G1–G2.'),
- ('5–9 хв','«Мінімум сьогодні: '+bcore+'. Користуйся словником; запиши без озвучування».','Самостійні 2 короткі відповіді; у контролі — тільки тренувальний чернетковий продукт, новий контроль пізніше.'),
- ('9–12 хв','На аркуші вказати: «Одне речення за моделлю про героя тексту». Не організовувати переміщень чи гучних пар.','Учні пишуть одне речення P; можна обрати готовий початок із моделі.'),
- ('12–15 хв','«Познач V/R/G/P, що встиг. Решту продовжимо після відновлення умов». Тихо перевірити 1 відповідь індивідуально за можливості.','Аркуш зі слідом роботи й позначеним незавершеним; учитель переносить решту без нового завдання у момент руху.')])
- if assessed:
-  onlinecore='L і R за специфікацією A; L лише за наявного чутного голосу вчителя. S — індивідуально голосом без камери; P — приватним текстом. Не показувати модель і ключі до збору.'
- else:onlinecore=core
- admin+='''\n## C · Дистанційно, 45 хв; камера добровільна
+'''+table([('0–2 хв','«Можна тихо читати/писати або відкласти».','Знайдено перший доступний основний пункт.'),('2–6 хв','«Прочитай опору/текст/умову. Обери2 пункти; у L після відділення додатка це вже читання, не аудіювання».','Два підкреслені факти або2 форми/план2 реплік.'),('6–11 хв','«Запиши2 короткі відповіді чи2 тематичні репліки. Не потрібно великого продукту».','Два рядки на папері.'),('11–13 хв','«Звір одну відповідь з опорою, якщо це навчальний етап».','Одна перевірена деталь; підтримку позначено.'),('13–15 хв','«Познач завершене. Решту повернемо в доступних умовах».','Зафіксовано незавершене; без фото й публічного звіту.')])
+ s+='''\n## C · Дистанційно,45 хв, камера добровільна
 
-До уроку передати паперовий пакет або короткий текст доступним каналом. «+», приватний чат, один рядок чи робота на папері — способи входу. Після втрати зв’язку перехід на D; пізня відповідь приймається до наступної доступної зустрічі. Камера, швидкість мережі й відсутність відповіді без з’ясування умов не є оцінкою знань. Діалог у чаті тренує взаємодію, але не підтверджує усне мовлення: для S учитель пізніше слухає короткий голосовий/живий зразок без камери.
+Пакет передати до уроку. Паперовий рядок або приватний чат є допустимим входом. Відсутність відповіді без з’ясування умов не дорівнює відмові. Після втрати зв’язку — D, подання при наступному доступному контакті. Чат свідчить про письмову взаємодію; для S потрібний пізніший реально почутий голос без вимоги камери.
 
-'''+table([
- ('0–4 хв','«Камера за бажанням. У чаті напиши номер уроку або почни на папері; можна приватно. Якщо немає зв’язку — D з роздатки».','Продукт входу: номер уроку / перший рядок на папері; учитель звіряє доступність.'),
- ('4–9 хв','Надіслати словник і модель звичайним текстом; у контролі — лише інструкцію та критерії, модель закрити. «Назви 2 слова або перечитай їх мовчки».','У навчальному уроці — 2 слова з перекладом; у контролі — готовність до потрібного блоку.'),
- ('9–17 хв','«Основний блок: '+onlinecore.replace('|','/')+'». Для слухання прочитати L двічі без вимоги відео; якщо не чути, блок L перенести.','Чат-продукт 1: нумеровані відповіді R/G/V або L. При слуховому збої — читання з позначкою R, не L.'),
- ('17–24 хв','«Познач одну непевну відповідь знаком ?. Поясни вибір одним словом-доказом». У контролі пояснення тільки після здавання відповідного блоку.','Чат-продукт 2: відповідь + доказ; за відсутності каналу — запис на папері.'),
- ('24–34 хв','«Виконай P: '+task.replace('|','/')+'» Для S слухати короткі фрагменти без камери; решті дозволити писати.','Чат-продукт 3: 5–6 речень / 6 реплік. Усний результат позначається тільки після реального прослуховування.'),
- ('34–41 хв','«Перечитай критерії, уточни 1 деталь і виправ 1 форму». Відгук приватно; під час контролю — власне редагування.','Чат-продукт 4: виправлений рядок і причина; при мережевій паузі — дві версії на папері.'),
- ('41–45 хв','«Exit: один факт, одна модель, наступна мовна перевірка». Підтвердити приймання; не чекати фото негайно.','Exit у чаті/на папері; відкладені продукти учитель приймає при наступному доступному контакті.')])
- admin+='''\n## D · Асинхронно на папері, 12 хв без електрики
+'''+table([('0–4 хв','«Напиши номер уроку або почни на папері. Камера за бажанням».','Номер/перший рядок, перевірка доступності.'),('4–10 хв','Передати4 слова й коротку модель звичайним текстом; під час контролю — лише інструкцію/критерії.','Проба1 прикладу або читання самостійної умови.'),('10–23 хв','«Виконай перший основний блок». Для L читати двічі; якщо не чути — перенести L.','Продукт чату1: нумеровані відповіді/план; у контролі приватне подання.'),('23–34 хв','«Заверши основний продукт за аркушем». S слухати коротко голосом; можна відкласти, якщо немає каналу.','Продукт чату2:4–6 речень/6 реплік або2 перенесення G. Письмове не називати усним.'),('34–41 хв','«Перевір одну деталь; виправ одну фразу». У контролі — самоперевірка до здавання, відповіді не показувати.','Виправлений рядок/зданий блок.'),('41–45 хв','Підтвердити подання, записати недоступне й наступний крок.','Exit або паперова позначка; пізнє подання через збій приймається.')])
+ s+='''\n## D · Асинхронно,12 хв на папері
 
-Виконувати лише пізніше в безпечному, достатньо освітленому місці. Якщо пакет не був переданий — видати його після відновлення зв’язку, не вимагати завантаження. Для контрольного уроку це тренування й місток; остаточний контроль перенести, аудіювання/говоріння не підміняти читанням/письмом.
+Тільки пізніше в безпечному місці з достатнім світлом.0–2 хв: прочитай опору/умову.2–6 хв: виконай перші2 доступні пункти або сплануй2 репліки.6–10 хв: перевір одну відповідь і напиши одну власну фразу.10–12 хв: познач завершене/питання й збережи аркуш. Якщо пакета не було — видати після відновлення контакту. Не вимагаємо інтернету/фото. Для контрольного уроку це підготовка; L/S і самостійну перевірку перенести на резерв, не підміняти письмом.
 
-'''+table([
- ('0–2 хв','Друкована репліка: «Прочитай словник і правило. Вибери 2 знайомі слова».','Учень підкреслює 2 слова; не шукає відео/підручник.'),
- ('2–5 хв','Друкована репліка: «Прочитай R. Запиши місце й час».','R1–R2 на папері.'),
- ('5–8 хв','Друкована репліка: «Виконай G1–G2 з моделлю. Покажи допоміжне слово».','2 форми, підкреслене слово-підказка.'),
- ('8–11 хв','Друкована репліка: «Напиши 2 речення P про вигаданого героя: факт і свою пропозицію».','2 тематичні речення, за потреби з початком моделі.'),
- ('11–12 хв','Друкована репліка: «Познач останній код, одне ? і збережи аркуш до наступної зустрічі».','Наявний слід роботи без фото/надсилання; учитель пізніше дає короткий зворотний зв’язок.')])
- admin+='''\n## Диференціація, зворотний зв’язок, домашня робота
+## Мінімум, підтримка та резерв
 
-- Підтримка: дати вибір із двох форм G, дозволити словник і відповідь ключовими словами R; для P 3 речення замість 6. Учень може писати обидві ролі S перед усним зразком. Не вимагати пояснювати особисту причину потреби.
-- Базовий рівень: 3 факти R/L, 4 форми G, 5–6 речень або 6 реплік за тематичною умовою.
-- Поглиблення: додати запитання Wh-, перефразувати один факт і обґрунтувати вибір because; перевірити текст на 2 моделі. Без додаткового пошуку в мережі.
-- Формувальна репліка: «Місце і час зрозумілі. Перевір допоміжне дієслово в другому реченні». Оцінювати реальну мовну дію; підтримка й рівень самостійності фіксуються окремо.
-- Паперове ДЗ (5–7 хв): переписати власний P у чистовому варіанті (підтримка — 3 речення, базово — 5–6), підкреслити 2 тематичні слова, позначити одну виправлену форму та створити 1 запитання Where/When за R. Після B/D — лише завершити ці 2 речення й 1 запитання, не накопичувати весь пропущений обсяг.
-- Для контрольного уроку: ДЗ — рефлексія стратегії без переписування відповідей як нового контролю; незавершені перевірки проводити окремо у доступних умовах. Домашні письмові відповіді не підтверджують слухання/говоріння.
+- A/C: лише перелік основного навантаження на початку. B/D:2 відповіді/репліки й одна перевірена фраза. Непотрібні в цьому уроці вправи не друкуються на основному учнівському аркуші.
+- Підтримка:4 переклади, модель, коротка відповідь ключовими словами; P можна скоротити до3 речень; S — спершу записати. Вказати, яка підтримка була, не вимагати особистого пояснення причин.
+- Поглиблення/резерв: одне перефразування з поясненням або додаткове T. Лише замість уже завершеного блоку, не ще один набір обов’язкових вправ.
+- ДЗ до5 хв: завершити основний продукт або перевірити одну фразу й пояснити зміну. Після B/D —2 рядки. Після контролю — навчальна рефлексія, не повторний бал за домашнє переписування.
+- [Дві ігрові симуляції](games.md): навчальна7 хв і перевірна5 хв. Кожна замінює відповідний блок A/C; не додається до45 хв. У B/D допускається тільки тихий один хід за наявних умов.
+
+## Оцінювання та факт проведення
+
+'''+rubric(p)+''' Це авторські первинні показники, не автоматична офіційна оцінка. Затверджений у закладі порядок застосовується окремо. Емоції/камера/особисті розповіді не оцінюються. Під час контролю модель/словник учителя закриті, крім заздалегідь погоджених адаптацій. У ключі є резерв відкладених блоків; не оцінювати двічі завершений блок. Заповнити [report.md](report.md) за реальними фактами.
+'''
+ return s
+PROFILE_BEFORE_ASSESSMENT=profile
+def profile(l):
+ p=PROFILE_BEFORE_ASSESSMENT(l)
+ p['s_task']='За темою поточного юніту створіть6 реплік. A називає вигадану ситуацію/пропозицію; B ставить змістове запитання й просить уточнення; A відповідає; поміняйтеся ролями.'
+ if l['kind']=='semester_assessment' and 'говоріння і письмо' in l['topic']:
+  if l['semester']==1:
+   p['s_task']='S: у6 репліках обговоріть вигадану кулінарну картку для свята: назва страви,2 інгредієнти, запит про вже перевірений список і ввічливе уточнення. Картка: fruit salad; apples, bananas; ingredients checked.'
+   p['task']='P: напиши5 речень про вигадану шкільну подію: назва, що роблять зараз,2 справи підготовки вчора, спосіб долучитися без публічного виступу. Використай Present Continuous і Past Simple.'
+   p['model']='Our school is preparing an exhibition. We are writing labels now. Yesterday Sam swept the floor. Alex made decorations. You can add a written caption instead of giving a speech.'
+  else:
+   p['s_task']='S: у6 репліках обговоріть вигаданий фільм і потребу персонажа: жанр, оцінка з причиною, ввічливе прохання повторити та прохання допомоги відповідального дорослого. Без діагнозу/ліків. Картка: comedy; lively dialogue; character asks for an adult.'
+   p['task']='P: напиши5 речень для вигаданої поїздки на спортивну подію:2 об’єкти маршруту, факт про організований матч у Past Simple Passive, вибір двох маршрутів, причина й завершення.'
+   p['model']='Our route includes a castle and a sports hall. A school match was organised in the hall. Choose either the short route or the long route. I suggest the short route because it includes a quiet stop. Finish at the castle gate.'
+ return p
+
+
+def teacher_key(p):
+ l=p['source'];n=p['number'];g=p['g'];mode=p['mode'];s=f'''# Ключ · 7 клас · {n:03d} · {l['date']}
+
+Відповіді лише для вчителя. Короткий синонімічний факт прийнятний; не знімати вдруге бал за форму, яка не змінює зрозумілий факт. Тут є резерви вчителя: вони не є вимогою виконати всі блоки за45 хв.
+
+## R · Повний текст, факти й докази
+
+{p['r']['text']}
+
+{qkey(p['r'])}
 
 '''
- if assessed:
-  bstart=admin.index('## B ·');bend=admin.index('## C ·',bstart)
-  basic='R1–R2' if lr or diag else 'план S (місце, час, два запити)'
-  short_b='''## B · Укриття, 15 хв після переміщення
+ if n==136:s+='4. The health-room card asks a responsible adult for help.\n\n'
+ s+='## L · Текст для двох читань\n\nВідділити додаток L в учня до слухання. Прочитати двічі, між читаннями45 секунд. Не підказувати інтонацією тільки потрібні слова. За відсутності чутності перенести L.\n\n'+p['a']['text']+'\n\n'+qkey(p['a'])+'\n\n'
+ s+='## V · Відповідності\n\n'+matching(p)[1]+'. По1 за відповідність; /4, лише коли V є основним блоком.\n\n'
+ s+='## G · Форми\n\n'+'\n'.join(f'{i}. {a}.' for i,(_,a) in enumerate(g['items'],1))+'\n\n'+g['rule']+'\n\n'
+ s+='## T · Перенесення моделі\n\n'+'\n'.join(f'{i}. {a}' for i,(_,a) in enumerate(TRANSFER[p['gid']],1))+'\n\nКожна відповідь має зберігати зміст, часову форму та структуру; інше граматично правильне формулювання прийнятне за збереження умови.\n\n'
+ s+='## F · Повна корекція\n\n'+ERRORS[p['gid']][1]+'\n\nПояснення: '+g['rule']+' Для портфоліо2 пояснення можуть бути українською. Наступний крок має бути конкретною дією, наприклад перевірити auxiliary verb.\n\n'
+ s+='## P / S · Умова та повний зразок\n\n'+p['task']+'\n\n**Зразок:** '+p['model']+'\n\n'
+ if mode=='assessment':
+  s+='**Умова S:** '+p['s_task']+'\n\n'
+  if l['kind']=='semester_assessment' and 'говоріння і письмо' in l['topic']:
+   smodel='A: What are we preparing? B: Fruit salad with apples and bananas. A: Have you checked the ingredients? B: Yes, I have checked them. A: Could you repeat the second ingredient? B: Bananas.' if l['semester']==1 else 'A: What kind of film is it? B: A comedy with lively dialogue. A: Why do you recommend it? B: Because the dialogue is lively; the character also asks for an adult. A: Could you repeat that request? B: Please call the responsible adult.'
+  else:smodel=S_MODELS[p['u']]
+  # Keep English in a sample dialogue; the Ukrainian unit title is teacher metadata only.
+  english_topic={0:'a study group',1:'a school exhibition',2:'a chore plan',3:'a paper recipe',4:'a fictional celebration',5:'a sports report',6:'a request for adult help',7:'a film review',8:'an imaginary route'}[p['u']]
+  smodel=smodel.replace(BANK[p['u']]['title'],english_topic)
+  s+='**Зразок S:** '+smodel+'\n\n'
+ s+='''## Відкриті відповіді: конкретні критерії
 
-Контроль зупинено. Лише після прибуття, дозволу дорослого й за умов читання можна тихо виконати підготовчий місток. Інакше перенести все. Без руху/аудіо/особистих розповідей. Усних і слухових результатів тут не записуємо.
+- Зміст0–2:0 немає потрібної дії/теми;1 основна мета зрозуміла, але бракує обов’язкової деталі;2 усі деталі з умови присутні. У читанні/слуханні не додавати непідтверджених фактів.
+- Організація0–2:0 послідовність не відновлюється;1 зв’язок зрозумілий із підтримкою;2 логічний текст або взаємний обмін репліками.
+- Мовна зрозумілість0–2:0 зміст не відновлюється;1 помилки не руйнують основний зміст;2 цільові слова/структури переважно точні. У T обов’язкова саме модель, названа в умові.
 
-'''+table([('0–2 хв','«Контроль продовжимо в належних умовах; зараз можна лише підготовку».','Учні, які мають умови, знаходять паперову інструкцію.'),('2–5 хв','«Прочитай коротку історію або умову ролі; підкресли 2 деталі».','Дві позначені деталі.'),('5–9 хв','«Запиши: '+basic+'».','Два ключові факти / план реплік на папері.'),('9–12 хв','«Напиши 2 тематичні речення про вигаданого героя».','Підготовчий текст, який не зараховується як самостійний контроль.'),('12–15 хв','«Познач завершене й збережи аркуш. Новий варіант перевірки буде окремо».','Позначені відкладені блоки, без публічного обговорення.')])
-  admin=admin[:bstart]+short_b+'\n'+admin[bend:]
-  dstart=admin.index('## D ·');dend=admin.index('## Диференціація',dstart)
-  short_d='''## D · Асинхронно, 12 хв на папері
+Для S потрібен реально почутий зразок; письмовий чат підтверджує письмову взаємодію. Вимову оцінювати за зрозумілістю, не за акцентом. Пауза/відсутність камери не є помилкою. У проєкті доказ — чернетка, точний відгук,2 зміни; у портфоліо —3 корекції,2 причини, власна модель й наступний крок. Особисте переживання/емоція не оцінюється.
 
-Лише у безпечному місці з достатнім світлом; це підготовка, не завершений контроль. 0–2 хв: прочитай інструкцію. 2–5 хв: знайди 2 факти у R або сплануй 2 репліки S. 5–9 хв: напиши 2 тематичні речення. 9–12 хв: познач питання до вчителя й збережи аркуш до доступного контакту. Інтернет, фото й підручник не потрібні. Аудіювання/говоріння переносимо; за небезпечних умов не виконуємо завдання. Для самостійної перевірки після повернення застосувати резерв із ключа, не знайомий розібраний текст.
+## Критерії саме цього уроку
 
+'''+rubric(p)+' Це первинні показники для педагогічного рішення; офіційне переведення визначає затверджений порядок закладу.\n\n'
+ if mode=='assessment':
+  rr=alternate(p['r']);aa=alternate(p['a'])
+  s+='## Резерв після переривання\n\nОкремий друк: [recovery-handout.md](recovery-handout.md). Проводити тільки відкладені блоки; завершене не перевіряти вдруге. Критерії ті самі. Нові персонажі/деталі не повинні змінювати складність. Якщо учень уже прочитав L, дати резервне L.\n\n**Резерв R:**\n\n'+qkey(rr)+'\n\n**Резерв L — прочитати двічі:**\n\n'+aa['text']+'\n\n'+qkey(aa)+'\n\nРезерв S/P: інші вигадані деталі при збереженому форматі; зразок вище — один можливий, критерії не змінюються.\n\n'
+ s+='## ДЗ\n\nДо5 хв: завершений основний продукт або одна перевірена фраза з поясненням правки. Після B/D —2 рядки. Приймати варіанти за критеріями умови; після контролю домашнє переписування не створює нової самостійної оцінки.\n'
+ return s
+
+
+def report(p):
+ l=p['source']
+ return f'''# Фактичний звіт · 7 клас · {l['number']:03d}
+
+Заплановано: {l['date']} · {l['topic']}
+
+Порожній шаблон, не підтвердження проведення.
+
+- Фактична дата, час, тривалість: ______________________________________
+- Маршрут A / B / C / D / перенесено: __________________________________
+- Дозвіл/умови читання для B (без персональних відомостей): ______________
+- Переривання й останній завершений код: ______________________________
+- Реально виконаний основний мінімум: _________________________________
+- Використана симуляція/який блок замінила: ____________________________
+- Кількість наданих / відкладених робіт: _______________________________
+- Реальні докази R / L / S / P (окремо): ________________________________
+- Рівень самостійності / підтримка / повтор у грі: ______________________
+- Типова мовна помилка й наданий відгук: _______________________________
+- Вибір способу участі / SEL без оцінки емоцій: ________________________
+- Фактичне ДЗ: ________________________________________________________
+- Незавершені блоки контролю / дата резерву: ___________________________
+- Місток повернення й наступний крок: _________________________________
+- Примітка для журналу після перевірки факту: __________________________
+
+Не записувати тут персональні оцінки, діагнози, контакти чи приватні посилання. Заповнені документи зберігати в дозволеній закладом системі, не у публічному репозиторії. Письмовий чат не позначати як усне мовлення, прочитаний L — як аудіювання.
 '''
-  admin=admin[:dstart]+short_d+admin[dend:]
-  if lr:spec='L1–L3: 3 бали за 3 правильні факти; R1–R3: 3 бали за 3 факти з опорою на текст. Разом 6 первинних балів, окремі результати L /3 і R /3. Доказова цитата допомагає зворотному зв’язку, за її відсутність не знімати вдруге бал за вже правильний факт.'
-  elif sw:spec='S: 0–2 за виконання ролі/запитів, 0–2 за зрозумілість, 0–2 за відповідь/уточнення = /6. P: 0–2 за зміст, 0–2 за зв’язність, 0–2 за мовну зрозумілість = /6. Разом /12 первинних балів, S і P зберігати окремо.'
-  else:spec='L /3 і R /3: по 1 за кожний правильний факт. S /3: по 1 за запит, змістовну відповідь, ввічливе уточнення. P /3: по 1 за відповідність темі, 3 факти, зрозумілі речення. Разом /12 первинних балів; зберігати 4 окремі профілі.'
-  admin+='## Специфікація діагностики / контролю\n\n'+spec+' Це авторська рубрика первинних балів, не автоматичне переведення у шкільну оцінку. Для офіційного запису застосувати затверджену в закладі процедуру. V/G/F — резерв для корекції після збору робіт, не додаткові приховані контрольні бали. Модель і словник закрити під час самостійного етапу, крім заздалегідь погоджених адаптацій; умови підтримки записати. Текст L тримати у вчителя; паперовий додаток учня відділити до перевірки. За переривання зберегти завершений блок, решту перенести на рівноцінний варіант; не зараховувати B/D як повний контроль.\n\n'
- else:spec='Формувально: V /4, R /3, G /4, L /3 — окремі свідчення, не сума в офіційну оцінку. Відкритий продукт: зміст, організація, зрозумілість — по 0–2; див. ключ.'
- handout=f'''# 7 клас · Урок {n:03d} · {l['date']}
+S_MODELS={
+0:simple_product(0)[1],
+1:'A: Which club would you choose? B: The library club. A: Why? B: Because I enjoy books. A: Could you name a quiet role? B: I can write a recommendation.',
+2:PRODUCT[27][1],
+3:'A: What shall we put on the paper recipe? B: Apples and bananas. A: Have you checked the list? B: Yes, I have checked it. A: Could you repeat the first ingredient? B: Apples.',
+4:'A: What is made for the celebration? B: Paper cards are made. A: Who makes them? B: Volunteers make them. A: Can guests observe quietly? B: Yes, that choice is accepted.',
+5:'A: What was organised yesterday? B: A school game was organised. A: Who checked the equipment? B: The coach checked it. A: Could you repeat that detail? B: The equipment was checked by the coach.',
+6:PRODUCT[94][1],
+7:PRODUCT[111][1],
+8:'A: What is on the route? B: A castle and a garden. A: Which route do you suggest? B: The short route because it has a quiet stop. A: Could you repeat the last stop? B: The castle gate.',
+}
+# Cards for speaking/writing games use actual lesson products, not unrelated event data.
+PRODUCT_CARDS={
+11:[('Which club is chosen in the example?','The library club'),('Why is it chosen?','I enjoy recommending books')],
+12:[('What event is being prepared?','an anniversary exhibition'),('Which non-speaking contribution is offered?','write a label')],
+27:[('Which job can A do?','make decorations'),('Which job can B do?','tidy the tables')],
+28:[('Which job did the writer do?','swept the floor'),('What does the writer ask to share?','the jobs')],
+42:[('Which utensil is described?','a grater'),('What is its function?','grating food')],
+43:[('Which dish is described?','fruit salad'),('Which two utensils are named?','a bowl and a spoon')],
+56:[('What do the fictional guests write?','thank-you notes'),('Which alternative does A suggest?','draw a card')],
+57:[('What is decorated in the imaginary family?','paper eggs'),('What else is written?','greeting cards')],
+75:[('Which sport is on the card?','Underwater hockey'),('Which two pieces of equipment are named?','A stick and a puck')],
+76:[('Which club is open?','The table tennis club'),('Which alternative role is offered?','a reporter')],
+77:[('Which sport does the fictional athlete play?','table tennis'),('What does the writer admire?','fair play')],
+94:[('What symptom does the character describe?','a sore throat'),('Whom does B offer to call?','the responsible adult')],
+95:[('What symptom did the fictional character have?','a sore throat'),('Who listened?','A nurse')],
+111:[('Which genre is recommended?','a comedy'),('Why is it recommended?','The dialogue is quite funny')],
+112:[('What do the robots lose?','a map'),('Why is the dialogue lively?','the characters disagree politely')],
+128:[('Which place is on the card?','River Castle'),('Which two features are named?','Two towers and a small garden')],
+129:[('What two attractions are on the route?','the castle and a public garden'),('Which route includes a quiet stop?','the short route')],
+}
+
+def simulation_cards(p):
+ mode=p['mode'];n=p['number']
+ if mode in ('grammar','review','portfolio'):
+  cards=[]
+  for q,answer in p['g']['items'][:2]:
+   options=q.rsplit('(',1)[1].rstrip(')').split(' / ');wrong=next(x for x in options if x!=answer)
+   cards.append({'prompt':q,'answer':answer,'wrong':wrong,'source':p['g']['rule']})
+  return cards
+ if mode=='vocabulary':
+  return [{'prompt':f'Який вираз означає «{p["lex"][i][1]}»?','answer':p['lex'][i][0],'wrong':p['lex'][i+2][0],'source':p['lex'][i][0]+' — '+p['lex'][i][1]} for i in range(2)]
+ if n in PRODUCT_CARDS:
+  qs=PRODUCT_CARDS[n];return [{'prompt':q,'answer':a,'wrong':qs[1-i][1],'source':p['model']} for i,(q,a) in enumerate(qs)]
+ target=p['a'] if mode=='listening' else p['r']
+ return [{'prompt':q['question'],'answer':q['answer'],'wrong':target['qas'][(i+1)%3]['answer'],'source':target['text']} for i,q in enumerate(target['qas'][:2])]
+
+
+def games(p):
+ n=p['number'];l=p['source'];cards=simulation_cards(p)
+ r='\n\n'.join(f"**Картка {i}:** {c['source']}\n\nЗапит: {c['prompt']}\n\nВибір A: {c['answer']}\n\nВибір B: {c['wrong']}" for i,c in enumerate(cards,1))
+ # Answer positions alternate; the second game reverses them, removing a mechanical always-A key.
+ c1,c2=cards
+ material1=f"Хід1: {c1['prompt']} A — {c1['answer']}; B — {c1['wrong']}.\n\nХід2: {c2['prompt']} A — {c2['wrong']}; B — {c2['answer']}."
+ material2=f"Квиток1: {c2['prompt']} A — {c2['answer']}; B — {c2['wrong']}.\n\nКвиток2: {c1['prompt']} A — {c1['wrong']}; B — {c1['answer']}."
+ return f'''# Дві симуляції · 7 клас · {n:03d} · {l['date']}
 
 **Тема:** {l['topic']}  
-Код учня/позначка: ____________________  Дата виконання: ______________
+**Мовний результат дати:** {p['task']}
 
-Усі персонажі й події вигадані. Можна писати про героя; особисті історії не потрібні. Обери спосіб: сам / пара / письмово. Якщо умови небезпечні — зупини роботу й виконуй вказівки дорослих. Дорогою до укриття завдань не виконуємо.
+Це teacher-only сценарії для паперу/чату. Герої вигадані; камери, руху, гучних сигналів, реальних особистих історій не потрібно. Кожна гра замінює час у плані A/C; не додається зверху до45 хв. У контролі ігрова перевірка — окремий формувальний зразок, не заміна офіційних блоків L/R/S/P. За тривоги зупинити; під час переміщення не грати. B — лише після прибуття/дозволу/умов; якщо їх немає, перенести. D — пізніше у безпечному місці зі світлом.
 
-**Мінімум без мережі (12 хв у безпечному місці зі світлом):** 0–2 словник; 2–5 R1–R2; 5–8 G1–G2; 8–11 два речення P; 11–12 познач «завершено/продовжити». В укритті лише після дозволу; не потрібно читати вголос.
+## 1 · Редакція матеріалу: навчання,7 хв
 
-## Словник для навчання
+**Роль і мета:** учень — редактор картки з теми «{l['topic']}»; учитель — замовник. Редактор має допустити2 точні рядки й виправити неточний вибір. Це засвоєння з дозволеною опорою.
 
-{lex_table}
+**Стартовий стан:**0 із2 рядків підтверджено; джерело видно. Учитель читає/показує дві картки нижче; учень має олівець або приватний чат. Для граматики джерело — правило, для лексики — словник, для інших — конкретний текст/зразок цієї дати.
 
-## V · Зістав слова й значення
+**Готові джерела:**
 
-{match}
+{r}
 
-Мої 2 словосполучення: ____________________________ / ____________________________
+**Ходи та наслідки:**
 
-## R · Прочитай авторську історію
+{material1}
 
-{r['text']}
+- Хід1: A → перший рядок прийнятий (стан1/2); B → рядок залишається в чернетці (стан0/2). Учитель каже: “Check which words answer this exact question.” Учень повертається до видимого джерела й повторює тільки цей хід.
+- Хід2: B → другий рядок прийнятий; A → не затверджуємо рядок, повертаємося до відповідної картки. Після повтору записуємо «з підтримкою», не стираємо першу спробу.
 
-{questions(rquestion)}
+**Англійські репліки:** “I choose … because the card says …”; “Could you repeat the question?”; “I will change this word.” Учень може спершу записати репліку.
 
-Підкресли в тексті слова-докази. Тема історії одним словом: ____________________
+**Стан успіху:**2/2 точних вибори й одна власна фраза з матеріалу. Для граматики — завершене речення з вибраною формою; для лексики — осмислений контекст; для читання/слухання — точний факт; для P/S — рядок, що виконує умову продукту. Орієнтир відкритого продукту: **{p['model']}**. Прийняти інші зрозумілі варіанти, які зберігають потрібний факт/форму й тему.
 
-## G · Модель і мовний вибір
+**Мовний доказ:** аркуш із2 виборами, підкреслене слово-доказ,1 виправлена/створена фраза. Оцінка емоцій чи швидкості не потрібна.
 
-**Правило для навчального режиму:** {g['rule']}  
-**Модель:** {g['model']}
+**Час на заміну:**0–1 хв ролі;1–3 перший хід;3–5 другий;5–6 власна фраза;6–7 фіксація підтримки. Замінити7 хв основного тренувального блоку12–24, решту цього блоку присвятити одному перенесенню. Не виконувати той самий обсяг вправ ще раз.
 
-{practice(g)}
+## 2 · Пропуск до публікації: перевірка,5 хв
 
-Поясни один вибір: __________________________________________________________
+**Роль і мета:** учень — незалежний інспектор, що перевіряє2 нові квитки за тим самим матеріалом. Порядок карток та відповідей змінений. Мета — самостійно встановити, який рядок відповідає запиту, а не вгадати постійну букву.
 
-## L · Слухання: запитання
+**Стартовий стан:**0/2 квитків перевірено; учитель не показує ключ, модель продукту й пояснення першої гри. У читанні текст залишається; у лексичному/граматичному пригадуванні словник/правило закриті. Для слухання текст не показують: учитель читає відповідне джерело двічі й фіксує L лише за реальної чутності. Якщо джерело прочитане учнем, це R.
 
-Учитель читає текст двічі; додаток у кінці закрий/відділи ДО слухання. Спочатку визнач ситуацію, потім запиши факти. Якщо голосу не чути, повідом учителю; читання не позначається як аудіювання.
+{material2}
 
-{questions(aquest)}
+**Перші2 ходи:** учень записує обидві відповіді до будь-якого зворотного зв’язку. Ключ: квиток1 — **A: {c2['answer']}**; квиток2 — **B: {c1['answer']}**. Правдоподібний варіант за темою ще не є підтвердженою відповіддю; перевірити саме запит і доказ. Кожний правильний вибір дає1 первинний бал.
 
-## S · Картка діалогу
+**Перехід стану:**2/2 → “Ready to publish”;1/2 → “One detail needs checking”;0/2 → “Return to the source”. Це стан тексту, не ярлик учня. Після фіксації першої спроби показати джерело; дати один повтор як навчання, окремо позначений «після підказки».
 
-A: запропонуй тематичну подію/дію за R або власним вигаданим прикладом, назви місце й час.  
-B: запитай Where…? та When…?, попроси повторити деталь, запропонуй одну зміну.  
-A: дай відповідь і поясни вибір because…  
-Потім поміняйтеся ролями. При самостійній роботі запиши обидві ролі; усний зразок надай пізніше, коли можливо.
+**Додатковий мовний доказ (без нового прихованого бала):** учень завершує “The correct detail is …” або записує один правильний рядок. В усній взаємодії вчитель має реально почути коротку репліку; чат і записаний сценарій не є доказом говоріння. Відкрита відповідь прийнятна, якщо передає точний факт/форму, відповідає темі й зрозуміла адресату; приклад — модель вище.
 
-A: ______________________________________________________________________
+**Час на заміну:**0–1 хв інструкція;1–3 два самостійні ходи;3–4 фіксація2 первинних відповідей;4–5 відгук і один навчальний повтор. Замінити5 хв перевірки33–40; для довшого слухового джерела замінити весь7-хвилинний блок і скоротити повтор до наступної зустрічі. Не додавати5 хв до45.
 
-B: ______________________________________________________________________
+## Варіанти доступу та фіксація
 
-A: ______________________________________________________________________
+- Папір у класі: учитель виписує лише2 запити/вибори й потрібне джерело, ключ тримає у своїй копії. Учень позначає букви й одну фразу; виграш не потребує швидкості.
+- Тихе укриття: тільки після дозволу й за умов читання; один хід мовчки на папері замість частини B. Слухання не проводимо; цей слід позначаємо читанням/мовним вибором. Немає умов — перенести.
+- Чат без камери: джерело та2 запити звичайним текстом; учень надсилає “1A;2B” і одну фразу приватно. Це письмовий доказ, не автоматично усний.
+- Соло/без електрики: паперова копія видана заздалегідь; учень робить вибори й підкреслює доказ, ключ відкриває після першої спроби або звіряє з учителем пізніше. Тільки у безпечному освітленому місці.
 
-B: ______________________________________________________________________
-
-A: ______________________________________________________________________
-
-B: ______________________________________________________________________
-
-## P · Твій тематичний продукт
-
-{task}
-
-Опори для навчання: I suggest… / It is in… / It starts at… / because… / Could you repeat…? У контрольному режимі вчитель відділяє модель/словник до самостійної роботи.
-
-План (3 слова): __________________ / __________________ / __________________
-
-1. ______________________________________________________________________
-
-2. ______________________________________________________________________
-
-3. ______________________________________________________________________
-
-4. ______________________________________________________________________
-
-5. ______________________________________________________________________
-
-6. ______________________________________________________________________
-
-У проєкті — чернетка вище; 2 зміни до чистового варіанта:
-
-Зміна 1: __________________________________________________________________
-
-Зміна 2: __________________________________________________________________
-
-## F · Редагування й портфоліо
-
-У чернетці 3 неточності. Виправ їх і поясни 2 зміни. Для портфоліо збережи обидві версії.
-
-{bad}
-
-Моя версія: ________________________________________________________________
-
-___________________________________________________________________________
-
-Чому змінив/змінила: _______________________________________________________
-
-Наступного разу перевірю (мовна дія): _______________________________________
-
-## Exit і паперове ДЗ
-
-Один факт: ________________________________________________________________
-
-Одна мовна модель: _________________________________________________________
-
-Останній завершений код V / R / G / L / S / P / F: ______  Потрібно уточнити: ______
-
-ДЗ 5–7 хв: чистовий P (підтримка 3 речення; базово 5–6), 2 підкреслені тематичні слова, 1 виправлена форма, 1 Where/When-запитання до R. Після скороченого уроку — тільки 2 речення і 1 запитання. Після контролю — лише навчальна рефлексія; незавершений контроль узгоджуємо окремо.
-
-## Додаток L · Відділити або зігнути до слухання
-
-Для самостійного навчання весь текст доступний на папері. Для перевірки слухання вчитель відділяє цей додаток і читає його зі своєї копії. Самостійне читання цього тексту є практикою читання, а не результатом слухання.
-
-{a['text']}
-
+У report.md: назва гри, замінений блок, первинні2 відповіді, підтримка/повтор окремо, реально отриманий вид мовного доказу. Не створювати оцінок за емоції, камеру чи особисті розповіді.
 '''
- if assessed:
-  # In assessment mode, remove examples and grammar drills from the learner's test.
-  blocks=[]
-  if lr or diag:
-   blocks += [f'''## L · Слухання /3
+# Checked primary-source facts preserve lessons about known institutions/people.
+READING[69]=passage('The Olympic Movement names three core values: excellence, respect and friendship. A fictional class makes one paper poster for each value. The respect poster shows a player thanking an opponent. The friendship poster shows people helping each other learn. The pupils discuss the Olympic values, not current medal tables or a test of physical ability.',('Which three core values are named?','excellence, respect and friendship'),('What does the respect poster show?','a player thanking an opponent'),('What do the friendship characters help each other do?','learn'))
+READING[70]=passage('An interviewer at a classroom Olympic exhibition asks: What are the three core values? The guide answers: excellence, respect and friendship. The interviewer then asks for a classroom example of respect. The guide points to a drawing of a player thanking an opponent. This drawing is invented, but the names of the three values come from the Olympic Movement.',('What are the three core values?','excellence, respect and friendship'),('Which value needs an example?','respect'),('What is the player in the drawing doing?','thanking an opponent'))
+READING[105]=passage('Two factual cards introduce known opera houses. The Royal Opera House is in London’s Covent Garden. The National Opera of Ukraine is in Kyiv and bears the name of Taras Shevchenko. A fictional pupil compares the city names and the names of the buildings. The cards do not give ticket prices or today’s programme; those details would need a new check.',('Where in London is the Royal Opera House?','Covent Garden'),('In which city is the National Opera of Ukraine?','Kyiv'),('Whose name does the Ukrainian institution bear?','Taras Shevchenko'))
+READING[106]=passage('The National Opera of Ukraine is a known theatre in Kyiv. Its building opened in 1901. The architect was Viktor Shreter. A fictional pupil uses these three checked facts in a short presentation: name, city and building history. The pupil distinguishes these facts from a personal comment about the architecture. No current performance date or ticket price is invented.',('In which city is this theatre?','Kyiv'),('When did its building open?','1901'),('Who was the architect?','Viktor Shreter'))
+READING[51]=passage('Two invented pen pals compare New Year celebrations in their own stories. Mia in Denmark describes exchanging written wishes before midnight. Leo in Colombia describes creating a paper calendar the next morning. These are fictional individual examples, not national traditions. The pupils compare the time and the activity, without saying everyone in either country celebrates alike.',('What is exchanged in Mia’s story?','written wishes'),('What is created in Leo’s story?','a paper calendar'),('Which two features do the pupils compare?','the time and the activity'))
+PRODUCT[77]=('Напиши5-реченнєвий блог про відому плавчиню Яну Клочкову за факт-карткою: Ukraine; swimming;4 Olympic gold medals;1 Olympic silver medal. Додай особисту реакцію вигаданого автора; не вигадуй рекордів, тренувань чи цитат.','Yana Klochkova is a swimmer from Ukraine. Her sport is swimming. She won four Olympic gold medals. She also won one Olympic silver medal. I would like to learn more about her sporting career.')
+PRODUCT_CARDS[77]=[('Which sport is named?','swimming'),('How many Olympic gold medals are named?','four')]
+LISTENING[108]=passage('Charlie Chaplin was born in London in 1889. He became famous for his screen character, the Tramp. His film City Lights was made as a silent film. A fictional class uses these checked details to prepare a short actor profile. The pupils can describe the facts without copying a long biography or claiming that every Chaplin film was silent.',('Where was Chaplin born?','London'),('What was his famous screen character?','the Tramp'),('Which silent film is named?','City Lights'))
+FACT_SOURCES={
+69:[('IOC Olympic values','https://brand-centre.olympic.org/olympism')],
+70:[('IOC Olympic values','https://brand-centre.olympic.org/olympism')],
+77:[('World Aquatics: Klochkova medal record','https://www.worldaquatics.com/athletes/1038214/yana-klochkova/medals')],
+105:[('Royal Ballet and Opera','https://www.rbo.org.uk/about/the-royal-ballet-and-opera'),('National Opera architecture','https://www.opera.com.ua/en/about/architecture')],
+106:[('National Opera architecture','https://www.opera.com.ua/en/about/architecture')],
+108:[('Official Chaplin biography','https://www.charliechaplin.com/en/articles/21-Overview-of-His-Life')],
+119:[('UK Parliament: four nations','https://questions-statements.parliament.uk/written-questions/detail/2025-05-06/HL7177/')],
+}
+
+def validate_profile(p):
+ """Content assertions, not merely presence of document headings."""
+ for label in ('r','a'):
+  text=p[label]['text'].casefold()
+  assert len(p[label]['qas'])==3,(p['number'],label)
+  for x in p[label]['qas']:
+   assert x['answer'].casefold() in text,(p['number'],label,x)
+   assert x['evidence'].casefold() in text,(p['number'],label,x)
+ for question,answer in p['g']['items']:
+  choices=question.rsplit('(',1)[1].rstrip(')').split(' / ')
+  assert answer in choices,(p['number'],question,answer)
+  assert len(choices)==2 and len(set(choices))==2
+ for card in simulation_cards(p):
+  assert card['answer']!=card['wrong'],(p['number'],card)
+  if p['mode'] not in ('grammar','review','portfolio'):
+   assert card['answer'].casefold() in card['source'].casefold(),(p['number'],card)
+ assert 1<=len(p['core'])<=3
+ for card in checking_cards(p):
+  assert card['answer']!=card['wrong'],(p['number'],card)
+  if p['mode'] not in ('grammar','review','portfolio'):
+   assert card['answer'].casefold() in card['source'].casefold(),(p['number'],card)
+ assert checking_cards(p) != simulation_cards(p),p['number']
+ if p['mode']=='assessment':
+  for label in ('r','a'):
+   reserve=alternate(p[label]);assert reserve['text']!=p[label]['text']
+   for q in reserve['qas']:assert q['answer'].casefold() in reserve['text'].casefold()
+
+
+def build(p):
+ validate_profile(p);l=p['source'];folder=BASE/f"{p['number']:03d}";folder.mkdir(parents=True,exist_ok=True)
+ write(folder/'lesson.md',lesson_plan(p));write(folder/'handout.md',learner_sheet(p));write(folder/'key.md',teacher_key(p));write(folder/'report.md',report(p));write(folder/'games.md',games(p))
+ if p['mode']=='assessment':write(folder/'recovery-handout.md',learner_sheet(p,True))
+ if p['number'] in FACT_SOURCES:
+  with (folder/'lesson.md').open('a',encoding='utf-8') as f:
+   f.write('\n## Перевірені факт-джерела\n\nПеревірено18 жовтня2026; для паперової вправи інтернет не потрібний.\n\n'+'\n'.join(f'- [{name}]({url})' for name,url in FACT_SOURCES[p['number']])+'\n')
+ return dict(number=p['number'],date=l['date'],topic=l['topic'],directory=f"{p['number']:03d}",source_id=l['source_id'],kind=l['kind'],focus=p['mode'],semester=l['semester'],calendar_status=l['calendar_status'])
+
+
+def review_record(p):
+ import hashlib
+ l=p['source'];d=BASE/f"{p['number']:03d}"
+ files=['lesson.md','handout.md','key.md']+(['recovery-handout.md'] if p['mode']=='assessment' else [])
+ return dict(number=l['number'],date=l['date'],topic=l['topic'],focus=p['mode'],grammar=p['gid'],primary_load=p['core'],source_outcome=l['expected_learning_evidence'],adaptation=p['task'],reading_words=len(p['r']['text'].split()),listening_words=len(p['a']['text'].split()),closed_reading_checks=p['r']['qas'],closed_listening_checks=p['a']['qas'],closed_grammar_checks=[dict(prompt=q,answer=a) for q,a in p['g']['items']],simulation_checks=simulation_cards(p),simulation_parallel_checks=checking_cards(p),checked=['source_date_topic_unchanged','closed_answers_supported_by_supplied_text','grammar_keys_in_options','model_and_required_product_correspond','main_load_separate_from_teacher_reserve','safe_B_D_and_camera_optional','assessment_reserve_independence','two_themed_simulations_with_actual_keys'],limitations=['Аудит матеріалу, не classroom playtest.','Живе усне мовлення та доступність конкретного класу перевіряє вчитель; чат не є усним доказом.'],source_sha256={f:hashlib.sha256((d/f).read_bytes()).hexdigest() for f in files})
 
-Учитель читає двічі. Додаток L в кінці вчитель відділяє ДО перевірки. Якщо голосу не чути, цей блок переноситься. Читання додатка не є результатом слухання.
-
-{questions(aquest)}
-
-## R · Читання /3
-
-{r['text']}
-
-{questions(rquestion)}
-
-Підкресли у тексті слова-докази до відповідей.
-
-''']
-  if sw or diag:
-   blocks += [f'''## S · Усна взаємодія /{'6' if sw else '3'}
-
-Роль A: запропонуй вигадану тематичну подію/дію «{b['title']}», назви місце, час і мету. Роль B: постав 2 запитання (про місце та час), попроси уточнити одну деталь, запропонуй зміну. A відповідає й дає причину. Поміняйтеся ролями. Підготовка на папері дозволена; зразок має бути реально почутий учителем. Письмовий діалог готує до говоріння, але не замінює усний доказ. Камера добровільна.
-
-План — ключові слова, не готовий текст: _____________________________________
-
-___________________________________________________________________________
-
-## P · Письмо /{'6' if sw else '3'}
-
-{task}
-
-План: __________________ / __________________ / __________________
-
-1. ______________________________________________________________________
-
-2. ______________________________________________________________________
-
-3. ______________________________________________________________________
-
-4. ______________________________________________________________________
-
-5. ______________________________________________________________________
-
-6. ______________________________________________________________________
-
-''']
-  handout=f'''# 7 клас · Урок {n:03d} · Самостійна перевірка
-
-**Тема:** {l['topic']}  
-Код учня: ____________________  Фактична дата: ____________________
-
-Виконуй лише зазначені нижче блоки. Усі ситуації вигадані; особисті відомості не потрібні. Умови допомоги узгоджуються до початку. За тривоги припини роботу та виконуй вказівки дорослого; незавершене переноситься. У B/D це тренувальний місток, контроль продовжується окремо. Камера не оцінюється.
-
-**Критерії:** {spec}
-
-'''+''.join(blocks)+f'''## Після здавання роботи
-
-Що допомогло знайти факт / побудувати репліку: _______________________________
-
-Що потрібно уточнити наступного разу: _______________________________________
-
-Незавершений блок: __________________ Причина/умови за бажанням: ____________
-
-Для паперового мосту D у безпечному місці зі світлом (12 хв): 0–2 прочитай інструкцію, 2–5 знайди 2 факти у R або сплануй 2 репліки S, 5–9 запиши 2 тематичні речення, 9–12 познач запитання й збережи аркуш. Це підготовка, не підсумковий результат L/S. Завдання не виконуємо під час переміщення або за відсутності умов.
-
-## Додаток L — ВІДДІЛИТИ ДО ПЕРЕВІРКИ
-
-Учитель залишає цю частину собі й читає двічі. Для пізнішого самостійного навчання текст доступний тут повністю. Його самостійне читання — доказ R, а не L. Якщо урок перевіряє лише S/P, це необов’язковий текст для корекції після здавання.
-
-{a['text']}
-
-'''
- key=f'''# Ключі · 7 клас · Урок {n:03d}
-
-Лише для вчителя; не роздавати разом з учнівським аркушем. Переклад/синонімічна коротка відповідь прийнятні для розуміння, якщо факт точний; мовну форму коментувати окремо. Орфографічну помилку, що не змінює факту, не карати вдруге.
-
-## V
-
-{match_key}. По 1 за точну відповідність; /4. Власні словосполучення: прийняти осмислену сполуку з тематичним словом, зразок контекстного вживання — у моделі P нижче; за потреби виправити лексичну сполучуваність; ці 2 приклади не додають прихованих балів.
-
-## R
-
-'''+ '\n'.join(f'{i}. {answer.rstrip(chr(46))}.' for i,(_,answer) in enumerate(rquestion,1))+f'''
-
-По 1 за факт; /3. Можна відповісти коротко; докази — відповідні речення тексту про місце, час і предмет/подію.
-
-## G
-
-'''+ '\n'.join(f'{i}. {answer.rstrip(chr(46))}.' for i,(_,answer) in enumerate(g['items'],1))+f'''
-
-По 1 за правильну форму; /4. Пояснення: {g['rule']}
-
-## L · Сценарій читання вчителем
-
-Закрити/відділити додаток L в учнів. Прочитати двічі чітко, без театральних рухів та звукових ефектів, з паузою 45 секунд. Не наголошувати тільки правильні слова й не підказувати жестами.
-
-{a['text']}
-
-**Відповіді:**
-
-'''+ '\n'.join(f'{i}. {answer.rstrip(chr(46))}.' for i,(_,answer) in enumerate(aquest,1))+f'''
-
-По 1 за факт; /3. При поганій чутності перенести L; текстове читання позначити R, не L.
-
-## S · Зразок діалогу
-
-A: Let us meet at {r['place']}.
-B: When shall we meet?
-A: {r['time']}.
-B: Could you repeat the place, please?
-A: {r['place']}. I suggest preparing {r['item']} because it fits our topic.
-B: Thank you. Can we write a short plan first?
-
-Це один можливий варіант, не текст для обов’язкового заучування. Додатковий запит Where shall we meet? прийнятний. Оцінити, чи співрозмовник справді отримав відповідь; письмовий сценарій сам собою не доводить говоріння.
-
-## P · Зразок та критерії
-
-{product_model}
-
-Факти власної вигаданої події можуть відрізнятися від R, якщо завдання не вимагає перенесення саме фактів R. Для завдання читання з додатковими 2 фактами перевірити їх за R: **{r['place']}; {r['time']}; {r['item']}**. У проєкті перевірити назву, читабельні 3 факти, чернетку й 2 зміни; у граматичному уроці — дві цільові моделі; у лексичному — 4 слова.
-
-Формувальна рубрика відкритого продукту (кожен вимір 0–2):
-
-- Зміст: 0 — продукт відсутній/поза темою; 1 — мета зрозуміла, але бракує 2 обов’язкових деталей; 2 — є мета, адресат і потрібні тематичні деталі.
-- Організація: 0 — не можна відновити послідовність; 1 — послідовність зрозуміла з підтримкою; 2 — логічний початок, факти й завершення / доречна черговість реплік.
-- Мовна зрозумілість: 0 — зміст не відновлюється; 1 — помилки є, але основний зміст зрозумілий; 2 — цільові моделі переважно точні, ключові слова доречні.
-
-/6 — первинний навчальний показник, не автоматична офіційна оцінка. У S допускається пауза, паперова підготовка й відсутність камери. Для 6-бальної рубрики S: зміст — виконання ролі/запитів; організація — відповідь/уточнення; мовна зрозумілість — зрозумілий усний зразок. Потрібну допомогу зафіксувати, емоції не оцінювати.
-
-## F
-
-**Виправлена версія:** {fixed}
-
-**Пояснення:** {g['rule']} Прийняти інші граматично коректні виправлення зі збереженим змістом; пояснення двох змін може бути українською. Для портфоліо доказ — «до», «після», дві причини й наступний перевірюваний крок; твердження «я старався» без прикладу попросити конкретизувати.
-
-## Специфікація цього уроку
-
-{spec}
-
-B/D — скорочений місток, не повна перевірка всіх умінь. Не переносити автоматично бал за письмовий чат у результат говоріння; не записувати повне аудіювання, якщо учень читав. За переривання зберегти достовірні блоки, невиконане позначити «перенесено», не нулем за технічну недоступність.
-
-## ДЗ
-
-Приймається будь-який осмислений чистовий текст за тематичною умовою P, 2 тематичні слова й одне запитання з правильною моделлю. Приклади запитання до R: Where does the story take place? When does the event happen? Відповіді: {r['place']}; {r['time']}. Після контрольного уроку перевіряється лише факт навчальної рефлексії; це не новий підсумковий бал.
-'''
- report=f'''# Фактичний звіт · 7 клас · запланований урок {n:03d}
-
-Планова дата: {l['date']}  
-Тема за планом: {l['topic']}  
-Це незаповнений шаблон. Він не засвідчує проведення чи результати.
-
-- Фактична дата / час / тривалість: ______________________________________
-- Форма / маршрут A / B / C / D / перенесено: ______________________________
-- Умови (без зайвих персональних даних): _________________________________
-- Переривання: час, завершений код, що перенесено: ________________________
-- Для B: прибуття завершено, дозвіл / умови читання: _______________________
-- Реально проведені етапи й використані матеріали: _______________________
-- Кількість наданих робіт / відкладених доказів: ___________________________
-- Докази R / L / S / P (окремо, лише реально спостережені): ________________
-- Результат за критеріями / типові мовні труднощі: _________________________
-- Рівень підтримки / адаптації без медичних діагнозів: _____________________
-- Авторська SEL-практика / можливість вибору (без оцінок емоцій): ___________
-- Наданий зворотний зв’язок: _____________________________________________
-- Фактично задана паперова домашня робота: _______________________________
-- Невиконаний зміст і дата/спосіб повернення: _____________________________
-- Для контролю: завершені блоки / перенесені блоки / умови самостійності: ___
-- Наступний навчальний крок: _____________________________________________
-- Примітка для журналу після перевірки факту: ____________________________
-
-Не вносити в репозиторій персональні відповіді учнів, оцінки, діагнози, контакти чи приватні посилання. Заповнений облік зберігати в дозволеній закладом системі. План і цей порожній шаблон доступні лише через репозиторій, без посилань у каталозі сайту.
-'''
- if assessed:
-  reserve=context(u,n,0)
-  reserve_r=context(read_u,n,0)
-  rq=[('Where does the story take place?',reserve_r['place']),('When does the event or meeting happen?',reserve_r['time']),('What item, activity or document is mentioned?',reserve_r['item'])]
-  lq=[('Where does the story take place?',reserve['place']),('When does the event or meeting happen?',reserve['time']),('What item, activity or document is mentioned?',reserve['item'])]
-  recovery=f'''# Резерв самостійної перевірки · 7 клас · Урок {n:03d}
-
-Код учня: ____________________ Фактична дата: ____________________
-
-**Тема:** {l['topic']}. Завершені до переривання блоки вдруге не виконуй. Учитель назве тільки відкладені блоки. Усі ситуації вигадані; камеру не вимагаємо. Структура часу й критерії — як у першому варіанті; на поновлення дати 2 хв прочитати інструкцію. Якщо умови знову перервано — зупинити роботу. Моделі/словник не відкривати під час самостійної частини, крім погодженої адаптації.
-
-'''
-  if lr or diag:
-   recovery+=f'''## L · Слухання /3
-
-Прослухай повідомлення двічі. Додаток L відділяє вчитель до перевірки.
-
-{questions(lq)}
-
-## R · Читання /3
-
-{reserve_r['text']}
-
-{questions(rq)}
-
-'''
-  if sw or diag:
-   recovery+=f'''## S · Усна взаємодія
-
-Придумайте нову вигадану тематичну подію «{b['title']}» в іншому місці й на годину пізніше, ніж у попередньому вашому діалозі. A пропонує й називає мету; B запитує місце/час, просить уточнення та пропонує зміну; A відповідає з причиною. Поміняйтеся ролями. Шість реплік; учитель має їх реально почути без вимоги камери.
-
-Ключові слова: _____________________________________________________________
-
-## P · Письмо
-
-{b['task']} Використай нові вигадані деталі, відмінні від першої чернетки. 5–6 речень (якщо діалог — 6–8 реплік), самостійно.
-
-___________________________________________________________________________
-
-___________________________________________________________________________
-
-___________________________________________________________________________
-
-___________________________________________________________________________
-
-___________________________________________________________________________
-
-___________________________________________________________________________
-
-'''
-  recovery+=f'''## Додаток L — ВІДДІЛИТИ ДО ПЕРЕВІРКИ
-
-Тільки для читання вчителем; текст на папері наданий також для пізнішої самостійної роботи. Після відкриття його читання не є аудіюванням.
-
-{reserve['text']}
-'''
-  (folder/'recovery-handout.md').write_text(re.sub(r'(?<!\.)\.\.(?!\.)','.',recovery),encoding='utf-8')
-  key+='\n## Резерв після переривання — ключ до recovery-handout.md\n\nL: '+ '; '.join(f'{i}. {v.rstrip(chr(46))}' for i,(_,v) in enumerate(lq,1))+'.\n\nR: '+ '; '.join(f'{i}. {v.rstrip(chr(46))}' for i,(_,v) in enumerate(rq,1))+'.\n\nТекст L для двох читань: '+reserve['text']+'\n\nS/P: критерії першого варіанта зберігаються; нові місце, час і деталі є вигаданими, довільними та внутрішньо узгодженими. Для діалогу зсув часу на годину перевіряти відносно попереднього учнівського продукту, а не чужої історії. Якщо зразка попереднього S немає, учень обирає нові деталі без порівняння. Зараховувати тільки відкладені блоки; не підсумовувати два варіанти подвійно.\n'
- for filename,content in [('lesson.md',admin),('handout.md',handout),('key.md',key),('report.md',report)]:
-  (folder/filename).write_text(re.sub(r'(?<!\.)\.\.(?!\.)','.',content),encoding='utf-8')
- return dict(number=n,date=l['date'],topic=l['topic'],directory=f'{n:03d}',source_id=l['source_id'],kind=l['kind'],focus=mode,semester=l['semester'],calendar_status=l['calendar_status'])
 
 def main():
  source=json.loads((BASE/'source-plan.json').read_text(encoding='utf-8'))
  assert len(source['lessons'])==140
  assert [x['number'] for x in source['lessons']]==list(range(1,141))
- rows=[build(l) for l in source['lessons']]
- manifest={'grade':7,'academic_year':source['academic_year'],'lessons':rows}
- (BASE/'manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
- readme='''# Службова папка вчителя · 7 клас · 2026/2027
+ ps=[profile(l) for l in source['lessons']]
+ rows=[build(p) for p in ps]
+ write(BASE/'manifest.json',json.dumps({'grade':7,'academic_year':source['academic_year'],'lessons':rows},ensure_ascii=False,indent=2))
+ write(BASE/'quality-review.json',json.dumps({'grade':7,'review_date':'2026-10-18','method':'Authorial methodological desk review plus exhaustive structured content checks; no classroom playtest.','lessons':[review_record(p) for p in ps]},ensure_ascii=False,indent=2))
+ text='''# Службові матеріали вчителя · 7 клас · 2026/2027
 
-Повне календарне покриття: **140 уроків**, 65 у I семестрі та 75 у II. Номери/дати/теми з очищеного [source-plan.json](source-plan.json), походження та SHA-256 зазначено там. Це підготовка й порожні шаблони звіту; фактичне проведення не підтверджується. Дати II семестру у вихідному плані — проєкція. Тематичні розділи зіставлено з `7/lessons.json` без копіювання приватних URL і журналів.
+140 календарних уроків:65 у I семестрі,75 у II. Номери, дати й теми точно з [очищеного джерела](source-plan.json); там походження й SHA-256 плану та каталогу. II семестр — проєкція джерела. План і порожній звіт не засвідчують факту проведення.
 
-Для контрольних уроків додано `recovery-handout.md`: рівноцінний резерв відкладених блоків після переривання, ключ у кінці `key.md`. Відділяйте додаток L до самостійної роботи.\n\nУ кожній папці: `lesson.md` (адміністративний план, опорний конспект, A 45 хв / B 15 хв / C 45 хв / D 12 хв, диференціація, ДЗ), `handout.md` (самодостатній паперовий учнівський аркуш), `key.md` (відповіді, сценарій слухання, зразки й критерії), `report.md` (порожній фактичний звіт). `handout.pdf` — для друку учням, `teacher.pdf` — план + ключі + звіт для вчителя. Генератор Markdown: `python3 scripts/build_teacher_grade7.py`, лише стандартна бібліотека та збережене очищене джерело; локальні підручники не потрібні.
+Кожен пакет: `lesson.md` — адміністративний план, опорний конспект, A45/B15/C45/D12, диференціація; `handout.md` — тільки основний учнівський обсяг, без універсального комплекту всіх вправ; `key.md` — повні ключі, моделі й учительський резерв; `report.md` — порожній шаблон факту; `games.md` —2 готові симуляції на заміну блоків. PDF: `handout.pdf`, `teacher.pdf`, `games.pdf`. Для8 перевірок також `recovery-handout.md` і `recovery-handout.pdf`; додаток L відділяють до слухання.
 
-Матеріали авторські, адаптовані до тем і функцій плану; це не копії сторінок SB/WB та не офіційні вправи «Зерна». Робочий словник свідомо звужений; повний лексичний орієнтир джерела наведено в конспекті для подальшого введення. Навчальні критерії не вигадують нормативні коди чи офіційне переведення первинних балів у шкільну оцінку.
+[Методичний аудит](QUALITY_REVIEW.md) описує конкретні недоліки й виправлення. [Поурочний аудит](quality-review.json) містить140 записів, мовні перевірки й SHA-256 актуальних lesson/handout/key/recovery. Генерація: `python3 scripts/build_teacher_grade7.py`; перевірка: `python3 tests/check_teacher_grade7_quality.py`. Стандартна бібліотека, локальні підручники не потрібні.
 
-Сигнал тривоги зупиняє навчання; під час переміщення завдань немає. B дозволений лише після прибуття, перевірки присутності й дозволу дорослого, за наявних умов читання. У тісному шумному укритті без руханок/аудіо/особистих розповідей; якщо умов немає — перенести. D виконується пізніше у безпечному місці зі світлом. Камера добровільна; чат підтверджує письмову участь, усне мовлення потребує реально почутого зразка. Письмо/читання не підміняють говоріння/слухання у звіті. Для контролю додаток L і мовні моделі в учнів відділяють до самостійної частини; за переривання контроль продовжується окремо.
+Матеріали авторські за конкретними цілями плану, не дослівні сторінки SB/WB та не офіційні вправи «Зерна». Додаткові компетентнісні коди й офіційні шкали не вигадано. Емоції, камера та особисті історії не оцінюються. Тексти про відомі театри, спортсменку й актора мають первинні факт-джерела в конспектах; решту особистих ситуацій можна вигадувати.
 
-Не публікувати ці файли у вебкаталозі. Публічний репозиторій сам по собі не забезпечує конфіденційність; сюди не додавати заповнені персональні звіти. Паперовий пакет слід видати ДО очікуваних відключень.
+За тривоги навчання зупинити. Під час переміщення не вчити. B — лише після прибуття, дозволу й за умов читання; без руханок/аудіо/публічних особистих історій. Немає умов — переносити. D — пізніше у безпечному освітленому місці. Чат — письмовий доказ; L/S потребують реально почутого/прослуханого матеріалу. B/D не підтверджують повний контроль. Аркуші видати до відключень. Заповнені персональні звіти не комітити в публічний репозиторій. Ці службові матеріали не додаються у вебкаталог.
 
-## Покриття календаря
+## Календарне покриття
 
-| № | Дата | Тема | План | Друк учня | Вчитель |
+| № | Дата | Тема | План / ключ / звіт | Учень | Симуляції |
 |---|---|---|---|---|---|
 '''
- for x in rows:
-  d=x['directory'];readme+=f"| {x['number']} | {x['date']} | {x['topic']} | [MD]({d}/lesson.md) | [MD]({d}/handout.md) · [PDF]({d}/handout.pdf) | [Ключ]({d}/key.md) · [Звіт]({d}/report.md) · [PDF]({d}/teacher.pdf) |\n"
- (BASE/'README.md').write_text(readme,encoding='utf-8')
- print(f'Built {len(rows)} grade-7 packs in {BASE}')
+ for row in rows:
+  d=row['directory'];rec=f' · [Резерв]({d}/recovery-handout.md)' if row['focus']=='assessment' else ''
+  text+=f"| {row['number']} | {row['date']} | {row['topic']} | [План]({d}/lesson.md) · [Ключ]({d}/key.md) · [Звіт]({d}/report.md) · [PDF]({d}/teacher.pdf) | [MD]({d}/handout.md) · [PDF]({d}/handout.pdf){rec} | [MD]({d}/games.md) · [PDF]({d}/games.pdf) |\n"
+ write(BASE/'README.md',text)
+ print(f'Built and checked140 Grade7 packs,8 reserves,280 simulations.')
+
+
+GAME_PARALLELS={
+1:passage('A different fictional study group asks members to bring one question and a pencil. A learner may write a reply instead of reading it aloud. The group chooses one helper to repeat instructions calmly.',('What should members bring besides a question?','a pencil'),('What may a learner write instead of reading aloud?','a reply'),('Who repeats instructions?','one helper')),
+37:passage('Another fictional food artist plans a paper picture of a bird. Yellow shapes form its wings, and green shapes form the leaves around it. The artist makes a sketch before arranging paper shapes. No real food or sharp tool is used.',('What animal is in the planned picture?','a bird'),('Which colour forms the wings?','Yellow'),('What does the artist make first?','a sketch')),
+51:passage('In a new invented New Year story, Ada writes a greeting before midnight. Ben makes a paper calendar after breakfast. They compare the order of activities and ask before sharing a picture of the celebration.',('What does Ada write?','a greeting'),('When does Ben make a calendar?','after breakfast'),('What do they ask before sharing?','a picture')),
+69:passage('At a different Olympic-values display, a friendship card shows a team helping a newcomer. An excellence card shows an athlete practising a new skill. A respect card shows a player thanking the referee. These are invented examples of the three Olympic values.',('Whom does the team help on the friendship card?','a newcomer'),('What is the athlete practising?','a new skill'),('Whom does the player thank?','the referee')),
+70:passage('A new Olympic-values interviewer asks which card shows respect. The guide points to a drawing of a player thanking the referee. A second question asks how the friendship card is different: it shows a team helping a newcomer.',('Whom does the player thank?','the referee'),('Whom does the team help?','a newcomer'),('Which value is on the first card?','respect')),
+77:passage('A second checked medal card for Yana Klochkova lists four Olympic gold medals and one Olympic silver medal. That makes five Olympic medals in total. The pupil writes the total and the silver count, without inventing other records.',('How many Olympic silver medals are on the card?','one'),('How many Olympic medals are there in total?','five'),('How many gold medals are on the card?','four')),
+108:passage('A second factual card about Charlie Chaplin gives his birth year as 1889. It identifies City Lights as a silent film. A fictional museum visitor copies only these two checked details for a new short profile.',('What birth year is given?','1889'),('Which silent film is identified?','City Lights'),('What kind of visitor copies the facts?','A fictional museum visitor')),
+119:passage('A second classroom map has four United Kingdom name cards. The card above England is labelled Scotland. The card west of England is labelled Wales. A separate card reads Northern Ireland. Pupils read the names on this simplified paper layout.',('Which card is above England?','Scotland'),('Which card is west of England?','Wales'),('What does the separate card read?','Northern Ireland')),
+120:passage('A new draft city post is headed Dublin. Its classroom map has a museum and a public garden. A peer asks for a title and one reason to choose the short route. The writer adds: it includes a quiet stop. This is an invented itinerary, not travel guidance.',('What is the heading of the new post?','Dublin'),('Which two places are on this map?','a museum and a public garden'),('Why choose the short route?','it includes a quiet stop')),
+122:passage('A second classroom landmark card is labelled Tower Bridge. Its paper drawing has two towers and a crossing over water. A different card is labelled the Sydney Opera House. Learners copy only the names and details shown, without inventing prices or visit dates.',('Which named bridge is on the first card?','Tower Bridge'),('How many towers are in its drawing?','two towers'),('Which opera house labels the other card?','the Sydney Opera House')),
+123:passage('A different fictional Kyiv leaflet begins at a museum meeting point. Its two labelled stops are Golden Gate and a library. A quiet reading break comes after the library stop. The route ends at the museum meeting point; no real address is supplied.',('Which stop follows Golden Gate on the list?','a library'),('When is the reading break?','after the library stop'),('Where does the route end?','the museum meeting point')),
+}
+READING_PAIR={2:3,3:2,5:6,6:5,18:19,19:18,21:22,22:21,33:34,34:33,36:37,48:49,49:48,66:67,67:66,84:85,85:84,87:88,88:87,102:103,103:102,105:106,106:105}
+
+# Lesson-specific new situations for productive-mode checks; independent of the first model.
+PRODUCT_PARALLEL={
+11:passage('A new poll asks fictional Sam about the drama club. Sam chooses poster design because drawing is enjoyable. The interviewer records one vote for a quiet design role.',('Which club is in this new poll?','the drama club'),('Which role does Sam choose?','poster design'),('Why?','drawing is enjoyable')),
+12:passage('A new school website draft describes a book day. One group is arranging books; another is making recommendations. A quiet role is writing a caption for the display.',('Which event is described?','a book day'),('What is the first group arranging?','books'),('Which quiet role is offered?','writing a caption')),
+27:passage('For a different fictional celebration, Kim offers to arrange chairs. Robin offers to write labels. They ask each other to repeat the jobs before finalising the chart.',('Which job does Kim offer?','arrange chairs'),('Which job does Robin offer?','write labels'),('What do they ask each other to repeat?','the jobs')),
+28:passage('A new message says: Yesterday I dried the dishes. My friend fed the pet. Could we swap the jobs tomorrow? Thank you for checking our plan.',('Which job did the writer do?','dried the dishes'),('Which job did the friend do?','fed the pet'),('What does the writer request?','swap the jobs')),
+42:passage('A new kitchen-tool card labels a whisk. It is used for mixing ingredients. Pupils copy the name and function onto a paper chart without using the tool.',('Which tool is labelled?','a whisk'),('What is its function?','mixing ingredients'),('Where do pupils copy the information?','a paper chart')),
+43:passage('A new fictional dish is a cold sandwich. Its ingredients are bread, cheese and cucumber. Its paper utensil list has a plate and a spoon. The writer likes the clear ingredient list.',('Which dish is described?','a cold sandwich'),('Name the three ingredients.','bread, cheese and cucumber'),('Which utensils are listed?','a plate and a spoon')),
+56:passage('A different invented Thanksgiving family thanks guests with a drawing. Guests may leave a written greeting instead of speaking. The host asks permission before sharing the drawings.',('How does the host thank guests?','a drawing'),('What may guests leave instead of speaking?','a written greeting'),('What is asked before sharing?','permission')),
+57:passage('A different imaginary Easter email describes paper flower cards. The family also writes wishes for friends. A guest may observe quietly. The writer ends by inviting a reply.',('What kind of cards are described?','paper flower cards'),('What else is written?','wishes for friends'),('What may a guest do?','observe quietly')),
+75:passage('A different sport card is labelled water polo. It shows a pool, two teams and a ball. The speaker clarifies that a stick and a puck belong to the other underwater hockey card.',('Which sport labels the new card?','water polo'),('Which playing object does it show?','a ball'),('Which items belong to the other card?','a stick and a puck')),
+76:passage('A new club card offers a chess club on Tuesday at two. A learner can join as a scorekeeper. The organiser repeats the time when asked.',('Which club is offered?','a chess club'),('When does it meet?','Tuesday at two'),('Which role is offered?','a scorekeeper')),
+94:passage('A different fictional visitor says: I have a headache. Could you repeat the question? The receptionist offers to contact the responsible adult. No one in the language exercise gives a diagnosis.',('What symptom does the visitor describe?','a headache'),('What does the visitor ask to hear again?','the question'),('Whom will the receptionist contact?','the responsible adult')),
+95:passage('A different fictional email says the character had a headache. A responsible adult helped the character contact a nurse. The writer reports that conversation without naming medicine or suggesting treatment.',('What symptom is in the new email?','a headache'),('Who helped contact a nurse?','A responsible adult'),('What is not named?','medicine')),
+111:passage('A new invented film is a musical called Paper Stars. The viewer recommends it because the songs are memorable. A partner prefers a comedy; both choices are accepted.',('Which genre is Paper Stars?','a musical'),('Why is it recommended?','the songs are memorable'),('Which genre does the partner prefer?','a comedy')),
+112:passage('A new fictional review describes Paper Stars, a musical. Two friends prepare a school show. The reviewer likes the songs because they are memorable and the plot because it is clear.',('Which genre is reviewed?','a musical'),('What do the two friends prepare?','a school show'),('Why are the songs praised?','they are memorable')),
+128:passage('A new drawn landmark card is labelled Hill Museum. It shows three windows and a small courtyard. The presenter repeats the second feature after a listener asks for clarification.',('What is the landmark called?','Hill Museum'),('How many windows are shown?','three'),('What is the second feature?','a small courtyard')),
+129:passage('A new imaginary route starts at Hill Museum. It includes a gallery and a public square. The short route is chosen because it has a quiet bench. It ends at the museum gate.',('Which two attractions are included?','a gallery and a public square'),('Why is the short route chosen?','it has a quiet bench'),('Where does it end?','the museum gate')),
+}
+
+def checking_cards(p):
+ mode=p['mode'];n=p['number']
+ if mode in ('grammar','review','portfolio'):
+  out=[]
+  for q,answer in p['g']['items'][2:]:
+   choices=q.rsplit('(',1)[1].rstrip(')').split(' / ')
+   out.append(dict(prompt=q,answer=answer,wrong=next(x for x in choices if x!=answer),source=p['g']['rule']))
+  return out
+ if mode=='vocabulary':return [dict(prompt=f'Який вираз означає «{p["lex"][i][1]}»?',answer=p['lex'][i][0],wrong=p['lex'][i+2][0],source=p['lex'][i][0]+' — '+p['lex'][i][1]) for i in (2,3)]
+ if n in PRODUCT_PARALLEL:t=PRODUCT_PARALLEL[n]
+ elif n in GAME_PARALLELS:t=GAME_PARALLELS[n]
+ elif n==36:t=LISTEN_PARALLEL[39]
+ elif n in READING_PAIR:t=READING[READING_PAIR[n]]
+ elif mode=='listening':t=LISTEN_PARALLEL[n]
+ else:t=alternate(context(p['u'],n,0))
+ qs=t['qas'][1:] if n==105 else t['qas'][:2]
+ return [dict(prompt=q['question'],answer=q['answer'],wrong=t['qas'][(i+2)%3]['answer'],source=t['text']) for i,q in enumerate(qs)]
+
+OLD_GAMES=games
+def games(p):
+ text=OLD_GAMES(p);old1,old2=simulation_cards(p);new1,new2=checking_cards(p)
+ oldblock=f"Квиток1: {old2['prompt']} A — {old2['answer']}; B — {old2['wrong']}.\n\nКвиток2: {old1['prompt']} A — {old1['wrong']}; B — {old1['answer']}."
+ newblock='**Окрема паралельна картка для перевірки (нові дані):** '+new1['source']
+ if new2['source']!=new1['source']:newblock+='\n\n'+new2['source']
+ newblock+=f"\n\nКвиток1: {new1['prompt']} A — {new1['answer']}; B — {new1['wrong']}.\n\nКвиток2: {new2['prompt']} A — {new2['wrong']}; B — {new2['answer']}."
+ text=text.replace(oldblock,newblock)
+ text=text.replace(f"квиток1 — **A: {old2['answer']}**; квиток2 — **B: {old1['answer']}**",f"квиток1 — **A: {new1['answer']}**; квиток2 — **B: {new2['answer']}**")
+ text=text.replace('Порядок карток та відповідей змінений.','Дано іншу паралельну картку з новими предметними даними/формами.')
+ return text
+
+
+LISTEN_PARALLEL={
+8:passage('For a different school event, Kim will arrange a book display. Robin will write the programme. A learner who prefers a quiet role can check captions. The group agrees to finish the draft before lunch.',('What will Kim arrange?','a book display'),('What will Robin write?','the programme'),('Which quiet role is offered?','check captions')),
+24:PRODUCT_PARALLEL[28],
+39:passage('A new paper recipe makes a cold sandwich. It lists bread, cheese and cucumber. The utensil list has a plate and a spoon. First, an adult prepares the ingredients; next, the filling goes onto the bread; finally, the sandwich goes onto the plate. Pupils only edit the paper recipe.',('Which dish is described?','a cold sandwich'),('Which ingredients are listed?','bread, cheese and cucumber'),('Where does the sandwich go finally?','onto the plate')),
+53:passage('At a different invented winter meeting, one family draws paper lanterns and another writes greeting cards. A quiet guest can leave a drawing instead of speaking. These are individual fictional choices, not rules for a country.',('What does the first family draw?','paper lanterns'),('What does the second family write?','greeting cards'),('What can a quiet guest leave?','a drawing')),
+72:passage('A new water polo club card lists two non-playing roles. Ada will report the result, and Ben will check the written team list. The organiser asks both to confirm their role before the paper programme is printed. Nobody practises a water sport here.',('Who will report the result?','Ada'),('What will Ben check?','the written team list'),('What must both confirm?','their role')),
+90:passage('A new fictional verse says: Please repeat the word for me. Let me write what I can see. The character then writes a headache on a symptom card and asks a responsible adult for help. The class practises a polite request, not diagnosis.',('What does the speaker ask to hear again?','the word'),('What symptom is written?','a headache'),('Whom does the character ask for help?','a responsible adult')),
+108:GAME_PARALLELS[108],
+125:GAME_PARALLELS[123],
+}
+for workshop,base in ((81,72),(99,90),(116,108),(133,125)):LISTEN_PARALLEL[workshop]=LISTEN_PARALLEL[base]
+
+
+PROFILE_BEFORE_RECAP=profile
+def profile(l):
+ p=PROFILE_BEFORE_RECAP(l)
+ if p['mode']=='review' and p['number']!=136:
+  pairs={2:('past','past_cont'),6:('zero','past_perfect'),7:('degree','comparison'),8:('determiners','conjunctions')}
+  if p['u'] in pairs:
+   k1,k2=pairs[p['u']];g1,g2=GRAMMAR[k1],GRAMMAR[k2]
+   p['g']={'rule':g1['rule']+' '+g2['rule'],'model':g1['model']+' '+g2['model'],'items':[g1['items'][0],g2['items'][0],g1['items'][1],g2['items'][2]]}
+ return p
+
+
+READING_PRODUCTION={
+3:('Запиши2 репліки про гурток із R: одне змістове запитання й відповідь. Публічно говорити не обов’язково; усну репліку за можливості почує вчитель.','Which club does Robin choose? Robin chooses the library club because recommending books fits this hobby.'),
+6:('Напиши2 речення: одне порівняння двох шкільних свят із R, одне уподобання вигаданого героя з причиною.','School A holds a concert, but School B holds a book exhibition. My fictional character prefers the exhibition because it offers a quiet book role.'),
+19:('Створи3-реченнєвий мініпост за R:2 виконані справи й одна думка про гнучкий розподіл. Вигаданий автор дозволений.','Yesterday Dana tidied the table. Dana’s brother fed the pet. A chore chart is a plan, not a label for a person.'),
+22:('Запиши2 репліки: запит про Chart B і точна відповідь за R.','How can the children swap jobs in Chart B? They can swap by agreement.'),
+49:('Напиши3-реченнєвий мініпост про вигаданий український приклад із R: дві дії й прийняття іншого вибору. Не подавай одну родину як правило для країни.','Our imaginary family decorates paper eggs. We also write greetings. Guests can choose drawing instead of singing.'),
+67:('Напиши2 короткі спортивні новини з R, не додаючи неперевірених результатів.','The fictional school has a new chess club. Its newsletter also reports a swimming team.'),
+70:('Запиши запитання про Olympic values й відповідь за R; дві репліки.','What are the three core values? They are excellence, respect and friendship.'),
+88:('Опиши роботу лікаря за R у2 реченнях: спочатку що робить, потім як пояснює незрозуміле слово. Без вибору лікування.','The doctor begins by listening to the patient. The doctor explains a difficult word in simpler language.'),
+103:('Напиши2 речення від вигаданого глядача: уподобання з причиною та прийняття іншої думки.','My fictional viewer prefers funny dialogue because gentle humour is enjoyable. Another viewer can prefer an action story.'),
+106:('Підготуй3-реченнєву мініпрезентацію відомого театру за R: назва/місто, рік відкриття будівлі, архітектор. Усна версія лише за можливості, без камери.','The National Opera of Ukraine is in Kyiv. Its building opened in 1901. The architect was Viktor Shreter.'),
+119:('Запиши2 репліки запит-відповідь про назви з карток United Kingdom; тільки факти R.','Which name on the cards begins with N? Northern Ireland.'),
+120:('Напиши3-реченнєвий мініблог про London-картку: заголовок, що показує карта, яку зміну вніс редактор.','My classroom blog post is headed London. Its map describes two places. I have added clearer labels before sharing the draft.'),
+123:('Опиши уявний Kyiv-маршрут у2 реченнях: названий об’єкт і як завершується маршрут. Не пропонуй реальної подорожі під час тривоги.','The fictional Kyiv leaflet includes Golden Gate and a public garden. The paper route finishes at the same meeting point.'),
+}
+TARGET_LEX={
+33:[('utensil','столове приладдя'),('guest','гість'),('custom','звичай'),('respect','повага')],
+34:[('chopsticks','палички для їжі'),('spoon','ложка'),('serving utensil','приладдя для спільної страви'),('polite question','ввічливе запитання')],
+37:[('food artist','фуд-артист'),('canvas','полотно'),('sketch','ескіз'),('pattern','візерунок')],
+69:[('excellence','прагнення досконалості'),('respect','повага'),('friendship','дружба'),('opponent','суперник')],
+70:[('value','цінність'),('respect','повага'),('guide','екскурсовод'),('exhibition','виставка')],
+72:[('water polo','водне поло'),('pool','басейн'),('team','команда'),('ball','м’яч')],
+75:[('underwater hockey','підводний хокей'),('pool','басейн'),('stick','ключка'),('puck','шайба')],
+84:[('responsible adult','відповідальний дорослий'),('observed','спостережене'),('help','допомога'),('describe','описати')],
+85:[('location','місце'),('unwell','нездужає'),('message','повідомлення'),('responsible adult','відповідальний дорослий')],
+105:[('opera house','оперний театр'),('building','будівля'),('city','місто'),('compare','порівнювати')],
+106:[('architect','архітектор'),('opened','відкрився'),('building','будівля'),('presentation','презентація')],
+108:[('screen character','екранний персонаж'),('silent film','німий фільм'),('born','народився'),('profile','коротка біографія')],
+}
+PROFILE_BEFORE_TARGETS=profile
+def profile(l):
+ p=PROFILE_BEFORE_TARGETS(l);n=p['number']
+ if n in READING_PRODUCTION:
+  p['task'],p['model']=READING_PRODUCTION[n]
+  count=3 if n in (19,49,106,120) else 2
+  p['core']=['R: 3 відповіді',f'P: {count} короткі речення/репліки за конкретною умовою']
+ if n in TARGET_LEX:p['lex']=TARGET_LEX[n]+p['lex'][4:]
+ return p
+
+
+# Curated same-category alternatives: the question's grammatical category cannot reveal the key.
+DISTRACTOR_TEXT='''a clear question|a personal question
+so that everyone can contribute|so that the group finishes first
+a pencil|a ruler
+a reply|a poem
+stones|coins
+the guitar|the piano
+someone to recommend books|someone to perform songs
+the library club|the music club
+an exhibition|a concert
+old photographs|new drawings
+a concert|a competition
+a book exhibition|a science exhibition
+school anniversary|school sports day
+a short play|a short song
+a book display|a science display
+the programme|the poster
+I enjoy recommending books|I enjoy performing songs
+the drama club|the science club
+poster design|stage acting
+an anniversary exhibition|an anniversary concert
+write a label|write a song
+a book day|a sports day
+books|posters
+the school anniversary|the school sports day
+a decoration|a questionnaire
+a poster|a programme
+washed up|tidied the table
+sweep the floor|dry the dishes
+the table|the shelf
+my brother|my cousin
+Kim comes home early|Kim has more equipment
+after dinner|before breakfast
+Chart A|Chart B
+by agreement|by a random draw
+Alex|Sam
+Robin|Alex
+dried the dishes|mopped the floor
+fed the pet|walked the dog
+make decorations|make a chore chart
+tidy the tables|sweep the floor
+arrange chairs|arrange books
+write labels|write invitations
+swept the floor|washed up
+the jobs|the materials
+reading the plan|writing the invitations
+ask politely|copy silently
+before taking a shared dish|after taking a shared dish
+chopsticks|a fork
+separate serving utensils|the guests’ own utensils
+prepare the ingredients|write a serving suggestion
+the last stage|the first stage
+The plate|The table
+sketches the design on paper|arranges the pieces on the plate
+a bird|a fish
+Yellow|Blue
+an apple, a banana and an orange|an apple, a pear and a plum
+a bowl and a spoon|a plate and a fork
+a cold sandwich|a fruit salad
+bread, cheese and cucumber|bread, cheese and tomato
+a grater|a whisk
+grating food|mixing ingredients
+a whisk|a grater
+mixing ingredients|grating food
+fruit salad|vegetable soup
+the ingredients|the utensils
+An adult|A pupil
+the utensils|the ingredients
+greeting cards|paper lanterns
+another person’s photograph|another person’s name
+paper eggs|paper flowers
+drawing to singing|singing to drawing
+written wishes|written invitations
+a paper calendar|a paper invitation
+a greeting|an invitation
+after breakfast|before midnight
+paper stars|paper trees
+wishes for the coming year|wishes for a birthday
+paper lanterns|paper stars
+thank-you notes|invitation cards
+draw a card|read a note aloud
+a drawing|a speech
+a written greeting|a spoken greeting
+paper flower cards|paper egg cards
+wishes for friends|wishes for classmates
+older pupils|younger pupils
+A drawing of a candle|A real candle
+table tennis|volleyball
+The reporter|The coach
+a new chess club|a new swimming club
+names and results|names and practice times
+excellence, respect and friendship|excellence, respect and competition
+a player thanking an opponent|a player thanking a coach
+a newcomer|a referee
+a new skill|a familiar skill
+respect|friendship
+the referee|the coach
+Water polo|Underwater hockey
+a ball|a puck
+Ada|Ben
+the written team list|the written score report
+Underwater hockey|Water polo
+A stick and a puck|A racket and a ball
+The table tennis club|The chess club
+a reporter|a coach
+a chess club|a tennis club
+Tuesday at two|Thursday at two
+swimming|athletics
+four|three
+one|two
+five|six
+the coach|the reporter
+fair play|the highest score
+the organiser|the reporter
+teamwork|the final score
+the responsible adult|a classmate
+what has been observed|what has been guessed
+Room 5|Room 6
+near the door|near the window
+a short symptom note|a long personal story
+the name on the appointment card|the time on the appointment card
+listening to the patient|checking the written note
+a difficult word|a difficult sentence
+a question|an answer
+an adult|a classmate
+the word|the sentence
+a headache|a sore throat
+a sore throat|a headache
+the question|the answer
+A nurse|A receptionist
+A responsible adult|A classmate
+a printed card|a digital form
+their map|their ticket
+a musician|an artist
+the funny dialogue|the fast action
+a story with more action|a story with more dialogue
+Covent Garden|Westminster
+Kyiv|Lviv
+1901|1911
+Viktor Shreter|Taras Shevchenko
+London|Dublin
+the Tramp|the Robot
+1889|1899
+City Lights|The Gold Rush
+a comedy|a musical
+The dialogue is quite funny|The action is quite exciting
+a musical|a comedy
+the songs are memorable|the songs are short
+a map|a ticket
+the characters disagree politely|the characters agree immediately
+a school show|a school competition
+quite simple|quite complex
+subtitles|a spoken explanation
+very clear|very complex
+a written summary|a spoken summary
+Four|Three
+Northern Ireland|Northern England
+Scotland|Wales
+Wales|Scotland
+the map|the title
+Dublin|London
+a museum and a public garden|a museum and a public square
+three|four
+a name and a labelled drawing|a name and a visit date
+Tower Bridge|Golden Gate
+two towers|three towers
+Golden Gate|Tower Bridge
+at the same place|at a different place
+a library|a gallery
+after the library stop|before the library stop
+the same meeting point|a different meeting point
+River Castle|River Museum
+Two towers and a small garden|Three towers and a large garden
+Hill Museum|Hill Castle
+the castle and a public garden|the castle and a public square
+the short route|the long route
+a gallery and a public square|a library and a public garden
+it has a quiet bench|it has a ticket desk
+a route card|a ticket card
+the accessible route|the long route'''
+DISTRACTORS={a.casefold():b for a,b in (line.split('|',1) for line in DISTRACTOR_TEXT.splitlines())}
+UNCURATED_LEARNING=simulation_cards
+UNCURATED_CHECKING=checking_cards
+
+def semantic_choices(cards,mode):
+ if mode in ('grammar','review','portfolio','vocabulary'):return cards
+ return [{**c,'wrong':DISTRACTORS[c['answer'].casefold()]} for c in cards]
+
+def simulation_cards(p):return semantic_choices(UNCURATED_LEARNING(p),p['mode'])
+def checking_cards(p):return semantic_choices(UNCURATED_CHECKING(p),p['mode'])
+
+
+GAMES_BEFORE_POSITION_VARIATION=games
+
+def answer_positions(p,phase):
+ import hashlib
+ token=f"{p['source']['date']}:{p['number']}:{phase}".encode()
+ bits=hashlib.sha256(token).digest()[0]
+ return tuple('B' if bits&(1<<i) else 'A' for i in range(2))
+
+def choice_line(label,card,correct):
+ options=(card['answer'],card['wrong']) if correct=='A' else (card['wrong'],card['answer'])
+ return f"{label}: {card['prompt']} A — {options[0]}; B — {options[1]}."
+
+def games(p):
+ text=GAMES_BEFORE_POSITION_VARIATION(p);first=simulation_cards(p);second=checking_cards(p)
+ # Source cards give the evidence, without duplicating another set of keyed choices.
+ old_sources='\n\n'.join(f"**Картка {i}:** {c['source']}\n\nЗапит: {c['prompt']}\n\nВибір A: {c['answer']}\n\nВибір B: {c['wrong']}" for i,c in enumerate(first,1))
+ sources=[]
+ for c in first:
+  if c['source'] not in sources:sources.append(c['source'])
+ text=text.replace(old_sources,'\n\n'.join(f'**Джерело {i}:** {x}' for i,x in enumerate(sources,1)))
+ learning=answer_positions(p,'learning');checking=answer_positions(p,'checking')
+ old_learning=choice_line('Хід1',first[0],'A')+'\n\n'+choice_line('Хід2',first[1],'B')
+ new_learning=choice_line('Хід1',first[0],learning[0])+'\n\n'+choice_line('Хід2',first[1],learning[1])
+ text=text.replace(old_learning,new_learning)
+ correct,wrong=learning[0],('B' if learning[0]=='A' else 'A')
+ text=text.replace('Хід1: A → перший рядок прийнятий (стан1/2); B → рядок залишається',f'Хід1: {correct} → перший рядок прийнятий (стан1/2); {wrong} → рядок залишається')
+ correct,wrong=learning[1],('B' if learning[1]=='A' else 'A')
+ text=text.replace('Хід2: B → другий рядок прийнятий; A → не затверджуємо',f'Хід2: {correct} → другий рядок прийнятий; {wrong} → не затверджуємо')
+ for i,c in enumerate(second):text=text.replace(choice_line(f'Квиток{i+1}',c,'A' if i==0 else 'B'),choice_line(f'Квиток{i+1}',c,checking[i]))
+ text=text.replace(f"квиток1 — **A: {second[0]['answer']}**; квиток2 — **B: {second[1]['answer']}**",f"квиток1 — **{checking[0]}: {second[0]['answer']}**; квиток2 — **{checking[1]}: {second[1]['answer']}**")
+ text=text.replace('“1A;2B” і одну фразу приватно','нумеровані вибори й одну фразу приватно')
+ return text
+
+
+LEX_MODELS={
+4:'A fictional bookworm recommends books. A chatterbox in the story learns to take turns. A computer geek helps with the club website. The class discusses why the label drama queen can hurt a person.',
+9:'Our group will make a decoration. The organiser will give a prize. We will hold an exhibition. Another group will perform a play.',
+20:'Sam can do the washing-up. Robin can dry the dishes. Alex can sweep the floor. Kim can walk a dog.',
+25:'An appliance is a useful device. A clearer label is an improvement to our diagram. The paper plan shows an oven. Some kitchen equipment is electrical.',
+35:'The paper picture shows an apron. A chopping board is on the next card. Our third label says frying pan. The fourth label says grater.',
+40:'Our paper recipe says to add fruit. The next instruction says to blend the mixture. Another recipe uses the verb bake. A fourth card uses the verb boil.',
+50:'One card is labelled Good Friday. Another is labelled Boxing Day. The third is labelled New Year’s Eve. Visitors compare the names at an imaginary celebration.',
+54:'We can define a word. To paraphrase is to express the same idea in different words. A custom is something a group often does. A celebration is a special event.',
+68:'One sports card is labelled athletics. Another is labelled weightlifting. The third explains cycle ball. The last names windsurfing.',
+73:'A basketball court is shown on our card. It has a basket. A football pitch is shown on another card. A tennis player uses a racket.',
+86:'The fictional form has the word rash. The next symptom label says cough. A character reports a headache. Another character reports a sore throat.',
+91:'The language card shows the verb suffer. A diagram labels the chest. The fictional symptom note mentions pain. Another paper card is labelled X-ray.',
+104:'The curtain is hanging in our theatre. There are two balconies in our drawing. The audience sits in seats. The stage is wide.',
+109:'One fictional programme offers a comedy. Another screen shows a cartoon. A science fiction film is on the third card. A historical film is on the fourth card.',
+121:'One imaginary route card names Kingston. Another card names Suva. The third names Wellington. The fourth names Dublin.',
+126:'Our drawing has two attractions. The leaflet offers excursions. A fictional tour ends at the gate. The map shows a quiet stop.',
+}
+PROFILE_BEFORE_LEX_MODELS=profile
+def profile(l):
+ p=PROFILE_BEFORE_LEX_MODELS(l)
+ if p['mode']=='vocabulary':p['model']=LEX_MODELS[p['number']]
+ return p
 
 if __name__=='__main__':main()

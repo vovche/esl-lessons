@@ -10,15 +10,9 @@
 
 3. **B — help**. Після will використовуємо help.
 
-4. **A — They sometimes fail with a computer.**. Причина — проблеми з комп’ютером.
+Вправа 5, можливий тематичний діалог: A: Will phones use less energy? B: I think they will. A: Will you help me compare them? B: Yes, I will.
 
-5. **C — Visit an electronics shop.**. Останнє речення називає його рішення.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Phones will be smaller. Robots will help people. Batteries will last longer. Screens will use less energy. I will help you fix your computer.
-
-Модель додаткового висловлення: Phones will be smaller. Robots will help people. Batteries will last longer. Screens will use less energy. I will help you fix your computer.
-
-Вправа 5, зразок: A: I think gadgets will change. B: Could you explain? A: A teenager asks for advice about wireless headphones. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Phones will be smaller. Robots will help people. Batteries will last longer. Screens will use less energy. I will help you fix your computer.
 
 ## Рубрика відкритого продукту
 

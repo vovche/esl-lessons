@@ -10,9 +10,6 @@
       "directory": "001",
       "source_id": "9eng-001",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-starter"
-      ],
       "planned_only": true
     },
     {
@@ -22,9 +19,6 @@
       "directory": "002",
       "source_id": "9eng-002",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u1-blog"
-      ],
       "planned_only": true
     },
     {
@@ -34,9 +28,6 @@
       "directory": "003",
       "source_id": "9eng-003",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u1-blog"
-      ],
       "planned_only": true
     },
     {
@@ -46,9 +37,6 @@
       "directory": "004",
       "source_id": "9eng-004",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u1-vocabulary"
-      ],
       "planned_only": true
     },
     {
@@ -58,9 +46,6 @@
       "directory": "005",
       "source_id": "9eng-005",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u1-reading"
-      ],
       "planned_only": true
     },
     {
@@ -70,9 +55,6 @@
       "directory": "006",
       "source_id": "9eng-006",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u1-grammar"
-      ],
       "planned_only": true
     },
     {
@@ -82,9 +64,6 @@
       "directory": "007",
       "source_id": "9eng-007",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u1-listening"
-      ],
       "planned_only": true
     },
     {
@@ -94,9 +73,6 @@
       "directory": "008",
       "source_id": "9eng-008",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u1-vocabulary-2"
-      ],
       "planned_only": true
     },
     {
@@ -106,9 +82,6 @@
       "directory": "009",
       "source_id": "9eng-009",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u1-grammar-2"
-      ],
       "planned_only": true
     },
     {
@@ -118,9 +91,6 @@
       "directory": "010",
       "source_id": "9eng-010",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u1-speaking"
-      ],
       "planned_only": true
     },
     {
@@ -130,9 +100,6 @@
       "directory": "011",
       "source_id": "9eng-011",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u1-writing"
-      ],
       "planned_only": true
     },
     {
@@ -142,9 +109,6 @@
       "directory": "012",
       "source_id": "9eng-012",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u1-look-back"
-      ],
       "planned_only": true
     },
     {
@@ -154,9 +118,6 @@
       "directory": "013",
       "source_id": "9eng-013",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u1-look-back"
-      ],
       "planned_only": true
     },
     {
@@ -166,10 +127,6 @@
       "directory": "014",
       "source_id": "9eng-014",
       "kind": "unit_recap",
-      "section_ids": [
-        "sb-u1-look-back",
-        "sb-u1-self-check"
-      ],
       "planned_only": true
     },
     {
@@ -179,9 +136,6 @@
       "directory": "015",
       "source_id": "9eng-015",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u2-blog"
-      ],
       "planned_only": true
     },
     {
@@ -191,9 +145,6 @@
       "directory": "016",
       "source_id": "9eng-016",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u2-blog"
-      ],
       "planned_only": true
     },
     {
@@ -203,9 +154,6 @@
       "directory": "017",
       "source_id": "9eng-017",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u2-vocabulary"
-      ],
       "planned_only": true
     },
     {
@@ -215,9 +163,6 @@
       "directory": "018",
       "source_id": "9eng-018",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u2-reading"
-      ],
       "planned_only": true
     },
     {
@@ -227,9 +172,6 @@
       "directory": "019",
       "source_id": "9eng-019",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u2-reading"
-      ],
       "planned_only": true
     },
     {
@@ -239,9 +181,6 @@
       "directory": "020",
       "source_id": "9eng-020",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u2-grammar"
-      ],
       "planned_only": true
     },
     {
@@ -251,9 +190,6 @@
       "directory": "021",
       "source_id": "9eng-021",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u2-listening"
-      ],
       "planned_only": true
     },
     {
@@ -263,9 +199,6 @@
       "directory": "022",
       "source_id": "9eng-022",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u2-vocabulary-2"
-      ],
       "planned_only": true
     },
     {
@@ -275,9 +208,6 @@
       "directory": "023",
       "source_id": "9eng-023",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u2-grammar-2"
-      ],
       "planned_only": true
     },
     {
@@ -287,9 +217,6 @@
       "directory": "024",
       "source_id": "9eng-024",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u2-speaking"
-      ],
       "planned_only": true
     },
     {
@@ -299,9 +226,6 @@
       "directory": "025",
       "source_id": "9eng-025",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u2-writing"
-      ],
       "planned_only": true
     },
     {
@@ -311,9 +235,6 @@
       "directory": "026",
       "source_id": "9eng-026",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u2-look-back"
-      ],
       "planned_only": true
     },
     {
@@ -323,10 +244,6 @@
       "directory": "027",
       "source_id": "9eng-027",
       "kind": "unit_recap",
-      "section_ids": [
-        "sb-u2-look-back",
-        "sb-u2-self-check"
-      ],
       "planned_only": true
     },
     {
@@ -336,10 +253,6 @@
       "directory": "028",
       "source_id": "9eng-028",
       "kind": "pair_diagnostic",
-      "section_ids": [
-        "sb-u1-self-check",
-        "sb-u2-self-check"
-      ],
       "planned_only": true
     },
     {
@@ -349,9 +262,6 @@
       "directory": "029",
       "source_id": "9eng-029",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u3-blog"
-      ],
       "planned_only": true
     },
     {
@@ -361,9 +271,6 @@
       "directory": "030",
       "source_id": "9eng-030",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u3-blog"
-      ],
       "planned_only": true
     },
     {
@@ -373,9 +280,6 @@
       "directory": "031",
       "source_id": "9eng-031",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u3-vocabulary"
-      ],
       "planned_only": true
     },
     {
@@ -385,9 +289,6 @@
       "directory": "032",
       "source_id": "9eng-032",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u3-reading"
-      ],
       "planned_only": true
     },
     {
@@ -397,9 +298,6 @@
       "directory": "033",
       "source_id": "9eng-033",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u3-reading"
-      ],
       "planned_only": true
     },
     {
@@ -409,9 +307,6 @@
       "directory": "034",
       "source_id": "9eng-034",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u3-grammar"
-      ],
       "planned_only": true
     },
     {
@@ -421,9 +316,6 @@
       "directory": "035",
       "source_id": "9eng-035",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u3-listening"
-      ],
       "planned_only": true
     },
     {
@@ -433,9 +325,6 @@
       "directory": "036",
       "source_id": "9eng-036",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u3-vocabulary-2"
-      ],
       "planned_only": true
     },
     {
@@ -445,9 +334,6 @@
       "directory": "037",
       "source_id": "9eng-037",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u3-grammar-2"
-      ],
       "planned_only": true
     },
     {
@@ -457,9 +343,6 @@
       "directory": "038",
       "source_id": "9eng-038",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u3-speaking"
-      ],
       "planned_only": true
     },
     {
@@ -469,9 +352,6 @@
       "directory": "039",
       "source_id": "9eng-039",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u3-writing"
-      ],
       "planned_only": true
     },
     {
@@ -481,9 +361,6 @@
       "directory": "040",
       "source_id": "9eng-040",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u3-look-back"
-      ],
       "planned_only": true
     },
     {
@@ -493,9 +370,6 @@
       "directory": "041",
       "source_id": "9eng-041",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u3-look-back"
-      ],
       "planned_only": true
     },
     {
@@ -505,10 +379,6 @@
       "directory": "042",
       "source_id": "9eng-042",
       "kind": "unit_recap",
-      "section_ids": [
-        "sb-u3-look-back",
-        "sb-u3-self-check"
-      ],
       "planned_only": true
     },
     {
@@ -518,9 +388,6 @@
       "directory": "043",
       "source_id": "9eng-043",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u4-blog"
-      ],
       "planned_only": true
     },
     {
@@ -530,9 +397,6 @@
       "directory": "044",
       "source_id": "9eng-044",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u4-blog"
-      ],
       "planned_only": true
     },
     {
@@ -542,9 +406,6 @@
       "directory": "045",
       "source_id": "9eng-045",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u4-vocabulary"
-      ],
       "planned_only": true
     },
     {
@@ -554,9 +415,6 @@
       "directory": "046",
       "source_id": "9eng-046",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u4-reading"
-      ],
       "planned_only": true
     },
     {
@@ -566,9 +424,6 @@
       "directory": "047",
       "source_id": "9eng-047",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u4-reading"
-      ],
       "planned_only": true
     },
     {
@@ -578,9 +433,6 @@
       "directory": "048",
       "source_id": "9eng-048",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u4-grammar"
-      ],
       "planned_only": true
     },
     {
@@ -590,9 +442,6 @@
       "directory": "049",
       "source_id": "9eng-049",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u4-listening"
-      ],
       "planned_only": true
     },
     {
@@ -602,9 +451,6 @@
       "directory": "050",
       "source_id": "9eng-050",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u4-vocabulary-2"
-      ],
       "planned_only": true
     },
     {
@@ -614,9 +460,6 @@
       "directory": "051",
       "source_id": "9eng-051",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u4-grammar-2"
-      ],
       "planned_only": true
     },
     {
@@ -626,9 +469,6 @@
       "directory": "052",
       "source_id": "9eng-052",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u4-speaking"
-      ],
       "planned_only": true
     },
     {
@@ -638,9 +478,6 @@
       "directory": "053",
       "source_id": "9eng-053",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u4-writing"
-      ],
       "planned_only": true
     },
     {
@@ -650,9 +487,6 @@
       "directory": "054",
       "source_id": "9eng-054",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u4-look-back"
-      ],
       "planned_only": true
     },
     {
@@ -662,10 +496,6 @@
       "directory": "055",
       "source_id": "9eng-055",
       "kind": "unit_recap",
-      "section_ids": [
-        "sb-u4-look-back",
-        "sb-u4-self-check"
-      ],
       "planned_only": true
     },
     {
@@ -675,10 +505,6 @@
       "directory": "056",
       "source_id": "9eng-056",
       "kind": "pair_diagnostic",
-      "section_ids": [
-        "sb-u3-self-check",
-        "sb-u4-self-check"
-      ],
       "planned_only": true
     },
     {
@@ -688,12 +514,6 @@
       "directory": "057",
       "source_id": "9eng-057",
       "kind": "semester_assessment",
-      "section_ids": [
-        "sb-u1-self-check",
-        "sb-u2-self-check",
-        "sb-u3-self-check",
-        "sb-u4-self-check"
-      ],
       "planned_only": true
     },
     {
@@ -703,12 +523,6 @@
       "directory": "058",
       "source_id": "9eng-058",
       "kind": "portfolio",
-      "section_ids": [
-        "sb-u1-self-check",
-        "sb-u2-self-check",
-        "sb-u3-self-check",
-        "sb-u4-self-check"
-      ],
       "planned_only": true
     },
     {
@@ -718,9 +532,6 @@
       "directory": "059",
       "source_id": "9eng-059",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u5-blog"
-      ],
       "planned_only": true
     },
     {
@@ -730,9 +541,6 @@
       "directory": "060",
       "source_id": "9eng-060",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u5-blog"
-      ],
       "planned_only": true
     },
     {
@@ -742,9 +550,6 @@
       "directory": "061",
       "source_id": "9eng-061",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u5-vocabulary"
-      ],
       "planned_only": true
     },
     {
@@ -754,9 +559,6 @@
       "directory": "062",
       "source_id": "9eng-062",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u5-reading"
-      ],
       "planned_only": true
     },
     {
@@ -766,9 +568,6 @@
       "directory": "063",
       "source_id": "9eng-063",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u5-reading"
-      ],
       "planned_only": true
     },
     {
@@ -778,9 +577,6 @@
       "directory": "064",
       "source_id": "9eng-064",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u5-grammar"
-      ],
       "planned_only": true
     },
     {
@@ -790,9 +586,6 @@
       "directory": "065",
       "source_id": "9eng-065",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u5-listening"
-      ],
       "planned_only": true
     },
     {
@@ -802,9 +595,6 @@
       "directory": "066",
       "source_id": "9eng-066",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u5-vocabulary-2"
-      ],
       "planned_only": true
     },
     {
@@ -814,9 +604,6 @@
       "directory": "067",
       "source_id": "9eng-067",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u5-grammar-2"
-      ],
       "planned_only": true
     },
     {
@@ -826,9 +613,6 @@
       "directory": "068",
       "source_id": "9eng-068",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u5-speaking"
-      ],
       "planned_only": true
     },
     {
@@ -838,9 +622,6 @@
       "directory": "069",
       "source_id": "9eng-069",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u5-writing"
-      ],
       "planned_only": true
     },
     {
@@ -850,9 +631,6 @@
       "directory": "070",
       "source_id": "9eng-070",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u5-look-back"
-      ],
       "planned_only": true
     },
     {
@@ -862,9 +640,6 @@
       "directory": "071",
       "source_id": "9eng-071",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u5-look-back"
-      ],
       "planned_only": true
     },
     {
@@ -874,10 +649,6 @@
       "directory": "072",
       "source_id": "9eng-072",
       "kind": "unit_recap",
-      "section_ids": [
-        "sb-u5-look-back",
-        "sb-u5-self-check"
-      ],
       "planned_only": true
     },
     {
@@ -887,9 +658,6 @@
       "directory": "073",
       "source_id": "9eng-073",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u6-blog"
-      ],
       "planned_only": true
     },
     {
@@ -899,9 +667,6 @@
       "directory": "074",
       "source_id": "9eng-074",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u6-blog"
-      ],
       "planned_only": true
     },
     {
@@ -911,9 +676,6 @@
       "directory": "075",
       "source_id": "9eng-075",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u6-vocabulary"
-      ],
       "planned_only": true
     },
     {
@@ -923,9 +685,6 @@
       "directory": "076",
       "source_id": "9eng-076",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u6-reading"
-      ],
       "planned_only": true
     },
     {
@@ -935,9 +694,6 @@
       "directory": "077",
       "source_id": "9eng-077",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u6-reading"
-      ],
       "planned_only": true
     },
     {
@@ -947,9 +703,6 @@
       "directory": "078",
       "source_id": "9eng-078",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u6-grammar"
-      ],
       "planned_only": true
     },
     {
@@ -959,9 +712,6 @@
       "directory": "079",
       "source_id": "9eng-079",
       "kind": "grammar_workshop",
-      "section_ids": [
-        "sb-u6-grammar"
-      ],
       "planned_only": true
     },
     {
@@ -971,9 +721,6 @@
       "directory": "080",
       "source_id": "9eng-080",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u6-listening"
-      ],
       "planned_only": true
     },
     {
@@ -983,9 +730,6 @@
       "directory": "081",
       "source_id": "9eng-081",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u6-vocabulary-2"
-      ],
       "planned_only": true
     },
     {
@@ -995,9 +739,6 @@
       "directory": "082",
       "source_id": "9eng-082",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u6-grammar-2"
-      ],
       "planned_only": true
     },
     {
@@ -1007,9 +748,6 @@
       "directory": "083",
       "source_id": "9eng-083",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u6-speaking"
-      ],
       "planned_only": true
     },
     {
@@ -1019,9 +757,6 @@
       "directory": "084",
       "source_id": "9eng-084",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u6-writing"
-      ],
       "planned_only": true
     },
     {
@@ -1031,9 +766,6 @@
       "directory": "085",
       "source_id": "9eng-085",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u6-look-back"
-      ],
       "planned_only": true
     },
     {
@@ -1043,10 +775,6 @@
       "directory": "086",
       "source_id": "9eng-086",
       "kind": "unit_recap",
-      "section_ids": [
-        "sb-u6-look-back",
-        "sb-u6-self-check"
-      ],
       "planned_only": true
     },
     {
@@ -1056,10 +784,6 @@
       "directory": "087",
       "source_id": "9eng-087",
       "kind": "pair_diagnostic",
-      "section_ids": [
-        "sb-u5-self-check",
-        "sb-u6-self-check"
-      ],
       "planned_only": true
     },
     {
@@ -1069,9 +793,6 @@
       "directory": "088",
       "source_id": "9eng-088",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u7-blog"
-      ],
       "planned_only": true
     },
     {
@@ -1081,9 +802,6 @@
       "directory": "089",
       "source_id": "9eng-089",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u7-blog"
-      ],
       "planned_only": true
     },
     {
@@ -1093,9 +811,6 @@
       "directory": "090",
       "source_id": "9eng-090",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u7-vocabulary"
-      ],
       "planned_only": true
     },
     {
@@ -1105,9 +820,6 @@
       "directory": "091",
       "source_id": "9eng-091",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u7-reading"
-      ],
       "planned_only": true
     },
     {
@@ -1117,9 +829,6 @@
       "directory": "092",
       "source_id": "9eng-092",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u7-reading"
-      ],
       "planned_only": true
     },
     {
@@ -1129,9 +838,6 @@
       "directory": "093",
       "source_id": "9eng-093",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u7-grammar"
-      ],
       "planned_only": true
     },
     {
@@ -1141,9 +847,6 @@
       "directory": "094",
       "source_id": "9eng-094",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u7-listening"
-      ],
       "planned_only": true
     },
     {
@@ -1153,9 +856,6 @@
       "directory": "095",
       "source_id": "9eng-095",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u7-vocabulary-2"
-      ],
       "planned_only": true
     },
     {
@@ -1165,9 +865,6 @@
       "directory": "096",
       "source_id": "9eng-096",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u7-grammar-2"
-      ],
       "planned_only": true
     },
     {
@@ -1177,9 +874,6 @@
       "directory": "097",
       "source_id": "9eng-097",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u7-speaking"
-      ],
       "planned_only": true
     },
     {
@@ -1189,9 +883,6 @@
       "directory": "098",
       "source_id": "9eng-098",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u7-writing"
-      ],
       "planned_only": true
     },
     {
@@ -1201,9 +892,6 @@
       "directory": "099",
       "source_id": "9eng-099",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u7-look-back"
-      ],
       "planned_only": true
     },
     {
@@ -1213,9 +901,6 @@
       "directory": "100",
       "source_id": "9eng-100",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u7-look-back"
-      ],
       "planned_only": true
     },
     {
@@ -1225,10 +910,6 @@
       "directory": "101",
       "source_id": "9eng-101",
       "kind": "unit_recap",
-      "section_ids": [
-        "sb-u7-look-back",
-        "sb-u7-self-check"
-      ],
       "planned_only": true
     },
     {
@@ -1238,9 +919,6 @@
       "directory": "102",
       "source_id": "9eng-102",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u8-blog"
-      ],
       "planned_only": true
     },
     {
@@ -1250,9 +928,6 @@
       "directory": "103",
       "source_id": "9eng-103",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u8-blog"
-      ],
       "planned_only": true
     },
     {
@@ -1262,9 +937,6 @@
       "directory": "104",
       "source_id": "9eng-104",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u8-vocabulary"
-      ],
       "planned_only": true
     },
     {
@@ -1274,9 +946,6 @@
       "directory": "105",
       "source_id": "9eng-105",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u8-reading"
-      ],
       "planned_only": true
     },
     {
@@ -1286,9 +955,6 @@
       "directory": "106",
       "source_id": "9eng-106",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u8-reading"
-      ],
       "planned_only": true
     },
     {
@@ -1298,9 +964,6 @@
       "directory": "107",
       "source_id": "9eng-107",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u8-grammar"
-      ],
       "planned_only": true
     },
     {
@@ -1310,9 +973,6 @@
       "directory": "108",
       "source_id": "9eng-108",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u8-listening"
-      ],
       "planned_only": true
     },
     {
@@ -1322,9 +982,6 @@
       "directory": "109",
       "source_id": "9eng-109",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u8-vocabulary-2"
-      ],
       "planned_only": true
     },
     {
@@ -1334,9 +991,6 @@
       "directory": "110",
       "source_id": "9eng-110",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u8-grammar-2"
-      ],
       "planned_only": true
     },
     {
@@ -1346,9 +1000,6 @@
       "directory": "111",
       "source_id": "9eng-111",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u8-speaking"
-      ],
       "planned_only": true
     },
     {
@@ -1358,9 +1009,6 @@
       "directory": "112",
       "source_id": "9eng-112",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u8-writing"
-      ],
       "planned_only": true
     },
     {
@@ -1370,9 +1018,6 @@
       "directory": "113",
       "source_id": "9eng-113",
       "kind": "book_lesson",
-      "section_ids": [
-        "sb-u8-look-back"
-      ],
       "planned_only": true
     },
     {
@@ -1382,10 +1027,6 @@
       "directory": "114",
       "source_id": "9eng-114",
       "kind": "unit_recap",
-      "section_ids": [
-        "sb-u8-look-back",
-        "sb-u8-self-check"
-      ],
       "planned_only": true
     },
     {
@@ -1395,10 +1036,6 @@
       "directory": "115",
       "source_id": "9eng-115",
       "kind": "pair_diagnostic",
-      "section_ids": [
-        "sb-u7-self-check",
-        "sb-u8-self-check"
-      ],
       "planned_only": true
     },
     {
@@ -1408,12 +1045,6 @@
       "directory": "116",
       "source_id": "9eng-116",
       "kind": "semester_assessment",
-      "section_ids": [
-        "sb-u5-self-check",
-        "sb-u6-self-check",
-        "sb-u7-self-check",
-        "sb-u8-self-check"
-      ],
       "planned_only": true
     },
     {
@@ -1423,12 +1054,6 @@
       "directory": "117",
       "source_id": "9eng-117",
       "kind": "semester_assessment",
-      "section_ids": [
-        "sb-u5-self-check",
-        "sb-u6-self-check",
-        "sb-u7-self-check",
-        "sb-u8-self-check"
-      ],
       "planned_only": true
     },
     {
@@ -1438,12 +1063,6 @@
       "directory": "118",
       "source_id": "9eng-118",
       "kind": "portfolio",
-      "section_ids": [
-        "sb-u5-self-check",
-        "sb-u6-self-check",
-        "sb-u7-self-check",
-        "sb-u8-self-check"
-      ],
       "planned_only": true
     },
     {
@@ -1453,12 +1072,6 @@
       "directory": "119",
       "source_id": "9eng-119",
       "kind": "portfolio",
-      "section_ids": [
-        "sb-u5-self-check",
-        "sb-u6-self-check",
-        "sb-u7-self-check",
-        "sb-u8-self-check"
-      ],
       "planned_only": true
     },
     {
@@ -1468,12 +1081,6 @@
       "directory": "120",
       "source_id": "9eng-120",
       "kind": "portfolio",
-      "section_ids": [
-        "sb-u5-self-check",
-        "sb-u6-self-check",
-        "sb-u7-self-check",
-        "sb-u8-self-check"
-      ],
       "planned_only": true
     },
     {
@@ -1483,12 +1090,6 @@
       "directory": "121",
       "source_id": "9eng-121",
       "kind": "portfolio",
-      "section_ids": [
-        "sb-u5-self-check",
-        "sb-u6-self-check",
-        "sb-u7-self-check",
-        "sb-u8-self-check"
-      ],
       "planned_only": true
     }
   ]

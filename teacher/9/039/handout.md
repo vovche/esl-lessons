@@ -1,128 +1,82 @@
-# Роздатка · 9 клас · урок 039 · 2026-11-19
+# Роздатка ·9 клас · урок 039 · 2026-11-19
 
-**Тема:** We Are Young and Cool! Молодіжна культура.
+**Тема календарного плану:** We Are Young and Cool! Молодіжна культура.
 
-Умовне ім’я/код учня: __________________ Дата фактичної роботи: __________
+Умовне ім’я/код: __________________ Фактична дата: _______________
 
-**Можна:** виконувати на папері, зробити паузу, працювати з вигаданим героєм. Особисті історії й камера не потрібні. Мова завдань не оцінює емоції. Під час переміщення до укриття не виконуй завдань. Читай і пиши лише коли є безпечні умови та достатнє світло.
+Особисті дані й камера не потрібні. Під час переміщення завдання зупиняються. У темряві не читай і не пиши; повернись, коли є безпечні умови. Можна зробити паузу; термін здавання узгоджується за доступністю.
 
-**Швидкий маршрут без мережі (10 хв):** 2 хв — модель і слова; 4 хв — перша секція, вправа 1; 4 хв — два власні речення за моделлю. За ресурсом ще до 5 хв на одну відповідь вправи 2 й питання до вчителя. Решту виконаєш після домовленості.
+## Мінімум B/D: окрема коротка картка
 
-## Секція 1: Молодіжна культура і спільноти: Письмо
+**Опора:** Survey: 20 students; 10 sport, 6 music, 4 film. 10 / 20 = 50%.
 
-**Слова:** subculture — субкультура; volunteer — волонтер; association — об’єднання; charity — благодійність; teamwork — командна робота; creativity — творчість; tournament — турнір; slang — сленг
+Complete: Music was chosen by___%of this group.
 
-**Опора:** Плануй текст, дотримуйся його формату й відредагуй чернетку за критеріями.
-**Модель:** A charity event was organised by the club. The report has been written.
+Не потрібно виконувати весь основний пакет.
 
-### 1. Read and find evidence
+My example / field / row: __________________________________________
 
-The class has conducted a survey about clubs and free time. Twenty students were asked about their interests. Many enjoy sport, but several would rather create music or films. A short report has been written to show the main results. The students suggest offering different clubs so that everyone can find a suitable activity.
+__________________________________________________________________
 
-1. За адаптованим текстом: What was the survey about?
+Одне питання вчителю (можна українською): ___________________________
 
-A) clubs and free time / B) train timetables / C) house prices
+B:2 хв готовність +4 хв опора +6 хв приклад +3 хв збереження. D:2+3+5 хв, потім необов’язково до 5 хв уточнення. Це тренувальний фрагмент, не повний урок або контроль. Результат можна передати пізніше.
 
-Answer: ______ Evidence from the text: ______________________________
+## Основний маршрут A/C —45 хв
 
-2. За адаптованим текстом: Why do students suggest different clubs?
+**Мовний фокус / жанр:** survey report
 
-A) to stop teamwork / B) to replace all lessons / C) to offer suitable activities for different interests
+**Опора:** Survey report називає вибірку й чисельності; percentage = count / total ×100. Приклад:2 of 10 students = 20%. Висновок обмежуємо саме цією вибіркою.
 
-Answer: ______ Evidence from the text: ______________________________
+### Джерело / brief
 
-### 2. Choose a form; explain one choice
+Use this fictional survey of 20 students: sport 10, music 6, film 4; each chose one favourite club. Write 4 report sentences with two correct percentages and a careful conclusion. Do not generalise to all teenagers.
 
-1. The club ... last year.
+### Цільові пункти
 
-A) was founded / B) is found / C) has finding
 
-Answer: ______
 
-2. New members ... every week.
+1. Ten out of twenty students chose sport. What percentage is this?
 
-A) welcomes / B) are welcomeing / C) are welcomed
+A) 10% / B) 20% / C) 50%
 
-Answer: ______
+Answer: _____ Reason/evidence: __________________________________
 
-3. The survey results ... already ... .
+2. Which conclusion is supported by this survey?
 
-A) were / publish / B) have / been published / C) are / publishing
+A) Nobody chose music. / B) Half of these twenty students chose sport. / C) All teenagers prefer sport.
 
-Answer: ______
+Answer: _____ Reason/evidence: __________________________________
 
-One explanation (time, meaning or form): __________________________
 
-________________________________________________________________
+### Один головний продукт
 
-## Окрема ситуація цього уроку: a first draft
+Use this fictional survey of 20 students: sport 10, music 6, film 4; each chose one favourite club. Write 4 report sentences with two correct percentages and a careful conclusion. Do not generalise to all teenagers.
 
-Lee is working on a first draft about youth clubs. The task is to organise ideas and check the draft before sharing it. There are 8 minutes for a first attempt. A partner suggests making the message shorter, but Lee wants to keep one clear reason. They agree to check the meaning before sharing the final version. The work is about a fictional character, so no private details are needed.
-
-A. How much time is available for a first attempt? ___________________
-
-B. What will the partners check before sharing? _____________________
-
-C. Complete the actual mini-product (a first draft) in two lines about youth clubs. Include one clear reason. Use the language model above and the strategy from the message.
+Для навчального мінімуму: один потрібний фрагмент і позначка, що ще треба завершити. Для повного A/C — весь зазначений короткий жанр/продукт. Це не вимога написати 120–130 слів за 7 хв.
 
 __________________________________________________________________
 
 __________________________________________________________________
 
-## 3. Create and explain
-
-Write an inclusive club invitation for a fictional Alex. Use two details from the text(s), give two reasons and add one suggestion. Write 4–6 sentences. You may use the model(s) above. Do not include real addresses, phone numbers or private experiences.
-
-**Start:** In the text, … . Alex could … because … . Another reason is … . I suggest … .
-
-1. ________________________________________________________________
-
-2. ________________________________________________________________
-
-3. ________________________________________________________________
-
-4. ________________________________________________________________
-
-5. ________________________________________________________________
-
-6. ________________________________________________________________
-
-## 4. Interaction
-
-Fictional situation: Alex needs help choosing a next step about youth clubs. Ask for one reason, reply and respond politely. Say it if the teacher has arranged an oral channel; otherwise write a dialogue and mark it as written.
-
-A: Why would you choose ________________________________________?
-
-B: I would choose __________________ because ____________________.
-
-A: I see your point. Another option is ____________________________.
-
-Спосіб: усно / письмово. Партнера немає? Напиши обидві ролі як тренування; усну взаємодію перевірять окремо.
-
-## 5. Listening (only with the teacher's audio)
-
-Do not guess if you cannot hear the audio. Write «не перевірено» and arrange another time.
-
-1. On which day does Alex plan the activity? _______________________
-
-2. Where does the club meet? ______________________
-
-## 6. Correction / portfolio / homework
-
-Original phrase: __________________________________________________
-
-My corrected phrase and reason: ____________________________________
+__________________________________________________________________
 
 __________________________________________________________________
 
-Second correction (for portfolio): _________________________________
-
-My next language step: ____________________________________________
-
-Add two sentences to your product, if this is homework: ______________
+__________________________________________________________________
 
 __________________________________________________________________
 
-Optional respectful phrase for fictional Alex: ______________________
+__________________________________________________________________
 
-**ДЗ:** одна виправлена відповідь із поясненням і два додані речення, до 10 хв. Термін — наступний доступний контакт за домовленістю. Після короткого маршруту спочатку заверши мінімум.
+__________________________________________________________________
+
+### Після завершення
+
+Мій точний пункт повернення: _______________________________________
+
+Моє мовне питання / одне виправлення: _______________________________
+
+**Резерв, тільки за окремим вибором вчителя:** розширити продукт однією новою деталлю й пояснити її; цей резерв не додається до 45 хв. На інших уроках аудіювання/говоріння не приписуються автоматично, якщо їх не перевіряли.
+
+**ДЗ, до 10 хв:** виправити один цільовий пункт із поясненням або завершити одну потрібну частину чернетки. Не виконувати заново весь пропущений урок. Після B/D спершу зберегти мінімум, решту погодити з учителем. Контроль удома не зараховується без погодженої процедури.

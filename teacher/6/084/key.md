@@ -14,11 +14,9 @@
 
 5. **B — Saving water.**. У кінці тексту названо saving water.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): The song asks listeners to think about the future of the planet. It mentions animals that have disappeared and people who do not recycle. We must protect our planet. If we save water, we will help nature. We have to think about the future.
+Вправа 5, можливий тематичний діалог: A: What does the text say? B: The song asks listeners to think about the future of the planet. A: Can you give another example? B: We must protect our planet.
 
-Модель додаткового висловлення: We must protect our planet. If we save water, we will help nature. We have to think about the future.
-
-Вправа 5, зразок: A: We must protect our planet. B: Could you explain? A: The song asks listeners to think about the future of the planet. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: The song asks listeners to think about the future of the planet. It mentions animals that have disappeared and people who do not recycle. Мій вигаданий варіант: We must protect our planet. If we save water, we will help nature.
 
 ## Рубрика відкритого продукту
 

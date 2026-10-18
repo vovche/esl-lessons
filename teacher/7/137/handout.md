@@ -1,55 +1,54 @@
-# 7 клас · Урок 137 · Самостійна перевірка
+# 7 клас · 137 · 2027-05-26 · Основний аркуш
 
 **Тема:** Семестрова перевірка: слухання і читання  
-Код учня: ____________________  Фактична дата: ____________________
+Код учня: ____________________ Фактична дата: ____________________
 
-Виконуй лише зазначені нижче блоки. Усі ситуації вигадані; особисті відомості не потрібні. Умови допомоги узгоджуються до початку. За тривоги припини роботу та виконуй вказівки дорослого; незавершене переноситься. У B/D це тренувальний місток, контроль продовжується окремо. Камера не оцінюється.
+Усі життєві ситуації можна вигадати. Камера добровільна. Особисті історії не потрібні. За небезпечних умов припини завдання; у русі до укриття не вчимося.
 
-**Критерії:** L1–L3: 3 бали за 3 правильні факти; R1–R3: 3 бали за 3 факти з опорою на текст. Разом 6 первинних балів, окремі результати L /3 і R /3. Доказова цитата допомагає зворотному зв’язку, за її відсутність не знімати вдруге бал за вже правильний факт.
+**Сьогодні обов’язково:** тільки визначені контрольні блоки. Резерв учитель дає лише замість завершеного блоку. Не потрібно виконувати всі вправи з конспекту.
 
-## L · Слухання /3
+**Самостійна перевірка:** L /3 та R /3: по 1 за кожний точний факт. Первинні 6 балів; ці два результати зберігаються окремо. За переривання зберігаємо завершене й переносимо решту; читання не зараховуємо як слухання, чат — як говоріння.
 
-Учитель читає двічі. Додаток L в кінці вчитель відділяє ДО перевірки. Якщо голосу не чути, цей блок переноситься. Читання додатка не є результатом слухання.
+## R · Прочитай
 
-1. Where does the story take place?
+A friendly basketball match was organised by the school club. It was played in the school gym on Friday at 2 p.m. Mia wrote a short report. The equipment was checked by the coach before the game. Two teams took part and the reporter checked the score before publication. A prize was given for fair play, not only for winning. Students could also help as reporters or scorekeepers. The report describes actions without insulting the other team. Mia, a fictional character, arrives at the school health room on Monday at 9 a.m. Before the visit, the character had prepared an appointment card. The receptionist asks about the appointment, and Mia describes a sore throat in simple words. If a visitor needs language help, the receptionist offers a paper form. The nurse listens and asks one question at a time. This is language practice: students do not diagnose illness or suggest medicine.
 
-   __________________________________________________________
-2. When does the event or meeting happen?
+1. Who checked the equipment?
 
-   __________________________________________________________
-3. What item, activity or document is mentioned?
+   ______________________________________________________________
 
-   __________________________________________________________
+2. What symptom does the fictional character describe?
 
-## R · Читання /3
+   ______________________________________________________________
 
-Mia, a fictional character, arrives at the school health room on Monday at 9 a.m. Before the visit, the character had prepared an appointment card. The receptionist asks about the appointment, and Mia describes a sore throat in simple words. If a visitor needs language help, the receptionist offers a paper form. The nurse listens and asks one question at a time. This is language practice: students do not diagnose illness or suggest medicine.
+3. What was the prize given for?
 
-1. Where does the story take place?
+   ______________________________________________________________
 
-   __________________________________________________________
-2. When does the event or meeting happen?
+## L · Прослухай двічі
 
-   __________________________________________________________
-3. What item, activity or document is mentioned?
+Закрий додаток L; учитель читає двічі. Якщо звук недоступний, познач блок як відкладений.
 
-   __________________________________________________________
+1. How is the plot described?
 
-Підкресли у тексті слова-докази до відповідей.
+   ______________________________________________________________
 
-## Після здавання роботи
+2. What does each visitor receive?
 
-Що допомогло знайти факт / побудувати репліку: _______________________________
+   ______________________________________________________________
 
-Що потрібно уточнити наступного разу: _______________________________________
+3. Which route does the learner choose?
 
-Незавершений блок: __________________ Причина/умови за бажанням: ____________
+   ______________________________________________________________
 
-Для паперового мосту D у безпечному місці зі світлом (12 хв): 0–2 прочитай інструкцію, 2–5 знайди 2 факти у R або сплануй 2 репліки S, 5–9 запиши 2 тематичні речення, 9–12 познач запитання й збережи аркуш. Це підготовка, не підсумковий результат L/S. Завдання не виконуємо під час переміщення або за відсутності умов.
+**Після здавання:** який прийом допоміг? _______________________________
 
-## Додаток L — ВІДДІЛИТИ ДО ПЕРЕВІРКИ
+Офіційний результат не визначається камерою/емоціями чи недоступним зв’язком.
 
-Учитель залишає цю частину собі й читає двічі. Для пізнішого самостійного навчання текст доступний тут повністю. Його самостійне читання — доказ R, а не L. Якщо урок перевіряє лише S/P, це необов’язковий текст для корекції після здавання.
+**Паперовий місток D (12 хв після відновлення безпечних умов і світла):**2 хв прочитай опору/умову;4 хв виконай перші 2 доступні пункти або сплануй 2 репліки;4 хв перевір одну відповідь/напиши одну власну фразу;2 хв познач завершене та збережи аркуш. Для контролю це підготовка, а не завершена перевірка.
 
-Leo is planning an imaginary trip. The group meets at the city museum entrance on Sunday at 11 a.m. The itinerary includes a cathedral and a public garden. Both attractions are shown on a paper map. Each visitor receives a leaflet, but no online ticket is needed for this classroom story. The tour guide suggests either a short route or a longer route. Leo chooses the short route because it includes a quiet stop. The group checks the meeting point before leaving.
+## Додаток L — ВІДДІЛИТИ ДО СЛУХАННЯ
 
+Повний текст для вчителя та подальшої паперової роботи. Самостійне читання цього додатка не є доказом слухання.
+
+Mia watched a comedy about two lost robots in the school theatre on Friday at 5 p.m. The plot was quite simple, but the performance was very lively. The audience could read subtitles on a screen. Mia found the first half more interesting than the second half. A friend preferred the ending because it was less predictable. Their review compares the story and the acting. Both opinions are accepted when they include a reason and respectful language. Mia is planning an imaginary trip. The group meets at the old castle gate on Saturday at 10 a.m. The itinerary includes a castle and a small museum. Both attractions are shown on a paper map. Each visitor receives a leaflet, but no online ticket is needed for this classroom story. The tour guide suggests either a short route or a longer route. Mia chooses the short route because it includes a quiet stop. The group checks the meeting point before leaving.

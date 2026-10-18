@@ -14,11 +14,9 @@
 
 5. **B — The biggest.**. Для всієї групи використовується найвищий ступінь.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Our solar system contains the sun and eight planets. Planets differ in size, temperature and distance from the sun. This is the largest planet in the group. That planet is hotter than this one. It has the highest temperature.
+Вправа 5, можливий тематичний діалог: A: Which planet is the largest in this imaginary group? B: Planet C is the largest. A: Is planet A hotter than B? B: No, it is colder.
 
-Модель додаткового висловлення: Fictional data: A — size 3, temperature 10, distance 5; B — size 5, temperature 20, distance 8; C — size 8, temperature 30, distance 12 (arbitrary units). C is the largest. A is the smallest. B is hotter than A. C is the hottest. C is the farthest from our star.
-
-Вправа 5, зразок: A: This is the largest planet in the group. B: Could you explain? A: Our solar system contains the sun and eight planets. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: Our solar system contains the sun and eight planets. Planets differ in size, temperature and distance from the sun. Мій вигаданий варіант: Fictional data: A — size 3, temperature 10, distance 5; B — size 5, temperature 20, distance 8; C — size 8, temperature 30, distance 12 (arbitrary units). C is the largest.
 
 ## Рубрика відкритого продукту
 

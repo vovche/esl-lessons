@@ -1,39 +1,54 @@
-# Резерв самостійної перевірки · 7 клас · Урок 062
+# 7 клас · 062 · 2026-12-23 · Резерв після переривання
 
+**Тема:** Семестрова перевірка: слухання і читання  
 Код учня: ____________________ Фактична дата: ____________________
 
-**Тема:** Семестрова перевірка: слухання і читання. Завершені до переривання блоки вдруге не виконуй. Учитель назве тільки відкладені блоки. Усі ситуації вигадані; камеру не вимагаємо. Структура часу й критерії — як у першому варіанті; на поновлення дати 2 хв прочитати інструкцію. Якщо умови знову перервано — зупинити роботу. Моделі/словник не відкривати під час самостійної частини, крім погодженої адаптації.
+Усі життєві ситуації можна вигадати. Камера добровільна. Особисті історії не потрібні. За небезпечних умов припини завдання; у русі до укриття не вчимося.
 
-## L · Слухання /3
+**Сьогодні обов’язково:** тільки визначені контрольні блоки. Резерв учитель дає лише замість завершеного блоку. Не потрібно виконувати всі вправи з конспекту.
 
-Прослухай повідомлення двічі. Додаток L відділяє вчитель до перевірки.
+**Самостійна перевірка:** L /3 та R /3: по 1 за кожний точний факт. Первинні 6 балів; ці два результати зберігаються окремо. За переривання зберігаємо завершене й переносимо решту; читання не зараховуємо як слухання, чат — як говоріння.
 
-1. Where does the story take place?
+## R · Прочитай
 
-   __________________________________________________________
-2. When does the event or meeting happen?
+Dana belongs to a school club. The club meets in the science lab on Friday at 3 p.m. This week the members are preparing a presentation about birds for the school anniversary. Dana usually collects ideas, but today is making a poster. One member calls himself a science geek; another enjoys books. The teacher explains that labels must never be used to tease people. Everyone can choose a useful role. Dana and two friends met in the kitchen on Saturday at 10 a.m. They made a list of household duties. Yesterday Dana dried the dishes while Alex washed up. At ten o’clock Sam was reading the plan. The dishwasher was not working, so the friends used a saucepan. They shared the tasks by agreement and asked before changing a partner’s job. They switched off the vacuum cleaner when the work was finished.
 
-   __________________________________________________________
-3. What item, activity or document is mentioned?
+1. What are members preparing for?
 
-   __________________________________________________________
+   ______________________________________________________________
 
-## R · Читання /3
+2. What did the learner do yesterday?
 
-Robin and two friends met in the community room on Friday at 5 p.m. They made a simple chore chart. Yesterday Robin swept the floor while Alex washed up. At ten o’clock Sam was checking the list. The dishwasher was not working, so the friends used a bowl. They shared the tasks fairly and asked before changing a partner’s job. They switched off the vacuum cleaner when the work was finished.
+   ______________________________________________________________
 
-1. Where does the story take place?
+3. What is the learner making today?
 
-   __________________________________________________________
-2. When does the event or meeting happen?
+   ______________________________________________________________
 
-   __________________________________________________________
-3. What item, activity or document is mentioned?
+## L · Прослухай двічі
 
-   __________________________________________________________
+Закрий додаток L; учитель читає двічі. Якщо звук недоступний, познач блок як відкладений.
 
-## Додаток L — ВІДДІЛИТИ ДО ПЕРЕВІРКИ
+1. What have members already checked?
 
-Тільки для читання вчителем; текст на папері наданий також для пізнішої самостійної роботи. Після відкриття його читання не є аудіюванням.
+   ______________________________________________________________
 
-Robin is making a guide to an imaginary local celebration. It is held in the school museum on Thursday at 3 p.m. Visitors are shown a story about a winter custom. Cards are made by volunteers and guests are greeted politely. Some stories mention New Year’s Eve and midnight. A drawing of a candle is used instead of a real flame. Visitors may take part or quietly observe. The guide does not claim that everyone celebrates in the same way.
+2. Who makes the cards?
+
+   ______________________________________________________________
+
+3. What is used instead of a real flame?
+
+   ______________________________________________________________
+
+**Після здавання:** який прийом допоміг? _______________________________
+
+Офіційний результат не визначається камерою/емоціями чи недоступним зв’язком.
+
+**Паперовий місток D (12 хв після відновлення безпечних умов і світла):**2 хв прочитай опору/умову;4 хв виконай перші 2 доступні пункти або сплануй 2 репліки;4 хв перевір одну відповідь/напиши одну власну фразу;2 хв познач завершене та збережи аркуш. Для контролю це підготовка, а не завершена перевірка.
+
+## Додаток L — ВІДДІЛИТИ ДО СЛУХАННЯ
+
+Повний текст для вчителя та подальшої паперової роботи. Самостійне читання цього додатка не є доказом слухання.
+
+Dana has brought a vegetable soup recipe to a meeting of the cooking club. The group meets on Tuesday at 3 p.m. The members have checked the utensils, but they have not chosen all the utensils yet. There is a saucepan, a ladle and a chopping board on the table. An adult manages all sharp tools and hot equipment. The students only write instructions today. They respect different food choices and ask before suggesting an ingredient. Dana is making a guide to an imaginary local celebration. It is held in the community hall on Friday at 4 p.m. Visitors are shown a paper lantern display. Cards are made by older pupils and guests are greeted politely. Some stories mention New Year’s Eve and midnight. A drawing of a candle is used instead of a real flame. Visitors may take part or quietly observe. The guide does not claim that everyone celebrates in the same way.

@@ -4,29 +4,51 @@
 
 ## Текст учителя для слухання — не друкувати учням
 
-Leo was reading in the library when Mia arrived. It was half past four. Mia wanted a book about planets. The librarian showed her a blue book. They sat near the window. Leo left at five.
+Anna was reading in the school when Alex arrived. It was eleven o’clock. Alex wanted a book about trains. A teacher showed them a red book. They sat near the window. Anna left at four.
 
 Читати двічі чітко, без зайвих підказок; між читаннями пауза близько 30 секунд. На контрольних не показувати текст на екрані. Після переривання початий стимул не оцінювати автоматично: провести еквівалентну перевірку за погодженим графіком.
 
-L1. A — In the library.
+L1. A — In the school..
 
-L2. C — A book about planets.
+L2. C — A book about trains..
 
-L3. B — At five.
+L3. B — At four..
 
-R1. A — Opposite the park.
+R1. A — Opposite the market..
 
-R2. C — A green notebook.
+R2. C — A red pencil case..
 
-R3. B — The librarian.
+R3. B — A shop assistant..
 
 ## S: можливий зразок
 
-A: Excuse me, how do I get to the library? B: Go straight on from the school. A: Is it next to the park? B: It is opposite the park, on your right. Is that clear? A: Yes, opposite the park. Thank you. B: You’re welcome.
+A: Excuse me, how do I get to the library? B: Turn right at the school. Walk past the market. A: Is the library opposite the market? B: Yes, it is. Is that clear? A: Yes. Thank you. B: You’re welcome.
 
 ## W: можливий зразок
 
-Mia and Leo were walking in Green Town. They were looking for the library. While they were reading a map, a girl came to help. She showed them the library opposite the park. They thanked her. They found an interesting book and went home.
+Mia was walking near the market. She was carrying a bag. While she was looking at a map, she put it on a bench. Then she could not find it. Leo showed her the bench. She found her bag and thanked him.
+
+## Резервний варіант — ключ учителя
+
+Видайте recovery-handout.md тільки після визначення окремого слота. Не відкривайте цей ключ учням.
+
+Прихований текст резервного слухання (двічі): Nina was reading in the library when Leo arrived. It was nine o’clock. Leo wanted a book about planets. A teacher showed them a blue book. They sat near the window. Nina left at two.
+
+Резерв L1: C — In the library.
+
+Резерв L2: B — A book about planets.
+
+Резерв L3: A — At two.
+
+Резерв R1: C — Opposite the park.
+
+Резерв R2: B — A yellow folder.
+
+Резерв R3: A — A museum guide.
+
+Резерв S: A: Excuse me, how do I get to the library? B: Go straight on from the school. Walk past the museum. A: Is the library opposite the museum? B: Yes, it is. Is that clear? A: Yes. Thank you. B: You’re welcome. Допускаються інші відповіді за тими самими критеріями; змістові деталі мають відповідати саме резервному завданню.
+
+Резерв W: Mia was walking near the museum. She was carrying a book. While she was looking at a map, she put it on a bench. Then she could not find it. Leo showed her the bench. She found her book and thanked him. Допускаються інші відповіді за тими самими критеріями; змістові деталі мають відповідати саме резервному завданню.
 
 ## Рубрика відкритого продукту
 

@@ -10,15 +10,9 @@
 
 3. **A — pick**. У головній частині може бути наказова форма.
 
-4. **C — To breathe.**. У тексті прямо вказано air to breathe.
+Вправа 5, можливий тематичний діалог: A: What will happen if we keep the river clean? B: Animals will have a safer home. A: What can we do today? B: We can learn about local animals.
 
-5. **B — Fishing nets.**. Fishing nets названо серед загроз.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): If we keep the river clean, animals will have a safer home. If we plant trees, birds will have more places to live. If we save water, we will help nature. If we pick up litter, the park will be cleaner. If we protect forests, animals will have more space.
-
-Модель додаткового висловлення: If we keep the river clean, animals will have a safer home. If we plant trees, birds will have more places to live. If we save water, we will help nature. If we pick up litter, the park will be cleaner. If we protect forests, animals will have more space.
-
-Вправа 5, зразок: A: If we protect the river, animals will have a safer home. B: Could you explain? A: Some dolphins are endangered. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: If we keep the river clean, animals will have a safer home. If we plant trees, birds will have more places to live. If we save water, we will help nature. If we pick up litter, the park will be cleaner. If we protect forests, animals will have more space.
 
 ## Рубрика відкритого продукту
 

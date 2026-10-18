@@ -14,11 +14,9 @@
 
 5. **C — Fishing nets.**. Fishing nets названо серед загроз.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Some dolphins are endangered. They need clean water and air to breathe. If we protect the river, animals will have a safer home. If you see rubbish, pick it up. Animals may disappear if we do not help.
+Вправа 5, можливий тематичний діалог: A: What will happen if we keep the river clean? B: Animals will have a safer home. A: What can we do today? B: We can learn about local animals.
 
-Модель додаткового висловлення: If we keep the river clean, animals will have a safer home. If we plant trees, birds will have more places to live. If we save water, we will help nature. If we pick up litter, the park will be cleaner. If we protect forests, animals will have more space.
-
-Вправа 5, зразок: A: If we protect the river, animals will have a safer home. B: Could you explain? A: Some dolphins are endangered. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: Some dolphins are endangered. They need clean water and air to breathe. Мій вигаданий варіант: If we keep the river clean, animals will have a safer home. If we plant trees, birds will have more places to live.
 
 ## Рубрика відкритого продукту
 

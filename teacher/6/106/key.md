@@ -10,15 +10,9 @@
 
 3. **C — did**. Past Simple → did.
 
-4. **B — The audition could lead to a TV appearance.**. Можливість виступу на TV робить подію важливою.
+Вправа 5, можливий тематичний діалог: A: I am nervous. B: So am I. A: I haven’t been on TV. B: Neither have I.
 
-5. **A — Do their best and have fun.**. Це рішення в останньому реченні.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): A: I am nervous about the show. B: So am I. A: I have not performed here before. B: Neither have I. A: I like our song. B: So do I.
-
-Модель додаткового висловлення: A: I am nervous about the show. B: So am I. A: I have not performed here before. B: Neither have I. A: I like our song. B: So do I.
-
-Вправа 5, зразок: A: I am nervous. B: Could you explain? A: A band is waiting for an audition. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: A: I am nervous about the show. B: So am I. A: I have not performed here before. B: Neither have I. A: I like our song. B: So do I.
 
 ## Рубрика відкритого продукту
 

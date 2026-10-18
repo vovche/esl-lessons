@@ -10,15 +10,13 @@
 
 3. **C — filmed**. Passive: was + filmed.
 
-4. **B — The best project.**. У тексті: chosen as the best project.
+4. **B — The best project.**. Текст не називає фільм: він повідомляє, що той став best project.
 
 5. **A — Two.**. У тексті прямо названо two students.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): A film awards ceremony celebrates work in the film industry. Awards are given in different categories, such as acting and directing. The film was directed by a young director. Two awards were given. Was the scene filmed here?
+Вправа 5, можливий тематичний діалог: A: Was the film shown on Friday? B: Yes, it was. A: How many prizes were given? B: Two prizes were given.
 
-Модель додаткового висловлення: Our ceremony was held on Friday. The hall was decorated with paper stars. Three prizes were given. A short film was shown. All the helpers were thanked.
-
-Вправа 5, зразок: A: The film was directed by a young director. B: Could you explain? A: A film awards ceremony celebrates work in the film industry. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: A film awards ceremony celebrates work in the film industry. Awards are given in different categories, such as acting and directing. Мій вигаданий варіант: Our ceremony was held on Friday. The hall was decorated with paper stars.
 
 ## Рубрика відкритого продукту
 

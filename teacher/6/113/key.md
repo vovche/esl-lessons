@@ -14,11 +14,9 @@
 
 5. **C — Pride and excitement.**. Ці почуття названо в тексті.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): The song presents a singer who has become successful. The singer describes a record deal, albums, fans and an award. The singer won an award. The albums sell well. The singer is going to go on tour.
+Вправа 5, можливий тематичний діалог: A: What does the text say? B: The song presents a singer who has become successful. A: Can you give another example? B: The singer won an award.
 
-Модель додаткового висловлення: The singer won an award. The albums sell well. The singer is going to go on tour.
-
-Вправа 5, зразок: A: The singer won an award. B: Could you explain? A: The song presents a singer who has become successful. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: The song presents a singer who has become successful. The singer describes a record deal, albums, fans and an award. Мій вигаданий варіант: The singer won an award. The albums sell well.
 
 ## Рубрика відкритого продукту
 

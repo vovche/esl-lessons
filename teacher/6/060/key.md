@@ -10,15 +10,9 @@
 
 3. **A — are**. Домовленість: Present Continuous.
 
-4. **C — A keyboard.**. У тексті старий keyboard не працює.
+Вправа 5, можливий тематичний діалог: A: What are you going to do on Saturday? B: I am going to visit a fair. A: When are you meeting Mia? B: I am meeting her at ten.
 
-5. **B — At the entrance.**. У тексті: at the entrance at ten.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): I am going to read a book. I am going to clean my desk. I am going to buy a keyboard. I am meeting Mia at ten. I am not going to play computer games.
-
-Модель додаткового висловлення: I am going to read a book. I am going to clean my desk. I am going to buy a keyboard. I am meeting Mia at ten. I am not going to play computer games.
-
-Вправа 5, зразок: A: I am going to buy a keyboard. B: Could you explain? A: Two friends want to visit a technology fair at the weekend. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: I am going to read a book. I am going to clean my desk. I am going to buy a keyboard. I am meeting Mia at ten. I am not going to play computer games.
 
 ## Рубрика відкритого продукту
 

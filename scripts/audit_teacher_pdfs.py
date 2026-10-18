@@ -21,7 +21,9 @@ def main():
         manifest = json.loads((folder/"print-manifest.json").read_text())
         samples = {"001", f"{len(manifest['lessons']):03d}"}
         # Include the longest student and teacher documents, plus a mid-year pack.
-        for name in ["handout.pdf", "teacher.pdf"]:
+        for name in ["handout.pdf", "teacher.pdf", "games.pdf"]:
+            if not any(name in entry["files"] for entry in manifest["lessons"]):
+                continue
             samples.add(Path(max(manifest["lessons"], key=lambda e: e["files"][name]["pages"])["directory"]).name)
         samples.add(f"{len(manifest['lessons'])//2:03d}")
         for entry in manifest["lessons"]:

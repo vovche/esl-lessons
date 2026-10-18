@@ -10,15 +10,9 @@
 
 3. **C — yet**. Yet підходить до запитання у Present Perfect.
 
-4. **B — Last summer.**. У тексті прямо вказано last summer.
+Вправа 5, можливий тематичний діалог: A: Have you ever seen this band? B: Yes, I have. A: When did you see them? B: I saw them last summer.
 
-5. **A — Nervous.**. Перед увімкненням світла вона felt nervous.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): I have listened to this band many times. I have never met the musicians. Last Saturday I watched their concert on TV. It was exciting.
-
-Модель додаткового висловлення: I have listened to this band many times. I have never met the musicians. Last Saturday I watched their concert on TV. It was exciting.
-
-Вправа 5, зразок: A: I have seen this band twice. B: Could you explain? A: A fan has been to several concerts, but one performance was especially exciting. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: I have listened to this band many times. I have never met the musicians. Last Saturday I watched their concert on TV. It was exciting.
 
 ## Рубрика відкритого продукту
 

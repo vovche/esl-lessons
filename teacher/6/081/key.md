@@ -10,15 +10,9 @@
 
 3. **A — play**. Every year — регулярна дія у Present Simple.
 
-4. **C — Yes, in different sports.**. Перші два речення називають різні команди клубу.
+Вправа 5, можливий тематичний діалог: A: Where does Green Stars play? B: It plays in Green Town. A: What did the team win last year? B: It won a local cup.
 
-5. **B — Where the team plays and why you support it.**. Останнє речення дає план опису.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Our fictional team is Green Stars. They play football in Green Town. Last year they won a local cup. I support them because they help each other.
-
-Модель додаткового висловлення: Our fictional team is Green Stars. They play football in Green Town. Last year they won a local cup. I support them because they help each other.
-
-Вправа 5, зразок: A: Our team plays in the local league. B: Could you explain? A: A sports club can have more than one team. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Our fictional team is Green Stars. They play football in Green Town. Last year they won a local cup. I support them because they help each other.
 
 ## Рубрика відкритого продукту
 

@@ -10,15 +10,9 @@
 
 3. **C — me**. Після to — me.
 
-4. **B — They checked the weather.**. Одяг обирають після перевірки погоди.
+Вправа 5, можливий тематичний діалог: A: Did you pack the tickets? B: Yes, I packed them. A: Can you give them to me? B: Yes, here you are.
 
-5. **A — Download them.**. У тексті: download their boarding passes.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): List: tickets, passport, weather forecast, bag. Did you book the tickets? Have you got your passport? What is the weather like? Did you pack your bag?
-
-Модель додаткового висловлення: List: tickets, passport, weather forecast, bag. Did you book the tickets? Have you got your passport? What is the weather like? Did you pack your bag?
-
-Вправа 5, зразок: A: We booked a flight. B: Could you explain? A: Two friends are preparing for a trip. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: List: tickets, passport, weather forecast, bag. Did you book the tickets? Have you got your passport? What is the weather like? Did you pack your bag? Yes, I packed the tickets. I packed them this morning. The tickets are for us.
 
 ## Рубрика відкритого продукту
 

@@ -8,17 +8,15 @@
 
 2. **A — walk**. Can + основна форма.
 
-3. **C — zoo**. Zoo — зоопарк.
+3. **C — busy cities**. Перше речення прямо називає busy cities.
 
 4. **B — Nature.**. У тексті названо enjoy nature.
 
 5. **A — Yes.**. Текст прямо згадує, що парки змінювалися.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Central Park and Hyde Park are large green spaces in busy cities. People can walk, cycle and enjoy nature there. Both parks have trees. Visitors can walk and do sports. One park has a lake. The other park has a zoo.
+Вправа 5, можливий тематичний діалог: A: What does the text say? B: Central Park and Hyde Park are large green spaces in busy cities. A: Can you give another example? B: Both parks have trees.
 
-Модель додаткового висловлення: Both parks have trees. Visitors can walk and do sports. One park has a lake. The other park has a zoo.
-
-Вправа 5, зразок: A: Both parks have trees. B: Could you explain? A: Central Park and Hyde Park are large green spaces in busy cities. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: Central Park and Hyde Park are large green spaces in busy cities. People can walk, cycle and enjoy nature there. Мій вигаданий варіант: Both parks have trees. Visitors can walk and enjoy nature.
 
 ## Рубрика відкритого продукту
 

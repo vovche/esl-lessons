@@ -14,11 +14,9 @@
 
 5. **B — Near a tree.**. У тексті вказано near a tree in the park.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Two friends are looking for a player in an online game. The player is tall and slim. She has got long wavy hair. She is wearing glasses. What is she doing? She is reading.
+Вправа 5, можливий тематичний діалог: A: What is Mia doing? B: She is reading. A: Is she wearing glasses? B: Yes, she is.
 
-Модель додаткового висловлення: Mia is tall. She has got curly hair. She is wearing a blue jacket. She is reading a book and drawing a map.
-
-Вправа 5, зразок: A: She has got long wavy hair. B: Could you explain? A: Two friends are looking for a player in an online game. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: Two friends are looking for a player in an online game. The player is tall and slim. Мій вигаданий варіант: Mia has got curly hair. Mia is wearing a blue jacket.
 
 ## Рубрика відкритого продукту
 

@@ -10,15 +10,9 @@
 
 3. **B — Should**. Should на початку запитання.
 
-4. **A — At the cinema.**. Вона телефонувала через його відсутність у кіно.
+Вправа 5, можливий тематичний діалог: A: Mia feels unwell. What should she do? B: She should tell an adult. A: Should she ask the teacher for help? B: Yes, she should.
 
-5. **C — Watching football.**. Хлопець визнав, що вони дивляться football.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): A: I have got a headache. Can you help me? B: You should tell an adult. A: I feel tired. What should I do? B: You should ask an adult for help. A: I feel unwell. Can you stay with me? B: Yes. We should tell the teacher.
-
-Модель додаткового висловлення: A: I have got a headache. Can you help me? B: You should tell an adult. A: I feel tired. What should I do? B: You should ask an adult for help. A: I feel unwell. Can you stay with me? B: Yes. We should tell the teacher.
-
-Вправа 5, зразок: A: I have got a headache. B: Could you explain? A: A girl calls her friend because he has not arrived at the cinema. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: A: I have got a headache. Can you help me? B: You should tell an adult. A: I feel tired. What should I do? B: You should ask an adult for help. A: I feel unwell. Can you stay with me? B: Yes. We should tell the teacher.
 
 ## Рубрика відкритого продукту
 

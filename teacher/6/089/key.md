@@ -10,15 +10,9 @@
 
 3. **B — Have you ever appeared on TV?**. Досвід без конкретної дати: Have you ever…?
 
-4. **A — Five.**. У другому реченні названо five questions.
+Вправа 5, можливий тематичний діалог: A: Have you ever watched a musical? B: Yes, I have. A: Have you ever won a prize? B: No, I haven’t.
 
-5. **C — One boy answered too quickly and made mistakes.**. Текст пояснює помилки поспішними відповідями.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Have you ever watched a musical? Yes, I have. Have you ever played tennis? Yes, I have. Have you ever made a film? No, I haven’t. Have you ever visited a museum? Yes, I have. Have you ever won a prize? No, I haven’t.
-
-Модель додаткового висловлення: Have you ever watched a musical? Yes, I have. Have you ever played tennis? Yes, I have. Have you ever made a film? No, I haven’t. Have you ever visited a museum? Yes, I have. Have you ever won a prize? No, I haven’t.
-
-Вправа 5, зразок: A: Have you ever watched a talent show? I have seen it twice. B: Could you explain? A: Two boys are contestants on a game show. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Have you ever watched a musical? Yes, I have. Have you ever played tennis? Yes, I have. Have you ever made a film? No, I haven’t. Have you ever visited a museum? Yes, I have. Have you ever won a prize? No, I haven’t.
 
 ## Рубрика відкритого продукту
 

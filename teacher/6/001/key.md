@@ -10,11 +10,9 @@
 
 3. **C — In September.**. Факт у тексті.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Mia is twelve. She is from Ukraine. My name is Mia. I am Ukrainian. My birthday is in September. Are you Polish?
+Вправа 5, можливий тематичний діалог: A: What is your name? B: My name is Mia. A: Where are you from? B: I am from Ukraine.
 
-Модель додаткового висловлення: My name is Mia. I am twelve. I am from Ukraine. My birthday is in September.
-
-Вправа 5, зразок: A: My name is Mia. B: Could you explain? A: Mia is twelve. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: Mia is twelve. She is from Ukraine. Мій вигаданий варіант: My name is Mia. I am twelve.
 
 ## Рубрика відкритого продукту
 

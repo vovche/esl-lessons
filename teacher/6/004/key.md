@@ -14,11 +14,9 @@
 
 5. **A — The writer likes learning about animals.**. Причина прямо вказана в останньому реченні.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Our school has a theatre and a science lab. We study the usual subjects, but we also learn dance and music. Our school starts at nine. My friend studies music. Does she practise every day? She does not practise at the weekend.
+Вправа 5, можливий тематичний діалог: A: What time do your classes start? B: At nine. A: What subject do you enjoy? B: I enjoy art.
 
-Модель додаткового висловлення: Our school has a library. There is a music room. We study English and art. Lessons start at nine. We have music on Monday. My favourite subject is art.
-
-Вправа 5, зразок: A: Our school starts at nine. B: Could you explain? A: Our school has a theatre and a science lab. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: Our school has a theatre and a science lab. We study the usual subjects, but we also learn dance and music. Мій вигаданий варіант: Our school has a library. There is a music room.
 
 ## Рубрика відкритого продукту
 

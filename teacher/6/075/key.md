@@ -10,15 +10,9 @@
 
 3. **A — few**. Carrots — злічувана множина.
 
-4. **C — Protein and calcium.**. У тексті названо protein and calcium.
+Вправа 5, можливий тематичний діалог: A: How many carrots are there? B: There are a few. A: How much rice is there? B: There is a little.
 
-5. **B — Water.**. Останнє речення: drinks water.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Lunch A has a few tomatoes and a little rice. There are not many carrots. There is not much juice. Lunch B has a lot of vegetables and a little bread.
-
-Модель додаткового висловлення: Lunch A has a few tomatoes and a little rice. There are not many carrots. There is not much juice. Lunch B has a lot of vegetables and a little bread.
-
-Вправа 5, зразок: A: How much milk is there? How many apples have we got? There is a little water and a few vegetables.. B: Could you explain? A: A balanced diet can include different kinds of food. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Lunch A has a few tomatoes and a little rice. There are not many carrots. There is not much juice. Lunch B has a lot of vegetables and a little bread.
 
 ## Рубрика відкритого продукту
 

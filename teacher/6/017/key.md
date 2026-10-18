@@ -14,11 +14,9 @@
 
 5. **C — Her camera was at home.**. Вона залишила camera at home.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): A girl returned from a holiday in Egypt. She visited famous sights and went on a cruise. We went on a cruise. I took photos. Did you buy souvenirs? I did not ride a horse.
+Вправа 5, можливий тематичний діалог: A: Where did you go last summer? B: I went to a lake. A: Did you take photos? B: Yes, I did.
 
-Модель додаткового висловлення: Last summer I visited a lake. I went there by bus. I took photos. I bought a postcard. I did not swim. I enjoyed the trip.
-
-Вправа 5, зразок: A: We went on a cruise. B: Could you explain? A: A girl returned from a holiday in Egypt. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: A girl returned from a holiday in Egypt. She visited famous sights and went on a cruise. Мій вигаданий варіант: Last summer I visited a lake. I went there by bus.
 
 ## Рубрика відкритого продукту
 

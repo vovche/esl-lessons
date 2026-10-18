@@ -6,19 +6,17 @@
 
 1. **B — studies**. З she у Present Simple додаємо -s; study → studies.
 
-2. **A — In the theatre.**. У тексті названо theatre.
+2. **A — is reading**. Зараз: is + reading.
 
-3. **C — is reading**. Зараз: is + reading.
+3. **C — wears**. Usually указує на звичку; she + wears.
 
-4. **B — Brown.**. У тексті: short brown hair.
+4. **B — playing**. Після enjoy потрібна форма -ing.
 
-5. **A — wears**. Usually указує на звичку; she + wears.
+5. **A — She has got straight hair.**. Підмет + has got + прикметник + іменник.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Our school has a theatre and a science lab. Two friends are looking for a player in an online game. Our school starts at nine. My friend studies music. Does she practise every day? She does not practise at the weekend. She has got long wavy hair. She is wearing glasses. What is she doing? She is reading. I usually wear jeans. Today I am making a skirt. I want a blue patch. I like the new design. I enjoy playing table tennis. I cannot stand singing karaoke. I would like to join a youth club. My friend has got curly hair. She is helpful. We play ice hockey together. She is a friendly person.
+Вправа 5, можливий тематичний діалог: A: What time do your classes start? B: At nine. A: What subject do you enjoy? B: I enjoy art.
 
-Модель додаткового висловлення: Our school starts at nine. My friend studies music. Does she practise every day? She does not practise at the weekend. She has got long wavy hair. She is wearing glasses. What is she doing? She is reading. I usually wear jeans. Today I am making a skirt. I want a blue patch. I like the new design. I enjoy playing table tennis. I cannot stand singing karaoke. I would like to join a youth club. My friend has got curly hair. She is helpful. We play ice hockey together. She is a friendly person.
-
-Вправа 5, зразок: A: Our school starts at nine. B: Could you explain? A: Our school has a theatre and a science lab. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: Mia studies at Green School. Classes start at nine. Мій вигаданий варіант: Our school starts at nine. Mia has got long wavy hair.
 
 ## Рубрика відкритого продукту
 

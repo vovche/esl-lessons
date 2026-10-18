@@ -10,15 +10,9 @@
 
 3. **C — but**. But показує протиставлення.
 
-4. **B — By coach.**. У першому реченні: went by coach.
+Вправа 5, можливий тематичний діалог: A: How was your school trip? B: It was great. A: Why did you enjoy it? B: I enjoyed it because I saw new things.
 
-5. **A — The experiment room.**. My favourite place was the experiment room.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Dear Sam, We went from school to a museum by bus and visited the art room. I liked the paintings because they were colourful. We wanted to see the garden, but it was closed. We were tired, so we went home. It was a great trip! Alex
-
-Модель додаткового висловлення: Dear Sam, We went from school to a museum by bus and visited the art room. I liked the paintings because they were colourful. We wanted to see the garden, but it was closed. We were tired, so we went home. It was a great trip! Alex
-
-Вправа 5, зразок: A: We visited a museum and watched a film. B: Could you explain? A: Last week our class went by coach to a science museum. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Dear Sam, We went from school to a museum by bus and visited the art room. I liked the paintings because they were colourful. We wanted to see the garden, but it was closed. We were tired, so we went home. It was a great trip! Alex
 
 ## Рубрика відкритого продукту
 

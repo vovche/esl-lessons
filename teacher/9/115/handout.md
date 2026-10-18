@@ -1,175 +1,108 @@
-# Роздатка · 9 клас · урок 115 · 2027-05-17
+# Роздатка ·9 клас · урок 115 · 2027-05-17
 
-**Тема:** Діагностична робота за юнітами 7–8: слухання, читання, усна взаємодія та письмо
+**Тема календарного плану:** Діагностична робота за юнітами 7–8: слухання, читання, усна взаємодія та письмо
 
-Умовне ім’я/код учня: __________________ Дата фактичної роботи: __________
+Умовне ім’я/код: __________________ Фактична дата: _______________
 
-**Можна:** виконувати на папері, зробити паузу, працювати з вигаданим героєм. Особисті історії й камера не потрібні. Мова завдань не оцінює емоції. Під час переміщення до укриття не виконуй завдань. Читай і пиши лише коли є безпечні умови та достатнє світло.
+Особисті дані й камера не потрібні. Під час переміщення завдання зупиняються. У темряві не читай і не пиши; повернись, коли є безпечні умови. Можна зробити паузу; термін здавання узгоджується за доступністю.
 
-**Швидкий маршрут без мережі (10 хв):** 2 хв — модель і слова; 4 хв — перша секція, вправа 1; 4 хв — два власні речення за моделлю. За ресурсом ще до 5 хв на одну відповідь вправи 2 й питання до вчителя. Решту виконаєш після домовленості.
+## Мінімум B/D: окрема коротка картка
 
-## Секція 1: Думай і живи екологічно: Самооцінювання
+**Опора:** A fictional school team is preparing a display. Station 1 is about reducing waste.
 
-**Слова:** environment — довкілля; wildlife — дика природа; endangered — під загрозою зникнення; pollution — забруднення; climate — клімат; reusable — багаторазовий; deforestation — вирубування лісів; habitat — середовище існування
+Copy one accurate short fact from this source and add one clearly labelled question. This is reading, not a listening test.
 
-**Опора:** Оціни конкретні вміння. Наведи приклад своєї роботи та визнач, що повторити.
-**Модель:** If water freezes, it becomes ice. If we reduce waste, we will help the environment.
+Не потрібно виконувати весь основний пакет.
 
-### 1. Read and find evidence
+My example / field / row: __________________________________________
 
-The class is discussing wildlife at risk. Animals lose habitats when forests are cut down and rivers are polluted. Some species are also hunted illegally. Emma explains that protecting a species means protecting its habitat as well. The class suggests reducing waste, supporting conservation projects and sharing accurate information instead of disturbing wild animals.
+__________________________________________________________________
 
-1. За адаптованим текстом: What happens when forests are cut down?
+Одне питання вчителю (можна українською): ___________________________
 
-A) Every species becomes safer. / B) Pollution disappears. / C) Animals lose habitats.
+B:2 хв готовність +4 хв опора +6 хв приклад +3 хв збереження. D:2+3+5 хв, потім необов’язково до 5 хв уточнення. Це тренувальний фрагмент, не повний урок або контроль. Результат можна передати пізніше.
 
-Answer: ______ Evidence from the text: ______________________________
+## Основний маршрут A/C —45 хв
 
-2. За адаптованим текстом: What does protecting a species also require?
+**Мовний фокус / жанр:** обмежена діагностика / контроль: види перевіряються окремо
 
-A) sharing any rumour / B) protecting its habitat / C) keeping every animal at home
+**Опора:** Контекст кожного мовного пункту є частиною завдання. Дозволені опори оголошує вчитель до початку.
 
-Answer: ______ Evidence from the text: ______________________________
+### Джерело / brief
 
-### 2. Choose a form; explain one choice
+A fictional school team is preparing a display. Station 1 is about reducing waste. Station 2 is about a museum route. The team has twenty minutes for a first draft. Each station needs one clear example rather than a long list. Before sharing the display, the students will check that its information is accurate.
 
-1. If water freezes, it ... ice.
+### Цільові пункти
 
-A) will became / B) would became / C) becomes
 
-Answer: ______
 
-2. If we recycle more tomorrow, we ... less waste.
+1. How much time is available for the first draft?
 
-A) would produced / B) will produce / C) produce yesterday
+A) forty minutes / B) twenty minutes / C) ten minutes
 
-Answer: ______
+Answer: _____ Reason/evidence: __________________________________
 
-3. We will work outside if it ... dry tomorrow.
+2. What does each station need?
 
-A) is / B) will be / C) was
+A) one clear example / B) a long list / C) private contact details
 
-Answer: ______
+Answer: _____ Reason/evidence: __________________________________
 
-One explanation (time, meaning or form): __________________________
+3. What will the team check?
 
-________________________________________________________________
+A) only the colours / B) the viewers’ private lives / C) the accuracy of information
 
-## Секція 2: Україна, Велика Британія та світ: Самооцінювання
+Answer: _____ Reason/evidence: __________________________________
 
-**Слова:** landmark — визначне місце; sightseeing — огляд визначних місць; waterfront — набережна; route — маршрут; harbour — гавань; architecture — архітектура; exhibit — експонат; directions — вказівки маршруту
+4. General fact: If water freezes, it ___ ice.
 
-**Опора:** Оціни конкретні вміння. Наведи приклад своєї роботи та визнач, що повторити.
-**Модель:** If we had checked the opening hours, we would have arrived earlier.
+A) would become / B) becomes / C) will became
 
-### 1. Read and find evidence
+Answer: _____ Reason/evidence: __________________________________
 
-Emma is planning a trip with friends and compares cities in Ukraine and the UK. She wants to learn about landmarks rather than only take photographs. Dan checks routes and public transport. They practise asking for directions politely and giving clear instructions. A good travel plan includes time for museums, local food and a place to rest.
+5. They did not check the hours and arrived late. If they had checked, they ___ earlier.
 
-1. За адаптованим текстом: What does Dan check?
+A) would have arrived / B) would arrive / C) will arrive
 
-A) school marks / B) routes and public transport / C) only hotel colours
+Answer: _____ Reason/evidence: __________________________________
 
-Answer: ______ Evidence from the text: ______________________________
 
-2. За адаптованим текстом: What does a good plan include?
+### Один головний продукт
 
-A) time for landmarks and rest / B) only shopping / C) no route information
+Write a short display note (45–65 words): choose two different stations, give one accurate contextual example for each, and explain one useful decision. No requirement to cover every station in a long essay.
 
-Answer: ______ Evidence from the text: ______________________________
-
-### 2. Choose a form; explain one choice
-
-1. If we had checked the timetable, we ... the museum.
-
-A) would visit tomorrow / B) would have visited / C) will visit
-
-Answer: ______
-
-2. If Dan ... earlier, he would have caught the bus.
-
-A) had left / B) leaves / C) will leave
-
-Answer: ______
-
-3. We would not have got lost if we ... a map.
-
-A) use / B) will use / C) had used
-
-Answer: ______
-
-One explanation (time, meaning or form): __________________________
-
-________________________________________________________________
-
-## Окрема ситуація цього уроку: a self-check card
-
-Lee is working on a self-check card about travel and landmarks. The task is to name one secure skill and one language question. There are 6 minutes for a first attempt. A partner suggests making the message shorter, but Lee wants to keep one clear reason. They agree to check the meaning before sharing the final version. The work is about a fictional character, so no private details are needed.
-
-A. How much time is available for a first attempt? ___________________
-
-B. What will the partners check before sharing? _____________________
-
-C. Complete the actual mini-product (a self-check card) in two lines about travel and landmarks. Include one clear reason. Use the language model above and the strategy from the message.
+Для навчального мінімуму: один потрібний фрагмент і позначка, що ще треба завершити. Для повного A/C — весь зазначений короткий жанр/продукт. Це не вимога написати 120–130 слів за 7 хв.
 
 __________________________________________________________________
 
 __________________________________________________________________
 
-## 3. Create and explain
-
-Write a fictional one-day travel plan for a fictional Alex. Use two details from the text(s), give two reasons and add one suggestion. Write 4–6 sentences. You may use the model(s) above. Do not include real addresses, phone numbers or private experiences.
-
-**Start:** In the text, … . Alex could … because … . Another reason is … . I suggest … .
-
-1. ________________________________________________________________
-
-2. ________________________________________________________________
-
-3. ________________________________________________________________
-
-4. ________________________________________________________________
-
-5. ________________________________________________________________
-
-6. ________________________________________________________________
-
-## 4. Interaction
-
-Fictional situation: Alex needs help choosing a next step about travel and landmarks. Ask for one reason, reply and respond politely. Say it if the teacher has arranged an oral channel; otherwise write a dialogue and mark it as written.
-
-A: Why would you choose ________________________________________?
-
-B: I would choose __________________ because ____________________.
-
-A: I see your point. Another option is ____________________________.
-
-Спосіб: усно / письмово. Партнера немає? Напиши обидві ролі як тренування; усну взаємодію перевірять окремо.
-
-## 5. Listening (only with the teacher's audio)
-
-Do not guess if you cannot hear the audio. Write «не перевірено» and arrange another time.
-
-1. On which day does Alex plan the activity? _______________________
-
-2. How will the group travel? ______________________
-
-## 6. Correction / portfolio / homework
-
-Original phrase: __________________________________________________
-
-My corrected phrase and reason: ____________________________________
+__________________________________________________________________
 
 __________________________________________________________________
 
-Second correction (for portfolio): _________________________________
-
-My next language step: ____________________________________________
-
-Add two sentences to your product, if this is homework: ______________
+__________________________________________________________________
 
 __________________________________________________________________
 
-Optional respectful phrase for fictional Alex: ______________________
+__________________________________________________________________
 
-**ДЗ:** одна виправлена відповідь із поясненням і два додані речення, до 10 хв. Термін — наступний доступний контакт за домовленістю. Після короткого маршруту спочатку заверши мінімум.
+__________________________________________________________________
+
+### Після завершення
+
+Мій точний пункт повернення: _______________________________________
+
+Моє мовне питання / одне виправлення: _______________________________
+
+**Резерв, тільки за окремим вибором вчителя:** розширити продукт однією новою деталлю й пояснити її; цей резерв не додається до 45 хв. На інших уроках аудіювання/говоріння не приписуються автоматично, якщо їх не перевіряли.
+
+**ДЗ, до 10 хв:** виправити один цільовий пункт із поясненням або завершити одну потрібну частину чернетки. Не виконувати заново весь пропущений урок. Після B/D спершу зберегти мінімум, решту погодити з учителем. Контроль удома не зараховується без погодженої процедури.
+
+### Слухання: teacher-only повідомлення
+
+1. How much time does the team have for a first draft? __________
+
+2. What will the team check before sharing? ____________________
+
+Без аудіоканалу ці два питання не виконуються навмання: «не перевірено». Письмовий transcript після завершення — для аналізу, не доказ слухання.

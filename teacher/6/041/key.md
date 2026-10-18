@@ -6,19 +6,17 @@
 
 1. **A — was walking**. Дія тривала в певний момент минулого.
 
-2. **C — There was a cat in the street.**. Водій побачив кота на дорозі.
+2. **C — were walking**. Тривала фонова дія: were walking.
 
-3. **B — were walking**. Тривала фонова дія: were walking.
+3. **B — any**. У запитанні про наявність: any.
 
-4. **A — They were much bigger than human footprints.**. Розмір слідів здивував друзів.
+4. **A — Nobody**. Nobody — ніхто; речення вже заперечне за змістом.
 
-5. **C — any**. У запитанні про наявність: any.
+5. **C — Unfortunately**. Втрата ключів — неприємна подія.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): A boy was skateboarding on the pavement. Two friends were exploring a snowy area when they saw huge footprints. I was walking at five. They were skateboarding. Was the driver going fast? She was not looking at her phone. While we were walking, we heard a noise. I was looking at the snow when I saw footprints. She was reading while he was drawing. There are some rides. Are there any long queues? There is no food left. Would you like some lemonade? Everyone is afraid. Nobody knows the answer. Is there anything to eat? I can hear something. I was walking home when I lost my keys. Unfortunately, the door was locked. Luckily, a neighbour helped me.
+Вправа 5, можливий тематичний діалог: A: What was Mia doing at five? B: She was drawing. A: Was Leo reading? B: No, he was carrying a box.
 
-Модель додаткового висловлення: I was walking at five. They were skateboarding. Was the driver going fast? She was not looking at her phone. While we were walking, we heard a noise. I was looking at the snow when I saw footprints. She was reading while he was drawing. There are some rides. Are there any long queues? There is no food left. Would you like some lemonade? Everyone is afraid. Nobody knows the answer. Is there anything to eat? I can hear something. I was walking home when I lost my keys. Unfortunately, the door was locked. Luckily, a neighbour helped me.
-
-Вправа 5, зразок: A: I was walking at five. B: Could you explain? A: A boy was skateboarding on the pavement. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: Mia was reading when she heard a noise. While Leo was drawing, a cat came into the garden. Мій вигаданий варіант: Leo was carrying a box. While we were walking, we heard a noise.
 
 ## Рубрика відкритого продукту
 

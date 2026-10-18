@@ -14,11 +14,9 @@
 
 5. **C — For protection.**. Protective equipment — захисне спорядження.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Ice hockey is played on an ice rink. Players use sticks to move a puck and try to score goals. Ice hockey is played on an ice rink. A stick is used to move the puck. Players must follow the rules.
+Вправа 5, можливий тематичний діалог: A: What does the text say? B: Ice hockey is played on an ice rink. A: Can you give another example? B: Ice hockey is played on an ice rink.
 
-Модель додаткового висловлення: Ice hockey is played on an ice rink. A stick is used to move the puck. Players must follow the rules.
-
-Вправа 5, зразок: A: Ice hockey is played on an ice rink. B: Could you explain? A: Ice hockey is played on an ice rink. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: Ice hockey is played on an ice rink. Players use sticks to move a puck and try to score goals. Мій вигаданий варіант: Ice hockey is played on an ice rink. A stick is used to move the puck.
 
 ## Рубрика відкритого продукту
 

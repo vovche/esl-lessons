@@ -4,13 +4,19 @@
 
 ## Текст учителя для слухання — не друкувати учням
 
-Leo was reading in the library when Mia arrived. It was half past four. Mia wanted a book about planets. The librarian showed her a blue book. They sat near the window. Leo left at five.
+Anna was reading in the museum when Sam arrived. It was ten o’clock. Sam wanted a book about animals. A teacher showed them a green book. They sat near the window. Anna left at three.
 
 Читати двічі чітко, без зайвих підказок; між читаннями пауза близько 30 секунд. На контрольних не показувати текст на екрані. Після переривання початий стимул не оцінювати автоматично: провести еквівалентну перевірку за погодженим графіком.
 
 ## W: можливий зразок
 
-Mia and Leo were walking in Green Town. They were looking for the library. While they were reading a map, a girl came to help. She showed them the library opposite the park. They thanked her. They found an interesting book and went home.
+Mia was walking near the market. She was carrying a notebook. While she was looking at a map, she put it on a bench. Then she could not find it. Leo showed her the bench. She found her notebook and thanked him.
+
+## Резервний варіант — ключ учителя
+
+Видайте recovery-handout.md тільки після визначення окремого слота. Не відкривайте цей ключ учням.
+
+Резерв W: Mia was walking near the museum. She was carrying a bag. While she was looking at a map, she put it on a bench. Then she could not find it. Leo showed her the bench. She found her bag and thanked him. Допускаються інші відповіді за тими самими критеріями; змістові деталі мають відповідати саме резервному завданню.
 
 ## Рубрика відкритого продукту
 

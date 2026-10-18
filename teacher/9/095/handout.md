@@ -1,128 +1,88 @@
-# Роздатка · 9 клас · урок 095 · 2027-04-06
+# Роздатка ·9 клас · урок 095 · 2027-04-06
 
-**Тема:** Think Green, Live Green. Природа і погода (навколишнє середовище, охорона довкілля).
+**Тема календарного плану:** Think Green, Live Green. Природа і погода (навколишнє середовище, охорона довкілля).
 
-Умовне ім’я/код учня: __________________ Дата фактичної роботи: __________
+Умовне ім’я/код: __________________ Фактична дата: _______________
 
-**Можна:** виконувати на папері, зробити паузу, працювати з вигаданим героєм. Особисті історії й камера не потрібні. Мова завдань не оцінює емоції. Під час переміщення до укриття не виконуй завдань. Читай і пиши лише коли є безпечні умови та достатнє світло.
+Особисті дані й камера не потрібні. Під час переміщення завдання зупиняються. У темряві не читай і не пиши; повернись, коли є безпечні умови. Можна зробити паузу; термін здавання узгоджується за доступністю.
 
-**Швидкий маршрут без мережі (10 хв):** 2 хв — модель і слова; 4 хв — перша секція, вправа 1; 4 хв — два власні речення за моделлю. За ресурсом ще до 5 хв на одну відповідь вправи 2 й питання до вчителя. Решту виконаєш після домовленості.
+## Мінімум B/D: окрема коротка картка
 
-## Секція 1: Думай і живи екологічно: Лексика в контексті
+**Опора:** air pollution — забруднення повітря; overfishing — надмірний вилов риби; global warming — глобальне потепління
 
-**Слова:** environment — довкілля; wildlife — дика природа; endangered — під загрозою зникнення; pollution — забруднення; climate — клімат; reusable — багаторазовий; deforestation — вирубування лісів; habitat — середовище існування
+The long-term average temperature of Earth rises. Which word or phrase fits?
 
-**Опора:** Порівняй значення близьких слів, поясни вибір у контексті й склади власні речення.
-**Модель:** If water freezes, it becomes ice. If we reduce waste, we will help the environment.
+Не потрібно виконувати весь основний пакет.
 
-### 1. Read and find evidence
+My example / field / row: __________________________________________
 
-The class is discussing wildlife at risk. Animals lose habitats when forests are cut down and rivers are polluted. Some species are also hunted illegally. Emma explains that protecting a species means protecting its habitat as well. The class suggests reducing waste, supporting conservation projects and sharing accurate information instead of disturbing wild animals.
+__________________________________________________________________
 
-1. За адаптованим текстом: What happens when forests are cut down?
+Одне питання вчителю (можна українською): ___________________________
 
-A) Pollution disappears. / B) Animals lose habitats. / C) Every species becomes safer.
+B:2 хв готовність +4 хв опора +6 хв приклад +3 хв збереження. D:2+3+5 хв, потім необов’язково до 5 хв уточнення. Це тренувальний фрагмент, не повний урок або контроль. Результат можна передати пізніше.
 
-Answer: ______ Evidence from the text: ______________________________
+## Основний маршрут A/C —45 хв
 
-2. За адаптованим текстом: What does protecting a species also require?
+**Мовний фокус / жанр:** лексика у контексті
 
-A) protecting its habitat / B) keeping every animal at home / C) sharing any rumour
+**Опора:** Обираємо слово за значенням у ситуації. Після розпізнавання переносимо слово в новий контекст. Публічні форми заповнюємо лише вигаданими даними.
 
-Answer: ______ Evidence from the text: ______________________________
+### Джерело / brief
 
-### 2. Choose a form; explain one choice
+Word bank: air pollution — забруднення повітря; overfishing — надмірний вилов риби; global warming — глобальне потепління.
 
-1. If water freezes, it ... ice.
+### Цільові пункти
 
-A) would became / B) becomes / C) will became
 
-Answer: ______
 
-2. If we recycle more tomorrow, we ... less waste.
+1. Harmful substances make the air less clean. Which word or phrase fits?
 
-A) will produce / B) produce yesterday / C) would produced
+A) air pollution / B) overfishing / C) global warming
 
-Answer: ______
+Answer: _____ Reason/evidence: __________________________________
 
-3. We will work outside if it ... dry tomorrow.
+2. People catch fish faster than populations can recover. Which word or phrase fits?
 
-A) will be / B) was / C) is
+A) air pollution / B) global warming / C) overfishing
 
-Answer: ______
+Answer: _____ Reason/evidence: __________________________________
 
-One explanation (time, meaning or form): __________________________
+3. The long-term average temperature of Earth rises. Which word or phrase fits?
 
-________________________________________________________________
+A) overfishing / B) global warming / C) air pollution
 
-## Окрема ситуація цього уроку: a phrase collection
+Answer: _____ Reason/evidence: __________________________________
 
-Lee is working on a phrase collection about environmental choices. The task is to choose phrases that fit a particular situation. There are 10 minutes for a first attempt. A partner suggests making the message shorter, but Lee wants to keep one clear reason. They agree to check the meaning before sharing the final version. The work is about a fictional character, so no private details are needed.
 
-A. How much time is available for a first attempt? ___________________
+### Один головний продукт
 
-B. What will the partners check before sharing? _____________________
+Choose two words from the word bank and write a different contextual example for each. Do not copy the task sentences.
 
-C. Complete the actual mini-product (a phrase collection) in two lines about environmental choices. Include one clear reason. Use the language model above and the strategy from the message.
+Для навчального мінімуму: один потрібний фрагмент і позначка, що ще треба завершити. Для повного A/C — весь зазначений короткий жанр/продукт. Це не вимога написати 120–130 слів за 7 хв.
 
 __________________________________________________________________
 
 __________________________________________________________________
 
-## 3. Create and explain
-
-Write an environmental leaflet for a fictional Alex. Use two details from the text(s), give two reasons and add one suggestion. Write 4–6 sentences. You may use the model(s) above. Do not include real addresses, phone numbers or private experiences.
-
-**Start:** In the text, … . Alex could … because … . Another reason is … . I suggest … .
-
-1. ________________________________________________________________
-
-2. ________________________________________________________________
-
-3. ________________________________________________________________
-
-4. ________________________________________________________________
-
-5. ________________________________________________________________
-
-6. ________________________________________________________________
-
-## 4. Interaction
-
-Fictional situation: Alex needs help choosing a next step about environmental choices. Ask for one reason, reply and respond politely. Say it if the teacher has arranged an oral channel; otherwise write a dialogue and mark it as written.
-
-A: Why would you choose ________________________________________?
-
-B: I would choose __________________ because ____________________.
-
-A: I see your point. Another option is ____________________________.
-
-Спосіб: усно / письмово. Партнера немає? Напиши обидві ролі як тренування; усну взаємодію перевірять окремо.
-
-## 5. Listening (only with the teacher's audio)
-
-Do not guess if you cannot hear the audio. Write «не перевірено» and arrange another time.
-
-1. On which day does Alex plan the activity? _______________________
-
-2. Where will the class swap clothes if it rains? ______________________
-
-## 6. Correction / portfolio / homework
-
-Original phrase: __________________________________________________
-
-My corrected phrase and reason: ____________________________________
+__________________________________________________________________
 
 __________________________________________________________________
 
-Second correction (for portfolio): _________________________________
-
-My next language step: ____________________________________________
-
-Add two sentences to your product, if this is homework: ______________
+__________________________________________________________________
 
 __________________________________________________________________
 
-Optional respectful phrase for fictional Alex: ______________________
+__________________________________________________________________
 
-**ДЗ:** одна виправлена відповідь із поясненням і два додані речення, до 10 хв. Термін — наступний доступний контакт за домовленістю. Після короткого маршруту спочатку заверши мінімум.
+__________________________________________________________________
+
+### Після завершення
+
+Мій точний пункт повернення: _______________________________________
+
+Моє мовне питання / одне виправлення: _______________________________
+
+**Резерв, тільки за окремим вибором вчителя:** розширити продукт однією новою деталлю й пояснити її; цей резерв не додається до 45 хв. На інших уроках аудіювання/говоріння не приписуються автоматично, якщо їх не перевіряли.
+
+**ДЗ, до 10 хв:** виправити один цільовий пункт із поясненням або завершити одну потрібну частину чернетки. Не виконувати заново весь пропущений урок. Після B/D спершу зберегти мінімум, решту погодити з учителем. Контроль удома не зараховується без погодженої процедури.

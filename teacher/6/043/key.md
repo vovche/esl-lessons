@@ -10,15 +10,9 @@
 
 3. **C — might**. Might виражає невпевнене припущення.
 
-4. **B — He has no library card with him.**. Картка залишилася вдома.
+Вправа 5, можливий тематичний діалог: A: May I borrow this book? B: Yes, you may. A: Could you help me find another book? B: Of course.
 
-5. **A — On a shelf.**. У тексті: checks the shelf.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Library — A: May I borrow this book? B: Yes, you may. Shop — A: Could you show me that bag? B: Of course. Post office — A: Can I buy a stamp, please? B: Certainly.
-
-Модель додаткового висловлення: Library — A: May I borrow this book? B: Yes, you may. Shop — A: Could you show me that bag? B: Of course. Post office — A: Can I buy a stamp, please? B: Certainly.
-
-Вправа 5, зразок: A: May I borrow this book? Could you help me? I might visit the market later.. B: Could you explain? A: A boy wants to borrow a book from the library, but he has left his card at home. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Library — A: May I borrow this book? B: Yes, you may. Shop — A: Could you show me that bag? B: Of course. Post office — A: Can I buy a stamp, please? B: Certainly.
 
 ## Рубрика відкритого продукту
 

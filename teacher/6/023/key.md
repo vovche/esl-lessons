@@ -14,11 +14,9 @@
 
 5. **C — Places to charge them.**. Останнє речення пояснює потребу в заряджанні.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Travel has changed. Explorers used to spend months at sea before they saw land. People used to travel on slow ships. Did they use to spend months at sea? Trains did not use to be so fast.
+Вправа 5, можливий тематичний діалог: A: Did people use to travel on slow ships? B: Yes, they did. A: How do they travel now? B: They can travel by fast trains.
 
-Модель додаткового висловлення: People used to travel by horse. They used to walk long distances. Ships used to be slow. Today people travel by train. They fly to other countries. They use fast buses.
-
-Вправа 5, зразок: A: People used to travel on slow ships. B: Could you explain? A: Travel has changed. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: Travel has changed. Explorers used to spend months at sea before they saw land. Мій вигаданий варіант: People used to travel by horse. They used to walk long distances.
 
 ## Рубрика відкритого продукту
 

@@ -4,13 +4,19 @@
 
 ## Текст учителя для слухання — не друкувати учням
 
-Our film club has made a short comedy. The film was written by Mia and directed by Leo. It was filmed in the school garden. We are showing it on Wednesday at four. Tickets are free. You can bring a friend.
+Our film club has made a short comedy. The film was written by Anna and directed by Leo. It was filmed in the school garden. We are showing it on Friday at two. Tickets are free. You can bring a friend.
 
 Читати двічі чітко, без зайвих підказок; між читаннями пауза близько 30 секунд. На контрольних не показувати текст на екрані. Після переривання початий стимул не оцінювати автоматично: провести еквівалентну перевірку за погодженим графіком.
 
 ## S: можливий зразок
 
-A: I would like a blue T-shirt, please. B: What size do you need? A: Medium. This green one is too small. B: The blue one is medium and costs ten pounds. A: That is big enough. I will take it. B: Thank you. Here you are.
+A: I would like a red T-shirt, please. B: What size? A: M. This one is too small. B: The red one is M and costs eight pounds. A: It is big enough. I will take it. B: Here you are.
+
+## Резервний варіант — ключ учителя
+
+Видайте recovery-handout.md тільки після визначення окремого слота. Не відкривайте цей ключ учням.
+
+Резерв S: A: I would like a yellow jacket, please. B: What size? A: L. This one is too small. B: The yellow one is L and costs ten pounds. A: It is big enough. I will take it. B: Here you are. Допускаються інші відповіді за тими самими критеріями; змістові деталі мають відповідати саме резервному завданню.
 
 ## Рубрика відкритого продукту
 

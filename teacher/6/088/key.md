@@ -14,11 +14,9 @@
 
 5. **A — One boy answered too quickly and made mistakes.**. Текст пояснює помилки поспішними відповідями.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Two boys are contestants on a game show. They must answer five questions about their friends to win a prize. Have you ever watched a talent show? I have seen it twice. She has never won a competition.
+Вправа 5, можливий тематичний діалог: A: Have you ever watched a musical? B: Yes, I have. A: Have you ever won a prize? B: No, I haven’t.
 
-Модель додаткового висловлення: Have you ever watched a musical? Yes, I have. Have you ever played tennis? Yes, I have. Have you ever made a film? No, I haven’t. Have you ever visited a museum? Yes, I have. Have you ever won a prize? No, I haven’t.
-
-Вправа 5, зразок: A: Have you ever watched a talent show? I have seen it twice. B: Could you explain? A: Two boys are contestants on a game show. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: Two boys are contestants on a game show. They must answer five questions about their friends to win a prize. Мій вигаданий варіант: Yes, I have. Yes, I have.
 
 ## Рубрика відкритого продукту
 

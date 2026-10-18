@@ -14,11 +14,9 @@
 
 5. **B — Do their best and have fun.**. Це рішення в останньому реченні.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): A band is waiting for an audition. Two members feel nervous because a good performance could lead to a television appearance. I am nervous. So am I. I love performing. So do I. I have not been on TV. Neither have I.
+Вправа 5, можливий тематичний діалог: A: I am nervous. B: So am I. A: I haven’t been on TV. B: Neither have I.
 
-Модель додаткового висловлення: A: I am nervous about the show. B: So am I. A: I have not performed here before. B: Neither have I. A: I like our song. B: So do I.
-
-Вправа 5, зразок: A: I am nervous. B: Could you explain? A: A band is waiting for an audition. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: A band is waiting for an audition. Two members feel nervous because a good performance could lead to a television appearance. Мій вигаданий варіант: A: I am nervous about the show. B: So am I.
 
 ## Рубрика відкритого продукту
 

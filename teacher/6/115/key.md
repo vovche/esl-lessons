@@ -4,29 +4,51 @@
 
 ## Текст учителя для слухання — не друкувати учням
 
-Our film club has made a short comedy. The film was written by Mia and directed by Leo. It was filmed in the school garden. We are showing it on Wednesday at four. Tickets are free. You can bring a friend.
+Our film club has made a short cartoon. The film was written by Anna and directed by Alex. It was filmed in the town park. We are showing it on Monday at four. Tickets are free. You can bring a friend.
 
 Читати двічі чітко, без зайвих підказок; між читаннями пауза близько 30 секунд. На контрольних не показувати текст на екрані. Після переривання початий стимул не оцінювати автоматично: провести еквівалентну перевірку за погодженим графіком.
 
-L1. B — Leo.
+L1. B — Alex..
 
-L2. A — In the school garden.
+L2. A — In the town park..
 
-L3. C — Wednesday at four.
+L3. C — Monday..
 
-R1. B — For two years.
+R1. B — For four years..
 
-R2. A — In the town library.
+R2. A — In the town park..
 
-R3. C — Eva.
+R3. C — Anna..
 
 ## S: можливий зразок
 
-A: I would like a blue T-shirt, please. B: What size do you need? A: Medium. This green one is too small. B: The blue one is medium and costs ten pounds. A: That is big enough. I will take it. B: Thank you. Here you are.
+A: I would like a red shirt, please. B: What size? A: XL. This one is too small. B: The red one is XL and costs eleven pounds. A: It is big enough. I will take it. B: Here you are.
 
 ## W: можливий зразок
 
-Garden Friends is a fictional comedy. It was directed by Mia. It is about a boy who helps his neighbours. The story is funny and kind. I liked the costumes. I would recommend it to my classmates.
+A Day in Green Town is a fictional comedy. It was directed by Mia. It is about a girl who organises a school trip. The story is kind and funny. I liked the bright colours. I would recommend it to my classmates.
+
+## Резервний варіант — ключ учителя
+
+Видайте recovery-handout.md тільки після визначення окремого слота. Не відкривайте цей ключ учням.
+
+Прихований текст резервного слухання (двічі): Our film club has made a short comedy. The film was written by Nina and directed by Leo. It was filmed in the school garden. We are showing it on Tuesday at two. Tickets are free. You can bring a friend.
+
+Резерв L1: A — Leo.
+
+Резерв L2: C — In the school garden.
+
+Резерв L3: B — Tuesday.
+
+Резерв R1: A — For two years.
+
+Резерв R2: C — In the music room.
+
+Резерв R3: B — Nina.
+
+Резерв S: A: I would like a yellow T-shirt, please. B: What size? A: M. This one is too small. B: The yellow one is M and costs eight pounds. A: It is big enough. I will take it. B: Here you are. Допускаються інші відповіді за тими самими критеріями; змістові деталі мають відповідати саме резервному завданню.
+
+Резерв W: The Lost Notebook is a fictional comedy. It was directed by Mia. It is about a girl who organises a garden party. The story is kind and funny. I liked the bright colours. I would recommend it to my classmates. Допускаються інші відповіді за тими самими критеріями; змістові деталі мають відповідати саме резервному завданню.
 
 ## Рубрика відкритого продукту
 

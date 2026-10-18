@@ -1,128 +1,88 @@
-# Роздатка · 9 клас · урок 009 · 2026-09-16
+# Роздатка ·9 клас · урок 009 · 2026-09-16
 
-**Тема:** All About Me. Я, моя сім’я і друзі.
+**Тема календарного плану:** All About Me. Я, моя сім’я і друзі.
 
-Умовне ім’я/код учня: __________________ Дата фактичної роботи: __________
+Умовне ім’я/код: __________________ Фактична дата: _______________
 
-**Можна:** виконувати на папері, зробити паузу, працювати з вигаданим героєм. Особисті історії й камера не потрібні. Мова завдань не оцінює емоції. Під час переміщення до укриття не виконуй завдань. Читай і пиши лише коли є безпечні умови та достатнє світло.
+Особисті дані й камера не потрібні. Під час переміщення завдання зупиняються. У темряві не читай і не пиши; повернись, коли є безпечні умови. Можна зробити паузу; термін здавання узгоджується за доступністю.
 
-**Швидкий маршрут без мережі (10 хв):** 2 хв — модель і слова; 4 хв — перша секція, вправа 1; 4 хв — два власні речення за моделлю. За ресурсом ще до 5 хв на одну відповідь вправи 2 й питання до вчителя. Решту виконаєш після домовленості.
+## Мінімум B/D: окрема коротка картка
 
-## Секція 1: Усе про мене: Граматика в контексті
+**Опора:** The published timetable says the train leaves at six tomorrow. Розклад: Present Simple.
 
-**Слова:** personality — особистість; confident — упевнений; curious — допитливий; role model — приклад для наслідування; self-development — саморозвиток; forename — ім’я; surname — прізвище; occupation — заняття, професія
+“I cannot carry this box.” “I ___ you.” Choose: will help / helped
 
-**Опора:** Will: рішення зараз або прогноз. Be going to: попередній намір чи наявні докази. Present Continuous: домовленість. Present Simple: розклад.
-**Модель:** I will help you. I am meeting my friend tomorrow. The train leaves at six.
+Не потрібно виконувати весь основний пакет.
 
-### 1. Read and find evidence
+My example / field / row: __________________________________________
 
-Emma is preparing a short autobiography. She describes where she grew up and how she became interested in photography. She is taking part in a school exhibition next Friday. She has already chosen the photos, so this is an arrangement. She thinks she will learn a lot from the visitors and is going to ask them for feedback.
+__________________________________________________________________
 
-1. За адаптованим текстом: What has Emma already chosen?
+Одне питання вчителю (можна українською): ___________________________
 
-A) the photos / B) a new school / C) the visitors
+B:2 хв готовність +4 хв опора +6 хв приклад +3 хв збереження. D:2+3+5 хв, потім необов’язково до 5 хв уточнення. Це тренувальний фрагмент, не повний урок або контроль. Результат можна передати пізніше.
 
-Answer: ______ Evidence from the text: ______________________________
+## Основний маршрут A/C —45 хв
 
-2. За адаптованим текстом: Why will she ask for feedback?
+**Мовний фокус / жанр:** Майбутнє: розклад, домовленість, намір, спонтанне рішення
 
-A) to cancel the exhibition / B) to change her name / C) to learn from the visitors
+**Опора:** Present Simple — розклад; Present Continuous — домовленість; going to — попередній намір; will — рішення в момент мовлення.
 
-Answer: ______ Evidence from the text: ______________________________
+### Джерело / brief
 
-### 2. Choose a form; explain one choice
+Language lab: all events below are fictional. The time and reporting context in each item are part of the task; keep them when choosing a form.
 
-1. The lesson ... at nine tomorrow, according to the timetable.
+### Цільові пункти
 
-A) starts / B) is start / C) starting
 
-Answer: ______
 
-2. We have agreed: I ... Dan after school tomorrow.
+1. The published timetable says the train ___ at six tomorrow.
 
-A) met / B) have met / C) am meeting
+A) will leaving / B) leave / C) leaves
 
-Answer: ______
+Answer: _____ Reason/evidence: __________________________________
 
-3. Look at those dark clouds! It ... .
+2. We have booked a table. We ___ our friends there tomorrow.
 
-A) rains yesterday / B) is going to rain / C) rained
+A) meeting / B) are meeting / C) met
 
-Answer: ______
+Answer: _____ Reason/evidence: __________________________________
 
-One explanation (time, meaning or form): __________________________
+3. “I cannot carry this box.” “I ___ you.”
 
-________________________________________________________________
+A) will help / B) helped / C) am help
 
-## Окрема ситуація цього уроку: a comparison of two forms
+Answer: _____ Reason/evidence: __________________________________
 
-Sam is working on a comparison of two forms about personality and interests. The task is to compare two versions and explain the difference. There are 8 minutes for a first attempt. A partner suggests making the message shorter, but Sam wants to keep one clear reason. They agree to check the meaning before sharing the final version. The work is about a fictional character, so no private details are needed.
 
-A. How much time is available for a first attempt? ___________________
+### Один головний продукт
 
-B. What will the partners check before sharing? _____________________
+Complete the contextual language items. Then write one new two-clause example using the target form and explain its meaning in Ukrainian or English.
 
-C. Complete the actual mini-product (a comparison of two forms) in two lines about personality and interests. Include one clear reason. Use the language model above and the strategy from the message.
+Для навчального мінімуму: один потрібний фрагмент і позначка, що ще треба завершити. Для повного A/C — весь зазначений короткий жанр/продукт. Це не вимога написати 120–130 слів за 7 хв.
 
 __________________________________________________________________
 
 __________________________________________________________________
 
-## 3. Create and explain
-
-Write a fictional personal profile for a fictional Alex. Use two details from the text(s), give two reasons and add one suggestion. Write 4–6 sentences. You may use the model(s) above. Do not include real addresses, phone numbers or private experiences.
-
-**Start:** In the text, … . Alex could … because … . Another reason is … . I suggest … .
-
-1. ________________________________________________________________
-
-2. ________________________________________________________________
-
-3. ________________________________________________________________
-
-4. ________________________________________________________________
-
-5. ________________________________________________________________
-
-6. ________________________________________________________________
-
-## 4. Interaction
-
-Fictional situation: Alex needs help choosing a next step about personality and interests. Ask for one reason, reply and respond politely. Say it if the teacher has arranged an oral channel; otherwise write a dialogue and mark it as written.
-
-A: Why would you choose ________________________________________?
-
-B: I would choose __________________ because ____________________.
-
-A: I see your point. Another option is ____________________________.
-
-Спосіб: усно / письмово. Партнера немає? Напиши обидві ролі як тренування; усну взаємодію перевірять окремо.
-
-## 5. Listening (only with the teacher's audio)
-
-Do not guess if you cannot hear the audio. Write «не перевірено» and arrange another time.
-
-1. On which day does Alex plan the activity? _______________________
-
-2. Where does the club meet? ______________________
-
-## 6. Correction / portfolio / homework
-
-Original phrase: __________________________________________________
-
-My corrected phrase and reason: ____________________________________
+__________________________________________________________________
 
 __________________________________________________________________
 
-Second correction (for portfolio): _________________________________
-
-My next language step: ____________________________________________
-
-Add two sentences to your product, if this is homework: ______________
+__________________________________________________________________
 
 __________________________________________________________________
 
-Optional respectful phrase for fictional Alex: ______________________
+__________________________________________________________________
 
-**ДЗ:** одна виправлена відповідь із поясненням і два додані речення, до 10 хв. Термін — наступний доступний контакт за домовленістю. Після короткого маршруту спочатку заверши мінімум.
+__________________________________________________________________
+
+### Після завершення
+
+Мій точний пункт повернення: _______________________________________
+
+Моє мовне питання / одне виправлення: _______________________________
+
+**Резерв, тільки за окремим вибором вчителя:** розширити продукт однією новою деталлю й пояснити її; цей резерв не додається до 45 хв. На інших уроках аудіювання/говоріння не приписуються автоматично, якщо їх не перевіряли.
+
+**ДЗ, до 10 хв:** виправити один цільовий пункт із поясненням або завершити одну потрібну частину чернетки. Не виконувати заново весь пропущений урок. Після B/D спершу зберегти мінімум, решту погодити з учителем. Контроль удома не зараховується без погодженої процедури.

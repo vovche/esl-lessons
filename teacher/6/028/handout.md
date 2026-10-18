@@ -4,7 +4,7 @@
 
 Можна працювати з вигаданими персонажами. Під час переміщення в укриття не виконувати завдань. Якщо немає безпечних умов / освітлення, відкласти. Перевірку стану можна пропустити.
 
-# Завдання: A school trip
+# Завдання: A school trip · варіант 028 P
 
 Це запропонований матеріал перевірки, а не підтвердження її проведення. Працюй самостійно; перед початком учитель пояснить критерії. Якщо зв’язок зник або пролунала тривога, зупинись. Відсутній доказ перевірять іншого безпечного разу.
 
@@ -12,49 +12,49 @@
 
 Прочитай запитання. Прослухай учителя двічі у звичайних безпечних умовах. Не потрібно повторювати вголос. Текст слухання міститься тільки в учительському ключі. Якщо не чути, повідом доступним способом; читання тексту не замінює перевірку слухання.
 
-1. Which day is the trip?
+1. Which day is mentioned?
 
-A) Sunday / B) Friday / C) Monday
-
-Відповідь: __________
-
-2. How do the students travel?
-
-A) By bus / B) By train / C) On foot
+A) Wednesday / B) Monday / C) Tuesday
 
 Відповідь: __________
 
-3. When do they return?
+2. Where is the meeting point?
 
-A) At nine / B) At four / C) At three
+A) Near the school gate. / B) Near the library entrance. / C) Near the museum entrance.
+
+Відповідь: __________
+
+3. What item is mentioned?
+
+A) A pencil. / B) A water bottle. / C) A notebook.
 
 Відповідь: __________
 
 ## R — розуміння прочитаного
 
-On Saturday, Mia visited a small town with Leo. They travelled by train. First they went to a bookshop. Then they had lunch in a park. Mia wanted to visit a museum, but it was closed. She bought a postcard for her cousin. They enjoyed the quiet streets.
+On Monday, Mia visited an art museum. She went with Leo. They travelled by bus. They saw an exhibition and had lunch in the garden. The shop was open, so Mia bought a postcard for her cousin. They did not visit the tower because it was closed. They enjoyed the quiet garden.
 
-1. How did Mia and Leo travel?
+1. How did the friends travel?
 
-A) By boat / B) By train / C) By bus
-
-Відповідь: __________
-
-2. Why did they not visit the museum?
-
-A) It was closed / B) They were late / C) It was too expensive
+A) By coach. / B) By bus. / C) By train.
 
 Відповідь: __________
 
-3. Who was the postcard for?
+2. Why did they not visit the tower?
 
-A) Leo’s teacher / B) Mia’s neighbour / C) Mia’s cousin
+A) It was closed. / B) It was too expensive. / C) They lost the map.
+
+Відповідь: __________
+
+3. Who was the gift for?
+
+A) Her teacher. / B) Her neighbour. / C) Her cousin.
 
 Відповідь: __________
 
 ## S — усна взаємодія
 
-Ви з партнером плануєте шкільну екскурсію. A пропонує музей о 10:00 і автобус. B може лише після 11:00 та пропонує парк. Запитайте про час / місце, узгодьте один план; кожен має зробити 3–4 репліки й відповісти на пропозицію.
+A пропонує museum о nine у Monday. B може лише після ten. Узгодьте місце, новий час і транспорт. По 3–4 репліки; дані вигадані.
 
 Можна взяти 2 хвилини на план і 3 ключові слова. У звичайних умовах говоріть 2–3 хв на пару; партнером може бути вчитель. Письмові репліки доступні як підготовка, але не є завершеним усним контролем.
 
@@ -76,7 +76,7 @@ ________________________________________________________________________
 
 ## W — письмове висловлення
 
-Напиши 5–6 речень другові про вигадану подорож у минулому: куди, транспорт, дві події, враження; додай because або so.
+Напиши 5–6 речень другові про вигадану минулу екскурсію у Monday: транспорт, дві події й враження. Використай Past Simple та because або so.
 
 ________________________________________________________________________
 

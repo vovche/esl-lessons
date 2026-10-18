@@ -141,9 +141,12 @@ def render(directory):
                 (False, ["lesson.md", "key.md", "report.md"], "teacher.pdf")]
     if (directory/"recovery-handout.md").exists():
         variants.append((True, ["recovery-handout.md"], "recovery-handout.pdf"))
+    if (directory/"games.md").exists():
+        variants.append((False, ["games.md"], "games.pdf"))
     for student, names, output in variants:
         pages = []
-        label = ("Резервний учнівський варіант" if output.startswith("recovery") else
+        label = ("Ігрові симуляції для вчителя" if output == "games.pdf" else
+                 "Резервний учнівський варіант" if output.startswith("recovery") else
                  "Учнівська роздатка" if student else "План, сценарії, ключ і форма звіту")
         def footer(canvas, doc):
             pages.append(doc.page)
@@ -155,16 +158,17 @@ def render(directory):
             canvas.drawRightString(A4[0]-17*mm, 11*mm, str(doc.page))
             canvas.restoreState()
         story = []
-        for i, name in enumerate(names):
+        inputs = [(directory/name).read_text() for name in names]
+        for i, source in enumerate(inputs):
             if i:
                 story.append(PageBreak())
-            story.extend(markdown((directory/name).read_text(), student=student))
+            story.extend(markdown(source, student=student))
         target = directory/output
         doc = SimpleDocTemplate(str(target), pagesize=A4, leftMargin=17*mm,
                                 rightMargin=17*mm, topMargin=16*mm, bottomMargin=21*mm,
                                 title=f"{result['directory']} - {label}", author="ESL Lessons")
         doc.build(story, onFirstPage=footer, onLaterPages=footer)
-        source_hash = hashlib.sha256("\n".join((directory/name).read_text() for name in names).encode()).hexdigest()
+        source_hash = hashlib.sha256("\n".join(inputs).encode()).hexdigest()
         result["files"][output] = {"pages": len(pages), "sha256": hashlib.sha256(target.read_bytes()).hexdigest(),
                                   "source_sha256": source_hash}
     return result

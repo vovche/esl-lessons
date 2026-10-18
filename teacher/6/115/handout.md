@@ -4,7 +4,7 @@
 
 Можна працювати з вигаданими персонажами. Під час переміщення в укриття не виконувати завдань. Якщо немає безпечних умов / освітлення, відкласти. Перевірку стану можна пропустити.
 
-# Завдання: A school film club
+# Завдання: A school film club · варіант 115 P
 
 Це запропонований матеріал перевірки, а не підтвердження її проведення. Працюй самостійно; перед початком учитель пояснить критерії. Якщо зв’язок зник або пролунала тривога, зупинись. Відсутній доказ перевірять іншого безпечного разу.
 
@@ -14,47 +14,47 @@
 
 1. Who directed the film?
 
-A) Eva / B) Leo / C) Mia
+A) Sam. / B) Alex. / C) Leo.
 
 Відповідь: __________
 
 2. Where was it filmed?
 
-A) In the school garden / B) In a shop / C) In a museum
+A) In the town park. / B) In the school garden. / C) In the library.
 
 Відповідь: __________
 
-3. When is the show?
+3. Which day is the show?
 
-A) Friday at five / B) Monday at three / C) Wednesday at four
+A) Tuesday. / B) Wednesday. / C) Monday.
 
 Відповідь: __________
 
 ## R — розуміння прочитаного
 
-The Green Stars are a fictional school band. They have played together for two years. Last week they performed in the town library. Their new song was written by Eva. The audience liked the quiet music. A school magazine published an interview with the band. Next month the students are going to make a short music video.
+The Green Stars are a fictional school band. They have played together for four years. Last week they performed in the town park. Their new song was written by Anna. The audience liked the quiet music. A school magazine published an interview with the band. Next month the students are going to make a short music video.
 
 1. How long have they played together?
 
-A) For two months / B) For two years / C) Since last week
+A) For three years. / B) For four years. / C) For two years.
 
 Відповідь: __________
 
-2. Where did they perform last week?
+2. Where did they perform?
 
-A) In the town library / B) At a stadium / C) In a shop
+A) In the town park. / B) In the town library. / C) In the school garden.
 
 Відповідь: __________
 
-3. Who wrote the new song?
+3. Who wrote the song?
 
-A) The librarian / B) A reporter / C) Eva
+A) Mia. / B) Eva. / C) Anna.
 
 Відповідь: __________
 
 ## S — усна взаємодія
 
-A — покупець, хоче синю футболку для виступу, розмір M, має 12 фунтів. B — продавець: синя M коштує 10 фунтів, зелена S — 8. Попросіть товар, уточніть розмір / ціну, відреагуйте на too small / big enough і завершіть покупку. По 3–4 репліки.
+A — покупець: потрібен red shirt, розмір XL, має 12 фунтів. B — продавець: потрібний товар XL коштує eleven фунтів; інший товар S замалий. Уточніть товар, розмір, ціну; ужийте too small / big enough і one. По 3–4 репліки.
 
 Можна взяти 2 хвилини на план і 3 ключові слова. У звичайних умовах говоріть 2–3 хв на пару; партнером може бути вчитель. Письмові репліки доступні як підготовка, але не є завершеним усним контролем.
 
@@ -76,7 +76,7 @@ ________________________________________________________________________
 
 ## W — письмове висловлення
 
-Напиши 5–6 речень про вигаданий шкільний фільм: назва, автор / режисер, зміст, що сподобалося й рекомендація. Ужий who або which і одну пасивну конструкцію.
+Напиши 5–6 речень про вигаданий фільм «A Day in Green Town» про a school trip: автор / режисер, зміст, що сподобалося й рекомендація. Ужийwho абоwhich іодну пасивну конструкцію.
 
 ________________________________________________________________________
 

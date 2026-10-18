@@ -14,11 +14,9 @@
 
 5. **B — Nervous.**. Перед увімкненням світла вона felt nervous.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): A fan has been to several concerts, but one performance was especially exciting. Last summer she saw a live band with a friend. I have seen this band twice. I saw them last summer. My brother has gone to the concert, so he is not here.
+Вправа 5, можливий тематичний діалог: A: Have you ever seen this band? B: Yes, I have. A: When did you see them? B: I saw them last summer.
 
-Модель додаткового висловлення: I have listened to this band many times. I have never met the musicians. Last Saturday I watched their concert on TV. It was exciting.
-
-Вправа 5, зразок: A: I have seen this band twice. B: Could you explain? A: A fan has been to several concerts, but one performance was especially exciting. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: A fan has been to several concerts, but one performance was especially exciting. Last summer she saw a live band with a friend. Мій вигаданий варіант: I have listened to this band many times. I have never met the musicians.
 
 ## Рубрика відкритого продукту
 

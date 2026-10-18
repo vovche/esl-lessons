@@ -14,29 +14,15 @@
 
 5. **B — Three.**. У тексті: three wheels.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): London is known for double-decker buses with two levels. In Venice, tourists can travel along canals in long boats called gondolas. This vehicle has two levels. The boat travels along a canal. Tourists use it to see the city.
+Вправа 5, можливий тематичний діалог: A: What does the text say? B: London is known for double-decker buses with two levels. A: Can you give another example? B: This vehicle has two levels.
 
-Модель додаткового висловлення: This vehicle has two levels. The boat travels along a canal. Tourists use it to see the city.
-
-Вправа 5, зразок: A: This vehicle has two levels. B: Could you explain? A: London is known for double-decker buses with two levels. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: London is known for double-decker buses with two levels. In Venice, tourists can travel along canals in long boats called gondolas. Мій вигаданий варіант: This vehicle has two levels. The boat travels along a canal.
 
 ## Блок 2: Visiting a capital
 
 1. **C — visit**. Should + основна форма.
 
 2. **B — like**. If + Present Simple для можливої умови.
-
-3. **A — square**. Square — міська площа.
-
-4. **C — History.**. Тексти радять місця за інтересами, зокрема history.
-
-5. **B — Activities and sights.**. Це мета путівника в останньому реченні.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): The textbook introduces sights in Kyiv and London. It describes a cathedral, museums, important streets and squares in Kyiv. You can visit a museum. If you enjoy history, you should see the old cathedral. There is a theatre in the park.
-
-Модель додаткового висловлення: You can visit a museum. If you enjoy history, you should see the old cathedral. There is a theatre in the park.
-
-Вправа 5, зразок: A: You can visit a museum. B: Could you explain? A: The textbook introduces sights in Kyiv and London. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
 
 ## Рубрика відкритого продукту
 

@@ -4,21 +4,19 @@
 
 ## Блок 1: Healthy food
 
-1. **B — many**. Apples — злічувана множина.
+1. **B — білок**. protein — білок; це перевірка лексики, не нової граматики.
 
-2. **A — little**. Milk — незлічуваний іменник.
+2. **A — кальцій**. calcium — кальцій; це перевірка лексики, не нової граматики.
 
-3. **C — few**. Carrots — злічувана множина.
+3. **C — вітаміни**. vitamins — вітаміни; це перевірка лексики, не нової граматики.
 
-4. **B — Protein and calcium.**. У тексті названо protein and calcium.
+Вправа 4, можливий варіант: Можливі слова: protein; calcium; vitamins; vegetables. Припустимі різні підгрупи, якщо пояснення логічне. Репліку можна скопіювати з моделі; це не доказ самостійного володіння новою формою.
 
-5. **A — Water.**. Останнє речення: drinks water.
+## Блок 2: Facts about sports
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): A balanced diet can include different kinds of food. Fruit and vegetables provide vitamins. How much milk is there? How many apples have we got? There is a little water and a few vegetables.
+1. **B — спортивна зала**. gym — спортивна зала; це перевірка лексики, не нової граматики.
 
-Модель додаткового висловлення: Lunch A has a few tomatoes and a little rice. There are not many carrots. There is not much juice. Lunch B has a lot of vegetables and a little bread.
-
-Вправа 5, зразок: A: How much milk is there? How many apples have we got? There is a little water and a few vegetables.. B: Could you explain? A: A balanced diet can include different kinds of food. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+2. **A — інструктор**. instructor — інструктор; це перевірка лексики, не нової граматики.
 
 ## Рубрика відкритого продукту
 

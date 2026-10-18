@@ -1,55 +1,54 @@
-# 7 клас · Урок 062 · Самостійна перевірка
+# 7 клас · 062 · 2026-12-23 · Основний аркуш
 
 **Тема:** Семестрова перевірка: слухання і читання  
-Код учня: ____________________  Фактична дата: ____________________
+Код учня: ____________________ Фактична дата: ____________________
 
-Виконуй лише зазначені нижче блоки. Усі ситуації вигадані; особисті відомості не потрібні. Умови допомоги узгоджуються до початку. За тривоги припини роботу та виконуй вказівки дорослого; незавершене переноситься. У B/D це тренувальний місток, контроль продовжується окремо. Камера не оцінюється.
+Усі життєві ситуації можна вигадати. Камера добровільна. Особисті історії не потрібні. За небезпечних умов припини завдання; у русі до укриття не вчимося.
 
-**Критерії:** L1–L3: 3 бали за 3 правильні факти; R1–R3: 3 бали за 3 факти з опорою на текст. Разом 6 первинних балів, окремі результати L /3 і R /3. Доказова цитата допомагає зворотному зв’язку, за її відсутність не знімати вдруге бал за вже правильний факт.
+**Сьогодні обов’язково:** тільки визначені контрольні блоки. Резерв учитель дає лише замість завершеного блоку. Не потрібно виконувати всі вправи з конспекту.
 
-## L · Слухання /3
+**Самостійна перевірка:** L /3 та R /3: по 1 за кожний точний факт. Первинні 6 балів; ці два результати зберігаються окремо. За переривання зберігаємо завершене й переносимо решту; читання не зараховуємо як слухання, чат — як говоріння.
 
-Учитель читає двічі. Додаток L в кінці вчитель відділяє ДО перевірки. Якщо голосу не чути, цей блок переноситься. Читання додатка не є результатом слухання.
+## R · Прочитай
 
-1. Where does the story take place?
+Dana belongs to a school club. The club meets in the science lab on Friday at 3 p.m. This week the members are preparing a presentation about birds for the school anniversary. Dana usually collects ideas, but today is making a decoration. One member calls himself a science geek; another enjoys books. The teacher explains that labels must never be used to tease people. Everyone can choose a useful role. Dana and two friends met in the kitchen on Saturday at 10 a.m. They made a list of household duties. Yesterday Dana swept the floor while Alex washed up. At ten o’clock Sam was checking the list. The dishwasher was not working, so the friends used a bowl. They shared the tasks fairly and asked before changing a partner’s job. They switched off the vacuum cleaner when the work was finished.
 
-   __________________________________________________________
-2. When does the event or meeting happen?
+1. What are members preparing for?
 
-   __________________________________________________________
-3. What item, activity or document is mentioned?
+   ______________________________________________________________
 
-   __________________________________________________________
+2. What did the learner do yesterday?
 
-## R · Читання /3
+   ______________________________________________________________
 
-Dana and two friends met in the kitchen on Saturday at 10 a.m. They made a list of household duties. Yesterday Dana swept the floor while Alex washed up. At ten o’clock Sam was checking the list. The dishwasher was not working, so the friends used a bowl. They shared the tasks fairly and asked before changing a partner’s job. They switched off the vacuum cleaner when the work was finished.
+3. What is the learner making today?
 
-1. Where does the story take place?
+   ______________________________________________________________
 
-   __________________________________________________________
-2. When does the event or meeting happen?
+## L · Прослухай двічі
 
-   __________________________________________________________
-3. What item, activity or document is mentioned?
+Закрий додаток L; учитель читає двічі. Якщо звук недоступний, познач блок як відкладений.
 
-   __________________________________________________________
+1. What have members already checked?
 
-Підкресли у тексті слова-докази до відповідей.
+   ______________________________________________________________
 
-## Після здавання роботи
+2. Who makes the cards?
 
-Що допомогло знайти факт / побудувати репліку: _______________________________
+   ______________________________________________________________
 
-Що потрібно уточнити наступного разу: _______________________________________
+3. What is used instead of a real flame?
 
-Незавершений блок: __________________ Причина/умови за бажанням: ____________
+   ______________________________________________________________
 
-Для паперового мосту D у безпечному місці зі світлом (12 хв): 0–2 прочитай інструкцію, 2–5 знайди 2 факти у R або сплануй 2 репліки S, 5–9 запиши 2 тематичні речення, 9–12 познач запитання й збережи аркуш. Це підготовка, не підсумковий результат L/S. Завдання не виконуємо під час переміщення або за відсутності умов.
+**Після здавання:** який прийом допоміг? _______________________________
 
-## Додаток L — ВІДДІЛИТИ ДО ПЕРЕВІРКИ
+Офіційний результат не визначається камерою/емоціями чи недоступним зв’язком.
 
-Учитель залишає цю частину собі й читає двічі. Для пізнішого самостійного навчання текст доступний тут повністю. Його самостійне читання — доказ R, а не L. Якщо урок перевіряє лише S/P, це необов’язковий текст для корекції після здавання.
+**Паперовий місток D (12 хв після відновлення безпечних умов і світла):**2 хв прочитай опору/умову;4 хв виконай перші 2 доступні пункти або сплануй 2 репліки;4 хв перевір одну відповідь/напиши одну власну фразу;2 хв познач завершене та збережи аркуш. Для контролю це підготовка, а не завершена перевірка.
 
-Alex is making a guide to an imaginary local celebration. It is held in the town library on Saturday at 2 p.m. Visitors are shown a collection of greeting cards. Cards are made by volunteers and guests are greeted politely. Some stories mention New Year’s Eve and midnight. A drawing of a candle is used instead of a real flame. Visitors may take part or quietly observe. The guide does not claim that everyone celebrates in the same way.
+## Додаток L — ВІДДІЛИТИ ДО СЛУХАННЯ
 
+Повний текст для вчителя та подальшої паперової роботи. Самостійне читання цього додатка не є доказом слухання.
+
+Dana has brought a vegetable soup recipe to a meeting of the cooking club. The group meets on Tuesday at 3 p.m. The members have checked the ingredients, but they have not chosen all the utensils yet. There is a bowl, a ladle and a chopping board on the table. An adult manages all sharp tools and hot equipment. The students only write instructions today. They respect different food choices and ask before suggesting an ingredient. Dana is making a guide to an imaginary local celebration. It is held in the community hall on Friday at 4 p.m. Visitors are shown a paper lantern display. Cards are made by volunteers and guests are greeted politely. Some stories mention New Year’s Eve and midnight. A drawing of a candle is used instead of a real flame. Visitors may take part or quietly observe. The guide does not claim that everyone celebrates in the same way.

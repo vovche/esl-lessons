@@ -14,11 +14,9 @@
 
 5. **B — Download them.**. У тексті: download their boarding passes.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Two friends are preparing for a trip. They check their passports and pack one large suitcase and a small bag. We booked a flight. The tickets are for us. Give them to me. Did you pack your passport?
+Вправа 5, можливий тематичний діалог: A: Did you pack the tickets? B: Yes, I packed them. A: Can you give them to me? B: Yes, here you are.
 
-Модель додаткового висловлення: List: tickets, passport, weather forecast, bag. Did you book the tickets? Have you got your passport? What is the weather like? Did you pack your bag?
-
-Вправа 5, зразок: A: We booked a flight. B: Could you explain? A: Two friends are preparing for a trip. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: Two friends are preparing for a trip. They check their passports and pack one large suitcase and a small bag. Мій вигаданий варіант: List: tickets, passport, weather forecast, bag. Yes, I packed the tickets.
 
 ## Рубрика відкритого продукту
 

@@ -10,37 +10,15 @@
 
 3. **A — help**. Після will використовуємо help.
 
-4. **C — They sometimes fail with a computer.**. Причина — проблеми з комп’ютером.
+Вправа 5, можливий тематичний діалог: A: Will phones use less energy? B: I think they will. A: Will you help me compare them? B: Yes, I will.
 
-5. **B — Visit an electronics shop.**. Останнє речення називає його рішення.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Phones will be smaller. Robots will help people. Batteries will last longer. Screens will use less energy. I will help you fix your computer.
-
-Модель додаткового висловлення: Phones will be smaller. Robots will help people. Batteries will last longer. Screens will use less energy. I will help you fix your computer.
-
-Вправа 5, зразок: A: I think gadgets will change. B: Could you explain? A: A teenager asks for advice about wireless headphones. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Phones will be smaller. Robots will help people. Batteries will last longer. Screens will use less energy. I will help you fix your computer.
 
 ## Блок 2: An environmental event
 
 1. **C — Would you like to come to our event?**. Would you like…? запрошує.
 
 2. **B — I would love to come.**. I would love to come — згода.
-
-3. **A — The place and time.**. Гостю потрібно знати, де й коли подія.
-
-4. **C — At eight.**. У тексті: meet at the club at eight.
-
-5. **B — A reply.**. В останньому реченні просять send a reply.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Hi Mia, Would you like to come to our school garden event? We are meeting at ten on Saturday. We are going to plant flowers. Please write back. Alex.
-Reply 1: Thanks! I would love to come.
-Reply 2: Thanks for inviting me. I cannot come on Saturday. Have a lovely day!
-
-Модель додаткового висловлення: Hi Mia, Would you like to come to our school garden event? We are meeting at ten on Saturday. We are going to plant flowers. Please write back. Alex.
-Reply 1: Thanks! I would love to come.
-Reply 2: Thanks for inviting me. I cannot come on Saturday. Have a lovely day!
-
-Вправа 5, зразок: A: Would you like to come to our clean-up? We are going to meet at nine. B: Could you explain? A: Our youth club is organising a tree-planting event. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
 
 ## Рубрика відкритого продукту
 

@@ -10,33 +10,15 @@
 
 3. **B — yet**. Yet підходить до запитання у Present Perfect.
 
-4. **A — Last summer.**. У тексті прямо вказано last summer.
+Вправа 5, можливий тематичний діалог: A: Have you ever seen this band? B: Yes, I have. A: When did you see them? B: I saw them last summer.
 
-5. **C — Nervous.**. Перед увімкненням світла вона felt nervous.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): I have listened to this band many times. I have never met the musicians. Last Saturday I watched their concert on TV. It was exciting.
-
-Модель додаткового висловлення: I have listened to this band many times. I have never met the musicians. Last Saturday I watched their concert on TV. It was exciting.
-
-Вправа 5, зразок: A: I have seen this band twice. B: Could you explain? A: A fan has been to several concerts, but one performance was especially exciting. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: I have listened to this band many times. I have never met the musicians. Last Saturday I watched their concert on TV. It was exciting.
 
 ## Блок 2: Teen problems
 
-1. **A — Some advice.**. Advice — незлічуваний іменник.
+1. **A — hers**. Hers замінює her notebook; після нього іменник не потрібен.
 
-2. **C — explain**. Should + основна форма.
-
-3. **B — Describe the problem and ask a clear question.**. Зрозумілий опис допомагає дати доречну пораду.
-
-4. **A — The student has exams.**. Причина — власні іспити.
-
-5. **C — Show the brother how to study independently.**. Порада підтримує самостійність молодшого брата.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Mia has lost her notebook. It is hers. Her homework is in it. She feels worried. You should ask the teacher for help. You should explain what happened.
-
-Модель додаткового висловлення: Mia has lost her notebook. It is hers. Her homework is in it. She feels worried. You should ask the teacher for help. You should explain what happened.
-
-Вправа 5, зразок: A: I need some advice. B: Could you explain? A: A student used to help a younger brother with all his homework. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+2. **C — my**. My стоїть перед book.
 
 ## Рубрика відкритого продукту
 

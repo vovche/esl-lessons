@@ -1,89 +1,93 @@
-# Ключі · 7 клас · Урок 061
+# Ключ · 7 клас · 061 · 2026-12-22
 
-Лише для вчителя; не роздавати разом з учнівським аркушем. Переклад/синонімічна коротка відповідь прийнятні для розуміння, якщо факт точний; мовну форму коментувати окремо. Орфографічну помилку, що не змінює факту, не карати вдруге.
+Відповіді лише для вчителя. Короткий синонімічний факт прийнятний; не знімати вдруге бал за форму, яка не змінює зрозумілий факт. Тут є резерви вчителя: вони не є вимогою виконати всі блоки за 45 хв.
 
-## V
+## R · Повний текст, факти й докази
 
-1 — A, 2 — D, 3 — C, 4 — B. По 1 за точну відповідність; /4. Власні словосполучення: прийняти осмислену сполуку з тематичним словом, зразок контекстного вживання — у моделі P нижче; за потреби виправити лексичну сполучуваність; ці 2 приклади не додають прихованих балів.
+Robin has brought a recipe for a cold sandwich to the recipe workshop. The group meets on Saturday at 11 a.m. The members have checked the ingredients, but they have not chosen all the utensils yet. There is a bowl, a ladle and a chopping board on the table. An adult manages all sharp tools and hot equipment. The students only write instructions today. They respect different food choices and ask before suggesting an ingredient.
 
-## R
+1. **the ingredients**. Доказ у тексті: «the ingredients».
+2. **An adult**. Доказ у тексті: «An adult».
+3. **instructions**. Доказ у тексті: «instructions».
 
-1. the recipe workshop.
-2. Saturday at 11 a.m.
-3. a recipe for a cold sandwich.
+## L · Текст для двох читань
 
-По 1 за факт; /3. Можна відповісти коротко; докази — відповідні речення тексту про місце, час і предмет/подію.
+Відділити додаток L в учня до слухання. Прочитати двічі, між читаннями 45 секунд. Не підказувати інтонацією тільки потрібні слова. За відсутності чутності перенести L.
 
-## G
+Dana is making a guide to an imaginary local celebration. It is held in the community hall on Friday at 4 p.m. Visitors are shown a paper lantern display. Cards are made by volunteers and guests are greeted politely. Some stories mention New Year’s Eve and midnight. A drawing of a candle is used instead of a real flame. Visitors may take part or quietly observe. The guide does not claim that everyone celebrates in the same way.
+
+1. **volunteers**. Доказ у тексті: «volunteers».
+2. **A drawing of a candle**. Доказ у тексті: «A drawing of a candle».
+3. **quietly observe**. Доказ у тексті: «quietly observe».
+
+## V · Відповідності
+
+1 — A, 2 — D, 3 — C, 4 — B. По 1 за відповідність; /4, лише коли V є основним блоком.
+
+## G · Форми
 
 1. are.
 2. held.
 3. are.
 4. by.
 
-По 1 за правильну форму; /4. Пояснення: Present Simple Passive: am/is/are + V3; увага до дії та її об’єкта. Виконавець: by + особа. Wh-запитання: Where + is/are + підмет + V3?
+Present Simple Passive: am/is/are + V3; увага до дії та її об’єкта. Виконавець: by + особа. Wh-запитання: Where + is/are + підмет + V3?
 
-## L · Сценарій читання вчителем
+## T · Перенесення моделі
 
-Закрити/відділити додаток L в учнів. Прочитати двічі чітко, без театральних рухів та звукових ефектів, з паузою 45 секунд. Не наголошувати тільки правильні слова й не підказувати жестами.
+1. Cards are made by volunteers.
+2. Where are cards made?
 
-Dana is making a guide to an imaginary local celebration. It is held in the community hall on Friday at 4 p.m. Visitors are shown a paper lantern display. Cards are made by volunteers and guests are greeted politely. Some stories mention New Year’s Eve and midnight. A drawing of a candle is used instead of a real flame. Visitors may take part or quietly observe. The guide does not claim that everyone celebrates in the same way.
+Кожна відповідь має зберігати зміст, часову форму та структуру; інше граматично правильне формулювання прийнятне за збереження умови.
 
-**Відповіді:**
+## F · Повна корекція
 
-1. the community hall.
-2. Friday at 4 p.m.
-3. a paper lantern display.
+Cards are made here. The event is held in the hall. Where are cards made?
 
-По 1 за факт; /3. При поганій чутності перенести L; текстове читання позначити R, не L.
+Пояснення: Present Simple Passive: am/is/are + V3; увага до дії та її об’єкта. Виконавець: by + особа. Wh-запитання: Where + is/are + підмет + V3? Для портфоліо 2 пояснення можуть бути українською. Наступний крок має бути конкретною дією, наприклад перевірити auxiliary verb.
 
-## S · Зразок діалогу
+## P / S · Умова та повний зразок
 
-A: Let us meet at the recipe workshop.
-B: When shall we meet?
-A: Saturday at 11 a.m.
-B: Could you repeat the place, please?
-A: the recipe workshop. I suggest preparing a recipe for a cold sandwich because it fits our topic.
-B: Thank you. Can we write a short plan first?
+Напиши 4 речення про вигадане свято: що проводять, що роблять/показують, хто створює матеріал і як можна спостерігати.
 
-Це один можливий варіант, не текст для обов’язкового заучування. Додатковий запит Where shall we meet? прийнятний. Оцінити, чи співрозмовник справді отримав відповідь; письмовий сценарій сам собою не доводить говоріння.
+**Зразок:** A paper festival is held in our imaginary hall. Cards are made by volunteers. Drawings are shown to visitors. Guests can join or quietly observe.
 
-## P · Зразок та критерії
+**Умова S:** За темою поточного юніту створіть 6 реплік. A називає вигадану ситуацію/пропозицію; B ставить змістове запитання й просить уточнення; A відповідає; поміняйтеся ролями.
 
-The celebration is held in the town library on Saturday at 2 p.m. Visitors are shown a collection of greeting cards. Paper cards are made by volunteers. Guests are greeted politely. A candle is drawn instead of using a real flame. Visitors can join the activity or quietly observe.
+**Зразок S:** A: What is made for the celebration? B: Paper cards are made. A: Who makes them? B: Volunteers make them. A: Can guests observe quietly? B: Yes, that choice is accepted.
 
-Факти власної вигаданої події можуть відрізнятися від R, якщо завдання не вимагає перенесення саме фактів R. Для завдання читання з додатковими 2 фактами перевірити їх за R: **the recipe workshop; Saturday at 11 a.m.; a recipe for a cold sandwich**. У проєкті перевірити назву, читабельні 3 факти, чернетку й 2 зміни; у граматичному уроці — дві цільові моделі; у лексичному — 4 слова.
+## Відкриті відповіді: конкретні критерії
 
-Формувальна рубрика відкритого продукту (кожен вимір 0–2):
+- Зміст 0–2:0 немає потрібної дії/теми;1 основна мета зрозуміла, але бракує обов’язкової деталі;2 усі деталі з умови присутні. У читанні/слуханні не додавати непідтверджених фактів.
+- Організація 0–2:0 послідовність не відновлюється;1 зв’язок зрозумілий із підтримкою;2 логічний текст або взаємний обмін репліками.
+- Мовна зрозумілість 0–2:0 зміст не відновлюється;1 помилки не руйнують основний зміст;2 цільові слова/структури переважно точні. У T обов’язкова саме модель, названа в умові.
 
-- Зміст: 0 — продукт відсутній/поза темою; 1 — мета зрозуміла, але бракує 2 обов’язкових деталей; 2 — є мета, адресат і потрібні тематичні деталі.
-- Організація: 0 — не можна відновити послідовність; 1 — послідовність зрозуміла з підтримкою; 2 — логічний початок, факти й завершення / доречна черговість реплік.
-- Мовна зрозумілість: 0 — зміст не відновлюється; 1 — помилки є, але основний зміст зрозумілий; 2 — цільові моделі переважно точні, ключові слова доречні.
+Для S потрібен реально почутий зразок; письмовий чат підтверджує письмову взаємодію. Вимову оцінювати за зрозумілістю, не за акцентом. Пауза/відсутність камери не є помилкою. У проєкті доказ — чернетка, точний відгук,2 зміни; у портфоліо —3 корекції,2 причини, власна модель й наступний крок. Особисте переживання/емоція не оцінюється.
 
-/6 — первинний навчальний показник, не автоматична офіційна оцінка. У S допускається пауза, паперова підготовка й відсутність камери. Для 6-бальної рубрики S: зміст — виконання ролі/запитів; організація — відповідь/уточнення; мовна зрозумілість — зрозумілий усний зразок. Потрібну допомогу зафіксувати, емоції не оцінювати.
+## Критерії саме цього уроку
 
-## F
+L /3, R /3: по 1 за кожний правильний факт; S /3: по 1 за запит, змістовну відповідь та уточнення; P /3: по 1 за відповідність темі, потрібні деталі та мовну зрозумілість. Первинні 12 балів з 4 окремими профілями. Це первинні показники для педагогічного рішення; офіційне переведення визначає затверджений порядок закладу.
 
-**Виправлена версія:** Cards are made here. The event is held in the hall. Where are cards made?
+## Резерв після переривання
 
-**Пояснення:** Present Simple Passive: am/is/are + V3; увага до дії та її об’єкта. Виконавець: by + особа. Wh-запитання: Where + is/are + підмет + V3? Прийняти інші граматично коректні виправлення зі збереженим змістом; пояснення двох змін може бути українською. Для портфоліо доказ — «до», «після», дві причини й наступний перевірюваний крок; твердження «я старався» без прикладу попросити конкретизувати.
+Окремий друк: [recovery-handout.md](recovery-handout.md). Проводити тільки відкладені блоки; завершене не перевіряти вдруге. Критерії ті самі. Нові персонажі/деталі не повинні змінювати складність. Якщо учень уже прочитав L, дати резервне L.
 
-## Специфікація цього уроку
+**Резерв R:**
 
-L /3 і R /3: по 1 за кожний правильний факт. S /3: по 1 за запит, змістовну відповідь, ввічливе уточнення. P /3: по 1 за відповідність темі, 3 факти, зрозумілі речення. Разом /12 первинних балів; зберігати 4 окремі профілі.
+1. **the utensils**. Доказ у тексті: «the utensils».
+2. **An adult**. Доказ у тексті: «An adult».
+3. **instructions**. Доказ у тексті: «instructions».
 
-B/D — скорочений місток, не повна перевірка всіх умінь. Не переносити автоматично бал за письмовий чат у результат говоріння; не записувати повне аудіювання, якщо учень читав. За переривання зберегти достовірні блоки, невиконане позначити «перенесено», не нулем за технічну недоступність.
+**Резерв L — прочитати двічі:**
+
+Dana is making a guide to an imaginary local celebration. It is held in the community hall on Friday at 4 p.m. Visitors are shown a paper lantern display. Cards are made by older pupils and guests are greeted politely. Some stories mention New Year’s Eve and midnight. A drawing of a candle is used instead of a real flame. Visitors may take part or quietly observe. The guide does not claim that everyone celebrates in the same way.
+
+1. **older pupils**. Доказ у тексті: «older pupils».
+2. **A drawing of a candle**. Доказ у тексті: «A drawing of a candle».
+3. **quietly observe**. Доказ у тексті: «quietly observe».
+
+Резерв S/P: інші вигадані деталі при збереженому форматі; зразок вище — один можливий, критерії не змінюються.
 
 ## ДЗ
 
-Приймається будь-який осмислений чистовий текст за тематичною умовою P, 2 тематичні слова й одне запитання з правильною моделлю. Приклади запитання до R: Where does the story take place? When does the event happen? Відповіді: the recipe workshop; Saturday at 11 a.m. Після контрольного уроку перевіряється лише факт навчальної рефлексії; це не новий підсумковий бал.
-
-## Резерв після переривання — ключ до recovery-handout.md
-
-L: 1. the town library; 2. Saturday at 2 p.m; 3. a collection of greeting cards.
-
-R: 1. the school kitchen; 2. Thursday at 2 p.m; 3. a fruit salad recipe.
-
-Текст L для двох читань: Leo is making a guide to an imaginary local celebration. It is held in the town library on Saturday at 2 p.m. Visitors are shown a collection of greeting cards. Cards are made by volunteers and guests are greeted politely. Some stories mention New Year’s Eve and midnight. A drawing of a candle is used instead of a real flame. Visitors may take part or quietly observe. The guide does not claim that everyone celebrates in the same way.
-
-S/P: критерії першого варіанта зберігаються; нові місце, час і деталі є вигаданими, довільними та внутрішньо узгодженими. Для діалогу зсув часу на годину перевіряти відносно попереднього учнівського продукту, а не чужої історії. Якщо зразка попереднього S немає, учень обирає нові деталі без порівняння. Зараховувати тільки відкладені блоки; не підсумовувати два варіанти подвійно.
+До 5 хв: завершений основний продукт або одна перевірена фраза з поясненням правки. Після B/D —2 рядки. Приймати варіанти за критеріями умови; після контролю домашнє переписування не створює нової самостійної оцінки.

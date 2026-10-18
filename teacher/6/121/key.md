@@ -14,11 +14,7 @@
 
 5. **A — Checks and improves the work.**. Перед презентацією перевіряє факти, написання й макет.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): A student wants to make a poster about a favourite sport. First, the student writes a plan with three headings: history, equipment and rules. First I make a plan. Then I write a draft. I check the facts and revise my work. Finally I share the project.
-
-Модель додаткового висловлення: First I make a plan. Then I write a draft. I check the facts and revise my work. Finally I share the project.
-
-Вправа 5, зразок: A: First I make a plan. B: Could you explain? A: A student wants to make a poster about a favourite sport. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: A student wants to make a poster about a favourite sport. First, the student writes a plan with three headings: history, equipment and rules. Мій вигаданий варіант: First I make a plan. Then I write a draft.
 
 ## Рубрика відкритого продукту
 

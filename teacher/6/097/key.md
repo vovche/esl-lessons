@@ -4,21 +4,15 @@
 
 ## Блок 1: Teen problems
 
-1. **B — Some advice.**. Advice — незлічуваний іменник.
+1. **B — hers**. Hers замінює her notebook; після нього іменник не потрібен.
 
-2. **A — explain**. Should + основна форма.
+2. **A — my**. My стоїть перед book.
 
-3. **C — Describe the problem and ask a clear question.**. Зрозумілий опис допомагає дати доречну пораду.
+3. **C — Mia’s notebook**. Mia + ’s виражає належність.
 
-4. **B — The student has exams.**. Причина — власні іспити.
+Вправа 5, можливий тематичний діалог: A: Is this notebook yours? B: No, it is Mia’s. A: What should I do? B: You should give it to her.
 
-5. **A — Show the brother how to study independently.**. Порада підтримує самостійність молодшого брата.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Mia has lost her notebook. It is hers. Her homework is in it. She feels worried. You should ask the teacher for help. You should explain what happened.
-
-Модель додаткового висловлення: Mia has lost her notebook. It is hers. Her homework is in it. She feels worried. You should ask the teacher for help. You should explain what happened.
-
-Вправа 5, зразок: A: I need some advice. B: Could you explain? A: A student used to help a younger brother with all his homework. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Mia has lost her notebook. It is hers. Her homework is in it. She feels worried. You should ask the teacher for help. You should explain what happened.
 
 ## Рубрика відкритого продукту
 

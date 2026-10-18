@@ -6,19 +6,17 @@
 
 1. **B — Unfortunately**. Втрата ключів — неприємна подія.
 
-2. **A — saw**. Коротка подія в минулому: saw.
+2. **A — closed**. Past Simple позначає коротку подію.
 
 3. **C — In the end, we got home safely.**. Завершення розповідає результат подій.
 
-4. **B — His window was open.**. Відкрите вікно було способом потрапити в дім.
+4. **B — His keys were inside.**. Ключі залишилися всередині.
 
-5. **A — A neighbour.**. Сусід пояснив поліцейському, чий це будинок.
+5. **A — His aunt.**. Тітка мала ключ і відчинила двері.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): A boy ran into his garden, and the door closed behind him. He had no keys or phone. I was walking home when I lost my keys. Unfortunately, the door was locked. Luckily, a neighbour helped me.
+Вправа 5, можливий тематичний діалог: A: What happened when the door closed? B: Leo stayed in the garden. A: Who helped him? B: His aunt helped him.
 
-Модель додаткового висловлення: Yesterday I was walking to the library. I felt excited. While I was looking at a map, my pencil fell. I felt worried when I could not find it. Suddenly a girl pointed to a bench. My pencil was under it. Luckily, I found it. I thanked her and went to the library.
-
-Вправа 5, зразок: A: I was walking home when I lost my keys. B: Could you explain? A: A boy ran into his garden, and the door closed behind him. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: Leo was reading in his garden when the door closed. His keys were inside. Мій вигаданий варіант: Yesterday I was walking to the library. I felt excited.
 
 ## Рубрика відкритого продукту
 

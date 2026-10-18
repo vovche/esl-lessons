@@ -4,29 +4,51 @@
 
 ## Текст учителя для слухання — не друкувати учням
 
-Our school trip is on Friday. We are going to the history museum by bus. We meet at school at nine. Bring a notebook. The ticket is four pounds. We return at three.
+Our school trip was on Monday. We met at nine near the school gate. Everyone took a notebook. The ticket was two pounds. We returned at two. We enjoyed the day because we saw interesting things.
 
 Читати двічі чітко, без зайвих підказок; між читаннями пауза близько 30 секунд. На контрольних не показувати текст на екрані. Після переривання початий стимул не оцінювати автоматично: провести еквівалентну перевірку за погодженим графіком.
 
-L1. B — Friday.
+L1. B — Monday.
 
-L2. A — By bus.
+L2. A — Near the school gate..
 
-L3. C — At three.
+L3. C — A notebook..
 
-R1. B — By train.
+R1. B — By bus..
 
-R2. A — It was closed.
+R2. A — It was closed..
 
-R3. C — Mia’s cousin.
+R3. C — Her cousin..
 
 ## S: можливий зразок
 
-A: Would you like to visit the museum at ten? B: I can only come after eleven. What about the park? A: Good idea. How can we get there? B: We can go by bus. A: Let’s meet at school at eleven. B: Great, see you there.
+A: Would you like to visit the museum on Monday at nine? B: I can only come after ten. A: Let’s meet at ten, then. How can we get there? B: We can go by bus. A: Good idea. B: See you there.
 
 ## W: можливий зразок
 
-Dear Mia, Last Saturday I visited Green Town. I went there by bus. I visited a library and had lunch in a park. The museum was closed, so I bought a postcard. I enjoyed the trip because the town was quiet. Alex
+Dear Sam, On Monday I visited a museum. I went there by bus. I saw an exhibition and had lunch in a garden. The tower was closed, so I bought a postcard. I enjoyed the day because I learnt new things. Alex
+
+## Резервний варіант — ключ учителя
+
+Видайте recovery-handout.md тільки після визначення окремого слота. Не відкривайте цей ключ учням.
+
+Прихований текст резервного слухання (двічі): Our school trip was on Tuesday. We met at ten near the library entrance. Everyone took a pencil. The ticket was three pounds. We returned at three. We enjoyed the day because we saw interesting things.
+
+Резерв L1: A — Tuesday
+
+Резерв L2: C — Near the library entrance.
+
+Резерв L3: B — A pencil.
+
+Резерв R1: A — By train.
+
+Резерв R2: C — It was closed.
+
+Резерв R3: B — Her cousin.
+
+Резерв S: A: Would you like to visit the library on Tuesday at ten? B: I can only come after eleven. A: Let’s meet at eleven, then. How can we get there? B: We can go by bus. A: Good idea. B: See you there. Допускаються інші відповіді за тими самими критеріями; змістові деталі мають відповідати саме резервному завданню.
+
+Резерв W: Dear Sam, On Tuesday I visited a museum. I went there by bus. I saw an exhibition and had lunch in a garden. The tower was closed, so I bought a postcard. I enjoyed the day because I learnt new things. Alex Допускаються інші відповіді за тими самими критеріями; змістові деталі мають відповідати саме резервному завданню.
 
 ## Рубрика відкритого продукту
 

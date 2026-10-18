@@ -14,11 +14,9 @@
 
 5. **B — No, there were none.**. У тексті: no roller coasters.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Two boys went on a water ride at a funfair. One boy was eating a sandwich when the boat went down a hill. There are some rides. Are there any long queues? There is no food left. Would you like some lemonade?
+Вправа 5, можливий тематичний діалог: A: Are there any rides? B: Yes, there are some. A: Is there any food? B: No, there is no food.
 
-Модель додаткового висловлення: There are some rides in our park. There are no long queues today. There is a small café. We went on a slow ride and saw the whole park. It was fun.
-
-Вправа 5, зразок: A: There are some rides. B: Could you explain? A: Two boys went on a water ride at a funfair. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: Two boys went on a water ride at a funfair. One boy was eating a sandwich when the boat went down a hill. Мій вигаданий варіант: There are some rides in our park. There are no long queues today.
 
 ## Рубрика відкритого продукту
 

@@ -6,19 +6,15 @@
 
 ## Блок 1: Round-up 1
 
-### 1. Словник і опора
+### 1. Словник
 
-history — історія; physics — фізика; slim — стрункий; chubby — повненький; skirt — спідниця; pocket — кишеня; karaoke — караоке; rollerblading — катання на роликах
-
-Повтори ключові правила з п’яти уроків. Спочатку виконай завдання без підказок. Потім прочитай пояснення до помилок і повернися до відповідного уроку. Для кожного правила склади власний приклад.
-
-Мовна модель: Our school starts at nine. My friend studies music. Does she practise every day? She does not practise at the weekend. She has got long wavy hair. She is wearing glasses. What is she doing? She is reading. I usually wear jeans. Today I am making a skirt. I want a blue patch. I like the new design. I enjoy playing table tennis. I cannot stand singing karaoke. I would like to join a youth club. My friend has got curly hair. She is helpful. We play ice hockey together. She is a friendly person.
+history — історія; slim — стрункий; skirt — спідниця; karaoke — караоке; outgoing — товариський
 
 ### 2. Прочитай
 
-Our school has a theatre and a science lab. Two friends are looking for a player in an online game. A girl usually buys her clothes, but today she is changing an old pair of jeans into a skirt. Two friends want to join a youth club. I am tall and have got curly dark hair.
+Mia studies at Green School. Classes start at nine. She has got curly hair. Today she is wearing a blue shirt and reading in the library. She usually wears jeans. Mia enjoys drawing and would like to join an art club. Her friend Leo is helpful. They both like music.
 
-### 3. Обери відповідь. Запиши літеру та підкресли доказ / форму в тексті.
+### 3. Обери відповідь. Для мовної форми поясни правило; для факту підкресли його в тексті.
 
 1. She ___ music every day.
 
@@ -26,33 +22,37 @@ A) studying / B) studies / C) study
 
 Відповідь: __________ Доказ / пояснення: __________________________
 
-2. Where do some students practise after school?
+2. She ___ a book at the moment.
 
-A) In the theatre. / B) In the kitchen. / C) In the airport.
-
-Відповідь: __________ Доказ / пояснення: __________________________
-
-3. She ___ a book at the moment.
-
-A) reads / B) read / C) is reading
+A) is reading / B) reads / C) read
 
 Відповідь: __________ Доказ / пояснення: __________________________
 
-4. What colour is the right player's hair?
+3. She usually ___ trainers to school.
 
-A) Fair. / B) Brown. / C) Black.
-
-Відповідь: __________ Доказ / пояснення: __________________________
-
-5. She usually ___ trainers to school.
-
-A) wears / B) is wearing / C) wear
+A) is wearing / B) wear / C) wears
 
 Відповідь: __________ Доказ / пояснення: __________________________
 
-### 4. Мій короткий продукт
+4. I enjoy ___ table tennis.
 
-Використай тему «Round-up 1». Напиши 4 пов’язані речення (або 4 репліки діалогу): два за змістом тексту й два про вигаданого героя / власний варіант. Ужий щонайменше два слова зі словника та одну структуру з опори. Особисті дані не потрібні.
+A) play / B) playing / C) to play
+
+Відповідь: __________ Доказ / пояснення: __________________________
+
+5. Choose the correct order.
+
+A) She has got straight hair. / B) She straight has got hair. / C) Straight she hair has got.
+
+Відповідь: __________ Доказ / пояснення: __________________________
+
+Після власної спроби: Повтори п’ять мовних фокусів у вправах 3 №1–5. Спочатку дай власну відповідь; опора відкривається після спроби. Після перевірки обери одну форму для власного прикладу. Це формувальне повторення, не контроль.
+
+Опора після спроби: Our school starts at nine. She has got long wavy hair. I usually wear jeans. I enjoy playing table tennis. My friend has got curly hair.
+
+### 4. Мій тематичний продукт
+
+За текстом «Round-up 1» запиши два факти (можна короткими реченнями). Окремо під заголовком «Мій вигаданий варіант» напиши ще два тематичні речення. Використай структуру з опори. Це 4 речення разом; не потрібно розкривати особисті дані.
 
 Початок на вибір: About me: I am… I have got… My best friend is… We both…
 
@@ -68,11 +68,11 @@ ________________________________________________________________________
 
 ________________________________________________________________________
 
-Перевірка: □ зміст зрозумілий □ два слова □ структура □ перевірив(ла) одне місце.
+Перевірка: □ виконав зміст завдання □ зрозумілі речення □ перевірив(ла) одну форму.
 
-### 5. Взаємодія за бажанням у класі / онлайн
+### 5. Мініситуація на вибір (якщо лишився час)
 
-Учень A читає одне своє речення про «Round-up 1». Учень B питає “Could you explain?” або “What about you?” A додає ще один факт. Зміна ролей. Можна записати репліки замість говоріння; це письмова взаємодія, не доказ усної.
+Вигадана ситуація «Round-up 1». A починає: “What time do your classes start?” B відповідає за темою; A ставить друге запитання / репліку, B реагує. Поміняйте одну деталь і ролі. Можна грати соло й записати обидві ролі. Мовчазна / чат-версія дає письмовий доказ; усний фіксують тільки за реальним говорінням.
 
 A: __________________________ B: __________________________
 
@@ -82,4 +82,4 @@ A: __________________________ B: __________________________
 
 00–02: відкрий блок 1, словник і модель. 02–06: прочитай текст, підкресли 2 факти. 06–10: виконай вправу 3 №1–2. 10–13: напиши 1–2 речення вправи 4. 13–15: постав ? біля труднощів і збережи аркуш. За відсутності ресурсу зупинись раніше; надсилати роботу під час відключення не потрібно. Принеси її за наступної можливості.
 
-ДЗ до 10 хв: допиши / відредагуй до 4 речень вправи 4. Після короткого маршруту — лише два початі пункти й 1–2 речення; без подвійного навантаження.
+ДЗ до 10 хв: відредагуй одне речення / деталь уже початого основного продукту; нового повного твору не потрібно. Після короткого маршруту — лише два початі пункти й 1–2 речення; без подвійного навантаження.

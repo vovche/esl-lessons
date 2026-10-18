@@ -1,128 +1,88 @@
-# Роздатка · 9 клас · урок 096 · 2027-04-07
+# Роздатка ·9 клас · урок 096 · 2027-04-07
 
-**Тема:** Think Green, Live Green. Природа і погода.
+**Тема календарного плану:** Think Green, Live Green. Природа і погода.
 
-Умовне ім’я/код учня: __________________ Дата фактичної роботи: __________
+Умовне ім’я/код: __________________ Фактична дата: _______________
 
-**Можна:** виконувати на папері, зробити паузу, працювати з вигаданим героєм. Особисті історії й камера не потрібні. Мова завдань не оцінює емоції. Під час переміщення до укриття не виконуй завдань. Читай і пиши лише коли є безпечні умови та достатнє світло.
+Особисті дані й камера не потрібні. Під час переміщення завдання зупиняються. У темряві не читай і не пиши; повернись, коли є безпечні умови. Можна зробити паузу; термін здавання узгоджується за доступністю.
 
-**Швидкий маршрут без мережі (10 хв):** 2 хв — модель і слова; 4 хв — перша секція, вправа 1; 4 хв — два власні речення за моделлю. За ресурсом ще до 5 хв на одну відповідь вправи 2 й питання до вчителя. Решту виконаєш після домовленості.
+## Мінімум B/D: окрема коротка картка
 
-## Секція 1: Думай і живи екологічно: Граматика в контексті
+**Опора:** Imagine being the head teacher: If I managed the school, I would add refill stations. Уявна ситуація: would + verb.
 
-**Слова:** environment — довкілля; wildlife — дика природа; endangered — під загрозою зникнення; pollution — забруднення; climate — клімат; reusable — багаторазовий; deforestation — вирубування лісів; habitat — середовище існування
+If the club had more time, it would ___ another workshop. Choose: organise / organised
 
-**Опора:** Second Conditional: if + Past Simple, would + дієслово — уявна або малоймовірна ситуація зараз/у майбутньому. У пораді часто If I were you.
-**Модель:** If I managed the school, I would add refill stations.
+Не потрібно виконувати весь основний пакет.
 
-### 1. Read and find evidence
+My example / field / row: __________________________________________
 
-Dan’s class is planning an Eco Day. They will collect litter if the weather is dry and organise a clothes swap indoors if it rains. Emma says that she would add more refill stations if she managed the school. Their leaflet gives practical advice: bring a reusable bottle, reduce waste and explain why each action helps.
+__________________________________________________________________
 
-1. За адаптованим текстом: What will they do if it rains?
+Одне питання вчителю (можна українською): ___________________________
 
-A) organise an indoor clothes swap / B) cancel every activity / C) collect litter outdoors anyway
+B:2 хв готовність +4 хв опора +6 хв приклад +3 хв збереження. D:2+3+5 хв, потім необов’язково до 5 хв уточнення. Це тренувальний фрагмент, не повний урок або контроль. Результат можна передати пізніше.
 
-Answer: ______ Evidence from the text: ______________________________
+## Основний маршрут A/C —45 хв
 
-2. За адаптованим текстом: What would Emma add?
+**Мовний фокус / жанр:** Second Conditional
 
-A) more plastic wrappers / B) fewer water taps / C) more refill stations
+**Опора:** If + Past Simple, would + verb — уявна/малоймовірна теперішня або майбутня ситуація. Past форма тут не позначає завершеної минулої події.
 
-Answer: ______ Evidence from the text: ______________________________
+### Джерело / brief
 
-### 2. Choose a form; explain one choice
+Language lab: all events below are fictional. The time and reporting context in each item are part of the task; keep them when choosing a form.
 
-1. If I ... a park ranger, I would protect wildlife.
+### Цільові пункти
 
-A) were / B) am / C) will be
 
-Answer: ______
 
-2. We would use less plastic if we ... reusable bottles.
+1. Imagine being the head teacher: If I managed the school, I ___ refill stations.
 
-A) have / B) will have / C) had
+A) will added / B) had added / C) would add
 
-Answer: ______
+Answer: _____ Reason/evidence: __________________________________
 
-3. If I were you, I ... join the Eco Day.
+2. We do not have a garden. If we ___ a garden, we would grow vegetables.
 
-A) had / B) would / C) will
+A) will have / B) had / C) have
 
-Answer: ______
+Answer: _____ Reason/evidence: __________________________________
 
-One explanation (time, meaning or form): __________________________
+3. If the club had more time, it would ___ another workshop.
 
-________________________________________________________________
+A) organise / B) organised / C) organising
 
-## Окрема ситуація цього уроку: a comparison of two forms
+Answer: _____ Reason/evidence: __________________________________
 
-Robin is working on a comparison of two forms about environmental choices. The task is to compare two versions and explain the difference. There are 5 minutes for a first attempt. A partner suggests making the message shorter, but Robin wants to keep one clear reason. They agree to check the meaning before sharing the final version. The work is about a fictional character, so no private details are needed.
 
-A. How much time is available for a first attempt? ___________________
+### Один головний продукт
 
-B. What will the partners check before sharing? _____________________
+Complete the contextual language items. Then write one new two-clause example using the target form and explain its meaning in Ukrainian or English.
 
-C. Complete the actual mini-product (a comparison of two forms) in two lines about environmental choices. Include one clear reason. Use the language model above and the strategy from the message.
+Для навчального мінімуму: один потрібний фрагмент і позначка, що ще треба завершити. Для повного A/C — весь зазначений короткий жанр/продукт. Це не вимога написати 120–130 слів за 7 хв.
 
 __________________________________________________________________
 
 __________________________________________________________________
 
-## 3. Create and explain
-
-Write an environmental leaflet for a fictional Alex. Use two details from the text(s), give two reasons and add one suggestion. Write 4–6 sentences. You may use the model(s) above. Do not include real addresses, phone numbers or private experiences.
-
-**Start:** In the text, … . Alex could … because … . Another reason is … . I suggest … .
-
-1. ________________________________________________________________
-
-2. ________________________________________________________________
-
-3. ________________________________________________________________
-
-4. ________________________________________________________________
-
-5. ________________________________________________________________
-
-6. ________________________________________________________________
-
-## 4. Interaction
-
-Fictional situation: Alex needs help choosing a next step about environmental choices. Ask for one reason, reply and respond politely. Say it if the teacher has arranged an oral channel; otherwise write a dialogue and mark it as written.
-
-A: Why would you choose ________________________________________?
-
-B: I would choose __________________ because ____________________.
-
-A: I see your point. Another option is ____________________________.
-
-Спосіб: усно / письмово. Партнера немає? Напиши обидві ролі як тренування; усну взаємодію перевірять окремо.
-
-## 5. Listening (only with the teacher's audio)
-
-Do not guess if you cannot hear the audio. Write «не перевірено» and arrange another time.
-
-1. On which day does Alex plan the activity? _______________________
-
-2. Where will the class swap clothes if it rains? ______________________
-
-## 6. Correction / portfolio / homework
-
-Original phrase: __________________________________________________
-
-My corrected phrase and reason: ____________________________________
+__________________________________________________________________
 
 __________________________________________________________________
 
-Second correction (for portfolio): _________________________________
-
-My next language step: ____________________________________________
-
-Add two sentences to your product, if this is homework: ______________
+__________________________________________________________________
 
 __________________________________________________________________
 
-Optional respectful phrase for fictional Alex: ______________________
+__________________________________________________________________
 
-**ДЗ:** одна виправлена відповідь із поясненням і два додані речення, до 10 хв. Термін — наступний доступний контакт за домовленістю. Після короткого маршруту спочатку заверши мінімум.
+__________________________________________________________________
+
+### Після завершення
+
+Мій точний пункт повернення: _______________________________________
+
+Моє мовне питання / одне виправлення: _______________________________
+
+**Резерв, тільки за окремим вибором вчителя:** розширити продукт однією новою деталлю й пояснити її; цей резерв не додається до 45 хв. На інших уроках аудіювання/говоріння не приписуються автоматично, якщо їх не перевіряли.
+
+**ДЗ, до 10 хв:** виправити один цільовий пункт із поясненням або завершити одну потрібну частину чернетки. Не виконувати заново весь пропущений урок. Після B/D спершу зберегти мінімум, решту погодити з учителем. Контроль удома не зараховується без погодженої процедури.

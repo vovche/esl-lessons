@@ -1,79 +1,69 @@
-# Ключі · 7 клас · Урок 087
+# Ключ · 7 клас · 087 · 2027-02-22
 
-Лише для вчителя; не роздавати разом з учнівським аркушем. Переклад/синонімічна коротка відповідь прийнятні для розуміння, якщо факт точний; мовну форму коментувати окремо. Орфографічну помилку, що не змінює факту, не карати вдруге.
+Відповіді лише для вчителя. Короткий синонімічний факт прийнятний; не знімати вдруге бал за форму, яка не змінює зрозумілий факт. Тут є резерви вчителя: вони не є вимогою виконати всі блоки за 45 хв.
 
-## V
+## R · Повний текст, факти й докази
 
-1 — C, 2 — B, 3 — A, 4 — D. По 1 за точну відповідність; /4. Власні словосполучення: прийняти осмислену сполуку з тематичним словом, зразок контекстного вживання — у моделі P нижче; за потреби виправити лексичну сполучуваність; ці 2 приклади не додають прихованих балів.
+A fictional patient arrives for an appointment. Before the visit, the patient had written a short symptom note. The receptionist checks the name on the appointment card. The nurse asks one question at a time and allows the patient to read the note. The patient can ask for a question to be repeated. This story practises language, not diagnosis.
 
-## R
+1. **a short symptom note**. Доказ у тексті: «a short symptom note».
+2. **the name on the appointment card**. Доказ у тексті: «the name on the appointment card».
+3. **for a question to be repeated**. Доказ у тексті: «for a question to be repeated».
 
-1. the reception desk.
-2. Tuesday at 10 a.m.
-3. a short message for the nurse.
+## L · Текст для двох читань
 
-По 1 за факт; /3. Можна відповісти коротко; докази — відповідні речення тексту про місце, час і предмет/подію.
+Відділити додаток L в учня до слухання. Прочитати двічі, між читаннями 45 секунд. Не підказувати інтонацією тільки потрібні слова. За відсутності чутності перенести L.
 
-## G
+Kim, a fictional character, arrives at the clinic waiting room on Thursday at 11 a.m. Before the visit, the character had prepared a completed information form. The receptionist asks about the appointment, and Kim describes a sore throat in simple words. If a visitor needs language help, the receptionist offers a paper form. The nurse listens and asks one question at a time. This is language practice: students do not diagnose illness or suggest medicine.
+
+1. **a sore throat**. Доказ у тексті: «a sore throat».
+2. **a paper form**. Доказ у тексті: «a paper form».
+3. **one question**. Доказ у тексті: «one question».
+
+## V · Відповідності
+
+1 — C, 2 — B, 3 — A, 4 — D. По 1 за відповідність; /4, лише коли V є основним блоком.
+
+## G · Форми
 
 1. needs.
 2. ask.
 3. wait.
 4. asks.
 
-По 1 за правильну форму; /4. Пояснення: Zero Conditional: if + Present Simple, Present Simple для правила/регулярної умови. Це мовна модель, а не медична рекомендація.
+Zero Conditional: if + Present Simple, Present Simple для правила/регулярної умови. Це мовна модель, а не медична рекомендація.
 
-## L · Сценарій читання вчителем
+## T · Перенесення моделі
 
-Закрити/відділити додаток L в учнів. Прочитати двічі чітко, без театральних рухів та звукових ефектів, з паузою 45 секунд. Не наголошувати тільки правильні слова й не підказувати жестами.
+1. If a visitor needs language help, the receptionist offers a form.
+2. If I do not understand, I ask a question.
 
-Kim, a fictional character, arrives at the clinic waiting room on Thursday at 11 a.m. Before the visit, the character had prepared a completed information form. The receptionist asks about the appointment, and Kim describes a sore throat in simple words. If a visitor needs language help, the receptionist offers a paper form. The nurse listens and asks one question at a time. This is language practice: students do not diagnose illness or suggest medicine.
+Кожна відповідь має зберігати зміст, часову форму та структуру; інше граматично правильне формулювання прийнятне за збереження умови.
 
-**Відповіді:**
+## F · Повна корекція
 
-1. the clinic waiting room.
-2. Thursday at 11 a.m.
-3. a completed information form.
+If a visitor needs help, the receptionist offers a form. If I do not understand, I ask. If visitors arrive early, they wait.
 
-По 1 за факт; /3. При поганій чутності перенести L; текстове читання позначити R, не L.
+Пояснення: Zero Conditional: if + Present Simple, Present Simple для правила/регулярної умови. Це мовна модель, а не медична рекомендація. Для портфоліо 2 пояснення можуть бути українською. Наступний крок має бути конкретною дією, наприклад перевірити auxiliary verb.
 
-## S · Зразок діалогу
+## P / S · Умова та повний зразок
 
-A: Let us meet at the reception desk.
-B: When shall we meet?
-A: Tuesday at 10 a.m.
-B: Could you repeat the place, please?
-A: the reception desk. I suggest preparing a short message for the nurse because it fits our topic.
-B: Thank you. Can we write a short plan first?
+Дай 3 короткі відповіді R; до двох випиши 2–4 слова-докази. Потім 2 речення: один точний факт і одна ввічлива реакція/запит до тексту. Нової події вигадувати не треба.
 
-Це один можливий варіант, не текст для обов’язкового заучування. Додатковий запит Where shall we meet? прийнятний. Оцінити, чи співрозмовник справді отримав відповідь; письмовий сценарій сам собою не доводить говоріння.
+**Зразок:** The text says: “Before the visit, the patient had written a short symptom note.” Could you explain the next detail, please?
 
-## P · Зразок та критерії
+## Відкриті відповіді: конкретні критерії
 
-Good morning. Where is my appointment? — At the reception desk. When is it? — Tuesday at 10 a.m. I have a sore throat; could you repeat your question, please? I had prepared a short message for the nurse before I arrived. Thank you for your help.
+- Зміст 0–2:0 немає потрібної дії/теми;1 основна мета зрозуміла, але бракує обов’язкової деталі;2 усі деталі з умови присутні. У читанні/слуханні не додавати непідтверджених фактів.
+- Організація 0–2:0 послідовність не відновлюється;1 зв’язок зрозумілий із підтримкою;2 логічний текст або взаємний обмін репліками.
+- Мовна зрозумілість 0–2:0 зміст не відновлюється;1 помилки не руйнують основний зміст;2 цільові слова/структури переважно точні. У T обов’язкова саме модель, названа в умові.
 
-Факти власної вигаданої події можуть відрізнятися від R, якщо завдання не вимагає перенесення саме фактів R. Для завдання читання з додатковими 2 фактами перевірити їх за R: **the reception desk; Tuesday at 10 a.m.; a short message for the nurse**. У проєкті перевірити назву, читабельні 3 факти, чернетку й 2 зміни; у граматичному уроці — дві цільові моделі; у лексичному — 4 слова.
+Для S потрібен реально почутий зразок; письмовий чат підтверджує письмову взаємодію. Вимову оцінювати за зрозумілістю, не за акцентом. Пауза/відсутність камери не є помилкою. У проєкті доказ — чернетка, точний відгук,2 зміни; у портфоліо —3 корекції,2 причини, власна модель й наступний крок. Особисте переживання/емоція не оцінюється.
 
-Формувальна рубрика відкритого продукту (кожен вимір 0–2):
+## Критерії саме цього уроку
 
-- Зміст: 0 — продукт відсутній/поза темою; 1 — мета зрозуміла, але бракує 2 обов’язкових деталей; 2 — є мета, адресат і потрібні тематичні деталі.
-- Організація: 0 — не можна відновити послідовність; 1 — послідовність зрозуміла з підтримкою; 2 — логічний початок, факти й завершення / доречна черговість реплік.
-- Мовна зрозумілість: 0 — зміст не відновлюється; 1 — помилки є, але основний зміст зрозумілий; 2 — цільові моделі переважно точні, ключові слова доречні.
-
-/6 — первинний навчальний показник, не автоматична офіційна оцінка. У S допускається пауза, паперова підготовка й відсутність камери. Для 6-бальної рубрики S: зміст — виконання ролі/запитів; організація — відповідь/уточнення; мовна зрозумілість — зрозумілий усний зразок. Потрібну допомогу зафіксувати, емоції не оцінювати.
-
-## F
-
-**Виправлена версія:** If a visitor needs help, the receptionist offers a form. If I do not understand, I ask. If visitors arrive early, they wait.
-
-**Пояснення:** Zero Conditional: if + Present Simple, Present Simple для правила/регулярної умови. Це мовна модель, а не медична рекомендація. Прийняти інші граматично коректні виправлення зі збереженим змістом; пояснення двох змін може бути українською. Для портфоліо доказ — «до», «після», дві причини й наступний перевірюваний крок; твердження «я старався» без прикладу попросити конкретизувати.
-
-## Специфікація цього уроку
-
-Формувально: V /4, R /3, G /4, L /3 — окремі свідчення, не сума в офіційну оцінку. Відкритий продукт: зміст, організація, зрозумілість — по 0–2; див. ключ.
-
-B/D — скорочений місток, не повна перевірка всіх умінь. Не переносити автоматично бал за письмовий чат у результат говоріння; не записувати повне аудіювання, якщо учень читав. За переривання зберегти достовірні блоки, невиконане позначити «перенесено», не нулем за технічну недоступність.
+Формувально: точність факту/форми позначати окремо. Відкритий продукт: зміст, організація та мовна зрозумілість — по 0–2, для зворотного зв’язку. Це первинні показники для педагогічного рішення; офіційне переведення визначає затверджений порядок закладу.
 
 ## ДЗ
 
-Приймається будь-який осмислений чистовий текст за тематичною умовою P, 2 тематичні слова й одне запитання з правильною моделлю. Приклади запитання до R: Where does the story take place? When does the event happen? Відповіді: the reception desk; Tuesday at 10 a.m. Після контрольного уроку перевіряється лише факт навчальної рефлексії; це не новий підсумковий бал.
+До 5 хв: завершений основний продукт або одна перевірена фраза з поясненням правки. Після B/D —2 рядки. Приймати варіанти за критеріями умови; після контролю домашнє переписування не створює нової самостійної оцінки.

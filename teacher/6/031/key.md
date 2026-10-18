@@ -14,11 +14,9 @@
 
 5. **A — To the campsite.**. У тексті: ran back to the campsite.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Two friends were exploring a snowy area when they saw huge footprints. The footprints looked like human footprints, but they were much bigger. While we were walking, we heard a noise. I was looking at the snow when I saw footprints. She was reading while he was drawing.
+Вправа 5, можливий тематичний діалог: A: What happened while you were walking? B: We heard a noise. A: What was it? B: It was a cat.
 
-Модель додаткового висловлення: We were walking near a house when we heard a noise. While I was looking at the door, Mia saw a shadow. We stopped. Something moved behind a box. It was a small cat. We smiled and went home.
-
-Вправа 5, зразок: A: While we were walking, we heard a noise. B: Could you explain? A: Two friends were exploring a snowy area when they saw huge footprints. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: Two friends were exploring a snowy area when they saw huge footprints. The footprints looked like human footprints, but they were much bigger. Мій вигаданий варіант: We were walking near a house when we heard a noise. While I was looking at the door, Mia saw a shadow.
 
 ## Рубрика відкритого продукту
 

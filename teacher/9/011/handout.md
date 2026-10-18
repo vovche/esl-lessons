@@ -1,128 +1,82 @@
-# Роздатка · 9 клас · урок 011 · 2026-09-21
+# Роздатка ·9 клас · урок 011 · 2026-09-21
 
-**Тема:** All About Me. Я, моя сім’я і друзі (автобіографія).
+**Тема календарного плану:** All About Me. Я, моя сім’я і друзі (автобіографія).
 
-Умовне ім’я/код учня: __________________ Дата фактичної роботи: __________
+Умовне ім’я/код: __________________ Фактична дата: _______________
 
-**Можна:** виконувати на папері, зробити паузу, працювати з вигаданим героєм. Особисті історії й камера не потрібні. Мова завдань не оцінює емоції. Під час переміщення до укриття не виконуй завдань. Читай і пиши лише коли є безпечні умови та достатнє світло.
+Особисті дані й камера не потрібні. Під час переміщення завдання зупиняються. У темряві не читай і не пиши; повернись, коли є безпечні умови. Можна зробити паузу; термін здавання узгоджується за доступністю.
 
-**Швидкий маршрут без мережі (10 хв):** 2 хв — модель і слова; 4 хв — перша секція, вправа 1; 4 хв — два власні речення за моделлю. За ресурсом ще до 5 хв на одну відповідь вправи 2 й питання до вчителя. Решту виконаєш після домовленості.
+## Мінімум B/D: окрема коротка картка
 
-## Секція 1: Усе про мене: Письмо
+**Опора:** Past event: Last year I joined a club.
 
-**Слова:** personality — особистість; confident — упевнений; curious — допитливий; role model — приклад для наслідування; self-development — саморозвиток; forename — ім’я; surname — прізвище; occupation — заняття, професія
+Write one different fictional past event beginning Last year.
 
-**Опора:** Плануй текст, дотримуйся його формату й відредагуй чернетку за критеріями.
-**Модель:** I usually read at home. Yesterday I was reading when my friend called.
+Не потрібно виконувати весь основний пакет.
 
-### 1. Read and find evidence
+My example / field / row: __________________________________________
 
-Emma is preparing a short autobiography. She describes where she grew up and how she became interested in photography. She is taking part in a school exhibition next Friday. She has already chosen the photos, so this is an arrangement. She thinks she will learn a lot from the visitors and is going to ask them for feedback.
+__________________________________________________________________
 
-1. За адаптованим текстом: What has Emma already chosen?
+Одне питання вчителю (можна українською): ___________________________
 
-A) the visitors / B) the photos / C) a new school
+B:2 хв готовність +4 хв опора +6 хв приклад +3 хв збереження. D:2+3+5 хв, потім необов’язково до 5 хв уточнення. Це тренувальний фрагмент, не повний урок або контроль. Результат можна передати пізніше.
 
-Answer: ______ Evidence from the text: ______________________________
+## Основний маршрут A/C —45 хв
 
-2. За адаптованим текстом: Why will she ask for feedback?
+**Мовний фокус / жанр:** мініавтобіографія вигаданого персонажа
 
-A) to learn from the visitors / B) to cancel the exhibition / C) to change her name
+**Опора:** Автобіографія: перша особа, часовий зв’язок. Мікромодель: Last year I joined a club. Now I am learning a new skill. I am visiting an exhibition next Friday.
 
-Answer: ______ Evidence from the text: ______________________________
+### Джерело / brief
 
-### 2. Choose a form; explain one choice
+Write 5 sentences as fictional Alex: early interest, one past event, present activity, future arrangement and goal. Do not give real personal details.
 
-1. She ... the guitar every evening.
+### Цільові пункти
 
-A) played / B) plays / C) is playing
 
-Answer: ______
 
-2. At seven yesterday, I ... my profile.
+1. An autobiography tells the story in whose voice?
 
-A) was writing / B) write / C) am writing
+A) I / B) the reader as you / C) only an unnamed third person
 
-Answer: ______
+Answer: _____ Reason/evidence: __________________________________
 
-3. When we arrived, the interview ... already ... .
+2. Choose the completed past event.
 
-A) has / started / B) is / starting / C) had / started
+A) I am joining now. / B) I will join next year. / C) Last year I joined a club.
 
-Answer: ______
+Answer: _____ Reason/evidence: __________________________________
 
-One explanation (time, meaning or form): __________________________
 
-________________________________________________________________
+### Один головний продукт
 
-## Окрема ситуація цього уроку: a first draft
+Write 5 sentences as fictional Alex: early interest, one past event, present activity, future arrangement and goal. Do not give real personal details.
 
-Lee is working on a first draft about personality and interests. The task is to organise ideas and check the draft before sharing it. There are 10 minutes for a first attempt. A partner suggests making the message shorter, but Lee wants to keep one clear reason. They agree to check the meaning before sharing the final version. The work is about a fictional character, so no private details are needed.
-
-A. How much time is available for a first attempt? ___________________
-
-B. What will the partners check before sharing? _____________________
-
-C. Complete the actual mini-product (a first draft) in two lines about personality and interests. Include one clear reason. Use the language model above and the strategy from the message.
+Для навчального мінімуму: один потрібний фрагмент і позначка, що ще треба завершити. Для повного A/C — весь зазначений короткий жанр/продукт. Це не вимога написати 120–130 слів за 7 хв.
 
 __________________________________________________________________
 
 __________________________________________________________________
 
-## 3. Create and explain
-
-Write a fictional personal profile for a fictional Alex. Use two details from the text(s), give two reasons and add one suggestion. Write 4–6 sentences. You may use the model(s) above. Do not include real addresses, phone numbers or private experiences.
-
-**Start:** In the text, … . Alex could … because … . Another reason is … . I suggest … .
-
-1. ________________________________________________________________
-
-2. ________________________________________________________________
-
-3. ________________________________________________________________
-
-4. ________________________________________________________________
-
-5. ________________________________________________________________
-
-6. ________________________________________________________________
-
-## 4. Interaction
-
-Fictional situation: Alex needs help choosing a next step about personality and interests. Ask for one reason, reply and respond politely. Say it if the teacher has arranged an oral channel; otherwise write a dialogue and mark it as written.
-
-A: Why would you choose ________________________________________?
-
-B: I would choose __________________ because ____________________.
-
-A: I see your point. Another option is ____________________________.
-
-Спосіб: усно / письмово. Партнера немає? Напиши обидві ролі як тренування; усну взаємодію перевірять окремо.
-
-## 5. Listening (only with the teacher's audio)
-
-Do not guess if you cannot hear the audio. Write «не перевірено» and arrange another time.
-
-1. On which day does Alex plan the activity? _______________________
-
-2. Where does the club meet? ______________________
-
-## 6. Correction / portfolio / homework
-
-Original phrase: __________________________________________________
-
-My corrected phrase and reason: ____________________________________
+__________________________________________________________________
 
 __________________________________________________________________
 
-Second correction (for portfolio): _________________________________
-
-My next language step: ____________________________________________
-
-Add two sentences to your product, if this is homework: ______________
+__________________________________________________________________
 
 __________________________________________________________________
 
-Optional respectful phrase for fictional Alex: ______________________
+__________________________________________________________________
 
-**ДЗ:** одна виправлена відповідь із поясненням і два додані речення, до 10 хв. Термін — наступний доступний контакт за домовленістю. Після короткого маршруту спочатку заверши мінімум.
+__________________________________________________________________
+
+### Після завершення
+
+Мій точний пункт повернення: _______________________________________
+
+Моє мовне питання / одне виправлення: _______________________________
+
+**Резерв, тільки за окремим вибором вчителя:** розширити продукт однією новою деталлю й пояснити її; цей резерв не додається до 45 хв. На інших уроках аудіювання/говоріння не приписуються автоматично, якщо їх не перевіряли.
+
+**ДЗ, до 10 хв:** виправити один цільовий пункт із поясненням або завершити одну потрібну частину чернетки. Не виконувати заново весь пропущений урок. Після B/D спершу зберегти мінімум, решту погодити з учителем. Контроль удома не зараховується без погодженої процедури.

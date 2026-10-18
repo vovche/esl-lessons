@@ -14,11 +14,9 @@
 
 5. **B — The soundtrack.**. Музику описано як not very special.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): In this adventure film, a museum becomes an exciting place at night. Exhibits come to life, and the main character tries to help his friends. The film was directed by a young artist. It is about a boy who helps his friends. I liked the plot and special effects.
+Вправа 5, можливий тематичний діалог: A: What is the film about? B: It is about a girl who helps her friends. A: Did you like it? B: Yes, I liked the plot.
 
-Модель додаткового висловлення: Garden Friends is a fictional comedy. It is about a boy who helps his neighbours. The film was made by a school club. The actors are friendly and funny. I liked the plot. I would recommend it to my classmates.
-
-Вправа 5, зразок: A: The film was directed by a young artist. B: Could you explain? A: In this adventure film, a museum becomes an exciting place at night. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: In this adventure film, a museum becomes an exciting place at night. Exhibits come to life, and the main character tries to help his friends. Мій вигаданий варіант: Garden Friends is a fictional comedy. It is about a boy who helps his neighbours.
 
 ## Рубрика відкритого продукту
 

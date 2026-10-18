@@ -10,23 +10,13 @@
 
 3. **B — I think this city is beautiful.**. I think указує на власну оцінку.
 
-4. **A — In the park.**. У тексті велосипедні прогулянки відбуваються в парку.
+Вправа 5, можливий тематичний діалог: A: What is your favourite place in Green Town? B: It is the park. A: Why do you like it? B: I like it because it is quiet.
 
-5. **C — The view from the old bridge.**. У тексті: enjoy the view from the old bridge.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Green Town is a small fictional town. It is near a river.
+Вправа 4, можливий варіант: Green Town is a small fictional town. It is near a river.
 
 There are two parks and a library. The library is next to the school.
 
 I like Green Town because it is quiet. The park is my favourite place.
-
-Модель додаткового висловлення: Green Town is a small fictional town. It is near a river.
-
-There are two parks and a library. The library is next to the school.
-
-I like Green Town because it is quiet. The park is my favourite place.
-
-Вправа 5, зразок: A: There is a castle near the river. B: Could you explain? A: I live in a city with a river and several bridges. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
 
 ## Рубрика відкритого продукту
 

@@ -6,19 +6,17 @@
 
 1. **A — seen**. Present Perfect: have + seen.
 
-2. **C — Five.**. У другому реченні названо five questions.
+2. **C — saw**. Last night — завершений час, Past Simple.
 
-3. **B — saw**. Last night — завершений час, Past Simple.
+3. **B — for**. For + тривалість.
 
-4. **A — Last summer.**. У тексті прямо вказано last summer.
+4. **A — too**. Too + прикметник.
 
-5. **C — for**. For + тривалість.
+5. **C — hers**. Hers замінює her notebook; після нього іменник не потрібен.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Two boys are contestants on a game show. A fan has been to several concerts, but one performance was especially exciting. Have you ever watched a talent show? I have seen it twice. She has never won a competition. I have seen this band twice. I saw them last summer. My brother has gone to the concert, so he is not here. I have lived here for two years. We have known each other since school. I will be back at six. These shoes are too small. They are not big enough. I like the white ones. I will take the blue one. I need some advice. I feel worried. What should I do? I think you should explain how you feel.
+Вправа 5, можливий тематичний діалог: A: Have you ever watched a musical? B: Yes, I have. A: Have you ever won a prize? B: No, I haven’t.
 
-Модель додаткового висловлення: Have you ever watched a talent show? I have seen it twice. She has never won a competition. I have seen this band twice. I saw them last summer. My brother has gone to the concert, so he is not here. I have lived here for two years. We have known each other since school. I will be back at six. These shoes are too small. They are not big enough. I like the white ones. I will take the blue one. I need some advice. I feel worried. What should I do? I think you should explain how you feel.
-
-Вправа 5, зразок: A: Have you ever watched a talent show? I have seen it twice. B: Could you explain? A: Two boys are contestants on a game show. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: Mia has never appeared on TV. She has seen her favourite band twice and saw them last summer. Мій вигаданий варіант: I have seen it twice. I have seen this band twice.
 
 ## Рубрика відкритого продукту
 

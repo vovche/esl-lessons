@@ -10,15 +10,9 @@
 
 3. **B — to leave**. Want + to leave.
 
-4. **A — Arts and crafts.**. У тексті: loves arts and crafts.
+Вправа 5, можливий тематичний діалог: A: Would you like to join an art club? B: Yes, I would. A: Do you enjoy drawing? B: Yes, I do.
 
-5. **C — At ten.**. Open until ten означає, що клуб працює до десятої.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): I enjoy reading. I love drawing. I like playing tennis. I cannot stand singing karaoke. I would like to try skating.
-
-Модель додаткового висловлення: I enjoy reading. I love drawing. I like playing tennis. I cannot stand singing karaoke. I would like to try skating.
-
-Вправа 5, зразок: A: I enjoy playing table tennis. B: Could you explain? A: Two friends want to join a youth club. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: I enjoy reading. I love drawing. I like playing tennis. I cannot stand singing karaoke. I would like to try skating.
 
 ## Рубрика відкритого продукту
 

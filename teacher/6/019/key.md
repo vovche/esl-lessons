@@ -14,11 +14,9 @@
 
 5. **A — No, it was closed.**. Останнє речення: the restaurant was closed.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): A visitor wanted to find a restaurant near a river. First he walked, then he took a bus. He could not find the river. She drives carefully. We travelled by ferry and walked on foot.
+Вправа 5, можливий тематичний діалог: A: Could you ride a bike when you were six? B: Yes, I could. A: How does Leo drive? B: He drives carefully.
 
-Модель додаткового висловлення: A bus is cheaper than a taxi. A taxi is faster than a bus. Both are comfortable. When I was five, I could ride a bike.
-
-Вправа 5, зразок: A: He could not find the river. B: Could you explain? A: A visitor wanted to find a restaurant near a river. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: A visitor wanted to find a restaurant near a river. First he walked, then he took a bus. Мій вигаданий варіант: A bus is cheap and comfortable. It moves slowly in traffic.
 
 ## Рубрика відкритого продукту
 

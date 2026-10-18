@@ -10,15 +10,9 @@
 
 3. **A — Turn left at the traffic lights.**. Наказова форма починається з Turn.
 
-4. **C — In front of a supermarket.**. У тексті: stop in front of a supermarket.
+Вправа 5, можливий тематичний діалог: A: How do I get to the library? B: Go straight on. A: Is it opposite the school? B: Yes, it is.
 
-5. **B — Behind the supermarket.**. Останнє речення називає місце.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Map: School — Park — Library — Shop (one straight street). Go straight on from the school. Walk past the park. The library is next to the park and before the shop.
-
-Модель додаткового висловлення: Map: School — Park — Library — Shop (one straight street). Go straight on from the school. Walk past the park. The library is next to the park and before the shop.
-
-Вправа 5, зразок: A: Go straight on and turn right at the traffic lights. B: Could you explain? A: Two friends are playing a game. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Map: School — Park — Library — Shop (one straight street). Go straight on from the school. Walk past the park. The library is next to the park and before the shop.
 
 ## Рубрика відкритого продукту
 

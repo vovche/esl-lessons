@@ -6,19 +6,15 @@
 
 ## Блок 1: Round-up 7
 
-### 1. Словник і опора
+### 1. Словник
 
-contestant — учасник конкурсу; channel — канал; audience — аудиторія, глядачі; autograph — автограф; receive — отримувати; receiver — одержувач; receipt — чек; discount — знижка
-
-Повтори ключові правила з п’яти уроків. Спочатку виконай завдання без підказок. Потім прочитай пояснення до помилок і повернися до відповідного уроку. Для кожного правила склади власний приклад.
-
-Мовна модель: Have you ever watched a talent show? I have seen it twice. She has never won a competition. I have seen this band twice. I saw them last summer. My brother has gone to the concert, so he is not here. I have lived here for two years. We have known each other since school. I will be back at six. These shoes are too small. They are not big enough. I like the white ones. I will take the blue one. I need some advice. I feel worried. What should I do? I think you should explain how you feel.
+contestant — учасник конкурсу; audience — аудиторія, глядачі; receive — отримувати; receipt — чек; advice — порада
 
 ### 2. Прочитай
 
-Two boys are contestants on a game show. A fan has been to several concerts, but one performance was especially exciting. People sometimes shorten words in messages to type faster. A teenager wants to buy a dress. A student used to help a younger brother with all his homework.
+Mia has never appeared on TV. She has seen her favourite band twice and saw them last summer. She has lived in Green Town for two years. In a shop, she finds shoes that are too small. She asks for larger ones. Later she finds Leo’s notebook. It is his, so she returns it.
 
-### 3. Обери відповідь. Запиши літеру та підкресли доказ / форму в тексті.
+### 3. Обери відповідь. Для мовної форми поясни правило; для факту підкресли його в тексті.
 
 1. Have you ever ___ a talent show?
 
@@ -26,33 +22,37 @@ A) seen / B) saw / C) see
 
 Відповідь: __________ Доказ / пояснення: __________________________
 
-2. How many correct answers did the boys need?
+2. I ___ the band last night.
 
-A) Three. / B) Two. / C) Five.
-
-Відповідь: __________ Доказ / пояснення: __________________________
-
-3. I ___ the band last night.
-
-A) seeing / B) saw / C) have seen
+A) have seen / B) seeing / C) saw
 
 Відповідь: __________ Доказ / пояснення: __________________________
 
-4. When did the fan see the band in the story?
+3. I have lived here ___ two years.
 
-A) Last summer. / B) This morning. / C) Ten years ago.
-
-Відповідь: __________ Доказ / пояснення: __________________________
-
-5. I have lived here ___ two years.
-
-A) since / B) ago / C) for
+A) ago / B) for / C) since
 
 Відповідь: __________ Доказ / пояснення: __________________________
 
-### 4. Мій короткий продукт
+4. These shoes are ___ small for me.
 
-Використай тему «Round-up 7». Напиши 4 пов’язані речення (або 4 репліки діалогу): два за змістом тексту й два про вигаданого героя / власний варіант. Ужий щонайменше два слова зі словника та одну структуру з опори. Особисті дані не потрібні.
+A) too / B) enough / C) many
+
+Відповідь: __________ Доказ / пояснення: __________________________
+
+5. This is Mia’s notebook. It is ___.
+
+A) her / B) she / C) hers
+
+Відповідь: __________ Доказ / пояснення: __________________________
+
+Після власної спроби: Повтори п’ять мовних фокусів у вправах 3 №1–5. Спочатку дай власну відповідь; опора відкривається після спроби. Після перевірки обери одну форму для власного прикладу. Це формувальне повторення, не контроль.
+
+Опора після спроби: Have you ever watched a talent show? I have seen it twice. I have seen this band twice. I have lived here for two years. These shoes are too small. Mia’s notebook is on her desk.
+
+### 4. Мій тематичний продукт
+
+За текстом «Round-up 7» запиши два факти (можна короткими реченнями). Окремо під заголовком «Мій вигаданий варіант» напиши ще два тематичні речення. Використай структуру з опори. Це 4 речення разом; не потрібно розкривати особисті дані.
 
 Початок на вибір: I feel… because… What should I do? I think you should…
 
@@ -68,11 +68,11 @@ ________________________________________________________________________
 
 ________________________________________________________________________
 
-Перевірка: □ зміст зрозумілий □ два слова □ структура □ перевірив(ла) одне місце.
+Перевірка: □ виконав зміст завдання □ зрозумілі речення □ перевірив(ла) одну форму.
 
-### 5. Взаємодія за бажанням у класі / онлайн
+### 5. Мініситуація на вибір (якщо лишився час)
 
-Учень A читає одне своє речення про «Round-up 7». Учень B питає “Could you explain?” або “What about you?” A додає ще один факт. Зміна ролей. Можна записати репліки замість говоріння; це письмова взаємодія, не доказ усної.
+Вигадана ситуація «Round-up 7». A починає: “Have you ever watched a musical?” B відповідає за темою; A ставить друге запитання / репліку, B реагує. Поміняйте одну деталь і ролі. Можна грати соло й записати обидві ролі. Мовчазна / чат-версія дає письмовий доказ; усний фіксують тільки за реальним говорінням.
 
 A: __________________________ B: __________________________
 
@@ -82,4 +82,4 @@ A: __________________________ B: __________________________
 
 00–02: відкрий блок 1, словник і модель. 02–06: прочитай текст, підкресли 2 факти. 06–10: виконай вправу 3 №1–2. 10–13: напиши 1–2 речення вправи 4. 13–15: постав ? біля труднощів і збережи аркуш. За відсутності ресурсу зупинись раніше; надсилати роботу під час відключення не потрібно. Принеси її за наступної можливості.
 
-ДЗ до 10 хв: допиши / відредагуй до 4 речень вправи 4. Після короткого маршруту — лише два початі пункти й 1–2 речення; без подвійного навантаження.
+ДЗ до 10 хв: відредагуй одне речення / деталь уже початого основного продукту; нового повного твору не потрібно. Після короткого маршруту — лише два початі пункти й 1–2 речення; без подвійного навантаження.

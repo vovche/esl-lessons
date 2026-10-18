@@ -4,7 +4,7 @@
 
 Можна працювати з вигаданими персонажами. Під час переміщення в укриття не виконувати завдань. Якщо немає безпечних умов / освітлення, відкласти. Перевірку стану можна пропустити.
 
-# Завдання: A school garden event
+# Завдання: A school garden event · варіант 086 P
 
 Це запропонований матеріал перевірки, а не підтвердження її проведення. Працюй самостійно; перед початком учитель пояснить критерії. Якщо зв’язок зник або пролунала тривога, зупинись. Відсутній доказ перевірять іншого безпечного разу.
 
@@ -12,49 +12,49 @@
 
 Прочитай запитання. Прослухай учителя двічі у звичайних безпечних умовах. Не потрібно повторювати вголос. Текст слухання міститься тільки в учительському ключі. Якщо не чути, повідом доступним способом; читання тексту не замінює перевірку слухання.
 
-1. When is the event?
+1. Which day is mentioned?
 
-A) Sunday / B) Saturday / C) Friday
-
-Відповідь: __________
-
-2. What will students plant?
-
-A) Trees / B) Vegetables / C) Flowers
+A) Saturday / B) Monday / C) Tuesday
 
 Відповідь: __________
 
-3. What must students bring?
+2. Where is the meeting point?
 
-A) A camera / B) Water / C) New gloves
+A) Near the library entrance. / B) Near the museum entrance. / C) Near the school gate.
+
+Відповідь: __________
+
+3. What item is mentioned?
+
+A) A water bottle. / B) A notebook. / C) A pencil.
 
 Відповідь: __________
 
 ## R — розуміння прочитаного
 
-Mia joined a tennis club last month. She practises twice a week. Her coach says that everyone should take a water bottle. Last Saturday the group played a friendly match. Mia did not win, but she enjoyed helping a new player. Next month she is going to try a different sport with her cousin.
+Mia joined a tennis club last month. She practises twice a week. Her coach says that everyone should bring a water bottle. Last Saturday the group played a friendly match. Mia did not win, but she enjoyed helping Leo, a new player. Next month she is going to join a friendly match. She likes the club because people help each other.
 
-1. How often does Mia practise?
+1. How often does she practise?
 
-A) Twice a week / B) Every day / C) Once a month
-
-Відповідь: __________
-
-2. What should players take?
-
-A) A new racket / B) A camera / C) A water bottle
+A) Twice a week. / B) Three times a week. / C) Once a week.
 
 Відповідь: __________
 
-3. What did Mia enjoy?
+2. What should players bring?
 
-A) Buying a bottle / B) Helping a new player / C) Winning a prize
+A) A camera. / B) A new bag. / C) A water bottle.
+
+Відповідь: __________
+
+3. What did she enjoy?
+
+A) Buying a bottle. / B) Helping a new player. / C) Winning a prize.
 
 Відповідь: __________
 
 ## S — усна взаємодія
 
-A запрошує B на екоподію в неділю о 10:00. B має заняття до 11:00. Запитайте про час, заняття й потрібні речі; узгодьте інший час або ввічливо відмовте. По 3–4 репліки.
+A запрошує B на шкільну екоподію у Saturday о nine біля school gate; треба принести notebook. B має заняття до ten. Запитайте про план, узгодьте пізнішу участь або ввічливо відмовте; по 3–4 репліки.
 
 Можна взяти 2 хвилини на план і 3 ключові слова. У звичайних умовах говоріть 2–3 хв на пару; партнером може бути вчитель. Письмові репліки доступні як підготовка, але не є завершеним усним контролем.
 
@@ -76,7 +76,7 @@ ________________________________________________________________________
 
 ## W — письмове висловлення
 
-Напиши 5–6 речень із запрошенням на вигадану екоподію: де, коли, два плани, одне правило та причина долучитися.
+Напиши 5–6 речень із запрошенням на вигаданий екозахід у Saturday: де, коли, два плани, одне правило та причина долучитися.
 
 ________________________________________________________________________
 

@@ -10,15 +10,9 @@
 
 3. **B — ones**. Shoes — множина, заміна ones.
 
-4. **A — It is too big.**. У тексті: the first size is too big.
+Вправа 5, можливий тематичний діалог: A: Can I try on the blue T-shirt? B: Yes, here you are. A: How much is it? B: It is ten pounds.
 
-5. **C — Their receipts.**. Останнє речення: keep their receipts.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): A: Can I help you? B: I would like a T-shirt. A: What size? B: Medium, please. This one is too small. A: Are these ones big enough? B: Yes. How much is the blue one? A: Ten pounds. B: I will pay in cash.
-
-Модель додаткового висловлення: A: Can I help you? B: I would like a T-shirt. A: What size? B: Medium, please. This one is too small. A: Are these ones big enough? B: Yes. How much is the blue one? A: Ten pounds. B: I will pay in cash.
-
-Вправа 5, зразок: A: These shoes are too small. B: Could you explain? A: A teenager wants to buy a dress. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: A: Can I help you? B: I would like a T-shirt. A: What size? B: Medium, please. This one is too small. A: Are these ones big enough? B: Yes. How much is the blue one? A: Ten pounds. B: I will pay in cash.
 
 ## Рубрика відкритого продукту
 

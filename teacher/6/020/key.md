@@ -10,15 +10,9 @@
 
 3. **B — well**. Прислівник від good — well.
 
-4. **A — The traffic was slow.**. У тексті згадано повільний дорожній рух.
+Вправа 5, можливий тематичний діалог: A: Could you ride a bike when you were six? B: Yes, I could. A: How does Leo drive? B: He drives carefully.
 
-5. **C — No, it was closed.**. Останнє речення: the restaurant was closed.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): A bus is cheaper than a taxi. A taxi is faster than a bus. Both are comfortable. When I was five, I could ride a bike.
-
-Модель додаткового висловлення: A bus is cheaper than a taxi. A taxi is faster than a bus. Both are comfortable. When I was five, I could ride a bike.
-
-Вправа 5, зразок: A: He could not find the river. B: Could you explain? A: A visitor wanted to find a restaurant near a river. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: A bus is cheap and comfortable. It moves slowly in traffic. A taxi is expensive and fast. When I was five, I could ride a bike.
 
 ## Рубрика відкритого продукту
 

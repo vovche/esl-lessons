@@ -10,15 +10,9 @@
 
 3. **A — Articles are written by reporters.**. Підмет articles отримує дію: are written.
 
-4. **C — Graphic designers.**. У тексті прямо названо graphic designers.
+Вправа 5, можливий тематичний діалог: A: Who writes the articles? B: They are written by students. A: Are the pages checked? B: Yes, they are.
 
-5. **B — It is checked.**. У четвертому реченні названо перевірку.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): First we plan the magazine. Articles are written by students. Photos are taken by our art club. The pages are designed on a computer. We check every page. Then we share the magazine.
-
-Модель додаткового висловлення: First we plan the magazine. Articles are written by students. Photos are taken by our art club. The pages are designed on a computer. We check every page. Then we share the magazine.
-
-Вправа 5, зразок: A: Articles are written by reporters. B: Could you explain? A: First, writers and editors meet and discuss topics. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: First we plan the magazine. Articles are written by students. Photos are taken by our art club. The pages are designed on a computer. We check every page. Then we share the magazine.
 
 ## Рубрика відкритого продукту
 

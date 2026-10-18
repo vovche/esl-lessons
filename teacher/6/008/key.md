@@ -2,7 +2,7 @@
 
 Не долучати цей аркуш до учнівської роздатки.
 
-## Блок 1: Character
+## Блок 1: Clothes and fashion
 
 1. **A — wears**. Usually указує на звичку; she + wears.
 
@@ -14,11 +14,9 @@
 
 5. **C — To cover the drawing.**. Латка закриває невдалий малюнок.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): A girl usually buys her clothes, but today she is changing an old pair of jeans into a skirt. She is drawing a butterfly on a pocket. I usually wear jeans. Today I am making a skirt. I want a blue patch. I like the new design.
+Вправа 5, можливий тематичний діалог: A: What do you usually wear? B: I usually wear jeans. A: What are you wearing today? B: I am wearing a blue shirt.
 
-Модель додаткового висловлення: I usually wear jeans. I often wear trainers. I never wear a hat at school. Today I am wearing a skirt. I am wearing a blue shirt. I am carrying a red bag.
-
-Вправа 5, зразок: A: I usually wear jeans. B: Could you explain? A: A girl usually buys her clothes, but today she is changing an old pair of jeans into a skirt. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: A girl usually buys her clothes, but today she is changing an old pair of jeans into a skirt. She is drawing a butterfly on a pocket. Мій вигаданий варіант: I usually wear jeans. I often wear trainers.
 
 ## Рубрика відкритого продукту
 

@@ -10,15 +10,9 @@
 
 3. **C — the most**. Для довгого прикметника: the most interesting.
 
-4. **B — Eight.**. У першому реченні названо eight planets.
+Вправа 5, можливий тематичний діалог: A: Which planet is the largest in this imaginary group? B: Planet C is the largest. A: Is planet A hotter than B? B: No, it is colder.
 
-5. **A — The biggest.**. Для всієї групи використовується найвищий ступінь.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Fictional data: A — size 3, temperature 10, distance 5; B — size 5, temperature 20, distance 8; C — size 8, temperature 30, distance 12 (arbitrary units). C is the largest. A is the smallest. B is hotter than A. C is the hottest. C is the farthest from our star.
-
-Модель додаткового висловлення: Fictional data: A — size 3, temperature 10, distance 5; B — size 5, temperature 20, distance 8; C — size 8, temperature 30, distance 12 (arbitrary units). C is the largest. A is the smallest. B is hotter than A. C is the hottest. C is the farthest from our star.
-
-Вправа 5, зразок: A: This is the largest planet in the group. B: Could you explain? A: Our solar system contains the sun and eight planets. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Fictional data: A — size 3, temperature 10, distance 5; B — size 5, temperature 20, distance 8; C — size 8, temperature 30, distance 12 (arbitrary units). C is the largest. A is the smallest. B is hotter than A. C is the hottest. C is the farthest from our star.
 
 ## Рубрика відкритого продукту
 

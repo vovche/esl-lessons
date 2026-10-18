@@ -10,11 +10,9 @@
 
 3. **B — Leo.**. Прямий факт у тексті.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Leo has got a sister, Eva. Eva can draw, but she cannot swim. I have got a sister. She can draw. We have breakfast at half past seven. Can you swim?
+Вправа 5, можливий тематичний діалог: A: Have you got a sister? B: Yes, I have. A: Can she draw? B: Yes, she can.
 
-Модель додаткового висловлення: I have got a sister. She can draw. She can sing. We have breakfast at half past seven.
-
-Вправа 5, зразок: A: I have got a sister. B: Could you explain? A: Leo has got a sister, Eva. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: Leo has got a sister, Eva. Eva can draw, but she cannot swim. Мій вигаданий варіант: I have got a sister. Mia can draw.
 
 ## Рубрика відкритого продукту
 

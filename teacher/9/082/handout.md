@@ -1,128 +1,88 @@
-# Роздатка · 9 клас · урок 082 · 2027-03-03
+# Роздатка ·9 клас · урок 082 · 2027-03-03
 
-**Тема:** Science Meets Technology. Наука і технічний прогрес.
+**Тема календарного плану:** Science Meets Technology. Наука і технічний прогрес.
 
-Умовне ім’я/код учня: __________________ Дата фактичної роботи: __________
+Умовне ім’я/код: __________________ Фактична дата: _______________
 
-**Можна:** виконувати на папері, зробити паузу, працювати з вигаданим героєм. Особисті історії й камера не потрібні. Мова завдань не оцінює емоції. Під час переміщення до укриття не виконуй завдань. Читай і пиши лише коли є безпечні умови та достатнє світло.
+Особисті дані й камера не потрібні. Під час переміщення завдання зупиняються. У темряві не читай і не пиши; повернись, коли є безпечні умови. Можна зробити паузу; термін здавання узгоджується за доступністю.
 
-**Швидкий маршрут без мережі (10 хв):** 2 хв — модель і слова; 4 хв — перша секція, вправа 1; 4 хв — два власні речення за моделлю. За ресурсом ще до 5 хв на одну відповідь вправи 2 й питання до вчителя. Решту виконаєш після домовленості.
+## Мінімум B/D: окрема коротка картка
 
-## Секція 1: Наука і технології: Граматика в контексті
+**Опора:** The lesson is over. Please switch the tablet off. Switch off — вимкнути.
 
-**Слова:** invention — винахід; discovery — відкриття; device — пристрій; appliance — побутовий прилад; scientist — науковець; prototype — прототип; charge — заряджати; switch off — вимикати
+The battery has run ___ power. Choose: out of / off
 
-**Опора:** Фразове дієслово — дієслово з часткою. У відокремлюваних формах займенник стоїть між ними: switch it off, turn it on. У sign in, run out of, hack into структура інша.
-**Модель:** Save the file and switch it off. The battery has run out.
+Не потрібно виконувати весь основний пакет.
 
-### 1. Read and find evidence
+My example / field / row: __________________________________________
 
-Dan’s tablet stops working while he is preparing a biography chart about a scientist. Emma suggests checking the battery and restarting the device. Dan saves his work, switches the tablet off and charges it. When it works again, he organises the chart by dates, discoveries and their importance. He checks the information in more than one source.
+__________________________________________________________________
 
-1. За адаптованим текстом: What does Dan do before switching off?
+Одне питання вчителю (можна українською): ___________________________
 
-A) deletes his chart / B) buys a new tablet / C) saves his work
+B:2 хв готовність +4 хв опора +6 хв приклад +3 хв збереження. D:2+3+5 хв, потім необов’язково до 5 хв уточнення. Це тренувальний фрагмент, не повний урок або контроль. Результат можна передати пізніше.
 
-Answer: ______ Evidence from the text: ______________________________
+## Основний маршрут A/C —45 хв
 
-2. За адаптованим текстом: How does he organise the biography chart?
+**Мовний фокус / жанр:** Technology phrasal verbs
 
-A) by prices of devices / B) by dates, discoveries and importance / C) by favourite colours
+**Опора:** Switch off — вимкнути; back up — створити резервну копію; run out of — вичерпати запас. With pronoun: switch it off, не switch off it.
 
-Answer: ______ Evidence from the text: ______________________________
+### Джерело / brief
 
-### 2. Choose a form; explain one choice
+Language lab: all events below are fictional. The time and reporting context in each item are part of the task; keep them when choosing a form.
 
-1. It is not needed now. Switch ... .
+### Цільові пункти
 
-A) off it / B) it of / C) it off
 
-Answer: ______
 
-2. I cannot use my phone: it has run ... battery.
+1. The lesson is over. Please switch the tablet ___.
 
-A) on / B) out of / C) into
+A) up / B) off / C) out
 
-Answer: ______
+Answer: _____ Reason/evidence: __________________________________
 
-3. You need a password to sign ... your account.
+2. To keep a second safe copy, back ___ your files.
 
-A) in to / B) out off / C) up off
+A) up / B) off / C) out
 
-Answer: ______
+Answer: _____ Reason/evidence: __________________________________
 
-One explanation (time, meaning or form): __________________________
+3. The battery has run ___ power.
 
-________________________________________________________________
+A) off / B) up / C) out of
 
-## Окрема ситуація цього уроку: a comparison of two forms
+Answer: _____ Reason/evidence: __________________________________
 
-Jess is working on a comparison of two forms about science and technology. The task is to compare two versions and explain the difference. There are 9 minutes for a first attempt. A partner suggests making the message shorter, but Jess wants to keep one clear reason. They agree to check the meaning before sharing the final version. The work is about a fictional character, so no private details are needed.
 
-A. How much time is available for a first attempt? ___________________
+### Один головний продукт
 
-B. What will the partners check before sharing? _____________________
+Complete the contextual language items. Then write one new two-clause example using the target form and explain its meaning in Ukrainian or English.
 
-C. Complete the actual mini-product (a comparison of two forms) in two lines about science and technology. Include one clear reason. Use the language model above and the strategy from the message.
+Для навчального мінімуму: один потрібний фрагмент і позначка, що ще треба завершити. Для повного A/C — весь зазначений короткий жанр/продукт. Це не вимога написати 120–130 слів за 7 хв.
 
 __________________________________________________________________
 
 __________________________________________________________________
 
-## 3. Create and explain
-
-Write a description of an invented device for a fictional Alex. Use two details from the text(s), give two reasons and add one suggestion. Write 4–6 sentences. You may use the model(s) above. Do not include real addresses, phone numbers or private experiences.
-
-**Start:** In the text, … . Alex could … because … . Another reason is … . I suggest … .
-
-1. ________________________________________________________________
-
-2. ________________________________________________________________
-
-3. ________________________________________________________________
-
-4. ________________________________________________________________
-
-5. ________________________________________________________________
-
-6. ________________________________________________________________
-
-## 4. Interaction
-
-Fictional situation: Alex needs help choosing a next step about science and technology. Ask for one reason, reply and respond politely. Say it if the teacher has arranged an oral channel; otherwise write a dialogue and mark it as written.
-
-A: Why would you choose ________________________________________?
-
-B: I would choose __________________ because ____________________.
-
-A: I see your point. Another option is ____________________________.
-
-Спосіб: усно / письмово. Партнера немає? Напиши обидві ролі як тренування; усну взаємодію перевірять окремо.
-
-## 5. Listening (only with the teacher's audio)
-
-Do not guess if you cannot hear the audio. Write «не перевірено» and arrange another time.
-
-1. On which day does Alex plan the activity? _______________________
-
-2. Where does Alex present the device? ______________________
-
-## 6. Correction / portfolio / homework
-
-Original phrase: __________________________________________________
-
-My corrected phrase and reason: ____________________________________
+__________________________________________________________________
 
 __________________________________________________________________
 
-Second correction (for portfolio): _________________________________
-
-My next language step: ____________________________________________
-
-Add two sentences to your product, if this is homework: ______________
+__________________________________________________________________
 
 __________________________________________________________________
 
-Optional respectful phrase for fictional Alex: ______________________
+__________________________________________________________________
 
-**ДЗ:** одна виправлена відповідь із поясненням і два додані речення, до 10 хв. Термін — наступний доступний контакт за домовленістю. Після короткого маршруту спочатку заверши мінімум.
+__________________________________________________________________
+
+### Після завершення
+
+Мій точний пункт повернення: _______________________________________
+
+Моє мовне питання / одне виправлення: _______________________________
+
+**Резерв, тільки за окремим вибором вчителя:** розширити продукт однією новою деталлю й пояснити її; цей резерв не додається до 45 хв. На інших уроках аудіювання/говоріння не приписуються автоматично, якщо їх не перевіряли.
+
+**ДЗ, до 10 хв:** виправити один цільовий пункт із поясненням або завершити одну потрібну частину чернетки. Не виконувати заново весь пропущений урок. Після B/D спершу зберегти мінімум, решту погодити з учителем. Контроль удома не зараховується без погодженої процедури.

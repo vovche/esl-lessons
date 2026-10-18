@@ -4,13 +4,19 @@
 
 ## Текст учителя для слухання — не друкувати учням
 
-Our film club has made a short comedy. The film was written by Mia and directed by Leo. It was filmed in the school garden. We are showing it on Wednesday at four. Tickets are free. You can bring a friend.
+Our film club has made a short adventure film. The film was written by Anna and directed by Sam. It was filmed in the library. We are showing it on Tuesday at three. Tickets are free. You can bring a friend.
 
 Читати двічі чітко, без зайвих підказок; між читаннями пауза близько 30 секунд. На контрольних не показувати текст на екрані. Після переривання початий стимул не оцінювати автоматично: провести еквівалентну перевірку за погодженим графіком.
 
 ## W: можливий зразок
 
-Garden Friends is a fictional comedy. It was directed by Mia. It is about a boy who helps his neighbours. The story is funny and kind. I liked the costumes. I would recommend it to my classmates.
+A Day in Green Town is a fictional comedy. It was directed by Mia. It is about a girl who organises a music show. The story is kind and funny. I liked the bright colours. I would recommend it to my classmates.
+
+## Резервний варіант — ключ учителя
+
+Видайте recovery-handout.md тільки після визначення окремого слота. Не відкривайте цей ключ учням.
+
+Резерв W: The Lost Notebook is a fictional comedy. It was directed by Mia. It is about a girl who organises a school trip. The story is kind and funny. I liked the bright colours. I would recommend it to my classmates. Допускаються інші відповіді за тими самими критеріями; змістові деталі мають відповідати саме резервному завданню.
 
 ## Рубрика відкритого продукту
 

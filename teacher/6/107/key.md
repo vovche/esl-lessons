@@ -14,11 +14,9 @@
 
 5. **C — It is checked.**. У четвертому реченні названо перевірку.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): First, writers and editors meet and discuss topics. Reporters write articles and interview people. Articles are written by reporters. The magazine is designed on computers. Copies are delivered to shops.
+Вправа 5, можливий тематичний діалог: A: Who writes the articles? B: They are written by students. A: Are the pages checked? B: Yes, they are.
 
-Модель додаткового висловлення: First we plan the magazine. Articles are written by students. Photos are taken by our art club. The pages are designed on a computer. We check every page. Then we share the magazine.
-
-Вправа 5, зразок: A: Articles are written by reporters. B: Could you explain? A: First, writers and editors meet and discuss topics. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: First, writers and editors meet and discuss topics. Reporters write articles and interview people. Мій вигаданий варіант: First we plan the magazine. Articles are written by students.
 
 ## Рубрика відкритого продукту
 

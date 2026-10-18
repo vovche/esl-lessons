@@ -6,37 +6,21 @@
 
 1. **C — seen**. Present Perfect: have + seen.
 
-2. **B — Five.**. У другому реченні названо five questions.
+2. **B — saw**. Last night — завершений час, Past Simple.
 
-3. **A — saw**. Last night — завершений час, Past Simple.
+3. **A — for**. For + тривалість.
 
-4. **C — Last summer.**. У тексті прямо вказано last summer.
+4. **C — too**. Too + прикметник.
 
-5. **B — for**. For + тривалість.
+5. **B — hers**. Hers замінює her notebook; після нього іменник не потрібен.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Two boys are contestants on a game show. A fan has been to several concerts, but one performance was especially exciting. Have you ever watched a talent show? I have seen it twice. She has never won a competition. I have seen this band twice. I saw them last summer. My brother has gone to the concert, so he is not here. I have lived here for two years. We have known each other since school. I will be back at six. These shoes are too small. They are not big enough. I like the white ones. I will take the blue one. I need some advice. I feel worried. What should I do? I think you should explain how you feel.
-
-Модель додаткового висловлення: Have you ever watched a talent show? I have seen it twice. She has never won a competition. I have seen this band twice. I saw them last summer. My brother has gone to the concert, so he is not here. I have lived here for two years. We have known each other since school. I will be back at six. These shoes are too small. They are not big enough. I like the white ones. I will take the blue one. I need some advice. I feel worried. What should I do? I think you should explain how you feel.
-
-Вправа 5, зразок: A: Have you ever watched a talent show? I have seen it twice. B: Could you explain? A: Two boys are contestants on a game show. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: Mia has never appeared on TV. She has seen her favourite band twice and saw them last summer. Мій вигаданий варіант: I have seen it twice. I have seen this band twice.
 
 ## Блок 2: Round-up 8
 
 1. **C — who**. Для людини — who.
 
-2. **B — At a supermarket.**. У другому реченні названо supermarket.
-
-3. **A — So**. Ствердження з am → So am I.
-
-4. **C — The audition could lead to a TV appearance.**. Можливість виступу на TV робить подію важливою.
-
-5. **B — is**. Однина + is + третя форма.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): A local newspaper reports on two teenagers who won prizes. A band is waiting for an audition. This is the girl who won a prize. That is the camera which she bought. He is a helpful person. I am nervous. So am I. I love performing. So do I. I have not been on TV. Neither have I. Articles are written by reporters. The magazine is designed on computers. Copies are delivered to shops. The film was directed by a young director. Two awards were given. Was the scene filmed here? The film was directed by a young artist. It is about a boy who helps his friends. I liked the plot and special effects.
-
-Модель додаткового висловлення: This is the girl who won a prize. That is the camera which she bought. He is a helpful person. I am nervous. So am I. I love performing. So do I. I have not been on TV. Neither have I. Articles are written by reporters. The magazine is designed on computers. Copies are delivered to shops. The film was directed by a young director. Two awards were given. Was the scene filmed here? The film was directed by a young artist. It is about a boy who helps his friends. I liked the plot and special effects.
-
-Вправа 5, зразок: A: This is the girl who won a prize. B: Could you explain? A: A local newspaper reports on two teenagers who won prizes. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+2. **B — So**. Ствердження з am → So am I.
 
 ## Майстерня корекції
 

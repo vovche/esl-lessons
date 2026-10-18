@@ -10,15 +10,9 @@
 
 3. **B — does not**. He + does not + основна форма work.
 
-4. **A — In the theatre.**. У тексті названо theatre.
+Вправа 5, можливий тематичний діалог: A: What time do your classes start? B: At nine. A: What subject do you enjoy? B: I enjoy art.
 
-5. **C — The writer likes learning about animals.**. Причина прямо вказана в останньому реченні.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Our school has a library. There is a music room. We study English and art. Lessons start at nine. We have music on Monday. My favourite subject is art.
-
-Модель додаткового висловлення: Our school has a library. There is a music room. We study English and art. Lessons start at nine. We have music on Monday. My favourite subject is art.
-
-Вправа 5, зразок: A: Our school starts at nine. B: Could you explain? A: Our school has a theatre and a science lab. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Our school has a library. There is a music room. We study English and art. Lessons start at nine. We have music on Monday. My favourite subject is art.
 
 ## Рубрика відкритого продукту
 

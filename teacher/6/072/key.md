@@ -6,19 +6,17 @@
 
 1. **C — is**. She узгоджується з is.
 
-2. **B — A keyboard.**. У тексті старий keyboard не працює.
+2. **B — will**. Прогноз: will + основна форма.
 
-3. **A — will**. Прогноз: will + основна форма.
+3. **A — must not**. Must not виражає заборону.
 
-4. **C — They sometimes fail with a computer.**. Причина — проблеми з комп’ютером.
+4. **C — pollute**. Після if — Present Simple.
 
-5. **B — must not**. Must not виражає заборону.
+5. **B — Would you like to come to our event?**. Would you like…? запрошує.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Two friends want to visit a technology fair at the weekend. A teenager asks for advice about wireless headphones. I am going to buy a keyboard. Are you going to visit the technology fair? We are meeting at ten. I think gadgets will change. I will help you. Will you bring the headphones? We will be leaving at eight. You must check the label. You must not leave rubbish here. You do not have to buy a new bag. We had to clean the room. If we protect the river, animals will have a safer home. If you see rubbish, pick it up. Animals may disappear if we do not help. Would you like to come to our clean-up? We are going to meet at nine. If you can come, write back.
+Вправа 5, можливий тематичний діалог: A: What are you going to do on Saturday? B: I am going to visit a fair. A: When are you meeting Mia? B: I am meeting her at ten.
 
-Модель додаткового висловлення: I am going to buy a keyboard. Are you going to visit the technology fair? We are meeting at ten. I think gadgets will change. I will help you. Will you bring the headphones? We will be leaving at eight. You must check the label. You must not leave rubbish here. You do not have to buy a new bag. We had to clean the room. If we protect the river, animals will have a safer home. If you see rubbish, pick it up. Animals may disappear if we do not help. Would you like to come to our clean-up? We are going to meet at nine. If you can come, write back.
-
-Вправа 5, зразок: A: I am going to buy a keyboard. B: Could you explain? A: Two friends want to visit a technology fair at the weekend. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: Mia is going to visit a technology fair. She is meeting Leo at ten. Мій вигаданий варіант: I am going to buy a keyboard. I think gadgets will change.
 
 ## Рубрика відкритого продукту
 

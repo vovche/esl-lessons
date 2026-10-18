@@ -14,11 +14,9 @@
 
 5. **C — Where the team plays and why you support it.**. Останнє речення дає план опису.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): A sports club can have more than one team. It may include football, basketball and hockey teams. Our team plays in the local league. Last year they won a trophy. Many spectators watched the final.
+Вправа 5, можливий тематичний діалог: A: Where does Green Stars play? B: It plays in Green Town. A: What did the team win last year? B: It won a local cup.
 
-Модель додаткового висловлення: Our fictional team is Green Stars. They play football in Green Town. Last year they won a local cup. I support them because they help each other.
-
-Вправа 5, зразок: A: Our team plays in the local league. B: Could you explain? A: A sports club can have more than one team. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: A sports club can have more than one team. It may include football, basketball and hockey teams. Мій вигаданий варіант: Our fictional team is Green Stars. They play football in Green Town.
 
 ## Рубрика відкритого продукту
 

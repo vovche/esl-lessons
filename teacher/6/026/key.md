@@ -14,29 +14,15 @@
 
 5. **C — Yes.**. Останнє речення пояснює різноманітність звичок.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): The textbook describes food traditions in different countries. It gives borscht as an example of a soup made with beetroot and vegetables. The soup is made with beetroot and vegetables. Many families enjoy home-cooked meals. This dish contains a little butter.
+Вправа 5, можливий тематичний діалог: A: What does the text say? B: The textbook describes food traditions in different countries. A: Can you give another example? B: The soup is made with beetroot and vegetables.
 
-Модель додаткового висловлення: The soup is made with beetroot and vegetables. Many families enjoy home-cooked meals. This dish contains a little butter.
-
-Вправа 5, зразок: A: The soup is made with beetroot and vegetables. B: Could you explain? A: The textbook describes food traditions in different countries. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: The textbook describes food traditions in different countries. It gives borscht as an example of a soup made with beetroot and vegetables. Мій вигаданий варіант: The soup is made with beetroot and vegetables. Many families enjoy home-cooked meals.
 
 ## Блок 2: Me and my board
 
 1. **A — wake**. Every day — звичка у Present Simple.
 
 2. **C — chorus**. Chorus — приспів.
-
-3. **B — explore**. I + основна форма в Present Simple.
-
-4. **A — Skateboarding.**. Це тема назви й переказу.
-
-5. **C — Plays a skateboard game.**. Опис вечора є в передостанньому реченні.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): The song describes a young person who enjoys skateboarding. The day begins early with friends at the skatepark. I wake up early. I go to the skatepark. After school I explore the town on my board.
-
-Модель додаткового висловлення: I wake up early. I go to the skatepark. After school I explore the town on my board.
-
-Вправа 5, зразок: A: I wake up early. B: Could you explain? A: The song describes a young person who enjoys skateboarding. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
 
 ## Рубрика відкритого продукту
 

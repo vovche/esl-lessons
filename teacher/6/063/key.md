@@ -14,11 +14,9 @@
 
 5. **B — A leaflet.**. У тексті згадано leaflet about recycling.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): A boy wants to recycle a bottle. His friend explains that the container is for glass, but his bottle is plastic. You must check the label. You must not leave rubbish here. You do not have to buy a new bag. We had to clean the room.
+Вправа 5, можливий тематичний діалог: A: Do we have to buy new bags? B: No, we do not. A: Must we sort the paper? B: Yes, we must.
 
-Модель додаткового висловлення: We must keep the classroom tidy. We must not drop rubbish. We do not have to buy new folders. Yesterday we had to sort the paper.
-
-Вправа 5, зразок: A: You must check the label. B: Could you explain? A: A boy wants to recycle a bottle. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: A boy wants to recycle a bottle. His friend explains that the container is for glass, but his bottle is plastic. Мій вигаданий варіант: We must keep the classroom tidy. We must not drop rubbish.
 
 ## Рубрика відкритого продукту
 

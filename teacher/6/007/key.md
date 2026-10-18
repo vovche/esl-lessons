@@ -10,15 +10,9 @@
 
 3. **C — is**. Запитання в Present Continuous: What is he doing?
 
-4. **B — Brown.**. У тексті: short brown hair.
+Вправа 5, можливий тематичний діалог: A: What is Mia doing? B: She is reading. A: Is she wearing glasses? B: Yes, she is.
 
-5. **A — Near a tree.**. У тексті вказано near a tree in the park.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): Mia is tall. She has got curly hair. She is wearing a blue jacket. She is reading a book and drawing a map.
-
-Модель додаткового висловлення: Mia is tall. She has got curly hair. She is wearing a blue jacket. She is reading a book and drawing a map.
-
-Вправа 5, зразок: A: She has got long wavy hair. B: Could you explain? A: Two friends are looking for a player in an online game. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Mia has got curly hair. She is wearing a blue jacket. She is reading a book and pointing at a map.
 
 ## Рубрика відкритого продукту
 

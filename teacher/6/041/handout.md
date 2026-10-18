@@ -6,19 +6,15 @@
 
 ## Блок 1: Round-up 3
 
-### 1. Словник і опора
+### 1. Словник
 
-accident — нещасний випадок; ambulance — швидка допомога; disappear — зникати; footprints — сліди; ride — атракціон; queue — черга; surprised — здивований; shocked — шокований
-
-Повтори ключові правила з п’яти уроків. Спочатку виконай завдання без підказок. Потім прочитай пояснення до помилок і повернися до відповідного уроку. Для кожного правила склади власний приклад.
-
-Мовна модель: I was walking at five. They were skateboarding. Was the driver going fast? She was not looking at her phone. While we were walking, we heard a noise. I was looking at the snow when I saw footprints. She was reading while he was drawing. There are some rides. Are there any long queues? There is no food left. Would you like some lemonade? Everyone is afraid. Nobody knows the answer. Is there anything to eat? I can hear something. I was walking home when I lost my keys. Unfortunately, the door was locked. Luckily, a neighbour helped me.
+accident — нещасний випадок; disappear — зникати; ride — атракціон; surprised — здивований; ladder — драбина
 
 ### 2. Прочитай
 
-A boy was skateboarding on the pavement. Two friends were exploring a snowy area when they saw huge footprints. Two boys went on a water ride at a funfair. Two men were travelling through a cold forest with their dogs. A boy ran into his garden, and the door closed behind him.
+Mia was reading when she heard a noise. While Leo was drawing, a cat came into the garden. There were some pencils on the table, but there was no food. Someone opened the gate. It was their teacher. Luckily, the cat went home and everyone felt happy.
 
-### 3. Обери відповідь. Запиши літеру та підкресли доказ / форму в тексті.
+### 3. Обери відповідь. Для мовної форми поясни правило; для факту підкресли його в тексті.
 
 1. At five I ___ home.
 
@@ -26,33 +22,37 @@ A) was walking / B) walk / C) am walking
 
 Відповідь: __________ Доказ / пояснення: __________________________
 
-2. Why did the driver swerve?
+2. While we ___, we heard a noise.
 
-A) She wanted to park. / B) The boy called her. / C) There was a cat in the street.
-
-Відповідь: __________ Доказ / пояснення: __________________________
-
-3. While we ___, we heard a noise.
-
-A) are walking / B) were walking / C) walk
+A) walk / B) are walking / C) were walking
 
 Відповідь: __________ Доказ / пояснення: __________________________
 
-4. What was unusual about the footprints?
+3. Are there ___ tickets left?
 
-A) They were much bigger than human footprints. / B) They were blue. / C) They were inside a bus.
-
-Відповідь: __________ Доказ / пояснення: __________________________
-
-5. Are there ___ tickets left?
-
-A) no / B) a / C) any
+A) a / B) any / C) no
 
 Відповідь: __________ Доказ / пояснення: __________________________
 
-### 4. Мій короткий продукт
+4. ___ knows the answer. We need help.
 
-Використай тему «Round-up 3». Напиши 4 пов’язані речення (або 4 репліки діалогу): два за змістом тексту й два про вигаданого героя / власний варіант. Ужий щонайменше два слова зі словника та одну структуру з опори. Особисті дані не потрібні.
+A) Nobody / B) Anybody / C) Everywhere
+
+Відповідь: __________ Доказ / пояснення: __________________________
+
+5. ___, I lost my keys and could not get inside.
+
+A) Fortunately / B) Politely / C) Unfortunately
+
+Відповідь: __________ Доказ / пояснення: __________________________
+
+Після власної спроби: Повтори п’ять мовних фокусів у вправах 3 №1–5. Спочатку дай власну відповідь; опора відкривається після спроби. Після перевірки обери одну форму для власного прикладу. Це формувальне повторення, не контроль.
+
+Опора після спроби: Leo was carrying a box. While we were walking, we heard a noise. There are some rides. Someone is at the gate. I was walking home when I lost my keys.
+
+### 4. Мій тематичний продукт
+
+За текстом «Round-up 3» запиши два факти (можна короткими реченнями). Окремо під заголовком «Мій вигаданий варіант» напиши ще два тематичні речення. Використай структуру з опори. Це 4 речення разом; не потрібно розкривати особисті дані.
 
 Початок на вибір: It happened… I was… when… Unfortunately… Luckily… In the end…
 
@@ -68,11 +68,11 @@ ________________________________________________________________________
 
 ________________________________________________________________________
 
-Перевірка: □ зміст зрозумілий □ два слова □ структура □ перевірив(ла) одне місце.
+Перевірка: □ виконав зміст завдання □ зрозумілі речення □ перевірив(ла) одну форму.
 
-### 5. Взаємодія за бажанням у класі / онлайн
+### 5. Мініситуація на вибір (якщо лишився час)
 
-Учень A читає одне своє речення про «Round-up 3». Учень B питає “Could you explain?” або “What about you?” A додає ще один факт. Зміна ролей. Можна записати репліки замість говоріння; це письмова взаємодія, не доказ усної.
+Вигадана ситуація «Round-up 3». A починає: “What was Mia doing at five?” B відповідає за темою; A ставить друге запитання / репліку, B реагує. Поміняйте одну деталь і ролі. Можна грати соло й записати обидві ролі. Мовчазна / чат-версія дає письмовий доказ; усний фіксують тільки за реальним говорінням.
 
 A: __________________________ B: __________________________
 
@@ -82,4 +82,4 @@ A: __________________________ B: __________________________
 
 00–02: відкрий блок 1, словник і модель. 02–06: прочитай текст, підкресли 2 факти. 06–10: виконай вправу 3 №1–2. 10–13: напиши 1–2 речення вправи 4. 13–15: постав ? біля труднощів і збережи аркуш. За відсутності ресурсу зупинись раніше; надсилати роботу під час відключення не потрібно. Принеси її за наступної можливості.
 
-ДЗ до 10 хв: допиши / відредагуй до 4 речень вправи 4. Після короткого маршруту — лише два початі пункти й 1–2 речення; без подвійного навантаження.
+ДЗ до 10 хв: відредагуй одне речення / деталь уже початого основного продукту; нового повного твору не потрібно. Після короткого маршруту — лише два початі пункти й 1–2 речення; без подвійного навантаження.

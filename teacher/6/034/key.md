@@ -10,15 +10,9 @@
 
 3. **C — any**. Заперечення: not + any.
 
-4. **B — A sandwich.**. У тексті він їв sandwich.
+Вправа 5, можливий тематичний діалог: A: Are there any rides? B: Yes, there are some. A: Is there any food? B: No, there is no food.
 
-5. **A — No, there were none.**. У тексті: no roller coasters.
-
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): There are some rides in our park. There are no long queues today. There is a small café. We went on a slow ride and saw the whole park. It was fun.
-
-Модель додаткового висловлення: There are some rides in our park. There are no long queues today. There is a small café. We went on a slow ride and saw the whole park. It was fun.
-
-Вправа 5, зразок: A: There are some rides. B: Could you explain? A: Two boys went on a water ride at a funfair. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: There are some rides in our park. There are no long queues today. There is a small café. We went on a slow ride and saw the whole park. It was fun.
 
 ## Рубрика відкритого продукту
 

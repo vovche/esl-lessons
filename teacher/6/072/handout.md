@@ -6,19 +6,15 @@
 
 ## Блок 1: Round-up 5
 
-### 1. Словник і опора
+### 1. Словник
 
-keyboard — клавіатура; screen — екран; wireless — бездротовий; headphones — навушники; recycle — переробляти; reuse — використовувати повторно; habitat — середовище існування; endangered — під загрозою зникнення
-
-Повтори ключові правила з п’яти уроків. Спочатку виконай завдання без підказок. Потім прочитай пояснення до помилок і повернися до відповідного уроку. Для кожного правила склади власний приклад.
-
-Мовна модель: I am going to buy a keyboard. Are you going to visit the technology fair? We are meeting at ten. I think gadgets will change. I will help you. Will you bring the headphones? We will be leaving at eight. You must check the label. You must not leave rubbish here. You do not have to buy a new bag. We had to clean the room. If we protect the river, animals will have a safer home. If you see rubbish, pick it up. Animals may disappear if we do not help. Would you like to come to our clean-up? We are going to meet at nine. If you can come, write back.
+keyboard — клавіатура; wireless — бездротовий; recycle — переробляти; habitat — середовище існування; invite — запрошувати
 
 ### 2. Прочитай
 
-Two friends want to visit a technology fair at the weekend. A teenager asks for advice about wireless headphones. A boy wants to recycle a bottle. Some dolphins are endangered. Our youth club is organising a tree-planting event.
+Mia is going to visit a technology fair. She is meeting Leo at ten. They think future gadgets will use less energy. At school they must sort paper, but they do not have to buy new bags. If they keep the river clean, animals will have a safer home. They invite a friend to a garden event.
 
-### 3. Обери відповідь. Запиши літеру та підкресли доказ / форму в тексті.
+### 3. Обери відповідь. Для мовної форми поясни правило; для факту підкресли його в тексті.
 
 1. She ___ going to visit the fair.
 
@@ -26,33 +22,37 @@ A) are / B) does / C) is
 
 Відповідь: __________ Доказ / пояснення: __________________________
 
-2. What does one friend need?
+2. I think phones ___ change in the future.
 
-A) A bicycle. / B) A keyboard. / C) A suitcase.
-
-Відповідь: __________ Доказ / пояснення: __________________________
-
-3. I think phones ___ change in the future.
-
-A) will / B) are / C) did
+A) did / B) will / C) are
 
 Відповідь: __________ Доказ / пояснення: __________________________
 
-4. Why does one person dislike the cheaper headphones?
+3. A rule forbids dropping rubbish. You ___ drop it.
 
-A) They are too colourful. / B) They are not wireless. / C) They sometimes fail with a computer.
-
-Відповідь: __________ Доказ / пояснення: __________________________
-
-5. A rule forbids dropping rubbish. You ___ drop it.
-
-A) may / B) must not / C) do not have to
+A) must not / B) do not have to / C) may
 
 Відповідь: __________ Доказ / пояснення: __________________________
 
-### 4. Мій короткий продукт
+4. If we ___ the water, animals will suffer.
 
-Використай тему «Round-up 5». Напиши 4 пов’язані речення (або 4 репліки діалогу): два за змістом тексту й два про вигаданого героя / власний варіант. Ужий щонайменше два слова зі словника та одну структуру з опори. Особисті дані не потрібні.
+A) will pollute / B) polluted / C) pollute
+
+Відповідь: __________ Доказ / пояснення: __________________________
+
+5. Choose an invitation.
+
+A) Thank you for inviting me. / B) Would you like to come to our event? / C) I cannot come tomorrow.
+
+Відповідь: __________ Доказ / пояснення: __________________________
+
+Після власної спроби: Повтори п’ять мовних фокусів у вправах 3 №1–5. Спочатку дай власну відповідь; опора відкривається після спроби. Після перевірки обери одну форму для власного прикладу. Це формувальне повторення, не контроль.
+
+Опора після спроби: I am going to buy a keyboard. I think gadgets will change. You must check the label. If we protect the river, animals will have a safer home. Would you like to come to our clean-up? We are going to meet at nine.
+
+### 4. Мій тематичний продукт
+
+За текстом «Round-up 5» запиши два факти (можна короткими реченнями). Окремо під заголовком «Мій вигаданий варіант» напиши ще два тематичні речення. Використай структуру з опори. Це 4 речення разом; не потрібно розкривати особисті дані.
 
 Початок на вибір: Hi… Would you like to…? We are going to… Thanks for… I am sorry, but…
 
@@ -68,11 +68,11 @@ ________________________________________________________________________
 
 ________________________________________________________________________
 
-Перевірка: □ зміст зрозумілий □ два слова □ структура □ перевірив(ла) одне місце.
+Перевірка: □ виконав зміст завдання □ зрозумілі речення □ перевірив(ла) одну форму.
 
-### 5. Взаємодія за бажанням у класі / онлайн
+### 5. Мініситуація на вибір (якщо лишився час)
 
-Учень A читає одне своє речення про «Round-up 5». Учень B питає “Could you explain?” або “What about you?” A додає ще один факт. Зміна ролей. Можна записати репліки замість говоріння; це письмова взаємодія, не доказ усної.
+Вигадана ситуація «Round-up 5». A починає: “What are you going to do on Saturday?” B відповідає за темою; A ставить друге запитання / репліку, B реагує. Поміняйте одну деталь і ролі. Можна грати соло й записати обидві ролі. Мовчазна / чат-версія дає письмовий доказ; усний фіксують тільки за реальним говорінням.
 
 A: __________________________ B: __________________________
 
@@ -82,4 +82,4 @@ A: __________________________ B: __________________________
 
 00–02: відкрий блок 1, словник і модель. 02–06: прочитай текст, підкресли 2 факти. 06–10: виконай вправу 3 №1–2. 10–13: напиши 1–2 речення вправи 4. 13–15: постав ? біля труднощів і збережи аркуш. За відсутності ресурсу зупинись раніше; надсилати роботу під час відключення не потрібно. Принеси її за наступної можливості.
 
-ДЗ до 10 хв: допиши / відредагуй до 4 речень вправи 4. Після короткого маршруту — лише два початі пункти й 1–2 речення; без подвійного навантаження.
+ДЗ до 10 хв: відредагуй одне речення / деталь уже початого основного продукту; нового повного твору не потрібно. Після короткого маршруту — лише два початі пункти й 1–2 речення; без подвійного навантаження.

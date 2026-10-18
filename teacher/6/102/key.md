@@ -4,21 +4,19 @@
 
 ## Блок 1: In the headlines
 
-1. **C — who**. Для людини — who.
+1. **C — заголовок**. headline — заголовок; це перевірка лексики, не нової граматики.
 
-2. **B — which**. Для предмета — which.
+2. **B — стаття**. article — стаття; це перевірка лексики, не нової граматики.
 
-3. **A — Helpful.**. Help + -ful → helpful.
+3. **A — приз**. prize — приз; це перевірка лексики, не нової граматики.
 
-4. **C — At a supermarket.**. У другому реченні названо supermarket.
+Вправа 4, можливий варіант: Можливі слова: headline; article; prize; winner. Припустимі різні підгрупи, якщо пояснення логічне. Репліку можна скопіювати з моделі; це не доказ самостійного володіння новою формою.
 
-5. **B — Share it with a friend.**. У тексті: share the trip with a friend.
+## Блок 2: Performing on stage
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): A local newspaper reports on two teenagers who won prizes. One girl won a trip at a supermarket. This is the girl who won a prize. That is the camera which she bought. He is a helpful person.
+1. **C — заздрісний**. jealous — заздрісний; це перевірка лексики, не нової граматики.
 
-Модель додаткового висловлення: YOUNG ARTIST WINS A PRIZE. Mia is a student who loves painting. She won a prize for a picture which shows a beautiful garden. Her friends congratulated her.
-
-Вправа 5, зразок: A: This is the girl who won a prize. B: Could you explain? A: A local newspaper reports on two teenagers who won prizes. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+2. **B — розчарований**. disappointed — розчарований; це перевірка лексики, не нової граматики.
 
 ## Рубрика відкритого продукту
 

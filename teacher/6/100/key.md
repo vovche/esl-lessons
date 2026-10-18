@@ -8,17 +8,15 @@
 
 2. **A — strings**. Скрипка має струни.
 
-3. **C — touching**. Після by — форма -ing.
+3. **C — bow**. Bow — смичок; пояснено в словнику.
 
 4. **B — By blowing into them.**. Це пояснено в другому реченні.
 
 5. **A — A way of being played.**. У кінці тексту названо спільний спосіб гри.
 
-Вправа 4, можливий варіант (допускаються інші пов’язані речення): An orchestra uses different families of instruments. Wind instruments make sound when a player blows into them. A flute makes sound when we blow into it. A drum is played by striking it. A violin has strings.
+Вправа 5, можливий тематичний діалог: A: What does the text say? B: An orchestra uses different families of instruments. A: Can you give another example? B: A flute makes sound when we blow into it.
 
-Модель додаткового висловлення: A flute makes sound when we blow into it. A drum is played by striking it. A violin has strings.
-
-Вправа 5, зразок: A: A flute makes sound when we blow into it. B: Could you explain? A: An orchestra uses different families of instruments. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+Вправа 4, можливий варіант: Два факти: An orchestra uses different families of instruments. Wind instruments make sound when a player blows into them. Мій вигаданий варіант: A flute makes sound when we blow into it. A drum is played by striking it.
 
 ## Рубрика відкритого продукту
 

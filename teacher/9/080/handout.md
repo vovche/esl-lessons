@@ -1,128 +1,82 @@
-# Роздатка · 9 клас · урок 080 · 2027-02-25
+# Роздатка ·9 клас · урок 080 · 2027-02-25
 
-**Тема:** Science Meets Technology. Наука і технічний прогрес. Винаходи.
+**Тема календарного плану:** Science Meets Technology. Наука і технічний прогрес. Винаходи.
 
-Умовне ім’я/код учня: __________________ Дата фактичної роботи: __________
+Умовне ім’я/код: __________________ Фактична дата: _______________
 
-**Можна:** виконувати на папері, зробити паузу, працювати з вигаданим героєм. Особисті історії й камера не потрібні. Мова завдань не оцінює емоції. Під час переміщення до укриття не виконуй завдань. Читай і пиши лише коли є безпечні умови та достатнє світло.
+Особисті дані й камера не потрібні. Під час переміщення завдання зупиняються. У темряві не читай і не пиши; повернись, коли є безпечні умови. Можна зробити паузу; термін здавання узгоджується за доступністю.
 
-**Швидкий маршрут без мережі (10 хв):** 2 хв — модель і слова; 4 хв — перша секція, вправа 1; 4 хв — два власні речення за моделлю. За ресурсом ще до 5 хв на одну відповідь вправи 2 й питання до вчителя. Решту виконаєш після домовленості.
+## Мінімум B/D: окрема коротка картка
 
-## Секція 1: Наука і технології: Слухання
+**Опора:** A fictional inventor shows a classroom prototype that separates paper from other materials. The first version uses a cardboard tube, but dust sometimes blocks it.
 
-**Слова:** invention — винахід; discovery — відкриття; device — пристрій; appliance — побутовий прилад; scientist — науковець; prototype — прототип; charge — заряджати; switch off — вимикати
+Copy one accurate short fact from this source and add one clearly labelled question. This is reading, not a listening test.
+
+Не потрібно виконувати весь основний пакет.
+
+My example / field / row: __________________________________________
+
+__________________________________________________________________
+
+Одне питання вчителю (можна українською): ___________________________
+
+B:2 хв готовність +4 хв опора +6 хв приклад +3 хв збереження. D:2+3+5 хв, потім необов’язково до 5 хв уточнення. Це тренувальний фрагмент, не повний урок або контроль. Результат можна передати пізніше.
+
+## Основний маршрут A/C —45 хв
+
+**Мовний фокус / жанр:** слухання: головна думка → деталі
 
 **Опора:** Спочатку передбач ситуацію за сторінкою. Послухай для загального змісту, потім повторно для конкретних деталей.
-**Модель:** The device that I use saves time. My tablet, which is on the table, needs charging.
 
-### 1. Read and find evidence
+### Джерело / brief
 
-Dan’s tablet stops working while he is preparing a biography chart about a scientist. Emma suggests checking the battery and restarting the device. Dan saves his work, switches the tablet off and charges it. When it works again, he organises the chart by dates, discoveries and their importance. He checks the information in more than one source.
+[Teacher reads the transcript twice. The transcript is not printed here before the listening task.]
 
-1. За адаптованим текстом: What does Dan do before switching off?
+### Цільові пункти
 
-A) buys a new tablet / B) saves his work / C) deletes his chart
 
-Answer: ______ Evidence from the text: ______________________________
 
-2. За адаптованим текстом: How does he organise the biography chart?
+1. What problem affects the first prototype?
 
-A) by dates, discoveries and importance / B) by favourite colours / C) by prices of devices
+A) Dust sometimes blocks the tube. / B) It has no colour. / C) It is already perfect.
 
-Answer: ______ Evidence from the text: ______________________________
+Answer: _____ Reason/evidence: __________________________________
 
-### 2. Choose a form; explain one choice
+2. What will the inventor test next?
 
-1. The scientist ... invented this device lives here.
+A) A private account password. / B) No change at all. / C) A wider tube.
 
-A) when / B) who / C) where
+Answer: _____ Reason/evidence: __________________________________
 
-Answer: ______
 
-2. My tablet, ... I bought last year, is slow.
+### Один головний продукт
 
-A) which / B) that / C) what
+After listening, answer the two questions and write a two-line response: one accurate detail and one practical next step. Label the suggestion as your own, not as a quoted fact.
 
-Answer: ______
-
-3. The place ... they work is a laboratory.
-
-A) who / B) whose / C) where
-
-Answer: ______
-
-One explanation (time, meaning or form): __________________________
-
-________________________________________________________________
-
-## Окрема ситуація цього уроку: a listening note
-
-Robin is working on a listening note about science and technology. The task is to listen first for the purpose and then for details. There are 7 minutes for a first attempt. A partner suggests making the message shorter, but Robin wants to keep one clear reason. They agree to check the meaning before sharing the final version. The work is about a fictional character, so no private details are needed.
-
-A. How much time is available for a first attempt? ___________________
-
-B. What will the partners check before sharing? _____________________
-
-C. Complete the actual mini-product (a listening note) in two lines about science and technology. Include one clear reason. Use the language model above and the strategy from the message.
+Для навчального мінімуму: один потрібний фрагмент і позначка, що ще треба завершити. Для повного A/C — весь зазначений короткий жанр/продукт. Це не вимога написати 120–130 слів за 7 хв.
 
 __________________________________________________________________
 
 __________________________________________________________________
 
-## 3. Create and explain
-
-Write a description of an invented device for a fictional Alex. Use two details from the text(s), give two reasons and add one suggestion. Write 4–6 sentences. You may use the model(s) above. Do not include real addresses, phone numbers or private experiences.
-
-**Start:** In the text, … . Alex could … because … . Another reason is … . I suggest … .
-
-1. ________________________________________________________________
-
-2. ________________________________________________________________
-
-3. ________________________________________________________________
-
-4. ________________________________________________________________
-
-5. ________________________________________________________________
-
-6. ________________________________________________________________
-
-## 4. Interaction
-
-Fictional situation: Alex needs help choosing a next step about science and technology. Ask for one reason, reply and respond politely. Say it if the teacher has arranged an oral channel; otherwise write a dialogue and mark it as written.
-
-A: Why would you choose ________________________________________?
-
-B: I would choose __________________ because ____________________.
-
-A: I see your point. Another option is ____________________________.
-
-Спосіб: усно / письмово. Партнера немає? Напиши обидві ролі як тренування; усну взаємодію перевірять окремо.
-
-## 5. Listening (only with the teacher's audio)
-
-Do not guess if you cannot hear the audio. Write «не перевірено» and arrange another time.
-
-1. On which day does Alex plan the activity? _______________________
-
-2. Where does Alex present the device? ______________________
-
-## 6. Correction / portfolio / homework
-
-Original phrase: __________________________________________________
-
-My corrected phrase and reason: ____________________________________
+__________________________________________________________________
 
 __________________________________________________________________
 
-Second correction (for portfolio): _________________________________
-
-My next language step: ____________________________________________
-
-Add two sentences to your product, if this is homework: ______________
+__________________________________________________________________
 
 __________________________________________________________________
 
-Optional respectful phrase for fictional Alex: ______________________
+__________________________________________________________________
 
-**ДЗ:** одна виправлена відповідь із поясненням і два додані речення, до 10 хв. Термін — наступний доступний контакт за домовленістю. Після короткого маршруту спочатку заверши мінімум.
+__________________________________________________________________
+
+### Після завершення
+
+Мій точний пункт повернення: _______________________________________
+
+Моє мовне питання / одне виправлення: _______________________________
+
+**Резерв, тільки за окремим вибором вчителя:** розширити продукт однією новою деталлю й пояснити її; цей резерв не додається до 45 хв. На інших уроках аудіювання/говоріння не приписуються автоматично, якщо їх не перевіряли.
+
+**ДЗ, до 10 хв:** виправити один цільовий пункт із поясненням або завершити одну потрібну частину чернетки. Не виконувати заново весь пропущений урок. Після B/D спершу зберегти мінімум, решту погодити з учителем. Контроль удома не зараховується без погодженої процедури.

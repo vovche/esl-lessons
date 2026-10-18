@@ -4,13 +4,19 @@
 
 ## Текст учителя для слухання — не друкувати учням
 
-Leo was reading in the library when Mia arrived. It was half past four. Mia wanted a book about planets. The librarian showed her a blue book. They sat near the window. Leo left at five.
+Anna was reading in the library when Leo arrived. It was nine o’clock. Leo wanted a book about planets. A teacher showed them a blue book. They sat near the window. Anna left at two.
 
 Читати двічі чітко, без зайвих підказок; між читаннями пауза близько 30 секунд. На контрольних не показувати текст на екрані. Після переривання початий стимул не оцінювати автоматично: провести еквівалентну перевірку за погодженим графіком.
 
 ## S: можливий зразок
 
-A: Excuse me, how do I get to the library? B: Go straight on from the school. A: Is it next to the park? B: It is opposite the park, on your right. Is that clear? A: Yes, opposite the park. Thank you. B: You’re welcome.
+A: Excuse me, how do I get to the library? B: Go straight on from the school. Walk past the market. A: Is the library opposite the market? B: Yes, it is. Is that clear? A: Yes. Thank you. B: You’re welcome.
+
+## Резервний варіант — ключ учителя
+
+Видайте recovery-handout.md тільки після визначення окремого слота. Не відкривайте цей ключ учням.
+
+Резерв S: A: Excuse me, how do I get to the library? B: Turn left at the school. Walk past the museum. A: Is the library opposite the museum? B: Yes, it is. Is that clear? A: Yes. Thank you. B: You’re welcome. Допускаються інші відповіді за тими самими критеріями; змістові деталі мають відповідати саме резервному завданню.
 
 ## Рубрика відкритого продукту
 
