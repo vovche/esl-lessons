@@ -1,0 +1,1495 @@
+{
+  "grade": 9,
+  "academic_year": "2026/2027",
+  "source": "source-plan.json",
+  "lessons": [
+    {
+      "number": 1,
+      "date": "2026-09-01",
+      "topic": "Starter. Англійська мова в моєму житті.",
+      "directory": "001",
+      "source_id": "9eng-001",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-starter"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 2,
+      "date": "2026-09-02",
+      "topic": "All About Me. Я, моя сім’я і друзі (індивідуальність людини, формування особистості).",
+      "directory": "002",
+      "source_id": "9eng-002",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u1-blog"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 3,
+      "date": "2026-09-03",
+      "topic": "All About Me. Я, моя сім’я і друзі (індивідуальність людини, формування особистості).",
+      "directory": "003",
+      "source_id": "9eng-003",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u1-blog"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 4,
+      "date": "2026-09-07",
+      "topic": "All About Me. Я, моя сім’я і друзі (риси характеру).",
+      "directory": "004",
+      "source_id": "9eng-004",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u1-vocabulary"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 5,
+      "date": "2026-09-08",
+      "topic": "All About Me. Я, моя сім’я і друзі (індивідуальність людини, формування особистості). · об’єднане заняття",
+      "directory": "005",
+      "source_id": "9eng-005",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u1-reading"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 6,
+      "date": "2026-09-09",
+      "topic": "All About Me. Я, моя сім’я і друзі.",
+      "directory": "006",
+      "source_id": "9eng-006",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u1-grammar"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 7,
+      "date": "2026-09-10",
+      "topic": "All About Me. Я, моя сім’я і друзі (особисті дані).",
+      "directory": "007",
+      "source_id": "9eng-007",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u1-listening"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 8,
+      "date": "2026-09-15",
+      "topic": "All About Me. Я, моя сім’я і друзі (особисті дані).",
+      "directory": "008",
+      "source_id": "9eng-008",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u1-vocabulary-2"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 9,
+      "date": "2026-09-16",
+      "topic": "All About Me. Я, моя сім’я і друзі.",
+      "directory": "009",
+      "source_id": "9eng-009",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u1-grammar-2"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 10,
+      "date": "2026-09-17",
+      "topic": "All About Me. Я, моя сім’я і друзі (особисті дані).",
+      "directory": "010",
+      "source_id": "9eng-010",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u1-speaking"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 11,
+      "date": "2026-09-21",
+      "topic": "All About Me. Я, моя сім’я і друзі (автобіографія).",
+      "directory": "011",
+      "source_id": "9eng-011",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u1-writing"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 12,
+      "date": "2026-09-22",
+      "topic": "All About Me. Я, моя сім’я і друзі.",
+      "directory": "012",
+      "source_id": "9eng-012",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u1-look-back"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 13,
+      "date": "2026-09-23",
+      "topic": "All About Me. Я, моя сім’я і друзі.",
+      "directory": "013",
+      "source_id": "9eng-013",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u1-look-back"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 14,
+      "date": "2026-09-24",
+      "topic": "Recap — юніт 1: повторення, узагальнення й самооцінювання",
+      "directory": "014",
+      "source_id": "9eng-014",
+      "kind": "unit_recap",
+      "section_ids": [
+        "sb-u1-look-back",
+        "sb-u1-self-check"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 15,
+      "date": "2026-09-29",
+      "topic": "Fashion All the Way. Мода і стиль. Елементи одягу.",
+      "directory": "015",
+      "source_id": "9eng-015",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u2-blog"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 16,
+      "date": "2026-09-30",
+      "topic": "Fashion All the Way. Мода і стиль. Елементи одягу.",
+      "directory": "016",
+      "source_id": "9eng-016",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u2-blog"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 17,
+      "date": "2026-10-01",
+      "topic": "Fashion All the Way. Мода і стиль. Елементи одягу.",
+      "directory": "017",
+      "source_id": "9eng-017",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u2-vocabulary"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 18,
+      "date": "2026-10-05",
+      "topic": "Fashion All the Way. Мода і стиль. Елементи одягу.",
+      "directory": "018",
+      "source_id": "9eng-018",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u2-reading"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 19,
+      "date": "2026-10-06",
+      "topic": "Fashion All the Way. Мода і стиль. Елементи одягу.",
+      "directory": "019",
+      "source_id": "9eng-019",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u2-reading"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 20,
+      "date": "2026-10-07",
+      "topic": "Fashion All the Way. Мода і стиль. Елементи одягу.",
+      "directory": "020",
+      "source_id": "9eng-020",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u2-grammar"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 21,
+      "date": "2026-10-08",
+      "topic": "Fashion All the Way. Мода і стиль. Елементи одягу.",
+      "directory": "021",
+      "source_id": "9eng-021",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u2-listening"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 22,
+      "date": "2026-10-13",
+      "topic": "Fashion All the Way. Мода і стиль. Елементи одягу.",
+      "directory": "022",
+      "source_id": "9eng-022",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u2-vocabulary-2"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 23,
+      "date": "2026-10-14",
+      "topic": "Fashion All the Way. Мода і стиль. Елементи одягу.",
+      "directory": "023",
+      "source_id": "9eng-023",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u2-grammar-2"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 24,
+      "date": "2026-10-15",
+      "topic": "Fashion All the Way. Мода і стиль. Елементи одягу.",
+      "directory": "024",
+      "source_id": "9eng-024",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u2-speaking"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 25,
+      "date": "2026-10-19",
+      "topic": "Fashion All the Way. Мода і стиль. Елементи одягу.",
+      "directory": "025",
+      "source_id": "9eng-025",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u2-writing"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 26,
+      "date": "2026-10-20",
+      "topic": "Юніт 2: інтегроване повторення й мовленнєва практика",
+      "directory": "026",
+      "source_id": "9eng-026",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u2-look-back"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 27,
+      "date": "2026-10-21",
+      "topic": "Recap — юніт 2: повторення, узагальнення й самооцінювання",
+      "directory": "027",
+      "source_id": "9eng-027",
+      "kind": "unit_recap",
+      "section_ids": [
+        "sb-u2-look-back",
+        "sb-u2-self-check"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 28,
+      "date": "2026-10-22",
+      "topic": "Діагностична робота за юнітами 1–2: слухання, читання, усна взаємодія та письмо",
+      "directory": "028",
+      "source_id": "9eng-028",
+      "kind": "pair_diagnostic",
+      "section_ids": [
+        "sb-u1-self-check",
+        "sb-u2-self-check"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 29,
+      "date": "2026-11-02",
+      "topic": "We Are Young and Cool! Молодіжна культура. Клуби за інтересами.",
+      "directory": "029",
+      "source_id": "9eng-029",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u3-blog"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 30,
+      "date": "2026-11-03",
+      "topic": "We Are Young and Cool! Молодіжна культура. Клуби за інтересами.",
+      "directory": "030",
+      "source_id": "9eng-030",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u3-blog"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 31,
+      "date": "2026-11-04",
+      "topic": "We Are Young and Cool! Молодіжна культура. Клуби за інтересами.",
+      "directory": "031",
+      "source_id": "9eng-031",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u3-vocabulary"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 32,
+      "date": "2026-11-05",
+      "topic": "We Are Young and Cool! Молодіжна культура. Молодіжні організації.",
+      "directory": "032",
+      "source_id": "9eng-032",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u3-reading"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 33,
+      "date": "2026-11-10",
+      "topic": "We Are Young and Cool! Молодіжна культура. Молодіжні організації.",
+      "directory": "033",
+      "source_id": "9eng-033",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u3-reading"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 34,
+      "date": "2026-11-11",
+      "topic": "We Are Young and Cool! Молодіжна культура.",
+      "directory": "034",
+      "source_id": "9eng-034",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u3-grammar"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 35,
+      "date": "2026-11-12",
+      "topic": "We Are Young and Cool! Молодіжна культура. Клуби за інтересами.",
+      "directory": "035",
+      "source_id": "9eng-035",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u3-listening"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 36,
+      "date": "2026-11-16",
+      "topic": "We Are Young and Cool! Молодіжна культура.",
+      "directory": "036",
+      "source_id": "9eng-036",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u3-vocabulary-2"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 37,
+      "date": "2026-11-17",
+      "topic": "We Are Young and Cool! Молодіжна культура.",
+      "directory": "037",
+      "source_id": "9eng-037",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u3-grammar-2"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 38,
+      "date": "2026-11-18",
+      "topic": "We Are Young and Cool! Молодіжна культура.",
+      "directory": "038",
+      "source_id": "9eng-038",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u3-speaking"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 39,
+      "date": "2026-11-19",
+      "topic": "We Are Young and Cool! Молодіжна культура.",
+      "directory": "039",
+      "source_id": "9eng-039",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u3-writing"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 40,
+      "date": "2026-11-24",
+      "topic": "We Are Young and Cool! Молодіжна культура.",
+      "directory": "040",
+      "source_id": "9eng-040",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u3-look-back"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 41,
+      "date": "2026-11-25",
+      "topic": "We Are Young and Cool! Молодіжна культура.",
+      "directory": "041",
+      "source_id": "9eng-041",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u3-look-back"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 42,
+      "date": "2026-11-26",
+      "topic": "Recap — юніт 3: повторення, узагальнення й самооцінювання",
+      "directory": "042",
+      "source_id": "9eng-042",
+      "kind": "unit_recap",
+      "section_ids": [
+        "sb-u3-look-back",
+        "sb-u3-self-check"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 43,
+      "date": "2026-11-30",
+      "topic": "Media in Our Lives. Засоби масової інформації. Спілкування у мережі “Інтернет”.",
+      "directory": "043",
+      "source_id": "9eng-043",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u4-blog"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 44,
+      "date": "2026-12-01",
+      "topic": "Media in Our Lives. Засоби масової інформації. Спілкування у мережі “Інтернет”.",
+      "directory": "044",
+      "source_id": "9eng-044",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u4-blog"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 45,
+      "date": "2026-12-02",
+      "topic": "Media in Our Lives. Засоби масової інформації. Улюблені телепередачі.",
+      "directory": "045",
+      "source_id": "9eng-045",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u4-vocabulary"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 46,
+      "date": "2026-12-03",
+      "topic": "Media in Our Lives. Засоби масової інформації. Улюблені телепередачі.",
+      "directory": "046",
+      "source_id": "9eng-046",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u4-reading"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 47,
+      "date": "2026-12-08",
+      "topic": "Media in Our Lives. Засоби масової інформації. Улюблені телепередачі.",
+      "directory": "047",
+      "source_id": "9eng-047",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u4-reading"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 48,
+      "date": "2026-12-09",
+      "topic": "Media in Our Lives. Засоби масової інформації.",
+      "directory": "048",
+      "source_id": "9eng-048",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u4-grammar"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 49,
+      "date": "2026-12-10",
+      "topic": "Media in Our Lives. Засоби масової інформації. Мережа “Інтернет”.",
+      "directory": "049",
+      "source_id": "9eng-049",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u4-listening"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 50,
+      "date": "2026-12-14",
+      "topic": "Media in Our Lives. Засоби масової інформації. Мережа “Інтернет”.",
+      "directory": "050",
+      "source_id": "9eng-050",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u4-vocabulary-2"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 51,
+      "date": "2026-12-15",
+      "topic": "Media in Our Lives. Засоби масової інформації.",
+      "directory": "051",
+      "source_id": "9eng-051",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u4-grammar-2"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 52,
+      "date": "2026-12-16",
+      "topic": "Media in Our Lives. Засоби масової інформації. Радіо.",
+      "directory": "052",
+      "source_id": "9eng-052",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u4-speaking"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 53,
+      "date": "2026-12-17",
+      "topic": "Media in Our Lives. Засоби масової інформації.",
+      "directory": "053",
+      "source_id": "9eng-053",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u4-writing"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 54,
+      "date": "2026-12-22",
+      "topic": "Юніт 4: інтегроване повторення й мовленнєва практика",
+      "directory": "054",
+      "source_id": "9eng-054",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u4-look-back"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 55,
+      "date": "2026-12-23",
+      "topic": "Recap — юніт 4: повторення, узагальнення й самооцінювання",
+      "directory": "055",
+      "source_id": "9eng-055",
+      "kind": "unit_recap",
+      "section_ids": [
+        "sb-u4-look-back",
+        "sb-u4-self-check"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 56,
+      "date": "2026-12-24",
+      "topic": "Діагностична робота за юнітами 3–4: слухання, читання, усна взаємодія та письмо",
+      "directory": "056",
+      "source_id": "9eng-056",
+      "kind": "pair_diagnostic",
+      "section_ids": [
+        "sb-u3-self-check",
+        "sb-u4-self-check"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 57,
+      "date": "2026-12-28",
+      "topic": "Семестровий контроль. · об’єднане заняття",
+      "directory": "057",
+      "source_id": "9eng-057",
+      "kind": "semester_assessment",
+      "section_ids": [
+        "sb-u1-self-check",
+        "sb-u2-self-check",
+        "sb-u3-self-check",
+        "sb-u4-self-check"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 58,
+      "date": "2026-12-29",
+      "topic": "Портфоліо: повторення, виправлення помилок і наступні навчальні кроки",
+      "directory": "058",
+      "source_id": "9eng-058",
+      "kind": "portfolio",
+      "section_ids": [
+        "sb-u1-self-check",
+        "sb-u2-self-check",
+        "sb-u3-self-check",
+        "sb-u4-self-check"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 59,
+      "date": "2027-01-14",
+      "topic": "Jobs Around Us. Робота і професія. Вибір професії.",
+      "directory": "059",
+      "source_id": "9eng-059",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u5-blog"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 60,
+      "date": "2027-01-19",
+      "topic": "Jobs Around Us. Робота і професія. Вибір професії.",
+      "directory": "060",
+      "source_id": "9eng-060",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u5-blog"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 61,
+      "date": "2027-01-20",
+      "topic": "Jobs Around Us. Характеристика професій. Професійні якості.",
+      "directory": "061",
+      "source_id": "9eng-061",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u5-vocabulary"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 62,
+      "date": "2027-01-21",
+      "topic": "Jobs Around Us. Робота і професія. Вибір професії. Нахили і здібності.",
+      "directory": "062",
+      "source_id": "9eng-062",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u5-reading"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 63,
+      "date": "2027-01-25",
+      "topic": "Jobs Around Us. Робота і професія. Вибір професії. Нахили і здібності.",
+      "directory": "063",
+      "source_id": "9eng-063",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u5-reading"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 64,
+      "date": "2027-01-26",
+      "topic": "Jobs Around Us. Робота і професія.",
+      "directory": "064",
+      "source_id": "9eng-064",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u5-grammar"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 65,
+      "date": "2027-01-27",
+      "topic": "Jobs Around Us. Робота і професія. Професійні якості.",
+      "directory": "065",
+      "source_id": "9eng-065",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u5-listening"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 66,
+      "date": "2027-01-28",
+      "topic": "Jobs Around Us. Робота і професія. Характеристика професій.",
+      "directory": "066",
+      "source_id": "9eng-066",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u5-vocabulary-2"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 67,
+      "date": "2027-02-02",
+      "topic": "Jobs Around Us. Робота і професія.",
+      "directory": "067",
+      "source_id": "9eng-067",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u5-grammar-2"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 68,
+      "date": "2027-02-03",
+      "topic": "Jobs Around Us. Робота і професія.",
+      "directory": "068",
+      "source_id": "9eng-068",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u5-speaking"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 69,
+      "date": "2027-02-04",
+      "topic": "Jobs Around Us. Робота і професія.",
+      "directory": "069",
+      "source_id": "9eng-069",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u5-writing"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 70,
+      "date": "2027-02-08",
+      "topic": "Jobs Around Us. Робота і професія.",
+      "directory": "070",
+      "source_id": "9eng-070",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u5-look-back"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 71,
+      "date": "2027-02-09",
+      "topic": "Jobs Around Us. Робота і професія.",
+      "directory": "071",
+      "source_id": "9eng-071",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u5-look-back"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 72,
+      "date": "2027-02-10",
+      "topic": "Recap — юніт 5: повторення, узагальнення й самооцінювання",
+      "directory": "072",
+      "source_id": "9eng-072",
+      "kind": "unit_recap",
+      "section_ids": [
+        "sb-u5-look-back",
+        "sb-u5-self-check"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 73,
+      "date": "2027-02-11",
+      "topic": "Science Meets Technology. Наука і технічний прогрес.",
+      "directory": "073",
+      "source_id": "9eng-073",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u6-blog"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 74,
+      "date": "2027-02-16",
+      "topic": "Science Meets Technology. Наука і технічний прогрес.",
+      "directory": "074",
+      "source_id": "9eng-074",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u6-blog"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 75,
+      "date": "2027-02-17",
+      "topic": "Science Meets Technology. Наука і технічний прогрес. Сучасні пристрої в житті і побуті.",
+      "directory": "075",
+      "source_id": "9eng-075",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u6-vocabulary"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 76,
+      "date": "2027-02-18",
+      "topic": "Science Meets Technology. Наука і технічний прогрес. Відомі вчені і винахідники/винахідниці.",
+      "directory": "076",
+      "source_id": "9eng-076",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u6-reading"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 77,
+      "date": "2027-02-22",
+      "topic": "Science Meets Technology. Наука і технічний прогрес.Відомі вчені і винахідники/винахідниці.",
+      "directory": "077",
+      "source_id": "9eng-077",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u6-reading"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 78,
+      "date": "2027-02-23",
+      "topic": "Science Meets Technology. Наука і технічний прогрес.",
+      "directory": "078",
+      "source_id": "9eng-078",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u6-grammar"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 79,
+      "date": "2027-02-24",
+      "topic": "Означальні підрядні речення: точність опису винаходу",
+      "directory": "079",
+      "source_id": "9eng-079",
+      "kind": "grammar_workshop",
+      "section_ids": [
+        "sb-u6-grammar"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 80,
+      "date": "2027-02-25",
+      "topic": "Science Meets Technology. Наука і технічний прогрес. Винаходи.",
+      "directory": "080",
+      "source_id": "9eng-080",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u6-listening"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 81,
+      "date": "2027-03-02",
+      "topic": "Science Meets Technology. Наука і технічний прогрес. Винаходи.",
+      "directory": "081",
+      "source_id": "9eng-081",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u6-vocabulary-2"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 82,
+      "date": "2027-03-03",
+      "topic": "Science Meets Technology. Наука і технічний прогрес.",
+      "directory": "082",
+      "source_id": "9eng-082",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u6-grammar-2"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 83,
+      "date": "2027-03-04",
+      "topic": "Science Meets Technology. Наука і технічний прогрес.",
+      "directory": "083",
+      "source_id": "9eng-083",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u6-speaking"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 84,
+      "date": "2027-03-08",
+      "topic": "Science Meets Technology. Наука і технічний прогрес. Біографія відомого/-ї вченого/ ученої.",
+      "directory": "084",
+      "source_id": "9eng-084",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u6-writing"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 85,
+      "date": "2027-03-09",
+      "topic": "Юніт 6: інтегроване повторення й мовленнєва практика",
+      "directory": "085",
+      "source_id": "9eng-085",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u6-look-back"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 86,
+      "date": "2027-03-10",
+      "topic": "Recap — юніт 6: повторення, узагальнення й самооцінювання",
+      "directory": "086",
+      "source_id": "9eng-086",
+      "kind": "unit_recap",
+      "section_ids": [
+        "sb-u6-look-back",
+        "sb-u6-self-check"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 87,
+      "date": "2027-03-11",
+      "topic": "Діагностична робота за юнітами 5–6: слухання, читання, усна взаємодія та письмо",
+      "directory": "087",
+      "source_id": "9eng-087",
+      "kind": "pair_diagnostic",
+      "section_ids": [
+        "sb-u5-self-check",
+        "sb-u6-self-check"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 88,
+      "date": "2027-03-16",
+      "topic": "Think Green, Live Green. Природа і погода (навколишнє середовище, охорона довкілля).",
+      "directory": "088",
+      "source_id": "9eng-088",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u7-blog"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 89,
+      "date": "2027-03-17",
+      "topic": "Think Green, Live Green. Природа і погода (навколишнє середовище, охорона довкілля).",
+      "directory": "089",
+      "source_id": "9eng-089",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u7-blog"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 90,
+      "date": "2027-03-18",
+      "topic": "Think Green, Live Green. Природа і погода (навколишнє середовище, рослинний і тваринний світ).",
+      "directory": "090",
+      "source_id": "9eng-090",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u7-vocabulary"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 91,
+      "date": "2027-03-30",
+      "topic": "Think Green, Live Green. Природа і погода (навколишнє середовище, охорона довкілля).",
+      "directory": "091",
+      "source_id": "9eng-091",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u7-reading"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 92,
+      "date": "2027-03-31",
+      "topic": "Think Green, Live Green. Природа і погода (навколишнє середовище, охорона довкілля).",
+      "directory": "092",
+      "source_id": "9eng-092",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u7-reading"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 93,
+      "date": "2027-04-01",
+      "topic": "Think Green, Live Green. Природа і погода.",
+      "directory": "093",
+      "source_id": "9eng-093",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u7-grammar"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 94,
+      "date": "2027-04-05",
+      "topic": "Think Green, Live Green. Природа і погода (навколишнє середовище, охорона довкілля).",
+      "directory": "094",
+      "source_id": "9eng-094",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u7-listening"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 95,
+      "date": "2027-04-06",
+      "topic": "Think Green, Live Green. Природа і погода (навколишнє середовище, охорона довкілля).",
+      "directory": "095",
+      "source_id": "9eng-095",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u7-vocabulary-2"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 96,
+      "date": "2027-04-07",
+      "topic": "Think Green, Live Green. Природа і погода.",
+      "directory": "096",
+      "source_id": "9eng-096",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u7-grammar-2"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 97,
+      "date": "2027-04-08",
+      "topic": "Think Green, Live Green. Природа і погода.",
+      "directory": "097",
+      "source_id": "9eng-097",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u7-speaking"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 98,
+      "date": "2027-04-13",
+      "topic": "Think Green, Live Green. Природа і погода (навколишнє середовище, охорона довкілля).",
+      "directory": "098",
+      "source_id": "9eng-098",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u7-writing"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 99,
+      "date": "2027-04-14",
+      "topic": "Think Green, Live Green. Природа і погода.",
+      "directory": "099",
+      "source_id": "9eng-099",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u7-look-back"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 100,
+      "date": "2027-04-15",
+      "topic": "Think Green, Live Green. Природа і погода.",
+      "directory": "100",
+      "source_id": "9eng-100",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u7-look-back"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 101,
+      "date": "2027-04-19",
+      "topic": "Recap — юніт 7: повторення, узагальнення й самооцінювання",
+      "directory": "101",
+      "source_id": "9eng-101",
+      "kind": "unit_recap",
+      "section_ids": [
+        "sb-u7-look-back",
+        "sb-u7-self-check"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 102,
+      "date": "2027-04-20",
+      "topic": "From Ukraine to the UK and Beyond. Англомовні країни. Україна.",
+      "directory": "102",
+      "source_id": "9eng-102",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u8-blog"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 103,
+      "date": "2027-04-21",
+      "topic": "From Ukraine to the UK and Beyond. Англомовні країни. Україна.",
+      "directory": "103",
+      "source_id": "9eng-103",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u8-blog"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 104,
+      "date": "2027-04-22",
+      "topic": "From Ukraine to the UK and Beyond. Англомовні країни. Україна. Визначні місця.",
+      "directory": "104",
+      "source_id": "9eng-104",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u8-vocabulary"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 105,
+      "date": "2027-04-27",
+      "topic": "From Ukraine to the UK and Beyond. Англомовні країни. Визначні місця.",
+      "directory": "105",
+      "source_id": "9eng-105",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u8-reading"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 106,
+      "date": "2027-04-28",
+      "topic": "From Ukraine to the UK and Beyond. Англомовні країни. Визначні місця.",
+      "directory": "106",
+      "source_id": "9eng-106",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u8-reading"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 107,
+      "date": "2027-04-29",
+      "topic": "From Ukraine to the UK and Beyond. Англомовні країни. Україна.",
+      "directory": "107",
+      "source_id": "9eng-107",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u8-grammar"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 108,
+      "date": "2027-05-03",
+      "topic": "From Ukraine to the UK and Beyond. Англомовні країни. Визначні місця.",
+      "directory": "108",
+      "source_id": "9eng-108",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u8-listening"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 109,
+      "date": "2027-05-04",
+      "topic": "From Ukraine to the UK and Beyond. Англомовні країни. Визначні місця.",
+      "directory": "109",
+      "source_id": "9eng-109",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u8-vocabulary-2"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 110,
+      "date": "2027-05-05",
+      "topic": "From Ukraine to the UK and Beyond. Англомовні країни. Україна.",
+      "directory": "110",
+      "source_id": "9eng-110",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u8-grammar-2"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 111,
+      "date": "2027-05-06",
+      "topic": "From Ukraine to the UK and Beyond. Англомовні країни. Україна.",
+      "directory": "111",
+      "source_id": "9eng-111",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u8-speaking"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 112,
+      "date": "2027-05-11",
+      "topic": "From Ukraine to the UK and Beyond. Англомовні країни. Україна.",
+      "directory": "112",
+      "source_id": "9eng-112",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u8-writing"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 113,
+      "date": "2027-05-12",
+      "topic": "Юніт 8: інтегроване повторення й мовленнєва практика",
+      "directory": "113",
+      "source_id": "9eng-113",
+      "kind": "book_lesson",
+      "section_ids": [
+        "sb-u8-look-back"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 114,
+      "date": "2027-05-13",
+      "topic": "Recap — юніт 8: повторення, узагальнення й самооцінювання",
+      "directory": "114",
+      "source_id": "9eng-114",
+      "kind": "unit_recap",
+      "section_ids": [
+        "sb-u8-look-back",
+        "sb-u8-self-check"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 115,
+      "date": "2027-05-17",
+      "topic": "Діагностична робота за юнітами 7–8: слухання, читання, усна взаємодія та письмо",
+      "directory": "115",
+      "source_id": "9eng-115",
+      "kind": "pair_diagnostic",
+      "section_ids": [
+        "sb-u7-self-check",
+        "sb-u8-self-check"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 116,
+      "date": "2027-05-18",
+      "topic": "Семестровий контроль.",
+      "directory": "116",
+      "source_id": "9eng-116",
+      "kind": "semester_assessment",
+      "section_ids": [
+        "sb-u5-self-check",
+        "sb-u6-self-check",
+        "sb-u7-self-check",
+        "sb-u8-self-check"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 117,
+      "date": "2027-05-19",
+      "topic": "Семестровий контроль.",
+      "directory": "117",
+      "source_id": "9eng-117",
+      "kind": "semester_assessment",
+      "section_ids": [
+        "sb-u5-self-check",
+        "sb-u6-self-check",
+        "sb-u7-self-check",
+        "sb-u8-self-check"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 118,
+      "date": "2027-05-20",
+      "topic": "Портфоліо: повторення, виправлення помилок і наступні навчальні кроки",
+      "directory": "118",
+      "source_id": "9eng-118",
+      "kind": "portfolio",
+      "section_ids": [
+        "sb-u5-self-check",
+        "sb-u6-self-check",
+        "sb-u7-self-check",
+        "sb-u8-self-check"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 119,
+      "date": "2027-05-25",
+      "topic": "Портфоліо: повторення, виправлення помилок і наступні навчальні кроки",
+      "directory": "119",
+      "source_id": "9eng-119",
+      "kind": "portfolio",
+      "section_ids": [
+        "sb-u5-self-check",
+        "sb-u6-self-check",
+        "sb-u7-self-check",
+        "sb-u8-self-check"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 120,
+      "date": "2027-05-26",
+      "topic": "Портфоліо: повторення, виправлення помилок і наступні навчальні кроки",
+      "directory": "120",
+      "source_id": "9eng-120",
+      "kind": "portfolio",
+      "section_ids": [
+        "sb-u5-self-check",
+        "sb-u6-self-check",
+        "sb-u7-self-check",
+        "sb-u8-self-check"
+      ],
+      "planned_only": true
+    },
+    {
+      "number": 121,
+      "date": "2027-05-27",
+      "topic": "Портфоліо: повторення, виправлення помилок і наступні навчальні кроки",
+      "directory": "121",
+      "source_id": "9eng-121",
+      "kind": "portfolio",
+      "section_ids": [
+        "sb-u5-self-check",
+        "sb-u6-self-check",
+        "sb-u7-self-check",
+        "sb-u8-self-check"
+      ],
+      "planned_only": true
+    }
+  ]
+}

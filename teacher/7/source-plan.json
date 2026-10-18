@@ -1,0 +1,5749 @@
+{
+  "grade": 7,
+  "academic_year": "2026/2027",
+  "provenance": [
+    {
+      "path": "/home/why/-teach/7-eng/learning-plan-2026-2027/plan.json",
+      "sha256": "7cfb587835609a497b200648f54a91c86f6fde99a23bfdce4ff020a4faae3af1"
+    },
+    {
+      "path": "7/lessons.json",
+      "sha256": "00661c25e5e2854a2dd8dd9e38956073becc131ea384e0ccab73287ec9d41eb4"
+    }
+  ],
+  "notes": [
+    "Дати й теми з календарного плану, не підтвердження фактичного проведення.",
+    "Другий семестр є проєкцією. Авторські завдання не копіюють вправи підручника."
+  ],
+  "lessons": [
+    {
+      "number": 1,
+      "date": "2026-09-01",
+      "semester": 1,
+      "unit": 0,
+      "kind": "book_lesson",
+      "topic": "Повертаємося до навчання · SB 6",
+      "sb_pages": [
+        6
+      ],
+      "section_ids": [
+        "sb-starter"
+      ],
+      "language_inventory": {
+        "lexis": "Study group, to tease, tip.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y запитує і надає інформацію",
+      "expected_learning_evidence": "Повідомляє про власний досвід, висловлює поради. щодо успішного навчання в школі",
+      "source_id": "7eng-001",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-starter",
+          "section": "starter",
+          "title": "Back to school",
+          "title_uk": "Повертаємося до навчання",
+          "sb_pages": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "date": "2026-09-02",
+      "semester": 1,
+      "unit": 1,
+      "kind": "book_lesson",
+      "topic": "Шкільне життя і дозвілля · Блог і обговорення · SB 8",
+      "sb_pages": [
+        8
+      ],
+      "section_ids": [
+        "sb-u1-blog"
+      ],
+      "language_inventory": {
+        "lexis": "Band, editor, lab, passion, theory, extracurricular, to collect, to combine, to fit in.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y надає інформацію стосовно прочитаного тексту",
+      "expected_learning_evidence": "Читає дописи до блогу про позашкільні гуртки, визначає хибність тверджень на основі прочитаного",
+      "source_id": "7eng-002",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u1-blog",
+          "section": "blog",
+          "title": "In and out of school: Блог і обговорення",
+          "title_uk": "Шкільне життя і дозвілля · Блог і обговорення",
+          "sb_pages": [
+            8,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "date": "2026-09-03",
+      "semester": 1,
+      "unit": 1,
+      "kind": "book_lesson",
+      "topic": "Шкільне життя і дозвілля · Блог і обговорення · SB 9",
+      "sb_pages": [
+        9
+      ],
+      "section_ids": [
+        "sb-u1-blog"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "bookworm",
+          "chatterbox",
+          "science geek",
+          "anniversary",
+          "graduation",
+          "extracurricular",
+          "decoration",
+          "presentation"
+        ],
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y висловлює власну думку",
+      "expected_learning_evidence": "Запитує і надає інформацію про хобі і позашкільні гуртки",
+      "source_id": "7eng-003",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u1-blog",
+          "section": "blog",
+          "title": "In and out of school: Блог і обговорення",
+          "title_uk": "Шкільне життя і дозвілля · Блог і обговорення",
+          "sb_pages": [
+            8,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "date": "2026-09-07",
+      "semester": 1,
+      "unit": 1,
+      "kind": "book_lesson",
+      "topic": "Шкільне життя і дозвілля · Лексика · SB 10",
+      "sb_pages": [
+        10
+      ],
+      "section_ids": [
+        "sb-u1-vocabulary"
+      ],
+      "language_inventory": {
+        "lexis": "Bookworm, chatterbox, computer geek, drama queen, dynamo, music addict, science geek.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y висловлює власну думку",
+      "expected_learning_evidence": "Описує позашкільні гуртки в усній формі",
+      "source_id": "7eng-004",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u1-vocabulary",
+          "section": "vocabulary",
+          "title": "In and out of school: Лексика",
+          "title_uk": "Шкільне життя і дозвілля · Лексика",
+          "sb_pages": [
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "date": "2026-09-08",
+      "semester": 1,
+      "unit": 1,
+      "kind": "book_lesson",
+      "topic": "Шкільне життя і дозвілля · Читання · SB 11, 12",
+      "sb_pages": [
+        11,
+        12
+      ],
+      "section_ids": [
+        "sb-u1-reading"
+      ],
+      "language_inventory": {
+        "lexis": "Anniversary, graduate, graduation, importance, knowledge, spirit, to dedicate, to vary, to have smth. in common, to make a speech.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y висловлює власну думку",
+      "expected_learning_evidence": "Читає текст про шкільні свята, відповідає на запитання за змістом прочитаного",
+      "source_id": "7eng-005",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u1-reading",
+          "section": "reading",
+          "title": "In and out of school: Читання",
+          "title_uk": "Шкільне життя і дозвілля · Читання",
+          "sb_pages": [
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "date": "2026-09-09",
+      "semester": 1,
+      "unit": 1,
+      "kind": "book_lesson",
+      "topic": "Шкільне життя і дозвілля · Читання · SB 12, 13",
+      "sb_pages": [
+        12,
+        13
+      ],
+      "section_ids": [
+        "sb-u1-reading"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "bookworm",
+          "chatterbox",
+          "science geek",
+          "anniversary",
+          "graduation",
+          "extracurricular",
+          "decoration",
+          "presentation"
+        ],
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y запитує і надає інформацію",
+      "expected_learning_evidence": "Порівнює власний досвід відзначення свят з досвідом своїх однолітків",
+      "source_id": "7eng-006",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u1-reading",
+          "section": "reading",
+          "title": "In and out of school: Читання",
+          "title_uk": "Шкільне життя і дозвілля · Читання",
+          "sb_pages": [
+            11,
+            12,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "date": "2026-09-10",
+      "semester": 1,
+      "unit": 1,
+      "kind": "book_lesson",
+      "topic": "Шкільне життя і дозвілля · Граматика · SB 14, 15",
+      "sb_pages": [
+        14,
+        15
+      ],
+      "section_ids": [
+        "sb-u1-grammar"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "bookworm",
+          "chatterbox",
+          "science geek",
+          "anniversary",
+          "graduation",
+          "extracurricular",
+          "decoration",
+          "presentation"
+        ],
+        "grammar": "Present Simple vs. Present Continuous",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y виокремлює потрібну інформацію",
+      "expected_learning_evidence": "Розрізняє різні форми теперішнього часу, продукує прості речення",
+      "source_id": "7eng-007",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u1-grammar",
+          "section": "grammar",
+          "title": "In and out of school: Граматика",
+          "title_uk": "Шкільне життя і дозвілля · Граматика",
+          "sb_pages": [
+            14,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "date": "2026-09-14",
+      "semester": 1,
+      "unit": 1,
+      "kind": "book_lesson",
+      "topic": "Шкільне життя і дозвілля · Слухання · SB 16",
+      "sb_pages": [
+        16
+      ],
+      "section_ids": [
+        "sb-u1-listening"
+      ],
+      "language_inventory": {
+        "lexis": "Event, guys, to be stuck in smth, to have smth in mind. I think ... In my opinion ... As for me ...",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y надає інформацію стосовно прослуханого тексту",
+      "expected_learning_evidence": "Запитує і надає інформацію про організацію шкільного свята",
+      "source_id": "7eng-008",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u1-listening",
+          "section": "listening",
+          "title": "In and out of school: Слухання",
+          "title_uk": "Шкільне життя і дозвілля · Слухання",
+          "sb_pages": [
+            16
+          ]
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "date": "2026-09-15",
+      "semester": 1,
+      "unit": 1,
+      "kind": "book_lesson",
+      "topic": "Шкільне життя і дозвілля · Лексика: застосування · SB 17",
+      "sb_pages": [
+        17
+      ],
+      "section_ids": [
+        "sb-u1-vocabulary-2"
+      ],
+      "language_inventory": {
+        "lexis": "To make a decoration (a presentation), to give smb a surprise (a prize, a present), to hold a show (an exhibition, a game, a concert, a competition), to perform a play (a dance, a song).",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y виокремлює потрібну інформацію y висловлює власну думку",
+      "expected_learning_evidence": "Надає інформацію про позашкільні заходи",
+      "source_id": "7eng-009",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u1-vocabulary-2",
+          "section": "vocabulary-2",
+          "title": "In and out of school: Лексика: застосування",
+          "title_uk": "Шкільне життя і дозвілля · Лексика: застосування",
+          "sb_pages": [
+            17
+          ]
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "date": "2026-09-16",
+      "semester": 1,
+      "unit": 1,
+      "kind": "book_lesson",
+      "topic": "Шкільне життя і дозвілля · Граматика: застосування · SB 18, 19",
+      "sb_pages": [
+        18,
+        19
+      ],
+      "section_ids": [
+        "sb-u1-grammar-2"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "bookworm",
+          "chatterbox",
+          "science geek",
+          "anniversary",
+          "graduation",
+          "extracurricular",
+          "decoration",
+          "presentation"
+        ],
+        "grammar": "Wh- questions in the Present Simple and the Present Continuous",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y виокремлює потрібну інформацію y запитує і надає інформацію",
+      "expected_learning_evidence": "Ставить та дає відповіді на запитання про дії, що відбуваються в теперішньому часі",
+      "source_id": "7eng-010",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u1-grammar-2",
+          "section": "grammar-2",
+          "title": "In and out of school: Граматика: застосування",
+          "title_uk": "Шкільне життя і дозвілля · Граматика: застосування",
+          "sb_pages": [
+            18,
+            19
+          ]
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "date": "2026-09-17",
+      "semester": 1,
+      "unit": 1,
+      "kind": "book_lesson",
+      "topic": "Шкільне життя і дозвілля · Говоріння · SB 20, 21",
+      "sb_pages": [
+        20,
+        21
+      ],
+      "section_ids": [
+        "sb-u1-speaking"
+      ],
+      "language_inventory": {
+        "lexis": "Cycling, windsurfing, survey. I believe … I suppose … In my opinion, … .",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y запитує і надає інформацію",
+      "expected_learning_evidence": "Проводить опитування серед однокласників, висловлює своє ставлення до шкільних гуртків і хоббі",
+      "source_id": "7eng-011",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u1-speaking",
+          "section": "speaking",
+          "title": "In and out of school: Говоріння",
+          "title_uk": "Шкільне життя і дозвілля · Говоріння",
+          "sb_pages": [
+            20,
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "date": "2026-09-21",
+      "semester": 1,
+      "unit": 1,
+      "kind": "book_lesson",
+      "topic": "Шкільне життя і дозвілля · Письмо · SB 22",
+      "sb_pages": [
+        22
+      ],
+      "section_ids": [
+        "sb-u1-writing"
+      ],
+      "language_inventory": {
+        "lexis": "Anniversary, gift card, prom, graduation.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y виокремлює потрібну інформацію",
+      "expected_learning_evidence": "Пише коротке повідомлення про шкільне свято, створює допис для сайту школи",
+      "source_id": "7eng-012",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u1-writing",
+          "section": "writing",
+          "title": "In and out of school: Письмо",
+          "title_uk": "Шкільне життя і дозвілля · Письмо",
+          "sb_pages": [
+            22
+          ]
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "date": "2026-09-22",
+      "semester": 1,
+      "unit": 1,
+      "kind": "book_lesson",
+      "topic": "Шкільне життя і дозвілля · Повторення · SB 23",
+      "sb_pages": [
+        23
+      ],
+      "section_ids": [
+        "sb-u1-look-back"
+      ],
+      "language_inventory": {
+        "lexis": "Повторення лексичного матеріалу",
+        "grammar": "Повторення граматичного матеріалу",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y виокремлює потрібну інформацію y висловлює власну думку",
+      "expected_learning_evidence": "Описує хоббі і шкільні гуртки, використовуючи нові слова і граматичні структури",
+      "source_id": "7eng-013",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u1-look-back",
+          "section": "look-back",
+          "title": "In and out of school: Повторення",
+          "title_uk": "Шкільне життя і дозвілля · Повторення",
+          "sb_pages": [
+            23,
+            24,
+            25
+          ]
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "date": "2026-09-23",
+      "semester": 1,
+      "unit": 1,
+      "kind": "book_lesson",
+      "topic": "Шкільне життя і дозвілля · Повторення · SB 24",
+      "sb_pages": [
+        24
+      ],
+      "section_ids": [
+        "sb-u1-look-back"
+      ],
+      "language_inventory": {
+        "lexis": "Повторення лексичного матеріалу",
+        "grammar": "Повторення граматичного матеріалу",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y запитує і надає інформацію",
+      "expected_learning_evidence": "Розповідає про улюблене шкільне свято, ставить та дає відповіді на запитання про шкільні гуртки і хоббі",
+      "source_id": "7eng-014",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u1-look-back",
+          "section": "look-back",
+          "title": "In and out of school: Повторення",
+          "title_uk": "Шкільне життя і дозвілля · Повторення",
+          "sb_pages": [
+            23,
+            24,
+            25
+          ]
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "date": "2026-09-24",
+      "semester": 1,
+      "unit": 1,
+      "kind": "book_lesson",
+      "topic": "Шкільне життя і дозвілля · Повторення · SB 25",
+      "sb_pages": [
+        25
+      ],
+      "section_ids": [
+        "sb-u1-look-back"
+      ],
+      "language_inventory": {
+        "lexis": "Повторення лексичного матеріалу",
+        "grammar": "Повторення граматичного матеріалу",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y виокремлює потрібну інформацію y висловлює власну думку",
+      "expected_learning_evidence": "Презентує груповий проєкт про шкільне свято",
+      "source_id": "7eng-015",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u1-look-back",
+          "section": "look-back",
+          "title": "In and out of school: Повторення",
+          "title_uk": "Шкільне життя і дозвілля · Повторення",
+          "sb_pages": [
+            23,
+            24,
+            25
+          ]
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "date": "2026-09-28",
+      "semester": 1,
+      "unit": 1,
+      "kind": "project_workshop",
+      "topic": "Шкільне життя і дозвілля: проєкт і робота зі зворотним зв’язком",
+      "sb_pages": [
+        22
+      ],
+      "section_ids": [
+        "sb-u1-writing",
+        "sb-u1-speaking"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "bookworm",
+          "chatterbox",
+          "science geek",
+          "anniversary",
+          "graduation",
+          "extracurricular",
+          "decoration",
+          "presentation"
+        ],
+        "grammar": "Спочатку склади план. Дотримуйся формату тексту й поділи думки на логічні частини. Перевір часові форми, порядок слів і пунктуацію.",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "Запитує й надає інформацію; пояснює думку та аргументує вибір.",
+      "expected_learning_evidence": "Завершений текст, коротка усна презентація та виправлена чернетка.",
+      "source_id": "7eng-016",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u1-writing",
+          "section": "writing",
+          "title": "In and out of school: Письмо",
+          "title_uk": "Шкільне життя і дозвілля · Письмо",
+          "sb_pages": [
+            22
+          ]
+        },
+        {
+          "id": "sb-u1-speaking",
+          "section": "speaking",
+          "title": "In and out of school: Говоріння",
+          "title_uk": "Шкільне життя і дозвілля · Говоріння",
+          "sb_pages": [
+            20,
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "date": "2026-09-29",
+      "semester": 1,
+      "unit": 1,
+      "kind": "unit_recap",
+      "topic": "Recap — юніт 1: повторення, узагальнення й самооцінювання",
+      "sb_pages": [
+        26,
+        23,
+        24,
+        25
+      ],
+      "section_ids": [
+        "sb-u1-self-check",
+        "sb-u1-look-back"
+      ],
+      "language_inventory": {
+        "lexis": "Узагальнення лексичного матеріалу",
+        "grammar": "Узагальнення граматичного матеріалу",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y виокремлює потрібну інформацію y висловлює власну думку",
+      "expected_learning_evidence": "Правильне виконання завдань з поясненням і приклад власного застосування.",
+      "source_id": "7eng-017",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u1-self-check",
+          "section": "self-check",
+          "title": "In and out of school: Самоперевірка",
+          "title_uk": "Шкільне життя і дозвілля · Самоперевірка",
+          "sb_pages": [
+            26
+          ]
+        },
+        {
+          "id": "sb-u1-look-back",
+          "section": "look-back",
+          "title": "In and out of school: Повторення",
+          "title_uk": "Шкільне життя і дозвілля · Повторення",
+          "sb_pages": [
+            23,
+            24,
+            25
+          ]
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "date": "2026-09-30",
+      "semester": 1,
+      "unit": 2,
+      "kind": "book_lesson",
+      "topic": "Домашні справи · Блог і обговорення · SB 28",
+      "sb_pages": [
+        28
+      ],
+      "section_ids": [
+        "sb-u2-blog"
+      ],
+      "language_inventory": {
+        "lexis": "Garbage, divorced, to deliver, to earn, to hoover, to iron, to save, to split, to wash up.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y надає інформацію стосовно прослуханого тексту",
+      "expected_learning_evidence": "Обговорює розмову про домашні обов’язки.",
+      "source_id": "7eng-018",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u2-blog",
+          "section": "blog",
+          "title": "Do your chores: Блог і обговорення",
+          "title_uk": "Домашні справи · Блог і обговорення",
+          "sb_pages": [
+            28,
+            29
+          ]
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "date": "2026-10-01",
+      "semester": 1,
+      "unit": 2,
+      "kind": "book_lesson",
+      "topic": "Домашні справи · Блог і обговорення · SB 29",
+      "sb_pages": [
+        29
+      ],
+      "section_ids": [
+        "sb-u2-blog"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "sweep the floor",
+          "wash up",
+          "vacuum cleaner",
+          "iron",
+          "household duty",
+          "dishwasher",
+          "take out the garbage",
+          "share"
+        ],
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y виокремлює потрібну інформацію y висловлює власну думку",
+      "expected_learning_evidence": "Створює власний допис для сайту, відтворює пісню про домашні обов’язки.",
+      "source_id": "7eng-019",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u2-blog",
+          "section": "blog",
+          "title": "Do your chores: Блог і обговорення",
+          "title_uk": "Домашні справи · Блог і обговорення",
+          "sb_pages": [
+            28,
+            29
+          ]
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "date": "2026-10-05",
+      "semester": 1,
+      "unit": 2,
+      "kind": "book_lesson",
+      "topic": "Домашні справи · Лексика · SB 30",
+      "sb_pages": [
+        30
+      ],
+      "section_ids": [
+        "sb-u2-vocabulary"
+      ],
+      "language_inventory": {
+        "lexis": "Do the washing-up, dry the dishes, sweep the floor, walk a dog, take out the garbage, mop the floor, tidy, do the gardening, do the washing, do the hoovering, do the ironing, feed a pet.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y запитує і надає інформацію",
+      "expected_learning_evidence": "Ставить та дає відповіді на запитання про домашні обов’язки..",
+      "source_id": "7eng-020",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u2-vocabulary",
+          "section": "vocabulary",
+          "title": "Do your chores: Лексика",
+          "title_uk": "Домашні справи · Лексика",
+          "sb_pages": [
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "date": "2026-10-06",
+      "semester": 1,
+      "unit": 2,
+      "kind": "book_lesson",
+      "topic": "Домашні справи · Читання · SB 31, 32",
+      "sb_pages": [
+        31,
+        32
+      ],
+      "section_ids": [
+        "sb-u2-reading"
+      ],
+      "language_inventory": {
+        "lexis": "Household duty, DIY, a repair, an improvement, to admit.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y надає інформацію стосовно прочитаного тексту",
+      "expected_learning_evidence": "Обговорює текст про домашні обов’язки.",
+      "source_id": "7eng-021",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u2-reading",
+          "section": "reading",
+          "title": "Do your chores: Читання",
+          "title_uk": "Домашні справи · Читання",
+          "sb_pages": [
+            31,
+            32,
+            33
+          ]
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "date": "2026-10-07",
+      "semester": 1,
+      "unit": 2,
+      "kind": "book_lesson",
+      "topic": "Домашні справи · Читання · SB 33",
+      "sb_pages": [
+        33
+      ],
+      "section_ids": [
+        "sb-u2-reading"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "sweep the floor",
+          "wash up",
+          "vacuum cleaner",
+          "iron",
+          "household duty",
+          "dishwasher",
+          "take out the garbage",
+          "share"
+        ],
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y надає інформацію стосовно прочитаного тексту y висловлює власну думку",
+      "expected_learning_evidence": "Запитує і надає інформацію про домашні обов’язки..",
+      "source_id": "7eng-022",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u2-reading",
+          "section": "reading",
+          "title": "Do your chores: Читання",
+          "title_uk": "Домашні справи · Читання",
+          "sb_pages": [
+            31,
+            32,
+            33
+          ]
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "date": "2026-10-08",
+      "semester": 1,
+      "unit": 2,
+      "kind": "book_lesson",
+      "topic": "Домашні справи · Граматика · SB 34, 35",
+      "sb_pages": [
+        34,
+        35
+      ],
+      "section_ids": [
+        "sb-u2-grammar"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "sweep the floor",
+          "wash up",
+          "vacuum cleaner",
+          "iron",
+          "household duty",
+          "dishwasher",
+          "take out the garbage",
+          "share"
+        ],
+        "grammar": "The Past Simple",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y виокремлює потрібну інформацію",
+      "expected_learning_evidence": "Розповідає і запитуєпро дії, що відбувались в минулому.",
+      "source_id": "7eng-023",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u2-grammar",
+          "section": "grammar",
+          "title": "Do your chores: Граматика",
+          "title_uk": "Домашні справи · Граматика",
+          "sb_pages": [
+            34,
+            35
+          ]
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "date": "2026-10-12",
+      "semester": 1,
+      "unit": 2,
+      "kind": "book_lesson",
+      "topic": "Домашні справи · Слухання · SB 36",
+      "sb_pages": [
+        36
+      ],
+      "section_ids": [
+        "sb-u2-listening"
+      ],
+      "language_inventory": {
+        "lexis": "A dishwasher, to fight, to have in common, to get on with somebody.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y надає інформацію стосовно прослуханого тексту",
+      "expected_learning_evidence": "Обговорює текст із описом домашніх обов’язків членів родини, порівнює прослухану інформацію з власним досвідом.",
+      "source_id": "7eng-024",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u2-listening",
+          "section": "listening",
+          "title": "Do your chores: Слухання",
+          "title_uk": "Домашні справи · Слухання",
+          "sb_pages": [
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "date": "2026-10-13",
+      "semester": 1,
+      "unit": 2,
+      "kind": "book_lesson",
+      "topic": "Домашні справи · Лексика: застосування · SB 37",
+      "sb_pages": [
+        37
+      ],
+      "section_ids": [
+        "sb-u2-vocabulary-2"
+      ],
+      "language_inventory": {
+        "lexis": "Appliance, improvement, oven, electrical, to switch on/off, to turn on/off.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y виокремлює потрібну інформацію",
+      "expected_learning_evidence": "Називає і описує роботу побутових електроприладів.",
+      "source_id": "7eng-025",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u2-vocabulary-2",
+          "section": "vocabulary-2",
+          "title": "Do your chores: Лексика: застосування",
+          "title_uk": "Домашні справи · Лексика: застосування",
+          "sb_pages": [
+            37
+          ]
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "date": "2026-10-14",
+      "semester": 1,
+      "unit": 2,
+      "kind": "book_lesson",
+      "topic": "Домашні справи · Граматика: застосування · SB 38",
+      "sb_pages": [
+        38
+      ],
+      "section_ids": [
+        "sb-u2-grammar-2"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "sweep the floor",
+          "wash up",
+          "vacuum cleaner",
+          "iron",
+          "household duty",
+          "dishwasher",
+          "take out the garbage",
+          "share"
+        ],
+        "grammar": "The Past Continuous (question forms)",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y виокремлює потрібну інформацію",
+      "expected_learning_evidence": "Запитує і розповідає про тривалі дії в минулому часі.",
+      "source_id": "7eng-026",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u2-grammar-2",
+          "section": "grammar-2",
+          "title": "Do your chores: Граматика: застосування",
+          "title_uk": "Домашні справи · Граматика: застосування",
+          "sb_pages": [
+            38
+          ]
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "date": "2026-10-15",
+      "semester": 1,
+      "unit": 2,
+      "kind": "book_lesson",
+      "topic": "Домашні справи · Говоріння · SB 39",
+      "sb_pages": [
+        39
+      ],
+      "section_ids": [
+        "sb-u2-speaking"
+      ],
+      "language_inventory": {
+        "lexis": "To share the chores.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y запитує і надає інформацію",
+      "expected_learning_evidence": "Надає інформацію про людей і їх хатні обов’язки на основі прочитаного, запитує і обмінюється думками щодо підготовки до свята.",
+      "source_id": "7eng-027",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u2-speaking",
+          "section": "speaking",
+          "title": "Do your chores: Говоріння",
+          "title_uk": "Домашні справи · Говоріння",
+          "sb_pages": [
+            39
+          ]
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "date": "2026-10-19",
+      "semester": 1,
+      "unit": 2,
+      "kind": "book_lesson",
+      "topic": "Домашні справи · Письмо · SB 40",
+      "sb_pages": [
+        40
+      ],
+      "section_ids": [
+        "sb-u2-writing"
+      ],
+      "language_inventory": {
+        "lexis": "Lazy bone.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y висловлює власну думку",
+      "expected_learning_evidence": "Пише коротку історію і електронне повідомлення, створює допис про хатні обов’язки.",
+      "source_id": "7eng-028",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u2-writing",
+          "section": "writing",
+          "title": "Do your chores: Письмо",
+          "title_uk": "Домашні справи · Письмо",
+          "sb_pages": [
+            40
+          ]
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "date": "2026-10-20",
+      "semester": 1,
+      "unit": 2,
+      "kind": "book_lesson",
+      "topic": "Домашні справи · Повторення · SB 41, 42",
+      "sb_pages": [
+        41,
+        42
+      ],
+      "section_ids": [
+        "sb-u2-look-back"
+      ],
+      "language_inventory": {
+        "lexis": "Повторення лексичного матеріалу",
+        "grammar": "Повторення граматичного матеріалу",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y висловлює власну думку",
+      "expected_learning_evidence": "Відповідає на питання про хатні обов’язки.",
+      "source_id": "7eng-029",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u2-look-back",
+          "section": "look-back",
+          "title": "Do your chores: Повторення",
+          "title_uk": "Домашні справи · Повторення",
+          "sb_pages": [
+            41,
+            42,
+            43
+          ]
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "date": "2026-10-21",
+      "semester": 1,
+      "unit": 2,
+      "kind": "book_lesson",
+      "topic": "Домашні справи · Повторення · SB 42, 43",
+      "sb_pages": [
+        42,
+        43
+      ],
+      "section_ids": [
+        "sb-u2-look-back"
+      ],
+      "language_inventory": {
+        "lexis": "Повторення лексичного матеріалу",
+        "grammar": "Повторення граматичного матеріалу",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y висловлює власну думку",
+      "expected_learning_evidence": "Обмінюється думками щодо хатніх обов’язків, презентує проєкт про домашнього роботапомічника.",
+      "source_id": "7eng-030",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u2-look-back",
+          "section": "look-back",
+          "title": "Do your chores: Повторення",
+          "title_uk": "Домашні справи · Повторення",
+          "sb_pages": [
+            41,
+            42,
+            43
+          ]
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "date": "2026-10-22",
+      "semester": 1,
+      "unit": 2,
+      "kind": "unit_recap",
+      "topic": "Recap — юніт 2: повторення, узагальнення й самооцінювання",
+      "sb_pages": [
+        44,
+        41,
+        42,
+        43
+      ],
+      "section_ids": [
+        "sb-u2-self-check",
+        "sb-u2-look-back"
+      ],
+      "language_inventory": {
+        "lexis": "Узагальнення лексичного матеріалу",
+        "grammar": "Узагальнення граматичного матеріалу",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "Запитує й надає інформацію; пояснює думку та аргументує вибір.",
+      "expected_learning_evidence": "Правильне виконання завдань з поясненням і приклад власного застосування.",
+      "source_id": "7eng-031",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u2-self-check",
+          "section": "self-check",
+          "title": "Do your chores: Самоперевірка",
+          "title_uk": "Домашні справи · Самоперевірка",
+          "sb_pages": [
+            44
+          ]
+        },
+        {
+          "id": "sb-u2-look-back",
+          "section": "look-back",
+          "title": "Do your chores: Повторення",
+          "title_uk": "Домашні справи · Повторення",
+          "sb_pages": [
+            41,
+            42,
+            43
+          ]
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "date": "2026-11-02",
+      "semester": 1,
+      "unit": 2,
+      "kind": "pair_diagnostic",
+      "topic": "Діагностична робота за юнітами 1–2: слухання, читання, усна взаємодія та письмо",
+      "sb_pages": [],
+      "section_ids": [],
+      "language_inventory": {
+        "lexis": [
+          "sweep the floor",
+          "wash up",
+          "vacuum cleaner",
+          "iron",
+          "household duty",
+          "dishwasher",
+          "take out the garbage",
+          "share"
+        ],
+        "grammar": "Спочатку склади план. Дотримуйся формату тексту й поділи думки на логічні частини. Перевір часові форми, порядок слів і пунктуацію.",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "Запитує й надає інформацію; пояснює думку та аргументує вибір.",
+      "expected_learning_evidence": "Виконання комунікативних завдань за матеріалом двох юнітів; карта сильних сторін і труднощів.",
+      "source_id": "7eng-032",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": []
+    },
+    {
+      "number": 33,
+      "date": "2026-11-03",
+      "semester": 1,
+      "unit": 3,
+      "kind": "book_lesson",
+      "topic": "Приготування їжі · Блог і обговорення · SB 46, 47",
+      "sb_pages": [
+        46,
+        47
+      ],
+      "section_ids": [
+        "sb-u3-blog"
+      ],
+      "language_inventory": {
+        "lexis": "Bangladesh, chopstick, device, respect, utensil, to consider, to expect, to serve, item of technology.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y надає інформацію",
+      "expected_learning_evidence": "Надає інформацію про правила поведінки за столом на основі прочитаного.",
+      "source_id": "7eng-033",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u3-blog",
+          "section": "blog",
+          "title": "Are you ready to cook?: Блог і обговорення",
+          "title_uk": "Приготування їжі · Блог і обговорення",
+          "sb_pages": [
+            46,
+            47,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "date": "2026-11-04",
+      "semester": 1,
+      "unit": 3,
+      "kind": "book_lesson",
+      "topic": "Приготування їжі · Блог і обговорення · SB 47, 48",
+      "sb_pages": [
+        47,
+        48
+      ],
+      "section_ids": [
+        "sb-u3-blog"
+      ],
+      "language_inventory": {
+        "lexis": "Norms, behaviour, fancy dinner.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y висловлює власну думку",
+      "expected_learning_evidence": "Обмінюється думками щодо правил поведінки за столом, презентує інформацію про правила етикету.",
+      "source_id": "7eng-034",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u3-blog",
+          "section": "blog",
+          "title": "Are you ready to cook?: Блог і обговорення",
+          "title_uk": "Приготування їжі · Блог і обговорення",
+          "sb_pages": [
+            46,
+            47,
+            48
+          ]
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "date": "2026-11-05",
+      "semester": 1,
+      "unit": 3,
+      "kind": "book_lesson",
+      "topic": "Приготування їжі · Лексика · SB 49",
+      "sb_pages": [
+        49
+      ],
+      "section_ids": [
+        "sb-u3-vocabulary"
+      ],
+      "language_inventory": {
+        "lexis": "Electrical/non-electrical appliance, apron, chopping board, frying pan, grater, kettle, ladle, oven, saucepan, teapot, whisk, bowl.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y висловлює власну думку",
+      "expected_learning_evidence": "Називає і описує призначення кухонного приладдя.",
+      "source_id": "7eng-035",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u3-vocabulary",
+          "section": "vocabulary",
+          "title": "Are you ready to cook?: Лексика",
+          "title_uk": "Приготування їжі · Лексика",
+          "sb_pages": [
+            49
+          ]
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "date": "2026-11-09",
+      "semester": 1,
+      "unit": 3,
+      "kind": "book_lesson",
+      "topic": "Приготування їжі · Читання · SB 50, 51",
+      "sb_pages": [
+        50,
+        51
+      ],
+      "section_ids": [
+        "sb-u3-reading"
+      ],
+      "language_inventory": {
+        "lexis": "Canvas, material, to carve, to hire, to promote, to wonder.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y надає інформацію стосовно прочитаного тексту",
+      "expected_learning_evidence": "Надає інформацію про приготування їжі на основі прочитаного.",
+      "source_id": "7eng-036",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u3-reading",
+          "section": "reading",
+          "title": "Are you ready to cook?: Читання",
+          "title_uk": "Приготування їжі · Читання",
+          "sb_pages": [
+            50,
+            51
+          ]
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "date": "2026-11-10",
+      "semester": 1,
+      "unit": 3,
+      "kind": "book_lesson",
+      "topic": "Приготування їжі · Читання · SB 51",
+      "sb_pages": [
+        51
+      ],
+      "section_ids": [
+        "sb-u3-reading"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "chopping board",
+          "grater",
+          "ladle",
+          "frying pan",
+          "stir",
+          "boil",
+          "slice",
+          "ingredients"
+        ],
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y висловлює власну думку",
+      "expected_learning_evidence": "Обговоріює професіюфуд-артиста..",
+      "source_id": "7eng-037",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u3-reading",
+          "section": "reading",
+          "title": "Are you ready to cook?: Читання",
+          "title_uk": "Приготування їжі · Читання",
+          "sb_pages": [
+            50,
+            51
+          ]
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "date": "2026-11-11",
+      "semester": 1,
+      "unit": 3,
+      "kind": "book_lesson",
+      "topic": "Приготування їжі · Граматика · SB 52",
+      "sb_pages": [
+        52
+      ],
+      "section_ids": [
+        "sb-u3-grammar"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "chopping board",
+          "grater",
+          "ladle",
+          "frying pan",
+          "stir",
+          "boil",
+          "slice",
+          "ingredients"
+        ],
+        "grammar": "The Present Perfect Tense.",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y виокремлює потрібну інформацію",
+      "expected_learning_evidence": "Продукує прості речення з описом подій, які відбулись у недавньому минулому.",
+      "source_id": "7eng-038",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u3-grammar",
+          "section": "grammar",
+          "title": "Are you ready to cook?: Граматика",
+          "title_uk": "Приготування їжі · Граматика",
+          "sb_pages": [
+            52
+          ]
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "date": "2026-11-12",
+      "semester": 1,
+      "unit": 3,
+      "kind": "book_lesson",
+      "topic": "Приготування їжі · Слухання · SB 53, 54",
+      "sb_pages": [
+        53,
+        54
+      ],
+      "section_ids": [
+        "sb-u3-listening"
+      ],
+      "language_inventory": {
+        "lexis": "Dill, vinegar, mixture, salmon fillet, sprigs of fresh oregano, to fry, to grill, to squeeze to cool down, to pour.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y виокремлює потрібну інформацію",
+      "expected_learning_evidence": "Сприймає на слух текст з описом рецепту приготування страви.",
+      "source_id": "7eng-039",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u3-listening",
+          "section": "listening",
+          "title": "Are you ready to cook?: Слухання",
+          "title_uk": "Приготування їжі · Слухання",
+          "sb_pages": [
+            53,
+            54
+          ]
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "date": "2026-11-16",
+      "semester": 1,
+      "unit": 3,
+      "kind": "book_lesson",
+      "topic": "Приготування їжі · Лексика: застосування · SB 55",
+      "sb_pages": [
+        55
+      ],
+      "section_ids": [
+        "sb-u3-vocabulary-2"
+      ],
+      "language_inventory": {
+        "lexis": "To add, to blend, to bake to boil, to chop, to roast.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y виокремлює потрібну інформацію",
+      "expected_learning_evidence": "Описує улюблену страву і розповідає, як її приготувати.",
+      "source_id": "7eng-040",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u3-vocabulary-2",
+          "section": "vocabulary-2",
+          "title": "Are you ready to cook?: Лексика: застосування",
+          "title_uk": "Приготування їжі · Лексика: застосування",
+          "sb_pages": [
+            55
+          ]
+        }
+      ]
+    },
+    {
+      "number": 41,
+      "date": "2026-11-17",
+      "semester": 1,
+      "unit": 3,
+      "kind": "book_lesson",
+      "topic": "Приготування їжі · Граматика: застосування · SB 56",
+      "sb_pages": [
+        56
+      ],
+      "section_ids": [
+        "sb-u3-grammar-2"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "chopping board",
+          "grater",
+          "ladle",
+          "frying pan",
+          "stir",
+          "boil",
+          "slice",
+          "ingredients"
+        ],
+        "grammar": "The Present Perfect Tense (whquestions)",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y запитує і надає інформацію",
+      "expected_learning_evidence": "Обговорює дії, які відбулись у недавньому минулому.",
+      "source_id": "7eng-041",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u3-grammar-2",
+          "section": "grammar-2",
+          "title": "Are you ready to cook?: Граматика: застосування",
+          "title_uk": "Приготування їжі · Граматика: застосування",
+          "sb_pages": [
+            56
+          ]
+        }
+      ]
+    },
+    {
+      "number": 42,
+      "date": "2026-11-18",
+      "semester": 1,
+      "unit": 3,
+      "kind": "book_lesson",
+      "topic": "Приготування їжі · Говоріння · SB 57",
+      "sb_pages": [
+        57
+      ],
+      "section_ids": [
+        "sb-u3-speaking"
+      ],
+      "language_inventory": {
+        "lexis": "Kitchen gadget.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y запитує і надає інформацію",
+      "expected_learning_evidence": "Описує роботу кухонного приладдя, бере участь у розмові про приготування їжі.",
+      "source_id": "7eng-042",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u3-speaking",
+          "section": "speaking",
+          "title": "Are you ready to cook?: Говоріння",
+          "title_uk": "Приготування їжі · Говоріння",
+          "sb_pages": [
+            57
+          ]
+        }
+      ]
+    },
+    {
+      "number": 43,
+      "date": "2026-11-19",
+      "semester": 1,
+      "unit": 3,
+      "kind": "book_lesson",
+      "topic": "Приготування їжі · Письмо · SB 58",
+      "sb_pages": [
+        58
+      ],
+      "section_ids": [
+        "sb-u3-writing"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "chopping board",
+          "grater",
+          "ladle",
+          "frying pan",
+          "stir",
+          "boil",
+          "slice",
+          "ingredients"
+        ],
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y висловлює власну думку",
+      "expected_learning_evidence": "Описує улюблені страви в письмовій формі.",
+      "source_id": "7eng-043",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u3-writing",
+          "section": "writing",
+          "title": "Are you ready to cook?: Письмо",
+          "title_uk": "Приготування їжі · Письмо",
+          "sb_pages": [
+            58
+          ]
+        }
+      ]
+    },
+    {
+      "number": 44,
+      "date": "2026-11-23",
+      "semester": 1,
+      "unit": 3,
+      "kind": "book_lesson",
+      "topic": "Приготування їжі · Повторення · SB 59, 60",
+      "sb_pages": [
+        59,
+        60
+      ],
+      "section_ids": [
+        "sb-u3-look-back"
+      ],
+      "language_inventory": {
+        "lexis": "Повторення лексичного матеріалу",
+        "grammar": "Повторення граматичного матеріалу",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y виокремлює потрібну інформацію",
+      "expected_learning_evidence": "Продукує прості речення з описом подій, які відбулись у недавньому минулому, запитує і надає інформацію про продукти харчування і кухонне приладдя.",
+      "source_id": "7eng-044",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u3-look-back",
+          "section": "look-back",
+          "title": "Are you ready to cook?: Повторення",
+          "title_uk": "Приготування їжі · Повторення",
+          "sb_pages": [
+            59,
+            60,
+            61
+          ]
+        }
+      ]
+    },
+    {
+      "number": 45,
+      "date": "2026-11-24",
+      "semester": 1,
+      "unit": 3,
+      "kind": "book_lesson",
+      "topic": "Приготування їжі · Повторення · SB 60, 61",
+      "sb_pages": [
+        60,
+        61
+      ],
+      "section_ids": [
+        "sb-u3-look-back"
+      ],
+      "language_inventory": {
+        "lexis": "Повторення лексичного матеріалу",
+        "grammar": "Повторення граматичного матеріалу",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y висловлює власну думку",
+      "expected_learning_evidence": "Виконує і презентує груповий проєкт про цікаву страву і спосіб її приготування.",
+      "source_id": "7eng-045",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u3-look-back",
+          "section": "look-back",
+          "title": "Are you ready to cook?: Повторення",
+          "title_uk": "Приготування їжі · Повторення",
+          "sb_pages": [
+            59,
+            60,
+            61
+          ]
+        }
+      ]
+    },
+    {
+      "number": 46,
+      "date": "2026-11-25",
+      "semester": 1,
+      "unit": 3,
+      "kind": "project_workshop",
+      "topic": "Приготування їжі: проєкт і робота зі зворотним зв’язком",
+      "sb_pages": [
+        58
+      ],
+      "section_ids": [
+        "sb-u3-writing",
+        "sb-u3-speaking"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "chopping board",
+          "grater",
+          "ladle",
+          "frying pan",
+          "stir",
+          "boil",
+          "slice",
+          "ingredients"
+        ],
+        "grammar": "Спочатку склади план. Дотримуйся формату тексту й поділи думки на логічні частини. Перевір часові форми, порядок слів і пунктуацію.",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "Запитує й надає інформацію; пояснює думку та аргументує вибір.",
+      "expected_learning_evidence": "Завершений текст, коротка усна презентація та виправлена чернетка.",
+      "source_id": "7eng-046",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u3-writing",
+          "section": "writing",
+          "title": "Are you ready to cook?: Письмо",
+          "title_uk": "Приготування їжі · Письмо",
+          "sb_pages": [
+            58
+          ]
+        },
+        {
+          "id": "sb-u3-speaking",
+          "section": "speaking",
+          "title": "Are you ready to cook?: Говоріння",
+          "title_uk": "Приготування їжі · Говоріння",
+          "sb_pages": [
+            57
+          ]
+        }
+      ]
+    },
+    {
+      "number": 47,
+      "date": "2026-11-26",
+      "semester": 1,
+      "unit": 3,
+      "kind": "unit_recap",
+      "topic": "Recap — юніт 3: повторення, узагальнення й самооцінювання",
+      "sb_pages": [
+        62,
+        59,
+        60,
+        61
+      ],
+      "section_ids": [
+        "sb-u3-self-check",
+        "sb-u3-look-back"
+      ],
+      "language_inventory": {
+        "lexis": "Узагальнення лексичного матеріалу",
+        "grammar": "Узагальнення граматичного матеріалу",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "Запитує й надає інформацію; пояснює думку та аргументує вибір.",
+      "expected_learning_evidence": "Правильне виконання завдань з поясненням і приклад власного застосування.",
+      "source_id": "7eng-047",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u3-self-check",
+          "section": "self-check",
+          "title": "Are you ready to cook?: Самоперевірка",
+          "title_uk": "Приготування їжі · Самоперевірка",
+          "sb_pages": [
+            62
+          ]
+        },
+        {
+          "id": "sb-u3-look-back",
+          "section": "look-back",
+          "title": "Are you ready to cook?: Повторення",
+          "title_uk": "Приготування їжі · Повторення",
+          "sb_pages": [
+            59,
+            60,
+            61
+          ]
+        }
+      ]
+    },
+    {
+      "number": 48,
+      "date": "2026-11-30",
+      "semester": 1,
+      "unit": 4,
+      "kind": "book_lesson",
+      "topic": "Свята і традиції · Блог і обговорення · SB 64",
+      "sb_pages": [
+        64
+      ],
+      "section_ids": [
+        "sb-u4-blog"
+      ],
+      "language_inventory": {
+        "lexis": "Bethlehem,eve, goodness, mass, pattern, common, to belong, to define, to link, to receive, to relate to.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y надає інформацію стосовно прослуханого тексту",
+      "expected_learning_evidence": "Читає дописи однолітків про свята в різних країнах.",
+      "source_id": "7eng-048",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u4-blog",
+          "section": "blog",
+          "title": "Traditions... Traditions...: Блог і обговорення",
+          "title_uk": "Свята і традиції · Блог і обговорення",
+          "sb_pages": [
+            64,
+            65
+          ]
+        }
+      ]
+    },
+    {
+      "number": 49,
+      "date": "2026-12-01",
+      "semester": 1,
+      "unit": 4,
+      "kind": "book_lesson",
+      "topic": "Свята і традиції · Блог і обговорення · SB 65",
+      "sb_pages": [
+        65
+      ],
+      "section_ids": [
+        "sb-u4-blog"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "custom",
+          "celebrate",
+          "Eve",
+          "midnight",
+          "candle",
+          "receive",
+          "greet",
+          "tradition"
+        ],
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y висловлює власну думку",
+      "expected_learning_evidence": "Пише про традиції відзначення свят в Україні.",
+      "source_id": "7eng-049",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u4-blog",
+          "section": "blog",
+          "title": "Traditions... Traditions...: Блог і обговорення",
+          "title_uk": "Свята і традиції · Блог і обговорення",
+          "sb_pages": [
+            64,
+            65
+          ]
+        }
+      ]
+    },
+    {
+      "number": 50,
+      "date": "2026-12-02",
+      "semester": 1,
+      "unit": 4,
+      "kind": "book_lesson",
+      "topic": "Свята і традиції · Лексика · SB 66",
+      "sb_pages": [
+        66
+      ],
+      "section_ids": [
+        "sb-u4-vocabulary"
+      ],
+      "language_inventory": {
+        "lexis": "Good Friday, Boxing Day, New Year’s Eve.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y надає інформацію",
+      "expected_learning_evidence": "Називає різні свята і вказує дати їх святкування.",
+      "source_id": "7eng-050",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u4-vocabulary",
+          "section": "vocabulary",
+          "title": "Traditions... Traditions...: Лексика",
+          "title_uk": "Свята і традиції · Лексика",
+          "sb_pages": [
+            66
+          ]
+        }
+      ]
+    },
+    {
+      "number": 51,
+      "date": "2026-12-03",
+      "semester": 1,
+      "unit": 4,
+      "kind": "book_lesson",
+      "topic": "Свята і традиції · Читання · SB 67, 68",
+      "sb_pages": [
+        67,
+        68
+      ],
+      "section_ids": [
+        "sb-u4-reading"
+      ],
+      "language_inventory": {
+        "lexis": "Сoal, Colombia, Denmark, midnight, to represent, to smash, according to.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y виокремлює потрібну інформацію",
+      "expected_learning_evidence": "Обговорює текст про традиції святкування Нового року в різних країнах.",
+      "source_id": "7eng-051",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u4-reading",
+          "section": "reading",
+          "title": "Traditions... Traditions...: Читання",
+          "title_uk": "Свята і традиції · Читання",
+          "sb_pages": [
+            67,
+            68
+          ]
+        }
+      ]
+    },
+    {
+      "number": 52,
+      "date": "2026-12-07",
+      "semester": 1,
+      "unit": 4,
+      "kind": "book_lesson",
+      "topic": "Свята і традиції · Граматика · SB 69",
+      "sb_pages": [
+        69
+      ],
+      "section_ids": [
+        "sb-u4-grammar"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "custom",
+          "celebrate",
+          "Eve",
+          "midnight",
+          "candle",
+          "receive",
+          "greet",
+          "tradition"
+        ],
+        "grammar": "Active and Passive Voice.",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y виокремлює потрібну інформацію",
+      "expected_learning_evidence": "Розрізняє активний і пасивний стани дієслова, використовує пасивний стан для дій в теперішньому часі.",
+      "source_id": "7eng-052",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u4-grammar",
+          "section": "grammar",
+          "title": "Traditions... Traditions...: Граматика",
+          "title_uk": "Свята і традиції · Граматика",
+          "sb_pages": [
+            69
+          ]
+        }
+      ]
+    },
+    {
+      "number": 53,
+      "date": "2026-12-08",
+      "semester": 1,
+      "unit": 4,
+      "kind": "book_lesson",
+      "topic": "Свята і традиції · Слухання · SB 70",
+      "sb_pages": [
+        70
+      ],
+      "section_ids": [
+        "sb-u4-listening"
+      ],
+      "language_inventory": {
+        "lexis": "Auld Lang Syne, cracker fireplace, Hogmanay stroke, evergreen, local, shiny, to fill, to provide.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y виокремлює потрібну інформацію",
+      "expected_learning_evidence": "Сприймає на слух текст з описом різдвяних і новорічних традицій.",
+      "source_id": "7eng-053",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u4-listening",
+          "section": "listening",
+          "title": "Traditions... Traditions...: Слухання",
+          "title_uk": "Свята і традиції · Слухання",
+          "sb_pages": [
+            70
+          ]
+        }
+      ]
+    },
+    {
+      "number": 54,
+      "date": "2026-12-09",
+      "semester": 1,
+      "unit": 4,
+      "kind": "book_lesson",
+      "topic": "Свята і традиції · Лексика: застосування · SB 71",
+      "sb_pages": [
+        71
+      ],
+      "section_ids": [
+        "sb-u4-vocabulary-2"
+      ],
+      "language_inventory": {
+        "lexis": "Defining, paraphrasing.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y запитує і надає інформацію",
+      "expected_learning_evidence": "Розв’язує різдвяний кросворд, створює святковий кросворд.",
+      "source_id": "7eng-054",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u4-vocabulary-2",
+          "section": "vocabulary-2",
+          "title": "Traditions... Traditions...: Лексика: застосування",
+          "title_uk": "Свята і традиції · Лексика: застосування",
+          "sb_pages": [
+            71
+          ]
+        }
+      ]
+    },
+    {
+      "number": 55,
+      "date": "2026-12-10",
+      "semester": 1,
+      "unit": 4,
+      "kind": "book_lesson",
+      "topic": "Свята і традиції · Граматика: застосування · SB 72",
+      "sb_pages": [
+        72
+      ],
+      "section_ids": [
+        "sb-u4-grammar-2"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "custom",
+          "celebrate",
+          "Eve",
+          "midnight",
+          "candle",
+          "receive",
+          "greet",
+          "tradition"
+        ],
+        "grammar": "Present Simple Passive (Whquestions)",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y запитує і надає інформацію",
+      "expected_learning_evidence": "Запитує і відповідає на запитання, використовуючи пасивний стан дієслова.",
+      "source_id": "7eng-055",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u4-grammar-2",
+          "section": "grammar-2",
+          "title": "Traditions... Traditions...: Граматика: застосування",
+          "title_uk": "Свята і традиції · Граматика: застосування",
+          "sb_pages": [
+            72
+          ]
+        }
+      ]
+    },
+    {
+      "number": 56,
+      "date": "2026-12-14",
+      "semester": 1,
+      "unit": 4,
+      "kind": "book_lesson",
+      "topic": "Свята і традиції · Говоріння · SB 73",
+      "sb_pages": [
+        73
+      ],
+      "section_ids": [
+        "sb-u4-speaking"
+      ],
+      "language_inventory": {
+        "lexis": "Blessing, cranberry, century, gravy, settler, dreadful, to survive.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y висловлює власну думку",
+      "expected_learning_evidence": "Обговорює текст про День Подяки, розповідає про родинне свято.",
+      "source_id": "7eng-056",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u4-speaking",
+          "section": "speaking",
+          "title": "Traditions... Traditions...: Говоріння",
+          "title_uk": "Свята і традиції · Говоріння",
+          "sb_pages": [
+            73
+          ]
+        }
+      ]
+    },
+    {
+      "number": 57,
+      "date": "2026-12-15",
+      "semester": 1,
+      "unit": 4,
+      "kind": "book_lesson",
+      "topic": "Свята і традиції · Письмо · SB 74",
+      "sb_pages": [
+        74
+      ],
+      "section_ids": [
+        "sb-u4-writing"
+      ],
+      "language_inventory": {
+        "lexis": "Lent, to give up something.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y виокремлює потрібну інформацію",
+      "expected_learning_evidence": "Пише електронний лист про Великдень і описує святкову традицію.",
+      "source_id": "7eng-057",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u4-writing",
+          "section": "writing",
+          "title": "Traditions... Traditions...: Письмо",
+          "title_uk": "Свята і традиції · Письмо",
+          "sb_pages": [
+            74
+          ]
+        }
+      ]
+    },
+    {
+      "number": 58,
+      "date": "2026-12-16",
+      "semester": 1,
+      "unit": 4,
+      "kind": "book_lesson",
+      "topic": "Свята і традиції · Повторення · SB 75, 76",
+      "sb_pages": [
+        75,
+        76
+      ],
+      "section_ids": [
+        "sb-u4-look-back"
+      ],
+      "language_inventory": {
+        "lexis": "Повторення лексичного матеріалу",
+        "grammar": "Повторення граматичного матеріалу",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y виокремлює потрібну інформацію",
+      "expected_learning_evidence": "Розповідає про свята, використовуючи пасивний стан дієслова.",
+      "source_id": "7eng-058",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u4-look-back",
+          "section": "look-back",
+          "title": "Traditions... Traditions...: Повторення",
+          "title_uk": "Свята і традиції · Повторення",
+          "sb_pages": [
+            75,
+            76,
+            77
+          ]
+        }
+      ]
+    },
+    {
+      "number": 59,
+      "date": "2026-12-17",
+      "semester": 1,
+      "unit": 4,
+      "kind": "book_lesson",
+      "topic": "Свята і традиції · Повторення · SB 76, 77",
+      "sb_pages": [
+        76,
+        77
+      ],
+      "section_ids": [
+        "sb-u4-look-back"
+      ],
+      "language_inventory": {
+        "lexis": "Повторення лексичного матеріалу",
+        "grammar": "Повторення граматичного матеріалу",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y висловлює власну думку",
+      "expected_learning_evidence": "Порівнює традиції святкування в різних країнах, описує свято своєї мрії..",
+      "source_id": "7eng-059",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u4-look-back",
+          "section": "look-back",
+          "title": "Traditions... Traditions...: Повторення",
+          "title_uk": "Свята і традиції · Повторення",
+          "sb_pages": [
+            75,
+            76,
+            77
+          ]
+        }
+      ]
+    },
+    {
+      "number": 60,
+      "date": "2026-12-21",
+      "semester": 1,
+      "unit": 4,
+      "kind": "unit_recap",
+      "topic": "Recap — юніт 4: повторення, узагальнення й самооцінювання",
+      "sb_pages": [
+        78,
+        75,
+        76,
+        77
+      ],
+      "section_ids": [
+        "sb-u4-self-check",
+        "sb-u4-look-back"
+      ],
+      "language_inventory": {
+        "lexis": "Узагальнення лексичного матеріалу",
+        "grammar": "Узагальнення граматичного матеріалу",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "Запитує й надає інформацію; пояснює думку та аргументує вибір.",
+      "expected_learning_evidence": "Правильне виконання завдань з поясненням і приклад власного застосування.",
+      "source_id": "7eng-060",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u4-self-check",
+          "section": "self-check",
+          "title": "Traditions... Traditions...: Самоперевірка",
+          "title_uk": "Свята і традиції · Самоперевірка",
+          "sb_pages": [
+            78
+          ]
+        },
+        {
+          "id": "sb-u4-look-back",
+          "section": "look-back",
+          "title": "Traditions... Traditions...: Повторення",
+          "title_uk": "Свята і традиції · Повторення",
+          "sb_pages": [
+            75,
+            76,
+            77
+          ]
+        }
+      ]
+    },
+    {
+      "number": 61,
+      "date": "2026-12-22",
+      "semester": 1,
+      "unit": 4,
+      "kind": "pair_diagnostic",
+      "topic": "Діагностична робота за юнітами 3–4: слухання, читання, усна взаємодія та письмо",
+      "sb_pages": [],
+      "section_ids": [],
+      "language_inventory": {
+        "lexis": [
+          "custom",
+          "celebrate",
+          "Eve",
+          "midnight",
+          "candle",
+          "receive",
+          "greet",
+          "tradition"
+        ],
+        "grammar": "Спочатку склади план. Дотримуйся формату тексту й поділи думки на логічні частини. Перевір часові форми, порядок слів і пунктуацію.",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "Запитує й надає інформацію; пояснює думку та аргументує вибір.",
+      "expected_learning_evidence": "Виконання комунікативних завдань за матеріалом двох юнітів; карта сильних сторін і труднощів.",
+      "source_id": "7eng-061",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": []
+    },
+    {
+      "number": 62,
+      "date": "2026-12-23",
+      "semester": 1,
+      "unit": 0,
+      "kind": "semester_assessment",
+      "topic": "Семестрова перевірка: слухання і читання",
+      "sb_pages": [
+        26,
+        44,
+        62,
+        78
+      ],
+      "section_ids": [
+        "sb-u1-self-check",
+        "sb-u2-self-check",
+        "sb-u3-self-check",
+        "sb-u4-self-check"
+      ],
+      "language_inventory": {
+        "lexis": "Узагальнення лексичного матеріалу",
+        "grammar": "Узагальнення граматичного матеріалу",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "Запитує й надає інформацію; пояснює думку та аргументує вибір.",
+      "expected_learning_evidence": "Правильне виконання завдань з поясненням і приклад власного застосування.",
+      "source_id": "7eng-062",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u1-self-check",
+          "section": "self-check",
+          "title": "In and out of school: Самоперевірка",
+          "title_uk": "Шкільне життя і дозвілля · Самоперевірка",
+          "sb_pages": [
+            26
+          ]
+        },
+        {
+          "id": "sb-u2-self-check",
+          "section": "self-check",
+          "title": "Do your chores: Самоперевірка",
+          "title_uk": "Домашні справи · Самоперевірка",
+          "sb_pages": [
+            44
+          ]
+        },
+        {
+          "id": "sb-u3-self-check",
+          "section": "self-check",
+          "title": "Are you ready to cook?: Самоперевірка",
+          "title_uk": "Приготування їжі · Самоперевірка",
+          "sb_pages": [
+            62
+          ]
+        },
+        {
+          "id": "sb-u4-self-check",
+          "section": "self-check",
+          "title": "Traditions... Traditions...: Самоперевірка",
+          "title_uk": "Свята і традиції · Самоперевірка",
+          "sb_pages": [
+            78
+          ]
+        }
+      ]
+    },
+    {
+      "number": 63,
+      "date": "2026-12-24",
+      "semester": 1,
+      "unit": 0,
+      "kind": "semester_assessment",
+      "topic": "Семестрова перевірка: говоріння і письмо",
+      "sb_pages": [
+        26,
+        44,
+        62,
+        78
+      ],
+      "section_ids": [
+        "sb-u1-self-check",
+        "sb-u2-self-check",
+        "sb-u3-self-check",
+        "sb-u4-self-check"
+      ],
+      "language_inventory": {
+        "lexis": "Узагальнення лексичного матеріалу",
+        "grammar": "Узагальнення граматичного матеріалу",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "Запитує й надає інформацію; пояснює думку та аргументує вибір.",
+      "expected_learning_evidence": "Правильне виконання завдань з поясненням і приклад власного застосування.",
+      "source_id": "7eng-063",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u1-self-check",
+          "section": "self-check",
+          "title": "In and out of school: Самоперевірка",
+          "title_uk": "Шкільне життя і дозвілля · Самоперевірка",
+          "sb_pages": [
+            26
+          ]
+        },
+        {
+          "id": "sb-u2-self-check",
+          "section": "self-check",
+          "title": "Do your chores: Самоперевірка",
+          "title_uk": "Домашні справи · Самоперевірка",
+          "sb_pages": [
+            44
+          ]
+        },
+        {
+          "id": "sb-u3-self-check",
+          "section": "self-check",
+          "title": "Are you ready to cook?: Самоперевірка",
+          "title_uk": "Приготування їжі · Самоперевірка",
+          "sb_pages": [
+            62
+          ]
+        },
+        {
+          "id": "sb-u4-self-check",
+          "section": "self-check",
+          "title": "Traditions... Traditions...: Самоперевірка",
+          "title_uk": "Свята і традиції · Самоперевірка",
+          "sb_pages": [
+            78
+          ]
+        }
+      ]
+    },
+    {
+      "number": 64,
+      "date": "2026-12-28",
+      "semester": 1,
+      "unit": 0,
+      "kind": "portfolio",
+      "topic": "Портфоліо: аналіз поступу й виправлення помилок",
+      "sb_pages": [
+        26,
+        44,
+        62,
+        78
+      ],
+      "section_ids": [
+        "sb-u1-self-check",
+        "sb-u2-self-check",
+        "sb-u3-self-check",
+        "sb-u4-self-check"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "bookworm",
+          "chatterbox",
+          "science geek",
+          "anniversary",
+          "graduation",
+          "extracurricular",
+          "decoration",
+          "presentation"
+        ],
+        "grammar": "Present Simple: звички й розклад; Present Continuous: дії зараз або домовленості. У wh-запитанні спочатку питальне слово, далі допоміжне дієслово. Після ствердження хвостик заперечний і навпаки.",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "Запитує й надає інформацію; пояснює думку та аргументує вибір.",
+      "expected_learning_evidence": "Правильне виконання завдань з поясненням і приклад власного застосування.",
+      "source_id": "7eng-064",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u1-self-check",
+          "section": "self-check",
+          "title": "In and out of school: Самоперевірка",
+          "title_uk": "Шкільне життя і дозвілля · Самоперевірка",
+          "sb_pages": [
+            26
+          ]
+        },
+        {
+          "id": "sb-u2-self-check",
+          "section": "self-check",
+          "title": "Do your chores: Самоперевірка",
+          "title_uk": "Домашні справи · Самоперевірка",
+          "sb_pages": [
+            44
+          ]
+        },
+        {
+          "id": "sb-u3-self-check",
+          "section": "self-check",
+          "title": "Are you ready to cook?: Самоперевірка",
+          "title_uk": "Приготування їжі · Самоперевірка",
+          "sb_pages": [
+            62
+          ]
+        },
+        {
+          "id": "sb-u4-self-check",
+          "section": "self-check",
+          "title": "Traditions... Traditions...: Самоперевірка",
+          "title_uk": "Свята і традиції · Самоперевірка",
+          "sb_pages": [
+            78
+          ]
+        }
+      ]
+    },
+    {
+      "number": 65,
+      "date": "2026-12-29",
+      "semester": 1,
+      "unit": 0,
+      "kind": "portfolio",
+      "topic": "Підсумок І семестру: портфоліо й план власного навчання",
+      "sb_pages": [
+        26,
+        44,
+        62,
+        78
+      ],
+      "section_ids": [
+        "sb-u1-self-check",
+        "sb-u2-self-check",
+        "sb-u3-self-check",
+        "sb-u4-self-check"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "bookworm",
+          "chatterbox",
+          "science geek",
+          "anniversary",
+          "graduation",
+          "extracurricular",
+          "decoration",
+          "presentation"
+        ],
+        "grammar": "Present Simple: звички й розклад; Present Continuous: дії зараз або домовленості. У wh-запитанні спочатку питальне слово, далі допоміжне дієслово. Після ствердження хвостик заперечний і навпаки.",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "Запитує й надає інформацію; пояснює думку та аргументує вибір.",
+      "expected_learning_evidence": "Правильне виконання завдань з поясненням і приклад власного застосування.",
+      "source_id": "7eng-065",
+      "calendar_status": "дата вихідного плану",
+      "catalog_sections": [
+        {
+          "id": "sb-u1-self-check",
+          "section": "self-check",
+          "title": "In and out of school: Самоперевірка",
+          "title_uk": "Шкільне життя і дозвілля · Самоперевірка",
+          "sb_pages": [
+            26
+          ]
+        },
+        {
+          "id": "sb-u2-self-check",
+          "section": "self-check",
+          "title": "Do your chores: Самоперевірка",
+          "title_uk": "Домашні справи · Самоперевірка",
+          "sb_pages": [
+            44
+          ]
+        },
+        {
+          "id": "sb-u3-self-check",
+          "section": "self-check",
+          "title": "Are you ready to cook?: Самоперевірка",
+          "title_uk": "Приготування їжі · Самоперевірка",
+          "sb_pages": [
+            62
+          ]
+        },
+        {
+          "id": "sb-u4-self-check",
+          "section": "self-check",
+          "title": "Traditions... Traditions...: Самоперевірка",
+          "title_uk": "Свята і традиції · Самоперевірка",
+          "sb_pages": [
+            78
+          ]
+        }
+      ]
+    },
+    {
+      "number": 66,
+      "date": "2027-01-14",
+      "semester": 2,
+      "unit": 5,
+      "kind": "book_lesson",
+      "topic": "Спорт · Блог і обговорення · SB 80, 81",
+      "sb_pages": [
+        80,
+        81
+      ],
+      "section_ids": [
+        "sb-u5-blog"
+      ],
+      "language_inventory": {
+        "lexis": "Baseman, championship, contract, match, shortstop, Uruguay, bronze, to defeat to keep up with smth, to turn out.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y виокремлює потрібну інформацію",
+      "expected_learning_evidence": "Обговорює текст зі спортивними новинами.",
+      "source_id": "7eng-066",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u5-blog",
+          "section": "blog",
+          "title": "Sport from A to Z: Блог і обговорення",
+          "title_uk": "Спорт · Блог і обговорення",
+          "sb_pages": [
+            80,
+            81,
+            82
+          ]
+        }
+      ]
+    },
+    {
+      "number": 67,
+      "date": "2027-01-18",
+      "semester": 2,
+      "unit": 5,
+      "kind": "book_lesson",
+      "topic": "Спорт · Блог і обговорення · SB 81, 82",
+      "sb_pages": [
+        81,
+        82
+      ],
+      "section_ids": [
+        "sb-u5-blog"
+      ],
+      "language_inventory": {
+        "lexis": "Pieces of news.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y висловлює власну думку",
+      "expected_learning_evidence": "Розповідає однокласникам про новини спорту.",
+      "source_id": "7eng-067",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u5-blog",
+          "section": "blog",
+          "title": "Sport from A to Z: Блог і обговорення",
+          "title_uk": "Спорт · Блог і обговорення",
+          "sb_pages": [
+            80,
+            81,
+            82
+          ]
+        }
+      ]
+    },
+    {
+      "number": 68,
+      "date": "2027-01-19",
+      "semester": 2,
+      "unit": 5,
+      "kind": "book_lesson",
+      "topic": "Спорт · Лексика · SB 83",
+      "sb_pages": [
+        83
+      ],
+      "section_ids": [
+        "sb-u5-vocabulary"
+      ],
+      "language_inventory": {
+        "lexis": "Athletics, weightlifting, cycle ball, windsurfing, wrestling, zorbing, elephant polo, underwater hockey.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y виокремлює потрібну інформацію",
+      "expected_learning_evidence": "Створює презентацію про незвичні види спорту..",
+      "source_id": "7eng-068",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u5-vocabulary",
+          "section": "vocabulary",
+          "title": "Sport from A to Z: Лексика",
+          "title_uk": "Спорт · Лексика",
+          "sb_pages": [
+            83
+          ]
+        }
+      ]
+    },
+    {
+      "number": 69,
+      "date": "2027-01-20",
+      "semester": 2,
+      "unit": 5,
+      "kind": "book_lesson",
+      "topic": "Спорт · Читання · SB 84",
+      "sb_pages": [
+        84
+      ],
+      "section_ids": [
+        "sb-u5-reading"
+      ],
+      "language_inventory": {
+        "lexis": "Disability, discipline, motto, rowing, parallel, to appear, to compete, to represent, to be held.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y виокремлює потрібну інформацію",
+      "expected_learning_evidence": "Обговорює текст про Олімпійські ігри.",
+      "source_id": "7eng-069",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u5-reading",
+          "section": "reading",
+          "title": "Sport from A to Z: Читання",
+          "title_uk": "Спорт · Читання",
+          "sb_pages": [
+            84,
+            85
+          ]
+        }
+      ]
+    },
+    {
+      "number": 70,
+      "date": "2027-01-21",
+      "semester": 2,
+      "unit": 5,
+      "kind": "book_lesson",
+      "topic": "Спорт · Читання · SB 85",
+      "sb_pages": [
+        85
+      ],
+      "section_ids": [
+        "sb-u5-reading"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "athletics",
+          "referee",
+          "pitch",
+          "puck",
+          "equipment",
+          "compete",
+          "medal",
+          "achievement"
+        ],
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y запитує і надає інформацію",
+      "expected_learning_evidence": "Запитує і відповідає на запитання про Олімпійські ігри.",
+      "source_id": "7eng-070",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u5-reading",
+          "section": "reading",
+          "title": "Sport from A to Z: Читання",
+          "title_uk": "Спорт · Читання",
+          "sb_pages": [
+            84,
+            85
+          ]
+        }
+      ]
+    },
+    {
+      "number": 71,
+      "date": "2027-01-25",
+      "semester": 2,
+      "unit": 5,
+      "kind": "book_lesson",
+      "topic": "Спорт · Граматика · SB 86",
+      "sb_pages": [
+        86
+      ],
+      "section_ids": [
+        "sb-u5-grammar"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "athletics",
+          "referee",
+          "pitch",
+          "puck",
+          "equipment",
+          "compete",
+          "medal",
+          "achievement"
+        ],
+        "grammar": "Past Simple Passive",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y виокремлює потрібну інформацію",
+      "expected_learning_evidence": "Продукує прості речення про спорт, використовуючи пасивний стан дієслова у минулому.",
+      "source_id": "7eng-071",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u5-grammar",
+          "section": "grammar",
+          "title": "Sport from A to Z: Граматика",
+          "title_uk": "Спорт · Граматика",
+          "sb_pages": [
+            86
+          ]
+        }
+      ]
+    },
+    {
+      "number": 72,
+      "date": "2027-01-26",
+      "semester": 2,
+      "unit": 5,
+      "kind": "book_lesson",
+      "topic": "Спорт · Слухання · SB 87",
+      "sb_pages": [
+        87
+      ],
+      "section_ids": [
+        "sb-u5-listening"
+      ],
+      "language_inventory": {
+        "lexis": "Visiting team, attacker, defender, whistle, goal, penalty, referee, goalkeeper, home team, foul, to score, to cheer.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y виокремлює потрібну інформацію",
+      "expected_learning_evidence": "Обговорює діалог про водне поло.",
+      "source_id": "7eng-072",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u5-listening",
+          "section": "listening",
+          "title": "Sport from A to Z: Слухання",
+          "title_uk": "Спорт · Слухання",
+          "sb_pages": [
+            87
+          ]
+        }
+      ]
+    },
+    {
+      "number": 73,
+      "date": "2027-01-27",
+      "semester": 2,
+      "unit": 5,
+      "kind": "book_lesson",
+      "topic": "Спорт · Лексика: застосування · SB 88, 89",
+      "sb_pages": [
+        88,
+        89
+      ],
+      "section_ids": [
+        "sb-u5-vocabulary-2"
+      ],
+      "language_inventory": {
+        "lexis": "Court, basket, pitch goal, racket, tennis ball, net, rink, goal, stick, puck.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y виокремлює потрібну інформацію",
+      "expected_learning_evidence": "Розрізняє спортивний інвентар для різних видів спорту.",
+      "source_id": "7eng-073",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u5-vocabulary-2",
+          "section": "vocabulary-2",
+          "title": "Sport from A to Z: Лексика: застосування",
+          "title_uk": "Спорт · Лексика: застосування",
+          "sb_pages": [
+            88,
+            89
+          ]
+        }
+      ]
+    },
+    {
+      "number": 74,
+      "date": "2027-01-28",
+      "semester": 2,
+      "unit": 5,
+      "kind": "book_lesson",
+      "topic": "Спорт · Граматика: застосування · SB 90",
+      "sb_pages": [
+        90
+      ],
+      "section_ids": [
+        "sb-u5-grammar-2"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "athletics",
+          "referee",
+          "pitch",
+          "puck",
+          "equipment",
+          "compete",
+          "medal",
+          "achievement"
+        ],
+        "grammar": "Past Simple Passive (whquestions)",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y запитує і надає інформацію",
+      "expected_learning_evidence": "Запитує і відповідає на запитання про спорт, використовуючи пасивний стан дієслова.",
+      "source_id": "7eng-074",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u5-grammar-2",
+          "section": "grammar-2",
+          "title": "Sport from A to Z: Граматика: застосування",
+          "title_uk": "Спорт · Граматика: застосування",
+          "sb_pages": [
+            90
+          ]
+        }
+      ]
+    },
+    {
+      "number": 75,
+      "date": "2027-02-01",
+      "semester": 2,
+      "unit": 5,
+      "kind": "book_lesson",
+      "topic": "Спорт · Говоріння · SB 91",
+      "sb_pages": [
+        91
+      ],
+      "section_ids": [
+        "sb-u5-speaking"
+      ],
+      "language_inventory": {
+        "lexis": "Pool, diving.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y запитує і надає інформацію",
+      "expected_learning_evidence": "Обговорює діалог про підводний хокей.",
+      "source_id": "7eng-075",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u5-speaking",
+          "section": "speaking",
+          "title": "Sport from A to Z: Говоріння",
+          "title_uk": "Спорт · Говоріння",
+          "sb_pages": [
+            91,
+            92
+          ]
+        }
+      ]
+    },
+    {
+      "number": 76,
+      "date": "2027-02-02",
+      "semester": 2,
+      "unit": 5,
+      "kind": "book_lesson",
+      "topic": "Спорт · Говоріння · SB 92",
+      "sb_pages": [
+        92
+      ],
+      "section_ids": [
+        "sb-u5-speaking"
+      ],
+      "language_inventory": {
+        "lexis": "Sports club.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y запитує і надає інформацію",
+      "expected_learning_evidence": "Запитує і відповідає на запитання про спортивні гуртки.",
+      "source_id": "7eng-076",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u5-speaking",
+          "section": "speaking",
+          "title": "Sport from A to Z: Говоріння",
+          "title_uk": "Спорт · Говоріння",
+          "sb_pages": [
+            91,
+            92
+          ]
+        }
+      ]
+    },
+    {
+      "number": 77,
+      "date": "2027-02-03",
+      "semester": 2,
+      "unit": 5,
+      "kind": "book_lesson",
+      "topic": "Спорт · Письмо · SB 93",
+      "sb_pages": [
+        93
+      ],
+      "section_ids": [
+        "sb-u5-writing"
+      ],
+      "language_inventory": {
+        "lexis": "Scorer, record, World Cup.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y висловлює власну думку",
+      "expected_learning_evidence": "Пише допис для блогу про відомих спортсменів.",
+      "source_id": "7eng-077",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u5-writing",
+          "section": "writing",
+          "title": "Sport from A to Z: Письмо",
+          "title_uk": "Спорт · Письмо",
+          "sb_pages": [
+            93
+          ]
+        }
+      ]
+    },
+    {
+      "number": 78,
+      "date": "2027-02-04",
+      "semester": 2,
+      "unit": 5,
+      "kind": "book_lesson",
+      "topic": "Спорт · Повторення · SB 94, 95",
+      "sb_pages": [
+        94,
+        95
+      ],
+      "section_ids": [
+        "sb-u5-look-back"
+      ],
+      "language_inventory": {
+        "lexis": "Повторення лексичного матеріалу",
+        "grammar": "Повторення граматичного матеріалу",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y виокремлює потрібну інформацію",
+      "expected_learning_evidence": "Запитує і відповідає на запитання про спорт.",
+      "source_id": "7eng-078",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u5-look-back",
+          "section": "look-back",
+          "title": "Sport from A to Z: Повторення",
+          "title_uk": "Спорт · Повторення",
+          "sb_pages": [
+            94,
+            95,
+            96,
+            97
+          ]
+        }
+      ]
+    },
+    {
+      "number": 79,
+      "date": "2027-02-08",
+      "semester": 2,
+      "unit": 5,
+      "kind": "book_lesson",
+      "topic": "Спорт · Повторення · SB 96, 97",
+      "sb_pages": [
+        96,
+        97
+      ],
+      "section_ids": [
+        "sb-u5-look-back"
+      ],
+      "language_inventory": {
+        "lexis": "Повторення лексичного матеріалу",
+        "grammar": "Повторення граматичного матеріалу",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y запитує і надає інформацію",
+      "expected_learning_evidence": "Презентує інформацію про відомих атлетів.",
+      "source_id": "7eng-079",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u5-look-back",
+          "section": "look-back",
+          "title": "Sport from A to Z: Повторення",
+          "title_uk": "Спорт · Повторення",
+          "sb_pages": [
+            94,
+            95,
+            96,
+            97
+          ]
+        }
+      ]
+    },
+    {
+      "number": 80,
+      "date": "2027-02-09",
+      "semester": 2,
+      "unit": 5,
+      "kind": "grammar_workshop",
+      "topic": "Спорт: граматична майстерня",
+      "sb_pages": [
+        90
+      ],
+      "section_ids": [
+        "sb-u5-grammar-2"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "athletics",
+          "referee",
+          "pitch",
+          "puck",
+          "equipment",
+          "compete",
+          "medal",
+          "achievement"
+        ],
+        "grammar": "Wh-запитання у Past Simple Passive: питальне слово + was/were + підмет + третя форма. Виконавця за потреби додаємо після by.",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "Запитує й надає інформацію; пояснює думку та аргументує вибір.",
+      "expected_learning_evidence": "Правильне виконання завдань з поясненням і приклад власного застосування.",
+      "source_id": "7eng-080",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u5-grammar-2",
+          "section": "grammar-2",
+          "title": "Sport from A to Z: Граматика: застосування",
+          "title_uk": "Спорт · Граматика: застосування",
+          "sb_pages": [
+            90
+          ]
+        }
+      ]
+    },
+    {
+      "number": 81,
+      "date": "2027-02-10",
+      "semester": 2,
+      "unit": 5,
+      "kind": "listening_workshop",
+      "topic": "Спорт: слухання, зіставлення SB і WB",
+      "sb_pages": [
+        87
+      ],
+      "section_ids": [
+        "sb-u5-listening"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "athletics",
+          "referee",
+          "pitch",
+          "puck",
+          "equipment",
+          "compete",
+          "medal",
+          "achievement"
+        ],
+        "grammar": "Перед слуханням передбач ситуацію. Перше прослуховування — загальний зміст, друге — деталі. Перевір, чи почута інформація підтверджує відповідь.",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "Запитує й надає інформацію; пояснює думку та аргументує вибір.",
+      "expected_learning_evidence": "Правильне виконання завдань з поясненням і приклад власного застосування.",
+      "source_id": "7eng-081",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u5-listening",
+          "section": "listening",
+          "title": "Sport from A to Z: Слухання",
+          "title_uk": "Спорт · Слухання",
+          "sb_pages": [
+            87
+          ]
+        }
+      ]
+    },
+    {
+      "number": 82,
+      "date": "2027-02-11",
+      "semester": 2,
+      "unit": 5,
+      "kind": "project_workshop",
+      "topic": "Спорт: проєкт: чернетка, відгук, редагування",
+      "sb_pages": [
+        93
+      ],
+      "section_ids": [
+        "sb-u5-writing"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "athletics",
+          "referee",
+          "pitch",
+          "puck",
+          "equipment",
+          "compete",
+          "medal",
+          "achievement"
+        ],
+        "grammar": "Спочатку склади план. Дотримуйся формату тексту й поділи думки на логічні частини. Перевір часові форми, порядок слів і пунктуацію.",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "Запитує й надає інформацію; пояснює думку та аргументує вибір.",
+      "expected_learning_evidence": "Завершений текст, коротка усна презентація та виправлена чернетка.",
+      "source_id": "7eng-082",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u5-writing",
+          "section": "writing",
+          "title": "Sport from A to Z: Письмо",
+          "title_uk": "Спорт · Письмо",
+          "sb_pages": [
+            93
+          ]
+        }
+      ]
+    },
+    {
+      "number": 83,
+      "date": "2027-02-15",
+      "semester": 2,
+      "unit": 5,
+      "kind": "unit_recap",
+      "topic": "Recap — юніт 5: повторення, узагальнення й самооцінювання",
+      "sb_pages": [
+        98,
+        94,
+        95,
+        96,
+        97
+      ],
+      "section_ids": [
+        "sb-u5-self-check",
+        "sb-u5-look-back"
+      ],
+      "language_inventory": {
+        "lexis": "Узагальнення лексичного матеріалу",
+        "grammar": "Узагальнення граматичного матеріалу",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "Запитує й надає інформацію; пояснює думку та аргументує вибір.",
+      "expected_learning_evidence": "Правильне виконання завдань з поясненням і приклад власного застосування.",
+      "source_id": "7eng-083",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u5-self-check",
+          "section": "self-check",
+          "title": "Sport from A to Z: Самоперевірка",
+          "title_uk": "Спорт · Самоперевірка",
+          "sb_pages": [
+            98
+          ]
+        },
+        {
+          "id": "sb-u5-look-back",
+          "section": "look-back",
+          "title": "Sport from A to Z: Повторення",
+          "title_uk": "Спорт · Повторення",
+          "sb_pages": [
+            94,
+            95,
+            96,
+            97
+          ]
+        }
+      ]
+    },
+    {
+      "number": 84,
+      "date": "2027-02-16",
+      "semester": 2,
+      "unit": 6,
+      "kind": "book_lesson",
+      "topic": "Самопочуття і спілкування з лікарем · Блог і обговорення · SB 100, 101",
+      "sb_pages": [
+        100,
+        101
+      ],
+      "section_ids": [
+        "sb-u6-blog"
+      ],
+      "language_inventory": {
+        "lexis": "Aid, accident, ambulance breath, death, emergency, wound, to bleed, to breathe, to react, to save, backwards, immediately, to get stuck, to pay attention.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y виокремлює потрібну інформацію",
+      "expected_learning_evidence": "Обговорює порядок надання невідкладної допомоги.",
+      "source_id": "7eng-084",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u6-blog",
+          "section": "blog",
+          "title": "What’s the matter?: Блог і обговорення",
+          "title_uk": "Самопочуття і спілкування з лікарем · Блог і обговорення",
+          "sb_pages": [
+            100,
+            101,
+            102
+          ]
+        }
+      ]
+    },
+    {
+      "number": 85,
+      "date": "2027-02-17",
+      "semester": 2,
+      "unit": 6,
+      "kind": "book_lesson",
+      "topic": "Самопочуття і спілкування з лікарем · Блог і обговорення · SB 101, 102",
+      "sb_pages": [
+        101,
+        102
+      ],
+      "section_ids": [
+        "sb-u6-blog"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "cough",
+          "sore throat",
+          "headache",
+          "appointment",
+          "symptom",
+          "nurse",
+          "temperature",
+          "recover"
+        ],
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y запитує і надає інформацію",
+      "expected_learning_evidence": "Описує екстренну ситуацію на основі прочитаного.",
+      "source_id": "7eng-085",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u6-blog",
+          "section": "blog",
+          "title": "What’s the matter?: Блог і обговорення",
+          "title_uk": "Самопочуття і спілкування з лікарем · Блог і обговорення",
+          "sb_pages": [
+            100,
+            101,
+            102
+          ]
+        }
+      ]
+    },
+    {
+      "number": 86,
+      "date": "2027-02-18",
+      "semester": 2,
+      "unit": 6,
+      "kind": "book_lesson",
+      "topic": "Самопочуття і спілкування з лікарем · Лексика · SB 103",
+      "sb_pages": [
+        103
+      ],
+      "section_ids": [
+        "sb-u6-vocabulary"
+      ],
+      "language_inventory": {
+        "lexis": "Rash, cough, headache,sore throat, bruise, flu, cut, stomachache, dizzy, toothache, to sneeze, earache, tongue, lungs, heart.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y виокремлює потрібну інформацію",
+      "expected_learning_evidence": "Ідентифікує слова, що позначають назви частин тіла, описує поширені проблеми зі здоров’ям.",
+      "source_id": "7eng-086",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u6-vocabulary",
+          "section": "vocabulary",
+          "title": "What’s the matter?: Лексика",
+          "title_uk": "Самопочуття і спілкування з лікарем · Лексика",
+          "sb_pages": [
+            103
+          ]
+        }
+      ]
+    },
+    {
+      "number": 87,
+      "date": "2027-02-22",
+      "semester": 2,
+      "unit": 6,
+      "kind": "book_lesson",
+      "topic": "Самопочуття і спілкування з лікарем · Читання · SB 104",
+      "sb_pages": [
+        104
+      ],
+      "section_ids": [
+        "sb-u6-reading"
+      ],
+      "language_inventory": {
+        "lexis": "Disease, illness, pill surgeon, symptom, treatment, private, regular, regularly, to make an appointment.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y виокремлює потрібну інформацію",
+      "expected_learning_evidence": "Обговорює текст про відвідування лікаря.",
+      "source_id": "7eng-087",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u6-reading",
+          "section": "reading",
+          "title": "What’s the matter?: Читання",
+          "title_uk": "Самопочуття і спілкування з лікарем · Читання",
+          "sb_pages": [
+            104,
+            105
+          ]
+        }
+      ]
+    },
+    {
+      "number": 88,
+      "date": "2027-02-23",
+      "semester": 2,
+      "unit": 6,
+      "kind": "book_lesson",
+      "topic": "Самопочуття і спілкування з лікарем · Читання · SB 105",
+      "sb_pages": [
+        105
+      ],
+      "section_ids": [
+        "sb-u6-reading"
+      ],
+      "language_inventory": {
+        "lexis": "Pulse, pills.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y висловлює власну думку",
+      "expected_learning_evidence": "Описує роботу лікаря на основі прочитаного.",
+      "source_id": "7eng-088",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u6-reading",
+          "section": "reading",
+          "title": "What’s the matter?: Читання",
+          "title_uk": "Самопочуття і спілкування з лікарем · Читання",
+          "sb_pages": [
+            104,
+            105
+          ]
+        }
+      ]
+    },
+    {
+      "number": 89,
+      "date": "2027-02-24",
+      "semester": 2,
+      "unit": 6,
+      "kind": "book_lesson",
+      "topic": "Самопочуття і спілкування з лікарем · Граматика · SB 106, 107",
+      "sb_pages": [
+        106,
+        107
+      ],
+      "section_ids": [
+        "sb-u6-grammar"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "cough",
+          "sore throat",
+          "headache",
+          "appointment",
+          "symptom",
+          "nurse",
+          "temperature",
+          "recover"
+        ],
+        "grammar": "Zero Conditional",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y виокремлює потрібну інформацію",
+      "expected_learning_evidence": "Висловлює поради і пропозиції, говорить про загальні факти, використовуючи умовні речення.",
+      "source_id": "7eng-089",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u6-grammar",
+          "section": "grammar",
+          "title": "What’s the matter?: Граматика",
+          "title_uk": "Самопочуття і спілкування з лікарем · Граматика",
+          "sb_pages": [
+            106,
+            107
+          ]
+        }
+      ]
+    },
+    {
+      "number": 90,
+      "date": "2027-02-25",
+      "semester": 2,
+      "unit": 6,
+      "kind": "book_lesson",
+      "topic": "Самопочуття і спілкування з лікарем · Слухання · SB 108",
+      "sb_pages": [
+        108
+      ],
+      "section_ids": [
+        "sb-u6-listening"
+      ],
+      "language_inventory": {
+        "lexis": "Prescription, to prescribe, to do tricks, to get treatment, to take medicine.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y виокремлює потрібну інформацію",
+      "expected_learning_evidence": "Відтворює вірш, запитує і надає відповіді на запитання про стан здоров’я.",
+      "source_id": "7eng-090",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u6-listening",
+          "section": "listening",
+          "title": "What’s the matter?: Слухання",
+          "title_uk": "Самопочуття і спілкування з лікарем · Слухання",
+          "sb_pages": [
+            108
+          ]
+        }
+      ]
+    },
+    {
+      "number": 91,
+      "date": "2027-03-01",
+      "semester": 2,
+      "unit": 6,
+      "kind": "book_lesson",
+      "topic": "Самопочуття і спілкування з лікарем · Лексика: застосування · SB 109",
+      "sb_pages": [
+        109
+      ],
+      "section_ids": [
+        "sb-u6-vocabulary-2"
+      ],
+      "language_inventory": {
+        "lexis": "To suffer, chest, pain, X-ray, injection.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y висловлює власну думку",
+      "expected_learning_evidence": "Продукує прості речення про здоров’я, використовуючи нові слова і вирази.",
+      "source_id": "7eng-091",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u6-vocabulary-2",
+          "section": "vocabulary-2",
+          "title": "What’s the matter?: Лексика: застосування",
+          "title_uk": "Самопочуття і спілкування з лікарем · Лексика: застосування",
+          "sb_pages": [
+            109
+          ]
+        }
+      ]
+    },
+    {
+      "number": 92,
+      "date": "2027-03-02",
+      "semester": 2,
+      "unit": 6,
+      "kind": "book_lesson",
+      "topic": "Самопочуття і спілкування з лікарем · Граматика: застосування · SB 110, 111",
+      "sb_pages": [
+        110,
+        111
+      ],
+      "section_ids": [
+        "sb-u6-grammar-2"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "cough",
+          "sore throat",
+          "headache",
+          "appointment",
+          "symptom",
+          "nurse",
+          "temperature",
+          "recover"
+        ],
+        "grammar": "The Past Perfect Tense",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y виокремлює потрібну інформацію",
+      "expected_learning_evidence": "Виражає дії, що відбулись до певного моменту в минулому.",
+      "source_id": "7eng-092",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u6-grammar-2",
+          "section": "grammar-2",
+          "title": "What’s the matter?: Граматика: застосування",
+          "title_uk": "Самопочуття і спілкування з лікарем · Граматика: застосування",
+          "sb_pages": [
+            110,
+            111,
+            112
+          ]
+        }
+      ]
+    },
+    {
+      "number": 93,
+      "date": "2027-03-03",
+      "semester": 2,
+      "unit": 6,
+      "kind": "book_lesson",
+      "topic": "Самопочуття і спілкування з лікарем · Граматика: застосування · SB 111, 112",
+      "sb_pages": [
+        111,
+        112
+      ],
+      "section_ids": [
+        "sb-u6-grammar-2"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "cough",
+          "sore throat",
+          "headache",
+          "appointment",
+          "symptom",
+          "nurse",
+          "temperature",
+          "recover"
+        ],
+        "grammar": "The Past Perfect Tense",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y висловлює власну думку",
+      "expected_learning_evidence": "Запитує і надає відповіді на запитання, використовуючи минулий доконаний час.",
+      "source_id": "7eng-093",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u6-grammar-2",
+          "section": "grammar-2",
+          "title": "What’s the matter?: Граматика: застосування",
+          "title_uk": "Самопочуття і спілкування з лікарем · Граматика: застосування",
+          "sb_pages": [
+            110,
+            111,
+            112
+          ]
+        }
+      ]
+    },
+    {
+      "number": 94,
+      "date": "2027-03-04",
+      "semester": 2,
+      "unit": 6,
+      "kind": "book_lesson",
+      "topic": "Самопочуття і спілкування з лікарем · Говоріння · SB 113",
+      "sb_pages": [
+        113
+      ],
+      "section_ids": [
+        "sb-u6-speaking"
+      ],
+      "language_inventory": {
+        "lexis": "What’s the matter? I feel .... You should ...",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y висловлює власну думку",
+      "expected_learning_evidence": "Запитує про проблеми зі здоров’ям, описує симптоми і надає прості рекомендації.",
+      "source_id": "7eng-094",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u6-speaking",
+          "section": "speaking",
+          "title": "What’s the matter?: Говоріння",
+          "title_uk": "Самопочуття і спілкування з лікарем · Говоріння",
+          "sb_pages": [
+            113
+          ]
+        }
+      ]
+    },
+    {
+      "number": 95,
+      "date": "2027-03-08",
+      "semester": 2,
+      "unit": 6,
+      "kind": "book_lesson",
+      "topic": "Самопочуття і спілкування з лікарем · Письмо · SB 114",
+      "sb_pages": [
+        114
+      ],
+      "section_ids": [
+        "sb-u6-writing"
+      ],
+      "language_inventory": {
+        "lexis": "Email pal.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y висловлює власну думку",
+      "expected_learning_evidence": "Пише електронного листа, описує проблему зі здоров’ям і отримане лікування.",
+      "source_id": "7eng-095",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u6-writing",
+          "section": "writing",
+          "title": "What’s the matter?: Письмо",
+          "title_uk": "Самопочуття і спілкування з лікарем · Письмо",
+          "sb_pages": [
+            114
+          ]
+        }
+      ]
+    },
+    {
+      "number": 96,
+      "date": "2027-03-09",
+      "semester": 2,
+      "unit": 6,
+      "kind": "book_lesson",
+      "topic": "Самопочуття і спілкування з лікарем · Повторення · SB 115, 116",
+      "sb_pages": [
+        115,
+        116
+      ],
+      "section_ids": [
+        "sb-u6-look-back"
+      ],
+      "language_inventory": {
+        "lexis": "Повторення лексичного матеріалу.",
+        "grammar": "Повторення граматичного матеріалу",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y запитує і надає інформацію",
+      "expected_learning_evidence": "Запитує і надає відповіді про стан здоров’я.",
+      "source_id": "7eng-096",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u6-look-back",
+          "section": "look-back",
+          "title": "What’s the matter?: Повторення",
+          "title_uk": "Самопочуття і спілкування з лікарем · Повторення",
+          "sb_pages": [
+            115,
+            116,
+            117
+          ]
+        }
+      ]
+    },
+    {
+      "number": 97,
+      "date": "2027-03-10",
+      "semester": 2,
+      "unit": 6,
+      "kind": "book_lesson",
+      "topic": "Самопочуття і спілкування з лікарем · Повторення · SB 116, 117",
+      "sb_pages": [
+        116,
+        117
+      ],
+      "section_ids": [
+        "sb-u6-look-back"
+      ],
+      "language_inventory": {
+        "lexis": "Повторення лексичного матеріалу.",
+        "grammar": "Повторення граматичного матеріалу",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y висловлює власну думку",
+      "expected_learning_evidence": "Пише допис до блогу про медичні послуги.",
+      "source_id": "7eng-097",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u6-look-back",
+          "section": "look-back",
+          "title": "What’s the matter?: Повторення",
+          "title_uk": "Самопочуття і спілкування з лікарем · Повторення",
+          "sb_pages": [
+            115,
+            116,
+            117
+          ]
+        }
+      ]
+    },
+    {
+      "number": 98,
+      "date": "2027-03-11",
+      "semester": 2,
+      "unit": 6,
+      "kind": "grammar_workshop",
+      "topic": "Самопочуття і спілкування з лікарем: граматична майстерня",
+      "sb_pages": [
+        110,
+        111,
+        112
+      ],
+      "section_ids": [
+        "sb-u6-grammar-2"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "cough",
+          "sore throat",
+          "headache",
+          "appointment",
+          "symptom",
+          "nurse",
+          "temperature",
+          "recover"
+        ],
+        "grammar": "Past Perfect: had + третя форма — дія, завершена до іншої минулої дії. У запитанні had ставимо перед підметом.",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "Запитує й надає інформацію; пояснює думку та аргументує вибір.",
+      "expected_learning_evidence": "Правильне виконання завдань з поясненням і приклад власного застосування.",
+      "source_id": "7eng-098",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u6-grammar-2",
+          "section": "grammar-2",
+          "title": "What’s the matter?: Граматика: застосування",
+          "title_uk": "Самопочуття і спілкування з лікарем · Граматика: застосування",
+          "sb_pages": [
+            110,
+            111,
+            112
+          ]
+        }
+      ]
+    },
+    {
+      "number": 99,
+      "date": "2027-03-15",
+      "semester": 2,
+      "unit": 6,
+      "kind": "listening_workshop",
+      "topic": "Самопочуття і спілкування з лікарем: слухання, зіставлення SB і WB",
+      "sb_pages": [
+        108
+      ],
+      "section_ids": [
+        "sb-u6-listening"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "cough",
+          "sore throat",
+          "headache",
+          "appointment",
+          "symptom",
+          "nurse",
+          "temperature",
+          "recover"
+        ],
+        "grammar": "Перед слуханням передбач ситуацію. Перше прослуховування — загальний зміст, друге — деталі. Перевір, чи почута інформація підтверджує відповідь.",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "Запитує й надає інформацію; пояснює думку та аргументує вибір.",
+      "expected_learning_evidence": "Правильне виконання завдань з поясненням і приклад власного застосування.",
+      "source_id": "7eng-099",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u6-listening",
+          "section": "listening",
+          "title": "What’s the matter?: Слухання",
+          "title_uk": "Самопочуття і спілкування з лікарем · Слухання",
+          "sb_pages": [
+            108
+          ]
+        }
+      ]
+    },
+    {
+      "number": 100,
+      "date": "2027-03-16",
+      "semester": 2,
+      "unit": 6,
+      "kind": "unit_recap",
+      "topic": "Recap — юніт 6: повторення, узагальнення й самооцінювання",
+      "sb_pages": [
+        118,
+        115,
+        116,
+        117
+      ],
+      "section_ids": [
+        "sb-u6-self-check",
+        "sb-u6-look-back"
+      ],
+      "language_inventory": {
+        "lexis": "Узагальнення лексичного матеріалу",
+        "grammar": "Узагальнення граматичного матеріалу",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "Запитує й надає інформацію; пояснює думку та аргументує вибір.",
+      "expected_learning_evidence": "Правильне виконання завдань з поясненням і приклад власного застосування.",
+      "source_id": "7eng-100",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u6-self-check",
+          "section": "self-check",
+          "title": "What’s the matter?: Самоперевірка",
+          "title_uk": "Самопочуття і спілкування з лікарем · Самоперевірка",
+          "sb_pages": [
+            118
+          ]
+        },
+        {
+          "id": "sb-u6-look-back",
+          "section": "look-back",
+          "title": "What’s the matter?: Повторення",
+          "title_uk": "Самопочуття і спілкування з лікарем · Повторення",
+          "sb_pages": [
+            115,
+            116,
+            117
+          ]
+        }
+      ]
+    },
+    {
+      "number": 101,
+      "date": "2027-03-17",
+      "semester": 2,
+      "unit": 6,
+      "kind": "pair_diagnostic",
+      "topic": "Діагностична робота за юнітами 5–6: слухання, читання, усна взаємодія та письмо",
+      "sb_pages": [],
+      "section_ids": [],
+      "language_inventory": {
+        "lexis": [
+          "cough",
+          "sore throat",
+          "headache",
+          "appointment",
+          "symptom",
+          "nurse",
+          "temperature",
+          "recover"
+        ],
+        "grammar": "Спочатку склади план. Дотримуйся формату тексту й поділи думки на логічні частини. Перевір часові форми, порядок слів і пунктуацію.",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "Запитує й надає інформацію; пояснює думку та аргументує вибір.",
+      "expected_learning_evidence": "Виконання комунікативних завдань за матеріалом двох юнітів; карта сильних сторін і труднощів.",
+      "source_id": "7eng-101",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": []
+    },
+    {
+      "number": 102,
+      "date": "2027-03-18",
+      "semester": 2,
+      "unit": 7,
+      "kind": "book_lesson",
+      "topic": "Кіно і театр · Блог і обговорення · SB 120, 121",
+      "sb_pages": [
+        120,
+        121
+      ],
+      "section_ids": [
+        "sb-u7-blog"
+      ],
+      "language_inventory": {
+        "lexis": "Сon artist, crime, foe, society, spell, to solve, to hit the road, to take sb back.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y надає інформацію щодо прочитаного тексту",
+      "expected_learning_evidence": "Запитує і надає інформацію про фільми на основі прочитаного.",
+      "source_id": "7eng-102",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u7-blog",
+          "section": "blog",
+          "title": "Curtain up!: Блог і обговорення",
+          "title_uk": "Кіно і театр · Блог і обговорення",
+          "sb_pages": [
+            120,
+            121,
+            122
+          ]
+        }
+      ]
+    },
+    {
+      "number": 103,
+      "date": "2027-03-29",
+      "semester": 2,
+      "unit": 7,
+      "kind": "book_lesson",
+      "topic": "Кіно і театр · Блог і обговорення · SB 121, 122",
+      "sb_pages": [
+        121,
+        122
+      ],
+      "section_ids": [
+        "sb-u7-blog"
+      ],
+      "language_inventory": {
+        "lexis": "Сomedy, documentary, action film, сomputeranimated film.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y висловлює власну думку",
+      "expected_learning_evidence": "Розповідає про власні уподобання щодо фільмів на основі прочитаного.",
+      "source_id": "7eng-103",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u7-blog",
+          "section": "blog",
+          "title": "Curtain up!: Блог і обговорення",
+          "title_uk": "Кіно і театр · Блог і обговорення",
+          "sb_pages": [
+            120,
+            121,
+            122
+          ]
+        }
+      ]
+    },
+    {
+      "number": 104,
+      "date": "2027-03-30",
+      "semester": 2,
+      "unit": 7,
+      "kind": "book_lesson",
+      "topic": "Кіно і театр · Лексика · SB 123",
+      "sb_pages": [
+        123
+      ],
+      "section_ids": [
+        "sb-u7-vocabulary"
+      ],
+      "language_inventory": {
+        "lexis": "Curtain, balconies, seats, stage, lights, screen.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y запитує і надає інформацію",
+      "expected_learning_evidence": "Запитує і надає відповіді на запитання про відвідування театру і кінотеатру.",
+      "source_id": "7eng-104",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u7-vocabulary",
+          "section": "vocabulary",
+          "title": "Curtain up!: Лексика",
+          "title_uk": "Кіно і театр · Лексика",
+          "sb_pages": [
+            123
+          ]
+        }
+      ]
+    },
+    {
+      "number": 105,
+      "date": "2027-03-31",
+      "semester": 2,
+      "unit": 7,
+      "kind": "book_lesson",
+      "topic": "Кіно і театр · Читання · SB 124",
+      "sb_pages": [
+        124
+      ],
+      "section_ids": [
+        "sb-u7-reading"
+      ],
+      "language_inventory": {
+        "lexis": "Banquet, opera house, painting, renewal, Shanghai, space, staircase, subtitle, tragedy,crystal, to be based on, to find oneself.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y надає інформацію щодо прочитаного тексту",
+      "expected_learning_evidence": "Обговорює текст про відомі театри.",
+      "source_id": "7eng-105",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u7-reading",
+          "section": "reading",
+          "title": "Curtain up!: Читання",
+          "title_uk": "Кіно і театр · Читання",
+          "sb_pages": [
+            124,
+            125
+          ]
+        }
+      ]
+    },
+    {
+      "number": 106,
+      "date": "2027-04-01",
+      "semester": 2,
+      "unit": 7,
+      "kind": "book_lesson",
+      "topic": "Кіно і театр · Читання · SB 125",
+      "sb_pages": [
+        125
+      ],
+      "section_ids": [
+        "sb-u7-reading"
+      ],
+      "language_inventory": {
+        "lexis": "The National Opera and Ballet Theatre, the Royal Opera House, the Grand Theatre.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y запитує і надає інформацію",
+      "expected_learning_evidence": "Презентує інформацію про відомий театр.",
+      "source_id": "7eng-106",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u7-reading",
+          "section": "reading",
+          "title": "Curtain up!: Читання",
+          "title_uk": "Кіно і театр · Читання",
+          "sb_pages": [
+            124,
+            125
+          ]
+        }
+      ]
+    },
+    {
+      "number": 107,
+      "date": "2027-04-05",
+      "semester": 2,
+      "unit": 7,
+      "kind": "book_lesson",
+      "topic": "Кіно і театр · Граматика · SB 126, 127",
+      "sb_pages": [
+        126,
+        127
+      ],
+      "section_ids": [
+        "sb-u7-grammar"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "performance",
+          "stage",
+          "audience",
+          "comedy",
+          "thriller",
+          "review",
+          "plot",
+          "sequel"
+        ],
+        "grammar": "Adverbs of degree",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y надає інформацію",
+      "expected_learning_evidence": "Продукує прості речення про театр і кіно, використовуючи прислівники ступеня і міри.",
+      "source_id": "7eng-107",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u7-grammar",
+          "section": "grammar",
+          "title": "Curtain up!: Граматика",
+          "title_uk": "Кіно і театр · Граматика",
+          "sb_pages": [
+            126,
+            127
+          ]
+        }
+      ]
+    },
+    {
+      "number": 108,
+      "date": "2027-04-06",
+      "semester": 2,
+      "unit": 7,
+      "kind": "book_lesson",
+      "topic": "Кіно і театр · Слухання · SB 128",
+      "sb_pages": [
+        128
+      ],
+      "section_ids": [
+        "sb-u7-listening"
+      ],
+      "language_inventory": {
+        "lexis": "Acting career.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y запитує і надає інформацію",
+      "expected_learning_evidence": "Презентує інформацію про відомого актора/ актрису.",
+      "source_id": "7eng-108",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u7-listening",
+          "section": "listening",
+          "title": "Curtain up!: Слухання",
+          "title_uk": "Кіно і театр · Слухання",
+          "sb_pages": [
+            128
+          ]
+        }
+      ]
+    },
+    {
+      "number": 109,
+      "date": "2027-04-07",
+      "semester": 2,
+      "unit": 7,
+      "kind": "book_lesson",
+      "topic": "Кіно і театр · Лексика: застосування · SB 129",
+      "sb_pages": [
+        129
+      ],
+      "section_ids": [
+        "sb-u7-vocabulary-2"
+      ],
+      "language_inventory": {
+        "lexis": "Comedy, cartoon, science fiction (sci-fi) film, historical film, horror film, musical, action film, thriller.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y надає інформацію щодо прочитаного тексту",
+      "expected_learning_evidence": "Розповідає про улюблений жанр фільму.",
+      "source_id": "7eng-109",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u7-vocabulary-2",
+          "section": "vocabulary-2",
+          "title": "Curtain up!: Лексика: застосування",
+          "title_uk": "Кіно і театр · Лексика: застосування",
+          "sb_pages": [
+            129
+          ]
+        }
+      ]
+    },
+    {
+      "number": 110,
+      "date": "2027-04-08",
+      "semester": 2,
+      "unit": 7,
+      "kind": "book_lesson",
+      "topic": "Кіно і театр · Граматика: застосування · SB 130, 131",
+      "sb_pages": [
+        130,
+        131
+      ],
+      "section_ids": [
+        "sb-u7-grammar-2"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "performance",
+          "stage",
+          "audience",
+          "comedy",
+          "thriller",
+          "review",
+          "plot",
+          "sequel"
+        ],
+        "grammar": "Types of Comparison",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y запитує і надає інформацію",
+      "expected_learning_evidence": "Продукує прості речення, використовуючи різні способи вираження порівняння.",
+      "source_id": "7eng-110",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u7-grammar-2",
+          "section": "grammar-2",
+          "title": "Curtain up!: Граматика: застосування",
+          "title_uk": "Кіно і театр · Граматика: застосування",
+          "sb_pages": [
+            130,
+            131
+          ]
+        }
+      ]
+    },
+    {
+      "number": 111,
+      "date": "2027-04-12",
+      "semester": 2,
+      "unit": 7,
+      "kind": "book_lesson",
+      "topic": "Кіно і театр · Говоріння · SB 132, 133",
+      "sb_pages": [
+        132,
+        133
+      ],
+      "section_ids": [
+        "sb-u7-speaking"
+      ],
+      "language_inventory": {
+        "lexis": "Almost, so, enough, extremely, rather, quite, really, too, very.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y висловлює власну думку",
+      "expected_learning_evidence": "Описує власні враження і уподобання, дає рекомендації щодо перегляду фільмів.",
+      "source_id": "7eng-111",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u7-speaking",
+          "section": "speaking",
+          "title": "Curtain up!: Говоріння",
+          "title_uk": "Кіно і театр · Говоріння",
+          "sb_pages": [
+            132,
+            133
+          ]
+        }
+      ]
+    },
+    {
+      "number": 112,
+      "date": "2027-04-13",
+      "semester": 2,
+      "unit": 7,
+      "kind": "book_lesson",
+      "topic": "Кіно і театр · Письмо · SB 134",
+      "sb_pages": [
+        134
+      ],
+      "section_ids": [
+        "sb-u7-writing"
+      ],
+      "language_inventory": {
+        "lexis": "To direct, fantastic, scary, romantic.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y висловлює власну думку",
+      "expected_learning_evidence": "Пише коротку рецензію на улюблений фільм.",
+      "source_id": "7eng-112",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u7-writing",
+          "section": "writing",
+          "title": "Curtain up!: Письмо",
+          "title_uk": "Кіно і театр · Письмо",
+          "sb_pages": [
+            134
+          ]
+        }
+      ]
+    },
+    {
+      "number": 113,
+      "date": "2027-04-14",
+      "semester": 2,
+      "unit": 7,
+      "kind": "book_lesson",
+      "topic": "Кіно і театр · Повторення · SB 135, 136",
+      "sb_pages": [
+        135,
+        136
+      ],
+      "section_ids": [
+        "sb-u7-look-back"
+      ],
+      "language_inventory": {
+        "lexis": "Повторення лексичного матеріалу",
+        "grammar": "Повторення граматичного матеріалу",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y висловлює власну думку",
+      "expected_learning_evidence": "Розповідає про відвідування кінотеатру і вистави.",
+      "source_id": "7eng-113",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u7-look-back",
+          "section": "look-back",
+          "title": "Curtain up!: Повторення",
+          "title_uk": "Кіно і театр · Повторення",
+          "sb_pages": [
+            135,
+            136,
+            137
+          ]
+        }
+      ]
+    },
+    {
+      "number": 114,
+      "date": "2027-04-15",
+      "semester": 2,
+      "unit": 7,
+      "kind": "book_lesson",
+      "topic": "Кіно і театр · Повторення · SB 136, 137",
+      "sb_pages": [
+        136,
+        137
+      ],
+      "section_ids": [
+        "sb-u7-look-back"
+      ],
+      "language_inventory": {
+        "lexis": "Повторення лексичного матеріалу",
+        "grammar": "Повторення граматичного матеріалу",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y висловлює власну думку",
+      "expected_learning_evidence": "Презентує інформацію про кінотеатри в різних країнах.",
+      "source_id": "7eng-114",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u7-look-back",
+          "section": "look-back",
+          "title": "Curtain up!: Повторення",
+          "title_uk": "Кіно і театр · Повторення",
+          "sb_pages": [
+            135,
+            136,
+            137
+          ]
+        }
+      ]
+    },
+    {
+      "number": 115,
+      "date": "2027-04-19",
+      "semester": 2,
+      "unit": 7,
+      "kind": "grammar_workshop",
+      "topic": "Кіно і театр: граматична майстерня",
+      "sb_pages": [
+        130,
+        131
+      ],
+      "section_ids": [
+        "sb-u7-grammar-2"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "performance",
+          "stage",
+          "audience",
+          "comedy",
+          "thriller",
+          "review",
+          "plot",
+          "sequel"
+        ],
+        "grammar": "Порівняння: more/less ... than, (not) as ... as, the same as, rather than. Обирай модель відповідно до змісту порівняння.",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "Запитує й надає інформацію; пояснює думку та аргументує вибір.",
+      "expected_learning_evidence": "Правильне виконання завдань з поясненням і приклад власного застосування.",
+      "source_id": "7eng-115",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u7-grammar-2",
+          "section": "grammar-2",
+          "title": "Curtain up!: Граматика: застосування",
+          "title_uk": "Кіно і театр · Граматика: застосування",
+          "sb_pages": [
+            130,
+            131
+          ]
+        }
+      ]
+    },
+    {
+      "number": 116,
+      "date": "2027-04-20",
+      "semester": 2,
+      "unit": 7,
+      "kind": "listening_workshop",
+      "topic": "Кіно і театр: слухання, зіставлення SB і WB",
+      "sb_pages": [
+        128
+      ],
+      "section_ids": [
+        "sb-u7-listening"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "performance",
+          "stage",
+          "audience",
+          "comedy",
+          "thriller",
+          "review",
+          "plot",
+          "sequel"
+        ],
+        "grammar": "Перед слуханням передбач ситуацію. Перше прослуховування — загальний зміст, друге — деталі. Перевір, чи почута інформація підтверджує відповідь.",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "Запитує й надає інформацію; пояснює думку та аргументує вибір.",
+      "expected_learning_evidence": "Правильне виконання завдань з поясненням і приклад власного застосування.",
+      "source_id": "7eng-116",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u7-listening",
+          "section": "listening",
+          "title": "Curtain up!: Слухання",
+          "title_uk": "Кіно і театр · Слухання",
+          "sb_pages": [
+            128
+          ]
+        }
+      ]
+    },
+    {
+      "number": 117,
+      "date": "2027-04-21",
+      "semester": 2,
+      "unit": 7,
+      "kind": "project_workshop",
+      "topic": "Кіно і театр: проєкт: чернетка, відгук, редагування",
+      "sb_pages": [
+        134
+      ],
+      "section_ids": [
+        "sb-u7-writing"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "performance",
+          "stage",
+          "audience",
+          "comedy",
+          "thriller",
+          "review",
+          "plot",
+          "sequel"
+        ],
+        "grammar": "Спочатку склади план. Дотримуйся формату тексту й поділи думки на логічні частини. Перевір часові форми, порядок слів і пунктуацію.",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "Запитує й надає інформацію; пояснює думку та аргументує вибір.",
+      "expected_learning_evidence": "Завершений текст, коротка усна презентація та виправлена чернетка.",
+      "source_id": "7eng-117",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u7-writing",
+          "section": "writing",
+          "title": "Curtain up!: Письмо",
+          "title_uk": "Кіно і театр · Письмо",
+          "sb_pages": [
+            134
+          ]
+        }
+      ]
+    },
+    {
+      "number": 118,
+      "date": "2027-04-22",
+      "semester": 2,
+      "unit": 7,
+      "kind": "unit_recap",
+      "topic": "Recap — юніт 7: повторення, узагальнення й самооцінювання",
+      "sb_pages": [
+        138,
+        135,
+        136,
+        137
+      ],
+      "section_ids": [
+        "sb-u7-self-check",
+        "sb-u7-look-back"
+      ],
+      "language_inventory": {
+        "lexis": "Узагальнення лексичного матеріалу",
+        "grammar": "Узагальнення граматичного матеріалу",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "Запитує й надає інформацію; пояснює думку та аргументує вибір.",
+      "expected_learning_evidence": "Правильне виконання завдань з поясненням і приклад власного застосування.",
+      "source_id": "7eng-118",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u7-self-check",
+          "section": "self-check",
+          "title": "Curtain up!: Самоперевірка",
+          "title_uk": "Кіно і театр · Самоперевірка",
+          "sb_pages": [
+            138
+          ]
+        },
+        {
+          "id": "sb-u7-look-back",
+          "section": "look-back",
+          "title": "Curtain up!: Повторення",
+          "title_uk": "Кіно і театр · Повторення",
+          "sb_pages": [
+            135,
+            136,
+            137
+          ]
+        }
+      ]
+    },
+    {
+      "number": 119,
+      "date": "2027-04-26",
+      "semester": 2,
+      "unit": 8,
+      "kind": "book_lesson",
+      "topic": "Подорожі й визначні місця · Блог і обговорення · SB 140, 141, 142",
+      "sb_pages": [
+        140,
+        141,
+        142
+      ],
+      "section_ids": [
+        "sb-u8-blog"
+      ],
+      "language_inventory": {
+        "lexis": "Belfast, bobby, Cardiff, coastline, double-decker, Edinburgh, Glasgow, golf course, high tea, Scots, rugged, to confuse, to be famous for.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y надає інформацію щодо прослуханого тексту y бере участь у дискусії",
+      "expected_learning_evidence": "Запитує і відповідає на запитання про Великобританію.",
+      "source_id": "7eng-119",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u8-blog",
+          "section": "blog",
+          "title": "What is there to see and to do?: Блог і обговорення",
+          "title_uk": "Подорожі й визначні місця · Блог і обговорення",
+          "sb_pages": [
+            140,
+            141,
+            142,
+            143
+          ]
+        }
+      ]
+    },
+    {
+      "number": 120,
+      "date": "2027-04-27",
+      "semester": 2,
+      "unit": 8,
+      "kind": "book_lesson",
+      "topic": "Подорожі й визначні місця · Блог і обговорення · SB 142, 143",
+      "sb_pages": [
+        142,
+        143
+      ],
+      "section_ids": [
+        "sb-u8-blog"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "landmark",
+          "capital",
+          "cathedral",
+          "castle",
+          "tour guide",
+          "leaflet",
+          "itinerary",
+          "attraction"
+        ],
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y надає інформацію щодо прочитаного",
+      "expected_learning_evidence": "Пише допис для блогу про столицю однієї із англомовних країн.",
+      "source_id": "7eng-120",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u8-blog",
+          "section": "blog",
+          "title": "What is there to see and to do?: Блог і обговорення",
+          "title_uk": "Подорожі й визначні місця · Блог і обговорення",
+          "sb_pages": [
+            140,
+            141,
+            142,
+            143
+          ]
+        }
+      ]
+    },
+    {
+      "number": 121,
+      "date": "2027-04-28",
+      "semester": 2,
+      "unit": 8,
+      "kind": "book_lesson",
+      "topic": "Подорожі й визначні місця · Лексика · SB 144",
+      "sb_pages": [
+        144
+      ],
+      "section_ids": [
+        "sb-u8-vocabulary"
+      ],
+      "language_inventory": {
+        "lexis": "Kingston, Suva, Wellington, Dublin, London, Ottawa, Washington, DC, Canberra.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y запитує і надає інформацію",
+      "expected_learning_evidence": "Запитує і відповідає на запитання про подорожі.",
+      "source_id": "7eng-121",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u8-vocabulary",
+          "section": "vocabulary",
+          "title": "What is there to see and to do?: Лексика",
+          "title_uk": "Подорожі й визначні місця · Лексика",
+          "sb_pages": [
+            144
+          ]
+        }
+      ]
+    },
+    {
+      "number": 122,
+      "date": "2027-04-29",
+      "semester": 2,
+      "unit": 8,
+      "kind": "book_lesson",
+      "topic": "Подорожі й визначні місця · Читання · SB 145",
+      "sb_pages": [
+        145
+      ],
+      "section_ids": [
+        "sb-u8-reading"
+      ],
+      "language_inventory": {
+        "lexis": "Tower Bridge, the White House, the Sydney Opera House, the London Eye, the Space Needle, Parliament Hill, the Response.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y надає інформацію щодо прочитаного тексту",
+      "expected_learning_evidence": "Обговорює текст про визначні місця в різних країнах світу.",
+      "source_id": "7eng-122",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u8-reading",
+          "section": "reading",
+          "title": "What is there to see and to do?: Читання",
+          "title_uk": "Подорожі й визначні місця · Читання",
+          "sb_pages": [
+            145,
+            146
+          ]
+        }
+      ]
+    },
+    {
+      "number": 123,
+      "date": "2027-05-03",
+      "semester": 2,
+      "unit": 8,
+      "kind": "book_lesson",
+      "topic": "Подорожі й визначні місця · Читання · SB 146",
+      "sb_pages": [
+        146
+      ],
+      "section_ids": [
+        "sb-u8-reading"
+      ],
+      "language_inventory": {
+        "lexis": "Architecture complex, Ferris wheel, memorial, residence, workplace, to be dedicated.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y надає інформацію щодо прочитаного",
+      "expected_learning_evidence": "Розповідає про визначні місця Києва.",
+      "source_id": "7eng-123",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u8-reading",
+          "section": "reading",
+          "title": "What is there to see and to do?: Читання",
+          "title_uk": "Подорожі й визначні місця · Читання",
+          "sb_pages": [
+            145,
+            146
+          ]
+        }
+      ]
+    },
+    {
+      "number": 124,
+      "date": "2027-05-04",
+      "semester": 2,
+      "unit": 8,
+      "kind": "book_lesson",
+      "topic": "Подорожі й визначні місця · Граматика · SB 147",
+      "sb_pages": [
+        147
+      ],
+      "section_ids": [
+        "sb-u8-grammar"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "landmark",
+          "capital",
+          "cathedral",
+          "castle",
+          "tour guide",
+          "leaflet",
+          "itinerary",
+          "attraction"
+        ],
+        "grammar": "Determiners",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y висловлює власну думку",
+      "expected_learning_evidence": "Продукує прості речення про подорожі і визначні місця.",
+      "source_id": "7eng-124",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u8-grammar",
+          "section": "grammar",
+          "title": "What is there to see and to do?: Граматика",
+          "title_uk": "Подорожі й визначні місця · Граматика",
+          "sb_pages": [
+            147
+          ]
+        }
+      ]
+    },
+    {
+      "number": 125,
+      "date": "2027-05-05",
+      "semester": 2,
+      "unit": 8,
+      "kind": "book_lesson",
+      "topic": "Подорожі й визначні місця · Слухання · SB 148, 149",
+      "sb_pages": [
+        148,
+        149
+      ],
+      "section_ids": [
+        "sb-u8-listening"
+      ],
+      "language_inventory": {
+        "lexis": "Monument, motherland, square, open-air, to find out.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y висловлює власну думку",
+      "expected_learning_evidence": "Розповідає про визначні місця Києва на основі прослуханого тексту.",
+      "source_id": "7eng-125",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u8-listening",
+          "section": "listening",
+          "title": "What is there to see and to do?: Слухання",
+          "title_uk": "Подорожі й визначні місця · Слухання",
+          "sb_pages": [
+            148,
+            149
+          ]
+        }
+      ]
+    },
+    {
+      "number": 126,
+      "date": "2027-05-06",
+      "semester": 2,
+      "unit": 8,
+      "kind": "book_lesson",
+      "topic": "Подорожі й визначні місця · Лексика: застосування · SB 150",
+      "sb_pages": [
+        150
+      ],
+      "section_ids": [
+        "sb-u8-vocabulary-2"
+      ],
+      "language_inventory": {
+        "lexis": "Attractions, excursions, tour, map, tour guide, tickets, luggage, visa.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y висловлює власну думку",
+      "expected_learning_evidence": "Складає список необхідних речей для подорожі.",
+      "source_id": "7eng-126",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u8-vocabulary-2",
+          "section": "vocabulary-2",
+          "title": "What is there to see and to do?: Лексика: застосування",
+          "title_uk": "Подорожі й визначні місця · Лексика: застосування",
+          "sb_pages": [
+            150
+          ]
+        }
+      ]
+    },
+    {
+      "number": 127,
+      "date": "2027-05-10",
+      "semester": 2,
+      "unit": 8,
+      "kind": "book_lesson",
+      "topic": "Подорожі й визначні місця · Граматика: застосування · SB 151",
+      "sb_pages": [
+        151
+      ],
+      "section_ids": [
+        "sb-u8-grammar-2"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "landmark",
+          "capital",
+          "cathedral",
+          "castle",
+          "tour guide",
+          "leaflet",
+          "itinerary",
+          "attraction"
+        ],
+        "grammar": "Conjunctions",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y висловлює власну думку",
+      "expected_learning_evidence": "Складає речення про подорожі, використовуючи сполучники.",
+      "source_id": "7eng-127",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u8-grammar-2",
+          "section": "grammar-2",
+          "title": "What is there to see and to do?: Граматика: застосування",
+          "title_uk": "Подорожі й визначні місця · Граматика: застосування",
+          "sb_pages": [
+            151
+          ]
+        }
+      ]
+    },
+    {
+      "number": 128,
+      "date": "2027-05-11",
+      "semester": 2,
+      "unit": 8,
+      "kind": "book_lesson",
+      "topic": "Подорожі й визначні місця · Говоріння · SB 152",
+      "sb_pages": [
+        152
+      ],
+      "section_ids": [
+        "sb-u8-speaking"
+      ],
+      "language_inventory": {
+        "lexis": "Respectively.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y бере участь у дискусії",
+      "expected_learning_evidence": "Презентує фотографії і інформацію про визначні місця.",
+      "source_id": "7eng-128",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u8-speaking",
+          "section": "speaking",
+          "title": "What is there to see and to do?: Говоріння",
+          "title_uk": "Подорожі й визначні місця · Говоріння",
+          "sb_pages": [
+            152
+          ]
+        }
+      ]
+    },
+    {
+      "number": 129,
+      "date": "2027-05-12",
+      "semester": 2,
+      "unit": 8,
+      "kind": "book_lesson",
+      "topic": "Подорожі й визначні місця · Письмо · SB 153, 154",
+      "sb_pages": [
+        153,
+        154
+      ],
+      "section_ids": [
+        "sb-u8-writing"
+      ],
+      "language_inventory": {
+        "lexis": "Leaflet.",
+        "grammar": "",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y висловлює власну думку",
+      "expected_learning_evidence": "Пише текст брошури для туристів.",
+      "source_id": "7eng-129",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u8-writing",
+          "section": "writing",
+          "title": "What is there to see and to do?: Письмо",
+          "title_uk": "Подорожі й визначні місця · Письмо",
+          "sb_pages": [
+            153,
+            154
+          ]
+        }
+      ]
+    },
+    {
+      "number": 130,
+      "date": "2027-05-13",
+      "semester": 2,
+      "unit": 8,
+      "kind": "book_lesson",
+      "topic": "Подорожі й визначні місця · Повторення · SB 155, 156",
+      "sb_pages": [
+        155,
+        156
+      ],
+      "section_ids": [
+        "sb-u8-look-back"
+      ],
+      "language_inventory": {
+        "lexis": "Повторення лексичного матеріалу",
+        "grammar": "Повторення граматичного матеріалу",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y висловлює власну думку",
+      "expected_learning_evidence": "Складає речення про подорожі і визначні місця.",
+      "source_id": "7eng-130",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u8-look-back",
+          "section": "look-back",
+          "title": "What is there to see and to do?: Повторення",
+          "title_uk": "Подорожі й визначні місця · Повторення",
+          "sb_pages": [
+            155,
+            156,
+            157
+          ]
+        }
+      ]
+    },
+    {
+      "number": 131,
+      "date": "2027-05-17",
+      "semester": 2,
+      "unit": 8,
+      "kind": "book_lesson",
+      "topic": "Подорожі й визначні місця · Повторення · SB 156, 157",
+      "sb_pages": [
+        156,
+        157
+      ],
+      "section_ids": [
+        "sb-u8-look-back"
+      ],
+      "language_inventory": {
+        "lexis": "Повторення лексичного матеріалу",
+        "grammar": "Повторення граматичного матеріалу",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "y висловлює власну думку",
+      "expected_learning_evidence": "Складає тест із запитаннями про столицю України.",
+      "source_id": "7eng-131",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u8-look-back",
+          "section": "look-back",
+          "title": "What is there to see and to do?: Повторення",
+          "title_uk": "Подорожі й визначні місця · Повторення",
+          "sb_pages": [
+            155,
+            156,
+            157
+          ]
+        }
+      ]
+    },
+    {
+      "number": 132,
+      "date": "2027-05-18",
+      "semester": 2,
+      "unit": 8,
+      "kind": "grammar_workshop",
+      "topic": "Подорожі й визначні місця: граматична майстерня",
+      "sb_pages": [
+        151
+      ],
+      "section_ids": [
+        "sb-u8-grammar-2"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "landmark",
+          "capital",
+          "cathedral",
+          "castle",
+          "tour guide",
+          "leaflet",
+          "itinerary",
+          "attraction"
+        ],
+        "grammar": "Conjunctions поєднують думки: and, but, because, either ... or, neither ... nor, both ... and.",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "Запитує й надає інформацію; пояснює думку та аргументує вибір.",
+      "expected_learning_evidence": "Правильне виконання завдань з поясненням і приклад власного застосування.",
+      "source_id": "7eng-132",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u8-grammar-2",
+          "section": "grammar-2",
+          "title": "What is there to see and to do?: Граматика: застосування",
+          "title_uk": "Подорожі й визначні місця · Граматика: застосування",
+          "sb_pages": [
+            151
+          ]
+        }
+      ]
+    },
+    {
+      "number": 133,
+      "date": "2027-05-19",
+      "semester": 2,
+      "unit": 8,
+      "kind": "listening_workshop",
+      "topic": "Подорожі й визначні місця: слухання, зіставлення SB і WB",
+      "sb_pages": [
+        148,
+        149
+      ],
+      "section_ids": [
+        "sb-u8-listening"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "landmark",
+          "capital",
+          "cathedral",
+          "castle",
+          "tour guide",
+          "leaflet",
+          "itinerary",
+          "attraction"
+        ],
+        "grammar": "Перед слуханням передбач ситуацію. Перше прослуховування — загальний зміст, друге — деталі. Перевір, чи почута інформація підтверджує відповідь.",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "Запитує й надає інформацію; пояснює думку та аргументує вибір.",
+      "expected_learning_evidence": "Правильне виконання завдань з поясненням і приклад власного застосування.",
+      "source_id": "7eng-133",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u8-listening",
+          "section": "listening",
+          "title": "What is there to see and to do?: Слухання",
+          "title_uk": "Подорожі й визначні місця · Слухання",
+          "sb_pages": [
+            148,
+            149
+          ]
+        }
+      ]
+    },
+    {
+      "number": 134,
+      "date": "2027-05-20",
+      "semester": 2,
+      "unit": 8,
+      "kind": "unit_recap",
+      "topic": "Recap — юніт 8: повторення, узагальнення й самооцінювання",
+      "sb_pages": [
+        158,
+        155,
+        156,
+        157
+      ],
+      "section_ids": [
+        "sb-u8-self-check",
+        "sb-u8-look-back"
+      ],
+      "language_inventory": {
+        "lexis": "Узагальнення лексичного матеріалу",
+        "grammar": "Узагальнення граматичного матеріалу",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "Запитує й надає інформацію; пояснює думку та аргументує вибір.",
+      "expected_learning_evidence": "Правильне виконання завдань з поясненням і приклад власного застосування.",
+      "source_id": "7eng-134",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u8-self-check",
+          "section": "self-check",
+          "title": "What is there to see and to do?: Самоперевірка",
+          "title_uk": "Подорожі й визначні місця · Самоперевірка",
+          "sb_pages": [
+            158
+          ]
+        },
+        {
+          "id": "sb-u8-look-back",
+          "section": "look-back",
+          "title": "What is there to see and to do?: Повторення",
+          "title_uk": "Подорожі й визначні місця · Повторення",
+          "sb_pages": [
+            155,
+            156,
+            157
+          ]
+        }
+      ]
+    },
+    {
+      "number": 135,
+      "date": "2027-05-24",
+      "semester": 2,
+      "unit": 8,
+      "kind": "pair_diagnostic",
+      "topic": "Діагностична робота за юнітами 7–8: слухання, читання, усна взаємодія та письмо",
+      "sb_pages": [],
+      "section_ids": [],
+      "language_inventory": {
+        "lexis": [
+          "landmark",
+          "capital",
+          "cathedral",
+          "castle",
+          "tour guide",
+          "leaflet",
+          "itinerary",
+          "attraction"
+        ],
+        "grammar": "Спочатку склади план. Дотримуйся формату тексту й поділи думки на логічні частини. Перевір часові форми, порядок слів і пунктуацію.",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "Запитує й надає інформацію; пояснює думку та аргументує вибір.",
+      "expected_learning_evidence": "Виконання комунікативних завдань за матеріалом двох юнітів; карта сильних сторін і труднощів.",
+      "source_id": "7eng-135",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": []
+    },
+    {
+      "number": 136,
+      "date": "2027-05-25",
+      "semester": 2,
+      "unit": 0,
+      "kind": "integrated_review",
+      "topic": "Підсумкове повторення: мова подорожей, спорту, кіно й самопочуття",
+      "sb_pages": [
+        98,
+        118,
+        138,
+        158
+      ],
+      "section_ids": [
+        "sb-u5-self-check",
+        "sb-u6-self-check",
+        "sb-u7-self-check",
+        "sb-u8-self-check"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "landmark",
+          "capital",
+          "cathedral",
+          "castle",
+          "tour guide",
+          "leaflet",
+          "itinerary",
+          "attraction"
+        ],
+        "grammar": "Past Simple Passive: was/were + третя форма. Використовуємо для минулих подій, коли важливий результат. Wh-запитання: Where was the match played? Узгоджуємо was/were з підметом.",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "Запитує й надає інформацію; пояснює думку та аргументує вибір.",
+      "expected_learning_evidence": "Правильне виконання завдань з поясненням і приклад власного застосування.",
+      "source_id": "7eng-136",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u5-self-check",
+          "section": "self-check",
+          "title": "Sport from A to Z: Самоперевірка",
+          "title_uk": "Спорт · Самоперевірка",
+          "sb_pages": [
+            98
+          ]
+        },
+        {
+          "id": "sb-u6-self-check",
+          "section": "self-check",
+          "title": "What’s the matter?: Самоперевірка",
+          "title_uk": "Самопочуття і спілкування з лікарем · Самоперевірка",
+          "sb_pages": [
+            118
+          ]
+        },
+        {
+          "id": "sb-u7-self-check",
+          "section": "self-check",
+          "title": "Curtain up!: Самоперевірка",
+          "title_uk": "Кіно і театр · Самоперевірка",
+          "sb_pages": [
+            138
+          ]
+        },
+        {
+          "id": "sb-u8-self-check",
+          "section": "self-check",
+          "title": "What is there to see and to do?: Самоперевірка",
+          "title_uk": "Подорожі й визначні місця · Самоперевірка",
+          "sb_pages": [
+            158
+          ]
+        }
+      ]
+    },
+    {
+      "number": 137,
+      "date": "2027-05-26",
+      "semester": 2,
+      "unit": 0,
+      "kind": "semester_assessment",
+      "topic": "Семестрова перевірка: слухання і читання",
+      "sb_pages": [
+        98,
+        118,
+        138,
+        158
+      ],
+      "section_ids": [
+        "sb-u5-self-check",
+        "sb-u6-self-check",
+        "sb-u7-self-check",
+        "sb-u8-self-check"
+      ],
+      "language_inventory": {
+        "lexis": "Узагальнення лексичного матеріалу",
+        "grammar": "Узагальнення граматичного матеріалу",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "Запитує й надає інформацію; пояснює думку та аргументує вибір.",
+      "expected_learning_evidence": "Правильне виконання завдань з поясненням і приклад власного застосування.",
+      "source_id": "7eng-137",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u5-self-check",
+          "section": "self-check",
+          "title": "Sport from A to Z: Самоперевірка",
+          "title_uk": "Спорт · Самоперевірка",
+          "sb_pages": [
+            98
+          ]
+        },
+        {
+          "id": "sb-u6-self-check",
+          "section": "self-check",
+          "title": "What’s the matter?: Самоперевірка",
+          "title_uk": "Самопочуття і спілкування з лікарем · Самоперевірка",
+          "sb_pages": [
+            118
+          ]
+        },
+        {
+          "id": "sb-u7-self-check",
+          "section": "self-check",
+          "title": "Curtain up!: Самоперевірка",
+          "title_uk": "Кіно і театр · Самоперевірка",
+          "sb_pages": [
+            138
+          ]
+        },
+        {
+          "id": "sb-u8-self-check",
+          "section": "self-check",
+          "title": "What is there to see and to do?: Самоперевірка",
+          "title_uk": "Подорожі й визначні місця · Самоперевірка",
+          "sb_pages": [
+            158
+          ]
+        }
+      ]
+    },
+    {
+      "number": 138,
+      "date": "2027-05-27",
+      "semester": 2,
+      "unit": 0,
+      "kind": "semester_assessment",
+      "topic": "Семестрова перевірка: говоріння і письмо",
+      "sb_pages": [
+        98,
+        118,
+        138,
+        158
+      ],
+      "section_ids": [
+        "sb-u5-self-check",
+        "sb-u6-self-check",
+        "sb-u7-self-check",
+        "sb-u8-self-check"
+      ],
+      "language_inventory": {
+        "lexis": "Узагальнення лексичного матеріалу",
+        "grammar": "Узагальнення граматичного матеріалу",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "Запитує й надає інформацію; пояснює думку та аргументує вибір.",
+      "expected_learning_evidence": "Правильне виконання завдань з поясненням і приклад власного застосування.",
+      "source_id": "7eng-138",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u5-self-check",
+          "section": "self-check",
+          "title": "Sport from A to Z: Самоперевірка",
+          "title_uk": "Спорт · Самоперевірка",
+          "sb_pages": [
+            98
+          ]
+        },
+        {
+          "id": "sb-u6-self-check",
+          "section": "self-check",
+          "title": "What’s the matter?: Самоперевірка",
+          "title_uk": "Самопочуття і спілкування з лікарем · Самоперевірка",
+          "sb_pages": [
+            118
+          ]
+        },
+        {
+          "id": "sb-u7-self-check",
+          "section": "self-check",
+          "title": "Curtain up!: Самоперевірка",
+          "title_uk": "Кіно і театр · Самоперевірка",
+          "sb_pages": [
+            138
+          ]
+        },
+        {
+          "id": "sb-u8-self-check",
+          "section": "self-check",
+          "title": "What is there to see and to do?: Самоперевірка",
+          "title_uk": "Подорожі й визначні місця · Самоперевірка",
+          "sb_pages": [
+            158
+          ]
+        }
+      ]
+    },
+    {
+      "number": 139,
+      "date": "2027-05-31",
+      "semester": 2,
+      "unit": 0,
+      "kind": "portfolio",
+      "topic": "Портфоліо: аналіз поступу й виправлення помилок",
+      "sb_pages": [
+        98,
+        118,
+        138,
+        158
+      ],
+      "section_ids": [
+        "sb-u5-self-check",
+        "sb-u6-self-check",
+        "sb-u7-self-check",
+        "sb-u8-self-check"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "landmark",
+          "capital",
+          "cathedral",
+          "castle",
+          "tour guide",
+          "leaflet",
+          "itinerary",
+          "attraction"
+        ],
+        "grammar": "Past Simple Passive: was/were + третя форма. Використовуємо для минулих подій, коли важливий результат. Wh-запитання: Where was the match played? Узгоджуємо was/were з підметом.",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "Запитує й надає інформацію; пояснює думку та аргументує вибір.",
+      "expected_learning_evidence": "Правильне виконання завдань з поясненням і приклад власного застосування.",
+      "source_id": "7eng-139",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u5-self-check",
+          "section": "self-check",
+          "title": "Sport from A to Z: Самоперевірка",
+          "title_uk": "Спорт · Самоперевірка",
+          "sb_pages": [
+            98
+          ]
+        },
+        {
+          "id": "sb-u6-self-check",
+          "section": "self-check",
+          "title": "What’s the matter?: Самоперевірка",
+          "title_uk": "Самопочуття і спілкування з лікарем · Самоперевірка",
+          "sb_pages": [
+            118
+          ]
+        },
+        {
+          "id": "sb-u7-self-check",
+          "section": "self-check",
+          "title": "Curtain up!: Самоперевірка",
+          "title_uk": "Кіно і театр · Самоперевірка",
+          "sb_pages": [
+            138
+          ]
+        },
+        {
+          "id": "sb-u8-self-check",
+          "section": "self-check",
+          "title": "What is there to see and to do?: Самоперевірка",
+          "title_uk": "Подорожі й визначні місця · Самоперевірка",
+          "sb_pages": [
+            158
+          ]
+        }
+      ]
+    },
+    {
+      "number": 140,
+      "date": "2027-06-01",
+      "semester": 2,
+      "unit": 0,
+      "kind": "portfolio",
+      "topic": "Річне портфоліо: досягнення, самооцінювання і наступні кроки",
+      "sb_pages": [
+        98,
+        118,
+        138,
+        158
+      ],
+      "section_ids": [
+        "sb-u5-self-check",
+        "sb-u6-self-check",
+        "sb-u7-self-check",
+        "sb-u8-self-check"
+      ],
+      "language_inventory": {
+        "lexis": [
+          "landmark",
+          "capital",
+          "cathedral",
+          "castle",
+          "tour guide",
+          "leaflet",
+          "itinerary",
+          "attraction"
+        ],
+        "grammar": "Past Simple Passive: was/were + третя форма. Використовуємо для минулих подій, коли важливий результат. Wh-запитання: Where was the match played? Узгоджуємо was/were з підметом.",
+        "source": "publisher_2024_with_teacher_normalization"
+      },
+      "communicative_functions": "Запитує й надає інформацію; пояснює думку та аргументує вибір.",
+      "expected_learning_evidence": "Правильне виконання завдань з поясненням і приклад власного застосування.",
+      "source_id": "7eng-140",
+      "calendar_status": "проєкція другого семестру",
+      "catalog_sections": [
+        {
+          "id": "sb-u5-self-check",
+          "section": "self-check",
+          "title": "Sport from A to Z: Самоперевірка",
+          "title_uk": "Спорт · Самоперевірка",
+          "sb_pages": [
+            98
+          ]
+        },
+        {
+          "id": "sb-u6-self-check",
+          "section": "self-check",
+          "title": "What’s the matter?: Самоперевірка",
+          "title_uk": "Самопочуття і спілкування з лікарем · Самоперевірка",
+          "sb_pages": [
+            118
+          ]
+        },
+        {
+          "id": "sb-u7-self-check",
+          "section": "self-check",
+          "title": "Curtain up!: Самоперевірка",
+          "title_uk": "Кіно і театр · Самоперевірка",
+          "sb_pages": [
+            138
+          ]
+        },
+        {
+          "id": "sb-u8-self-check",
+          "section": "self-check",
+          "title": "What is there to see and to do?: Самоперевірка",
+          "title_uk": "Подорожі й визначні місця · Самоперевірка",
+          "sb_pages": [
+            158
+          ]
+        }
+      ]
+    }
+  ]
+}

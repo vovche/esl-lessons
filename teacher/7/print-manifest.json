@@ -1,0 +1,2145 @@
+{
+  "grade": 7,
+  "lessons": [
+    {
+      "directory": "7/001",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "c9c155463d2500a861e5e46ae44324e983fc3fac5d6e37e4ca89cc428847881f",
+          "source_sha256": "b32b5e193a7ccae43c8da5dfb3c8e8267c95cf3d699cb15c5a0383606776a118"
+        },
+        "teacher.pdf": {
+          "pages": 8,
+          "sha256": "9931873671277eedbf21411a68dc7ace83171c291ff212cd31e05f8fc60840dd",
+          "source_sha256": "ce380288d1c3dc146349e67682359d5250362934ee43f9fe7a860b96cd73c7bb"
+        }
+      }
+    },
+    {
+      "directory": "7/002",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "4d2d0a8e41b27a29823ace689f4a010ea25bdaae1539a850d8488b071a10ff36",
+          "source_sha256": "d5f8376c1e4c637c546f8154133ed374c9b738812712e12e88bb22359a3a598b"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "42a843cd1825bc639da80408b0242b19d1f055227ffd8d8bd78a3afb33258f6a",
+          "source_sha256": "98b2cfe976cb051d250dd387b22a2a81b85fadd74e0e46345cd9324d19bfeb9f"
+        }
+      }
+    },
+    {
+      "directory": "7/003",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "daac1158ec8cae0fc6cb816a7156d47203e719d64b283ad5351c4e23760c58d9",
+          "source_sha256": "8284f1aeebd3041acb995445f6b004b778335026d595a36eb5a16206ce07602a"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "60ba68b5c9520ce917c35638c49d62b8262494e1e11104a4adea3257d87901d6",
+          "source_sha256": "dbc3e17d1de90683a8f9139d062430d05cef7db67af87bae55464da89910e7f2"
+        }
+      }
+    },
+    {
+      "directory": "7/004",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "16875dc1962bdd9fbf5ad09af367e1a5d92797120b6ade0addf499b7e5f6abde",
+          "source_sha256": "5bce43bd28e95d03b749985bba67952a4b857c41e8f6c2a67f5cf510edd742b2"
+        },
+        "teacher.pdf": {
+          "pages": 10,
+          "sha256": "28a783373116bca294c93dd1f1579d299fe575b6e00bd0978be39ae52d74273b",
+          "source_sha256": "1cb837554c847dec149051d03379aaa597ea812ff4e006da7669b4ee8a970f46"
+        }
+      }
+    },
+    {
+      "directory": "7/005",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "46472389f6c6c790331f2ccfc04dd3a3ff67ac575cfd807889bf4ae57aeb09f7",
+          "source_sha256": "c96149ec5c34c82b763953eb6939f7649dfc41f7cdbc20afb8e3e84626030e84"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "8ce7acaa5f0b0a958153017f42fc4b7fdf8061836248d34509353f20590fd648",
+          "source_sha256": "de6c1442023fd608ac236ffbffe48e814fea54b6fc29750dc0d7d8061c395f5a"
+        }
+      }
+    },
+    {
+      "directory": "7/006",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "e312586330647b14c48fc91d9b6371b9dd262671fef32fe874c4990a2546c9ad",
+          "source_sha256": "654fab5bf03d15c730bb3216a47701581eb85b54e5e93ffe9ee074788153e239"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "9a53f6fd883659a41e8720f8555fda4f8c01afd6adfb4e30966b57597b391bb9",
+          "source_sha256": "55a03435e1abb7125a47bb314df899f58bd0f4aef9d3fc6a0da520777d172c04"
+        }
+      }
+    },
+    {
+      "directory": "7/007",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "a94dba128374bb15d4a6a077917e0773fa49828053deb066a822d069f7b1012d",
+          "source_sha256": "99dbc61d5a6752d34ebef8b11d0b2b3bb6a25d581ac1ab9889941890b86e1d81"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "df0f6a759a396ca0f0ed5c0fb51a03b86b3f79bdc3e0384a1ada360ab4493ba9",
+          "source_sha256": "07949bd463dfa332512e60f3f4a66f1349d1c2593debc3757c2bd444acf10f1d"
+        }
+      }
+    },
+    {
+      "directory": "7/008",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "7da6464c988cf26571f120dae520981de8ab730ca6a53d61d8908bd972b37f45",
+          "source_sha256": "6354a20b3f3bda1eb26f7f28e10098c9741c57f5ff560ada9c16fb1b233727d4"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "bc2df5b97ba6449e684cea035ed031d2b52523e03f5c2f1bdf083aca1122d7b0",
+          "source_sha256": "3627047e16558cc7d9626752e98282257100217c76aa9ae64d72a78aea37827c"
+        }
+      }
+    },
+    {
+      "directory": "7/009",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "2ade6ff99460c8e82eade83117183cf5fe0d25bc0a2bd9e20dead1ab0ea202af",
+          "source_sha256": "60887436ade15f013c32f371f581df702332cf4dc6ce4c9ca7d4859755746c5c"
+        },
+        "teacher.pdf": {
+          "pages": 10,
+          "sha256": "9aca36a549fe81de76279058503f6748d671b728265290162c7e4b10b41a63ef",
+          "source_sha256": "ce01c349d251a9ac4b66c8220169ee280bc26029ed0bf02eddebd7c982dbbed7"
+        }
+      }
+    },
+    {
+      "directory": "7/010",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "8d26295718386070f8cccf13ee681c4785825685fc0a0f1eaad75d3cc04920dc",
+          "source_sha256": "5d3eb1440ccfb1da0a915efea8e5d05c8750aa95b38f09e77aca3817709d6105"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "2b461bc5e30e0c3265dae2de6a442cde564d474af0980322a3b662c25500c96e",
+          "source_sha256": "bad230f2d4953224a1689d3cf5b3b9e6758d87488bd4a83a77bece36cc7497ef"
+        }
+      }
+    },
+    {
+      "directory": "7/011",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "34431c4f4fa0bf298134c6b64242610d7317c8ecf01b41743772c0ad1c322661",
+          "source_sha256": "bfccf5dd4115e0c6716da8f395ba2aa0bf9db8e85fd771176fce34b08baeab93"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "1b1e95119c89dac7e3ace93360be26ac3ba367f10afaf41ebf3e898b5290085c",
+          "source_sha256": "f9531137fbc4533a9a1468a1cdf675ba1e0abe8de60ac7222f4d9800426a0490"
+        }
+      }
+    },
+    {
+      "directory": "7/012",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "4afd74c0f4a5d9454c9a04a95b9ed146deb6a1d1e185b3c8cbb294b32fdaa56e",
+          "source_sha256": "9c00cd999395bbc2127eb76c33758ad5c3f9a52a82a701dd8dd9039f0d878f3d"
+        },
+        "teacher.pdf": {
+          "pages": 8,
+          "sha256": "1b56e53cc6414958c7006dbd636d065c473ee93c28b31ff254d3439e8beff0d7",
+          "source_sha256": "1f66f558049429d83f7ae03b0172054eb518995938203bc5796e222b607a3f77"
+        }
+      }
+    },
+    {
+      "directory": "7/013",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "f87583f41bb72c9cdf1e3df1ef018951b42b8fbb8a257d6156c06730d00856f8",
+          "source_sha256": "b81de6ef6b772fbffaad0a1323d609b8388bca5e00290d1990f9facbe93f68b3"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "b93bbfadff1f5d6fb36fc080af63272866845258199c7f5cccb91f956a7d74d9",
+          "source_sha256": "2589bd9a6392ac1a2d13feb43a2f7676e84c3d2b82fd0686ed0f06345d0eed20"
+        }
+      }
+    },
+    {
+      "directory": "7/014",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "0376a58a687d9836e5b722d9f57c58744cfe16851790fe58225cf5281cfd4973",
+          "source_sha256": "51f3ab9aadebab79d7e8ecb190dde3f27101cba4a493ff1391d14377aebe276b"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "e732e4bac89734f5ece0bd9a8e122a6250e8f0408c6530b61a149175a6d026a7",
+          "source_sha256": "bd3f0cbd5176e39bf9ecb9f62d86f7953c0331082e581f40d09b4778537290d3"
+        }
+      }
+    },
+    {
+      "directory": "7/015",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "e34909c4246e0409aafe90142684284e434a112db366b6e0dd9e99b44179207a",
+          "source_sha256": "7cd9fa0d1dc9b5099ce1e7110140c76bc848c6518473decc4e7b628463c3951d"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "8247fe1393820c6e276f8e78339eb0065e4821bb3b337dfae53d9c851ea761f3",
+          "source_sha256": "9d91e48d728746734c54ba2e44e916270270a529bb132ad1965f7af17c40f79d"
+        }
+      }
+    },
+    {
+      "directory": "7/016",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "1082ec1d07592e2da1d5384f371682c3cc79fe8c8ae40d734f17e6419c509f2f",
+          "source_sha256": "6ab0e95532dc361b5dc52925a4bf2b4b2bc806e756edd5039280e21423ca1051"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "b9b5ff255169d34d0ddbc31ee04f10cae5d407d047830bd7ec87ce85bfa445d0",
+          "source_sha256": "32366b3b8aeb1473103c0b28e8a8377601d042424b1a55bb554b027db34a5801"
+        }
+      }
+    },
+    {
+      "directory": "7/017",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "931b747878972321ec13ce25971e0edda9e01c260a89fa3e1a064d6060363723",
+          "source_sha256": "47cf7e57d01ccac2677c3e17724bfe60d789924085a89ed8445f58b9e4a380a9"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "2ef69ef5ade600303f4b03424c62ee74fff14554161d50bf1e26ef3bdec121ca",
+          "source_sha256": "947c1282fb7a13ed4401b44eb5a0da7d49b25117429424778189a18a6049f6f2"
+        }
+      }
+    },
+    {
+      "directory": "7/018",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "0df4237f7eb5c2f05a509767a6e276be72a82f6a73b88debc747b36775e45563",
+          "source_sha256": "45e5cd21d4c630e1460cc311ba420264399640b5e8bf0fa6bcd33f6e9b5a299b"
+        },
+        "teacher.pdf": {
+          "pages": 8,
+          "sha256": "ff4eb5fbde4927f4642e55f7ad6255466050724f2f05ce223a7b304806d1b495",
+          "source_sha256": "c59d43fdfb68a44d9ea230f6ae933568db20b18c373a205e5b2e952516a4d79a"
+        }
+      }
+    },
+    {
+      "directory": "7/019",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "5afd735b7dd9415cb22ad29e3a5a4943e377014e7bd33032f90312de4ad80167",
+          "source_sha256": "de4a0c6093df13bbf7048d6f797a69183d56d79c2cfeffc30b950ad0360b1fef"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "5e2bb6ba1e8ae2edbfb14673dc397908b9cb6d024665ffd0203ed21e0d76d3d3",
+          "source_sha256": "185d28f8d8c8f58d5b9c093528794e31821bb6458402b32f42aa938bc0bbaaf4"
+        }
+      }
+    },
+    {
+      "directory": "7/020",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "bec0b22ebda4e0b96e2af9adbc36d206c9665f937bd99920c5b9c3999361b3a1",
+          "source_sha256": "45dcd97d0fa167c24ae07a29679ec60faedca661dcb03733831f8761cb07ecd7"
+        },
+        "teacher.pdf": {
+          "pages": 10,
+          "sha256": "4ecc3221b8a087aa8cbe405a29e5dcf34bc84b6a57c806d6fef65e7b6ca6baf8",
+          "source_sha256": "d2d0fbc9c727f8aacc34b6983e5eb4dc5401f613e127de0bcec4faac7f71e639"
+        }
+      }
+    },
+    {
+      "directory": "7/021",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "305bae8a7e9643e6d89bb3652d20572381ff11e61519191d49fc2ae4082851f9",
+          "source_sha256": "f6423d15e8c6304cc616029e992e9190e2bc83df2ad7656c85e62498c964b215"
+        },
+        "teacher.pdf": {
+          "pages": 8,
+          "sha256": "89a5bc9595061755b637be71de695396860dc58ebbf4dabe3175b9423f831e51",
+          "source_sha256": "508da073697b337e0aac8cf9de8a245e617ccd2ae1defd2ab6455f6df5d9635d"
+        }
+      }
+    },
+    {
+      "directory": "7/022",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "093303c0f742d290052cfb45a0010d2723721cd2a29aa7a2fd7c9306e5744f1c",
+          "source_sha256": "81e127a86c9f3a9905269881dcff895f53c68732c7042011b7710f43cd10156d"
+        },
+        "teacher.pdf": {
+          "pages": 8,
+          "sha256": "998a5988e919b7c692be9ab98b094c3c8090631c06f3ddc0b75ba45debdfbf31",
+          "source_sha256": "13bf10f2d680a85d7ae1401d3a73d43f1cb6a7ad066663f562ec58bc657fb7c4"
+        }
+      }
+    },
+    {
+      "directory": "7/023",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "d3228af6814a1d76f45be479331e213df728a5112c4825ea1e133267dfd83f4b",
+          "source_sha256": "8b2c7725bdd97bb3e01861f6fa3920bb6bd973d8c23f582b5786cd40bb04f70f"
+        },
+        "teacher.pdf": {
+          "pages": 8,
+          "sha256": "32961467ec344a7866d097950df5721518649ac6ac90d6ad0eff982416fde2c4",
+          "source_sha256": "5771340483e7026d73159c19d9955235ac24d0a66f572e9847fea77ede60b71a"
+        }
+      }
+    },
+    {
+      "directory": "7/024",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "0e7708e62a95485ffed4c320fa8db32b8a5133f66e3374ea8b84087fd0ecaa24",
+          "source_sha256": "e0ef3dfb4ed77af817e3535fd9b0934e35cbb67ad26d8805d644d2f61e1c6ccd"
+        },
+        "teacher.pdf": {
+          "pages": 8,
+          "sha256": "0eb5521239bdf74811977f2aa3bb46daafb6947de1ca4657081abfe4d1307bd3",
+          "source_sha256": "51455e2aac0ff798e6fe4cd551506b4442666102ac559fa282d9df36644f0416"
+        }
+      }
+    },
+    {
+      "directory": "7/025",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "aa43ce095890bdd76343aaa2b6837875dc170a903fb982db2a86fa167714fc6f",
+          "source_sha256": "6e0c12dab002e7fe402e5347ce86b9f39968b1d39f9d21ebe240f02bcddfb4ba"
+        },
+        "teacher.pdf": {
+          "pages": 10,
+          "sha256": "f29a59c6d9bd952a3abed5403c610b24b64a862c47a60b133e09456c3450fcb0",
+          "source_sha256": "f6b2597720578f0305d264facc298986f24ac90e57248910d4a7f7e245e0d237"
+        }
+      }
+    },
+    {
+      "directory": "7/026",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "a73bfd0195f66b5804122f50af25c77e5587317524553c848afe62787a34900f",
+          "source_sha256": "c2cbd13cdc5faa9ea6d5c954cdd70fc972c9672b9e00f2ca2a0bd1a856a16733"
+        },
+        "teacher.pdf": {
+          "pages": 8,
+          "sha256": "9b4d97d1f0cef7104298f4b59e7a22c2c3527996cd4f2d366b9cd24577036c92",
+          "source_sha256": "80aca0c18c6434dac3477e6955f5b673ba607a474249f52199a96fba5a3ee78b"
+        }
+      }
+    },
+    {
+      "directory": "7/027",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "c5301d8e4a92ca31be65f53abefd7034bdfa68a13daba586514d7954aa76d88a",
+          "source_sha256": "afadeb0b1e93fcd0cfccec216eec692716f9678837788e84f5f4edcc7389a54b"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "3588dbee49f2961d8392770a710dcdb09c7c2397b7b57c12ef5de4194a6ef49a",
+          "source_sha256": "51ada5f5765779db39c5e425c36fff6918bf8ca01656026d8fcdf38d02e3dab9"
+        }
+      }
+    },
+    {
+      "directory": "7/028",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "b04690d7fd8b2e870d193505c92478c6bc9c3d2fcc758683a4cfad66046cd576",
+          "source_sha256": "d5cc87fe9f7000eb102f8852a4906911d8fa1e1db4b6c564744c8365f44254a8"
+        },
+        "teacher.pdf": {
+          "pages": 8,
+          "sha256": "20735220a7cf76ded1a24af28cd37ce2012e075738b72df7cef4b3634f1444f2",
+          "source_sha256": "1d77083afc010bd58d7ffc35c100b9ff367995a32dfa2ec05ba8fd4ba221f45e"
+        }
+      }
+    },
+    {
+      "directory": "7/029",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "6985cce82e3a5420ef9aa35edbc6aaa0e674e3b58f6bf2fe784335e6634a5e67",
+          "source_sha256": "f1dfb0f7539b69dfd0343102fde065f16a24b24ffbbe08452b1c532ad29f8e83"
+        },
+        "teacher.pdf": {
+          "pages": 8,
+          "sha256": "dbd8bb6ce731de99811c625588f4f904d1121acfc010e597478235701c910841",
+          "source_sha256": "e7a2408258e1abf304001bc7ac6584cfbd100295a9476a836f405e655066574e"
+        }
+      }
+    },
+    {
+      "directory": "7/030",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "4a3837aa4436cbae6761d32bfda2b35222ffde94202d96d398439c3b6f5a4954",
+          "source_sha256": "2eefe09384e2a35219527f5292da81f465d65ac186fe376a494702e2adad40d5"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "d743329d8a22fddc03f5ef4dba3c8f6771aeb9d3e8d753f9dcced4fbe7195ca1",
+          "source_sha256": "70634acedf5c5ba2ec31b76a63a027a7b56f810b30246d07303b82f738c4f23a"
+        }
+      }
+    },
+    {
+      "directory": "7/031",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "7d85f557065c90bf277481702e38240f9c71f62b04a28a42d4e6bbbe5fe7a91f",
+          "source_sha256": "c3d07ffded675284896787618a22c0e355774d725cba90ad76279c4646b6da3e"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "f756407cdf056d228d89619a5651ea6dab6e9de600aaf5951965fd3a2e6fec1a",
+          "source_sha256": "b74620ba711e6ff491cda91eb761eff9704ad5706cd37a67fe9442a960647741"
+        }
+      }
+    },
+    {
+      "directory": "7/032",
+      "files": {
+        "handout.pdf": {
+          "pages": 3,
+          "sha256": "f886794a500518f9ad88e136e66add5e3db843be202a33952f35e0e59bb3e9df",
+          "source_sha256": "4ae2aebb07375b51d920ec2c4fb57388d2fbc47111c610ed9c4209af0004f8f6"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "27d5c57a1a0ecfc7f303dd405519adaf0755e48d3291f01b5393611186838d59",
+          "source_sha256": "b7a72e623efe420fa224f63dc1e38de762c11fe66e13fadc20acb77db3f490a5"
+        },
+        "recovery-handout.pdf": {
+          "pages": 3,
+          "sha256": "7047f7715ecbb3ae2dcfdb96fa8e4afb5ecedecaee9bdf0d02ff844dff4809ce",
+          "source_sha256": "fb9af410f79db109bf37e268ab0e21a4629e0066eb7f0bf45d1e6015949effa4"
+        }
+      }
+    },
+    {
+      "directory": "7/033",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "bf3dcba1ec7a9976d38ec18fa1ea18f7af195908855d8616d665b80eeae5fdfa",
+          "source_sha256": "7028f95eedfbba56b7d7d163db19b6ff0e83a1f0f888d9b79cd84f784e055304"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "60b46866b0e6e0e1d22ad785632d9d0494767ec2e478e43e7670a852f7f19141",
+          "source_sha256": "db5e547d9cbedc8f81abd6335d6e4909e442f02a7dbac81d8a7a44d65360aedd"
+        }
+      }
+    },
+    {
+      "directory": "7/034",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "11f99c44e80390f043c3c6c523abe18c7494f9e8cb272e076423b7f0f4e4e754",
+          "source_sha256": "ca66817a25e62bad8a8d3b7f398499725dc8f21a099a42a6fa9b81f9eb37705f"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "cb1dabfdd878c0f4e75422cf21bab728bb333d469167a568939e9153663a1a5b",
+          "source_sha256": "9cf1c052fcc54c4a240e62823761c8abed5a036ca088bc401d6d6652459807b9"
+        }
+      }
+    },
+    {
+      "directory": "7/035",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "729a35e1b8be291cf218cc5f4fcad3a68d8ae706b6bd5c6127ec8e6ee1c2e70d",
+          "source_sha256": "cc34728099061af2350b23d66f0cd7850c97583442d7e0ee0eeb43b831b9255e"
+        },
+        "teacher.pdf": {
+          "pages": 10,
+          "sha256": "4fbed6ece2c18e76038ccad4c7af4acdd4ee844d829db190d88b1668ab5119aa",
+          "source_sha256": "48f42d2bd71f87a3df3d66473f67792d2b988465e41339272ddb180ad1094f64"
+        }
+      }
+    },
+    {
+      "directory": "7/036",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "f2b47e5be66790ff7693ec3204660360a1cbc553e6caa974f95ccf3a59060274",
+          "source_sha256": "d5b554768f3143918344fb9c477e27072cc0c51b282fe1c456ca1e068a0e6a3c"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "96a05915f0dae2bf9483dfc096ae2ab7f11028892d0b0b4d64d6afae637162db",
+          "source_sha256": "846e8f45991e6e697d215a5d033190fd5ed4d26b5f926ff67bce82542e30e043"
+        }
+      }
+    },
+    {
+      "directory": "7/037",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "ba3ea62dab701d7321bb4c7f4befaa7b25e3ecab84d562610de970071d0d9c96",
+          "source_sha256": "376b3a8a7655ece345b6ee0b31339963a32c298253970b2daf8e80f2afb50a14"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "c70dc6dadd24a3bb302ab0b860574dd65f355940a6d7a442d8017d99a84f7f67",
+          "source_sha256": "8faebe9537cd0bd882bf656bed6fceb21909495eacc0a45e70b979386bf652fa"
+        }
+      }
+    },
+    {
+      "directory": "7/038",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "8d08f1956a8454399a38e427a186a4a44c97e91e8f2ea3a8b399580c4e91ef57",
+          "source_sha256": "ba2c85ed11aba6b59a9c06cb3f615eed8da8f5708b07bae94d8bd583265faaa7"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "2d636947497f01fa424f173a3fc5ed537419045ff944b696b83fe436896ffdf3",
+          "source_sha256": "2d6559d0b72613ccd9253ddfa86f56249d679aa13ed70588f3a82dfa1ccca7e4"
+        }
+      }
+    },
+    {
+      "directory": "7/039",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "42c8def18aba23b97a49491e3be751c2f495cdd93501703bf0a9d32a27c3252a",
+          "source_sha256": "9db4265dabd932bf2d9e7b94553ceac2146814f777b7e542dd4daad00c2d1957"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "1b9f21bc6f27ad1b0b4ba74410112e10faa76ba90b7dc93e72987d12e9905ce7",
+          "source_sha256": "a56426fe1649ae6ac051068d4b5f96b11e42a4b8f235b514a7a5b237ebc5f195"
+        }
+      }
+    },
+    {
+      "directory": "7/040",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "664e2dbdfa99424ef12eeb0baba496c4d7c8eb6ee6852115aef461fe15238c5e",
+          "source_sha256": "04dc8c51a34cceae68fa50123b2e6184d8b8ac48ceb50bb1e4c4730c739d4bb6"
+        },
+        "teacher.pdf": {
+          "pages": 10,
+          "sha256": "0d217bc5a8d0fbc6cd7343347a8e489ae409210c2bfe402449e94932ec60eae8",
+          "source_sha256": "e6dc09055c536d3538bfc6dffd7948965a2d6faa01b812a964b03c070ff5d03c"
+        }
+      }
+    },
+    {
+      "directory": "7/041",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "b083ba06e51bcd1aa862023839daa4f23879bad7c542956023e9fe698e9362ed",
+          "source_sha256": "9d56c080fea1c7daacf312e80185f5479dae3f9547356d873f8b71f9e82d5604"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "029d622fc753bcf32a8c6d5fdbb261c2e25be66a443cb26ac6e6a615fc5435b9",
+          "source_sha256": "33c19c9ce5b3107eed11c18584964082df48dcfcc82d9377cd07a3d24ee7cd7f"
+        }
+      }
+    },
+    {
+      "directory": "7/042",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "8567a8498a0479b65e249ea430d455e7145625a06bcbeff2881d029d6ba8a7ac",
+          "source_sha256": "aace6247c381195930ec90224e5327c44b547a0c16ac63b926eef668c7a36f7e"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "e3051da0514dbe1ad5f395d70706c749bcea8440b7776001f87e7d731faf125a",
+          "source_sha256": "dba194115317108e2c285462bf7ba5861dfeb7626b5fb08ebdb6c6433270c27d"
+        }
+      }
+    },
+    {
+      "directory": "7/043",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "87971b66e57cde34367e91d487ba83274071baceceba52530a44ad52a4743137",
+          "source_sha256": "f1a2cf5cea238f20a291d6fd597da78914ea278a39f20f581711005867f442de"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "cad40713c959e052c434ebcf8a10d640c0ab6ee07ef7d95cc5323a8851899195",
+          "source_sha256": "336ab512702e3855b42cf8480ea802d6a8fa3d4fe99463f9531806e1f1ce82e7"
+        }
+      }
+    },
+    {
+      "directory": "7/044",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "03dc97b3035bede952365bb719dc5ff4e485c816b3bbef66efb7ad76a06c3e58",
+          "source_sha256": "f02d99ece55dcce50ef029cb8ad8e9f86ec4e32d492c2812a0184f09e9fe803b"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "1832fc8bdbafc7668576a28658852f6ccd42c9720451c54e330518139bb259cc",
+          "source_sha256": "d057aa894b1ab5c7cba04f29242326eb616803a8fec3d382169943ded487cfaa"
+        }
+      }
+    },
+    {
+      "directory": "7/045",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "1f407fd82c9b763e35bc3d115ccdd96cabececfeddd42cab66efe9e71a765c99",
+          "source_sha256": "6dae50bb005f8f35ecf61d3622474b4579d3a41602eb66281f50e7b96856695d"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "a5a558c63def21b4399a4a29974392ac2f0cedc188b140f4a4f8f011cda7e91a",
+          "source_sha256": "755e91d7c3ee8a0ca43ff314bf642410b5e44e12f770de2ce07f10adb0ee3fef"
+        }
+      }
+    },
+    {
+      "directory": "7/046",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "e41911893547f281f5036f10bb1002d8a712baa08f77ed1d3b20d0742b870ccb",
+          "source_sha256": "121c1cd539d88c6f8ab95ae64bd98d76861d36e0c4d972bbff8230174aa5d8fc"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "5977c096db1d88f65b26f6cf15c74d0a3395dc00a9a731ae145515941931f0cd",
+          "source_sha256": "617ba3c30238d5a31d0ca8dfc2d2fa53cb54b60b52c860d91ba67ffa8b693f9f"
+        }
+      }
+    },
+    {
+      "directory": "7/047",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "954f85780d28c9f969ef3569a560fdb41bca94ee606436c3da6fbf2cfb939027",
+          "source_sha256": "b5d1a1e1c5b3dde5a73b9eff9f9bd66e4e5608b9dbd0b68714d1e262fc737d05"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "78e70e5fa5f02fd1b391d049a66f19eca27b1faf154e44ce865995afb24ad1ee",
+          "source_sha256": "300911109311a2620968023874b1c6379705c5c1cc022cce0a8d5639da460260"
+        }
+      }
+    },
+    {
+      "directory": "7/048",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "ffe0ad89a9621d13126ad008f1efe866931997f27c57aa9261c398e8f9867213",
+          "source_sha256": "f0fd1547833ba295236d7b0d80a62dd51482aa1e27a8655e0b4f2129645fd4d4"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "951921618b9ac3064c283fbb80f2465279b94770236f90f7c713b22527dd2eea",
+          "source_sha256": "e46f080e5ce5cadb490d0241d1cf4cf658ac6fc76d7e079f56af956f74119232"
+        }
+      }
+    },
+    {
+      "directory": "7/049",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "1e1d7c580a8aeb81c4a8a311a4283cc077de76db5175752404d7bc45a2428079",
+          "source_sha256": "e62496812a981a4a5bb9e700c349756a909d00e34b6fba5d5849c67d1503034b"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "93bf45d1e11c3c612949f67d9118745c26e6e6176b1b1afe91cf965932659025",
+          "source_sha256": "be5bf23093a8b071dc28d6ad51807eaeb0ff7f30689f923b46dfde5a48336417"
+        }
+      }
+    },
+    {
+      "directory": "7/050",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "f5f084c77a0cd0e6b1c88eddb530c04d51d1e00192106441169f136cdbbbfc6e",
+          "source_sha256": "f895aa6b6433042a4ed08b69c795643c161472e98636392adf7af50ca72690d1"
+        },
+        "teacher.pdf": {
+          "pages": 10,
+          "sha256": "78360c26c88cfebb236260cf9943e2ab63172adc3717f846d3cc0c1654e32cd9",
+          "source_sha256": "2efd39ccdba65fee5c0c42ae0e74f4d5992db81137c39c800b1a5fe55460d2db"
+        }
+      }
+    },
+    {
+      "directory": "7/051",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "72f22948d523d6f78ca0f86834c5ce21ddbe2ce38f6ce39eb709a6fa48072a67",
+          "source_sha256": "3effd0286995d46871e352a4f32d03a3c56d286c6e5e0ca99543f3ff0fa3fe0e"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "fd4f763b3c951082bf74f090d7e41690bb93e7e34a7e7183ea2251c0f728a50a",
+          "source_sha256": "518a3a4747e034f763eeec28e813b3b9c66a3764e01129019394b9e7bce99a7c"
+        }
+      }
+    },
+    {
+      "directory": "7/052",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "ee94282a4348121a2ddc449aa2943af4eb22b43eb0823cad9a759db7934f37da",
+          "source_sha256": "26c94d055867e069edc857cfa8c2fb36eeac09a3f5613ce702cc69fb5d6c45dc"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "12bc19fb4e2e49d4fdcef931048d8090056284432d5640559513a7d7337367e3",
+          "source_sha256": "adb71637d288462ca5a3c36bb548b8700a51addce37d245be6a842a03012bcbf"
+        }
+      }
+    },
+    {
+      "directory": "7/053",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "2cc19dc1bbeb2e7f007f245cb9c8ec70b65884b1eea6000898c9b48846eaaa8b",
+          "source_sha256": "3dc79749491143a0d268c0546dbc8b32c6d3803bca745fc7ab719557ee865eea"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "460a03eefa55115daa851ed2c80a0dba52db1a40d9ea63936470f3bec8658d97",
+          "source_sha256": "9cd92d6577fb7d6684efc771fd27c757b4ffde3f16cdd1483aa6bdebee64d0b7"
+        }
+      }
+    },
+    {
+      "directory": "7/054",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "dbe01c7aac81c2ad325da7391741d74a94891fa02ee12e4685b139bf99b8ff29",
+          "source_sha256": "0ff3b75b12ff0b06fa59e7519df29d6595b3d8667f4ea3bde30ed413916e801f"
+        },
+        "teacher.pdf": {
+          "pages": 10,
+          "sha256": "2c7c906bd7b7795b9383d16b8d907981752de20bf0a8a64ab85c469eaf26b584",
+          "source_sha256": "1f52250ef53d9980927317fd1d2ba6c7189413b18afa6a9194a318559ec39782"
+        }
+      }
+    },
+    {
+      "directory": "7/055",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "f6ad25802ff772d57522a2c65390b623a7e7268a3123d3b200df12e2e5fd7db8",
+          "source_sha256": "88e011e7045e16f9aa495524d5f0a349a5d0e83ed057c08685c82f2e83eb279f"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "bf62b19007795fe3838200470289064308d819e2c894101caa8fb948f5cb2673",
+          "source_sha256": "ccbea472faeb6b3279bcb86bb0a5025082ff62e1826afd669b151cc9ad7fed95"
+        }
+      }
+    },
+    {
+      "directory": "7/056",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "e875691b462ca765c228780410a0d05295694eee7da366564097f93cd4221da1",
+          "source_sha256": "f1a400d7177a62b2de67a3942e2e615392ca174102bf237e3e1794a6017811e3"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "d18ec59da50e333fd0288bec50d1e695518b3a5e62ea0084dba664c1c71934a3",
+          "source_sha256": "55fd60d7bbf5e379d74d86b8533590e516506dcdad83e04623d8b790f6ff78cd"
+        }
+      }
+    },
+    {
+      "directory": "7/057",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "bb85e1d952eda57e1bbd882b8a9aadb511a6c71939bf2fec3e13c71929070c60",
+          "source_sha256": "e03dbba4117fb294e03594ec6476c38bec2effd06b3f5d2a0e10eb2b510489af"
+        },
+        "teacher.pdf": {
+          "pages": 8,
+          "sha256": "6fc840c08fd69faa39277f658beffdd29909924a3b3a661ce3c712b6749d28b4",
+          "source_sha256": "90bfffccfa42042bb078f31c9871a38d8a88448798c75aa4e0a749e541de3dd0"
+        }
+      }
+    },
+    {
+      "directory": "7/058",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "062c3df1e1c0a5b903a0bca9c1e7e0082e33db497888013ba3b2481bcd0b02d9",
+          "source_sha256": "ef60a5b2fa8b217c3c9123f0b3ab67bb48c08104c66db0bf017ac57cbf25b63f"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "31f99dd9df9143f71d8d46c51976f62a634b43300ed76a8e3a5c60e28de2626b",
+          "source_sha256": "50f48ff33f97d7d6202d1386c03ed827bbbfbbf7c64f8a48208a6e43a451a1da"
+        }
+      }
+    },
+    {
+      "directory": "7/059",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "f6a119bd2a01c09f6e699b8ba3ef38c7fa1a423b9cc8059d188c7624fcf10e5f",
+          "source_sha256": "a97199129f4a0ee965de1be7319ded235aaa0d9c1d98232b0796ef23089d7884"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "74907d9ed69263eca7b7dd9a5b587cf97197cac30ceb769ba08d6956f0e6e4bf",
+          "source_sha256": "dd3f6dcfa34bdf3ef1433679750cb260d8118b7e2bcc28028ba2d4edee217512"
+        }
+      }
+    },
+    {
+      "directory": "7/060",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "40f47febf1c2b4e5cf391d01433ad454107f3bad52c58b58d47c4bbb1eecc87d",
+          "source_sha256": "e9f385aadb9579c3bae7c5878d18459b1b02014591bbd6a656be223e4355aeea"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "2d35f217234752ab439390637935bd49bab8b132b594d38996c9568e97cf4ddf",
+          "source_sha256": "347e0eefd8e9c727503c81352c2737985740495fa502e5c05924b683a5cae904"
+        }
+      }
+    },
+    {
+      "directory": "7/061",
+      "files": {
+        "handout.pdf": {
+          "pages": 3,
+          "sha256": "e7d6047fe424c83f71574f6688295d8a6907e15b4b408b86dd3402db856cf6db",
+          "source_sha256": "1f9196b6d3e48571fd4c3b373a709a24d8141e13d9b5fb65a81b3f1eb13d5441"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "7b298816c769e3b95e671e7ff2564d1643bc707d980b0f1afc7b6089f11e4677",
+          "source_sha256": "ae8c145f0948e042688015221251628881099781b1c9fccf17220f8b06bdfb27"
+        },
+        "recovery-handout.pdf": {
+          "pages": 3,
+          "sha256": "507fa671f3570bac928cf03557cae3f87d0aa1ea2a9cf700148521d4e28d8e56",
+          "source_sha256": "3b7ec89048f53c35d294dfb9a531bccb71b889918b9422779674e16c20b9ff2f"
+        }
+      }
+    },
+    {
+      "directory": "7/062",
+      "files": {
+        "handout.pdf": {
+          "pages": 3,
+          "sha256": "d2ccd54d1c80a76bf662d1917d1e1ed524c9de83ccb5608d345e665135ae960e",
+          "source_sha256": "54deaebcfd8c65f1c9b39e69a8070bc8933659e3bb6fb902bbdb80377922778a"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "3f032932c61286503303a2e6c3ab0a60cb2aead0041c40b2238c72133b39b8b2",
+          "source_sha256": "e882e6cd63855b91d222e61dc93b34fd42fa3a7e0f56a3bd788e41b57b44f2e0"
+        },
+        "recovery-handout.pdf": {
+          "pages": 2,
+          "sha256": "8114af69c615cf1e0da805ff1abbfbd7db221d746e7313b468d43b36022d1872",
+          "source_sha256": "f6a20f34242052ed9c720e8f8dbce0954ba5063ef72c22fbccb2ff6c6f0475c8"
+        }
+      }
+    },
+    {
+      "directory": "7/063",
+      "files": {
+        "handout.pdf": {
+          "pages": 3,
+          "sha256": "333e5a831a140530cc7709ae3db1843c03df62b3940e92a2ebeaea54cb0749f7",
+          "source_sha256": "ec5f495a5f927cf4498e80fa6a894ed84b485bae6e160df62d4f60412461eedc"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "f1d84df428678740f9f07b99b7d43c3bb32f3d1f8d026b3e287f8f5a5e55c2cf",
+          "source_sha256": "17a787d5ba286f3c5533516b49e8fbe27cfcbe6282b2d515e21a302b58157db8"
+        },
+        "recovery-handout.pdf": {
+          "pages": 2,
+          "sha256": "59cdbdbc46b7532682a482d1e4683628e18351913963a8c8beb5e9eac74e5cc9",
+          "source_sha256": "a7ea8f46045f56abca555b947f0a2dff65318c9c01c260eafe2de8f2fa423b81"
+        }
+      }
+    },
+    {
+      "directory": "7/064",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "e9c16e3e2b420551328c7e6afef323ad4672ab825a894e56d736745ccf0cca2f",
+          "source_sha256": "a684bd0c43870194a443aa915f36acaeb764fe4075904e3edd61c2cfde245272"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "8aac392376fe1937c1a2e0ed2c5ecdd55ac22ff3852ac6b62338a1cfdb4ecef3",
+          "source_sha256": "60e2f20437bf0a3b22d37ff10aa0d4bd08c7e7e95cb0ad161c1ad612f8d39c93"
+        }
+      }
+    },
+    {
+      "directory": "7/065",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "53249b230dcd4d21ccffe5b98c763e2ccc573ede8b3cb8c62c618031660d19d1",
+          "source_sha256": "1dad7a506cadcf55f320a070fe6a4c061b3ae6d27615f74e96225b98f891dd19"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "27062433c34c136c35376c13aad89bcb63a54b29578ff825c0c10a8be22f5b59",
+          "source_sha256": "a14b4877d4b56e2a03a472638189701a06cc3917bf04bf99de2bde0d6872f7ff"
+        }
+      }
+    },
+    {
+      "directory": "7/066",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "39a6fa289cc9aa37c27596c5a5bdeb436dfdcb723892d4aee7cd69d7e3da7568",
+          "source_sha256": "b90f231ace7d7c91d8fa47563a15d7f9d185e2bbacc5aaebceae2693ecd5c20e"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "7aba37e5e1161252112b681c3dc2e54f4b90a94156415eb57b1b5930fef4b1cb",
+          "source_sha256": "fb38afe52d7e0e783be4fda9bc64a7623e14ea2a905794e19b8f7b0008bf983d"
+        }
+      }
+    },
+    {
+      "directory": "7/067",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "512d761993f341d24aaa570ecb72fd287d05e6f9f0cbc2901df1fa63df808865",
+          "source_sha256": "72c4fd12bb18b465e5c9f8dac7e18512ca15808e3bd2e410636826527ac24a3d"
+        },
+        "teacher.pdf": {
+          "pages": 8,
+          "sha256": "22bf78206f06dc56cf3f046294d8eebaf4ccdab4437d57d7aa7b586bba5df189",
+          "source_sha256": "0d5af4ccaa968c6777dff2247aa2fe025d062b5d2aa1aed385441f699c2e95ff"
+        }
+      }
+    },
+    {
+      "directory": "7/068",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "ae10a42873b805de5c7342d6070054063096edfe14454b8f35c0d0b64b816197",
+          "source_sha256": "ad1231931587be07e2ca8092c082471e23d13257cfdf5dbf767b027cb61c7313"
+        },
+        "teacher.pdf": {
+          "pages": 10,
+          "sha256": "82ca5b9c5e482b8b8fcae38f84691c83d75f46b485d020cddda7342da7f80e72",
+          "source_sha256": "b248d12811d4c883d081fad30c27c8fe95e1c70bbd3f32d58e533b0e9bc41bac"
+        }
+      }
+    },
+    {
+      "directory": "7/069",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "e0d3e89d4fe284c0b5eee720a8aa914e22d89d2a6a1ee0bcb766e9dc70d10289",
+          "source_sha256": "c8598390626d5534689e8b133ff1bdd0b400fe0e5af25f5126edb23b9436f93a"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "cdab2d48c21a16bf49a00521fb660046f71155306f088c2f55bc6a11833694d0",
+          "source_sha256": "e99bd64d7400b1505034fc25c18e399875b81cf9b8d35de81c80fc9ade05869f"
+        }
+      }
+    },
+    {
+      "directory": "7/070",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "6b149b8f5f8828f290e4b0c925748985ce9e0a0ea57b2e541422e553e5812333",
+          "source_sha256": "18ca9b5c2f8a80aa5a213c9015d85c2c531eff4096eeb941c632ee6d5a828a3e"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "d04d7cfc3108f69bc6ee82726d533a7af8f8c8f70d30985257be6688077d138e",
+          "source_sha256": "de9f07b37e728597cd016b818044bf96f7045e684c86cab52ae4a00eef4fe37b"
+        }
+      }
+    },
+    {
+      "directory": "7/071",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "0414bfa24e83ac149be2345f33eea6fcc2b873f5ac2a92c6ed5d6b1b2ad7dc62",
+          "source_sha256": "6a0eb51da3feb5d3388de488af51f8bb674d743a9dc23b825b585402bf6e8aeb"
+        },
+        "teacher.pdf": {
+          "pages": 8,
+          "sha256": "8f442092249ee929aaa0db5dfc7b60e92b6d32d404af59b18bb2e9ae6b04066b",
+          "source_sha256": "8b97fec27c763671322be77d10965542394184d578fd2831c0b65e96f7c501ea"
+        }
+      }
+    },
+    {
+      "directory": "7/072",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "b90d4c52c53759fbb86ebd3355b56216e869f94f8971dac51dcf44c3f7145e93",
+          "source_sha256": "f531e3855849ac86537b517c86d894ec0f09e4efd14a5a7bf8bec38322da6f1b"
+        },
+        "teacher.pdf": {
+          "pages": 8,
+          "sha256": "ca7d02ce52681ba1c2431078f82cfe6748a54b7608654d0dd469b2876b7e8648",
+          "source_sha256": "d1ac99a1a7c534b4c48b1dc617c6ba398c2d7647f9eb2748fc54047d91c50672"
+        }
+      }
+    },
+    {
+      "directory": "7/073",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "a0811759d845c605e0de24413406d4614c2e4a92a0906cafc106d3faadaeebd4",
+          "source_sha256": "b054ff2aff49d9300335559ce15c3b59ae21ae60f5f7793aa58edb285580344f"
+        },
+        "teacher.pdf": {
+          "pages": 10,
+          "sha256": "eeca968d02e588978b36173bad3fbca02ca53064d1b0d6c0a63c487a59900fba",
+          "source_sha256": "bddcdc040d6c0ac58c48af26663753409f06ba707066094c4ce3cca9a62c0310"
+        }
+      }
+    },
+    {
+      "directory": "7/074",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "b7e0c1ae8c85e2dc09f905690262dfbc4aa27425350a767477c738af46feac3f",
+          "source_sha256": "697b80cdb5be28dc32202ce0da783a0eca6f935be30a65c51abcfba667697b0f"
+        },
+        "teacher.pdf": {
+          "pages": 8,
+          "sha256": "b8e873c564866cb27fc5802685713aaadb10979eda13f205ef98e464003c08d3",
+          "source_sha256": "b4f3cc5fcf2157003e73600b7cbab4a07c877e5747ca4988336ea287af800e6f"
+        }
+      }
+    },
+    {
+      "directory": "7/075",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "51f4f093f74d8e446a7687d61aaa6b7c8621b4ba5ae758a7ae524d1fe7b1efb4",
+          "source_sha256": "acf92000cd983744863d66b8669a2d2946ab08f58fe953c37c9593b288020fa1"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "3336baaf332fe49510c1a35b51cfb1c4ba9df7caccfce24a1a5b88ea80dd62b7",
+          "source_sha256": "88724cb79b080640f709d248a9306a74e78523ae9833d61dc6d9de986b3b7577"
+        }
+      }
+    },
+    {
+      "directory": "7/076",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "328975ad6d7a2af233b8f22b4fa5405bcae790fd860f3d3f73be84c9c88503f8",
+          "source_sha256": "a81247b18f6368b1ee237a1f414a4f7477d8093c22272b02e00442774d8464a3"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "31eb586bf2adba90ef470ec38aaa50806e6a14341f20e21daa6a118cb38905a0",
+          "source_sha256": "c1d649c0d47724fd175a559077e7b053d79e21d1995922c82320d30a98b96c26"
+        }
+      }
+    },
+    {
+      "directory": "7/077",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "5ab63a5007484bf84dc78b392af76d4494decbfee5c23ac103937e7f4e0f714a",
+          "source_sha256": "c99274185f489b64e30f7e8b1c0d5890afb229d1a5cf3ba91bf5aa4ee7e07ebc"
+        },
+        "teacher.pdf": {
+          "pages": 8,
+          "sha256": "44f8367503513083cbe11e76ff4a58519fe1ccdd0d626eab2c4c7337489f37c1",
+          "source_sha256": "aa4de44cb553c1ace57503293d885807a80f1ce6e2ebcf343383cfb641558dc3"
+        }
+      }
+    },
+    {
+      "directory": "7/078",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "981bf3d523f78fdd6d78a8fe3044c04f08d43a2aeca160d2595648d6ed3249bf",
+          "source_sha256": "dab4ac62db4b67a8bf59e0d815ee1e513f2fbe3aef3e640299a8cb8429801580"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "93481dc61f958e9c4b95e01216379b02beceeb89d619824f3ed4732a06c66e22",
+          "source_sha256": "c5e175ff20e15c1ba1d11e16474c6d8bcee0091d036e27f04ff7241794440aaf"
+        }
+      }
+    },
+    {
+      "directory": "7/079",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "222307c69d45c88246a4b4c547570475192ad7b48e413da542fb15b25e23291b",
+          "source_sha256": "de33c474c518cd6588336e8620b61633aeac2f55d50fe5c49295f4426eb18de1"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "09d7de8178af3cfb8c88f5e3bff026f2dc35225ab5355724a5af89544d104e75",
+          "source_sha256": "4744d5652c0564ecb61273b2522795c1b67a6e2453bf07eba9cb5a2e0480e415"
+        }
+      }
+    },
+    {
+      "directory": "7/080",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "0841bd9a31b65f9e112dbfb96f4ffd3acf61038cd8e60533a1803aa21c9c80a6",
+          "source_sha256": "731526fa2506d8d5fac2d125f4fe0de9c54ab3b93654d414b820c6e38d03b17e"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "315c36919819e27114642319dfdd02aeda4a66b5b5ec03301283d1ca4d7ad423",
+          "source_sha256": "c5d811d55704f631876e871967adcf11342150f143308f6f00c1d89893c0944d"
+        }
+      }
+    },
+    {
+      "directory": "7/081",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "f02da53c92b2f2f6a9607f928719ab88bf722393d0c386e9d0df89b40fc839e0",
+          "source_sha256": "42c986b39002d156295530d8670d7a8c3304c5883ca69ea814a887eaaf9d58b0"
+        },
+        "teacher.pdf": {
+          "pages": 8,
+          "sha256": "c8ab38c372d0eebd1e452cb62ec1bef3f900e7525ac190325ddd091f49f9e701",
+          "source_sha256": "f67c29beef33b2466906dc217fe83f8508c2c0ec1d1924c39f09fa706b8a767b"
+        }
+      }
+    },
+    {
+      "directory": "7/082",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "da19c59f6428404a31552d1a2eb837ae0a461ed9713de1a3239ad59119288d76",
+          "source_sha256": "45e06ac90a1d1ecc86c932aed7429df063861af9503bd479afc75c7654af0f02"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "88acce2536ed7841f27475144dfa898f7b20b65c6e29487fdf071cb87a67a404",
+          "source_sha256": "7d5a60f66961cb262e212805845ced8a236312c5bef5653d40e2d5f00c75b9f7"
+        }
+      }
+    },
+    {
+      "directory": "7/083",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "ebc945cb8b2aff71470d363f57b54617d3450ad61574d68ce0bca7e4db694fdf",
+          "source_sha256": "f2d7ad5dae0484a138ff0e6803acb7ee7c34633a55a218c8ce403dc6dbe3549f"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "1f1e1b7c2484cac4358b598778b5d3c12b875440e319b664c25fb16442121556",
+          "source_sha256": "af0d16f369ea6c93189c1be5cc944587d9ffd1926ff220c87dde7f0c53205bfc"
+        }
+      }
+    },
+    {
+      "directory": "7/084",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "19c935ed1d3365d98540812477a1ed32dde0c31f9d121ffcc2cd39a545be504e",
+          "source_sha256": "a5b48d80dc5042fc63e0ef502708e01f0666c76a9a048b34e2f47b7b4a297912"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "ec05d78ee85243a6dbd0566163ff76bcea5c5f571fb9c19f0805973f245dd090",
+          "source_sha256": "ec67e1b51600b51c781690defbd5816633955955ed835ad78449c28ee55c5b6b"
+        }
+      }
+    },
+    {
+      "directory": "7/085",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "d3273deada627fda8c5ab48d997b8d75fc0f5c1086f7d94fa074e193044dffd1",
+          "source_sha256": "2cba69976000301f87c4418aeed0ca638c7a2be03cecbf64afff04ada63ca511"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "be5609fd4aadf88858990f3cedf77299356ca8fbb2ead25053a525ed1eeec0e2",
+          "source_sha256": "b053d32da54d334def3aab5ac8ee9135f6d0f77d55795c7cf7958d7ff0dca461"
+        }
+      }
+    },
+    {
+      "directory": "7/086",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "9d35f8800e1440c8176c183bae2570d51590585fe95bdad2ba174b42421d7c48",
+          "source_sha256": "8062fda762ff0c3a9cfb18b0c38204d6b1e72a04487324915396388ebae75b79"
+        },
+        "teacher.pdf": {
+          "pages": 10,
+          "sha256": "eb0b82d6b8204a841655f6768b4e900a887d05a6c0687fd5aafad6641a6e8ff7",
+          "source_sha256": "5f23c7b2199cff09c4d699cdafd0f5d9f15c3b91fdcf8273f6d8645812b33d41"
+        }
+      }
+    },
+    {
+      "directory": "7/087",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "47790eddd3e0b25cf02447adc1bc4dd8b689e0386bd4e86812e29c47ef9d5a50",
+          "source_sha256": "680499eac812f49c31625cb80084c33c0e3e00c71991c66d92c0622a08d6d03b"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "65541d86290c20a58c2879161f594360d317c23349bc7c90dc265ef3cba04d6a",
+          "source_sha256": "f9b569d710bb545056a5adb26a2af9e80798c96f7f40a2db546e5c6c2a84e26a"
+        }
+      }
+    },
+    {
+      "directory": "7/088",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "57c5996c53c90b8a20c2353e4aa6244b49e23595e1280ce291df1307d1eaf69c",
+          "source_sha256": "c2f22e0e8a1eeebbd4d82bc2f7821e75276c41fd79933acd4d4fb145400b7f56"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "e666d345424705ed3cdf27563cee8167df3e534d72dd8398e088201452e44d08",
+          "source_sha256": "53f5e82788517276511e8e1279321230d6aab618b04a63667f3ea02bc9801b66"
+        }
+      }
+    },
+    {
+      "directory": "7/089",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "a18a2ee725384490af2461238aa364c4d89b6ab2ddcaa0ad87e35bac07190720",
+          "source_sha256": "69865548a81ea1df2d35e6beecd7d45e1a8f2515b3e5be63d805f35b894eb840"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "04b6f1298444c1d0e3b0adc24d635a3f5b20935948e66e834cd5445527d5c418",
+          "source_sha256": "36930679d123c70809d43a519271ebc998adaf1dec847459e03e33f241442bef"
+        }
+      }
+    },
+    {
+      "directory": "7/090",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "c9620a82e7d2954232747d291ae4915204a21c02483348409d504ab7feb93923",
+          "source_sha256": "35e66c1f8882f2d53900aa28f8faab92d70124e0fa05971b42f9d8be70041eb3"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "4bdf773565b59fc09aed9c354d57866065ecf9889e7ba710ffae6c186a90d380",
+          "source_sha256": "4c1b1f8dfbf561b511c20b5ba8fdcf04c04413d9cab8c2df4d03ad96d59a5393"
+        }
+      }
+    },
+    {
+      "directory": "7/091",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "3a3c51dc160d7726f466ee4c15b776644a7b701031fc23aab222427c79fb67d3",
+          "source_sha256": "f063027437de12e874fcd2217740e00531971f8e62cb4e566d029cabdabd5ea5"
+        },
+        "teacher.pdf": {
+          "pages": 10,
+          "sha256": "55b660f25ae1b86f45fce17c002771d9e2a4fb31ab108fad790324249283b314",
+          "source_sha256": "2f2b957184731ebed5a96bc1f26a3e5dae4be9eca57558fbcb40fe86331fe620"
+        }
+      }
+    },
+    {
+      "directory": "7/092",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "61ecdb19c07fa6d86ce8d615dea2cf1834daf35a2d92b3f9f68decbffae252b7",
+          "source_sha256": "959294181d8034482bd73258b8329fe20889621e7f2665cb0d4ed44579075b59"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "28ad9e5203d2ddb79c4ec02925c8d6fc6a361eda9bde8c0b113db468ec62e273",
+          "source_sha256": "012d5805d0b9ff29ba8526ce52618dd8b689195def83e11a4a58c9cd6cab19ae"
+        }
+      }
+    },
+    {
+      "directory": "7/093",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "36979cbf6254c2116d590b5df837ef9037ee2723307ec9fddfde96cc9fdc80a6",
+          "source_sha256": "59fa5ed61854014ea5c8d945b70774ea21954c6775a623ca28b378f5e8b75578"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "ee4b575e96a82aa350e1e88236cfb0fca75ca14eb2039f2031e332785d6a6126",
+          "source_sha256": "b1786dce27528a57bff8844d97569a047dd4ecb14766045c5cb54d5a00f5f762"
+        }
+      }
+    },
+    {
+      "directory": "7/094",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "d135a40fc68e227be8d9a53063826c429fe245fc8941bb13ef4d21890ed41a38",
+          "source_sha256": "5f3540f688ba420c23d886d69b5bb4892cb4468e7e61d9b3141d5326ee849684"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "c3bc5020ababe2a1231b9de0d81e5d987dc8db9092c6ca53722ffc992eed12a3",
+          "source_sha256": "f77b407f11f206eb3659e899918e13e85bd6f2117f703d8dedfa3c1cfaf45fcd"
+        }
+      }
+    },
+    {
+      "directory": "7/095",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "40bbfa1df26049f9e234f86d5b4346bc14fcd79f08bb751a040e17a17dd54fe2",
+          "source_sha256": "ac0c6c462bb0176b78cde87f25b296345aa6fc09ffe5e385d7b081a4fde27372"
+        },
+        "teacher.pdf": {
+          "pages": 8,
+          "sha256": "502c066441ce3b3610da3eab3f9f8a5a75fb9aeefdfaae5b954a3f176927316d",
+          "source_sha256": "b93084f77266c2adce31affe3cc8bef8090d8969b01d9b4e80d4287f9c2d0dd9"
+        }
+      }
+    },
+    {
+      "directory": "7/096",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "abad02c085d597e6f8d112fabc9e6601562025dca21ae11f80f8fb7e8d7d015f",
+          "source_sha256": "2c61db727a6137f3e3544077342d76561d2dfbe940a9c9127cfcaddc895ef50f"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "09d59c41afa8accb26759c54b76eea2d13c910d277db5686fd549cfafebd7151",
+          "source_sha256": "b9eb00023422b48a93a209b560e05bb321583cd64468760768f1ca250d6930dc"
+        }
+      }
+    },
+    {
+      "directory": "7/097",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "377dee971a6a817623e921caff6f9195272447cfc7248a8c54f4e2ecefb4dc65",
+          "source_sha256": "fd8d02cea7f05b378d5bedf0285341e9acf18d71030f79caf5ca7ef701b7aa41"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "1b1848dcbeb4a888fd447c273457764572ef7f00c4ca868c90e87d9dc3574cb4",
+          "source_sha256": "7b40bb4d14a28d740e8d5babb9ea6543b0ddb4c8697bb741290c3aa7ec21faf1"
+        }
+      }
+    },
+    {
+      "directory": "7/098",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "d0abbeae528a872880041c6f1ca1a8a20310a70d1e18ec0edbded45314140121",
+          "source_sha256": "cf3744f0bb6983ff655653610b201f09c20fc6985fca7a3f1fe4d9205e857c99"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "b94e05db7443a4eb76d7ca5c6dc496595e32294411f661cee97a58b1d8d656d4",
+          "source_sha256": "875aec983216034a563f77f650ce0bb90da5543d4fc1f5bcf82e7b6d204ad6db"
+        }
+      }
+    },
+    {
+      "directory": "7/099",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "fbfcb90b0c78aee03344e026fee874038d1050bfef8c1f6be9c3271d6544689d",
+          "source_sha256": "842a7d80a2514caa1b51cc4bf51fb62afa0dc55f0826cf1338092f3ffeb575cb"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "f124950f17602d464c4964036fef4c3fa6484ec8c20dd111de5dbd6406e35b47",
+          "source_sha256": "b701f59479cfb3522f764485cb17022b63a39f4d14d250497273ba330dd20855"
+        }
+      }
+    },
+    {
+      "directory": "7/100",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "ebd2069174f4aa47d45fcbef1de7cf6e242c4d949829f696389883836ba15039",
+          "source_sha256": "69ff90cc6e94e23face45502767de811c8b410626e63ec56eb4418fe817f17da"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "4521fd7b286693aea7dc7854355b9a3194ab453764b1a67d40fb41a517a4c060",
+          "source_sha256": "6f7a9152d99e1da25658f5d3d124ad030caa210d9278925e37c7d7b83cf634ba"
+        }
+      }
+    },
+    {
+      "directory": "7/101",
+      "files": {
+        "handout.pdf": {
+          "pages": 3,
+          "sha256": "6c5135a5cdafe2323516cd987e623112e864f8f6e15eb3717c190e0f3387d349",
+          "source_sha256": "e0a4899117f76785034a663dd999e1566d3f65fa150afe0d9ac5068d480990c2"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "5cc344727f3dc70f6c4b4926375f7ab2d0159f01a87d19add55d411c6d5cc80c",
+          "source_sha256": "2dff7ed9a4c02320116ecbf4d1553bc22aa81554143a66c9eb6d3851f273183e"
+        },
+        "recovery-handout.pdf": {
+          "pages": 3,
+          "sha256": "ec6c41a8987236ff8416732c4a6fd5ef52a7de0555b43c92314543b49c7e6410",
+          "source_sha256": "55e119c772eca7a32aa165470ec0e110762327125ec99c5db3b52a7b8e756477"
+        }
+      }
+    },
+    {
+      "directory": "7/102",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "97f93b2e10afdd246fdc5f6679f6d39a33aac121946b94fab2e00e8b2e5b6879",
+          "source_sha256": "b0986a0a09c5fec4297880037995b42adc3cd5269225e3cc1a66abb77e866981"
+        },
+        "teacher.pdf": {
+          "pages": 10,
+          "sha256": "ba4f336d39d9a5a3d3dd1722be496b3e977eb91a1d303dd8f6bd06bd0955090e",
+          "source_sha256": "cdf9b02d8a55767da94d6a99944ce93d03515442b5d439b425e9b6c94cab6b40"
+        }
+      }
+    },
+    {
+      "directory": "7/103",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "3546f25afbdc16da09c76089305d3b81f7d47ef6f97dc4108243e14f2966443e",
+          "source_sha256": "af3253865084b3c782bd0ece2026ea5e362e607e398626e715db558a02accdf2"
+        },
+        "teacher.pdf": {
+          "pages": 10,
+          "sha256": "ab5e479d0ed53653dfe292662ddeaf15996648f77a7dc704606de92681d74b56",
+          "source_sha256": "82e279127757f7107b16868e755fee21ea67efb4446ed16e03c9b3b6be6ad79b"
+        }
+      }
+    },
+    {
+      "directory": "7/104",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "386694e3ab960968f4ea2944654013c64886b1b60ce1bdaa23d99237d66e2050",
+          "source_sha256": "78b9a406043cc79a6b1480fa19a7dc2f956487d5eff2255f9aa6ce77783127f1"
+        },
+        "teacher.pdf": {
+          "pages": 10,
+          "sha256": "ddc73f1d735d5e708ee1babcf409873d68fb1d4e0d27b48886b397c10626c372",
+          "source_sha256": "25f9657c193a2358cd91478de44d510d0f4ee9871c282d7311b780a87498ba7c"
+        }
+      }
+    },
+    {
+      "directory": "7/105",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "9258c4d655accf31e0b069a691b4abe9dcde707ac25f5cdc631c0b3a16973465",
+          "source_sha256": "4ca78971ceddc7a3dce710dc70163217b7cf82b6603312477ed2b31141c720e5"
+        },
+        "teacher.pdf": {
+          "pages": 10,
+          "sha256": "31dfda90256c50398c83818e7628b678b2956b88d515e7a084c3db5bbbe07646",
+          "source_sha256": "65a257b42958ed88a86fb0c9f0bb784912af8040228daee164ea1899c6e5007a"
+        }
+      }
+    },
+    {
+      "directory": "7/106",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "6cace858b9413d5ab1b25a9856d987ba164e98f57a29fa6af2aada2f18c09316",
+          "source_sha256": "deb237508cc01ad71f12a0cdc3f952c270986d076ffbb83e945fe38e63d0a214"
+        },
+        "teacher.pdf": {
+          "pages": 10,
+          "sha256": "79a731c522374be231348c00486b6c2672c99d5905d03ff98236651c27bdfc53",
+          "source_sha256": "66e3656a95d806ce60ee635e3b5870c86d843ffcf4c2195ef1ffb4f0aa7a7a66"
+        }
+      }
+    },
+    {
+      "directory": "7/107",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "0102a32328532525d4a94e22dce12158a05777cf422dfbf75c09c87da7f2d244",
+          "source_sha256": "954b86ae8f9f2f7e0e09b95945cdd80c8992dddf65a93c70707f82b346c5429a"
+        },
+        "teacher.pdf": {
+          "pages": 10,
+          "sha256": "8f0af8768a918ac139163f1d6c3c909f206156af5cf1a0d82cdc521e5ef56d55",
+          "source_sha256": "3f9b828bc94f1e41b7e3cabc82a6bd924987333cd19412d83855087c275f85c2"
+        }
+      }
+    },
+    {
+      "directory": "7/108",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "98459ea3c41f51f13ebcc5d9150df0181925f4d1b9a35db206c53ac9e6f8d7cd",
+          "source_sha256": "9622d8ee28ff5538dc97aac8dad5d7835ac0deac556dc441568ce7ee7a9c22a7"
+        },
+        "teacher.pdf": {
+          "pages": 10,
+          "sha256": "862f9fcf2f879fb8871c7d4f9087b146a2bf6f3c2eaa43222a6c51bad2f231a5",
+          "source_sha256": "cdccfb722deb8d228de5ae324471200f6cc0cd77d4c6aa09171d85a925105383"
+        }
+      }
+    },
+    {
+      "directory": "7/109",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "55d40793a8368de7b1e23bada5358eafbf25ad383b129ddb3ea0909b8f84e6e0",
+          "source_sha256": "3e70def606388771abaf840d71e0c12c2eb728325a01c0552eeeb87852092cab"
+        },
+        "teacher.pdf": {
+          "pages": 10,
+          "sha256": "8788d08b1f41882e4dbe8187a3ad64349c5ca278f3e32993de281185c995cb6e",
+          "source_sha256": "a5cc8f4da47ca5185bff0054ec3d74210096f0f2bf2b6206ddd40f7e534a81f4"
+        }
+      }
+    },
+    {
+      "directory": "7/110",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "ee74e0b0fb69af88cdf05a2c09ce932724d22865fe322de121ec33d043bcbe33",
+          "source_sha256": "3b6b6e8906a2630551a44fff1b9346e4350be98f04019ed1825c2e2345cc8c8c"
+        },
+        "teacher.pdf": {
+          "pages": 10,
+          "sha256": "190949caac25f5cbdc5559900e8d38a78601186780dfd5e8c63a07efffa1cbab",
+          "source_sha256": "0fec57b359d4342bf841f24e4b83e9f36a504cb7cc952d00dbef7b04fbe50c14"
+        }
+      }
+    },
+    {
+      "directory": "7/111",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "40a4795778c9f78e86761f87fd3c8196169ee7962c44cdd087c0476e9f4c9721",
+          "source_sha256": "1c0a9222cc7a2ef4634b5ab9d30e9075ed747b0ecc80735ae5b29b0325c83c89"
+        },
+        "teacher.pdf": {
+          "pages": 10,
+          "sha256": "3e12ae816ce78253cd961debfb9299beec148624e2812353c9888905ad1bcada",
+          "source_sha256": "de4a0d25eb742d0ca8999bab578381084b84f1185e7f9e2711fe60eb75b32518"
+        }
+      }
+    },
+    {
+      "directory": "7/112",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "fd6d1515b3c7aa01024325255e1c27d224c32849931bc23563f7652c0a42705b",
+          "source_sha256": "a2927ad3a8cff36f17a51fac8c9317228f5d7b988512a8c7323fdc89b3160cee"
+        },
+        "teacher.pdf": {
+          "pages": 10,
+          "sha256": "40f8d17558e5161fb33e622cdf121ced8bc9aac30f078f993e066a75c0bfc549",
+          "source_sha256": "26213797c495b3a8b4278445405e9cda3f6b6df53d6a91a830b0fdc9a0c98aa2"
+        }
+      }
+    },
+    {
+      "directory": "7/113",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "35e5f80288628ca42cda4cc5cc23d328558400f6766ad938c2abb535e2e85736",
+          "source_sha256": "75b268de2de04bc680eb244795109ccf59cccdc07d16d8df55a8eb4e58d647b5"
+        },
+        "teacher.pdf": {
+          "pages": 10,
+          "sha256": "6ec3bafcb462b19715786dd9412fb9abce2538a3d5ae88d00e40b1ffcc628a05",
+          "source_sha256": "3561d09f67aa66976470e4f992d7390999ece20635afa98a87eebdda56d1ef85"
+        }
+      }
+    },
+    {
+      "directory": "7/114",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "7a03555e32244bcc2b4e76cdf9387bb43b0211f395637e0940759f2e486cead9",
+          "source_sha256": "5ff259de468286f1b8ef17cf4b52bd19d14496c1756dbe0c7c591470bdade06e"
+        },
+        "teacher.pdf": {
+          "pages": 10,
+          "sha256": "25dcb78caf5dd6f2f52b4e19d8be6d697210f2f823030ac6cd3e3d04a8102f41",
+          "source_sha256": "24f330501967078ae443e9291f02415650c43a91abf9ee2bb472714af8385efe"
+        }
+      }
+    },
+    {
+      "directory": "7/115",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "c903dbf20028ecacc1018fa9ff55d9d5364c495b479febbb1b37ec6d1d153dfc",
+          "source_sha256": "bc02e59a2552b999bb91d9633434a08b498da427fed84ac9e805a68d25969dfe"
+        },
+        "teacher.pdf": {
+          "pages": 10,
+          "sha256": "c6009ecf61d767b6c011d1c239cbc8df11dba46c307c903dd74a1e0385fbb3a4",
+          "source_sha256": "e5def2a2f7436b1a096038dacc19d98fd94ccf4865ff8ac252fe35bca4c2d760"
+        }
+      }
+    },
+    {
+      "directory": "7/116",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "758e20429b09f284e759bff9005d71b000ddc9a3ef1ea4270bc297c4b9b3d74a",
+          "source_sha256": "9b765251301d025bf8877ab196dc0ce0295165f6bf2a934e944fac47019fe19c"
+        },
+        "teacher.pdf": {
+          "pages": 10,
+          "sha256": "9622098f9cf0647f87998d03b4263de6b46a85b72ff0b72663e3cd2f57c8aac8",
+          "source_sha256": "8d15db47041012425e0e9cfe8ab75ca6ffbf03e545e772a152b4a2c719d0fbdf"
+        }
+      }
+    },
+    {
+      "directory": "7/117",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "ca5840763cdc86b29e32e64aa4a17d152f5abbe8b9392afaeae0f6fba890931e",
+          "source_sha256": "1bc8ac969f4058b91863c8c01b5f9b9592e217c9e57453c48134602d6018f67c"
+        },
+        "teacher.pdf": {
+          "pages": 10,
+          "sha256": "52c2fbe66531da5fdc0e87a30a271a50c7060b8715b0567ee02d58ade52abb33",
+          "source_sha256": "fdef10b7f919a1f5f443942296b490c44fe34983ebe0ca3b1ffd0383a6652b31"
+        }
+      }
+    },
+    {
+      "directory": "7/118",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "bcb43e3eed9baed7a1600b433fb7c4dfa928970f295640b2d04c2cb9f4f5463f",
+          "source_sha256": "fcfd214346d46a22373542fae02f65b936d9e3df396dce12e0aad646c8737c6e"
+        },
+        "teacher.pdf": {
+          "pages": 10,
+          "sha256": "b6ffffc4982eca9257df8551fccbb3299676c3d301a4cb634f42a1de18c9b5cb",
+          "source_sha256": "b6b28417364ac9f44254186cde0d7747c99288f5c2ef5431114d93cccd353c49"
+        }
+      }
+    },
+    {
+      "directory": "7/119",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "5a5c493cb826019b4f381d5bea09fa31f19b488b425f3f9fe9993f20dad9806e",
+          "source_sha256": "fd4e29c0863da97aa31ddbdc2feaafe239529751817a22fa7ce193b0b17fc946"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "e2e42f21c56fad29cb40512d404a12d8311403257ff49d10f68c1e1cf99f338b",
+          "source_sha256": "9ee7c3506a641f647c2c788da4d050fa3a625d901b2ce2f5c9519b327b6e31e9"
+        }
+      }
+    },
+    {
+      "directory": "7/120",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "1a00b58d1047f5a952fa74570e043a4295cb0c5402991a1e4646ac84786a09b8",
+          "source_sha256": "a84213eeb79db20b212fa05d87a239ae2acc00d3ded5b05156ae2360bd021bf5"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "006e30c1d57370c91f59af9992df8a0de6a6702ded2e6046eb102cded982266a",
+          "source_sha256": "bc16958edbf1383606ef56ccf728be22aede14c70385391cbf07ef948678cac7"
+        }
+      }
+    },
+    {
+      "directory": "7/121",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "678256b72c2fe9ff752aab5c1998aba6e6546d7e5dd850235df537b54119fef6",
+          "source_sha256": "85dff0d40f80c5308ccddc32da6033fd6a9d800ac251163d19749405bd6779fe"
+        },
+        "teacher.pdf": {
+          "pages": 10,
+          "sha256": "b7b688182c12502edc192e934806065a0e6fe74b01cb73a5c55e3f4b58dca68f",
+          "source_sha256": "90da53854ead09c3ea74c4c00c485a16e1453f7ff4d7f9e3008f46adcfb8d40c"
+        }
+      }
+    },
+    {
+      "directory": "7/122",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "3ee4b226e882cc38e76338aee3a479fa914019bc96b725dd1b7fa9559d9fcf01",
+          "source_sha256": "f65056f44a7133733a1b4cd6d5cac8583783f8d0d8aed14e60e47c98abdbb34e"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "bd78badbc61c64ac664edf651aaa53437a354d2cadc8465cc5917c8023fc4017",
+          "source_sha256": "d447bbcf4f6b9e7373e857a64f430e711c91e1c07bd9913d886d91155457e989"
+        }
+      }
+    },
+    {
+      "directory": "7/123",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "fd00d29346d0be4b2acece8355ae83fe2910a89da84487f0a4e76d3dd2c66ca8",
+          "source_sha256": "a82b7410cb2c2c416c133b3177f3b49f9a25d7d27c45eb3256289fd9554b258a"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "8fd0c73525dbe939bdd525872d9bbb09779185e8231974267dc62473017e5d62",
+          "source_sha256": "c6f1d467d9fa801309bd4a2f0499fb33c9bba85d73b6dc282424ccd793dec3d3"
+        }
+      }
+    },
+    {
+      "directory": "7/124",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "51ee549a6651151e203b1c62c99d0077ad62f623ee7196051d85fdad5d7ee762",
+          "source_sha256": "46455c24f8ee48fd2dad420385efb6081bb9dc8cc09576ff27eaf5d14f7b84d6"
+        },
+        "teacher.pdf": {
+          "pages": 8,
+          "sha256": "3d47d5fe5d5555153c8155c8ef50127f2d19c1a3b9ff6bba3fd089a0155c49d6",
+          "source_sha256": "747fad0dd5c1d912bd2f1b4a58971c1052d5a1376b59fa6f214c93e03bf0ddca"
+        }
+      }
+    },
+    {
+      "directory": "7/125",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "2e62573a9a24cc9107de5d040f49a0a82d7823fe88af5e53434f7809c2f6c844",
+          "source_sha256": "29935599b3edd9c1058bfeceacb53ec313c1a15dcd61654904687f445d797b74"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "739fe31b6d56345e890f79b8f76ecbd456d7e4ec16d2ab17e25e4961ad499e9e",
+          "source_sha256": "1917a2bd71a3a57b496e4b47f35c56c1aea737c5293a27b951f3db646beaaae4"
+        }
+      }
+    },
+    {
+      "directory": "7/126",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "8e5cdf92f887791caf0842e3eaf791a091fb0bc1ef776ac780ca4a0084d14fea",
+          "source_sha256": "1dc6b0b2d504df325ebc3029d942a9d979fe596a3eb847eaf091f78c2e8add6f"
+        },
+        "teacher.pdf": {
+          "pages": 10,
+          "sha256": "03af0627ecf402d45218534a170d0675089cdefa88c9a60c2d08bc98b04ee505",
+          "source_sha256": "9b537d6b06fe8775222b9cbef4fa9d4a4d3aa75fd76d967c377c453e31d4b83d"
+        }
+      }
+    },
+    {
+      "directory": "7/127",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "42c99db7b38fc8a684e1d2abc3120ba9921281405e0bf06691592e3f56847669",
+          "source_sha256": "203646ff5a2073f76dd97aab49e465d2ecec0a1716c0a1ebce9f1ed1ba8524f9"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "4e9364815bf0f8a922bd3284008e9b97062c97a01b901ef176fc8e4949b01d68",
+          "source_sha256": "1b92171cdeeee0efa820ca2f463c0d0c3af3eadfe7ee4f05303dea05f9d9aed0"
+        }
+      }
+    },
+    {
+      "directory": "7/128",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "4171fae1523f947c8d231d038e83628022a8a85b4f2389b7a83e255489db049c",
+          "source_sha256": "bf83f1bcd2deb4d5427d040527c5834a9743bae5ee918863dfe9e8aa51c66aa0"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "21f5235448c97c410ace4d82e74accecd55bb39e761a390e83d59fbd94fc507d",
+          "source_sha256": "655fb40bc1fe32a1bbef3e4b55ebb71c2fe48ee54a16492c6290d3ed74eabce6"
+        }
+      }
+    },
+    {
+      "directory": "7/129",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "25e16770bc846e8aa94f701438fa25140147eff3e7ff7469dd03cb382482898e",
+          "source_sha256": "3f1d43b8599ca0366584b26c7f8256b14de551416802d0c5b5cb4c11f6e502ba"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "f9615b3158c95afb8140e030cef2d75d7dcfa2d6d47120f2aabad94d2231011c",
+          "source_sha256": "1225f408fba3e58676ac51ef6ae4aec3ab5617cf18386dd4bacbf6155276d987"
+        }
+      }
+    },
+    {
+      "directory": "7/130",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "dddea6ce213f8efecf6cf53207bf44136ee7a4b61ac49fc66265dfec3cbf0277",
+          "source_sha256": "edc486dc20b4fda500047dc4ec33196568683820df65c9fd28d24b1699ee1450"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "93e7f623c477c6b0dc1d423962c9bc2ab59b6bdb0fde9accf86754e5790897c5",
+          "source_sha256": "e7495e4fd1133781d3032ce47055d80eceb0e924d790e6cd7911231fa8a97c95"
+        }
+      }
+    },
+    {
+      "directory": "7/131",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "31bb77fdd55235a35b90d005fa11bee7245077c51b35afab32ac9c17c6cd5ff1",
+          "source_sha256": "283f288142e15714bc91e210f98fe9dfadfe7963ef4a826baad4f9e729d00a17"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "59df1b8720a21df01d0b6c488afbaad275cc6a6318ecff1f165bc4d4ddecddce",
+          "source_sha256": "b9ba60b6845c4504a308cc7e9fcd0c21697af57a0f768f28040af303dcf6ca2f"
+        }
+      }
+    },
+    {
+      "directory": "7/132",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "ecd4bc97f6f1a33dfbbb728d82eddb12798eb5df92dcad42e4cca1f264d16f3d",
+          "source_sha256": "8b637e21446303158f6ab82c03b2ee4bdca8b36cf253d0f997ece28107486660"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "925bef6167d33360af92b39e52ba84955d8ef32038362dd68e50b3c588a6775b",
+          "source_sha256": "e1d95266167af30f6f1632ecd26b5c8fc9f63c41dc3367fc06d587605eb76fa0"
+        }
+      }
+    },
+    {
+      "directory": "7/133",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "e4fc7804666f1e6fd65672723db6a0ceb7cefe7a03bd40cecace4a41bfd71521",
+          "source_sha256": "a234f15a842f50d637ad9451647555744f015ad8c573e142a6d803258332537e"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "9e63249a178a5d91b9dcd023ef3663b8204ac8811df112913dd070bc5c880065",
+          "source_sha256": "bb30d00c9e9a7095751871a1c0de81730f7567fb2ea656f576927a89f2a590d5"
+        }
+      }
+    },
+    {
+      "directory": "7/134",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "8b8e2559f9d38ca65ba9aa1948f227998cff8aef735ad17a7b0cc79c2fe10cf8",
+          "source_sha256": "ae0a9c4a31dec75faa9a18906d1063f6f4b5341affc69b8e4dc16574cc348319"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "b8edc0bae6a4a6070773a5bbbb0dd57e0e512ed9cda64d7c98700ece4b84a4bf",
+          "source_sha256": "756b3c2879948ea2c76ec99732faad8b723a4a3a472688d3c29e0db5146dfe75"
+        }
+      }
+    },
+    {
+      "directory": "7/135",
+      "files": {
+        "handout.pdf": {
+          "pages": 3,
+          "sha256": "9c8f7b99e72de8ea0fa8986e1d4208f92289eaa6fc08fb267e8f7deb517f0f89",
+          "source_sha256": "5208e5d034ba9fac3fa7e3025722abcd98147406f0332fecf5d01b715c245505"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "30e77c7313b69eafc87ee4f3e632d7d1bf1a186f0ee1dd3ed1cea6e7ab1fa343",
+          "source_sha256": "25436d3d5e98fce8253e964141234b97dd9af73be925202561fb4632c2620dba"
+        },
+        "recovery-handout.pdf": {
+          "pages": 3,
+          "sha256": "14aa992b830a0ea973197bf29d26ad2c4244d0597871222711c42b762dcec7cc",
+          "source_sha256": "5b1e21b2093d972b9a074d2c0d2655e131e758c412b7521d3f0e06c4947181b5"
+        }
+      }
+    },
+    {
+      "directory": "7/136",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "aca9a7fa6bc93320ea8e55dbf9fc87e8ed9e0d31b815c185b9bf35fcbc631dcb",
+          "source_sha256": "1152608adb3371fb6a100dc5ff120379f78dfa2aa02e83b368f5824c979731fc"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "8b79857abb09dbba262b9be3c5affe9ab6b7c78ce5246dfc27e43c50e09383e6",
+          "source_sha256": "f623449fb64fb0eef90bf04ed39fa912efc565c5234b75f4288b7218d01ee7f9"
+        }
+      }
+    },
+    {
+      "directory": "7/137",
+      "files": {
+        "handout.pdf": {
+          "pages": 3,
+          "sha256": "fadfc96c56427ae6ffaea17c609bff49ddc47d69816e62820ac170d9b3e1bb94",
+          "source_sha256": "8c357bf82d68c6dcbf7f4762a4dfc773e250fa5101196353db66e22ee2602282"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "b6360ef246e2be3cbd85a416c4bf33b57e806156462869a63c50b476ac24b3e6",
+          "source_sha256": "b170ae79ffb1a9741da209525c31c740a07b3b1e2ef7e431110b75fef8782503"
+        },
+        "recovery-handout.pdf": {
+          "pages": 2,
+          "sha256": "814e086ef82e8f46e4e1206bebe8ca97692d03e7a870d966447c76927d0cb883",
+          "source_sha256": "bb65bfbfab0563a236e6511a99ca6621ae6fb7f4a4470bf0083b918a1dc86b2a"
+        }
+      }
+    },
+    {
+      "directory": "7/138",
+      "files": {
+        "handout.pdf": {
+          "pages": 3,
+          "sha256": "9cb430da115f550b065c164c80045517358db55856bf22cc1ad71c935a1796e4",
+          "source_sha256": "ffd469b875e077915ab3bb590f57164012c15462e6b75a81ea00062e206232b3"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "f7cb064f01e65b6679f48a9b88f68daeb9c7efd93b4cc98a7dad0175b3508e75",
+          "source_sha256": "666f3eae3b68e2655078cea6390293d9bd7dbf45281fd74967e4b730a326357f"
+        },
+        "recovery-handout.pdf": {
+          "pages": 2,
+          "sha256": "de600e02a35949bc227b00bc5a6434e69d109c515499bd636b0987abf9530b30",
+          "source_sha256": "fbf6d0d97d0180dfc79e530ffcc228849aac1017fc107ff4259dac9dd25ff19c"
+        }
+      }
+    },
+    {
+      "directory": "7/139",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "097340c31690cb3ac79950ceb43044426a2bc2faba9ef1bdfacc6c2f2549aea3",
+          "source_sha256": "8b52c1a29108cce0035728f247ea9cd4cc76b848e328197e5129b5a3276e774f"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "c8bfb95d68ae2a12b59f183865c6d7d624c21bfd0707ebb150ca8bd22404c74a",
+          "source_sha256": "87c8a1ba3e6498aa1d581e2a0295eab0f452a1a72a12c959b1f98493a247f41e"
+        }
+      }
+    },
+    {
+      "directory": "7/140",
+      "files": {
+        "handout.pdf": {
+          "pages": 4,
+          "sha256": "27f722da9f34f48691f0157244ed5b0116b2d741c44f392d859dca952cfc9138",
+          "source_sha256": "ec354d3a618f751b95531566f8b1d36d4402f13c6a3a88c0e790fe1f72ea4382"
+        },
+        "teacher.pdf": {
+          "pages": 9,
+          "sha256": "de9a593c33aa6cac1715181e2ab702d1bbdf4e855617c840d0cbad79e80e6efc",
+          "source_sha256": "6413378fc0f47241597782d07cde313462e145f8ee11830da5eb1bbcf0d9bf45"
+        }
+      }
+    }
+  ]
+}

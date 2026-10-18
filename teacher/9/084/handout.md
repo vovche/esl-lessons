@@ -1,0 +1,128 @@
+# Роздатка · 9 клас · урок 084 · 2027-03-08
+
+**Тема:** Science Meets Technology. Наука і технічний прогрес. Біографія відомого/-ї вченого/ ученої.
+
+Умовне ім’я/код учня: __________________ Дата фактичної роботи: __________
+
+**Можна:** виконувати на папері, зробити паузу, працювати з вигаданим героєм. Особисті історії й камера не потрібні. Мова завдань не оцінює емоції. Під час переміщення до укриття не виконуй завдань. Читай і пиши лише коли є безпечні умови та достатнє світло.
+
+**Швидкий маршрут без мережі (10 хв):** 2 хв — модель і слова; 4 хв — перша секція, вправа 1; 4 хв — два власні речення за моделлю. За ресурсом ще до 5 хв на одну відповідь вправи 2 й питання до вчителя. Решту виконаєш після домовленості.
+
+## Секція 1: Наука і технології: Письмо
+
+**Слова:** invention — винахід; discovery — відкриття; device — пристрій; appliance — побутовий прилад; scientist — науковець; prototype — прототип; charge — заряджати; switch off — вимикати
+
+**Опора:** Плануй текст, дотримуйся його формату й відредагуй чернетку за критеріями.
+**Модель:** The device that I use saves time. My tablet, which is on the table, needs charging.
+
+### 1. Read and find evidence
+
+Dan’s tablet stops working while he is preparing a biography chart about a scientist. Emma suggests checking the battery and restarting the device. Dan saves his work, switches the tablet off and charges it. When it works again, he organises the chart by dates, discoveries and their importance. He checks the information in more than one source.
+
+1. За адаптованим текстом: What does Dan do before switching off?
+
+A) saves his work / B) deletes his chart / C) buys a new tablet
+
+Answer: ______ Evidence from the text: ______________________________
+
+2. За адаптованим текстом: How does he organise the biography chart?
+
+A) by favourite colours / B) by prices of devices / C) by dates, discoveries and importance
+
+Answer: ______ Evidence from the text: ______________________________
+
+### 2. Choose a form; explain one choice
+
+1. The scientist ... invented this device lives here.
+
+A) who / B) where / C) when
+
+Answer: ______
+
+2. My tablet, ... I bought last year, is slow.
+
+A) that / B) what / C) which
+
+Answer: ______
+
+3. The place ... they work is a laboratory.
+
+A) whose / B) where / C) who
+
+Answer: ______
+
+One explanation (time, meaning or form): __________________________
+
+________________________________________________________________
+
+## Окрема ситуація цього уроку: a first draft
+
+Robin is working on a first draft about science and technology. The task is to organise ideas and check the draft before sharing it. There are 5 minutes for a first attempt. A partner suggests making the message shorter, but Robin wants to keep one clear reason. They agree to check the meaning before sharing the final version. The work is about a fictional character, so no private details are needed.
+
+A. How much time is available for a first attempt? ___________________
+
+B. What will the partners check before sharing? _____________________
+
+C. Complete the actual mini-product (a first draft) in two lines about science and technology. Include one clear reason. Use the language model above and the strategy from the message.
+
+__________________________________________________________________
+
+__________________________________________________________________
+
+## 3. Create and explain
+
+Write a description of an invented device for a fictional Alex. Use two details from the text(s), give two reasons and add one suggestion. Write 4–6 sentences. You may use the model(s) above. Do not include real addresses, phone numbers or private experiences.
+
+**Start:** In the text, … . Alex could … because … . Another reason is … . I suggest … .
+
+1. ________________________________________________________________
+
+2. ________________________________________________________________
+
+3. ________________________________________________________________
+
+4. ________________________________________________________________
+
+5. ________________________________________________________________
+
+6. ________________________________________________________________
+
+## 4. Interaction
+
+Fictional situation: Alex needs help choosing a next step about science and technology. Ask for one reason, reply and respond politely. Say it if the teacher has arranged an oral channel; otherwise write a dialogue and mark it as written.
+
+A: Why would you choose ________________________________________?
+
+B: I would choose __________________ because ____________________.
+
+A: I see your point. Another option is ____________________________.
+
+Спосіб: усно / письмово. Партнера немає? Напиши обидві ролі як тренування; усну взаємодію перевірять окремо.
+
+## 5. Listening (only with the teacher's audio)
+
+Do not guess if you cannot hear the audio. Write «не перевірено» and arrange another time.
+
+1. On which day does Alex plan the activity? _______________________
+
+2. Where does Alex present the device? ______________________
+
+## 6. Correction / portfolio / homework
+
+Original phrase: __________________________________________________
+
+My corrected phrase and reason: ____________________________________
+
+__________________________________________________________________
+
+Second correction (for portfolio): _________________________________
+
+My next language step: ____________________________________________
+
+Add two sentences to your product, if this is homework: ______________
+
+__________________________________________________________________
+
+Optional respectful phrase for fictional Alex: ______________________
+
+**ДЗ:** одна виправлена відповідь із поясненням і два додані речення, до 10 хв. Термін — наступний доступний контакт за домовленістю. Після короткого маршруту спочатку заверши мінімум.

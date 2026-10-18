@@ -1,0 +1,26 @@
+# Ключ учителя · урок 092
+
+Не долучати цей аркуш до учнівської роздатки.
+
+## Блок 1: Messages
+
+1. **A — for**. For + тривалість.
+
+2. **C — since**. Since + початкова точка.
+
+3. **B — have**. Present Perfect: How long have you…?
+
+4. **A — To type faster.**. У першому реченні: to type faster.
+
+5. **C — Who took it and when it will be returned.**. У тексті прямо названо дві потрібні деталі.
+
+Вправа 4, можливий варіант (допускаються інші пов’язані речення): People sometimes shorten words in messages to type faster. They also use symbols to show feelings. I have lived here for two years. We have known each other since school. I will be back at six.
+
+Модель додаткового висловлення: Mia, I have borrowed your book. I have had it for two days. I will return it on Monday. Thanks! Alex.
+Leo, our meeting is now at four. I have been at the library since two. See you at the entrance. Mia
+
+Вправа 5, зразок: A: I have lived here for two years. B: Could you explain? A: People sometimes shorten words in messages to type faster. Відповідь може бути іншою, якщо зрозуміла й тематично доречна.
+
+## Рубрика відкритого продукту
+
+Робоча аналітична рубрика, не офіційне переведення в 12 балів. За кожним критерієм: 0 — доказу ознаки немає у наданій роботі; 1 — частково; 2 — достатньо для сформульованого завдання. Критерії: (1) виконання змістового завдання; (2) зрозумілість і зв’язність; (3) доречні слова / форми. Для S додатково описово зафіксувати реакцію на партнера та зрозумілість усного мовлення; підказки / читання заготовки відмічати. Для W позначити самостійну правку. Сума 0–6 — лише внутрішня опора для зворотного зв’язку. Відсутність доступу позначати «немає доказу», не нулем. Дозволені інші змістовні відповіді, вигадані персонажі й альтернативні рішення. Приклад зворотного зв’язку: «Ти назвав місце й час; наступний крок — додати причину з because».

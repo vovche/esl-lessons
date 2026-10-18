@@ -1,0 +1,89 @@
+# Ключі · 7 клас · Урок 137
+
+Лише для вчителя; не роздавати разом з учнівським аркушем. Переклад/синонімічна коротка відповідь прийнятні для розуміння, якщо факт точний; мовну форму коментувати окремо. Орфографічну помилку, що не змінює факту, не карати вдруге.
+
+## V
+
+1 — A, 2 — D, 3 — C, 4 — B. По 1 за точну відповідність; /4. Власні словосполучення: прийняти осмислену сполуку з тематичним словом, зразок контекстного вживання — у моделі P нижче; за потреби виправити лексичну сполучуваність; ці 2 приклади не додають прихованих балів.
+
+## R
+
+1. the school health room.
+2. Monday at 9 a.m.
+3. an appointment card.
+
+По 1 за факт; /3. Можна відповісти коротко; докази — відповідні речення тексту про місце, час і предмет/подію.
+
+## G
+
+1. and.
+2. or.
+3. because.
+4. but.
+
+По 1 за правильну форму; /4. Пояснення: And додає; but протиставляє; because дає причину. Both… and… поєднує два варіанти; either… or… пропонує вибір.
+
+## L · Сценарій читання вчителем
+
+Закрити/відділити додаток L в учнів. Прочитати двічі чітко, без театральних рухів та звукових ефектів, з паузою 45 секунд. Не наголошувати тільки правильні слова й не підказувати жестами.
+
+Leo is planning an imaginary trip. The group meets at the city museum entrance on Sunday at 11 a.m. The itinerary includes a cathedral and a public garden. Both attractions are shown on a paper map. Each visitor receives a leaflet, but no online ticket is needed for this classroom story. The tour guide suggests either a short route or a longer route. Leo chooses the short route because it includes a quiet stop. The group checks the meeting point before leaving.
+
+**Відповіді:**
+
+1. the city museum entrance.
+2. Sunday at 11 a.m.
+3. a cathedral and a public garden.
+
+По 1 за факт; /3. При поганій чутності перенести L; текстове читання позначити R, не L.
+
+## S · Зразок діалогу
+
+A: Let us meet at the school health room.
+B: When shall we meet?
+A: Monday at 9 a.m.
+B: Could you repeat the place, please?
+A: the school health room. I suggest preparing an appointment card because it fits our topic.
+B: Thank you. Can we write a short plan first?
+
+Це один можливий варіант, не текст для обов’язкового заучування. Додатковий запит Where shall we meet? прийнятний. Оцінити, чи співрозмовник справді отримав відповідь; письмовий сценарій сам собою не доводить говоріння.
+
+## P · Зразок та критерії
+
+Meet at the central library on Friday at 2 p.m. Our itinerary includes a landmark and an art gallery. Both attractions are on our paper map. Choose either a short route or a longer route. I suggest the short route because it includes a quiet stop. Finish at the same meeting point.
+
+Факти власної вигаданої події можуть відрізнятися від R, якщо завдання не вимагає перенесення саме фактів R. Для завдання читання з додатковими 2 фактами перевірити їх за R: **the school health room; Monday at 9 a.m.; an appointment card**. У проєкті перевірити назву, читабельні 3 факти, чернетку й 2 зміни; у граматичному уроці — дві цільові моделі; у лексичному — 4 слова.
+
+Формувальна рубрика відкритого продукту (кожен вимір 0–2):
+
+- Зміст: 0 — продукт відсутній/поза темою; 1 — мета зрозуміла, але бракує 2 обов’язкових деталей; 2 — є мета, адресат і потрібні тематичні деталі.
+- Організація: 0 — не можна відновити послідовність; 1 — послідовність зрозуміла з підтримкою; 2 — логічний початок, факти й завершення / доречна черговість реплік.
+- Мовна зрозумілість: 0 — зміст не відновлюється; 1 — помилки є, але основний зміст зрозумілий; 2 — цільові моделі переважно точні, ключові слова доречні.
+
+/6 — первинний навчальний показник, не автоматична офіційна оцінка. У S допускається пауза, паперова підготовка й відсутність камери. Для 6-бальної рубрики S: зміст — виконання ролі/запитів; організація — відповідь/уточнення; мовна зрозумілість — зрозумілий усний зразок. Потрібну допомогу зафіксувати, емоції не оцінювати.
+
+## F
+
+**Виправлена версія:** Both the castle and the museum are open. Choose either the short route or the long route. I choose this route because it includes a quiet stop.
+
+**Пояснення:** And додає; but протиставляє; because дає причину. Both… and… поєднує два варіанти; either… or… пропонує вибір. Прийняти інші граматично коректні виправлення зі збереженим змістом; пояснення двох змін може бути українською. Для портфоліо доказ — «до», «після», дві причини й наступний перевірюваний крок; твердження «я старався» без прикладу попросити конкретизувати.
+
+## Специфікація цього уроку
+
+L1–L3: 3 бали за 3 правильні факти; R1–R3: 3 бали за 3 факти з опорою на текст. Разом 6 первинних балів, окремі результати L /3 і R /3. Доказова цитата допомагає зворотному зв’язку, за її відсутність не знімати вдруге бал за вже правильний факт.
+
+B/D — скорочений місток, не повна перевірка всіх умінь. Не переносити автоматично бал за письмовий чат у результат говоріння; не записувати повне аудіювання, якщо учень читав. За переривання зберегти достовірні блоки, невиконане позначити «перенесено», не нулем за технічну недоступність.
+
+## ДЗ
+
+Приймається будь-який осмислений чистовий текст за тематичною умовою P, 2 тематичні слова й одне запитання з правильною моделлю. Приклади запитання до R: Where does the story take place? When does the event happen? Відповіді: the school health room; Monday at 9 a.m. Після контрольного уроку перевіряється лише факт навчальної рефлексії; це не новий підсумковий бал.
+
+## Резерв після переривання — ключ до recovery-handout.md
+
+L: 1. the central library; 2. Friday at 2 p.m; 3. a landmark and an art gallery.
+
+R: 1. the clinic waiting room; 2. Thursday at 11 a.m; 3. a completed information form.
+
+Текст L для двох читань: Kim is planning an imaginary trip. The group meets at the central library on Friday at 2 p.m. The itinerary includes a landmark and an art gallery. Both attractions are shown on a paper map. Each visitor receives a leaflet, but no online ticket is needed for this classroom story. The tour guide suggests either a short route or a longer route. Kim chooses the short route because it includes a quiet stop. The group checks the meeting point before leaving.
+
+S/P: критерії першого варіанта зберігаються; нові місце, час і деталі є вигаданими, довільними та внутрішньо узгодженими. Для діалогу зсув часу на годину перевіряти відносно попереднього учнівського продукту, а не чужої історії. Якщо зразка попереднього S немає, учень обирає нові деталі без порівняння. Зараховувати тільки відкладені блоки; не підсумовувати два варіанти подвійно.

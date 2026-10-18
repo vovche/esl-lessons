@@ -32,12 +32,17 @@ jobs:
           python3 scripts/build_dictionary.py --check
           python3 tests/check_jolly_phonics.py
           python3 tests/check_future_forms_v2.py
+          python3 tests/check_teacher_materials.py
+      - name: Stage public website
+        run: python3 scripts/prepare_pages.py --output "$RUNNER_TEMP/esl-pages"
+      - name: Verify teacher documents are excluded
+        run: test ! -e "$RUNNER_TEMP/esl-pages/teacher"
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: ${{ runner.temp }}/esl-pages
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
