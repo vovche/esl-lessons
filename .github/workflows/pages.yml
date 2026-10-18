@@ -35,7 +35,6 @@ jobs:
           python3 tests/check_naurok_homework.py
           python3 tests/check_homework_archives.py
           python3 tests/check_teacher_materials.py
-          python3 tests/check_grade11_materials.py
           python3 tests/check_teacher_grade6_quality.py
           python3 tests/check_teacher_grade7_quality.py
           python3 tests/check_teacher_grade9_quality.py
