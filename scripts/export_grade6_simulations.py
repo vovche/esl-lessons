@@ -121,6 +121,11 @@ def export_payload():
         reviewed = reviewed_mission_data(lesson)
         adaptation = authored['game_adaptation'](lesson, adaptations)
         support = learning_support(lesson, adaptation, adaptations)
+        formal = lesson['lesson_type'] in ('pair_diagnostic', 'semester_check')
+        blocks = [adaptation] if formal else authored['choose'](lesson, adaptations)
+        check_adaptation = blocks[1] if len(blocks)>1 else adaptation
+        if lesson['lesson_type']=='reflection':
+            check_adaptation=adaptations['sb-8c']
         missions = []
         for game_index, mode in enumerate(('learn', 'check')):
             steps = []
@@ -135,7 +140,7 @@ def export_payload():
                 })
             if mode == 'learn':
                 role = 'Ти — ' + reviewed['role'] + '.'
-                goal = reviewed['goal']
+                goal = reviewed['goal'] + ' За бажанням: ' + authored['sel_profile'](lesson, adaptation, 'learn')['action']
                 # The model is a learning resource, never answer commentary.
                 stimulus = support + '\n\n' + reviewed['sources'][0] + '\n\nModel: ' + reviewed['model']
                 production = {
@@ -150,7 +155,9 @@ def export_payload():
                     'prompt': 'До запиту «' + steps[0]['prompt'] + '» напиши англійською одну коротку підставу: факт із нового тексту або доречну мовну форму.',
                     'starter': 'My evidence is…',
                 }
-            missions.append({'id': mode, 'mode': mode, 'title': reviewed['titles'][game_index], 'role': role, 'goal': goal, 'source': stimulus, 'steps': steps, 'production': production})
+            profile=authored['sel_profile'](lesson,adaptation if mode=='learn' else check_adaptation,mode)
+            reflection={'focus':profile['focus'],'prompt':profile['prompt']}
+            missions.append({'id': mode, 'mode': mode, 'title': reviewed['titles'][game_index], 'role': role, 'goal': goal, 'source': stimulus, 'steps': steps, 'production': production, 'reflection': reflection})
         result['lessons'].append({'id': f'g6-{number:03d}', 'number': number, 'title': reviewed['titles'][0], 'slugs': public_slugs(lesson, authored, existing), 'games': missions})
     return result
 

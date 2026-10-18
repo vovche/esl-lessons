@@ -6,18 +6,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "3841d56a99bf16128183fd027e795b90138a1a049dc4b68a7fbdd1da6083784c",
-          "source_sha256": "26f1634c62bcfeb3c3e581073b260213502799832cfc5db8c6c60e802d086e35"
+          "sha256": "de56447fd11f591361d6eb48d6699f1170f1ea0bdddd77c5a49f2c660167cdcf",
+          "source_sha256": "2e2a2e1cfa0eec0acd2bd8a47925543433b7841513f5cc555cce90ccb8700942"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "3d55a4fde77e4866ffeb03d6076c95b931b7c023a468352866d29fb7a5221887",
-          "source_sha256": "822029629f6d184355877e44a16704f02b700063d10d125b172bb3410429893f"
+          "sha256": "091180e49ca8c2add3ad77e4cd5d35ec0412ef51e12576231e194ca856cfc031",
+          "source_sha256": "5a9d573cb174ddbde576cebffb6d07c683ca7178b3ad7922a497aa85d62e844d"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "f901cafd3e93a6add2922d11d183e381a8f86571b8f5c5ab464cce6670725ff0",
-          "source_sha256": "4dc75d5930eb102926e3d57ba243bbae40031609fbd62b464e85245b7f0d01b5"
+          "pages": 3,
+          "sha256": "8ad650e805c0b8f67e7565080f829aedb46785c3b23534a58e3304cfa693841f",
+          "source_sha256": "3b1093bb91df01b29a9a5120f3c4be52299e03f1d7a1e7f12efd019b7e133f0d"
         }
       }
     },
@@ -26,18 +26,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "51dfb37b1fc55be5a4cf6bb03a93f98c02e2ee2770579f5bc6ad305cfb2ede75",
-          "source_sha256": "35ee861de99fa846d5fe93ef8de0c7e88d4186a3029ca99160743a05db5b1838"
+          "sha256": "42ccb0f0ab70cfec42e9aeabe753d1f82337389e601842de776e2d3f29d0cd12",
+          "source_sha256": "1303b07cec392b0605c0d600a2d7ef5e00a1bef4d7a2e0eff95c0afb830754f4"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "5e069ecc8c6530f43ed3fb2c5e57e9bef73626a054801d8f8801252eae0711c6",
-          "source_sha256": "9f6b2a98cac3e3ef1b03d3a8e99fca293597f989d2556903c378c101a7f01d7c"
+          "pages": 8,
+          "sha256": "999401f8aa62c36ecd0d6338c7424ebf4cf05885a7bbd45b6b3c62dcb873c137",
+          "source_sha256": "005984ac80a02929356fc726beb986593ca8aaeef92336ba0e0bf91263e09f2a"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "7f41dcfb1bb9d8cbc9d1c5e3e36ca7353581945da96502e0f543a7bec25c3a6f",
-          "source_sha256": "ff538a56d7214c4e034c527d3bac7b0aa512ae7c65cf19a6fbc9e8ada9871ca5"
+          "pages": 3,
+          "sha256": "d65416bb620d8e02735a0257b97bebfd6501498bb4b6a2b068a2ef8660567b6e",
+          "source_sha256": "590a33eb562786c18a211208107b86aaf0b6a6a46543e7519b1f6e143928c827"
         }
       }
     },
@@ -46,18 +46,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "2bc9b34982aedaefbc3a7cf6b5ac234810e976707dcdbd1f5a332990302ae6c4",
-          "source_sha256": "d59fbc2fbe39be60f61ab491f4f84e92ec2ab33d2c71484f15f34c20b8fd30e7"
+          "sha256": "5fe702bec5ad75f50c452638f09e7683ffef9fc7d6b5ae82338117ac5f0157a9",
+          "source_sha256": "0b174d1f2add83a7b59f1d82180f7410c8998fda41f25ee8b2830c08d5228565"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "73dac500c3338b9f2cb02869a7ee6e233063e2f4ba738bf7850e6572ec45c6c9",
-          "source_sha256": "f137df6d6d2e1f9ca8c2d73bfc9d03d37bcd73424bd65c0079b17d98a1b754cb"
+          "sha256": "bf631a12b363e62de4175c68ae543e46e1656823e9c89642c7ba27ba51f038e9",
+          "source_sha256": "db6c3ae179b7b363ec483baa873a8403cac354e581b6538b5b55de404ace7031"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "6d2ffb756b95e9178f0d09a9638823f53e29dc19b9917191791fee423bd76559",
-          "source_sha256": "da1c48ee6e685b69422046207d378cbfc31352d92b66f814aa4cec4fe21a9fb9"
+          "pages": 3,
+          "sha256": "cf70d6de8156f9b9ab04daa333b80c1e004a67f1c99dda55e145702a2278ca2e",
+          "source_sha256": "772ff03a198e402f03f6db5082d8b6ac208b176d22e854d2f7b78a6ec66f2fc4"
         }
       }
     },
@@ -65,19 +65,19 @@
       "directory": "6/004",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "e64246703af7220214f4c178a35d442a2f0249add5994f47a109c3c3c09a8cef",
-          "source_sha256": "c277b3cab980b50e5b7aa27a2b30b558fa707aeb271ed1f5f25f112c69ee51ee"
+          "pages": 3,
+          "sha256": "b15216ca226096f66d2824bddf14730f022fb67e0b3da675f769085efd2f7dda",
+          "source_sha256": "e08e66493c2a7b108ba8fe96fed57fa81c152656ea0785ca5dd3503bb470d027"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "ecd1ec263fca9fce7ccde4875432250500843be9ced1abdc97be6337c75aa18c",
-          "source_sha256": "6151042fd56c44186117dd9b03007d864f810bc3a0ebe7155c27b71b2079cfd7"
+          "pages": 8,
+          "sha256": "c630e1694f67df184fc75831c37ae46f520540a542f5231ea360891817f4b4f6",
+          "source_sha256": "2d75de4ae5837f0225782a900686368fb2972dead32add7430e39407afac2439"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "bc61fe7791b385cd9a248f68c6675c7699b4d7debf7e33098a43dd481c23a9a7",
-          "source_sha256": "4b03e80339569a7eaec46928f0e344f118dc7af8abd24765c5e5da2ac6ba6397"
+          "pages": 3,
+          "sha256": "a84d446d28e76db6c558b71f67e419820d00b5134d45147e55384a10edbcaa76",
+          "source_sha256": "a3403edd4c17b9ceb9ae97fbba0e8b3c134a687291884e31bcd3927cdf9e927f"
         }
       }
     },
@@ -86,18 +86,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "98623ab54ff4f944414e32ba837fb96246c96c05791f8fd56e7bd7d922b6ec1a",
-          "source_sha256": "0b974c887b25cf2d10d7bb6ebde4de79a8258a991359bf3afe9a40379d60b34e"
+          "sha256": "df9346fa34c009631fd15e7a335e12d4be715cdd254ea74708466936096f3bff",
+          "source_sha256": "1f8c13d629b211faf829e1c0d93b984f1752bbeb919b0cc3d68a8a5b1467f2d4"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "1ac9b3e72b38f7519ba4fac550b44168d95da344bd23dbf9529f44232d3906a2",
-          "source_sha256": "59003395addd206cf753d5f4a4fe0f6586b4c2c6a487f2a2a0fb79be717743bd"
+          "pages": 8,
+          "sha256": "cb8b74fcfff0982337dcaec91c6ba573c141a1b298811a5757740e6f166eceac",
+          "source_sha256": "5f83d9753f815e3c7ee8eb34e9e361da0f9e8911c68591204292457022207161"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "aa032e26fcd7d3ab865e68104c3594313bfd41d4a930d1143e2d78d81e709cf7",
-          "source_sha256": "cd1cdc683caff7511e29ad8354a220ea58187a76c397324448203276af201171"
+          "pages": 3,
+          "sha256": "bb47889841eb5fc74feacf57f2271dfb1cbd648bb8e4fc362de2b3bc8a5e253f",
+          "source_sha256": "aea187bd726b58dcb8737a0322e680d2ca10875a32aeae3c64a4f449ffce789e"
         }
       }
     },
@@ -105,19 +105,19 @@
       "directory": "6/006",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "643bedc49048127e475d0cc1a37db38d097a079080bae8daec5c60c79ffda925",
-          "source_sha256": "aecc55ad0b0fab52aad729696520ef6d2806b7f85dab296a77143f2d4a0bd21f"
+          "pages": 3,
+          "sha256": "068a305a77ab35fa08dd02f91b0e7552860ecd8d9ca668530c6b5612fe7de424",
+          "source_sha256": "0bbcd0a4fa3082d88d3bfc951efcd263d9a1109f2d77d734d752240fa3c17909"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "b5cabdc1bb18c46bc678bea67c7625b5ede3a16f5c75d13e6913873f2a4f4a60",
-          "source_sha256": "79c6851ca8c5b65aae829fbd1328c42769298095d99ccbb3b04eae30615c2118"
+          "sha256": "4c3391dd8a5cea5bcd936843ad49f6839a3cf9dd977a3c855bd24417dc594b2e",
+          "source_sha256": "33cb7584672b38db2c2449de3227e4536c7fe535dddb66e4d27769857035d347"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "fde84405bb114f7061987c156806df36f8694c61da779fb56ef91629cc736060",
-          "source_sha256": "db1f566db7af1a4826581d905d0fd448b6a02e0bc030bd7eca7c57d5c12d7ae7"
+          "pages": 3,
+          "sha256": "f6dc833a885f76200c41ab639aa6163b1513759e29a83a7a8daa1d9b6942da0d",
+          "source_sha256": "f2f9baf0d678257552ae9408ce52e473f6784cf231c81e9aec667f657381f558"
         }
       }
     },
@@ -126,18 +126,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "6f221815919dddb18bb1177f178d1a2e2c5402d5fe95d549c02e513545f64610",
-          "source_sha256": "c45f59df6306952247bd4c039d80da810cc5eda880739aae7598fc4189d0e363"
+          "sha256": "1b0835cb200440f6e5dbba3d292fa51feb07b5c88c699600fcd27f93d40ee8fc",
+          "source_sha256": "5ed8e61c3d8e9a370154904e7433a53bf495573c6dafc125efc6fc6cd78c537c"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "a6173f9966995300422c990af286d331c728dac3e27024e9e2b2cf750296ca2b",
-          "source_sha256": "6b66cedfd90886afb678daf82d35bb9532451e98ae373e6c46b2359f0202db72"
+          "sha256": "2e9db474f50f9ff58d9d43ca057632d8302c53fe9fe2651f3f87f7c193002b2b",
+          "source_sha256": "368f644578096687cc9710da9ae74a4be9d014d7f6c869cc36d20e99b94de8b6"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "1435b72dfa123d3c7161cc14b20974a42915ca9039350d37fd3bce411d3f87c5",
-          "source_sha256": "5e5caaf6093083edfc3b5714950884f8e4504504e6976462dd6975d165451f27"
+          "pages": 3,
+          "sha256": "71747327d0ff68ad7cc922bfbf665a70077389dac506698f827664bec2552e41",
+          "source_sha256": "8409a30922285073bb21b08561c1ab7c4bde1df2eccf8d99acf402944301184c"
         }
       }
     },
@@ -145,19 +145,19 @@
       "directory": "6/008",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "3caec31119f8578723500843bb7826205ae9aa2ac8ded63aa1bab3479c1b9ba2",
-          "source_sha256": "c2a73c64349ac323dec0089ae3c4e3a97781ed88779a0ab80e0821d24751ff16"
+          "pages": 3,
+          "sha256": "cc92036166e55fa866df5e5481fe2af026ceffb705ec801aa06b5477cc4a4fa4",
+          "source_sha256": "6cba1d1cef52b4668b3c8f5cf1ff329f2d78b3331f470f8e275be0469f7435e1"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "2e894b62bc8bb0c81220ed9ef315357afa4874e57edea4d1f7a59e43efae1dfa",
-          "source_sha256": "86ce76a9c75dd570900a7676d3bb58fb6b98a1802ab291eee37eeae89371ff30"
+          "sha256": "bf7de5070c8c8dfdcc6edc8971ddadea722857417f9e0b30a02c461a39817270",
+          "source_sha256": "13aef035f05dcfc452fd306f18befd61b0c7c86709ef453c35aa5325e6d25f1d"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "3d7c4a445d9db5fa85540b9b6065ccdd5fded0145429cdb18160691e6f9a89fc",
-          "source_sha256": "12e989645e773c73294483f9cb67d1505b4519cbc8b932c0e38c0b9d8bafb614"
+          "pages": 3,
+          "sha256": "c8678bc1c93c5015bb5677ff946515a211da89522fcb81c9fcd0ddd47f8ad2b4",
+          "source_sha256": "7c475f373f1774ec81ca31c51713fe24187c261d9f511cfcf160565ca8f77553"
         }
       }
     },
@@ -166,18 +166,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "c0eadd5e77fd9578d6939bc8233f2852d72dfd04dd73eb83aca8fa16ca94f797",
-          "source_sha256": "9f474c8c4b2c22abf8ece0aa3578f870f6768a007162a71824e34551b4afe5a6"
+          "sha256": "b0cf8d17bb13923c5cfdb39658f431b41cf2dd93a557b9ba4e040ced4d1eaa74",
+          "source_sha256": "7c655a0f1aed8698a5be730db6880aaaf62a7b42b0c77444cdd1a45c02431192"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "7b85a5a2da347671b729061cd260b475a95795ca146044767696f4ee34f08838",
-          "source_sha256": "f8166bd1b7e87fe0018593e3354dfecfd68923f57ddf3248d3237a70ffbfbf93"
+          "sha256": "b08ac07f4b21065139af1ad4059172693c37c48f8f5f9b5ca71c0a81df844263",
+          "source_sha256": "66a83bfa1374c7abf3357eb92caf2c97140cf4781f205f208b364f07afb70d42"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "9fa855e615d111c9040679ee8cd012699f0b195071b681b3515561b5d2bc60b1",
-          "source_sha256": "900d0e06b22d3a7096d4bbf4d199be8a256bfa4a47ed69e5129a98a1e08a82c3"
+          "pages": 3,
+          "sha256": "21f43cf76c62c518b8d4684ea851459f5ade9e4b908f18be89a613837149998b",
+          "source_sha256": "5c96df567404dbc7207f4fc5560b78b7f66c8ca5906958abdc8282a38413ab5a"
         }
       }
     },
@@ -185,19 +185,19 @@
       "directory": "6/010",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "962cab589ea4c05418e30209086a963823ee0409bfcaca5869942d46fdedbfd7",
-          "source_sha256": "3bea9a1a3c305168f07c992ab8e65de7bf5925f9cc3f8844146aa28979527cf3"
+          "pages": 3,
+          "sha256": "6e9623c87790fd9c92a30967656a21d03c34af27ebd591fc5a36827bcafc8829",
+          "source_sha256": "b44d94c5ebf8ef9e65134ae740a9420611df43e46a34c43fbaef211e20f7bba4"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "f0c262285ec85e263127edf004638a844235f7f2bb68ab1e350031f2ff2149ca",
-          "source_sha256": "ea5298a0bc74a1d6de20baa1ca61092de582552fc84d10fe751246ac2ed64b55"
+          "sha256": "97ad0f79854cf35ee9d0d83f985eb5ea67348ccb1e185ccb54b7bb7c10798830",
+          "source_sha256": "b50a842532828c32f79b07eb0ba39dcb040ff07af588b895653839791d1113ce"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "692ce32e3ccb7406cf9053c99c5a74c2e4add8d508b32e5d192492f63115e84a",
-          "source_sha256": "c78a48d2af757f4237dbdfd0dec2fe5b405a645592a7468c4024c7cb93805d4e"
+          "pages": 3,
+          "sha256": "bbaa7b997a7d843cd9cf519f69e96f168eacf3850d3a7b75400edc09b013f96a",
+          "source_sha256": "b9fd73fb67306badd6c375055dabe9d05b201c779e2ae84dfc398a63773615ce"
         }
       }
     },
@@ -206,18 +206,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "a10c871d19a5f026196c531df46a65269fe4f0a5bb49bafd89bc4b44959dcdf2",
-          "source_sha256": "aef01af21d1f1c6020e3a7a839af2598d92ac8425eeef1bdac79908058485014"
+          "sha256": "9b1b75ea3104c34785c0edf48283634f99966e8b589f4ea7c71a552812b5cf73",
+          "source_sha256": "460fafc58eb8c157615c43b3f29532207c96b60e0811f3870a6668da5e908492"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "c016c450da93a8055e3848a48fd8aa257947b4746f7c30e8dd1e8a34d68eef60",
-          "source_sha256": "9e3b053a02eecabed3126cbb6eb4a0ff0c625e192654e2af347ff2e2bca30b6a"
+          "sha256": "7a66e587975e6a9e41049dfee3fbba2b1ad7b89f20aa65fa7c4184d809b15905",
+          "source_sha256": "2659713af141b055956f48652db2691a02973f5ef089facb6ef734d06c585c78"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "740d7fe28b1faa30804f767fe176e5e888b99059109e5834d06dd123a0562eda",
-          "source_sha256": "2f0d989815b79a0855ac24449fb72a7e4b78c0cfad924abf286ec25b0e451c0c"
+          "pages": 3,
+          "sha256": "ee4d668d66b761c36b49719d03e8cede875bdbb5a66acc2786600038a42db76b",
+          "source_sha256": "c6fef2050ac5c003faa443fd1c031b332fa33f75a8d3a8472b288118f7e93efe"
         }
       }
     },
@@ -225,19 +225,19 @@
       "directory": "6/012",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "fdb155ca791ed53406f10375f70a63388e24d1307318532b4d2f179e496683b2",
-          "source_sha256": "1a8fa72bbfd37447e2743c0f99ff19cd3ebd2cf6f6f525fe7ed43449e5a8b307"
+          "pages": 3,
+          "sha256": "b07ffc4692494798b188def0577b22a438f40bd1ec193d306cd416b3e1e286bd",
+          "source_sha256": "bc84d9e78ba09eae8eea641f993c7b226098d8ae53100e57d3f1bdecea8456aa"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "f69ded3616e78e72e7f980e6764a8b40956896d82b04c57248b4b03b24d70f70",
-          "source_sha256": "7e68d052c8210ad71170c080144f1b845bf7ecc21b250a64f45a5d946c31719f"
+          "pages": 8,
+          "sha256": "07bb70e5673e7496c30af7d37dae3e4e7edc9a459e7cb6b0badb074c6ca0451d",
+          "source_sha256": "bd9850a23f0f14aea8d52cd0bcf748d29a12db516515641a00e5cd1c5f15c6df"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "6a95351ad1bb5c7df018114c4734a5871b1e4c6a92638ba6f51d49fb3fa60a5b",
-          "source_sha256": "803fbaf4bb7baf5688231ba90919a5c366fcd4f70643238ab918e62c3b676636"
+          "pages": 3,
+          "sha256": "a39b54cfcc2fa28a0e560535fd8ec49a406fdda1c82c07ae9c90ed6b8a2fb647",
+          "source_sha256": "d50246c878b4209629e58453d6c4e27d349fd074ee83015458f53936fa7ff816"
         }
       }
     },
@@ -246,18 +246,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "ce1c0a163d64cd9f4e407ea30ab97ba02de8347d679f6d3c4098e68060e6f32d",
-          "source_sha256": "6a31e4fc7f96046e165b26748cbcce5baa4ea0d226a76b4a84cb1b960a5deb82"
+          "sha256": "f27b7f16501d77533b7907ca8b5ac6329419b0afe18606a6833400f6963174d8",
+          "source_sha256": "24e059532c658c829828cc050e26204054219f3b1c2c944d37395f590efc60cf"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "17cf7eca0f6456bcf133362e0341af293e7b90c0de3446af82e470ef4da850ff",
-          "source_sha256": "ff6a469b703dc20f87b471938ec31f86a96d26318251bdac98b2a07120a3ddca"
+          "pages": 8,
+          "sha256": "815adc64cc38c6f263f3878528862913deadce2dd4d7162d2db70a6e20cf95d9",
+          "source_sha256": "96c2d3c627e1c32688a3ad9a2fd8e91cf5f674f6728ef956d6d9dd77a05db1c1"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "a99a7053945f9d0b69859503b23eae119d4fbf2d95e75b0f4450027eed3d2293",
-          "source_sha256": "497fc89b0da32d9c68bf5196c64df726dca08e8d2b3184eeed00a5fa82af9bf9"
+          "pages": 3,
+          "sha256": "136bf239b0f3786460c81df0d957aff4c0069e2be64befd7bd0204d3dcc37371",
+          "source_sha256": "050bddc24193f49c8cd5024dae11aa80fa03cec38f2146870d3da910606fdcf3"
         }
       }
     },
@@ -266,18 +266,18 @@
       "files": {
         "handout.pdf": {
           "pages": 3,
-          "sha256": "9142a61cba50eeb55929c0f01d3b35d712af277316b470c6f25db66eefaed8e0",
-          "source_sha256": "bc66bd03998c6175e2ab5fdbba9f336ad7bb8e5e7707c011cecec5db5206dbd6"
+          "sha256": "277560d6d18ceb2a1a3a01ab8218c561452e9b719621609ebbaabb78a5d72d78",
+          "source_sha256": "bd10c0bd0d02b7ac503e87525b19386ef4ca11d2cd4b431b69cf667821a2c450"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "49e83c96ecbdf91a30136bd0b01d8546526b4073ab9e81039f45204695f3c610",
-          "source_sha256": "d796ba675c6f88fc680f77bcad0a370d6d00dbc797369d54a0ea8008fa6830a9"
+          "pages": 8,
+          "sha256": "b1e1f1311eb6135992ce6af32edbc31c911179a135331fb5dcddea8dab97a7e0",
+          "source_sha256": "55dd826e2947de39670d1324edace12c52481f65c5b03295c4c851fbc33c5029"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "3abdb119d0477c5d4b3e4537a4e9c23371c1ccfd002052313e3379f78d84e4c7",
-          "source_sha256": "2a4951090f7017e1d421f6fcec0183067523e6191101b13b36586488c6e40d63"
+          "pages": 3,
+          "sha256": "adb0dfed7f8ee7e0ff21df4a2f3c3db76fc942f9df6d64c7bfec0fcb11ccdf5d",
+          "source_sha256": "148dad338455fefecc15c9de867730678acc0609865adab5ac89fcc59c331468"
         }
       }
     },
@@ -286,18 +286,18 @@
       "files": {
         "handout.pdf": {
           "pages": 3,
-          "sha256": "84f52fec40c727eca5d51e06a072b186a50253a55730fda6d12851d0dfc4eefd",
-          "source_sha256": "cf334a01446a8d5fc8874070199f2cf768906abb41aaaaeabb6c7aa9013d574f"
+          "sha256": "0c990ea6e79b723e41122c756b0d2c5ff71503d6f8d80af116a09c810e27127d",
+          "source_sha256": "7b8ddf7d06ee6fabdf4de835c520a9959d16b8152c9b2d514d163ea3d73e50ec"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "d654f67a9377030f7277f23b229a057555c08b285c8892efb095e780b95a52c8",
-          "source_sha256": "019c13559f4d2b3511ceea2ce6b5bab0a969a53cd9d2032033b4c8652b344ff4"
+          "pages": 8,
+          "sha256": "11a0178d4213957799981fdefd2549622d37675963026647fa40ae8d3321e164",
+          "source_sha256": "fbf688cafb0a80d83e489a03ce72e8e1dcf20397742d8d11ae66c2dfa33d35b6"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "f56c95892852ae430f6364c79cb78455b82238663ffe3049c1730db58fcc3928",
-          "source_sha256": "8a223c457ab995d1d5b76111e64eb6cbc9218c3dc7687535ad7612be515bd99e"
+          "pages": 3,
+          "sha256": "700234a408aeabec90598fec230db47a4db03c33c6a06f4e4df487efffdd852d",
+          "source_sha256": "305cb510dc13ab92fc953061a6205175574741b782b847d8329a38ac3e13bf9b"
         }
       }
     },
@@ -306,18 +306,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "5e3a540df3008eadd8512aba45c4a34c30b1a1095d7a64cb3e291fe6ec09859a",
-          "source_sha256": "96ec10d4decbcf9a44e28f0c7f91560b5beeabd482a7a2fefdf0a2563383e96a"
+          "sha256": "056c34438a38db901260fc0db94bd2b5a3e9fdfab87f270dc8d0c6d0dc12032a",
+          "source_sha256": "7a919e8b9034ab6c9765db7e88cec0211b36774eab4a8a04ea57f1755d872431"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "85ee1ba43a88bf45d0de0f01d58a2a04ca10d49d4076969fabf53beff4031397",
-          "source_sha256": "605cce0c5257e369251bd6f0338255a579c0b4e18d81416170c99db371d6f944"
+          "pages": 8,
+          "sha256": "f2aef2fa22c4e3755b1ecff9737413c2348181352d0c4d7b7e1061cbacd8a5dc",
+          "source_sha256": "d7d15e051d6f9717f973ec606a041a6f8804dbd6d59b356f57a0683c4bf0b590"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "4df4cc033244e94716012b90ca712cca4ce50d861323f22848268a86cc0c1413",
-          "source_sha256": "d39b39d272e9442def170ef60fa07c93fc0be994e15466b1cf2960ee60099fa2"
+          "pages": 3,
+          "sha256": "2c3defa297470a133936174077abc371a52b27dbb9528f89fbf7f3b8cd011575",
+          "source_sha256": "7c96db1a0aae8d7902ef7caae7f6527124caa248ea5fdc6148503edc49eca348"
         }
       }
     },
@@ -325,19 +325,19 @@
       "directory": "6/017",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "5de8c7b9b8a891d5ced7b7f01a530d95c344c9f65396529dfa40df590d554a00",
-          "source_sha256": "08ea9709123bce4ad84a04e5955cd6b05a917d0b3197b88b02c53bdbd579dda5"
+          "pages": 3,
+          "sha256": "7f832870616cecdbe9a69e06fb332f5f8860e4f3e6fea27ebb6e03c6cee91f5a",
+          "source_sha256": "ec4a99975286a5443135d6de7b6939595ecf68ab5ef628239ca8c0809bc3fdce"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "7d5b8fa8874f6975d22a3a180f8af56520e84451de5a92735441a6309e443794",
-          "source_sha256": "0932a40555facd14b52118a1148ce585c096cde1d204fe3e55b07dbeafeaba2e"
+          "pages": 8,
+          "sha256": "c972e655f95b422d9cd78edd236ee7e5b7d4344da8185ced2c1e8f24996dda3d",
+          "source_sha256": "e927faa23773bc5b73f25e77f59d628fba03d6c5e8dfa97617c6b464110c9dc5"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "9e4766a2af3ebab2afbcfe86f58ce20663c3f6ad97c26837302b7928641e9c76",
-          "source_sha256": "a247e9a36cc0b37763c8e81b4083f520d12f4a01ece7376741d83f1ffc68fa15"
+          "pages": 3,
+          "sha256": "fc267171a764befef5b332fbcd446130037575c25eeaf59cb130a7daed623823",
+          "source_sha256": "c7a28dd6d9cd1115c66818b37874b90499642d75c538e271ea891dda092a1028"
         }
       }
     },
@@ -346,18 +346,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "7622c252bd23f46d3428dbc32a606926dc06740e452f7a56bb3edf92d68d4357",
-          "source_sha256": "92d41732f65bda57cbc8d06887d36823e0b644224187fc0c0d2343f28140ac9f"
+          "sha256": "9c43148b13368c6bfcff8aec67bf991a760decddcbcc8a0bb07555d0f054e801",
+          "source_sha256": "86fc7e3f85c9918f52591bbdad33ea3df6f31bbcc5c7d47598b51c772cb95141"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "c846ad7bc8b7239a8eaf94fd776fddb9be5f305c96baab8a38278eba15ab4a14",
-          "source_sha256": "a22d0b6b33a34d1bbe95732de37c75a181ed6eb961603f670c565fdea17f08a1"
+          "sha256": "7f51a38cfc0535e14fd4b2b4c37de32a901e1ded711a966a5a31dd7c6e9cfb07",
+          "source_sha256": "9d8c3c5a76162807bafdeb80800c7e799507987d206e2be771d262bec92ea1f3"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "d9cea44da42c0241bf20262317f5cdc6f8fd2adc3b248b18b06fa26db68321e0",
-          "source_sha256": "7ac7164b5192bbb83a32dd004c45815df3879821a619ba53362c4ae2d8a10d74"
+          "pages": 3,
+          "sha256": "dc1316ba03959e7f61e622216db1c8e4244ae520f3d5fba02833dfe43d6b60a1",
+          "source_sha256": "f0552d16123e343f0b9ca3dc984f3d954860543f90b5e448baec22685e5f1800"
         }
       }
     },
@@ -365,19 +365,19 @@
       "directory": "6/019",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "e6f193aa29a3d4f02485eda9df2f0aa9faa62e4842c726fdcb8464ac12149fea",
-          "source_sha256": "795e645cb5e19859e4de9a0f00e9054de158e630716926fd0f4bc2390c6db0b4"
+          "pages": 3,
+          "sha256": "defdf5aaa5cf62fda305fc78455348882969268ea1ea7d04eec65d96d443d646",
+          "source_sha256": "daf1aecf4559eb822c9284b8a828e31bb825e06127511bbbc56c0835d6e35179"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "1df785bc052fe7928bca9c12859d1a0d71497338413b6854f70563b9051b58a4",
-          "source_sha256": "6a5ac10a506aac177a544686ece1ac9902a2732df1cb6c4a781e8e808a0ba165"
+          "sha256": "0ab5f100d9c2532acc360eab0d15616637f89a30ebd9d4c4fbaa40f16fe805be",
+          "source_sha256": "0470641586190c9c62f49ef1f88eab8bf5ca3a2dcdc9ae452b0a0815f8eb55ce"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "ffaebb15323d6e1ccc31044865806e17ec50bfce89c3724ae8ca8b23d8ef3e00",
-          "source_sha256": "398542ce87d4763d016ce88f46862148566c59939b3523ee4d7ac4814389ddee"
+          "pages": 3,
+          "sha256": "ed831eeb49d50997111ae8edd1cb680da22c8c9a78a5bf8a7e51e94da198e16b",
+          "source_sha256": "66135eb07d7378de69d2353fd526b741bb1d87d2fe12fc86d44dee879cc3f4ea"
         }
       }
     },
@@ -386,18 +386,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "176da3aafe9db14121b33983900c61aeea3ad95a1e36991dbed61744fb8cf0e4",
-          "source_sha256": "cd04447b9d61e596d2c51082c93b9cf8e927e12ba0d233d2450bbdc48cfcadd2"
+          "sha256": "f05fcfd7c14dca3615ed338888ac892cd4ec99dc49b7a8714ba8eb9449cf5940",
+          "source_sha256": "05b71019454e4e719089300333c88792070527a4c995056444ecb5689af5d1a9"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "6c42f02975f5c501165e50c2faf1ed3b2167f8e75252ae90e85bfb98e799280f",
-          "source_sha256": "65e170ab29b4faf31d282f4aa0e2db16317f64979a438f68549a7dcfa4a19565"
+          "sha256": "f8889d0a19fcc4c5638d9a0cc7dd954c95dc2a39573e7e4b9e55aa499d209d1e",
+          "source_sha256": "f2e1595ba2e985938f8bef2745d8f09d19038ed4555cc2e0a41f3d5ed2cd84d4"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "12c5a756bf10fe7c74d91a812318fe9cfea1f01f5bee966fa1270a9f12f58fdc",
-          "source_sha256": "ee197a1c10f65030d2e45f82d9728883f418c69f69f7a3d53b21cfcb6f77e0c0"
+          "pages": 3,
+          "sha256": "da1d36233de2cacdf38833e5b2e9c118da4dca3b5af527fe204ac5374cf00591",
+          "source_sha256": "13df6541d2a1c94b66620a50df08a4d3cd1da01e5292e2f0dd4821a2ccefa0d0"
         }
       }
     },
@@ -405,19 +405,19 @@
       "directory": "6/021",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "9478c57a817e1d228b5ae63a7773dc39b609deb486668b8274ad1ecd9c3acefb",
-          "source_sha256": "bbd2697b0711cd28dd4aa9d5cce0cfb1f7e998fbb864b9f4a7f6dd7d4f8351d8"
+          "pages": 3,
+          "sha256": "2da1431b71a83be44bc3e749667c579d61772cff78327f3224a58d37db903625",
+          "source_sha256": "406893efa159a1be761e298edf6f37dc47120706263fa69076e05462a0ad9d91"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "1ac06ebbdd74d6ca345896bcae8b18b9161020f7d0040273a08a6d9cc479cd3a",
-          "source_sha256": "5babf911deedfdaf282af581c0fc0240c73f2fc436f27347342abc5b30eb4968"
+          "sha256": "feb1458303c9ccc94204f43c965a5f0b113240ff87b65e262e311d6de9edff1c",
+          "source_sha256": "f84fe0c53caf7a9fc73c85514ecf26f0bef478206c080ab470c01cf70ec33b56"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "2f01df1a8b018949e21b7949497dcc3f17b4d0e9bb3e0bcd699d6cbee0c9b1c5",
-          "source_sha256": "2e32e22a1332adc8cdc227c1e58e13d98e8f90cc1481cef8f2ecf992364a9aa0"
+          "pages": 3,
+          "sha256": "268ce699bbccaf58b06bc0fe12252d382a3067548651798bc5bf9e7862b48101",
+          "source_sha256": "b81827538e15101c15dde4f9335d9772aabb42cdbf11535646e00ca5eb126999"
         }
       }
     },
@@ -426,18 +426,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "ac235bb7de7fc79bb55045542490adfaf7b495c004290e58c0af91ff027df48f",
-          "source_sha256": "db931ffb47138082ee95382472d5db59180b4fd50f48e892b67f09fc1aaf5be3"
+          "sha256": "231d486db4467887642024b35b1c7c3095cb4264054e7c350bda2ac79e9c1a20",
+          "source_sha256": "7e60f982fb5dc09557c27490496cda06b3ecaa1212f46106b25bd58244ef25b1"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "d0e3380d7aeb960b98d0383b649e04eceec0893fa4fc696ab417d5a7792c85c5",
-          "source_sha256": "eb4300e81260d71bb633c81b4b65015640fabbc2b33da4ca7711374ecf177db3"
+          "sha256": "b8db488803fa6f606cc88257fec8db0b3aec180c6e8eae6c4e16ef0c199e05b7",
+          "source_sha256": "29b79833c26550cb7dbba90aea927e6810e482a1cab0021a5bc1efa3dbbc9db7"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "b46093eadfe5c1b9efb1e009f96381a506fe45b5833176eee3eb467dc4d51bf3",
-          "source_sha256": "1a2696f3524bee96c5f3e8519d5d0fa453b813ce109489607170214f9f229087"
+          "pages": 3,
+          "sha256": "3c084ddc5778627b93b9e6c4afa68b30489455578e9a61b6b96f45ef8ad7e4fc",
+          "source_sha256": "9aeba206ae4023c232ef316982d31b83aeaffd0b5683d8f17379e399c3fe7029"
         }
       }
     },
@@ -445,19 +445,19 @@
       "directory": "6/023",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "e8d60cd4a98231ac7bcaba33a27b0086ad64c4dc706423ff933366d49055ed8c",
-          "source_sha256": "a4311969e933b38473b312f03468e486743224542959032d6b01e756ca081500"
+          "pages": 3,
+          "sha256": "4b38a85369b5bfa4b0fda14cb5f66e5ad9417547a024a576d16eed2fa4909aa1",
+          "source_sha256": "871c1c78442f04baf0fc285795a3812fc4f5bab577b51259143800d3934f1381"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "149b90697eb9b133cf16d95b692826f7f86a7a845f86ddf120c80870fd6be7a5",
-          "source_sha256": "02a85a5ed7d666f9eec6d1ee4365254e3b6f2348ac8982295f3e64925fc0c682"
+          "pages": 8,
+          "sha256": "d693db26c4890f9ee43037c22c7520ce2e6b32fa072173c6b000cb813080cc2b",
+          "source_sha256": "ebafbcd711fec8fd36baef5c38be046312a209cbc6e168afa250288ac770b7d0"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "455842a810eb34db4d4a81990c7f3b96e459cf6cb05eeb2f2b124e4da3c5bd3a",
-          "source_sha256": "3e56d3eeab74be136556371ef7e08a71930d08a334d88cbd6a336c991ef1fc15"
+          "pages": 3,
+          "sha256": "fbdcc800afc650a8b99bad76187eeeb440116352e2bfd59cf1d5efb4c8b20741",
+          "source_sha256": "e035d9b2483d02b486b9832863dc1fba34441beba6afac97f778af2e7bdf8e61"
         }
       }
     },
@@ -466,18 +466,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "d138714844b55d8aaa5fe8200a94fc936308b504426d12705de50cf945798de0",
-          "source_sha256": "c29a7868973c17880c4d847ca0bf45f4dcd13095b6b02317bdd54916510ef6ce"
+          "sha256": "105e7328cec2fd71db80d7875562cb74f00488358f839a8006d54b91340f0c2a",
+          "source_sha256": "aab28ec329470769a356be4483cc0c61b0fa196a53d760d5cdda34a03a823066"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "8ee526805a250d1fba76effb3ca5adc2558b1a50b7c7cd62c82a7cb28043fa1c",
-          "source_sha256": "da4982fcdb35de211dc87c1de7956f9ebea3a6a26bbcc23f5242d35119091d25"
+          "pages": 8,
+          "sha256": "c7f56469542401a88cbbec2fb425b20bee819a404a1aabde7ccb7414a4a9688e",
+          "source_sha256": "7012acb06cfa0c6a724f80bf851111f27048dd4215d0f1310451d15fc821c1b6"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "26794d8afb5646cda9effcc45f2adb3e45d1453ba0136dbec6c33fdc00c27a01",
-          "source_sha256": "7968cc4678ad550e98e90b118dea956faf1f3decf2a1417ba700b8a2b649adb6"
+          "pages": 3,
+          "sha256": "5ff4cefa4339b208fb59b0a3fb950f58baced2f372d9a866b995ae9af58f7a3d",
+          "source_sha256": "552082975558bb022c50be6013d39773e6b30aa5c7fbef0590dfa90bce4806ed"
         }
       }
     },
@@ -486,18 +486,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "88c2a6e54a2765b24a095ecd95f8084205a4c452ed24928d04f251e11631bcd5",
-          "source_sha256": "b1e1fad0360b1e6031db507bb5fcfd36c0d82523cfb58c40862e6363ce3fda02"
+          "sha256": "90aca0b6878db797ccffbca857629df39a83d77c39a668600d8d19f21f358514",
+          "source_sha256": "e09842692eba211ab73339d6cd6867968c51a849947c9e246601c6358f4ee5ec"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "0465275873f3a4b4cfe7d8c315a66ef8f1e8f1b912d2b4a6de03fe964c092354",
-          "source_sha256": "f3c62b5a547c2358ca2b583dddcd92cf9fd1aaca6afc959742a3c86bdd916480"
+          "pages": 8,
+          "sha256": "da74501e5992e6f61a14eb1f117c402bae150dc2a641bc4906e93b6d5b4a6108",
+          "source_sha256": "ca9fa153194775d7a1a90fc166d5b5feb5e2a616287e2cd0dc4bf3b3aadc6379"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "ad115ef77264c3bfe56cab31c02d7bc5ec8144583c22661f8cb8d8dbe01ab81f",
-          "source_sha256": "575742eb17ed64f587a97506c5cc01b86300081382978f7e122d21ab170b4c05"
+          "pages": 3,
+          "sha256": "596b50c0ca3d2bcb4c23e9243f76263cd6fa0e4285f5d35534e340853cdfa74a",
+          "source_sha256": "0da430c3a24dd392aec4f1a74fcc9cd2a078e3a3a3236f9e571024852eb99570"
         }
       }
     },
@@ -506,18 +506,18 @@
       "files": {
         "handout.pdf": {
           "pages": 3,
-          "sha256": "6a0233593e3bebdd45e8ada32d54e07d9ce8782163f9af31a3017e5ed5de0edb",
-          "source_sha256": "5414d8bc161548ebc0450e5746287f662e100f28b50a5cd34d116945e7a1c509"
+          "sha256": "a0ba944f2b6f60235fe9e0a28041f1cd204d6818cb105b308a816bf07d87a4e8",
+          "source_sha256": "3dd9d8a0726a5db7a211aec4112cc2e73b6a8be25312dba2c66cb8e71fd9dafd"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "75d9c2e6e1e54ff1ae86a831e287b4c3ac1de331bfb340df5550ae999cd456df",
-          "source_sha256": "216a1ad449709e604eeda30e530dd0e39ad4f8e856721fd842574f3754eb845f"
+          "pages": 8,
+          "sha256": "08aafbcc3ff5b119ca2f11b561bc6e14ac688bd373233436f9b16745e0f96ea8",
+          "source_sha256": "677f1a9a4d72c51e84fc0db3723c122bb4b1cb68e8619595fa46bb8a166a8221"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "f54235e67f3e62e2dc3e1c832274f59b8f234192928a19bba0d48eab651563fb",
-          "source_sha256": "9b078efa5bb245ea6ba029a94a3729d3125980859f8b13d0761e5d4beebec247"
+          "pages": 3,
+          "sha256": "e674d37bf463de7bd3bbe10217af3cb1f0657d35d3f023c259afca82f6c07973",
+          "source_sha256": "d215d524733ead45b5127293a18105fea9b164b0cfbeae363bac71568f7b8aa5"
         }
       }
     },
@@ -526,18 +526,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "c89390f5af0bd87c75ccda7de2f282e735d1eb40a6f4642264066f9e5fea0491",
-          "source_sha256": "1e88436f946b95ecef0cc716ad602b02ae74453394bcf1ca2f2168c96a939203"
+          "sha256": "ffac43499e164963038c6c56d0246d091d1927cd19128f369e6bf5b0f018c673",
+          "source_sha256": "6ae479e89873b20bbee26ba1821de2036cec5f0c76cd4120ec37a420a3390b9b"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "248166a6ce7c437b37ee6a11521553161720ef8304dd49e173f6e9b30c796aff",
-          "source_sha256": "986d028c1dcffbb9fc8591f11c84630cd563a8ca15acbc2268c67c73ce290ffe"
+          "pages": 8,
+          "sha256": "1d77362b4db03c7cbdfb1717e85977c78767c47833bb7782953f93a065b860ad",
+          "source_sha256": "aa134d764f60754f7d239e4504607a2964dcbacecb8ed29b3c156e623fb00201"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "13ea0f28a83466a053468f064012a597ac6f1d7bd22acd92206bfc2311a40603",
-          "source_sha256": "fa63306f7aae3cef30f8138c5a2e171c42a607b77fa856c2558d639e13c9ddf6"
+          "pages": 3,
+          "sha256": "045df849e8b8f6894e0a2b18bd9b7b40e414c2248bf10531ad45281b8712132b",
+          "source_sha256": "159d1fc0718105efdcb594737e2e42bb8acc4653101247ccfa592889a22848ac"
         }
       }
     },
@@ -550,9 +550,9 @@
           "source_sha256": "e0dff326662d68437bc1f4368f35cee6a0c605b2b42bd0f6734aa7059dedfd7a"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "e33937ed72a8848f49650311137193ff133dfb0e611468159bb1e1045cac1894",
-          "source_sha256": "aa95bee597dc9262557edf04c611dcab17bd17f48b64e9865841dc3638c7e93a"
+          "pages": 8,
+          "sha256": "c9e8c32a66506e91722e934564b34b2a94a3b15e49c2100e76b1035d3c6e692b",
+          "source_sha256": "7f54662991e7102fb1a1b1a27aac3c076e33453f9d68356a6a8bd9b0245541f5"
         },
         "recovery-handout.pdf": {
           "pages": 2,
@@ -560,9 +560,9 @@
           "source_sha256": "cf9bf7843e20157db59ed40806e61a151da40932557a0312e70013c1fa180d06"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "4c507f06f44f7222d2224135b1f879c8fc2009987fdca936b2bb3ac87220d38b",
-          "source_sha256": "b58d1c3eac3315d8477e8c11c787c8a153a63970dfd5a77fee19b93fc34f5beb"
+          "pages": 3,
+          "sha256": "10b9afea630ecd2c47dfa986b95ef774197f040fdce28446767b33f88f426c37",
+          "source_sha256": "0b904bf62445ac3f7739e040c3fe9ecac9b8e85cec26bfe1acc3c9776efe478a"
         }
       }
     },
@@ -570,19 +570,19 @@
       "directory": "6/029",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "5dac7ed3717b9b970589f390677abd6faf3d937b9f8d055df1ac25c81d84a878",
-          "source_sha256": "2db12d077325b00e126414254693d5c8951bdcb5e4caf459b09a5cffea2ddb19"
+          "pages": 3,
+          "sha256": "f80fa82cc256b16f42ed5330a6836b6ae3dfb131426aa424b824fead38ce5d8f",
+          "source_sha256": "7f90e6798db9caf9ad4fb48769522bf12920cbc2e8eb231ee6595a6a8fa185f7"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "269a9d21909ab35efefff8db50ad8ceb5f3cfd622b312723f8e73c95a1a56846",
-          "source_sha256": "bc2a142d4ead6dd0763b8464a39447ca3602d7e1bbed44d564531cf25d2dacbd"
+          "pages": 8,
+          "sha256": "afb13fc87a7188cbd693f4bc813e7f018866f95ca650c45aeb009da44b9eedfc",
+          "source_sha256": "7c9c9cad5379e88307c202e60c7960661d03bae529a53cda416cb6de67c7ab62"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "02522fbb23c6c87656772365dad197354046af44f364f27ed0c27575932812df",
-          "source_sha256": "735259a76ff68924b0072bc88ffa76e70fff5e91b7017a75df1658feb7e985ba"
+          "pages": 3,
+          "sha256": "558e00fdd57b05aafb56b218bac4dd48f1bc81c4331d5956d00186ebf742c70c",
+          "source_sha256": "4756d43eba3d3cf635f1516efd1466325228a0c09aa357f37d6e57784a91a403"
         }
       }
     },
@@ -591,18 +591,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "ca3a9b0eb49becc3cd3b579c6e43de6f298ff7c1f4f30e4707d5298fe4d48758",
-          "source_sha256": "0da944e0e55bf31b5be2e744e04fe81a302462252e357e95aef65e45f5e2ac6e"
+          "sha256": "7c0261481f1f2a27691da74c46d8ca8e5326355bfab5b2543c11bc437902d510",
+          "source_sha256": "67d40fca2d233117aad18797bddb1d9bc36c43d07a91b4cf7ca482fe772a9469"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "311cafbacfdfd315cff5b64d54a5ddb7c919e108b83beb2cb1651401fdb5b9ab",
-          "source_sha256": "83b574ffb4c5da5f5f25bf09d783666de77b471c52fd4052c7633d5861d77a53"
+          "sha256": "75ebb6048ad9b94b6314e7410505764004975d4bec27c854e9079bcbfb96808e",
+          "source_sha256": "c0efa5fec3db9f1bb3310b77452c033cc1cd3ee2d99594e296fc0ec5cbbfd3a1"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "e48d1f71e49ff257e87b0a0743f178698f7520af3238c5cc2d0f02b1b182cfe7",
-          "source_sha256": "e76f57a215a627c10d9f424026d406e50ec57073a4ceda67b9b23bb8250d4a8c"
+          "pages": 3,
+          "sha256": "f994b5a7cd9a20aad49fb94e05ad4b016003182e3a8b7f7fe68f2e3717ccfd1f",
+          "source_sha256": "ec51e867d183fe7f44c375a09642d01ad57ab8cb9c25fbc7159198fd41c7a4bc"
         }
       }
     },
@@ -610,19 +610,19 @@
       "directory": "6/031",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "d0c6b0d1a03e3b1be59ced63c712ef0542c85ad0eab394eee80e06a13d4541db",
-          "source_sha256": "576792425a8cedaffe2a8a3650be7d0e3ec7d712c4aa92098e65d0911a878c40"
+          "pages": 3,
+          "sha256": "18c1bba03273a6695fb7e76788a6458bd29a97e7697781e5767e46db960dff39",
+          "source_sha256": "696fe2f352c2e61193b700717644a2bec116980eaf3731da5a86e90353e28474"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "134c5e524491126a69f9bf20550867a261a23f8971d1ba74b107157f22d25a2a",
-          "source_sha256": "24323b13d0b9e20f5f7fb2137aeed176dfd7307f1dacc0d93ddaee5b98958a0a"
+          "pages": 8,
+          "sha256": "fca09957bbdf9d4d761a5da2e4e31a51170402a577a2a0d2726c8fb0e703a822",
+          "source_sha256": "2a2b21877ff601c7833987ee5005c2f3d4f704b59747d2a4be9bdd55a62ed008"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "a9b42ba266ed10646b46239c33939b0fea4089d5276fb8ec286a1dca41f87c33",
-          "source_sha256": "9c05610bc2bee0ff935a49e07371159b5b768ee7d1c848344e9f26b766796d98"
+          "pages": 3,
+          "sha256": "6abdd3922622aad24a402b3a4cea5997ef26f6f56d3ca8ab2761167dd41fd3eb",
+          "source_sha256": "6c431d0ac0fa42ff175fa67934b37efa3228c14365da8740b27f06cd5c2cba55"
         }
       }
     },
@@ -631,18 +631,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "9498740475ca345db87eb4c4be832be8af12d3dc04881eca649ad3bc78aa44df",
-          "source_sha256": "1545f526f0683f20cce17d9c4a0ba577475c339a428bc83a12de73a70b215795"
+          "sha256": "6c4ef3b4983cb526d6b2c62d870e8839d1f6394823676fd5c621d55b41aaa6de",
+          "source_sha256": "4f4a023159ab888c500cc299762d010e1d82f392f68e2c10a8182dacb2aea0b5"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "bd7f51d206bcdef5ea6d8dcd25d787691d3e27b65c75036d2df0d210fde69ee8",
-          "source_sha256": "6074e9e10a09067f888335023e31b1ecc91d6291644a84dfef0f543dcda92b87"
+          "pages": 8,
+          "sha256": "89b07e36cb7fae6f971293b5818370563b56077c22b5561366550e47f0262fc3",
+          "source_sha256": "315cdfa32e5c05419cb6ed1cafd5bad867a3dd56bcc520385fb55e85c8a36495"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "1a7929e7bd1702136e89578a45902631e24355ec6419e756f2c4769f9e2e893b",
-          "source_sha256": "a1c71e46d8c56df03e9f50bde370737b6be019525e8a7de42d9a75fd341310a9"
+          "pages": 3,
+          "sha256": "ca2c6f27ed2a6d0bd6bb1f2b1c04f547850b6a558d5c7c9195f269d1939096a5",
+          "source_sha256": "d5da0adafa24a62bd5d0666e8ba0bf16e9406441272da4bba25cf323758ffa09"
         }
       }
     },
@@ -650,19 +650,19 @@
       "directory": "6/033",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "c17d61193e5565e4909eba2ef932d03e02adc01fd2ea7c81b1f9eac8aa25458e",
-          "source_sha256": "7b6e5d2bee7eb5aff42b3330962428583851f22821f8b72257d222f884683827"
+          "pages": 3,
+          "sha256": "cadbcc94f8ef9a440124f7c8f70e3b5c4cafb207f752d2b91e62bcff7a4ee3ce",
+          "source_sha256": "af39201345012c82960c54936fae3eefcb0fd4c6da25b248ac57ae35fa33f54d"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "5a200b256fbafb75ac12d87b1f703788fc73a61b2d3cfbcbe96ba390063cc8e9",
-          "source_sha256": "08f82a1a3c4774c94c7720f86f71db1df406a955bbe50741303925a5d0012014"
+          "sha256": "32f82992f26a070df4ab31fd0d49c428fa657c624eff3d21d58b862b6dda176d",
+          "source_sha256": "66bcb488e00485aca4a97f403454ae18532fb5e1901f1d4aa835a742a301b76e"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "c24246e8220c9a226894633e19eead82dccd048bc0dfe088df89502ab24c2b48",
-          "source_sha256": "cd8f60952dfeaf36503edde6251212d0151639b03116535b7111d1f3c7ff26d7"
+          "pages": 3,
+          "sha256": "4f2dabcb3c92265ad13a139ce0694bd53201a2cfc66fa8f3a99eae62b1f7c5aa",
+          "source_sha256": "309f782c2932860d566f0dae0a987c9d1b1ceec38ee3d8055b304cdda85cd428"
         }
       }
     },
@@ -671,18 +671,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "470ae00e208fedf08737b5eff127b1dbf947a460c20232661771ed2eea73b833",
-          "source_sha256": "a42b39e1933a987b48525d20951232d3418f8837cdff81898c744aaea5bab47b"
+          "sha256": "af34e6b3c8b109cb866c46f752ef73a2402e68ec63eb4c8bc9c1f68701dd8e09",
+          "source_sha256": "2792983b35875938ead5542933fe87ed9d02e9ad7acd61c893af77d55811b15a"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "9570b98812bd9dc70f911e7323f5c74bd246b36c4644e964056d4215f69159d4",
-          "source_sha256": "c0b29f2de349d95a4b1a6d9d6a46200fee5e3174e608c9fdacbddc5f66405403"
+          "sha256": "32f03f4b32f3da07ff36f4ce1a275c73fb4d00ae8bd5f35508949bef3d360370",
+          "source_sha256": "e0a7d7b1827fafc58db0438ed9677276c9e389afdc4ff0dc1f15f6c410ba46ee"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "d4b83793700b00b9f884a9f8c90a57868652f787ce9eafd6fd23c9be06f7ba35",
-          "source_sha256": "812b383ca56b8e06b649011d04ad8eb603bdbf3b8f037fce1e8e80ac18833bc0"
+          "pages": 3,
+          "sha256": "ad5a62cc9515f2e121de5c16ad1d7098c000b1ec800445231f62c34084e21a44",
+          "source_sha256": "6115624aeeef53fbdec5292844751502f8ce47c10683cf42a41d62088ec272eb"
         }
       }
     },
@@ -690,19 +690,19 @@
       "directory": "6/035",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "12e4a38b7e0fcdee2d7749ec5213626bcd3a76c808b9c39e20dbf5ec4c81a8d7",
-          "source_sha256": "076cff107ae6f055d152769e576bec4befa76befce8e12fa8e92e1392eb55417"
+          "pages": 3,
+          "sha256": "11c11b2ab80ab205e1131b7b9f019d48385299513f6a6b63e8e76651547d54d5",
+          "source_sha256": "40bdfdb323327b577c9ebc5255635b7c26228c67b611476354ae64d712097bc7"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "33c524986edb0bb593b07798e6bad2c0c69e33fce349e3b9ef51cb476e2ec1ee",
-          "source_sha256": "71efbe376d8cabf32aa71994e233417d9637076e96d561b064613359835efd8b"
+          "pages": 8,
+          "sha256": "ec123c1ef75ee483f664c574431598eeaffd8ef8379cd226e7dcdb7d04059bc2",
+          "source_sha256": "7a952d1ac5f58a6dcd1edd2e32071b1fbccf24193e56001bc8b6164569cb685b"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "be581e737084256b5208ba5876efbe848045d47b8d819add20bcc314760840f0",
-          "source_sha256": "c59f5106012f1eabdd3e8e3bbe0bfa254f18c6cda203d324eecb3bbc39b1cc8a"
+          "pages": 3,
+          "sha256": "5ab022c92a04c85c1f35256be1acd758708af7716b4e5e540cae23d53694d01e",
+          "source_sha256": "35331d339bde16b94937d0d032b78894549b980455b45f476bc2d6b7530ceebc"
         }
       }
     },
@@ -711,18 +711,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "5af9d036a31f2382f24cd8d73b921b5213ea718ff552f1413bec970720a9bb99",
-          "source_sha256": "f70e74f62a90061fb236841d0c3d0b4b0e19aa1615050362c9b854ca757d1e99"
+          "sha256": "5766027f5fb634ba707c99feafb229fd08c0cdaaaccbd636b4a29779e486d802",
+          "source_sha256": "14e6d3b180ce9173c8796e310c48530693db48fe7378cf8f6992ffe76aebf798"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "da726cb550235d88533fd48a9cf6e804b874a176a3b3ab2ae68a3d59fd09e609",
-          "source_sha256": "025dd8e27ce20de0d028e6d8cd5a1acd12d7a66ec9424fe5d585b2cd38dcd40a"
+          "pages": 8,
+          "sha256": "285958ee45ff7bbd640301448565a3bcd141faff828882a4be4e5897ced37873",
+          "source_sha256": "763ce5c32ead80e93b90bfa8740878ec5b04d474ccab17aeb57a16785e8f51d7"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "fbc8e89c19d7767fd2cb90bd228b5b8e1a7d53698d02e59a031e0b2d1c6bcd42",
-          "source_sha256": "fa4b7d82ef5dde4e79a2d334a1fbad10051e177491342ff4626273abed36df5e"
+          "pages": 3,
+          "sha256": "9994135a5c794db3d2e4b0059676fc61eb498476279fba32412e6548c69e544e",
+          "source_sha256": "cca3b636ebe607abca7dec5be3ac937855bcdae3ac3297c5c36de329f238487f"
         }
       }
     },
@@ -730,19 +730,19 @@
       "directory": "6/037",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "a0e0b470bd2c7f6fdbc73b5acf00da1f1392dcac851199d0b6b0d6aef4380456",
-          "source_sha256": "8acabbf56ee653dfe4c54ccf622ee50c1e3dc504ca556da52d6a60a3aaf824e6"
+          "pages": 3,
+          "sha256": "bbe9e3c9d7b0309007367a328667849482f886b51f6a065db58508868a8c733a",
+          "source_sha256": "15880a7c86bc0886d276cddfd5fb311c858ec8023f4ea8b789a0f02cbed003d4"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "2da58db3d6a9286b5f6b355eac8e0fa70d9fc125b1310e1638d723a0cb547039",
-          "source_sha256": "759f3146c381badc24e5cdcd00be5e2df91223f7bf48c21cd46ae1fad68f8943"
+          "pages": 8,
+          "sha256": "ceacd62c3e1e9889495a26cb971f04a642c8db99d031980e56678d8fab1c7a4f",
+          "source_sha256": "0658f8b429814488eb6a5c60e673cfc7b7e4c21a3767ca3d62be66a9370a4724"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "7758056e88fc59b504e9d8d5ea5789e11791c53df08eb15330541cc8369e3f52",
-          "source_sha256": "82d3533b69656c0dfb766cb664dea8a2153fd80e74d31db9b6300bd7dd4a3dcd"
+          "pages": 3,
+          "sha256": "cd5dc0237dfe3def05993afe9a783fc7ae63c38230f4f49a6669841749736a5c",
+          "source_sha256": "2e8e5cf533aab680bfdf2c0fb4569db1eee61ec2343f0a612ebd8358cc9783b9"
         }
       }
     },
@@ -751,18 +751,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "a77c7edf98acea1f66a5e074777e5d19dfd56ef2bad2a742026b1ee8a82ecc32",
-          "source_sha256": "15d4a1d92b766503ae09b8bf78be0a2762f34261c447ef01e7db762eb324f066"
+          "sha256": "264dd4a46fd2d7505b6c01f4b5a3d110f04a101ac49f8c7f03a225b89a1537e4",
+          "source_sha256": "de57761a0c6400356f4f73cf1f2b209e7ba6ec92bb111108f8a66c4d80e48305"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "a8c30fcee85b3cc4a25ad3f8ed37619176eec107ea5b981248919f110c1fc5d1",
-          "source_sha256": "0aae300850c7784854e28453945ccdd671ecd36bd3cedf2217d0ae189d839c4a"
+          "pages": 8,
+          "sha256": "12252ab0b90c3ef46a325987837f7a4e3ba52e6a2063461edad04b5c7ab297cd",
+          "source_sha256": "2759bae662f343ced05f64ca6b102870e8823e2e1b67d4d686cb0a440967b40a"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "2369317a6a20f402f3616e403a0e0f9cf7774d02adce39575301331dbbaee525",
-          "source_sha256": "a0060dcdac5c205733a94a89031b31e1ab6ce21a7a8bd5359b4a85357a2afd64"
+          "pages": 3,
+          "sha256": "5630ef4cdf55aa4093ae8b37b7201afd757cc8021211b7d83afab787caedb724",
+          "source_sha256": "357552ad6eb2642fdb99452ff492d9c4db9bc0ab9ef659a80c91da0b0812da4b"
         }
       }
     },
@@ -771,18 +771,18 @@
       "files": {
         "handout.pdf": {
           "pages": 3,
-          "sha256": "430a1c066a1f13b1d31fb9ddc76b5a64904e052628201ffede5f84bf06cf30cd",
-          "source_sha256": "f4a3a2d45487b5738e1ad6ad20af78e4d0188c968509f97effcbcd8193d944f2"
+          "sha256": "8090fc75a15c3b343b4e2537427a92beeec08d61414fdf1211b710b8747d466e",
+          "source_sha256": "b89352d8c2dc3ecbf6a8cf1912efbdff8815a65b7df3a9c352007f4537817c2d"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "8a94adfd2a162857053b5888bdf3627d18a2e48a33ef7969325d86d5d47c2033",
-          "source_sha256": "a0d73cdb96434808eadd1e30960fc3bc10f22c1621fe17f21d61c5327a98fce7"
+          "pages": 8,
+          "sha256": "cb572451348d505c17ad82180240fe6c5083466c367d3f3a07dba56efe13eacd",
+          "source_sha256": "9e9c52603fcbead3da8926ceb9b26cd9eec1c23ace25944a839522893b5fccce"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "e832f61123f5e2f6b3f27a2442dca9a6d78552aee3b035046e51447f8a72d24f",
-          "source_sha256": "cccca942fd6f80ba7c2124dec0789cec95e06bd101b4191ccb9d04531f45976c"
+          "pages": 3,
+          "sha256": "373584ebf0b786baa42f69d43bddaf596583c7b369ea86078df6d867b9e9defd",
+          "source_sha256": "895f59b64df5e9b269fb4d163f664ec197345c0e5d593f1146fda72ac481a19f"
         }
       }
     },
@@ -791,18 +791,18 @@
       "files": {
         "handout.pdf": {
           "pages": 3,
-          "sha256": "d3066f3f0965515278b35d7a9923723a3e26a2eedf2c69b5c4231f857bbecd22",
-          "source_sha256": "44f39eab5bc27246dd91b40d2ff046e1f19d8ab444c2bbc8428bfb3342552291"
+          "sha256": "9a942811fc34c7a2eea4b2c93f9ce4c87ea98de0f0cc8d4bb3c3b4e4daadc8ad",
+          "source_sha256": "6c308269586b0863790563ce921633ccdb7e413f0e1a70c61ffb917169300104"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "6ec4c98efced223e7171036a015cb55b7047773a1e4123ee2633794dde847976",
-          "source_sha256": "9a34783dffd09fec57cb30d9a903250fb8f8d8eda6d466606c62308c5202a212"
+          "pages": 8,
+          "sha256": "d251ff98906e2a6c243ac194810ddd16d84567ea7909e121b692acdab9e1537b",
+          "source_sha256": "6462673f999e3c428b162467405ee9e6c1900c2e1bf2e93a644c0a508b646f54"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "da1daaeddeb6ee954c3da2989fd47f940c8614ee7448255e9b8f2a2c969b317c",
-          "source_sha256": "0bd2298c4b01ea5435e3c1d6b71caf532f323ef00b35dca1924ff52732f85569"
+          "pages": 3,
+          "sha256": "64f45cb900fe7272bd7c44278f9ab67aff89264ac03efdae2285e16ebeaddc7e",
+          "source_sha256": "0880480778736836152398123af4abe3a5f6c3236e35fcfd411db7615a820c4f"
         }
       }
     },
@@ -811,18 +811,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "d44c36440421d3bde976b33777dd05ac272b1ce6a4943dcb826d3f5400562563",
-          "source_sha256": "5af1e0de62098cff6b3b2a310d1e9ec4ca4d45698128049f602a37ebfcf9f56f"
+          "sha256": "36910c565f5f3c2eb733894321ade367116b07b9c0e9d639c90519e4888ed342",
+          "source_sha256": "cd193ff8e5695bab00f5bd8e4b69195e45279719671a8dce936927156956b3d0"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "433f69488b4cb165641c5a569fe9cb5238a436b9732fdadef7a4302088fa3c5d",
-          "source_sha256": "01016cbd7e99d0f207b7349bb7f0f6d5eb58fefe24e3abd2ef5cc3fcd379ff3e"
+          "pages": 8,
+          "sha256": "89876d3c026af3dcaf89bdc4aeef3e309fa2516efb39d681a98d8109790b994d",
+          "source_sha256": "1f8fc76025914725150c75f8aee3f0a4e0c30b5cf275b1a19d4d842f22a0e289"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "eedad1628ee3b0b512a53d891f8fd2a4ad3c4956e06dc5afb4640402a8a377e4",
-          "source_sha256": "b813ca0d238341a60d16a85010a57ad41ba236e8d3e157590861c6368c45d257"
+          "pages": 3,
+          "sha256": "0a130011383189def2ec94bfacd5982ecc0205bd36a5a42c34cbe0159633a0b0",
+          "source_sha256": "54705068b25324d73f032ac536edf5725a43fc1da52718f5e26ea72435aea07b"
         }
       }
     },
@@ -830,19 +830,19 @@
       "directory": "6/042",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "c558f5bf5e3cc4351cd45aff19d87a2cb80ccfae5b7f5be381dbbd4dc8862c6f",
-          "source_sha256": "7c5f104aaa853abb80dd08527662fc3a714adbc139dd1a578803b1e8421cdfd2"
+          "pages": 3,
+          "sha256": "a320698962d435045a226fe4491453327922b45d9b1037d592104fab459a26f1",
+          "source_sha256": "498c5df12d22f7282b375b6502dc7af3ca12efc079d49c49d8b3de006860cab3"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "b43a3c6c1f68ea93273fa86778f0d9260178e74100301781070125929f235e55",
-          "source_sha256": "0845f8b39bb53dd4235c5597accc1b9d44acae647a55f997370afd02b8a2c3e2"
+          "sha256": "4395a2e651f67cdee53f370b42bbb2a8cb518814de2d21a6e62edaa545af25f7",
+          "source_sha256": "97c0a023dec7cb62c8e6cc6efccf1e65807282637cbe6bcb807735e11fabf1e9"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "2e08cbc330686868dc06e52015b1c4529d45a65f17bc3c48ded3bced50dafc90",
-          "source_sha256": "97c8f38511a9478aec5432078cf2eb325d5d0b6efed7c6d2b613bd9dd1e7bc34"
+          "pages": 3,
+          "sha256": "e7b4644c941cab37394a834371abb638d1c8788e9ace977e8801d48fbecaae5d",
+          "source_sha256": "1111d4f0f5a3eb733e109e53b5451a63c617e070a6f3e25587e54e4a82336a0c"
         }
       }
     },
@@ -851,18 +851,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "38f98649e8c791798e76bd4c7b28aee291cbb111202bc309b3cd1d06c1d1522d",
-          "source_sha256": "e0c557676eabf36fec915f147a7b9475de3501cd55cd0d1c29f4db951f23b901"
+          "sha256": "e2c2c110f7e328fac16b298dc94cd4f21050a81f7e5257ba575f002b19caaad6",
+          "source_sha256": "9b76d5a3494046cae1b976bd46f7e5e0252cb4446382842a2a10934fc5f57769"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "c1ee7af34fd97f21bd3f3d37c104d7d55f7234dcee4e48a23bba170cbf51bfda",
-          "source_sha256": "63ebea1d37b7ce83c0dd2b3bde7640c58b7f49abbbbd3bfa9f27a013ee4de99c"
+          "sha256": "12d8891b33eb1fa046652a9439b39946fc1c33c452687f141a5fa23040b88f11",
+          "source_sha256": "e292bfdb031f8730d261b0661955071fd0cb0121a39f95b5626c932632c73810"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "f91e032cb26a254fcb6243ca83967de83ab5112ffc0931a5c87d92affe916d9b",
-          "source_sha256": "411823fbdd86075394a0d9a8ca4428b23c62b81294310e4912515f8a6170c14d"
+          "pages": 3,
+          "sha256": "fd127cb63557bd7a3f0ff1df4c51e27b703080fa8b6b8beb363ed75cff5f8e14",
+          "source_sha256": "8fd17a3b73da77f680ae61c0cfea1616d654a9929a3b2ef40db0e63ac39e2541"
         }
       }
     },
@@ -870,19 +870,19 @@
       "directory": "6/044",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "fd51f5e55c0d81cd23c7ed007fa8cbb3e72c267bcbb2dc8420e2b11dfa4e5fa6",
-          "source_sha256": "533bb87b5a048bd16b4b8e2bc00b1ac0c361dc7c616df605ab93d236cbc72014"
+          "pages": 3,
+          "sha256": "9cbd6ce9b811db14684461aef7ea56c72e4cfcd33d2d3827f67de0a206547bd0",
+          "source_sha256": "6a53419e3f5a7259c0d8572fa5a4c87a86e2bd99d438b51098b44ab3d17d5bdf"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "3b816e09df9ae78a7a34a3a33daf92b0665a7b478d2a13b0aa6cef1627d2e124",
-          "source_sha256": "d806792fa6dcd58ac40af245068edc821866324bc25e749024b289576c52e272"
+          "sha256": "94989a534ba957cd8672f971eab54c937554b8d99bd737509332a6d491f5af84",
+          "source_sha256": "8f08df59934cacad7b237a4ec538523289d32d05b4e73c63380790a8432ffb0b"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "d314dbb0a890e923ae44c480892d7ae1bedb13c6dd10c7fd5b4e4a73378dd780",
-          "source_sha256": "808c688046ee70f95c8bab2edb38b220cbe876984fdf9f1c0ede209db6447d71"
+          "pages": 3,
+          "sha256": "6748754f63670363964629747787d1b6b8c7ec178dbe739d17067c848d613c6d",
+          "source_sha256": "fc207e01498ad16ba18d53a9f80861c153418bacc4c48b444367543dd8baae90"
         }
       }
     },
@@ -891,18 +891,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "a42f63f749bafcede3bf4d7cc97600c52e54e7931871b2dce1aa873972bbede9",
-          "source_sha256": "1b86d34ea186ad08e1de42693b6d1989a20e479844dbc0de9a648b9abf4cd3c3"
+          "sha256": "ebe56daf9b2c6bec8de80a28e6a8e098d0bbaaa647ca6ffdfc4155d5d75ea4da",
+          "source_sha256": "c9990dadf17618a25fc302055c0bf3a653172b61c17466258e0c62b5a2050ccb"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "adf54168035d5eedf89c6327e54f93c8f0e472c017bdf098237240f9eefcf166",
-          "source_sha256": "fcdc67b9b611d3e300096f83d1a5f02d2e0093071bfad41d04715e679413cad7"
+          "sha256": "04c44924640a3407f5cd04ca20785b84289cfca11d2e834148ff9cc4eab33f27",
+          "source_sha256": "3f2aaa3d0f3a19b860ecf6084940f245351d7159b7056b2e71fcea8d7e8b159a"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "36273430fc8527a6c8dbf3db12d4b285d049d0a76e5a455ecbc2b274ccf4b724",
-          "source_sha256": "ab939e39ffd2792d5688bb2b7540c474c10604a199ead9feade2a65fb0ecc959"
+          "pages": 3,
+          "sha256": "86e9cc3f344d95bfa214dc234766609e92e38b6320becb61c6487fe17082db03",
+          "source_sha256": "3dd8c6762b2c3dcb9458be64bab3edc54f9e505dcbcb70bb772c67eeffd45ad1"
         }
       }
     },
@@ -910,19 +910,19 @@
       "directory": "6/046",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "24adbbc15f4450d15897099dad95edef5b57af4181673d7ae137c512fad12885",
-          "source_sha256": "be14a62b544d23ea6a7a94dd6031272d811ae3b62642038a023785a707c0faaf"
+          "pages": 3,
+          "sha256": "275ed68baee2ab5ca990fbeeca5d125edaee3a42d75bd9483cbee6853ee297a2",
+          "source_sha256": "a40b94af17775894a554c0d2b2ff7c89ff3de09723ebab130160d5a8cc1e75f7"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "82ccff00566220ac8dea8b6ce420b6b628707dbe94e0d3f6dca8d10180ab39f1",
-          "source_sha256": "d5febc0e87af52675ecd8db81e1799c72432161de4f5efebc7b5e06ea8f8c4df"
+          "sha256": "e9d00edecbb1c004503ca123b0cf9706e264a797427903661efe807ece5e7a6c",
+          "source_sha256": "ef233e8c143fbedab3a39d86a351abc259c85cfd5f2ebc47b0f25c87cfba12cc"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "7aadafd153ff9333c393760fa412101e9c42d1129ffa52dba862d0669dc96aa6",
-          "source_sha256": "64a0decdd0fecab75132063b0e13a4532328a21c5548e5e3a48248611d7a854b"
+          "pages": 3,
+          "sha256": "bd4b525bded37b29d678f5a955fce975d7acaa97f3f9d7fd5becb3c26c1df58d",
+          "source_sha256": "49cd253faec7da69825a0707f434f8b2b388b56fd704854bb2a60d24f616d8a8"
         }
       }
     },
@@ -931,18 +931,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "ec9339e29be7ffc4131da3f4c7558228ac9152433f43a04771e25190db9f9d77",
-          "source_sha256": "4ff138df72b5ac1c486c8fa7e9f247b4ef75b994a0aead670acb1318daa094d5"
+          "sha256": "f6c7b12f71a2e1204859bca22469a04eceb81460bc878187f5b7e0d2e0cd157a",
+          "source_sha256": "b0d9a52fc4c3bc7401b46a9e7c55bd3b85c0dcd7705885ecba42b603e7bbdc69"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "a2ab785ec892dda8e93b2ba5b1e9a1f65e8229a171883f56420e6fe1612cdf42",
-          "source_sha256": "557c6ae62efdd5700cd2cac4be8977475047d11fe1e69f8069aa6c2c70d01cd9"
+          "sha256": "6449aceda26ea53c8ea5977274efdcdc0548ea1c50eb6db761c28657cd84e018",
+          "source_sha256": "9a06eb213fe7e23fd2a0f148621314957cc7ff96790dfbbe083c464e4d9ba29d"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "ae0d8218ca4a71a544890d5100ab884e7655ccea00ec2e1cf5534067ea84f097",
-          "source_sha256": "2c3fc3c481b48045ebeefb30a5d0842a7287966988236ef76180a3dcc66ac280"
+          "pages": 3,
+          "sha256": "f10780153130a80bcc337ae476d17c047c09fb0a487ca1722fb194d0ce659b46",
+          "source_sha256": "a209357516179766a3a5d2dd386e41b916ba781a0d1d60cbfa570f0874b6893e"
         }
       }
     },
@@ -950,19 +950,19 @@
       "directory": "6/048",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "b11f641f1eb1b2d9f0a6c56a1fab047bb2f23dfa66bf88cb005ef460be70a972",
-          "source_sha256": "24cb347713bde9cf1bc14340a4695059d3eca8f52b55b109d04871bc1f00fd28"
+          "pages": 3,
+          "sha256": "abe36838f81b0d7095c252492dbe4a18c5bd21e69ee1d417f159ae41435cc832",
+          "source_sha256": "b40bc9a1221524883f53585d53f3ee8fe61927f0bbea70152933eee28cc27d3e"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "d35863c3f275a95b9f91c0e95e3c906d78f13da92c25f225d4a091aab1f51384",
-          "source_sha256": "a8e0f170039246e44d7857023c0dd6392ee2bebb85de6045cfb82aa1ecfc8011"
+          "sha256": "be2049d354ee1fe1a54405c6bf5480130c7da05498334c815ab5bde5c0ddd64f",
+          "source_sha256": "93ba0d2b24b45e2552b36aa37d7bf2795511892676bc6b3e525a6cc264f6353b"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "188477ff773fb826e4139103eebe63f06989fdee63021e513b21f9ad88acdfa2",
-          "source_sha256": "42f2dd476158dbd50fd9281778a323bb8d523d14cfd31ea7fd4e60481a8d6e4e"
+          "pages": 3,
+          "sha256": "f19c68173fb0f212ab79d46e7cc9b098d6cccbb86d25ad2360e38363bbf956f7",
+          "source_sha256": "13851377d2611d02580a208cbae0bcb04bb9ab37db979a35669dd67de5f28819"
         }
       }
     },
@@ -971,18 +971,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "a634a90fd953beb3ac04d26b90f716082f0651b26f066b9285adc79fa2f8822f",
-          "source_sha256": "def0400650648a74fc9c6030e5fff421049a1199d6ea85bc89a812f2e4f9925f"
+          "sha256": "e92b30cc208253cb7b46ffefdd4bb5814e21efda65f7ee015c2d49c88f451191",
+          "source_sha256": "69ef44129d10473cbd1a3303d24fb36ed9b13b09258772c0d152502c374f6d6c"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "c4b2cefcaa62a7b8959a3c3d954b8d6ebd839f565902687c83103b2a2d303498",
-          "source_sha256": "b79b51e3d7a592bd8f088e46579ae8d8af5b1778046af2a92f972eacb40421ee"
+          "sha256": "309416b304f94387b6cfd086da6ab3ba1de950fd42c8e47c0606f0f4fc3e5571",
+          "source_sha256": "472964e9e00ab7d1902528bd14d471dcd8e7c2d85afdb46abe3c7e80218501b9"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "b49fe922b648b8cfa3368fbda41ca431e676d89956b45c918e79f6634a068f79",
-          "source_sha256": "86ddb4d1788add3ab6a58e853ca28fdbb1cd407b6c1addd420af46babc852f7d"
+          "pages": 3,
+          "sha256": "a6e48d420f3ef5efa53156a4cf276b6069a1c8937324f9737e8644bb206e9af6",
+          "source_sha256": "3e923120c1a565218a0dc13791b9e553bab0008985caae21d834ff5d1835fdaf"
         }
       }
     },
@@ -991,18 +991,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "706f5b910f23248232478b57fbb1b6f1dffb0f763405fe356eebfa87c2857a6e",
-          "source_sha256": "d0244babc805e7841c7df094ed6601b6e492ba3d59e781faf6eeab48cfe19536"
+          "sha256": "8bb22416384dbeae132c0e35cb1b5cb9ce5e41d2ddd1db9ce741983bdae3099c",
+          "source_sha256": "2025c7d5309c89d3a944881d2a065f1293523cdd0a1b0a2e5e68116241baab90"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "de677e91a0cec12d8150a445af1bb89a4a9b278c4f9956644872325e61c913d8",
-          "source_sha256": "dbdc8a460125bb99ba22e9ca827b64399c201c3e3ca2368c05a092166029b14d"
+          "sha256": "fcd043b8499e530afb5bf1c300b44b58bc2d75aecd954e4afbe690f2b9db19f5",
+          "source_sha256": "39da785e7a3eb740cda0a7d88146ba4ea5b1911438444a8920d58bb73b31fa31"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "8acb120f19167e655c31161f628b1d0639833f5a0ba24b5038ce394c2a8ac234",
-          "source_sha256": "04d0acf85a70957738615a8d9e4fde515bbb33eb340b6eabe64fd03bf50080c8"
+          "pages": 3,
+          "sha256": "ea1de75f3ff82dbc89ca7c9feccf9b7869b14ebf73f2d0a65648b3169727d306",
+          "source_sha256": "c5b7af40835e77d41018349911ebf0ec5fe6c3952b3db7b42073e65ecbf898f8"
         }
       }
     },
@@ -1011,18 +1011,18 @@
       "files": {
         "handout.pdf": {
           "pages": 3,
-          "sha256": "5670aa02ea9865d60321f9c9d535853dc522b4f8fa70542878cdd2590ebd248d",
-          "source_sha256": "6881ffd38d54d177b26d1af4439f8dd99f56f8d7f83a2d7ea24ccf4ef6966f5b"
+          "sha256": "d0ab85c3412b5e51c1464506f2b28d3b087ef7d209a0e273698132a9a0ccfa93",
+          "source_sha256": "91412f2f3eecf0e6409ca84e994228ab15b77809e77df0361b00bddfc8a3b523"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "666691bb6cc195bf384bd3c33a1eeefcd971ae203b2c35190b97a707c5b426bb",
-          "source_sha256": "5e282941237a6af5d68bb1c957ceceb312ff1a0a06794f8b8fe8d9f70e2832f8"
+          "pages": 8,
+          "sha256": "ebb30274f4950cf91b3adcca8e6f554c8dc584759c93c9075d7722d2d26989c4",
+          "source_sha256": "ac5aa7bef28f1f831413524580d806c86b15024ad8af3a769957161cd61cac38"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "06296e49ad212f97a37deb7b9c5816ac3d12c4cdff522bec2da6af965f3a6040",
-          "source_sha256": "add6ed396e29c4895dccbda591ba65c342ffc6f922d94396eefb19e8b64f73ae"
+          "pages": 3,
+          "sha256": "23629bc57d2ad11459442a56e2ae247e47bcd6fa0fbb6ac23314a3d5628f9a04",
+          "source_sha256": "154cdc3bee4a58e5356555ac8be620a37108ad56dc7e74fdaae648ecbfbe6a2e"
         }
       }
     },
@@ -1030,19 +1030,19 @@
       "directory": "6/052",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "bfbcdd104a221d9e05ae6eb33b802d7e7e6fb5fa9e6439474ab602e411ffbe4d",
-          "source_sha256": "368fb064d69c5b02508db144c1fba0afc62bbeec9dea16e09f9fa4d6839760ca"
+          "pages": 3,
+          "sha256": "41ee3ee925c969e5f9a0ef8ff987b414e2151868a198c39f6aceb4fec49f375d",
+          "source_sha256": "42be441c1ea9bc624835a83bc7142fa79f436584ab990e13878fef44c0222509"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "2c92243dda99b0215534b5f544efe993afdc8a60d8fa5076479ea99c0f37855f",
-          "source_sha256": "0a011c558e9c98d1495c016cd1910fcd0d5dbe84afadb7e8e47b4a66b56a57c6"
+          "pages": 8,
+          "sha256": "9f68d24ff46449dc23f5b391e2aaeec70608a09b96133ac39a3287dea4304348",
+          "source_sha256": "4e772b4c79295e6fe02fa9862bf553db9d66cd0071e5ac2eb43190ddab372d5d"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "a41bdbfd1830494bd338229b668a13248846e75a358ae7433bdca092b7da3af6",
-          "source_sha256": "5d1c4299cbe37e8826ff4e03614658ccd3f178c2db927dab0189a7af65bf53d0"
+          "pages": 3,
+          "sha256": "e2023bba5e65d6bba3f68cc72af6c35c5ce95f4daa0183ec1be85f684308cf44",
+          "source_sha256": "de1357d267960af87745167c9148e01443b515ed0fdded7d0e5baa87a6c43bd1"
         }
       }
     },
@@ -1055,9 +1055,9 @@
           "source_sha256": "9cf8aea2c638ef89c5572d2df0c299425f912cad4a97877071352be9e27d82da"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "73e059cbd36c2aac24a8e0d8abdea6cee913958d66b09b7297edbf17df398575",
-          "source_sha256": "040a8db0301919f4f098b1b26e5955f333397bc2e5e78fb8bc3653a160b1321c"
+          "pages": 8,
+          "sha256": "3d6ed8e8598d8747c8566818b86277382400b49d2865f8f1e2ff93090b2922e1",
+          "source_sha256": "bdbb6de90b9bf401553d4acc2e47fd152726cee8aed8ce15e9f216bb88457adf"
         },
         "recovery-handout.pdf": {
           "pages": 2,
@@ -1065,9 +1065,9 @@
           "source_sha256": "e00d89bc94d97935be99938a2d64d89b72fe20b0881d0dec02194bfd623e1083"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "2490be90ffbdf955aac7fbec1434edd2fa71bad14813392060b81af270414ae3",
-          "source_sha256": "2b3c0ad6aea02274f57a33f9e5fafcf1b6813e5aa5ecbc907d99e7a9cc17d723"
+          "pages": 3,
+          "sha256": "90fc42b5a2c3e0cb8c3b32bf4ebce52e8bb047b2060d231f5856b7ab9b2090f1",
+          "source_sha256": "4442a9137708d21b4a7679887fdb5ab8e7a75bdfe49d38a9b1f4a8afe47a72e7"
         }
       }
     },
@@ -1080,9 +1080,9 @@
           "source_sha256": "2ee55dcb6286c603de0f56d9c2946fe24a671f7a3aaaafb94928d2d83dfad982"
         },
         "teacher.pdf": {
-          "pages": 6,
-          "sha256": "b871d957a2beb93d17a17de37ee3b9134241f2ceefc4b126813ce026cde32656",
-          "source_sha256": "d677341f052d43733b6d1c0a3c5be9fd2b8833eaf5235cffb6f309206c89cf87"
+          "pages": 7,
+          "sha256": "323d5d331dc4a700f8b307a9810634dec5e7445c4cc270b11c99fa9ef3393bd8",
+          "source_sha256": "d135619642d2f2393eeae61ca8093a47495641730674d8f99903a6c652be4756"
         },
         "recovery-handout.pdf": {
           "pages": 1,
@@ -1090,9 +1090,9 @@
           "source_sha256": "52af3431084ec6d3e8cb28e8d26ecb155c526ca0156d02d6af0d2cea84d797b8"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "d82dd491c84651b99b7759b357ffb2eb36000b122a6ee0706e3ac6c3311b241c",
-          "source_sha256": "51927a213180f96c1ac117f8b892ab7c31ab2ef948d5655d387a07f91485b385"
+          "pages": 3,
+          "sha256": "51b3ea3ebbf4ee3f549f9adc6bdfb2fb9ceeaf8c89954322a775cb435290c261",
+          "source_sha256": "d7f067131a2438a7b80da07ee410761837d03cfcae580f918d2359ab05f95860"
         }
       }
     },
@@ -1105,9 +1105,9 @@
           "source_sha256": "375503026ec7cbed9b838caeae0839f072f339ead114ed26674e818cddd8d160"
         },
         "teacher.pdf": {
-          "pages": 6,
-          "sha256": "bfea010774764ee3e500907258223818038dea91d2d1a46075957a7a03c3d047",
-          "source_sha256": "6b19b8f874ebce8d8fcf7c7831f7e790a289997ff075f654514f0027a9f2760e"
+          "pages": 7,
+          "sha256": "c47caba7652e7f804e711a1cd1d57f176092ad809a2e3edf0aa4ce3b0b43e2f8",
+          "source_sha256": "614b723f1ddbfc3df8d465f6c70f7e90336ed7d0c070a517b675b27adc3e7996"
         },
         "recovery-handout.pdf": {
           "pages": 1,
@@ -1115,9 +1115,9 @@
           "source_sha256": "225497ec70df7d9b8d8d8222e4a64f167724d69093e7a85ba08653281de6f373"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "bddecb60e11b1d2b051b1814e78740e0d03a7911a2c6d0c38da2f93b26e6d248",
-          "source_sha256": "b18628b66f02a30983bc50670f683617069ad8e814c938b495b6ee86a6228572"
+          "pages": 3,
+          "sha256": "33320a926b1f0d8559b6794d25f0f40dea8262731e96c6437caf653e47b7a99a",
+          "source_sha256": "bbc1445236ca5ed6bc458b1157905ae0bbbca77ec8c53824ea562bb127f3d834"
         }
       }
     },
@@ -1130,9 +1130,9 @@
           "source_sha256": "558be03d75a6dba61bfae7c872c19f020919d3a90e4afe8353f1b3de91ec0637"
         },
         "teacher.pdf": {
-          "pages": 6,
-          "sha256": "744b4981a0d41c5f80c29c0ccffd5b58cf72831ed371f275971425de90f0890c",
-          "source_sha256": "48cf70b0cf21d4b0c1d69865c3d09e2090d2a2c92c7f1df6867ec47ba032784e"
+          "pages": 7,
+          "sha256": "b4faaa0d2cc19a5447eb8f5a6e1533b0c2ead82d57c2b509ee5fd80f84e77181",
+          "source_sha256": "ce5e225e6ceca9c4d5ca0f653d768fca9c64d51e2a184b03511f1db1b64213fa"
         },
         "recovery-handout.pdf": {
           "pages": 1,
@@ -1140,9 +1140,9 @@
           "source_sha256": "108a85a307ef276b8ee135020d21fa6350af93c371f15da42823476bd80772f0"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "17b0f92539c74c0ea67acbabfc2456802d525e8a8317fddbe0bc3ca222226234",
-          "source_sha256": "df33a2d33270f8db9b07946976bce3ed8e72ddb0fc9a5c021e555c816b483842"
+          "pages": 3,
+          "sha256": "1ad04470686f8722506e8c3f8067021922015e58746b3b4210c6c71b203492a8",
+          "source_sha256": "bf196362f7de870d8f6206c8fce5aa335d6e12af0978f4d915e919491fc058ad"
         }
       }
     },
@@ -1155,9 +1155,9 @@
           "source_sha256": "7b7a2a9d682533797e5504793681c49ee62f422e305129c87c07a48d85990b91"
         },
         "teacher.pdf": {
-          "pages": 6,
-          "sha256": "2d7bb7e85b08761593a560bdbac9d28c4c84dba933e46891087865218d15b166",
-          "source_sha256": "117dcd8551e33531919b3f621a8342e5dc4bf2ade618f8d4a47b3619452e3e1b"
+          "pages": 7,
+          "sha256": "7a03b455a585055989392764b7574197128b1111fbadaf3ffe36fcd5309e7e67",
+          "source_sha256": "505898374db642ef9cdc190003d0fd2a798efb23461c1a1a6cae6c3f58a68cfb"
         },
         "recovery-handout.pdf": {
           "pages": 1,
@@ -1165,9 +1165,9 @@
           "source_sha256": "e6ff0fb3a1ee1f512de1fc5365f73469b62b60f6d13fa8afaa44110de3fdfd17"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "c40d1284c0daaa443ff1b8e5626e069cdb4afed3b216a47618183ce17eaf24b2",
-          "source_sha256": "397dd4d36695b1f52cd28171a151dbccfa478e513b88592f3719eb2340fda903"
+          "pages": 3,
+          "sha256": "d6586faaa85468fa0fe0666d4f2c4adf6d529e71ae87dda79a977a5c5795f510",
+          "source_sha256": "394cf4df0f94156ab4a0f8ac5515060e7d1e0ee4327575fe6e2d2fcd31210f64"
         }
       }
     },
@@ -1176,18 +1176,18 @@
       "files": {
         "handout.pdf": {
           "pages": 3,
-          "sha256": "f5461bd538570ba4cfb6e535ad6d432b1e4c0037e4cb7962c66484dfd3ccb376",
-          "source_sha256": "550f7215ca61407cb6f196909fe8b7b6ade6eae78d7bc9d6fa33be0688c8174c"
+          "sha256": "9609532db3cf5dce198f9c79bcd4f368b41aa93a71b8d2d655070cdbcd1b6c95",
+          "source_sha256": "1b6c518e8efee29bbb933e3be17344410d2df5157c473f035953f386e3410d1e"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "089ffd345ae8ef1ebad4b9fa3e1f8ead1b6a5a114e546680d0d36689baf3c337",
-          "source_sha256": "5f65cade334a109b3e51968f7e78ed019a2d884f4ed2894b18a78e51c8c91ce8"
+          "pages": 8,
+          "sha256": "9d83166cf3350f0c49b60cf47520503675dc7c48f80cb28d3289b9a1587dd0aa",
+          "source_sha256": "f7d1768d00ce2de02e046d662e62b04242ce03844ac433b65680df49851158de"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "7acb98957a919461597cd7d45d98befbcf21133cfe85702fbe55e6da87feb6e3",
-          "source_sha256": "07696ac6b495e343c10bde2b76c3dc314ef21250c3af769f89b8adbdbca350be"
+          "pages": 3,
+          "sha256": "3f2841765bbf35fc1c9913781ca4bfd741c28673af2d351435600a2aaf473363",
+          "source_sha256": "356f9191f5c5ebdc9cf805fbcd8942e4dac69aa25f5e691a3ef49afe1799975e"
         }
       }
     },
@@ -1195,19 +1195,19 @@
       "directory": "6/059",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "94461f87a9e26e2dce7d0b59995543b10e58537b48eb644dcc9adaa7792df8cd",
-          "source_sha256": "6e01348042c97d6c63021347a3be4e5587004a433b4009128db83dc709db7763"
+          "pages": 3,
+          "sha256": "afd42be160a12fa53e479fe48d31b18cde066b68aff1438e5c59b972e5d9d899",
+          "source_sha256": "de628ff734c54331f950e382606de19c64f51e61d8f79075d198b83475d2846f"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "915a92b87cc6176c673a251c2f7118db624cbb26478c6c9d070e9870b56998d8",
-          "source_sha256": "e4d2fcbc139572573aa4e5b0291a49bd6159b71ab456cb69adf0f777ef587146"
+          "pages": 8,
+          "sha256": "a82c290878c1df23d082c291f9ff26ae6272525551c8088195afee70ea37358d",
+          "source_sha256": "e58b4f5c7415cc548784bc659075ad0455344045e5a4a812e15df97da77ceaa0"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "d20009e39357d7a85a88ae967ebd8a196041ccac0e9e4fddac620caed4a24bf4",
-          "source_sha256": "13ae1104b9d7cd53557b16b30edc53d651b8b44ed3754ac88dfa9434fc9226c4"
+          "pages": 3,
+          "sha256": "4e32f53f85cfcb6ae6557220749eeff2229ac1c7a82ceb7319b8e3ec9d9c70aa",
+          "source_sha256": "32fce12fae2616f157407a7e3fffcca128d0fa8ff407650528f1d8a503c6484e"
         }
       }
     },
@@ -1216,18 +1216,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "4d1457a14c7a6d63d4618e67010d7fafde180d2513598ef33a2b0cfe807b696f",
-          "source_sha256": "700eb7f4824cc35001eeb938476f864e68fc84e926fe169c06f82e2c49584974"
+          "sha256": "16bfbabf15acd86c6d8a8ed704238d324e3b1e49bb0e71b75c41898eb500cb05",
+          "source_sha256": "de145809c33ffa7ae0b909684f62f544e295596b71a846407069d99ce19c2c76"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "39cfe30580910813bb0217b9523a927a239ab69dc2e8a61c4c0d3feab99e85cd",
-          "source_sha256": "c5a06d26f91b9b19868efdd6ac9bedaaba36b4b1b49eed360bb832f015b80f85"
+          "pages": 8,
+          "sha256": "e6307e3577b1c981c43dde5a64c2fbd4cae2b6ab0a4af088061b2ed24b02291d",
+          "source_sha256": "bf236b9a9bfe0f6acc3cc5567a8b88a07301004998aee45b065c4549665f5628"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "a22badab8bc59c9654d695a5ef0d819c709d95646e9d93d12c8bcd5621b52513",
-          "source_sha256": "0e5f562bb8d4e308ac9bf8cf134550a7a29301686efcc2e2384bf81ec91f7151"
+          "pages": 3,
+          "sha256": "b87015a4c9bd7d119e21ed2a23fd859c0372418530190748f1bca95921018b2c",
+          "source_sha256": "f2854ac041a36dbc5c0ec248ea59892737b2b08ad72d8d258e24e8ebe98c7d1c"
         }
       }
     },
@@ -1235,19 +1235,19 @@
       "directory": "6/061",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "4953a857ba8178186dac4b626061f0f3143769299b01342870b9ca1e88875c6b",
-          "source_sha256": "c5c07b27820b5108dd8bdb81ac573f90417825fcbc4ee91ca811db76a87ee7d7"
+          "pages": 3,
+          "sha256": "ca852a8312a7d7c8050cb042e394aea5c380cafa5853ee66fb2ab54ab1f9358b",
+          "source_sha256": "fc9feef99c4d4d448494a892fafcef2057a0db4dff4f4b4638763a37250641e5"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "3f565551492c9a0d2ceeae817d35fcc0a1e69a640946687404bfcd9fee1125fe",
-          "source_sha256": "081171cbc5a0aa0cad190a031873ae5c4941e6dc989b434100899629d68c6dd1"
+          "pages": 8,
+          "sha256": "5011ca9e862e495e3152000b048fd0951cd95f5638adcebedeb0d5047ebab636",
+          "source_sha256": "8d9dbfd2b1d63744dd4ea1d20cba0ab69943700c4358a87e5d267378a7520d36"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "03fd923e25ff6eea1ba2c343b603ad151323a0ee42f19d68c23f3627380a1eac",
-          "source_sha256": "091a461c87703af3bdedae0fb69b0640f184c855d8ebb326f863fe3dae0240be"
+          "pages": 3,
+          "sha256": "d5b714c1c86e1b043f821e5f72bd4030e7758b79232d3c67626196ac0b29cf77",
+          "source_sha256": "729c9d97186977442d0669f3c484c45eebab541e99ed16ce3b336483e6f02884"
         }
       }
     },
@@ -1256,18 +1256,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "3ce40043d36f98228c6932a8cb7ee85fcd57d644acb0341e95f8aae463b6e6a9",
-          "source_sha256": "3b4ba2779803766fbc74da91d129554102532540f1aa77ab8bf66f7412c3dc48"
+          "sha256": "a90220d295d753af8f4860991d67e18338f96573322fa05f35f4e06e82f56387",
+          "source_sha256": "79eb1168274132b077e45207127d4c1076ba6da76c504a158be72238a734470c"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "9aee1e54ccb03317a83ddfccc746195bb1d03efa71b2b4a5c1a849f80a8e7933",
-          "source_sha256": "a24c4ad16242fab8b3bf64c43ab4ec0d5812ddf5fca7f66b85dd599b896cea03"
+          "pages": 8,
+          "sha256": "dfc0a7927b6b9d58e825df90dca79c36dc99d3d019626dbadbd0968aee4f2d75",
+          "source_sha256": "203a4bd9470183643e356866c179ed176a63723e54d589476f24b20441f6d91e"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "1034e4261f93bb79989b5958f62ef1f827f65f5b1e40612eeea25f768e7ee787",
-          "source_sha256": "d090a47ab6b950dff49ac2bedb6662b473d21c8eaf8c7e5830875080b10ae23d"
+          "pages": 3,
+          "sha256": "0c8855ff25cad41d3befe8ff7fa376b611f976f33aa14798fafb41b2412ad01c",
+          "source_sha256": "d94af1909a7abd24dbd337e983d880813a57dd9c88405b92b735498002a81736"
         }
       }
     },
@@ -1275,19 +1275,19 @@
       "directory": "6/063",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "c460da7b5939c19bea1c0db2a239261afd6c2b957069e2a6db5cb3bcf73c61db",
-          "source_sha256": "07073ba17de5c363f1f79e7f26d4e2d212c17fd723c9feda473a76066681100d"
+          "pages": 3,
+          "sha256": "19c443fa8782139ceb27deab6c57146798b445fe5f469661ab8a15126c06e7ab",
+          "source_sha256": "b4177895f53262fdfa52578e74618114311a0f12877ee62e50330731aacc09e2"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "cc55e3df10c4243a956d25097a8ebcc51f2db777531a3b5b0c5e5c3831037adc",
-          "source_sha256": "bb1f1739c4fa11121c5c126526ac4c56a3ac267f240e9c325e02ba5ab722f9d7"
+          "pages": 8,
+          "sha256": "8280405b319b37b7fa69eae03f8bbdfedc870ca40cc6b53dccfc2ae7a9ee787f",
+          "source_sha256": "3f0e153cc1f4ce8238390d44b2c8d9d3e329aa295fe3be46a346b630ffe69304"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "1322ee96a2a3bca5e3eed20074af858a138e700f4a92abbc9acbe66f70f42862",
-          "source_sha256": "b2d54e1080ee6572bf018fe9f4a0c9b2cd1165bc2bcbb1e98b8ad5f306d87eea"
+          "pages": 3,
+          "sha256": "05611fe1ab875c91b5d9b3778ac1e32b91224643bccbe6941e3266e18e1de645",
+          "source_sha256": "8d3bc06fb96266387799ab33ffe1835fc713d005906bbbd264a792edea67d6ce"
         }
       }
     },
@@ -1296,18 +1296,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "b3f7738f59248052e1112efa0cd63269015c2ca49de95edbea1b6ecee0fd43ec",
-          "source_sha256": "d08f707feb329ba0471185ec07be0f61123f32d20ea129f136e4bac0e738ecad"
+          "sha256": "4acb3f2157a638fddd3c8cbce13e3e11f498e5fa6588ceb20ca3523b08b86f50",
+          "source_sha256": "76440b30e87198b011c6a1c89d23c0a0783d780181b62a6307fe14f3a7aa7964"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "f55b7825a20d09814fbb198636fe8c75e3265a92a0b745119cb246bdf8f86b82",
-          "source_sha256": "816994f6deecdc74b10a8111873466dd6b152c6ae42a9fb3e9a038fdedcf6123"
+          "pages": 8,
+          "sha256": "062051d45c7916485c35fc397c6bc1daa643dc586c30cc4f4292d20b7b0bfa9d",
+          "source_sha256": "f431a4a6c0b2c3bd2ef1ce9afecabab37fb173fcc053bb704cb059b63fd1e841"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "c7838a9fcd71cd392dad938c5e0667fb0eb5b0b17c65d304d5bf47b54f13d52b",
-          "source_sha256": "bcd5f939a7053b7637789f82a4d2797510fb1557cbce866044c88da2831a1003"
+          "pages": 3,
+          "sha256": "84c6c724d975d2b61f3a2226cd1b59b36e8aa32920002274faebc5635b829450",
+          "source_sha256": "f6840ce5315083e370b11390bde0ba69e80fe98cc2581b1b992ff954234fba24"
         }
       }
     },
@@ -1315,19 +1315,19 @@
       "directory": "6/065",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "92a3e8f9ebbf52a4a42463ebf04af304353f3e01f532949405b87f5932a3c1c9",
-          "source_sha256": "845327cb7d22ee34390051dbce38f2223d9271c9d5a1b8603a4f50fd52b54ddf"
+          "pages": 3,
+          "sha256": "aa7cd04fe79ab2f47441972b7587994613f6eebf1da433257d5813bd93e6798d",
+          "source_sha256": "59f004b30412305143242190164f6f6f8be4b856cbefd5063e92036eefe460c6"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "4f185327519b7a2b326fc5c5f4d96f3a5adf0ba96b8be26ffaea1ec77588c173",
-          "source_sha256": "f960dae5628e05d35b53fddea42a56d03f0faf2157b5c599eddd48c1c54347f1"
+          "pages": 8,
+          "sha256": "27b369ce502d811e68d17abf31e2c74dc0f0fd27f8acdeda5782091b5258a6c7",
+          "source_sha256": "30dc04fa03b2b073bd0a3b6799accc129a58e831ec6139697f9f40c4eb082b99"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "1174b682b9fcf254c4faf01c10d8fd247e5d4fc89ec30b5160992ca5f7888f1a",
-          "source_sha256": "f59ec8ffebc4c93d76342d5137c51890e22e1e6cc8120574c6dc73163ab2ba0a"
+          "pages": 3,
+          "sha256": "d2b3bc2dcd85c8fcf0863ebc40bf01426679f6022b55b1cc46058f9bec9439f2",
+          "source_sha256": "619b62e9cca1e2a96c534c6db1a7d9e384af22750ed657b6d67076c912fc0cd8"
         }
       }
     },
@@ -1336,18 +1336,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "5a40e3b9c254255c74a00b7e8f988d2c8eba73c09099c32aaac558f66aad2319",
-          "source_sha256": "92ae54cc141abfb7d9f2e31d8639912a096ea21ab2f5a216e924f81fb46c3b57"
+          "sha256": "fd5608fafd3f4253e11e5fcf2eb045e8669a447f6c4cd0cbcce84929c177716c",
+          "source_sha256": "9c0eb4fb433c41787f3cc3c25850b02273589e2e3c3748efab2f3ffb44c5a809"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "fb2854ed7d959716ead640a33ec042f2365f32f0cbeaea661ece1a5342ddfa93",
-          "source_sha256": "133cc4285903176947c1ffad4b6ec5af64401a88e602c48576b10eeac90339fa"
+          "pages": 8,
+          "sha256": "21b4aa2efeb4f7f63bfc3bcda82b12455cae37bdfe8eace9f4f5eda43cd30e6a",
+          "source_sha256": "ded806d8d4effc9948f51bbff22f5a3f98d7bc80d94aeed8c5e5ce2537f7654d"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "b9fe77cc088afbbf57995a2de8a0dd74b6e00241ca5b928d3a8de9966b77f289",
-          "source_sha256": "8d6ad88b6736a27151178d55a54a1f1b624338f9ea7a5f0df9a5abc91de6c459"
+          "pages": 3,
+          "sha256": "08c75d2b77e58b075bf3387d9352e5351b09cfe13a4e8ba1856e867d1f61b922",
+          "source_sha256": "17ee9c3d040b1a1b8ecbe44203f4620bac4a66ecc19861790bd211a7d1cdbe97"
         }
       }
     },
@@ -1355,19 +1355,19 @@
       "directory": "6/067",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "30ca4e72fcbab1a90818d39f2791dae9be9c7a4d42a73323348a8780cf432843",
-          "source_sha256": "31002a8310643f130e5a8357d82c36fbcd5bc8869e1821f92e4e52487a5cd29b"
+          "pages": 3,
+          "sha256": "d9315bec6ae1f8d9124c2098900e5a12a5c57275d26e1703f8fe8acf90c0d7ba",
+          "source_sha256": "fb4fc41bc17e355cd8564370b08ba38fda0bf4e72ecc34587a71888c06292028"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "7923edd8a7a20ff08e0bceb7d1c867396de98ec9c745d21c4aafff5a252307ac",
-          "source_sha256": "6d457750b3eb92f7b632fdf8c27530ca35122cef8e9d02b742d06c6e1f0cd75b"
+          "pages": 8,
+          "sha256": "8080fa87705d8ee29d36a4a2b7d62bc290e15dea132caeeafbdf3439f29842f9",
+          "source_sha256": "93f44d1e884d4fadadbdd4d25d339fb1d85a5d5d9a7071c9a8270ad27e08b519"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "d0499d63ea00079f5c00fa450c57a10fd21accfed0415d77fb295bfc6b2d5f0f",
-          "source_sha256": "ddc2f804779fff9179f9c989cb5b9deaf416c36d601ce7cefee2f25ab6b7961c"
+          "pages": 3,
+          "sha256": "366e61cffc02dfd4bfe39a48f655d7f658a2ac75a58255baee5419a960fa2b58",
+          "source_sha256": "7c906aca74421b1163725c1870e832a1c2db41ba22d036ba64a445fc2b025048"
         }
       }
     },
@@ -1376,18 +1376,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "8541b6ea99e5436901c6309841e0874b851fba4ee54106d39574660d58e0ba2c",
-          "source_sha256": "ad1c0975f1aaad8cab7d6994b9002de0c83077e4605ffe82c1f268a177b38319"
+          "sha256": "802bafee75d0ef867c70035ce06fb6eb1f66f7dc1478518a41bdfd5cf2e8f241",
+          "source_sha256": "da5f233292cd65c409e156eaaf2d419ef1388fdc42d0e58cc64de0272311d62b"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "ee9bda954a6ccd77d8456942eecc105d07641be2d181b891ea23ff7a8d78597c",
-          "source_sha256": "f7b1a11f3c629fbc6112a1b70aec0332cf23954a9daf43b354b1886dfc881f91"
+          "pages": 8,
+          "sha256": "9aafab529ff461819e06af4a779e9461c345dbe6897704df39d385f637db06db",
+          "source_sha256": "ead1ef08648d2a0099583b9e01cf4ffef56543aff7666031318ca856eb614555"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "96290a54d542cba0fd63e375a9b6c787a329423be2a076ba0a35c8f84c045942",
-          "source_sha256": "87ab7d4420975a2724b53e50ff303004936dbb687e57a503ded52170abaa2172"
+          "pages": 3,
+          "sha256": "34b2491289a87b6153d0535945eb256236fe94d5b7042705c457ca2331b4aa46",
+          "source_sha256": "0b72b8bc6f9e753429e218fe56e0792f9ad08ad115c78843aa8cffa2bd5855e1"
         }
       }
     },
@@ -1396,18 +1396,18 @@
       "files": {
         "handout.pdf": {
           "pages": 3,
-          "sha256": "badaef3fcb10fc4276342a57a0a92c076b7aed65b604517f12c2cbdc9ecff855",
-          "source_sha256": "2388e405104a611a8699ffa95241d1f83f91253beefbabc88853a2cb0b1f012e"
+          "sha256": "f49ff853b1da49cd2bc547a5a433924010da4773878ad08d88273801f7eeca52",
+          "source_sha256": "f7a59be6548c42834fda7bcf7d06a6dcaa205253b3676ada37c41e6cfba1713b"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "f24079e5f2152ea43412829748d9cce418ee080359e30cd0037ffc1aacee1c84",
-          "source_sha256": "b2746b5b074adafd960fc56ee3cf0f152838209c908b443ac32c9e753b040e7d"
+          "pages": 8,
+          "sha256": "2b8927b4c24666fac58e996eb2fd2fe3574a3d5a096f03d0164a37182502b6d9",
+          "source_sha256": "4bbae4de727dcfc5f7536ed4e05676a998a3295a28d5ccab7dd68480c1c413d0"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "302a9b7ae9796385dbd0d14573f5a53eb5b54cf3d55f7c78c0d4d287564a1cc5",
-          "source_sha256": "f926db6daef7d38f9a052dc35b0e6e2d26c46db267774348c3008e45f44c1472"
+          "pages": 3,
+          "sha256": "d9e4d61b54c66d43fdd595ca98e76b94e1b3e86f7d4fd3558b43387ac22bbd48",
+          "source_sha256": "e4369caf5f69ac888ecdfbc1133c61bd671043aaa19b349fbf9de28388d3cb25"
         }
       }
     },
@@ -1415,19 +1415,19 @@
       "directory": "6/070",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "fab0426fd4cb84b9320d66ca029643330feee21aa23ad07f01b96609744cffb6",
-          "source_sha256": "9caf1d017487b6378391ee157ddf77e3caef82d453ee1fbe3c906010a5dcb4ce"
+          "pages": 3,
+          "sha256": "05767c2c24b300a3083080613dfe43b96455737dc03d91b15e8584aa51ae4024",
+          "source_sha256": "29ed47ec15f072e3913346e8e56f0cea0738ffff3c0494ce730bd98171ff7211"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "d6a3d46af427b53f615485aa1561c3a6d961de918acd8473516dfdc942f1743a",
-          "source_sha256": "b3714d0a3a448ee976eedf9808cc54b87d4a975ab4581ea8d0e14221540dfb71"
+          "sha256": "920427b4298eee643617006bcb40793cac94973612aa2762d1d0136f3669b804",
+          "source_sha256": "259b0181e30e63e3d7304589309f0bc6a885c8975a32ce9a596ce5dd078a70b3"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "bf84e70893a566282dd4b43e8b7f1973f055c9bbd44f74f415a0045df36e5f2e",
-          "source_sha256": "56f98b1252a773ac94a44cf0064cd87a97d2351d8ef1eadfe3343f4d516be124"
+          "pages": 3,
+          "sha256": "59c1255fdf9bced753378b59eee667dc6ceeb297be867ea787808bffc09597a8",
+          "source_sha256": "fc55bc5eacc6f27ccfb525b62911a2822997d323bef3e345054be41744c97e02"
         }
       }
     },
@@ -1436,18 +1436,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "6d7d1c38c8aa7475eb5239f40faa3deb543a8ceb9ab78c03c01ebda3786282cb",
-          "source_sha256": "9097e42aae82a26ea1d813813c783ad412e309a08408ca725e2d9cf856e4675d"
+          "sha256": "1245119a1cc28b3787fea7c960d2a0cd49540843f1aa4427680e3a6923af6987",
+          "source_sha256": "fa38f4e0eb4e915cb3c7a402ac707b8fff961343dcc2ba6220a39e90d96930e2"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "3aae684deb94aa7329a012df1dfbe2f2c7710b835043d3bcab42e9d7392b2af5",
-          "source_sha256": "9ffbad71d268c6ed4439624a511888e4905678cb1d1dc7931c84b237723c0757"
+          "sha256": "a9fc27728dbe089fa8bd162b576f14836125f7bc6940fa20ec1662e0ddda76aa",
+          "source_sha256": "adc190e695cf40f6d4e3ee794b76ef13f0020609510568a6b45236ad249d55fe"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "9062686ab35a4c317bb6487578730321af51c0d747b6d64b9273aeb4b91c9eb4",
-          "source_sha256": "2bd42d7da2e422dee6902818127c454b71e1c8c1c6e1aa93fe2a94a790de9b50"
+          "pages": 3,
+          "sha256": "790e0053aa56445cadc44089220ace40fb8a0db6b848cb3a72dab67ea18521a9",
+          "source_sha256": "1979fc3e6f6bebdb74a51768e7df89521a6c04c7a60118f294354e6b6b409063"
         }
       }
     },
@@ -1455,19 +1455,19 @@
       "directory": "6/072",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "06e85bb5d1553327235b9bfd14ed89b7d450a6b87e3b29e87b73091c266f1bea",
-          "source_sha256": "eff03a0b9bfb350b8db7f731085f2847db0bae98504d88bc14aa53c9a7744d2c"
+          "pages": 3,
+          "sha256": "7b5732eb87648cf26038075c0e0c11a61790dbd6619d603b196f192896a4f2de",
+          "source_sha256": "5eccf16fd09ea970a1c07ea9f2e03278710ea0b85b567d241efb1c71786a5e2c"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "d5cc8ca022597adb5870289813d093732785ce661e492dc131521f79a5423f0d",
-          "source_sha256": "fc25c7635bd8ac6ae440bc2d6f84f9ea329e058e95b6b9201fa0ac3a9c677580"
+          "pages": 8,
+          "sha256": "9ecf233b56d4eb05c0b29229ee32f9e4208d5bd622f8c7645178502f6c6f4cab",
+          "source_sha256": "f3b91c86e53bfbe6414895b25386f35a17aee22263f12c7ec664ed2db42a6e44"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "2ee4985ed2ffcc270799a78d2a682bc46fe56ce18b20fe23b10460f324762275",
-          "source_sha256": "d8619429e161efa9d4a22bbfa3ec4ccad8e3630bc931cd271336f2fdaccb517a"
+          "pages": 3,
+          "sha256": "bee34fbdb4f2017f6999fa022d769ff0800e5b4c40217b6f15ce2424f3d4ab87",
+          "source_sha256": "0c44aa05b8ec3e1fdd3ce821cac9b637a56188ee0c21b1d9a35cdb4b06068c58"
         }
       }
     },
@@ -1476,18 +1476,18 @@
       "files": {
         "handout.pdf": {
           "pages": 3,
-          "sha256": "572bc2ac44979e20aed3764154362476fe71b3c348ad351e6c886e5abc596a71",
-          "source_sha256": "47c663c140b9b2162b42004fb682c51ee9ab4972590b7cf0f50b594c521478ef"
+          "sha256": "f9e6faabf54b24aa13923a66884059a039777d80ebafe9d316f15debd6797308",
+          "source_sha256": "a3aaf3932a04c0d204d412c7fb8bc345301f8c036de9961f121519a310bfd20d"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "dc57e67115205f5f315282daa03e31781d45ca79cc0597aed097cd115e90c1ef",
-          "source_sha256": "a7efbcbfbbe7e9aba3f0664a0a8d71c9ba9c0e1f3bbab4798c365c59e2f87ca7"
+          "pages": 8,
+          "sha256": "2b9aae34173c3f5fc4299f307c92cb064d4567acc63a7db3c2edc3c16e52c8f6",
+          "source_sha256": "cb14fa1624aa4200bec36acbd5cc4c0d8594ade13843dc993a5c8be34555427a"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "88162bdd311253833a61f48007807d986d3d7cb5522e9b8a9d2d1c77bac64e98",
-          "source_sha256": "43fc8ccb43fabae1759022bba098ff6d1ec9efa943398ff074f744116c502027"
+          "pages": 3,
+          "sha256": "9ebbd1612eb26ecee38dc5befc300f270c18ab6d9ac11d88a354147e9e60b9ec",
+          "source_sha256": "cdc6f6b68656395db9548fa665665f02221430d25469b9992694e5e05dc69fdb"
         }
       }
     },
@@ -1495,19 +1495,19 @@
       "directory": "6/074",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "4d96a5ffd5508a5e4fa681c83e9ddff6ef7bd85cddca5e898db96c39697f7bcd",
-          "source_sha256": "746550acc28bfebfa4a2713c33b67e187bdd6b6f192098d903f952a41e7a19b1"
+          "pages": 3,
+          "sha256": "9ec7982f7d3e08d6ccd0a61cf463e5517ad54474ecae8ae34b3857104012aa75",
+          "source_sha256": "2d85ece4bcfea003137a4cfedb00c7a63a35d475d67ba2ba816e067b02563624"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "3e3b3d0e181ecf75e61fa06ce27af7d10c0022e0be123faf9b6b94ab60c48607",
-          "source_sha256": "380fe9b73a35bcf9e2dcc744c694c54d822975a953814573d8634f25a6ab1167"
+          "pages": 8,
+          "sha256": "b9c3e575069068258abf478c65ca60261bcbd6e82087ec92864989a4b0c6d342",
+          "source_sha256": "0915ad2ef539001830c6d0cc6a382170f6e3eb46872bf4ebc45c2c2ac85265a4"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "18592c9f0dd69d99b5983a17c69034f3e6a0a9c980ccc4c75924ef243fd4a80b",
-          "source_sha256": "2f23575e13b942440ea4d7b2d34aa3251d85987f764bd19ae7c9b74b5b211979"
+          "pages": 3,
+          "sha256": "c5ddcc496523006ed340bc41a1bf97b5b9655df2aca6b0a409917958d6f7c31e",
+          "source_sha256": "e1a6522aa9730d4992c63d7adfc93923e6fa8642e79ae567ad1fb454bf855742"
         }
       }
     },
@@ -1516,18 +1516,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "a22cd05b99571e8d57c7f67dc6e828bf7ea8f3d257493fb7334732c915d3848d",
-          "source_sha256": "7f24e23e0cb4b2ca798c274a401f4fb70ae9181ba209da4fef74d01010844d10"
+          "sha256": "7902018d266c2b3ae35bb7d9b4064eb168362cf34f6252662c9c7c412f6619ef",
+          "source_sha256": "ded368bbcce78f3857300212bf0ee58f55dde248300b11fc6a8684ab874f69f6"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "26bce9ac711ef5448232860ca9200220a673e22f54564a1e16507361557e063c",
-          "source_sha256": "b6bb5a08e81a6f0c2a32859dac54b30a9b8d613cecd1beb0becd3dd03692c9a1"
+          "pages": 8,
+          "sha256": "2097fc8b4ae0bd353ce2d20e43dd7d43de5b7fa18a5227e6ee79488b074d9c98",
+          "source_sha256": "c069607d4966ed0c0a81abdf138e821a82fc7c018858a23d284e50f91e78f189"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "c33ab2cb2a76299691ee0ce58bc4c38514d6546ae42fda79d7c0e349ef0bfdba",
-          "source_sha256": "967118da8074dabfa835c5b7c666caa87e290a3f8af6d0b620a5f224a3fed4ad"
+          "pages": 3,
+          "sha256": "940989ee45b3a8f63e527455b06f798568058dc7f34bb49131f5e04cf6d988bc",
+          "source_sha256": "32d9487fcdc7362a2f57b7509b9253bd43c2f69d1a5b92f98b80d25f85cba92a"
         }
       }
     },
@@ -1535,19 +1535,19 @@
       "directory": "6/076",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "6cadc2e88b187409427ae5e4f549dabda0973be5744c7c2d51e29b74db73547d",
-          "source_sha256": "15094c8a59563dbb497668ed705ce1adececbfa61d03cf6259b43b6676c2de6c"
+          "pages": 3,
+          "sha256": "8729aed797e07bab9c61e07e448c1df0ecb3760602e6e26536871d29a5af9896",
+          "source_sha256": "17d2051b4b8c7d55f920da25e794eeedb97aa09466f4b004cee63ff1b4fd4007"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "fd96ee0d02d37aff42ee8116e7634de9059121a479590c7f4dd8ad4a4f93d100",
-          "source_sha256": "cc143f1564452abea92747a47a6e3feb8b9d7f04def5e4112ef10d0e5cfa8f42"
+          "pages": 8,
+          "sha256": "4b889600aea1f35832baee4df2a660de0d93edec30470b74df0da8bc874ef6f8",
+          "source_sha256": "15bfa7627d7eb5c00cc5d41556c263d59299ca128d92096dea933292b1ca0748"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "d0661d180f0c9d6226c34cfef9ab650970246fdba01e237c7c22aa82025e90ea",
-          "source_sha256": "417b7457b462a7d0971e70b03213ea9294d0a2188284416f72cfbc4751403c55"
+          "pages": 3,
+          "sha256": "d964debae6c85c8240cc7467337acdfe196b372468d0bea1a80c4b25cfdf826f",
+          "source_sha256": "efc4d004e41967b1645ab10fad5b95f9b4a911c7a73e83bf19cc2663a6d6865d"
         }
       }
     },
@@ -1556,18 +1556,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "58e96270cfd8279eb41417c410c365dc65b53c44087326c02e0f19448b971fc4",
-          "source_sha256": "e065090cd667c5b8d970944a84a0e2369d7fc21604e514773f09857a6d1f0a50"
+          "sha256": "6b10bb51fe86d856eecbc01e26e84442ed9ac7b57d937cc97d30fcac6ea53e3e",
+          "source_sha256": "a738fddcc680184fc74a03fcb93de632af9b472a47a91bf2169e91ff544d7855"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "f06ba80042db57bfdf1de3e44b5fb195454391e572d668af64f1bcd32519cba4",
-          "source_sha256": "081c800241ec16e4dda0e04cd9817f9cf16b55cf5439ee4682ebd6baa0c28fa4"
+          "pages": 8,
+          "sha256": "1f055cd703b26ea2b4f9e0c9bf481f604f74b3d4c19155fffb164f6968fb6607",
+          "source_sha256": "d2df76f771e0926fd3edad2ba9f51923da6d462c87c54bc669c3c6aec25d9589"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "19d7d4f9e37de9e8e12813d2b838d1de9bea6018ddf15882c35c2e8c4aeddbba",
-          "source_sha256": "f785a6c02685111b55066f0fe72729747cbc2d0c5e3d93432fe467c57086195d"
+          "pages": 3,
+          "sha256": "8822847a75124d3ec12340527fd082120b43eb37c41ad2ec2b15bbafe83ecd29",
+          "source_sha256": "8720ad5c0908bf8147b79b21c919817afbbd83bc14e29182b8112edc841018a9"
         }
       }
     },
@@ -1575,19 +1575,19 @@
       "directory": "6/078",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "4a08c372865542ac2b882ee75158bb5f865df4686b550064945c531416fe7bb3",
-          "source_sha256": "80be4e47354480531667557a54b593ac896d0e598b32333f2544dde8f885425e"
+          "pages": 3,
+          "sha256": "7724ab0b7450c4ca2ccbad0fff11855ef0bb79b798af68a6273801a3f9d6470e",
+          "source_sha256": "627f37d417a9729f1ed4386ac524a3b169506e67e903fbcc33b92865fc7ec9a5"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "8938ecb006fca6508cb34769e7a43b23ad5b1a504b076924842227b8d0eb6f23",
-          "source_sha256": "cd141922e6e40384ab36d407769ee5395bc426f9140ce02c8d9fffa2c69134f4"
+          "sha256": "9247658919b7635d6111af45ea8399dcad1f9ca6d59d20b265433e04d07cf1f2",
+          "source_sha256": "f6398cd5f621a29bf39fdb29b5a2d95c8b6b8b9d346fc35282ef420030979dc7"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "21def84310ac08bbec009cf50f95f783219acab8403da1e8826990376d9706cf",
-          "source_sha256": "f6e8b23501d5332f1de886770d4bda5bf66e060d99c53a84a91d09768a3c3fc6"
+          "pages": 3,
+          "sha256": "ef0147fa62588983a86dd12bf6e834305d97fb32f4c2f5027df0a932adf2fd00",
+          "source_sha256": "473695ec9e0c27742abfdd37b2d777f80d1a0c7cd23015e9dca1c22cab37d086"
         }
       }
     },
@@ -1596,18 +1596,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "7f0e5d7efbcbf7ae6d9d029471355f7a921819bb6864b30eeb303e6e97080129",
-          "source_sha256": "a66b2a063402a04533388f5c84d6f6bf84c454b5b9a3218e2ce2f2d5a5e0cdb1"
+          "sha256": "bf2f795226b7c80675c952ee03fa38b0376846739ef5186376b443063b18fd43",
+          "source_sha256": "6f58838afe7c5d1421d824e0db2e34de3277d3085f11a8be88889b79fde7a267"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "f65b98849190985a1a91f798fc42e5df8b15d5bff0014b5cf7391d304aca0f31",
-          "source_sha256": "ba138970b13d817af0a684b552a0a0eca05883d1331a11161c4b0c218f20fbd4"
+          "sha256": "bf73a634718acbf24091994f7c5130f67bd1be545f87da1845aa3c95921b8abc",
+          "source_sha256": "c602a54a96eb1a9760984406d0cb5ce6051deee9b3f80d71cd1af562ad1354f6"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "e801048d9c4f4928e1a80d64da303b84a9a1ebfd51bf4a1951b4db863d03b1ad",
-          "source_sha256": "2a25b514869aa333d754833856e1216428394dc165af0d9634d9ba2efe0b8468"
+          "pages": 3,
+          "sha256": "e88dd044131e319b9115f719580c2f870ae2271a39cc3314fcbcd2ffe0b56947",
+          "source_sha256": "7166e831ec8b037cde188dbcf851382455ad48559abbd405ae6d49344eff2b6a"
         }
       }
     },
@@ -1615,19 +1615,19 @@
       "directory": "6/080",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "c7fe26630b70907edf81d94de2de60a45dafe265f1222fb65e7d4849c3caa78e",
-          "source_sha256": "89a2c6227991f7234f70ee662c9295bab9b615b3c75b6ba475ef9640b820c17d"
+          "pages": 3,
+          "sha256": "c861e12ac65c11438d78c79ee8b13a212a02acbd7b360fde89101553409f6877",
+          "source_sha256": "a8712c9be26aa8b96403a239c9bb01cf7efcd0881504ca0149b802613cc8c6cd"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "99144036065c2f5a5c6e4140d8d8665cdc44f758c0a8012fb85dcd9371ea3ebf",
-          "source_sha256": "6d98c6068a914b40a565df6531964058f4648dc2e5ed1bdf07b708445c960ee8"
+          "pages": 8,
+          "sha256": "a69836bd7d57b8e29eabe8a6889597017e850c37e7ef9039ab5c2c91e84de8fc",
+          "source_sha256": "741eabf2a098326d940c707f7f72bc30fdf5872f20685894fe70a845998d6e21"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "abc2139fc40d75dd1aa92e547e0d9fcae4c05e113fd106a3b638ad17f1eed406",
-          "source_sha256": "99ea228b1c4b2a5c9aa9cbf32006948b3a4468742e408ec58cbfbf903300c080"
+          "pages": 3,
+          "sha256": "7d4dbf71167cb1b05cf8fe0254de3fc29d50911a8aa76f0856759c2c6d7c0122",
+          "source_sha256": "7538a67838d9f61917da3bd9973d7f0884c8e8f61a39ab4296be52fced22ec36"
         }
       }
     },
@@ -1636,18 +1636,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "cb3a599bcdbcda3e28cadc73b8ceeb0b6bb961115d89f9d35d6daca54eae924d",
-          "source_sha256": "e1411d40216b44bbe7b8f97c9c7ef27da4ee28316a825bdf0efc841c36579b3b"
+          "sha256": "7d7d21d78d4aac7794ec3618cca94e096a3561b11c950e8d79f095bb7fbaee61",
+          "source_sha256": "f41cb987db9c8ac4f6d9de33550622472fe6e4ff7ebb811254f3fac0a412e408"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "4cc0460359f4990b449186184b997e24f4d934bcd587553c7637d4224f6be181",
-          "source_sha256": "133c548d7345322db0d683a57d7250c7899fcf80bd30db2cfff0428db9526124"
+          "pages": 8,
+          "sha256": "6748dc8c28f87cfb30d701552d4cafaf95c38a987cd35158c1252449a14a8efa",
+          "source_sha256": "ddfdb5c06ab59f4453c247e63879182bc2b77b5f5e46a1fe75d3b0589d73d342"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "845af6a32ae1ea7e63ec418d519b011fd384af0b63b4a22b4a53489ed8bd94c9",
-          "source_sha256": "4fc638f96aad6c61b575a6594bb81f8b67a10f920fc07f45961f42a8a8cb8c06"
+          "pages": 3,
+          "sha256": "db37d50a3bd9abaa9e07dfb01fd461d219d216851f384393970f1465dad57744",
+          "source_sha256": "c54ca92c29aee003502c4a0818540705885abbf9b9345b7a02d63f55a208ee6b"
         }
       }
     },
@@ -1655,19 +1655,19 @@
       "directory": "6/082",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "42009c96949f6b1549206e796bbba3c47e8c6c9ae5f35e0c46e1fe1a7179e231",
-          "source_sha256": "f18b8eee2c3d268034c60d5cda8ea1c1d70d287146c227fc01d513ad357cfbec"
+          "pages": 3,
+          "sha256": "6be6f278abc51d37bd319da7bf9cc28283cdcf95101c61d5a4d31e0fee75ae02",
+          "source_sha256": "d5d7d24eb159a4623028257f31e1aa4401d4f0d7ec93970a0da0206824c47737"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "373661bd6dc58ca3e74bee1141f2f047b45e7e8243e80cfadc844802ab17b27e",
-          "source_sha256": "10dc0f84925a277c4619bcd14869fde9dcb1c8f76112f2ee8dadec28675ca7b0"
+          "pages": 8,
+          "sha256": "6eb8d59e268770ede7af5865a832a4a24a3a5d009362279e65704ece5fa4bacb",
+          "source_sha256": "349c6238abd7297dff68c7c16d0f6be9b24041b6716403e3c9bd58258a4b879b"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "55592a4b9c8236b2decb5cd2a88e5c1a8c39717d592e8e0bf46ff70da1d39585",
-          "source_sha256": "0f60415b18445253136ba1d0a6927aa98a0e39aa06a6cc72f4e8efdced492b4f"
+          "pages": 3,
+          "sha256": "0a30339c8c17963d5edf3314fb4372b4c4bd64d9143d43cba93f005ea6511931",
+          "source_sha256": "b770392fe0c0fcb48dff4dabd5b371ee1b3edc839be692cb029a38e172f25d44"
         }
       }
     },
@@ -1676,18 +1676,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "846f78850a0be5af9aecbbff68c9f46100a4dbc954ebb5d6a599e1a8bc3ead1a",
-          "source_sha256": "ed23d5af69c9a46fd136d412471670c2d12692b538f5ce712badaa81ed4878e9"
+          "sha256": "00fff97fe940586cf25ab50fc3d4489a1edb20fed4c8631da87eabfe5819e93d",
+          "source_sha256": "4467a9f95679aefff27ba652eeb7ed62f10045aaa15cee572380a2fa71516129"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "ada53d6db59eae47562c2e0033dedbcf792a41ac6e7d5762ba8c66d36fe9c874",
-          "source_sha256": "f0f1d7f3f110d6caa4969ec8f33786c947a6866989327a462fea9ebfb5e62394"
+          "pages": 8,
+          "sha256": "658160ec5e7ef74a3c7a6533a04d8e3a0bfc23e66b4abe69f5e0d01bfcfe2238",
+          "source_sha256": "a6ccab71ec7d64e6ee6b5b69107b08875ec99597c9e3df37d81b0cfca8c6983c"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "dd8a2ae90dee79559fd9ddb61701fe0ade6396f64c94ded98903a2a94c37f134",
-          "source_sha256": "4ac526ae6a5bcb39b3fb43477e7ec5b323c355d12c288465c9da86e2229b9499"
+          "pages": 3,
+          "sha256": "3c71cce37f1f463c4f24cd3e1601415e0328b1e5f8e155b02ddd85ea97e59b45",
+          "source_sha256": "6af9ff7485a07a38a871b4061fe4a4f183131d499999a21023895f44eda2d692"
         }
       }
     },
@@ -1695,19 +1695,19 @@
       "directory": "6/084",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "ee38e8613bdc7cd3dbf94bb4f182ffff0385f3fc97e5109317f3c1d2984d6bd1",
-          "source_sha256": "6dcfb69a98b146e9fe873c6c1ad947eac3fe95911e40e307ffc55b79cb734694"
+          "pages": 3,
+          "sha256": "4de71561e18283bb4152a384130c516a38d22b75a8755d97e71e58de14fc2bcb",
+          "source_sha256": "3af5d91cf2452b6ac8a793166c59fe05dd039e7e32e7b8e453ad419dfe5da007"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "1de928ed3a8a20991bde870d0ebf5c103a3090a826bf7fe7ea1466bd1c56c04f",
-          "source_sha256": "971a323057fd4ac372c83dcb2708934efe6fe52d70b9423e9b326dc32eceda5e"
+          "pages": 8,
+          "sha256": "ec59422df747efd94b0d3acafd15b8e07d69808548f08656be84ec61edf3e536",
+          "source_sha256": "061284c3a5733ce07ba3cc395d922756c72667e235feedd93fe4e3247ca9c7ca"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "7cd4450082ca0aafff973b686a2740833f9463b3855aa479846faa1df00931b6",
-          "source_sha256": "a11ac02ee364af50348298c500b40a5b743de3a01cee1874a5586f7ad4fd9429"
+          "pages": 3,
+          "sha256": "0c0ef9475bd65dcfeeb47248e594038aa07cb21a9161d30c28a667a40f1c3733",
+          "source_sha256": "d0661bd6a80e0231f63beafbb9e8938999901040fff53f79f389f4c0379dd063"
         }
       }
     },
@@ -1715,19 +1715,19 @@
       "directory": "6/085",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "f6a69cd52b2219925751150bdc3c58e3af63987a4ea55bf1443bb215b09de4ab",
-          "source_sha256": "cc9d1a98edf39e2254dc54a2416814e3cc5a3341fdbbc488e3a3afcc1d8c06ee"
+          "pages": 3,
+          "sha256": "170f863347684ca6b348b52999bd48cc815b3e3423293002127d7e9f607cf191",
+          "source_sha256": "3a9c60943165b46f15de39506686ae32b892bf5eb70740ea0bc82e886aa1d4f9"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "60ed0b2f0ab6a11247812b9cbe8c6910eed9dfb2762cba0b073a70e8a0cd1a4a",
-          "source_sha256": "1eb1a1f0515e5692e61737d0adcb042aad9e18c8120a961dfb4a2643d481035d"
+          "pages": 8,
+          "sha256": "d04f12a7cef9c4717174e8fbca081f1452df70d75500ebc504cbfaad4df91f21",
+          "source_sha256": "2db6ed587ca7eb443860ba3d8da021e8f5f760cda76886a789787838ef8c4c43"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "5bbda7dfef2413f93f7b7722819053515368d3982fd1bad199560290d22c007b",
-          "source_sha256": "d331c3d9263f26a56619ab74408061e8a3c2910a22f85da1de71e568b474fc6c"
+          "pages": 3,
+          "sha256": "2cf8d70cb1cd7a03aa3bbfba0f821099e0bfde6e434ec882a8ba5b742c161430",
+          "source_sha256": "690a822f407188b35b02431e42d3b22010dc614b858ed9702afc98184558bd3f"
         }
       }
     },
@@ -1740,9 +1740,9 @@
           "source_sha256": "a2a3afe3ed7d3c58de3e2d5a98d6769ffcdebc737152e7e5254924fee1e24504"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "1b76e06ddf385127f6f5d037313ae8fbecb03cd51fdce06205b0a6628093f77f",
-          "source_sha256": "52ffb1d240450344ed2501c8b852e12ebbac25b1194cd4055ceee3b9f3f78f32"
+          "pages": 8,
+          "sha256": "1ac9eb6bee8e085dfdcf50658b34030eaab9a90f2083a8376593140e6ed494df",
+          "source_sha256": "a781b31286db8bc4bb4a959909780c1af55a510925cf36112a1ab7b0c9ffad56"
         },
         "recovery-handout.pdf": {
           "pages": 2,
@@ -1750,9 +1750,9 @@
           "source_sha256": "4123a1fbb68f057c23a8b3e105337a4f9dc20060a167820b755fe5df0e3ce8d0"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "273dec91bb86216b506015c5ad7c0f8db0998d4445e775a5e278945226184e07",
-          "source_sha256": "e463857a525f7c9f3f5125497497f5274299561df2d021546a8543024f92dabe"
+          "pages": 3,
+          "sha256": "3b2fe507bb8865e827d1209389c93dfbb50a076da4f28aa092b3fd9a3c532286",
+          "source_sha256": "9264afdf62ff781308562b7cc7c01d74566ff6090e97862131110f0ec4b9edbb"
         }
       }
     },
@@ -1761,18 +1761,18 @@
       "files": {
         "handout.pdf": {
           "pages": 3,
-          "sha256": "f5b13a39d7c3df69b07d6fa31721be966f9243c337c4b268ff7c16105e1cf424",
-          "source_sha256": "516f80f1a604affa1eaffed28d43ec7923379ca02fac4a6e458c24a811a42f53"
+          "sha256": "6cb9d717d11ddd4e5fa898c4a48b0bea256239973dd5d58091761ee45b1c2935",
+          "source_sha256": "47f4ac5907c7e8058d53e3a1770a1962d8991a6690203f80b56f670c395e5576"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "30fc2b1df6ef6c61ce34a2fbf06622a1938395bcfa3250aed863b8799f8eac24",
-          "source_sha256": "f0264564bcddaef955b1496e90ff874120261f67a7d867bf205128f44ab4fb21"
+          "pages": 8,
+          "sha256": "b731c59fd070524e50de1865b16a795ecc651824a72048a2921bdda13b30eee2",
+          "source_sha256": "f13655e8d4001d7d23e2e883b6b59b15e024fcff6eadc4d50a74d74cadbcdcf0"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "88c73ee448e0f0431120c530df3a42d53c3b7a375145dfc9dd72d107c49fb4e8",
-          "source_sha256": "e3975cbb5dfdb986050c050d0dfa3560c04b8cc45e29aefdc713bc235ba56e8b"
+          "pages": 3,
+          "sha256": "c4509ef341b089f5191233aad63ba404703d4d9bd01a38f9a17802a6af2f362f",
+          "source_sha256": "dd51fd39453534aa5c17fff44adb9900541d3d7f1f6a4ccf027ac54c99c33dbc"
         }
       }
     },
@@ -1780,19 +1780,19 @@
       "directory": "6/088",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "7dc6bae9d70d76c5092cf3a6f55c7c49b83fa90cafe30fb0f1052d108e275e24",
-          "source_sha256": "2b5cf7cb61d388255100cda6bb26e89175df45ae800d94ab05bbef6e9fb6d903"
+          "pages": 3,
+          "sha256": "64b6d46cb599c364e36881b227e366bcdc9b3274ba24bedbb45e40886a05ba98",
+          "source_sha256": "44f0a9da66ef15391f8805493fb1603893237092864e0b5eccb2c2d52aa140c2"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "cfdfd89f25feffa814770f95f5687f884057464b4a114c979057aef760a58171",
-          "source_sha256": "40c4d30c871b9dadfb4a063da2c12fe6d5d62b8503e76b2d35fc473d9c66050c"
+          "sha256": "64d4e932f2d3d01cf6e6b73764006e49b952266f556618d60b255823cd130614",
+          "source_sha256": "2ea44284cb2f4e0030b1b79f5fc71892255f9e5deab3c49963a93ac55501b0eb"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "4a63693226e61cf6e24626b8bf6091f73a30d0d89e3b6dcfb71d1d95064edd6a",
-          "source_sha256": "4d1480332e8dcfc9e97ab01390b4e83bda36f94f05db7fe8a8f27d9dbc7c797f"
+          "pages": 3,
+          "sha256": "3ef205744c969ecc38f875ab2c5d51982f04af57c5d0b4cd43e65babe7f7bd0f",
+          "source_sha256": "202e51b43210f027e0c6ac59b049816e60bc4ed91eec388fc878f8d8e9de3321"
         }
       }
     },
@@ -1801,18 +1801,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "30c042a7041e03bbbed5b735864054a20eeee2f4219bcc37a73ac309c9bc1d3a",
-          "source_sha256": "d592180213f92a7a94cddbb5023078fa35edfe7bfb6120a88d182b86ecdbd015"
+          "sha256": "ab61f189025ae5b959271ecdec5a4619292d7d9f83f85dbf214c6c35b16d4401",
+          "source_sha256": "ffceae0a336675f4ae59f3497bb134ea182f0451cca000fa489c6268aadd8b65"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "60dd3ab5c2be6c236b49de634a05dc7aa07266b73403c41b60499d406f154b00",
-          "source_sha256": "9d24800410cd4b56612c6e30498ce54d6e997bd1f4b6672d351ad9540a2ac5cb"
+          "sha256": "fedda75b975034175e7f1db242d30cbf994bc5faf7525204e8752e48ccacbf9e",
+          "source_sha256": "f5e4c03118f4126fe53de6b28b92e4a5b1041e9d3d1d76e0ae9ca86d11bee08f"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "2ed553df6a99a7133b7acb8a43cc27ce8c5c28e7735e15dc4f84399494d35f28",
-          "source_sha256": "2bbcbd02e6d1b63b32864ecc8fbb2a4de1058631e4e4c8d9988f7711abd831ca"
+          "pages": 3,
+          "sha256": "7f9604af97e05c2a1f450c09c588efbee3316d9d43aaa561b34d10417023bcd2",
+          "source_sha256": "88e1e4fa89d7862c8f3f439becbd2fb852a9852bb6fc144cbe2618d6f39b442a"
         }
       }
     },
@@ -1820,19 +1820,19 @@
       "directory": "6/090",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "4ca3bf8a653ecdd4ddaf03f7a49f56c3bb8b03ca3770e9ff934345ffa01173b7",
-          "source_sha256": "c6f437cefacacb0e1b9a5911b6700656feb6e6c422daad720d321a84c8a0ff50"
+          "pages": 3,
+          "sha256": "0b901ed54fe0ab1b180afeb15e49428c13eab154b6a2329f6e87896eb8a51480",
+          "source_sha256": "bc51092b7c2d75f9662db0bcbc161379e7a226bcd170080276da15688ba4c36c"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "d773cb9480f1d59bea0a251652edacc4133b08059217ccdd569cc08172ba0a52",
-          "source_sha256": "9de5c99c985ae017b8aeb4964e30c254f7a0c48248d1afaf4f768f7b4d2b3957"
+          "pages": 8,
+          "sha256": "e630a52aae373b6c2e523627067a336b212f9b60db8c8a5e058ab3a9b3f8755b",
+          "source_sha256": "a5e272597892c92ee2f7157f32a6b2cd7c848aa9217c4816f0bdcb7936915d53"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "cc5bbf3c9e8df391adb8f94633765818088c8414fd1cf539dfef63b1c641f85a",
-          "source_sha256": "4e282910abac168a34c16712b347c1d98587b2a8bf4e6401e9d19a09b8cb66f7"
+          "pages": 3,
+          "sha256": "8ef5891cc089a912cf82b5230269ed49d92143466f0dfa003413d6ade36d1703",
+          "source_sha256": "5b528697138e928f612c13959455cb12d2a2e2ce13a6630720926c7801a9e025"
         }
       }
     },
@@ -1841,18 +1841,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "032986c2d6fb6aeed9c8c92a5fabdb2e02b14276023d61338f21d267b56b44c7",
-          "source_sha256": "4928e29b78395f0875b84cb371a480bfed2397255ef0c2ba03dc4d7cfce37fbe"
+          "sha256": "715d9a256ec529afde3e6aa7b9e939370f651c0287456b669586f4a34e2368a5",
+          "source_sha256": "9a9c93f4408a3bb5203303d37a6ab8f8456bb36ae179f0d2feeeb33530c65660"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "964006c9e6fdbb474056e912cd2c2e3c2997ad3ded2b5f10c4aa758b4a96e91b",
-          "source_sha256": "5f39fbf85164484844128214b85ff5f995e95c2b92125801927592156fff98c8"
+          "pages": 8,
+          "sha256": "2880a0325afdfee77d620b54cb007dea1504fbb0ff28fcfe7732045a2e42cacc",
+          "source_sha256": "01e801b5524b1fe353b49f569a16a3c7cdd1e0f4cb14a124e1fe5e7d9434332b"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "27ab6342a8e55275adb131a32fb956acfcfbe01d71a38273365e23317eb9e70a",
-          "source_sha256": "d6be80edfc935130abf51ca59c4e736912f6a9a31f185119160d93456b921de6"
+          "pages": 3,
+          "sha256": "09cc396c552b60e501f6e23cd01619618734eb59887c216f6615df176daf75bf",
+          "source_sha256": "925df1f2eda83d80f609adc59e73ac0237d2add795a8415c3ddb3d20f31594ee"
         }
       }
     },
@@ -1860,19 +1860,19 @@
       "directory": "6/092",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "b933b18a50081be775b1f0af86ba1ec6977e1dc47c28f59b6fdbcc52f7d64a82",
-          "source_sha256": "8e74a40507dbc7b63d493c5eb523a668591a4f079c9bba4da9942dd0bcc278f7"
+          "pages": 3,
+          "sha256": "1e3bd70bdb99ec080e531460bc274d9deeb792550fa424b2515d28770a9552ff",
+          "source_sha256": "35d3ae0d287074a115d639a9627cc98c5d76b07da036964b7608bed4a98d333b"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "27a153cb535cb0ff1f38a5d1f523332317a113471a1c37e08eda9c1b52169058",
-          "source_sha256": "8ecd2d893b446841f734d3a4b37091917b48518fe612e477cc1579df77ec0c55"
+          "sha256": "030e359d100cc6a111a112ea4cccc96010836e4abc961a8c65905b01fc70ab4a",
+          "source_sha256": "17225f4698ba71754144d6048089a96c89ea63879c8ce7be02a75c45adb8bb7b"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "4eeab8a3cb1b80546d82c521a46010400e44cbf7a5952334b4d3286f8a1e6e27",
-          "source_sha256": "bbfd646d25107d2db5e56e0bf471180543d5c5affb196da8859adf399f8fa5c9"
+          "pages": 3,
+          "sha256": "5551dc42fcfc18a1e806874e2c965b73606b59c7427eed07088f39ba33d97746",
+          "source_sha256": "3bd4f2ae1b72872a462ea27e97a06b9f3e7cbb923cb5eefeb799c949ae6a1255"
         }
       }
     },
@@ -1881,18 +1881,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "87a83918b7576d5e2f3ba6e8668310d78da14231445bef71eba2df035cdff882",
-          "source_sha256": "4568c76d79bc173233232f4994d4c08409c808d7c71930c61ce22b322a1524e5"
+          "sha256": "185603a93ce9e76ff92c3e23f9cfd2fe49fb92e0b7cdd9ede87fbd1db48d90f1",
+          "source_sha256": "e05778c30b5266d3a86ee0504f59589c80d5fe30d1dc0c2dcf478433cfc9f308"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "e9f2c60b021148d11a002df9542eb47ed3933952da7f382c0fcfad5d723f800f",
-          "source_sha256": "c736d490476882038f2b824e873c6dfd6ba7f5fc0a7e6923fea78c59207de780"
+          "sha256": "16af260de54c2e05e413c8212d91aaf62ea5c137ae1fb3df792b058dd4f8603c",
+          "source_sha256": "6d9a2cdf5907b6e456afa0fff50e92e3138070c7f5643b8376c82be00da99bf4"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "dcd43f4322dfd44ac557ee1918c665567638049a49154d6ceea8d7fcbb2f262e",
-          "source_sha256": "75f6e392419a268d428a323f1ca9950602e70095d4e3032c37f1561f4285a2e9"
+          "pages": 3,
+          "sha256": "2728c30f1c65a97775a0d0822ce3bfe062f0a8f12710328575cd5750ea61cdb3",
+          "source_sha256": "981c880adb07a149f5037aff17c9f68d6dc867274244d638e856589eb8c9cd76"
         }
       }
     },
@@ -1900,19 +1900,19 @@
       "directory": "6/094",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "45971508835c0a279ba3a9dd17a4ca1120d9dd87632f0db44040c0dd7727fb56",
-          "source_sha256": "da2a90f5e5e76647f19301a53f55375384c626bd9faf9ef44bff272b98811a85"
+          "pages": 3,
+          "sha256": "d3f7b9988c7c4f48598d37b7e4d924601d2e2122b17e16d96e0cda289cdfcf0e",
+          "source_sha256": "912c2f61635f7a9fc3e386fffd464966539b6203ca45b00c4c00dfe7b84b285a"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "959381f4c47693775c90c8a80665612f0539a53e191c8eff537da9e96f3d6bdd",
-          "source_sha256": "72ce211287d25ba8224b6099f8fc9ba1981aed443566c18e676a88b6587392cf"
+          "sha256": "7a931005d0aec97c1e550bcb796d9b78a4b9152f806efe84565ad0ea2dfa8d79",
+          "source_sha256": "ecf84612598c5cec867c308f0ed46abdb1b2195443aa4a9396cd5dcd21bcf936"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "256f2dead997002eeff9dc166e2a35470992f730a648fedd456a4bd49be8e24b",
-          "source_sha256": "882efe861a9fd57aa7939020f4bf2e6c8abc1059b801cf7f7868cb4308f57a65"
+          "pages": 3,
+          "sha256": "d984d43021fac66ef42241c98ae240d6552fe059c5148d25cf342158fdc1cf09",
+          "source_sha256": "deb29634daab6023aa434d10c22708464735059a87a9474193ccd81a8be913cd"
         }
       }
     },
@@ -1921,18 +1921,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "46d73c26d2aaf442198c7c92543c393fb52af2838919c80b6c02d42771830bd1",
-          "source_sha256": "49e5f7b2b74ea02e7475400f798724855a1266e7db6f54fc1486be5c3256e539"
+          "sha256": "9b09586961a5123198f827a163b3fed2bffe6b22c08eb826fd894e855b8d9f4e",
+          "source_sha256": "4444c5c93dd845a60d2e16222867906e7d18b8df1586e84555b6e164c961d982"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "46f047191bbb5629befc193b4468978fd629b87a8e44e07c72f1fff86565cf50",
-          "source_sha256": "9a10b8cf7d8abc7e1d311eb6f4d6761bf56f11f85fd8db56301b4641abe5e4a3"
+          "sha256": "7bd4dd55bbcc749caec51f34623da24a279fb7f98bab548177d0eb1321d6d77d",
+          "source_sha256": "a7ec58be8a360b2072375cbe4c7b15801d8b7269c423dbd13fe5b96a684b42c1"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "e942e53ee0148e7b09358b65087ca2514b4fc22c2e1c6700765fa6e683c1ddb0",
-          "source_sha256": "0bcae354eac0e01f2123aee64de42697f7acb08a8bf56a7ea5bd37b60eae09b1"
+          "pages": 3,
+          "sha256": "7daae953cdad87526fac49e057a7683904e8284c60c128e9ff01a62b9a603fd2",
+          "source_sha256": "10e0c63f620b559580a290039d6014831eaebfed1b43fb87933b65ee2477913f"
         }
       }
     },
@@ -1940,19 +1940,19 @@
       "directory": "6/096",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "d685ddb9b8d48634d265ce5eb56f81311386b8e8b34aff2f63900d91de956a6a",
-          "source_sha256": "ed9df8a9860b678a92d78ba9636a1fa51493c5171c42a8fa6428ff77e6c99ef1"
+          "pages": 3,
+          "sha256": "fb66b6e66c377cc5d25ab5b9a15c11e89e964a7a61a12b575699cef37019c9a7",
+          "source_sha256": "3d6e56da198e2cfecf6057d4d63cd7346e523b6c6f9c516e091b27bd038f9f82"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "7d753df9eba54575f34b1df52e4643c316ade43d696806fc36a0ecaa60c09e11",
-          "source_sha256": "f56fc2c57e17f6029fe92d9ef3465106c8bcfcd3ef0560ca0e0279f4cf8457af"
+          "sha256": "9ac6c3c66a534051224f0a1ddf3a38d2de3c84e9b37ad2470e1b696018c08ce2",
+          "source_sha256": "91cf656515e2bf189e62898cbd5f26200ddf332d89abc2c438576aade0b05ad9"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "a83bda1954e46c5ee34eef81f1e8d3781cabeeace6c8db44afb298b6f4577476",
-          "source_sha256": "d9d36c8c05e4aa323e42057adaae4f10a6932e568d285550f636556bb2b8bc96"
+          "pages": 3,
+          "sha256": "9e836a1280e551452fe3736703b79c15684d0bfe6f00f1971d270d519dff14ca",
+          "source_sha256": "5e2ce9d43f034a48f523bf3a24f577fc5cdedea34b4324b9db6b05ea210f20f6"
         }
       }
     },
@@ -1961,18 +1961,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "08cb3c422e3cc98ac1e0f9b94d9a88a7c84cc6013972ecbf26218008ece35426",
-          "source_sha256": "cf4e933eb8318f5a038abb6f3387a828e12dd7eaad6149244923150afb4c971a"
+          "sha256": "0df52a121a67cdc2e4110a5cbb4b1087266c630ed18d9f197480ae441964e6a0",
+          "source_sha256": "e9cde8a8cba244d27c578285783be691273ae35d524f78247d5397516001c822"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "cf53c934ba847163fe3a28ce48aed9a6f4bcec78b6ef71f0ac9db30d3854616c",
-          "source_sha256": "819a8434706b11e51324dcfb89de8a1d310e1233cd720bd03b6be44810d583e8"
+          "sha256": "c1ded3ea57c5e8fb6d3e5b09b4b825ccbb0953d2a6fcef57593879ea8f64a95b",
+          "source_sha256": "6143fef9dce6a22b3ccb9f360700ca704cac66c72755026b604a2ef18fa77cee"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "d94d1932c598b070bed7fe995bbd049582792446cc24108d67519fc077c3d740",
-          "source_sha256": "fd3528c6c5613f6faa8fead34544705422255a32e9ad087adda98ddc0d0b55ec"
+          "pages": 3,
+          "sha256": "26f05f4250f6de4ea7df4d5d84ab3f5298f9f507f1130256ff590e9e27dbd943",
+          "source_sha256": "dea9dd85dd73c476edb5b08383de114b16ca81b4255c7d6114e1572878661b42"
         }
       }
     },
@@ -1981,18 +1981,18 @@
       "files": {
         "handout.pdf": {
           "pages": 3,
-          "sha256": "1860ced954b688ba537407b307058d3d2c194159cad6cd2dd4359fe0b67a80fc",
-          "source_sha256": "c98d667bf2d897f0f11a286316e65fd15bb956c66436a243db27c63d26551788"
+          "sha256": "c8e6700821d25b72c997cfc5cad37f460311da3359e3655e6c459d6d21359d1c",
+          "source_sha256": "38d2b7900542f0962203b53b4ccba048952b02e7677e4588ef2db2f559296da9"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "62b27f55967dff8e9feae7f323474a9f4d65bc906639672dccdb9f68151e2526",
-          "source_sha256": "7d2c75e90f2dd553074bf68526adf42c175afd75babecc3f42f734b10bc5f14e"
+          "pages": 8,
+          "sha256": "5d27851bf1a1569e3939eb5e3fd321b74caacff09d416c0eacde6b40ca628efe",
+          "source_sha256": "1210fc9e96edf312bfa141977dfa10eee417e29d3a826d9980507f08c5be0330"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "da6312a49096f5dd6ce30c283b9bf317a99723375e679fcb687f547c93ced92f",
-          "source_sha256": "941bc1c56786be169a00077793622a89634d77af9c0fa209fdd666decf4936fb"
+          "pages": 3,
+          "sha256": "8934849906bcf45c6dc93c3b673405523b5a2faa40a3715ffbc03f425c6a6afd",
+          "source_sha256": "bce9c10cee51dbaa8fe206761b17a1baba9797710dd3691a21c96aca232fef25"
         }
       }
     },
@@ -2000,19 +2000,19 @@
       "directory": "6/099",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "7bb67be9eccc89ca552b6de4c8cb4c687d09e919d60e5d5f7900c2690934fd98",
-          "source_sha256": "2a798163328c74afc1202f6e754ea0eeea715a8c3b8c8420bdf2aec3e7548ece"
+          "pages": 3,
+          "sha256": "c5f0e2730047cd8d2a613d6fbff493f2173c3b0d61d3fcaeba3787f1133a83fd",
+          "source_sha256": "ed11c334e1d72b5b1bbc07538301473b116c10854a27227aa7352097197c12b7"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "870ed8d5d6233edeed630ad5fcef1a783e3f94a8e92dd0083a31b1055f6ee9c3",
-          "source_sha256": "2ff7305ee5457976cb8553db47cef6f8c582650afab64b5d2110e19c96255a25"
+          "pages": 8,
+          "sha256": "73d85d5bfae30196cc824f412bc873406c1a6573f612c8df0619df9a66378e3d",
+          "source_sha256": "27ed0afabc7de9a7b07c5aa3e8ce6841a989e3f30bb3b3a3ce135982d15971b4"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "814cf2ec30646c34a374c6ef3ad51f118b24c26e8880cd1a4854caca3a36b8e9",
-          "source_sha256": "2e5e51ac43ca5e9289aefce9a2c99ee9d79ffbdf5f642a8b8c6b43eaf853cd63"
+          "pages": 3,
+          "sha256": "665ef5dfedb3ffffe8f3b5844c605b592a416af725e4074fe31e26d01e0e28c5",
+          "source_sha256": "8454774e56c1acf8e580f52c9d2ce62b365bc27c79f14fef635ff7631bd46938"
         }
       }
     },
@@ -2020,19 +2020,19 @@
       "directory": "6/100",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "53948a23fbb1240fd1b2b780a41b77229d5786610a5392fc0f8cb7e760f01acc",
-          "source_sha256": "f5b10844d30faad94f52d4225c8613c3dd38f80d4df29b1750722ac4a59577bd"
+          "pages": 3,
+          "sha256": "a016d299d3a52b919e41013811f88315761b73488046d14aa71e463dbc6aab51",
+          "source_sha256": "6e84114a3277e2dfc576ef8122b7e31c6bb0200ff6fbf0f1c74b380737e2fc6a"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "2cd77e0dad057fa0491814b15de929e640723763973ced5b8d02d1ac49c9ea69",
-          "source_sha256": "ed74eae5bb79c9f51b32bfbb1c1a06ceac5954560efd2058487ab5b5b5e67517"
+          "sha256": "04aba97ae6d109982ef67fc8c18ddd858f4fbf51ebc1bde5691fc9e1338c5070",
+          "source_sha256": "ee218673a05d13c71d053a60dfb97816581ba1370efbb4402fc88cb0aa46ce22"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "b33b7c7e7e16ab146ace3ae86b7280d4d1f351f838dd774cba36b35afc9ea1e7",
-          "source_sha256": "25f33554730e9d5c8bd17affc30a27d8068b9cabf2204a0d269633b7d900e69e"
+          "pages": 3,
+          "sha256": "7f4be1fec43a4a5383c6fa0b97f27855fc1f7e0cbe289fe52b9a64fd2aedd6b9",
+          "source_sha256": "fa5f6c14c97d46d20732cd9060cddff30d230095a3d24bdda4c95d24fc3f5260"
         }
       }
     },
@@ -2040,19 +2040,19 @@
       "directory": "6/101",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "04a27b7aabed9ac1aa41bd8c1cb8ac5ac128910ddfb06acc8bffe6f53e049f1c",
-          "source_sha256": "ea03bbb4023c62867cc0240f06982ce335b6a4a48afc9ce3574f66321c48d07d"
+          "pages": 3,
+          "sha256": "65377f23cc461b93c8f1071d884c2257a3b095a461e3d1cade4954d27e967255",
+          "source_sha256": "cff7162a398f8d959ea86cf71e3aa82d14190ca993a9617684f073ddb9c6f0f2"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "5e6233c1b494f81f57522fe08578e9b15ea2314ab5c519331a0604eb5157e20d",
-          "source_sha256": "8cdba8c0b2638f8a6146f5427bad41098bfdb7af5b49ad673cdc90a6d08d6cfa"
+          "pages": 8,
+          "sha256": "15324dd87ef471df258e435ab673eee97bd41966f6274c9e9608c1b6464bb7cb",
+          "source_sha256": "2867143a1aa48897d1de23e0b3f813a3f5f46d47561c7f8caf248c7ad3fba089"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "fdacdf14e265c6e22cbd65fda9f14cf310b688893c14f870315e6f8d9e46401a",
-          "source_sha256": "5077a1ac8e04861ebb70121e26ec7787b841dead3322457483b6391cfa4d9499"
+          "pages": 3,
+          "sha256": "fb9c36aa7009541a94467fc7b35ef1e074c08e79128e6c1e5908398283def030",
+          "source_sha256": "2a129e15a66fab1e64f6caca7f68030d9d825acf714f2c6acfe8288f310b7615"
         }
       }
     },
@@ -2061,18 +2061,18 @@
       "files": {
         "handout.pdf": {
           "pages": 3,
-          "sha256": "9c6ee617060e729caf15bffe3ee4537f765c44bf2e2fa2e0f0b16307b0ec3e1b",
-          "source_sha256": "333f1080657264e029ea87b21dbd2d163b27452aa9b3f815397ce567c4af8e52"
+          "sha256": "117b4a6670df19728d3c909c59ccc131fa4ddaaf5a321a073113bd6514788a36",
+          "source_sha256": "ecc15ab231216a48a77c604571af57b794031afaaed2fc25c59f25bd04c7bd77"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "5157d7bcf8ef5fc4a8512b299f5560f8eca78b9134ae53213d54a1aaef501f87",
-          "source_sha256": "9cf7419898783dad488f1641fe8ee23985509622401a041bdcb0ec4361166ff2"
+          "pages": 8,
+          "sha256": "9da1e378e6bc2a305e450c98b02788ee8fe012d73f5f6a20ac306e2a500430a7",
+          "source_sha256": "e99c631c198c38d6bdb534452b0fd1cc1d1d848a82c3436318c4b9a2e98b0932"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "ce6a8243fcff17c0116d4fb34ffdf7704adc2c28a6e12f07cb9eaa281eb778ed",
-          "source_sha256": "c6d79442c98c7dbef3881229f23c27eb7036dd3ffc5a74fcb85fe9fcaf5dd8f4"
+          "pages": 3,
+          "sha256": "9c09264945e7ad9386fbaa408eeaaf19e7ad6d4710031fb056161b51f7def6ac",
+          "source_sha256": "b0c93352b4dd1a168736d6f49968e470b844211b0723ef174d7b59d4f49c270a"
         }
       }
     },
@@ -2080,19 +2080,19 @@
       "directory": "6/103",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "5cc1af522371a9c7c28beb25e3818553a0dec9d23f944adc140014e3ed6d3ffa",
-          "source_sha256": "daf2f2d515dbda9a6587e385591860f25f3b1f2bc218d987b719a6f7cfeaa747"
+          "pages": 3,
+          "sha256": "b236f164b00b68ed81ba067bacf9ee6cf285300af12bfe24b9da97514215155e",
+          "source_sha256": "5b2fa9bc735f8ec0cfe8ebb542bfbd9a51e35a64286afe930eb34fdf0cc92360"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "e4759657d6003848bafe3637741f17da82cb651806f7a6eb58a968840fd18f66",
-          "source_sha256": "0b7f39f7ecd5caa725859fa1b7e3ba9a83c1e6fb30e7ed135de046828b885b5d"
+          "pages": 8,
+          "sha256": "603074415d4505aceb8cb39ed0d526af1b2c2b5030e4e8345c0775d8124d5e67",
+          "source_sha256": "0a07f5d7bde982e3eb89665e9c3ad92fb3bd389b07ea598aaffe6027872e0b2e"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "9faae63dcfd8d8553f2fc23c7748647a37a812b9350e8165f06a8d7d92beae76",
-          "source_sha256": "626d8189d9fcdad787a02b0ea55bdef416b036a8dd7c517d3dd2eee8bbbf131b"
+          "pages": 3,
+          "sha256": "8649cf80f96d48eb12e485b05c317a6959e512065394452e13e389321ad96cf7",
+          "source_sha256": "cd7abb84d5aa63b37080ffde5c826b11ba4b9a8b335126a9cb82c5c4fc3c449e"
         }
       }
     },
@@ -2100,19 +2100,19 @@
       "directory": "6/104",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "dff2ba9a7d7283cbe17c44e1f955a5ac2bd51cbcb7546bf2139d2d05f0437423",
-          "source_sha256": "f3967c3b26723cb8da65d0ce8c40551da00b050db890d0b09b66c0c5d7d11129"
+          "pages": 3,
+          "sha256": "3f69387d520dd1f141cfc416890996ba7f9a7fcf6db9192d7607a8835dbeeece",
+          "source_sha256": "ae77ba101a5f2ca5cd08f7ee7760f64d2a7c38f99ab153995d654322ce8818b1"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "bc7b6b2208229827f5af85c0fd3ca7443c22755d9a4b4dc6e270426c2cdbca81",
-          "source_sha256": "a618c1e236a0217bb3fe6bdd6912797267d5b38ae442c19dc053c6a3059e94d4"
+          "pages": 8,
+          "sha256": "c43154b8c363dfce47d618ef67d4d4e5cc4e84acdd8bb4c93d2a562dfc1be735",
+          "source_sha256": "1a1327552ac764a9bfaad218b39600b5ea16fe83e13b52985e3809b5653bc3d0"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "eada0bb7008cb7658015c36ae53067e801bd782e07ab049956fc7cb4a0e052c2",
-          "source_sha256": "164ecbbe6f3b5f3292d064a618eda6443773955a70c830081a72be6e41079b82"
+          "pages": 3,
+          "sha256": "30e166d13c8662c84f65b4ed3c542d6b102fa56fe0a51268af555af2ec31c717",
+          "source_sha256": "4c16874b70c609030abcdbc62899108d088b5c9e03185aed2c8da016a97f0633"
         }
       }
     },
@@ -2120,19 +2120,19 @@
       "directory": "6/105",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "a6c1e6a096a7f444b8ce7eed2da38b9378e425c24ce5dd8caa658fb70c86dcfd",
-          "source_sha256": "0011a1dcfc1768aeae0993466aa4cfa9ff389706c5d900a785b32b0051049c86"
+          "pages": 3,
+          "sha256": "2fe961d3716e501fbebfd6871b5c92560fd9958f8a2aaece84083d8012aa772e",
+          "source_sha256": "b7f3c6178806bd5237050c74fcab3f66767ec1548e09dcc109f717cd4ae0048c"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "9508b275c4a50909443137d1e675a6be1cfb75b3db28054256ee31314e82d8ca",
-          "source_sha256": "756415f8a62cbb25a7a3c465448ae66f3a7a4121adfb5dcb500c93bb0bae0be7"
+          "sha256": "6a4a8cea49191313b736c48c7c7397cfcadd35e88df0dfd97aa95e2230008514",
+          "source_sha256": "1aae843f41402041e1dfc4f087652df8458baf2a8925738e24b466ee0155017b"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "f901ae68f90394450783c0afba6c48e15481239c36d99512f74084ace31b4c52",
-          "source_sha256": "c739cbd4f8c661c21da30982a4b51b3b5d45723183c2a5cfd48932d3a9cd09cc"
+          "pages": 3,
+          "sha256": "434daf00253fbec1dfb5c653c32e835453040ed6366ddf8b6e4d4e5c5dd1d4f6",
+          "source_sha256": "88013ea856bfe5a7101b7e431f541197cb6af561826dbce807e5166b1954da09"
         }
       }
     },
@@ -2141,18 +2141,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "2c2a3b3671c435418c35abd88cc4a59458d49caf12cef3e2aea618770d2e52ce",
-          "source_sha256": "731f474cd3b78a7922f008fbc080eb118a305e7e696f50dbf33bba66bbfaa4ea"
+          "sha256": "2e4e09d5e0abbcfad5e2f80cb22759d63f7a6a5342254ec94c112776057c20fb",
+          "source_sha256": "45cb18829608a19ec3cf1ad14aa5a0dbc20925765e257b28406014d031f080c5"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "93a48f8b5932ccef82a173f17629b004a0af2ed16f95cfa9bc83015b5a39f8e1",
-          "source_sha256": "9d59ed6ee1ca7801ff9e602a76b9f48fc7f0de6f56177ee366a983843516296f"
+          "sha256": "d664549622050ad81bdfcba31dea067e98625102aff3a403d18ed259ba554363",
+          "source_sha256": "21179c73224652d840d0183f950c08ec5c4e9d36aafa89474b2af6208e059a8c"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "9f24ce1f70d75d52080d9bdc92be9ccf0e4cfbf533d8186e6348db073eab6d07",
-          "source_sha256": "aacbbe145000ac0cb86a86af242524c4816f47dedd42dcd9a0eb3109e1b5ef87"
+          "pages": 3,
+          "sha256": "04148603541ee9ff09796543ef874b4c2c7009b3ac78f02315addc4b44368bf7",
+          "source_sha256": "0199420c35fdd8aaffa2b681d986c1accf773a9729bf556d8710965db501cd81"
         }
       }
     },
@@ -2160,19 +2160,19 @@
       "directory": "6/107",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "9d9774bfbcc345ecbfb10ee366aff6a96211d4b364c7a933d9f91c6f703f2e87",
-          "source_sha256": "8b95aed9a607a544f17a7b957d26795cf66887ec0f9576c507878992b6b3b6c6"
+          "pages": 3,
+          "sha256": "5f37dc9ac05ceb8f55ed6bdec910922ffe6b2f95d4bd67bec2d146adb60de407",
+          "source_sha256": "ecaa4559fbe457668287371c3dfd9b0265a52ab664ea220df6869eb604cd61cf"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "1eca7c1b166e28838e9a49dab3f44d3c6a5be012ae718c94ea678396fab5346e",
-          "source_sha256": "01117753d8f729e4b4cf158d92a798f34b6d0c8057870683f0a0c36acbd75213"
+          "pages": 8,
+          "sha256": "5c92e740dbcd395f441740d558726a11235eb9ac0ed0ec8302569b0737e30366",
+          "source_sha256": "d538d3482207ec6cbe0eaada4e2d31536a08dcc7597cfc08d36d681ea7c4e16c"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "5f269bb678331bd1e21315a117debde2631d8cf1808891fd577f89255ca20ae8",
-          "source_sha256": "c45fb94dcf35e37ce8305b9ab2e8f524161fd5860e323c0401de733ab3d54dbc"
+          "pages": 3,
+          "sha256": "4081378ffeb31129810fa39c954c1818682a7f6b60427e7f085b0113a83f3fab",
+          "source_sha256": "c815a187b2a6ebf6ffe12e0bb95070d22a7e7908e96ae53f5520fd4c32f80c18"
         }
       }
     },
@@ -2181,18 +2181,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "fb935b47d90e3fe9b798bb7249ea41df6ad6a0e9568ad70e5f1385508a24ea2b",
-          "source_sha256": "ea98d8ff22c58a3963720cf94e020404ac20bd2809bfcad45f90e0fe9afe27dc"
+          "sha256": "f915ef5454dd7f0a70fa5f8dda0830c5d606fc0e4ca777e2305f73be5407d0b2",
+          "source_sha256": "36e805fa656646746cd986e9e16655b27a74775e76d14d4c89e561d3b3ddb8c1"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "2d48f1ba3d7e20762b88b5dc50f7429eac9003f52c8418c1a500ca51d40a3d90",
-          "source_sha256": "1d11a72627db58d3b5f417d21fef3d3e3ad189117112dcc5c9cd4941d77cf90c"
+          "pages": 8,
+          "sha256": "9840e389410c9e53445acf38cd842fe7c27ae82ec8b3123bc1dd578bfcfe1e1d",
+          "source_sha256": "16c4618d0037ac642e5b588b770116e104f54d8c1c719a16432135af90bbbe6f"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "3573b153d4c367339f3cfe7238be8e9e3ef887b3e2a66c91fab9e57c26c4e15b",
-          "source_sha256": "7f1ae9e8112fac64b055b3332a27be542a5f9e268db3b6583d8c94c8641a62b9"
+          "pages": 3,
+          "sha256": "1c69c1cb92b443ea9b8cf16c8842cb81c09fd0625ebe0e2d53b4ecc51806d435",
+          "source_sha256": "bbbe72699e323e7a0fcaf964fc9bfcab225d9768e87563a1e060070814aca050"
         }
       }
     },
@@ -2200,19 +2200,19 @@
       "directory": "6/109",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "f8655c7eee9b20473180b2c79e8e3fe1baf2f537267918ae54a2060a9406743f",
-          "source_sha256": "0095ff16d7f43924362c4e8e845a00b07a2250bfd1f147381dad246a9042d239"
+          "pages": 3,
+          "sha256": "29a530527113cb0700210863b9cab97093d2056dc68cb3fddfa67ccb4ad514af",
+          "source_sha256": "195ecd01cc55026a1f1cc4e2cf5b4264c61ea825c85f06bca55124ce5ca4e590"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "3c2d735b0b480bbb232f93ec2ae1caf551c055ec0983ed881145b4d36eed4b9f",
-          "source_sha256": "864d2e2d60fefefc7a6269743180bf183b28b3b2ff1a1b2c76edbfdeb0fc5095"
+          "sha256": "805c20089115547e7d771abc997c1c0b216583d95bebf5d2741423500eab1641",
+          "source_sha256": "bf0dc5453511347a16188963b4a94769e1315473b72bbc20802c6e09ccb0ef96"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "49212e17c35b17e6d58c4f45317f671b2859fec8bd3c6564cfe7cd7086d482cd",
-          "source_sha256": "e9e52dda78fd4815d266efb3f440beab9c641f901b7ead00132d530510df6758"
+          "pages": 3,
+          "sha256": "8371c501c5c774d6c9b105b07e1376e8b2c898d5beb74569845da29fac5f2bf6",
+          "source_sha256": "7532b725c7251a52381f8b7720272d8d60ec53bffcb67162bcecc2fe0eb3b5e7"
         }
       }
     },
@@ -2221,18 +2221,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "f0b77854a9d99e5508a6af770c8d2df00c8c3e1379cbb7e965b304d487b660af",
-          "source_sha256": "32be26682a6cec44425b3ae16b320c2b12385e87e2a398b7d58434ef3082da48"
+          "sha256": "724fc7ea1e03d4ae9c5f97e89bd682588113d344031710e22ca3a3d13c628f7c",
+          "source_sha256": "fadd5992793e81c0ec3a4d58748632643d32819baff7b2687c38072cf5b57a41"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "f0455715c5e3f4bab31fcd748b52f542f669707b4007ec7260bf90e1acf73db0",
-          "source_sha256": "bc9cdccd358f8e23fce781cb34603f61ab9bd31d60c5dd1dff6570efdd558883"
+          "sha256": "c3f82ba49e9d943ba6f63bb56abe7fa5e2a18db37731f16c4fa32a0457b5590d",
+          "source_sha256": "2fb4bcd7e5749c621d27c4a10fa1bb4526298781701632d00c1a4e3a1167c4c7"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "b1ff6b8c39ca99c1374d9d637aaf21bd69b05665e5bc24248e0fb0d4291bf904",
-          "source_sha256": "9e31d8bb0e0aaca120edb21e82e8a3b39c6dc09d518cc0bbe1224b7b9de56c84"
+          "pages": 3,
+          "sha256": "57214c2fb8f5e16f25db64b858b6ac24d728328aea8c30757d4793e53ae19f24",
+          "source_sha256": "67858c0c7adc6f72cf89f8840a4eece71fd9172534eb1f4650cc87442414e980"
         }
       }
     },
@@ -2240,19 +2240,19 @@
       "directory": "6/111",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "eb7d1051e63b390b2ed79d52f3d5ebde1360352f4422831b1c6decc70295be92",
-          "source_sha256": "1418fce2a0a1d25e203ed92b9ea5e926edd155eaf41d391115c0405ee73878f9"
+          "pages": 3,
+          "sha256": "80d8842e186fb647454a83b39cb93efe784c48ad290e11f15100a9f233c717f0",
+          "source_sha256": "d90b89f89d2d992a1f10c4c2ed32d648af432e098e94de5042b031bc92b0ec67"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "ae60b1069679b4bc7f688a53ab5c345e617246bc93cdc52e693a65eb753bdf33",
-          "source_sha256": "4a78a3c40362aee4aa37449f699c531f6531a0ee825e86760808bd117a240ef7"
+          "pages": 8,
+          "sha256": "264b23fb0406f1e35cc3163b0eb8282321599020b13d73dd985b8b244907cdf8",
+          "source_sha256": "454c12f02c228e6794d2d736ee67df4af5b31032b976c6fa06d5b9c1369d44ae"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "0a6ea0feaa728bef78867828a578ab0dc343f4923148b2a6248620c50c756842",
-          "source_sha256": "93eb5a3bcf64af0fe5afade3f5aec025bb631c199505b12d5b2cf245e8bd623a"
+          "pages": 3,
+          "sha256": "b449fa45dbe5c115fceec37c6ee829449c50570198dfac850efb7909a348245d",
+          "source_sha256": "5771870051ff864cf6a716edb6cd8769145332677b6819d38e0774a81c9235b9"
         }
       }
     },
@@ -2261,18 +2261,18 @@
       "files": {
         "handout.pdf": {
           "pages": 2,
-          "sha256": "77d98e1877d112e7e36e1c2b30f03b86fa45c9723b35ecb9a36a20b5f814b975",
-          "source_sha256": "af1854554b96f6d7b347419a1f563470f39cfccc05cd97b7dad99f9f5c327b10"
+          "sha256": "1f8b694b3a3e3caa2220edaab7f420e858405e23e29bf40f64b29e0fef0c068c",
+          "source_sha256": "a3639f9f2d594ee6b062233718c93c32accda290348ce887ed570ef9bf5cbeae"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "c1d4ae92bded3f393ad9dd0a22c2c24df17ac44e13bef082ee4a0d17844d08f6",
-          "source_sha256": "375f851c20871ef7e2065a3816b12d3b6127cc058c6b2ea4c03ec80af5d13ead"
+          "pages": 8,
+          "sha256": "200b4ae092dfb9b7dee83438af826a306aa640a027a8283a54f3652a5b31fc29",
+          "source_sha256": "48d5b8e9505e2cea6d3b0451dbfae45e2937152629f9824300f427521a0e5ab0"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "fa36fb48ecbfb738b5647a49f0ee7fc98bc17a910a785204dc6dfc17d13f850c",
-          "source_sha256": "5ebc75a56bec855d17c1c577bd2640ad4b681577c65ec7ca02112eb72a434dcb"
+          "pages": 3,
+          "sha256": "f4b296db87e17a0de092a3de7cf79368cad54147513497918678b3419aebb190",
+          "source_sha256": "aa57fb02a67b5ea2ad8366bc161a00d3c058c1d9a6a55c5f90575a6b1695a824"
         }
       }
     },
@@ -2280,19 +2280,19 @@
       "directory": "6/113",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "20eda5a865b34e756b59d46d14b91d187341848dadeec0aef48a5e5e3dbacd98",
-          "source_sha256": "54a56c9cca04ff46f8335283096fb0e967c866619e667695be2a03132a1ceea8"
+          "pages": 3,
+          "sha256": "3cb2a98d8d94b89b7e134578760746abe0cf2aeea8d117da31392eb65ac0cca1",
+          "source_sha256": "eea38d1aa25f097350fa50a06e5e3eac3d8dc07fbb76460d3b79f446f2ef3d2a"
         },
         "teacher.pdf": {
           "pages": 7,
-          "sha256": "0b8a453e7bc935a022f6c060b7e467bec5895e80ad299fa73bef7856fa65942a",
-          "source_sha256": "f5032fd20156bfbc8fbd84e24b2db55a3f09e23fb6205fd348b70e987bd2d73b"
+          "sha256": "de1924b7841ee5fef977e3f7570f0b2904535211187cd320d8efd9f2ff34679a",
+          "source_sha256": "6fbe626454baf870d7710a03bb6028de4e5eb52a8d4613d078f65dd5dcd5e677"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "4a6ea4a282d1dec703fbb431d3e83dfea765b77d29ae30772a677eee10a3777b",
-          "source_sha256": "c49619d9511f56975246b6698a9a8ce0b3a00667a3766fda4ea89a515fd79545"
+          "pages": 3,
+          "sha256": "98456c3f74ab277470a4278a90e1f8ae3ca617f3f9fa3c766afbd7eed5b3ddf6",
+          "source_sha256": "41061322e774867ca680ac4cec881e6060a6cc07252be1280d4449f97ca6ea20"
         }
       }
     },
@@ -2300,19 +2300,19 @@
       "directory": "6/114",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "fd9d73dfe80b8a9438149fe1f06df004165c9dab201e9cb271043b4e3edd50f3",
-          "source_sha256": "a3874bcb4e825ae1b48502a8f3bedfac2bf0310ffc7477de0bee0a0e92d0a775"
+          "pages": 3,
+          "sha256": "cff2c51a163067863b0afe039618c918895f9bc61f6bccb07ecd188538b67098",
+          "source_sha256": "23b3f64b025bf617e4d10904012cc2cb2fd2824c0ded8736078bd4f6be97a54d"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "c06a490180c0c1cb744f4fe69ed3c9ff459d0f2d8e036c87c67acbc199b98b30",
-          "source_sha256": "1b9fa360338f6d1c5232c73846021f21cf3b5cab007a2887ad4a3da2408f3e4c"
+          "pages": 8,
+          "sha256": "2324dc8b05b8fe4efe6ae8ebe98e5abecec3406623ba3050fe898fbcfd38ecc1",
+          "source_sha256": "64050b7e043964bdf530b1a6a54d8a139349c7345e967e0142cf8d6c59b2f28b"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "0333c6cf77e4f23bc5e2361bf94a6b08f5f21cade8ce888d3430622b107de92e",
-          "source_sha256": "6fccffea9f059b712f384d89588d52900f072a5565882c81fe3db47b270f1863"
+          "pages": 3,
+          "sha256": "72dfae69397b4d55769ab2bedbe7b75ff043142007080897cff65a016a2dfaac",
+          "source_sha256": "fb15c557419e116b079fdf07f36b7a9c972093f114a507427c3d81fd3e9428d5"
         }
       }
     },
@@ -2325,9 +2325,9 @@
           "source_sha256": "41939c77c804508a82f4ac841dae10eb6555b4ff4926661f510068f8038087b7"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "d9dca89c443200b85dff29fb4f5cb32a5df43dca8687d9e4c17857c12d2eac01",
-          "source_sha256": "345d15dd875e8d626eefa60d39b3b4d91ec5a23a9c5c371b328af511ef15c72e"
+          "pages": 8,
+          "sha256": "d92878ecf0ad7cd1e15d5cb30737d4df846833af2bd751379def4b72056c1924",
+          "source_sha256": "adbb68de126437a6a4c750a0dee61a2c243fabfc8d726cce5de59b4bf491c228"
         },
         "recovery-handout.pdf": {
           "pages": 2,
@@ -2335,9 +2335,9 @@
           "source_sha256": "e3e7ac5c28d0eb62f1e04ead6f3542982f834f954acac90d92ab90eff5608933"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "f0afd6589f321d2ccf601ab767865d4c5dfd1d5e6eeb7450aa83ff45f7e786dc",
-          "source_sha256": "8273bf4da329262c2819eeb0da2e59ee8047dbff3ffbd0c3b50b0a7c6b451393"
+          "pages": 3,
+          "sha256": "ecb6bf30377b34bdb4a0b1df187e7e4ef63836e7234dcd17b2e7770cd4f9787f",
+          "source_sha256": "7a231468dc299e708d2ffaf05860f3ef589ce9b9a5124eb4cabc6a7fdc61c10e"
         }
       }
     },
@@ -2350,9 +2350,9 @@
           "source_sha256": "477cb6ed8135b01377ac6cb243c2f8275e1987f8156ea6f6c0144f4bada73409"
         },
         "teacher.pdf": {
-          "pages": 6,
-          "sha256": "10ed8b83f50b134166eef16a5e6f06face97d01e5cdf8712f5d11d8e6b9cc4b6",
-          "source_sha256": "9e31e61e30bc13bde31ba5b6cf0078180d8e240c6942abef9548c2f525e58e9d"
+          "pages": 7,
+          "sha256": "92f3ce801fd0f5bd717a06e20039cf9c7162942cac74f3dcc1d6b7d5d7279470",
+          "source_sha256": "d0cec2aea06c65653b4e39aee26b677c22ae30c8a083f5cff8cdd9976bc63f68"
         },
         "recovery-handout.pdf": {
           "pages": 1,
@@ -2360,9 +2360,9 @@
           "source_sha256": "be6bf2edcea3643e5f5ee615a7bf82eeebf442ecf6e717b26d26bf89c12f9aa3"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "7b7d061a2e23154c0cb4ebc81994c0618203d1febfa8eff4f01f9388d0118b30",
-          "source_sha256": "3a1c878aaa7321d03710ac064cba90bdf3b123a0509a0408d378eaf3124def3d"
+          "pages": 3,
+          "sha256": "d0fdad100dff223cb52f90e6f290cde8e40a7253db43d76c9865f6c2f865723d",
+          "source_sha256": "971b4dddb5a6140f2de29a3d6e6695c4d5faba052b89e61a4d8931dd31fffefe"
         }
       }
     },
@@ -2375,9 +2375,9 @@
           "source_sha256": "96044c75b0c1f26ca5e1a2e3493f9eb448e1682f1f24d52f063ca4fb459075c9"
         },
         "teacher.pdf": {
-          "pages": 6,
-          "sha256": "b9ece9288c4366052cd2837f982890d8f608d161a00dd43317cd79f1d8e444a6",
-          "source_sha256": "4ca877130938bae4c8a3c039461fcc131400b0686acb56beb8d3bcbdc3d7e4be"
+          "pages": 7,
+          "sha256": "fb918f7a03d3b8bf07547cf46339f8cdb7b044b97f322debc553776422174ee7",
+          "source_sha256": "40f323664fc57d2b39ff20b08ec45fe4f8bbd6496f38af526d7f780b316feffa"
         },
         "recovery-handout.pdf": {
           "pages": 1,
@@ -2385,9 +2385,9 @@
           "source_sha256": "b2ee1c3a6ce3ba9ece3579007b418b6e235c0322f8556145af8ac3276b3eac1a"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "f5bb6134f83858f8281b48ef5dea977cb434ee0ef6bb766faea78d18a7dc7e4d",
-          "source_sha256": "e252b18af32c9a53a2e0ee55df95cbe58b43f09e0b67fe851095109dad39583a"
+          "pages": 3,
+          "sha256": "ae8a1d70687da9d427c3883645732207f93a0d56f67a3b44d2a7bcc5456fd9f5",
+          "source_sha256": "d51df012272d9094b7b99e7d7b8f079904234758236448fb343dc6aa0d4e9745"
         }
       }
     },
@@ -2400,9 +2400,9 @@
           "source_sha256": "fe7cea87e8758afc2b302416e9f8bc5686157622cfa9e65fc0b14dc675e4b91f"
         },
         "teacher.pdf": {
-          "pages": 6,
-          "sha256": "a4072c907e5e685cb73615e440c9a49734313a4a740da08387d9d7f6c553233e",
-          "source_sha256": "0c642829b4dbc6d61ab33584e707712106422d50dc0b555a5a459c1ec947dd59"
+          "pages": 7,
+          "sha256": "7e615bc5ac41fe485b914440dc4f1f180e3e4442dd55233ac65a94896cd4e6e6",
+          "source_sha256": "0fd0b76ca50f8ffa354a787c903511c095c5453ab176f42d8c0b795f86ccc80d"
         },
         "recovery-handout.pdf": {
           "pages": 1,
@@ -2410,9 +2410,9 @@
           "source_sha256": "e862d702eea1c975298d234d9b085df9ed61030a68c93394e8cc790a717be62f"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "ee52e4dcce2812f706980a3d54c3a64cac6f52795eba50d2529a2934d36217c1",
-          "source_sha256": "099cfa62d472cc7ad2b471ededed17f1a93662edf3b8e2a127ecdcd5a92b8b82"
+          "pages": 3,
+          "sha256": "8fdba6291325ae23148c6aa191a2f2042fccb93be8d2a25038101599b2c5280e",
+          "source_sha256": "115eb17c7a7b9a807392c3913320a76b5145fd45da2ba61a7f2eedc3beafb485"
         }
       }
     },
@@ -2425,9 +2425,9 @@
           "source_sha256": "c4c0b9ef59d381382fa2e2b1bd21b3748ab2b15cdf1aa0dd8f7a17a7378c8ca2"
         },
         "teacher.pdf": {
-          "pages": 6,
-          "sha256": "d8e8dadfb9d27987952711a928fe49962c64731e32edba4eaf1ee2c2330b7759",
-          "source_sha256": "fd67a213bee27cd7333268eae492c217b27351f0a7c84bc1a74f43882f48c3ea"
+          "pages": 7,
+          "sha256": "bd28f36e295f8353b28b9d2c80692e37ee5dd61994216021a602a1ed19258b9a",
+          "source_sha256": "4ced7a86531de8f1ff9b4d332952054084cd6f7b4f301b15f51054a6a4862646"
         },
         "recovery-handout.pdf": {
           "pages": 1,
@@ -2435,9 +2435,9 @@
           "source_sha256": "612dc9381af5791729677920df07273f3815d4edce992fd528a5c1560e869d14"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "cbd2ff7d29f9b1529e8433982dfd1763ae4c3ef3caf4ac3ed03820a5fc256cab",
-          "source_sha256": "2c277cad0c2448b87ecdaab9da91ed30ddd0574a04c0781a53f0521ca5ca180a"
+          "pages": 3,
+          "sha256": "99cfe13e8207e84bbc07e9039899d1c1e940e4589b217b9241d5c3c995e95d77",
+          "source_sha256": "92dc4b379b50022a65dc251d41376339905e565436f559b7b06997aae5ba0fcb"
         }
       }
     },
@@ -2446,18 +2446,18 @@
       "files": {
         "handout.pdf": {
           "pages": 3,
-          "sha256": "2fe3d154ae4852562231b3da7c1c51a392de38062d36a25076e0b4e02797b97f",
-          "source_sha256": "3b9ccb065a7bd53c1757800566313fe510073b926f1eef45e26151cf73d28f55"
+          "sha256": "94fb4328eff688703e962b3c8d406408048b900b39b6bf182b428edf439204f6",
+          "source_sha256": "e1aa8e3453e3d26245d40fb1d9be593fa0683717a30c0c023e7d1216597fa88e"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "428fecaacf0e32a5950ae7372ac57d5a174782c60a9de841b1c7fe3df9e3f9d7",
-          "source_sha256": "1e2760031a3fa3e0229cf11bc3c75ef05a4fb30f5d9b066011160f62c8c733f0"
+          "pages": 8,
+          "sha256": "aa69f1deb9b7c47cc91749b1c9c9a5361a64442e8bddd142c8a28702e4d4764d",
+          "source_sha256": "7effec3a892b67222bb873909dbaf6efe1f50b8a686ba24c1af4b7d9b8535074"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "67f11d839c4310e3db35d660fa57265d7e78111c4a04a261fab4917754c2f42f",
-          "source_sha256": "37f190469faa7e48a45ba25b05d8b2661ee969cea207c3c7b094033a12692769"
+          "pages": 3,
+          "sha256": "b985b92051f9f93726dd07b858c1a864803c4f21fa14f784f4f39cb9cad082cc",
+          "source_sha256": "9236043ef9455a54aec5d13ef1f48057994091ba503333a277e2c6e91be3e839"
         }
       }
     },
@@ -2465,19 +2465,19 @@
       "directory": "6/121",
       "files": {
         "handout.pdf": {
-          "pages": 2,
-          "sha256": "30277bc5446f012242cfa87d562c1f904aba7992af114b63e2067ec9dd0f8b65",
-          "source_sha256": "399ebd014b523513f3b9692cb125f93a297bfad1789437dd1a6d6774c8b03804"
+          "pages": 3,
+          "sha256": "88bc9844e27f7d36c538b987d95c693a4ea71f4b574d515e94e1eb4a01c75e7f",
+          "source_sha256": "2073a904bd0f050de235119d4a13044c68a1ab302b81c6a90294c5d8e24397b8"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "53c5d14a9099cb07de1b6f18ef474fe293cf2eae403ee4f7e08c98335e03572e",
-          "source_sha256": "f409e45db7d7990e4163bb04b21219bbd8b187ee268f8d6db6a25c2a3394097b"
+          "pages": 8,
+          "sha256": "b869bbb37d63b8d1d36db7a49bcfb0a216fa45d457526b527380f49aa4fd5500",
+          "source_sha256": "fdeaa7a328027d153aa0b12ea979777946c2cc9f9fcf3b27b86663d8f2868032"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "8cd976cb1f0926b57673a740dd156120a5bff023417a2ef40102435e40e0d3fa",
-          "source_sha256": "2c021d04d059442a82a2de30e241bab928b2d0dfb429d5c5ce120ef1219c0d88"
+          "pages": 3,
+          "sha256": "143d2eed140a86936597c3c7228778df4d321688cfde8d9def75b7b8a7929be0",
+          "source_sha256": "56f8ffcad4a4b2ceafdfd46c26988d633e6bab2c9c60c96263184bb0de87508b"
         }
       }
     },
@@ -2486,18 +2486,18 @@
       "files": {
         "handout.pdf": {
           "pages": 3,
-          "sha256": "82c0478f583304a49642cafbb7b89613537bc205c8c2ec4038b25ac317f296d9",
-          "source_sha256": "636b9afc54cb0d3aa55de2af19f082ec1d2b771d5f2eb0d4bacfbcf8a3f6a3c5"
+          "sha256": "0dfeffb45a1c96e481f612fe2e4c9738eeae20610b0355ba83b495d62830f470",
+          "source_sha256": "cb574fb6b90f728e8ff8b67c7f0db1b29cabfadd99cde9e8ce12379976ebc481"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "678ca9a51fe2e5f83fffb9d8edf5aea9fc3e971b52a1d1caa8222ac23a6e7f64",
-          "source_sha256": "55f643ac1f2e5ab2a2b0f4046dfb8fd753bca0244b93e14139a269676ed8dfc9"
+          "pages": 8,
+          "sha256": "bd1bc812c47816336136b561d9d603f22a75b590f2f24d6bd557eeb7e8159a20",
+          "source_sha256": "53e999a90b5cef7dd8a1bc3a9494925126be1844cffa266949212ade85bb0988"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "885ed5102901a56d0e1da0e73411291e667aac2b616876960e842f464a64027c",
-          "source_sha256": "fb15affb9f56df28ef1a397b7d6f3a9e551ed95d55d318b26703ffd64e5b9432"
+          "pages": 3,
+          "sha256": "6cb35013883a4eb7b159b988f3e3f2e9a4dc30942d79b5e60a807840bc68e423",
+          "source_sha256": "3a2c8348c23cc052995d50be76e7e70ae76bcf115f450a9da7ee02f0063e5066"
         }
       }
     },
@@ -2506,18 +2506,18 @@
       "files": {
         "handout.pdf": {
           "pages": 3,
-          "sha256": "26a44ad8e0811d9bf2d7ab0b4e0317c57755aacb1b16449543a813e9a852cac0",
-          "source_sha256": "0f719fd06d3aaa3027deb7b21b618addc730d0d01e8df66240045469f4e55438"
+          "sha256": "30cbbaf810944acdb21f5e1e927c904ff39550bcc85a778a3e0c87235d7a2161",
+          "source_sha256": "14acc267c0a895c98d9d9a13e531a6735e996d0550aca9c12a75966566a94ef3"
         },
         "teacher.pdf": {
-          "pages": 7,
-          "sha256": "00b477fc3b8d220b07cad54ae0a6e1898c8b9fc052eca6cc81ed9473b3806276",
-          "source_sha256": "253ab58008651e552422121fce3f6c7632637e2d7dff4d85d09942cbd7d044f0"
+          "pages": 8,
+          "sha256": "94acfe6614ed6937083b95e5f2a2d56ea5d702e09487d96c6ddd3562ee8b132b",
+          "source_sha256": "b4fc25b6e96a3c862d20ed881bb79240e4a914d8914dd8f171da21b0de9d5eeb"
         },
         "games.pdf": {
-          "pages": 2,
-          "sha256": "a6934967848594b12b07c768f2ac3c2686817af66a32a33d22874db9e76d3dae",
-          "source_sha256": "d77bc60f171e29857ab36212466c9b10d9c3d88c642dba667c504da546693a6a"
+          "pages": 3,
+          "sha256": "c35c2b38d9d3f099c77abdd268286bd7676df59d91e86b8260fda3f6a09c12c9",
+          "source_sha256": "20605f9883fd7278214c81857d2576c50436cf6579e6e3f996315b5c3aabf171"
         }
       }
     }

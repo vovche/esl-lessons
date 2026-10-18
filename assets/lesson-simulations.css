@@ -59,3 +59,7 @@
 }
 @media (prefers-reduced-motion: reduce) { .lesson-simulations * { scroll-behavior: auto; transition: none; animation: none; } }
 @media print { .lesson-simulations { display: none; } }
+
+.lesson-simulations .sim-skill-focus { background: var(--sand, #fff5df); padding: 14px 18px; border-radius: 10px; }
+.lesson-simulations .sim-reflection { margin: 22px 0; padding: 18px; border: 1px solid var(--line, #d9e4e9); border-radius: 12px; background: var(--bg, #f3f7f6); }
+.lesson-simulations .sim-reflection summary { cursor: pointer; font-weight: 700; }

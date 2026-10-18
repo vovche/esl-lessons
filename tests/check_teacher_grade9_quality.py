@@ -29,6 +29,15 @@ def check():
         for name,expected in r['source_sha256'].items():
             assert hashlib.sha256((p/name).read_bytes()).hexdigest()==expected,(n,'stale audit',name)
         c=module['card'](l)
+        assert r['sel_nush_review']['reflection_scored'] is False
+        assert r['sel_nush_review']['action'] and r['sel_nush_review']['reflection']
+        assert 'перший випуск' in texts['lesson.md'] and '2026/2027' in texts['lesson.md']
+        assert 'не сертифікована' in texts['lesson.md']
+        assert 'чотирьох сил' in texts['lesson.md']
+        assert 'SEL-рефлексія не оцінюється' in texts['key.md']
+        assert '41–43' in texts['lesson.md'] and '43–45' in texts['lesson.md']
+        assert 'SEL-дія' in texts['games.md']
+
         assert r['main_question_count']<=7
         assert r['scheduled_main_passages']==1 and r['production_minutes']==12
         if n in lexical: assert c['type']=='lexis' and len(c['questions'])==3
@@ -71,6 +80,15 @@ def check():
     # New round-two details must discriminate source content, not universal absurdities.
     for l in source['lessons']:
         c=module['card'](l)
+        assert r['sel_nush_review']['reflection_scored'] is False
+        assert r['sel_nush_review']['action'] and r['sel_nush_review']['reflection']
+        assert 'перший випуск' in texts['lesson.md'] and '2026/2027' in texts['lesson.md']
+        assert 'не сертифікована' in texts['lesson.md']
+        assert 'чотирьох сил' in texts['lesson.md']
+        assert 'SEL-рефлексія не оцінюється' in texts['key.md']
+        assert '41–43' in texts['lesson.md'] and '43–45' in texts['lesson.md']
+        assert 'SEL-дія' in texts['games.md']
+
         for q in module['transfer_items'](c):
             assert not any(x in ' '.join(q['wrong']) for x in ['everyone must make exactly the same choice','no alternative can ever work'])
     game47=(BASE/'047/games.md').read_text()

@@ -50,6 +50,10 @@
           "production": {
             "prompt": "Write one realistic practice activity, a time and a way to check your learning.",
             "starter": "I will… for… minutes. I can check by… ."
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What will Emma keep?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -92,6 +96,10 @@
           "production": {
             "prompt": "Write one realistic practice activity, a time and a way to check your learning.",
             "starter": "I will… for… minutes. I can check by… ."
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What will Emma keep?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -146,6 +154,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What do both friends enjoy?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -188,6 +200,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What do both friends enjoy?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -241,6 +257,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What do both friends enjoy?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -283,6 +303,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What do both friends enjoy?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -337,6 +361,10 @@
           "production": {
             "prompt": "Use one word from this mission in a new situation. Give enough detail to show its meaning.",
             "starter": "In this situation,…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «лексика у контексті»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -379,6 +407,10 @@
           "production": {
             "prompt": "Use one word from this mission in a new situation. Give enough detail to show its meaning.",
             "starter": "In this situation,…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «лексика у контексті»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -432,6 +464,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What do both friends enjoy?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -474,6 +510,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What do both friends enjoy?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -528,6 +568,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «Часи: звичка, дія зараз, завершена минула подія, попередня минула подія»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -570,6 +614,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «Часи: звичка, дія зараз, завершена минула подія, попередня минула подія»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -622,6 +670,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «Which belief does Robin express?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -664,6 +716,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «Which belief does Robin express?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -718,6 +774,10 @@
           "production": {
             "prompt": "Use one word from this mission in a new situation. Give enough detail to show its meaning.",
             "starter": "In this situation,…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «лексика у контексті»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -760,6 +820,10 @@
           "production": {
             "prompt": "Use one word from this mission in a new situation. Give enough detail to show its meaning.",
             "starter": "In this situation,…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «лексика у контексті»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -815,6 +879,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «Майбутнє: розклад, домовленість, намір, спонтанне рішення»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -857,6 +925,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «Майбутнє: розклад, домовленість, намір, спонтанне рішення»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -909,6 +981,10 @@
           "production": {
             "prompt": "Write a two-turn exchange: ask for one detail from the situation and give a relevant answer.",
             "starter": "A:…? B:… ."
+          },
+          "reflection": {
+            "focus": "Уточнюй і давай слово іншому",
+            "prompt": "За бажанням: Яке уточнювальне запитання допомогло б партнерам у ситуації «діалог: запитання → відповідь → реакція» зрозуміти одне одного? Де ще воно доречне? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -951,6 +1027,10 @@
           "production": {
             "prompt": "Write a two-turn exchange: ask for one detail from the situation and give a relevant answer.",
             "starter": "A:…? B:… ."
+          },
+          "reflection": {
+            "focus": "Уточнюй і давай слово іншому",
+            "prompt": "За бажанням: Яке уточнювальне запитання допомогло б партнерам у ситуації «діалог: запитання → відповідь → реакція» зрозуміти одне одного? Де ще воно доречне? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -1004,6 +1084,10 @@
           "production": {
             "prompt": "Write one past event and one present interest for fictional Alex.",
             "starter": "Last year I… . Now I… ."
+          },
+          "reflection": {
+            "focus": "Плануй і перевіряй",
+            "prompt": "За бажанням: Яка перевірка допомогла тобі працювати з форматом «мініавтобіографія вигаданого персонажа»? Де ще можна використати такий порядок дій? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -1046,6 +1130,10 @@
           "production": {
             "prompt": "Write one past event and one present interest for fictional Alex.",
             "starter": "Last year I… . Now I… ."
+          },
+          "reflection": {
+            "focus": "Плануй і перевіряй",
+            "prompt": "За бажанням: Яка перевірка допомогла тобі працювати з форматом «мініавтобіографія вигаданого персонажа»? Де ще можна використати такий порядок дій? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -1099,6 +1187,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -1141,6 +1233,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -1194,6 +1290,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -1236,6 +1336,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -1290,6 +1394,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -1332,6 +1440,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -1386,6 +1498,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What matters to Emma?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -1428,6 +1544,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What matters to Emma?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -1481,6 +1601,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What matters to Emma?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -1523,6 +1647,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What matters to Emma?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -1577,6 +1705,10 @@
           "production": {
             "prompt": "Use one word from this mission in a new situation. Give enough detail to show its meaning.",
             "starter": "In this situation,…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «лексика у контексті»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -1619,6 +1751,10 @@
           "production": {
             "prompt": "Use one word from this mission in a new situation. Give enough detail to show its meaning.",
             "starter": "In this situation,…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «лексика у контексті»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -1672,6 +1808,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What matters to Emma?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -1714,6 +1854,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What matters to Emma?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -1767,6 +1911,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What matters to Emma?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -1809,6 +1957,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What matters to Emma?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -1864,6 +2016,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «Gerund»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -1906,6 +2062,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «Gerund»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -1958,6 +2118,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «Why does one student support a plain shirt?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -2000,6 +2164,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «Why does one student support a plain shirt?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -2054,6 +2222,10 @@
           "production": {
             "prompt": "Use one word from this mission in a new situation. Give enough detail to show its meaning.",
             "starter": "In this situation,…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «лексика у контексті»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -2096,6 +2268,10 @@
           "production": {
             "prompt": "Use one word from this mission in a new situation. Give enough detail to show its meaning.",
             "starter": "In this situation,…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «лексика у контексті»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -2151,6 +2327,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «Gerund vs to-infinitive»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -2193,6 +2373,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «Gerund vs to-infinitive»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -2246,6 +2430,10 @@
           "production": {
             "prompt": "Write a two-turn exchange: ask for one detail from the situation and give a relevant answer.",
             "starter": "A:…? B:… ."
+          },
+          "reflection": {
+            "focus": "Уточнюй і давай слово іншому",
+            "prompt": "За бажанням: Яке уточнювальне запитання допомогло б партнерам у ситуації «діалог: запитання → відповідь → реакція» зрозуміти одне одного? Де ще воно доречне? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -2288,6 +2476,10 @@
           "production": {
             "prompt": "Write a two-turn exchange: ask for one detail from the situation and give a relevant answer.",
             "starter": "A:…? B:… ."
+          },
+          "reflection": {
+            "focus": "Уточнюй і давай слово іншому",
+            "prompt": "За бажанням: Яке уточнювальне запитання допомогло б партнерам у ситуації «діалог: запитання → відповідь → реакція» зрозуміти одне одного? Де ще воно доречне? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -2341,6 +2533,10 @@
           "production": {
             "prompt": "Write one opinion about clothing with a practical reason.",
             "starter": "In my opinion,… because… ."
+          },
+          "reflection": {
+            "focus": "Плануй і перевіряй",
+            "prompt": "За бажанням: Яка перевірка допомогла тобі працювати з форматом «абзац думки про стиль»? Де ще можна використати такий порядок дій? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -2383,6 +2579,10 @@
           "production": {
             "prompt": "Write one opinion about clothing with a practical reason.",
             "starter": "In my opinion,… because… ."
+          },
+          "reflection": {
+            "focus": "Плануй і перевіряй",
+            "prompt": "За бажанням: Яка перевірка допомогла тобі працювати з форматом «абзац думки про стиль»? Де ще можна використати такий порядок дій? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -2436,6 +2636,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -2478,6 +2682,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -2532,6 +2740,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -2574,6 +2786,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -2626,6 +2842,10 @@
           "production": {
             "prompt": "Write one clear question to ask the project team about its display.",
             "starter": "Could you explain…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «How much time is available for the first draft?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -2668,6 +2888,10 @@
           "production": {
             "prompt": "Write one clear question to ask the project team about its display.",
             "starter": "Could you explain…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «How much time is available for the first draft?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -2721,6 +2945,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «Which group interests Emma?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -2763,6 +2991,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «Which group interests Emma?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -2815,6 +3047,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «Which group interests Emma?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -2857,6 +3093,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «Which group interests Emma?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -2910,6 +3150,10 @@
           "production": {
             "prompt": "Use one word from this mission in a new situation. Give enough detail to show its meaning.",
             "starter": "In this situation,…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «лексика у контексті»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -2952,6 +3196,10 @@
           "production": {
             "prompt": "Use one word from this mission in a new situation. Give enough detail to show its meaning.",
             "starter": "In this situation,…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «лексика у контексті»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -3004,6 +3252,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «Which group interests Emma?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -3046,6 +3298,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «Which group interests Emma?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -3098,6 +3354,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «Which group interests Emma?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -3140,6 +3400,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «Which group interests Emma?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -3193,6 +3457,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «Passive Voice: час і форма»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -3235,6 +3503,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «Passive Voice: час і форма»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -3287,6 +3559,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What can a member choose instead of competing?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -3329,6 +3605,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What can a member choose instead of competing?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -3382,6 +3662,10 @@
           "production": {
             "prompt": "Use one word from this mission in a new situation. Give enough detail to show its meaning.",
             "starter": "In this situation,…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «лексика у контексті»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -3424,6 +3708,10 @@
           "production": {
             "prompt": "Use one word from this mission in a new situation. Give enough detail to show its meaning.",
             "starter": "In this situation,…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «лексика у контексті»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -3477,6 +3765,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «Passive Voice: запитання»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -3519,6 +3811,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «Passive Voice: запитання»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -3571,6 +3867,10 @@
           "production": {
             "prompt": "Write a two-turn exchange: ask for one detail from the situation and give a relevant answer.",
             "starter": "A:…? B:… ."
+          },
+          "reflection": {
+            "focus": "Уточнюй і давай слово іншому",
+            "prompt": "За бажанням: Яке уточнювальне запитання допомогло б партнерам у ситуації «діалог: запитання → відповідь → реакція» зрозуміти одне одного? Де ще воно доречне? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -3613,6 +3913,10 @@
           "production": {
             "prompt": "Write a two-turn exchange: ask for one detail from the situation and give a relevant answer.",
             "starter": "A:…? B:… ."
+          },
+          "reflection": {
+            "focus": "Уточнюй і давай слово іншому",
+            "prompt": "За бажанням: Яке уточнювальне запитання допомогло б партнерам у ситуації «діалог: запитання → відповідь → реакція» зрозуміти одне одного? Де ще воно доречне? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -3665,6 +3969,10 @@
           "production": {
             "prompt": "Write one accurate sentence about music or film in this survey; name the group.",
             "starter": "In this group,…% chose… ."
+          },
+          "reflection": {
+            "focus": "Плануй і перевіряй",
+            "prompt": "За бажанням: Яка перевірка допомогла тобі працювати з форматом «survey report»? Де ще можна використати такий порядок дій? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -3707,6 +4015,10 @@
           "production": {
             "prompt": "Write one accurate sentence about music or film in this survey; name the group.",
             "starter": "In this group,…% chose… ."
+          },
+          "reflection": {
+            "focus": "Плануй і перевіряй",
+            "prompt": "За бажанням: Яка перевірка допомогла тобі працювати з форматом «survey report»? Де ще можна використати такий порядок дій? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -3760,6 +4072,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -3802,6 +4118,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -3855,6 +4175,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -3897,6 +4221,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -3951,6 +4279,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -3993,6 +4325,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -4046,6 +4382,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What does Emma check first?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -4088,6 +4428,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What does Emma check first?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -4140,6 +4484,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What does Emma check first?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -4182,6 +4530,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What does Emma check first?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -4235,6 +4587,10 @@
           "production": {
             "prompt": "Use one word from this mission in a new situation. Give enough detail to show its meaning.",
             "starter": "In this situation,…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «лексика у контексті»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -4277,6 +4633,10 @@
           "production": {
             "prompt": "Use one word from this mission in a new situation. Give enough detail to show its meaning.",
             "starter": "In this situation,…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «лексика у контексті»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -4329,6 +4689,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «How many students chose the science series?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -4371,6 +4735,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «How many students chose the science series?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -4423,6 +4791,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «How many students chose the science series?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -4465,6 +4837,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «How many students chose the science series?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -4518,6 +4894,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «Reported statements»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -4560,6 +4940,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «Reported statements»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -4612,6 +4996,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What happens after shooting the demonstration?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -4654,6 +5042,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What happens after shooting the demonstration?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -4707,6 +5099,10 @@
           "production": {
             "prompt": "Use one word from this mission in a new situation. Give enough detail to show its meaning.",
             "starter": "In this situation,…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «лексика у контексті»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -4749,6 +5145,10 @@
           "production": {
             "prompt": "Use one word from this mission in a new situation. Give enough detail to show its meaning.",
             "starter": "In this situation,…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «лексика у контексті»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -4802,6 +5202,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «Reported speech: час і місце»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -4844,6 +5248,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «Reported speech: час і місце»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -4896,6 +5304,10 @@
           "production": {
             "prompt": "Write a two-turn exchange: ask for one detail from the situation and give a relevant answer.",
             "starter": "A:…? B:… ."
+          },
+          "reflection": {
+            "focus": "Уточнюй і давай слово іншому",
+            "prompt": "За бажанням: Яке уточнювальне запитання допомогло б партнерам у ситуації «радіоінтерв’ю: presenter / guest» зрозуміти одне одного? Де ще воно доречне? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -4938,6 +5350,10 @@
           "production": {
             "prompt": "Write a two-turn exchange: ask for one detail from the situation and give a relevant answer.",
             "starter": "A:…? B:… ."
+          },
+          "reflection": {
+            "focus": "Уточнюй і давай слово іншому",
+            "prompt": "За бажанням: Яке уточнювальне запитання допомогло б партнерам у ситуації «радіоінтерв’ю: presenter / guest» зрозуміти одне одного? Де ще воно доречне? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -4990,6 +5406,10 @@
           "production": {
             "prompt": "Write one cautious recommendation that considers a strength and a limitation.",
             "starter": "I recommend it for… , but… ."
+          },
+          "reflection": {
+            "focus": "Плануй і перевіряй",
+            "prompt": "За бажанням: Яка перевірка допомогла тобі працювати з форматом «vlog review»? Де ще можна використати такий порядок дій? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -5032,6 +5452,10 @@
           "production": {
             "prompt": "Write one cautious recommendation that considers a strength and a limitation.",
             "starter": "I recommend it for… , but… ."
+          },
+          "reflection": {
+            "focus": "Плануй і перевіряй",
+            "prompt": "За бажанням: Яка перевірка допомогла тобі працювати з форматом «vlog review»? Де ще можна використати такий порядок дій? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -5085,6 +5509,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -5127,6 +5555,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -5181,6 +5613,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -5223,6 +5659,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -5275,6 +5715,10 @@
           "production": {
             "prompt": "Write one clear question to ask the project team about its display.",
             "starter": "Could you explain…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «How much time is available for the first draft?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -5317,6 +5761,10 @@
           "production": {
             "prompt": "Write one clear question to ask the project team about its display.",
             "starter": "Could you explain…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «How much time is available for the first draft?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -5372,6 +5820,10 @@
           "production": {
             "prompt": "Write one clear question to ask the project team about its display.",
             "starter": "Could you explain…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «How much time is available for the first draft?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -5414,6 +5866,10 @@
           "production": {
             "prompt": "Write one clear question to ask the project team about its display.",
             "starter": "Could you explain…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «How much time is available for the first draft?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -5467,6 +5923,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Плануй і перевіряй",
+            "prompt": "За бажанням: Яка перевірка допомогла тобі працювати з форматом «портфоліо: вибір → корекція → перенесення»? Де ще можна використати такий порядок дій? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -5509,6 +5969,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Плануй і перевіряй",
+            "prompt": "За бажанням: Яка перевірка допомогла тобі працювати з форматом «портфоліо: вибір → корекція → перенесення»? Де ще можна використати такий порядок дій? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -5562,6 +6026,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What do the friends compare?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -5604,6 +6072,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What do the friends compare?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -5656,6 +6128,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What do the friends compare?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -5698,6 +6174,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What do the friends compare?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -5751,6 +6231,10 @@
           "production": {
             "prompt": "Use one word from this mission in a new situation. Give enough detail to show its meaning.",
             "starter": "In this situation,…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «лексика у контексті»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -5793,6 +6277,10 @@
           "production": {
             "prompt": "Use one word from this mission in a new situation. Give enough detail to show its meaning.",
             "starter": "In this situation,…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «лексика у контексті»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -5845,6 +6333,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What do the friends compare?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -5887,6 +6379,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What do the friends compare?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -5939,6 +6435,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What do the friends compare?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -5981,6 +6481,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What do the friends compare?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -6034,6 +6538,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «Reported commands and requests»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -6076,6 +6584,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «Reported commands and requests»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -6128,6 +6640,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «Which skill is needed besides technical knowledge?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -6170,6 +6686,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «Which skill is needed besides technical knowledge?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -6223,6 +6743,10 @@
           "production": {
             "prompt": "Use one word from this mission in a new situation. Give enough detail to show its meaning.",
             "starter": "In this situation,…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «лексика у контексті»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -6265,6 +6789,10 @@
           "production": {
             "prompt": "Use one word from this mission in a new situation. Give enough detail to show its meaning.",
             "starter": "In this situation,…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «лексика у контексті»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -6318,6 +6846,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «Reported questions»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -6360,6 +6892,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «Reported questions»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -6412,6 +6948,10 @@
           "production": {
             "prompt": "Write a two-turn exchange: ask for one detail from the situation and give a relevant answer.",
             "starter": "A:…? B:… ."
+          },
+          "reflection": {
+            "focus": "Уточнюй і давай слово іншому",
+            "prompt": "За бажанням: Яке уточнювальне запитання допомогло б партнерам у ситуації «діалог: запитання → відповідь → реакція» зрозуміти одне одного? Де ще воно доречне? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -6454,6 +6994,10 @@
           "production": {
             "prompt": "Write a two-turn exchange: ask for one detail from the situation and give a relevant answer.",
             "starter": "A:…? B:… ."
+          },
+          "reflection": {
+            "focus": "Уточнюй і давай слово іншому",
+            "prompt": "За бажанням: Яке уточнювальне запитання допомогло б партнерам у ситуації «діалог: запитання → відповідь → реакція» зрозуміти одне одного? Де ще воно доречне? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -6506,6 +7050,10 @@
           "production": {
             "prompt": "Write one Skills entry with a concrete example from a fictional school project.",
             "starter": "Skills:… —… ."
+          },
+          "reflection": {
+            "focus": "Плануй і перевіряй",
+            "prompt": "За бажанням: Яка перевірка допомогла тобі працювати з форматом «CV із вигаданими даними»? Де ще можна використати такий порядок дій? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -6548,6 +7096,10 @@
           "production": {
             "prompt": "Write one Skills entry with a concrete example from a fictional school project.",
             "starter": "Skills:… —… ."
+          },
+          "reflection": {
+            "focus": "Плануй і перевіряй",
+            "prompt": "За бажанням: Яка перевірка допомогла тобі працювати з форматом «CV із вигаданими даними»? Де ще можна використати такий порядок дій? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -6601,6 +7153,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -6643,6 +7199,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -6696,6 +7256,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -6738,6 +7302,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -6792,6 +7360,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -6834,6 +7406,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -6887,6 +7463,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What did the telephone make easier?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -6929,6 +7509,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What did the telephone make easier?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -6981,6 +7565,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What did the telephone make easier?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -7023,6 +7611,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What did the telephone make easier?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -7076,6 +7668,10 @@
           "production": {
             "prompt": "Use one word from this mission in a new situation. Give enough detail to show its meaning.",
             "starter": "In this situation,…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «лексика у контексті»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -7118,6 +7714,10 @@
           "production": {
             "prompt": "Use one word from this mission in a new situation. Give enough detail to show its meaning.",
             "starter": "In this situation,…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «лексика у контексті»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -7170,6 +7770,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «Which prize did Marie Curie receive in 1911?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -7212,6 +7816,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «Which prize did Marie Curie receive in 1911?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -7264,6 +7872,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «Which prize did Marie Curie receive in 1911?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -7306,6 +7918,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «Which prize did Marie Curie receive in 1911?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -7359,6 +7975,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «Defining / non-defining relative clauses»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -7401,6 +8021,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «Defining / non-defining relative clauses»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -7454,6 +8078,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «Defining / non-defining relative clauses»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -7496,6 +8124,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «Defining / non-defining relative clauses»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -7548,6 +8180,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What problem affects the first prototype?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -7590,6 +8226,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What problem affects the first prototype?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -7643,6 +8283,10 @@
           "production": {
             "prompt": "Use one word from this mission in a new situation. Give enough detail to show its meaning.",
             "starter": "In this situation,…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «лексика у контексті»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -7685,6 +8329,10 @@
           "production": {
             "prompt": "Use one word from this mission in a new situation. Give enough detail to show its meaning.",
             "starter": "In this situation,…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «лексика у контексті»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -7738,6 +8386,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «Technology phrasal verbs»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -7780,6 +8432,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «Technology phrasal verbs»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -7832,6 +8488,10 @@
           "production": {
             "prompt": "Write a two-turn exchange: ask for one detail from the situation and give a relevant answer.",
             "starter": "A:…? B:… ."
+          },
+          "reflection": {
+            "focus": "Уточнюй і давай слово іншому",
+            "prompt": "За бажанням: Яке уточнювальне запитання допомогло б партнерам у ситуації «діалог: запитання → відповідь → реакція» зрозуміти одне одного? Де ще воно доречне? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -7874,6 +8534,10 @@
           "production": {
             "prompt": "Write a two-turn exchange: ask for one detail from the situation and give a relevant answer.",
             "starter": "A:…? B:… ."
+          },
+          "reflection": {
+            "focus": "Уточнюй і давай слово іншому",
+            "prompt": "За бажанням: Яке уточнювальне запитання допомогло б партнерам у ситуації «діалог: запитання → відповідь → реакція» зрозуміти одне одного? Де ще воно доречне? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -7926,6 +8590,10 @@
           "production": {
             "prompt": "Write one Date / Achievement row from the fact card.",
             "starter": "Date:… | Achievement:…"
+          },
+          "reflection": {
+            "focus": "Плануй і перевіряй",
+            "prompt": "За бажанням: Яка перевірка допомогла тобі працювати з форматом «biography chart»? Де ще можна використати такий порядок дій? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -7968,6 +8636,10 @@
           "production": {
             "prompt": "Write one Date / Achievement row from the fact card.",
             "starter": "Date:… | Achievement:…"
+          },
+          "reflection": {
+            "focus": "Плануй і перевіряй",
+            "prompt": "За бажанням: Яка перевірка допомогла тобі працювати з форматом «biography chart»? Де ще можна використати такий порядок дій? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -8021,6 +8693,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -8063,6 +8739,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -8117,6 +8797,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -8159,6 +8843,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -8211,6 +8899,10 @@
           "production": {
             "prompt": "Write one clear question to ask the project team about its display.",
             "starter": "Could you explain…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «How much time is available for the first draft?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -8253,6 +8945,10 @@
           "production": {
             "prompt": "Write one clear question to ask the project team about its display.",
             "starter": "Could you explain…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «How much time is available for the first draft?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -8306,6 +9002,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What happens when forests are cut down?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -8348,6 +9048,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What happens when forests are cut down?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -8400,6 +9104,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What happens when forests are cut down?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -8442,6 +9150,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What happens when forests are cut down?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -8495,6 +9207,10 @@
           "production": {
             "prompt": "Use one word from this mission in a new situation. Give enough detail to show its meaning.",
             "starter": "In this situation,…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «лексика у контексті»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -8537,6 +9253,10 @@
           "production": {
             "prompt": "Use one word from this mission in a new situation. Give enough detail to show its meaning.",
             "starter": "In this situation,…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «лексика у контексті»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -8589,6 +9309,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What happens when forests are cut down?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -8631,6 +9355,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What happens when forests are cut down?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -8683,6 +9411,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What happens when forests are cut down?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -8725,6 +9457,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What happens when forests are cut down?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -8778,6 +9514,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «Zero vs First Conditional»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -8820,6 +9560,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «Zero vs First Conditional»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -8872,6 +9616,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What will they do if it rains?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -8914,6 +9662,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What will they do if it rains?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -8967,6 +9719,10 @@
           "production": {
             "prompt": "Use one word from this mission in a new situation. Give enough detail to show its meaning.",
             "starter": "In this situation,…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «лексика у контексті»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -9009,6 +9765,10 @@
           "production": {
             "prompt": "Use one word from this mission in a new situation. Give enough detail to show its meaning.",
             "starter": "In this situation,…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «лексика у контексті»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -9062,6 +9822,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «Second Conditional»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -9104,6 +9868,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «Second Conditional»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -9156,6 +9924,10 @@
           "production": {
             "prompt": "Write a two-turn exchange: ask for one detail from the situation and give a relevant answer.",
             "starter": "A:…? B:… ."
+          },
+          "reflection": {
+            "focus": "Уточнюй і давай слово іншому",
+            "prompt": "За бажанням: Яке уточнювальне запитання допомогло б партнерам у ситуації «діалог: запитання → відповідь → реакція» зрозуміти одне одного? Де ще воно доречне? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -9198,6 +9970,10 @@
           "production": {
             "prompt": "Write a two-turn exchange: ask for one detail from the situation and give a relevant answer.",
             "starter": "A:…? B:… ."
+          },
+          "reflection": {
+            "focus": "Уточнюй і давай слово іншому",
+            "prompt": "За бажанням: Яке уточнювальне запитання допомогло б партнерам у ситуації «діалог: запитання → відповідь → реакція» зрозуміти одне одного? Де ще воно доречне? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -9250,6 +10026,10 @@
           "production": {
             "prompt": "Write one leaflet action with a reason or a rain backup plan.",
             "starter": "Bring… to… . / If it rains,… ."
+          },
+          "reflection": {
+            "focus": "Плануй і перевіряй",
+            "prompt": "За бажанням: Яка перевірка допомогла тобі працювати з форматом «екологічна листівка»? Де ще можна використати такий порядок дій? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -9292,6 +10072,10 @@
           "production": {
             "prompt": "Write one leaflet action with a reason or a rain backup plan.",
             "starter": "Bring… to… . / If it rains,… ."
+          },
+          "reflection": {
+            "focus": "Плануй і перевіряй",
+            "prompt": "За бажанням: Яка перевірка допомогла тобі працювати з форматом «екологічна листівка»? Де ще можна використати такий порядок дій? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -9345,6 +10129,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -9387,6 +10175,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -9440,6 +10232,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -9482,6 +10278,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -9536,6 +10336,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -9578,6 +10382,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -9631,6 +10439,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What does Dan check?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -9673,6 +10485,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What does Dan check?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -9725,6 +10541,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What does Dan check?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -9767,6 +10587,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What does Dan check?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -9820,6 +10644,10 @@
           "production": {
             "prompt": "Use one word from this mission in a new situation. Give enough detail to show its meaning.",
             "starter": "In this situation,…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «лексика у контексті»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -9862,6 +10690,10 @@
           "production": {
             "prompt": "Use one word from this mission in a new situation. Give enough detail to show its meaning.",
             "starter": "In this situation,…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «лексика у контексті»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -9914,6 +10746,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What does Dan check?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -9956,6 +10792,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What does Dan check?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -10008,6 +10848,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What does Dan check?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -10050,6 +10894,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «What does Dan check?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -10103,6 +10951,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «Third Conditional»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -10145,6 +10997,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «Third Conditional»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -10197,6 +11053,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «Where should visitors turn left?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -10239,6 +11099,10 @@
           "production": {
             "prompt": "Write one accurate detail from the card and one follow-up question.",
             "starter": "The card says… . My question is…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «Where should visitors turn left?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -10292,6 +11156,10 @@
           "production": {
             "prompt": "Use one word from this mission in a new situation. Give enough detail to show its meaning.",
             "starter": "In this situation,…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «лексика у контексті»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -10334,6 +11202,10 @@
           "production": {
             "prompt": "Use one word from this mission in a new situation. Give enough detail to show its meaning.",
             "starter": "In this situation,…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «лексика у контексті»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -10387,6 +11259,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «Conditionals: зіставлення часових ситуацій»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -10429,6 +11305,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «Conditionals: зіставлення часових ситуацій»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -10481,6 +11361,10 @@
           "production": {
             "prompt": "Write a two-turn exchange: ask for one detail from the situation and give a relevant answer.",
             "starter": "A:…? B:… ."
+          },
+          "reflection": {
+            "focus": "Уточнюй і давай слово іншому",
+            "prompt": "За бажанням: Яке уточнювальне запитання допомогло б партнерам у ситуації «діалог: запитання → відповідь → реакція» зрозуміти одне одного? Де ще воно доречне? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -10523,6 +11407,10 @@
           "production": {
             "prompt": "Write a two-turn exchange: ask for one detail from the situation and give a relevant answer.",
             "starter": "A:…? B:… ."
+          },
+          "reflection": {
+            "focus": "Уточнюй і давай слово іншому",
+            "prompt": "За бажанням: Яке уточнювальне запитання допомогло б партнерам у ситуації «діалог: запитання → відповідь → реакція» зрозуміти одне одного? Де ще воно доречне? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -10575,6 +11463,10 @@
           "production": {
             "prompt": "Write one short e-mail line reflecting on the missed museum visit.",
             "starter": "If we had… , we would have… ."
+          },
+          "reflection": {
+            "focus": "Плануй і перевіряй",
+            "prompt": "За бажанням: Яка перевірка допомогла тобі працювати з форматом «неформальний e-mail про поїздку»? Де ще можна використати такий порядок дій? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -10617,6 +11509,10 @@
           "production": {
             "prompt": "Write one short e-mail line reflecting on the missed museum visit.",
             "starter": "If we had… , we would have… ."
+          },
+          "reflection": {
+            "focus": "Плануй і перевіряй",
+            "prompt": "За бажанням: Яка перевірка допомогла тобі працювати з форматом «неформальний e-mail про поїздку»? Де ще можна використати такий порядок дій? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -10670,6 +11566,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -10712,6 +11612,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -10766,6 +11670,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -10808,6 +11716,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Зупинись, знайди ознаку, обери",
+            "prompt": "За бажанням: Яка ознака допомогла обрати рішення у завданні «повторення: помилка → причина → новий приклад»? Де ще стане в пригоді пауза перед вибором? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -10860,6 +11772,10 @@
           "production": {
             "prompt": "Write one clear question to ask the project team about its display.",
             "starter": "Could you explain…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «How much time is available for the first draft?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -10902,6 +11818,10 @@
           "production": {
             "prompt": "Write one clear question to ask the project team about its display.",
             "starter": "Could you explain…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «How much time is available for the first draft?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -10957,6 +11877,10 @@
           "production": {
             "prompt": "Write one clear question to ask the project team about its display.",
             "starter": "Could you explain…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «How much time is available for the first draft?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -10999,6 +11923,10 @@
           "production": {
             "prompt": "Write one clear question to ask the project team about its display.",
             "starter": "Could you explain…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «How much time is available for the first draft?»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -11054,6 +11982,10 @@
           "production": {
             "prompt": "Write one clear question to ask the project team about its display.",
             "starter": "Could you explain…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «план виставки й уточнення до команди»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -11096,6 +12028,10 @@
           "production": {
             "prompt": "Write one clear question to ask the project team about its display.",
             "starter": "Could you explain…?"
+          },
+          "reflection": {
+            "focus": "Відділяй факт від припущення",
+            "prompt": "За бажанням: Який спосіб перевірки допоміг у питанні «план виставки й уточнення до команди»? У якій іншій ситуації він допоміг би перевірити припущення? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -11149,6 +12085,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Плануй і перевіряй",
+            "prompt": "За бажанням: Яка перевірка допомогла тобі працювати з форматом «портфоліо: вибір → корекція → перенесення»? Де ще можна використати такий порядок дій? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -11191,6 +12131,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Плануй і перевіряй",
+            "prompt": "За бажанням: Яка перевірка допомогла тобі працювати з форматом «портфоліо: вибір → корекція → перенесення»? Де ще можна використати такий порядок дій? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -11244,6 +12188,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Плануй і перевіряй",
+            "prompt": "За бажанням: Яка перевірка допомогла тобі працювати з форматом «портфоліо: вибір → корекція → перенесення»? Де ще можна використати такий порядок дій? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -11286,6 +12234,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Плануй і перевіряй",
+            "prompt": "За бажанням: Яка перевірка допомогла тобі працювати з форматом «портфоліо: вибір → корекція → перенесення»? Де ще можна використати такий порядок дій? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -11339,6 +12291,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Плануй і перевіряй",
+            "prompt": "За бажанням: Яка перевірка допомогла тобі працювати з форматом «портфоліо: вибір → корекція → перенесення»? Де ще можна використати такий порядок дій? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -11381,6 +12337,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Плануй і перевіряй",
+            "prompt": "За бажанням: Яка перевірка допомогла тобі працювати з форматом «портфоліо: вибір → корекція → перенесення»? Де ще можна використати такий порядок дій? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]
@@ -11433,6 +12393,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Плануй і перевіряй",
+            "prompt": "За бажанням: Яка перевірка допомогла тобі працювати з форматом «портфоліо: вибір → корекція → перенесення»? Де ще можна використати такий порядок дій? Можна подумати мовчки або пропустити; балів за це немає."
           }
         },
         {
@@ -11475,6 +12439,10 @@
           "production": {
             "prompt": "Write one new short example using this language feature; keep its time and meaning clear.",
             "starter": "My new example:…"
+          },
+          "reflection": {
+            "focus": "Плануй і перевіряй",
+            "prompt": "За бажанням: Яка перевірка допомогла тобі працювати з форматом «портфоліо: вибір → корекція → перенесення»? Де ще можна використати такий порядок дій? Можна подумати мовчки або пропустити; балів за це немає."
           }
         }
       ]

@@ -1,0 +1,468 @@
+{
+  "checked_on": "2026-10-18",
+  "publisher_page": "https://selkernels.gse.harvard.edu/uk-UA/downloads",
+  "edition": "Official Ukrainian electronic resource set; print edition equivalence unverified",
+  "bundles": [
+    {
+      "bundle": "all-teacher-supports",
+      "url": "https://easel-kernels.s3.us-east-2.amazonaws.com/summary-files/all-teacher-supports-uk-UA.zip",
+      "archive_sha256": "e68586141b26983de77ad15e2d5505815edc728c3c66bca2df66ca25a941ee35",
+      "files": [
+        {
+          "file": "Історії з почуттями.pdf",
+          "sha256": "3eca1f432511a2a0348657e9162ad4a1d53eee5e13b66acfab8f11d7bc537117",
+          "pages": 12
+        },
+        {
+          "file": "Більше ідей для гри.pdf",
+          "sha256": "39c87188f3f8e08fbb5b172933296f461ceedca225a780b531e488b451eb3e06",
+          "pages": 3
+        },
+        {
+          "file": "Дорожні карти Програми СЕН «Зерна».pdf",
+          "sha256": "210ba70a9fb1bb11de74a7f6125c4716b580880e421b26f40b00b34eaa75f014",
+          "pages": 6
+        },
+        {
+          "file": "Зменшення наслідків впливу психологічної травми й стресу.pdf",
+          "sha256": "fecc938514fea943d4574d6c4006fe04121a46598b011ae4496f10b8b49a1d84",
+          "pages": 3
+        },
+        {
+          "file": "Лист для родин про Програму СЕН «Зерна».pdf",
+          "sha256": "e4971f7717f6f3e0de86801ab2751df5fb2256f75f14a62372d08ef328614741",
+          "pages": 5
+        },
+        {
+          "file": "Поради від педагогів пілотного проєкту.pdf",
+          "sha256": "7ec26328fc181da0b13e4431b694eb47899ec7aea334d3d0284d03338703d4fd",
+          "pages": 2
+        },
+        {
+          "file": "Поради щодо використання Програми.pdf",
+          "sha256": "73dd1837651cc10672c6dcc20ed60f8dd5d7735cff69911958b26e01821135a5",
+          "pages": 2
+        },
+        {
+          "file": "Поради щодо проведення рефлексії.pdf",
+          "sha256": "4e1fd616eac1cb71fffe11260daafcd3a09c11ae2ee8613b9cf67f31c9087057",
+          "pages": 4
+        },
+        {
+          "file": "Поради щодо підтримки благополуччя педагогів.pdf",
+          "sha256": "bd5531943c440b55f87aa747a2793321ebd369ff662c11c00e65b3a44c28b8c6",
+          "pages": 3
+        },
+        {
+          "file": "Практики розвитку самоспівчуття.pdf",
+          "sha256": "0cf875885fb162e4efd82337f72467377ba5ce7aefac519231510808474755da",
+          "pages": 2
+        },
+        {
+          "file": "Підтримка дітей у період горя та втрат.pdf",
+          "sha256": "a7d9b4746726da67269394a991af6faeb7eb29a1261bd90f3ce6ec3a3cee61d0",
+          "pages": 2
+        },
+        {
+          "file": "Соціально-емоційні навички та сили СЕН.pdf",
+          "sha256": "ee135b58e50411c6d84b94c8f45b627b4402c8c1b07d31cbe6fc76952e3f5f45",
+          "pages": 4
+        },
+        {
+          "file": "Соціально-емоційні навички та сили СЕН.pdf",
+          "sha256": "7aba0c0e31b7eddf1946f349f9139ebcebfe6cff71cbc38b6f2a262a48b975c6",
+          "pages": 4
+        },
+        {
+          "file": "Способи підтримки власного благополуччя.pdf",
+          "sha256": "88938e551f626ea2f2393b3987a8c619a372539b89239a86a60b0d13194ca6e4",
+          "pages": 2
+        },
+        {
+          "file": "Трекер активностей програми СЕН «Зерна».pdf",
+          "sha256": "b54ebb5a8ffabeff343041139d381bb105bcc456ff2f7878518b146cd80887cd",
+          "pages": 5
+        },
+        {
+          "file": "Турбота про себе та самозаспокоєння.pdf",
+          "sha256": "4104d46fcbdde75912e080b53da3e07b706ffc0cf3e24bf276ed4c51074409ee",
+          "pages": 2
+        },
+        {
+          "file": "Як використовувати трекер активностей.pdf",
+          "sha256": "88a8920670730a3af52a7eccab5fa7dbf5681b941a22d7a347dd95d1f1534527",
+          "pages": 1
+        },
+        {
+          "file": "Як говорити з дітьми про емоції.pdf",
+          "sha256": "1524a9f47d9d1d1c896ef3fe8f80064c9c894d9ba1494193369a3b19d779aa65",
+          "pages": 3
+        },
+        {
+          "file": "Як розвиваються емоційні навички.pdf",
+          "sha256": "08dd787b2cae6a13e7437a0eb41012eef8fb9e56c921222aabc59c843dc0cf03",
+          "pages": 1
+        },
+        {
+          "file": "вступ до соціально-емоційного навчання.pdf",
+          "sha256": "46098c9cda6b7bce6cf245a09058002739b89657523bfbf989e643eca24011ae",
+          "pages": 1
+        }
+      ]
+    },
+    {
+      "bundle": "all-kernels",
+      "url": "https://easel-kernels.s3.us-east-2.amazonaws.com/summary-files/all-kernels-uk-UA.zip",
+      "archive_sha256": "ef58dfdd10626854cd16f3f1c3733c1219ac3d6c527e6c9f0c3d87325ebb19f6",
+      "files": [
+        {
+          "file": "Історії з почуттями.pdf",
+          "sha256": "71be5e22bb42ab97fc8b82ce65a9982a51989a97901671bf874460c53dc25765",
+          "pages": 2
+        },
+        {
+          "file": "Вгадаймо емоцію.pdf",
+          "sha256": "541fb452ca5fbdbb03931965daa83116cd0dbee17cf39400e13078a6772be25f",
+          "pages": 2
+        },
+        {
+          "file": "Дерево почуттів.pdf",
+          "sha256": "0dbf69b24786072d3a465efd9b8e592f096d50b8cac054aad95825ee776f77df",
+          "pages": 2
+        },
+        {
+          "file": "Емоційне бінго.pdf",
+          "sha256": "6feae2ce359779607a6409ed450786a4014ab78ca2187eacc4c08ee48a6b776d",
+          "pages": 2
+        },
+        {
+          "file": "Заморозь емоцію.pdf",
+          "sha256": "186c00a46e11faa4b0ab4743ad9f2be3999a3141d2fd6c73dc9f76ab50095069",
+          "pages": 2
+        },
+        {
+          "file": "Коло емоцій.pdf",
+          "sha256": "a80bb7067cee0af16b934934c2f0839ec440525b9dfc85954cc91a34389c1f52",
+          "pages": 2
+        },
+        {
+          "file": "Кроки до спокою.pdf",
+          "sha256": "74b668e60c502ce6637499b42f7a36450ce9ed600b1c971b91b0d337ee27a757",
+          "pages": 2
+        },
+        {
+          "file": "Лінійка емоцій.pdf",
+          "sha256": "08ee28a9d82db659cab51cac028a1124ea9bff5256794bb5fbd4ddce51f6af78",
+          "pages": 2
+        },
+        {
+          "file": "Під іншим кутом.pdf",
+          "sha256": "b9a8eb6d03706ca80570801fe9158bd8a43ae18c9840de39f2789c6db4e92818",
+          "pages": 2
+        },
+        {
+          "file": "Підказки нашого тіла.pdf",
+          "sha256": "f1105e29a1c5cf9fbd58c593ec04ce08c787714e2d264f94748366f42cb8212c",
+          "pages": 2
+        },
+        {
+          "file": "Різні точки зору.pdf",
+          "sha256": "8d9b7b3b67aadc74a23dff3a52704d4df00a13dbfa141f628f1e861fb7f7a879",
+          "pages": 2
+        },
+        {
+          "file": "Я-повідомлення.pdf",
+          "sha256": "b70a8c5d8e071e309760042357b4bde6b6c1440366305472447251dc50ca0fec",
+          "pages": 2
+        },
+        {
+          "file": "Якщо ви.pdf",
+          "sha256": "1c97d71b3d4d084c612d5f639e7d32d3d90017afaa2e8924044cbaf08d36453c",
+          "pages": 2
+        },
+        {
+          "file": "Імена.pdf",
+          "sha256": "d9c142a53bc09d9df3a74e8eb0f45bfcbe37c7b20a24eb6acbe207ec2de2df4a",
+          "pages": 2
+        },
+        {
+          "file": "Абракадабра.pdf",
+          "sha256": "7076ae0f7bd6c4111bf93b8009fe0b2fd1b6151f0e52c6ca0c3be1e2ef862e8b",
+          "pages": 2
+        },
+        {
+          "file": "Гаряча картопля.pdf",
+          "sha256": "da0d8cb989ee588ece6c9bef38c6a5cc8164e3fc57c796e50cb7e2195f644399",
+          "pages": 2
+        },
+        {
+          "file": "Десять запитань.pdf",
+          "sha256": "26e9af91fe7ad9ac980940f8a1b0f64d01b0ccfada427eb1253874942b0d5978",
+          "pages": 2
+        },
+        {
+          "file": "Заспівай і покажи.pdf",
+          "sha256": "c1f7630ae1ebab5a53f2b776302c7472026d7de83b475c4b4cbeae13e96cf748",
+          "pages": 2
+        },
+        {
+          "file": "Заспіваймо разом.pdf",
+          "sha256": "be4e3ceffff37a34e27d3ecd1f57a67ebf05b79f1663ed7bcf53c1625d3f43a7",
+          "pages": 2
+        },
+        {
+          "file": "Зачекай.pdf",
+          "sha256": "489623485b3777c01b58dd7f6dfa55d955e73b01fc31fa74b17f58b76fea9099",
+          "pages": 2
+        },
+        {
+          "file": "Знайди таємного Агента.pdf",
+          "sha256": "a26d956e05e9f59e866037dc4b4d928e289d1c0e445ac4cf202c65b53dc0a181",
+          "pages": 2
+        },
+        {
+          "file": "Зроби інакше.pdf",
+          "sha256": "8bc39e96dc5a404a5d42c7cf33d1ed5aa2070813ee46d4585256d826f790272f",
+          "pages": 2
+        },
+        {
+          "file": "Зіп, зап, зуп.pdf",
+          "sha256": "1bfb1aaa15982571370d98662ef8e6b715255c1518ffdc91dfa38c8d40ea849e",
+          "pages": 2
+        },
+        {
+          "file": "Категорії.pdf",
+          "sha256": "2599adcf522ddb29f37ef0db5e921062e3344689a744c40aaccfcb45c073da80",
+          "pages": 2
+        },
+        {
+          "file": "Ловімо звуки.pdf",
+          "sha256": "23fc96bfcf2583df2f18d1093ae10ab4c15bf73337c6587626813970605077ce",
+          "pages": 2
+        },
+        {
+          "file": "Магазин одягу.pdf",
+          "sha256": "70b36875c12310f1219e9f86425eca47baf9211b27c5c8c26badd4224294b022",
+          "pages": 2
+        },
+        {
+          "file": "На моїй піці.pdf",
+          "sha256": "1e8a2a6e3cf8c9ffb732c84d8602325b595b7a382bccc88095fe81e6a90938bd",
+          "pages": 2
+        },
+        {
+          "file": "Останнє слово.pdf",
+          "sha256": "38b8af8dec3233364fc63d98ce959aa4577067ca7b62a431e8a9ec56d550225e",
+          "pages": 2
+        },
+        {
+          "file": "Петрик каже.pdf",
+          "sha256": "6a092a3c7f400ee6d52ed97d05469c78cca6f7f048e3687dec424b084f94eac1",
+          "pages": 2
+        },
+        {
+          "file": "Слухаємо уважно.pdf",
+          "sha256": "746bf916b47fa2c00c2708acdf6f5b2ef4b5ae0b221b63b403fe350b060fddef",
+          "pages": 2
+        },
+        {
+          "file": "Телефон.pdf",
+          "sha256": "1715ad4d441833c63a0134fba7bfb171c3ea237aefc81333388d4c0d3e1f4ef4",
+          "pages": 2
+        },
+        {
+          "file": "Фокус-покус.pdf",
+          "sha256": "7d8df91d30a3a38a84fe8fb1ca3f0ed72ffa55f2d9a1f50893019505eca83f54",
+          "pages": 2
+        },
+        {
+          "file": "Чотири кути.pdf",
+          "sha256": "e3bd318e4bfa60a24fe3060b35e1a3d0f823873dfbdbce4f2f19d5eb62284831",
+          "pages": 2
+        },
+        {
+          "file": "Вдячний Я.pdf",
+          "sha256": "2142751c576ba14a33b4d943115e19f6200435a14118bb10cea82c9acf949f66",
+          "pages": 2
+        },
+        {
+          "file": "Виглядає, як Звучить, як Відчувається, як.pdf",
+          "sha256": "3962bc4262b4c3a4c6dc892a55cf843b8513b9ce27f675b82d4179ce4a5e43ec",
+          "pages": 2
+        },
+        {
+          "file": "Вітер дме.pdf",
+          "sha256": "7bbfaeaaa973fda4f706b27de857d8b9ad9808c2725a31bc8ad41b3bbcce987d",
+          "pages": 2
+        },
+        {
+          "file": "Ділимося нашими інтересами.pdf",
+          "sha256": "7470297e702923533b053569e0fb647c1e6fa1866eab740d305bee24f0d11939",
+          "pages": 2
+        },
+        {
+          "file": "Знайди спільне.pdf",
+          "sha256": "2231be2523409a67f8ef00cd834972cb7668da0c9579192e74cbacd9116470fd",
+          "pages": 2
+        },
+        {
+          "file": "Квест-пошук.pdf",
+          "sha256": "4b08c2a954fa1bedcddcbb030bf69644c972a798789718ab991a4dfb3e77c6f5",
+          "pages": 2
+        },
+        {
+          "file": "Кроки до порозуміння.pdf",
+          "sha256": "af239177c6bc5384b8675fd99f53a2e6bb76ad40255ed817523c71e4bffbb21e",
+          "pages": 2
+        },
+        {
+          "file": "Нагорода для друга.pdf",
+          "sha256": "0d426d8bc5ddb4d2e5d349965ce265d0bedf9830075b9aa0c51a710eb1db6742",
+          "pages": 2
+        },
+        {
+          "file": "Наші досягнення.pdf",
+          "sha256": "779d2350d81ef93247261f8669a052eb70fd97eb71dddb41f9f1660e21249ff4",
+          "pages": 2
+        },
+        {
+          "file": "Правила нашої класної спільноти.pdf",
+          "sha256": "a5fe1395b48f914fdb4736dce3b61a596c576147bc5b8192c70fefb765257afc",
+          "pages": 2
+        },
+        {
+          "file": "Пробач мені.pdf",
+          "sha256": "f381eabde4b6e9a4ff3d3df3e69599ab8def221b473660e4c077c80b6b6abf63",
+          "pages": 2
+        },
+        {
+          "file": "Радіємо успіхам!.pdf",
+          "sha256": "2086c0d17030c12d32a5ae1e09ed6b0293e2f0121e02f0689c1c5af02cc2f0a1",
+          "pages": 2
+        },
+        {
+          "file": "Робімо компліменти.pdf",
+          "sha256": "f34ed77c2acacc785c6176f21e68269a4d31dd9e6583c6b8bf5fc0ab58ac2bc1",
+          "pages": 2
+        },
+        {
+          "file": "Скриня думок.pdf",
+          "sha256": "fece266a2481c284b11d97f4a3c215aa876f01a149127f32c68be403bae32413",
+          "pages": 2
+        },
+        {
+          "file": "Супердитина.pdf",
+          "sha256": "fb611e3b169e10467f031cc5f2309c9316e955adf09a9edbb6cc968cd70c59ee",
+          "pages": 2
+        },
+        {
+          "file": "Усміхнись!.pdf",
+          "sha256": "ceeeafbbbb5c4cea67ba5861a73bb6f384df72567c1bb4981c64c1c3a5130a0c",
+          "pages": 2
+        },
+        {
+          "file": "Утворімо лінію.pdf",
+          "sha256": "5c206a59c393dcdcbc8d9143866e05dc60f1f1b181413b082b5ccebdc77a55ff",
+          "pages": 2
+        },
+        {
+          "file": "Відчуваємо своє тіло.pdf",
+          "sha256": "294f22e549536870ff65b02fed3858ef2a31993d39da1044580f08d2e591e56b",
+          "pages": 2
+        },
+        {
+          "file": "Животики дихають.pdf",
+          "sha256": "8c10df007a6ea0a9f341c301151698306e997e561d66b8a742ac6b0f66604e6f",
+          "pages": 2
+        },
+        {
+          "file": "Малюнок про себе.pdf",
+          "sha256": "9cfbd9f9f59ce691169873cd52465a26907c24d75ae0cbdd022376c9580b7e6a",
+          "pages": 2
+        },
+        {
+          "file": "Охолоджуємо тіло і розум.pdf",
+          "sha256": "48532771f72b5b5b65361ef4bd247dff705c2310374721e7a242553835d09c1c",
+          "pages": 2
+        },
+        {
+          "file": "Подорож до прекрасного місця.pdf",
+          "sha256": "77cccdd87cdce00b3784dc2886f2377bfbfe0fce5abdf6cbfbf816be840f7aff",
+          "pages": 2
+        },
+        {
+          "file": "Потягнися!.pdf",
+          "sha256": "2e81dba5dc5c1a2606ee00a81b06f5de7b06e07ae5b6e8c2e3e58dc64bfdd0f9",
+          "pages": 2
+        },
+        {
+          "file": "П’ять чуттів.pdf",
+          "sha256": "74125ee9d04c22286692b80acc259da5786607e176bf7afa1a498029b0346126",
+          "pages": 2
+        },
+        {
+          "file": "Сила «Поки що».pdf",
+          "sha256": "94270e320e0756af58dab3478a608c8ea7792ff39ebb6039b93cb7333b405757",
+          "pages": 2
+        },
+        {
+          "file": "Супергерої внутрішнього діалогу.pdf",
+          "sha256": "13f83c1e5269940e314591bcd517b55a08f5e95c46a8a592417a6f414293da30",
+          "pages": 2
+        },
+        {
+          "file": "Я бачу.pdf",
+          "sha256": "2f3bd8b39b97aa6d7429123efc9e616f10540e68cd039775fb568bf83132c5b7",
+          "pages": 2
+        }
+      ]
+    },
+    {
+      "bundle": "all-supplemental-materials",
+      "url": "https://easel-kernels.s3.us-east-2.amazonaws.com/summary-files/all-supplemental-materials-uk-UA.zip",
+      "archive_sha256": "db5a8329cd6a8f9fb11bf1cb8cddaac70ef01bd28611438242319de1745dab44",
+      "files": [
+        {
+          "file": "Дерево почуттів.pdf",
+          "sha256": "c488ad6c524d6c614d75a5a65faa26c061dc12301ffceea41a42be1d512833f6",
+          "pages": 1
+        },
+        {
+          "file": "Диплом «Супердитина».pdf",
+          "sha256": "fb03992546bc697fd2fb36f48d07ecb916ad699d04d4c35cc5bd825894bbd7f1",
+          "pages": 1
+        },
+        {
+          "file": "Картки для Емоційного бінго.pdf",
+          "sha256": "334d8fd6bd2b4e1190a8de606ec16133166a9106f0efed707a030413e1d1e0d5",
+          "pages": 10
+        },
+        {
+          "file": "Картки для квесту-пошуку.pdf",
+          "sha256": "688a9f84dfeed61aabdb3098ee4e6c51ee971ed1bd7ea6534b86cd1c85cc4a6a",
+          "pages": 1
+        },
+        {
+          "file": "Картки емоцій.pdf",
+          "sha256": "5a61232d8d1392235ad275cdb28a20caf305686263a6bf8fa5701ed9e1539303",
+          "pages": 45
+        },
+        {
+          "file": "Орієнтири для створення значущих компліментів.pdf",
+          "sha256": "e4f8afcea603b2253d805f3980c538ce78148b3785eca54dd4992f4d9f279467",
+          "pages": 1
+        },
+        {
+          "file": "Плакат «Я винен, пробач мені».pdf",
+          "sha256": "a81177f40f7817bdbbbb3c0399ed8b05e555dc9d4e10af2c8e13005333f3d1ab",
+          "pages": 1
+        },
+        {
+          "file": "Плакат «Як розв’язувати конфлікти».pdf",
+          "sha256": "60fafdf1f4c89f5aa02825faee4e299b80ff910f64765da31845fe84e487a3de",
+          "pages": 1
+        }
+      ]
+    }
+  ]
+}

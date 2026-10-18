@@ -128,3 +128,24 @@ for number in range(1,141):
   assert 'while Ari washed up' in text
   assert not re.search(r'Yesterday (\w+) swept the floor while \1 washed up',text)
 print('PASS: all household-story variants keep simultaneous actors distinct.')
+
+# SEL has a concrete action and an optional transfer prompt, not just a programme label.
+for l in source:
+ p=g.profile(l);sel=g.sel_profile(p);d=BASE/f"{l['number']:03d}"
+ plan=(d/'lesson.md').read_text();games=(d/'games.md').read_text();sheet=(d/'handout.md').read_text()
+ assert sel['focus'] in plan and sel['focus'] in games
+ assert sel['prompt'] in games and sel['prompt'] in sheet
+ assert '6–7 коротка рефлексія' in games and 'АБО коротку рефлексію' in games
+ assert 'можна попросити паузу без пояснення причин' in plan
+ assert 'не вимагати «правильної» емоції чи зовнішнього спокою' in plan
+ assert '(../SEL_NUSH_REVIEW.md)' in plan
+ assert (d/'../SEL_NUSH_REVIEW.md').resolve().is_file()
+ for target in re.findall(r'\]\(([^)]+)\)',plan):
+  if not re.match(r'https?://',target):assert (d/target).resolve().is_file(),(l['number'],target)
+ if p['mode']=='assessment':
+  key=(d/'key.md').read_text();assert 'три офіційні групи' not in key or 'L/R/S/P' in key
+  for group in ('група 1','група 2','група 3'):assert group in key,(l['number'],group)
+  assert 'не встановлюють офіційного рівня групи' in key
+assert 'не запис діалогу' in (BASE/'101/handout.md').read_text()
+assert 'A fictional visitor had a sore throat' in (BASE/'101/key.md').read_text()
+print('PASS: 140 concrete SEL intents/actions and optional transfer prompts; privacy, age adaptation, three official language-result groups and valid source links.')

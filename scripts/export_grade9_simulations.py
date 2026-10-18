@@ -164,7 +164,7 @@ def export():
                 opts=[{'text':tidy(q['answer']),'effect':'advance'},{'text':tidy(q['wrong'][0]),'effect':'retry'}]
                 if (n+round_index+i)%2:opts.reverse()
                 steps.append({'prompt':tidy(q['prompt']),'choices':opts,'hint':HINTS[typ]})
-            games.append({'id':mode,'mode':mode,'title':('Майстерня: ' if mode=='learn' else 'Новий виклик: ')+title,'role':learner_role,'goal':goal,'source':tidy(material(c,mode)),'steps':steps,'production':production(c)})
+            games.append({'id':mode,'mode':mode,'title':('Майстерня: ' if mode=='learn' else 'Новий виклик: ')+title,'role':learner_role,'goal':goal,'source':tidy(material(c,mode)),'steps':steps,'production':production(c),'reflection':{'focus':tidy(BUILD['sel_profile'](c)['focus']),'prompt':'За бажанням: '+tidy(BUILD['sel_profile'](c)['prompt'])+' Можна подумати мовчки або пропустити; балів за це немає.'}})
         lessons.append({'id':f'g9-{n:03d}','number':n,'title':title,'slugs':slugs(l,c),'games':games})
     return {'version':1,'grade':9,'lessons':lessons}
 

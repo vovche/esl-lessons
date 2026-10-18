@@ -101,6 +101,13 @@ assessment_count=0
 for l in source['lessons']:
     number=l['number'];folder=BASE/f'{number:03d}'
     assert l['topic'] in (folder/'lesson.md').read_text()
+    reviewed_lesson=(folder/'lesson.md').read_text()
+    assert 'СЕН: конкретна навичка й дія' in reviewed_lesson
+    assert 'L/R/S/W — види первинних доказів, не чотири офіційні групи' in reviewed_lesson
+    assert 'Соло-роль не доводить фактичної співпраці' in reviewed_lesson
+    assert 'SEL_NUSH_REVIEW.md' in reviewed_lesson
+    assert 'Ні почуття, ні участь у рефлексії до неї не входять' in (folder/'key.md').read_text()
+    assert 'Мовні докази за групами:1' in (folder/'report.md').read_text()
     hand=(folder/'handout.md').read_text();key=(folder/'key.md').read_text();lesson=(folder/'lesson.md').read_text();games=(folder/'games.md').read_text()
     formal=l['lesson_type'] in ('pair_diagnostic','semester_check')
     if formal:
@@ -143,6 +150,8 @@ for l in source['lessons']:
     # New game2 cards must differ from practiced worksheet cards, not just shuffled options.
     check_section=games.split('## 2. Перевірка')[1]
     assert 'Окремий паралельний контекст' in check_section
+    assert 'Необов’язкова рефлексія навички' in games
+    assert 'після фіксації перших самостійних рішень' in games
     assert 'із підтримкою' in games and 'не переписують первинний результат' in games
     assert 'Допустимий приклад зі зміненою деталлю:' in games
     assert 'вправа3 аркуша' in check_section

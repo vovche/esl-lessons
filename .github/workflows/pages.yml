@@ -35,6 +35,7 @@ jobs:
           python3 tests/check_naurok_homework.py
           python3 tests/check_homework_archives.py
           python3 tests/check_teacher_materials.py
+          python3 tests/check_grade11_materials.py
           python3 tests/check_teacher_grade6_quality.py
           python3 tests/check_teacher_grade7_quality.py
           python3 tests/check_teacher_grade9_quality.py
@@ -42,6 +43,7 @@ jobs:
           python3 tests/check_grade7_simulations.py
           python3 tests/check_grade9_simulations.py
           python3 tests/check_student_simulations.py
+          python3 tests/check_sel_nush_alignment.py
           node tests/check_lesson_simulations.cjs
       - name: Stage public website
         run: python3 scripts/prepare_pages.py --output "$RUNNER_TEMP/esl-pages"

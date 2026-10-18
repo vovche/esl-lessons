@@ -170,6 +170,32 @@ def hint(p):
 
 def production(p, cards):
     mode = p['mode']
+    n, u = p['number'], p['u']
+    if n == 4:
+        return {'prompt': 'Опиши одну дію вигаданого героя англійською без оцінного ярлика.',
+                'starter': 'The character likes …'}
+    if mode not in ('grammar', 'review', 'portfolio', 'vocabulary'):
+        if n in (3, 11):
+            return {'prompt': 'Напиши одну англійську репліку, якою герой може попросити більше часу або письмову відповідь.',
+                    'starter': 'Could I …, please?'}
+        if u == 2:
+            return {'prompt': 'Запропонуй англійською одну зміну плану справ з урахуванням ролі іншого вигаданого учасника.',
+                    'starter': 'Could we share …? I can …'}
+        if n in (33, 34):
+            return {'prompt': 'Напиши одне ввічливе англійське запитання про незнайомий звичай за столом.',
+                    'starter': 'Could you explain …, please?'}
+        if n == 37:
+            return {'prompt': 'Напиши перший крок паперового плану для нового вигаданого фуд-артиста.',
+                    'starter': 'First, …'}
+        if u == 4:
+            return {'prompt': 'Запроси вигаданого гостя однією англійською реплікою, залишивши вибір долучитися або спостерігати.',
+                    'starter': 'You can join or …'}
+        if u == 6:
+            return {'prompt': 'Напиши одне чітке англійське уточнення або прохання допомоги до дорослого від вигаданого персонажа.',
+                    'starter': 'Could you …, please?'}
+        if n in (103, 111, 112, 117):
+            return {'prompt': 'Однією англійською реплікою прийми іншу думку про фільм і назви власний вибір без осуду.',
+                    'starter': 'I see your point. I prefer …'}
     if mode in ('grammar', 'review', 'portfolio'):
         stem = re.sub(r'\s*\([^()]* / [^()]*\)\s*$', '', cards[0]['prompt'])
         return {'prompt': 'Запиши одне повне англійське речення з обраною формою.',
@@ -205,7 +231,8 @@ def mission(p, phase, content):
     return {'id': phase, 'mode': phase,
             'title': ('Відкрий картку: ' if learn else 'Нова картка: ') + public_title(p),
             'role': ROLES[p['u']], 'goal': GOALS[p['mode']], 'source': source,
-            'steps': steps, 'production': production(p, cards)}
+            'steps': steps, 'production': production(p, cards),
+            'reflection': {key: content['sel_profile'](p)[key] for key in ('focus', 'prompt')}}
 
 
 def export_data():

@@ -135,6 +135,7 @@
         return;
       }
       host.append(el('p', 'sim-role', game.role), el('p', 'sim-goal', game.goal));
+      if (game.reflection) host.append(el('p', 'sim-skill-focus', 'Спробуй під час місії: ' + game.reflection.focus));
       if (state.run > 1) host.append(el('p', 'sim-muted', 'Повторна спроба. Перший завершений результат зберігається окремо.'));
       if (state.phase === 'complete') { renderSummary(); return; }
       const progressLabel = el('p', 'sim-progress-label', 'Хід ' + (state.cursor + 1) + ' із ' + game.steps.length);
@@ -181,12 +182,12 @@
       const total = game.steps.length;
       host.append(el('p', 'sim-score', 'З першої спроби в цьому проходженні: ' + score(state) + ' із ' + total + '.'));
       if (state.run > 1 && state.firstResult !== null) host.append(el('p', 'sim-muted', 'Перший завершений результат: ' + state.firstResult + ' із ' + total + '.'));
-      host.append(el('p', 'sim-muted', 'Це самоперевірка. Можна повернутися до матеріалу уроку й потренуватися ще.'));
+      host.append(el('p', 'sim-muted', 'Це коротка самоперевірка. Обери наступний крок: перечитати картку, потренуватися з підказкою або скласти власний приклад. Результат не є оцінкою за тему.'));
       if (game.production && game.production.prompt) {
         const label = el('label', 'sim-label', 'Твоя англійська репліка');
         const id = 'sim-production-' + grade + '-' + slug;
         label.htmlFor = id;
-        host.append(label, el('p', '', game.production.prompt));
+        host.append(label, el('p', '', game.production.prompt), el('p', 'sim-muted', 'Перевір себе: чи репліка відповідає ситуації та чи використано потрібні слова або мовну конструкцію? Автоматично перевіряються лише два попередні рішення.'));
         const input = el('textarea', 'sim-production'); input.id = id; input.rows = 3; input.maxLength = 500;
         input.value = state.production; input.placeholder = game.production.starter || 'Write one short phrase…';
         input.addEventListener('input', () => { state.production = input.value; persist(); });
@@ -198,6 +199,13 @@
             'Чернетку збережено на цьому пристрої. Перевір, чи вона виконує завдання, або обговори її з учителем.' :
             'Чернетка доступна, доки сторінку відкрито. Можеш переписати її в зошит.';
         }), status);
+      }
+      if (game.reflection) {
+        const reflection = el('details', 'sim-reflection');
+        reflection.append(el('summary', '', 'Поміркуй про свій спосіб дії'));
+        reflection.append(el('p', '', game.reflection.prompt));
+        reflection.append(el('p', 'sim-muted', 'Можна подумки, українською або на вигаданому прикладі. Можна пропустити. Ця частина без балів; відповідь нікуди не записується.'));
+        host.append(reflection);
       }
       const actions = el('div', 'sim-toolbar');
       actions.append(button('Пройти ще раз', () => { go(restart(game, state)); focusHeading(); }, true), button('Обрати іншу місію', showMenu, true));

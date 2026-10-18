@@ -23,8 +23,13 @@ def check():
         c=mod['BUILD']['card'](mod['PLAN'][n-1])
         raw=[mod['questions'](c),mod['BUILD']['transfer_items'](c)]
         for ri,(g,mode) in enumerate(zip(l['games'],['learn','check'])):
-            assert set(g)=={'id','mode','title','role','goal','source','steps','production'}
+            assert set(g)=={'id','mode','title','role','goal','source','steps','production','reflection'}
             assert g['id']==g['mode']==mode
+            assert set(g['reflection'])=={'focus','prompt'}
+            assert g['reflection']['focus'] and 'За бажанням' in g['reflection']['prompt']
+            assert 'пропустити' in g['reflection']['prompt'] and 'балів' in g['reflection']['prompt']
+            assert 'How do you feel' not in g['reflection']['prompt']
+            assert 'Оціни' not in g['reflection']['prompt']
             assert len(g['steps'])==2 and g['source'] and g['production']['prompt']
             for si,step in enumerate(g['steps']):
                 assert set(step)=={'prompt','choices','hint'}

@@ -28,8 +28,12 @@ for record,original in zip(actual['lessons'],calendar):
  covered.update(record['slugs'])
  assert [x['id'] for x in record['games']]==['learn','check']
  for game in record['games']:
-  assert set(game)=={'id','mode','title','role','goal','source','steps','production'}
+  assert set(game)=={'id','mode','title','role','goal','source','steps','production','reflection'}
   phase=game['mode'];assert phase==game['id'] and phase in ('learn','check')
+  assert set(game['reflection'])=={'focus','prompt'}
+  assert game['reflection']=={k:content['sel_profile'](p)[k] for k in ('focus','prompt')}
+  assert all(game['reflection'].values())
+  assert not re.search(r'як ти почуваєш|твоя травма|оцін[иі] сво[їй] емоц',game['reflection']['prompt'],re.I)
   cards=content['simulation_cards' if phase=='learn' else 'checking_cards'](p)
   assert len(game['steps'])==2
   pattern=[]

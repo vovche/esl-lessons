@@ -26,20 +26,25 @@ for public,planned in zip(payload['lessons'],source['lessons']):
     reviewed=exporter.reviewed_mission_data(planned)
     assert len(public['games'])==2
     for game_index,(game,mode) in enumerate(zip(public['games'],('learn','check'))):
-        assert set(game)=={'id','mode','title','role','goal','source','steps','production'}
+        assert set(game)=={'id','mode','title','role','goal','source','steps','production','reflection'}
         assert game['id']==game['mode']==mode
         assert all(game[field] for field in ('title','role','goal','source'))
         assert game['title']==reviewed['titles'][game_index]
         if mode=='learn':
             assert game['source'].endswith(reviewed['sources'][0]+'\n\nModel: '+reviewed['model'])
             assert 'Words:' in game['source']
-            assert game['goal']==reviewed['goal']
+            assert game['goal'].startswith(reviewed['goal'])
+            assert 'За бажанням:' in game['goal']
             assert 'першого чи другого ходу' in game['production']['prompt']
         else:
             assert game['source']==reviewed['sources'][1]
             assert 'Model:' not in game['source']
             assert 'Підстава:' not in game['source']
             assert game['steps'][0]['prompt'] in game['production']['prompt']
+        assert set(game['reflection'])=={'focus','prompt'}
+        assert game['reflection']['focus'] and 'необов’язково' in game['reflection']['prompt']
+        assert 'подумки' in game['reflection']['prompt']
+        assert 'http' not in json.dumps(game['reflection'])
         assert len(game['steps'])==2
         for step_index,step in enumerate(game['steps']):
             card_index=game_index*2+step_index
@@ -68,6 +73,10 @@ assert 'printer —' in by_number[58]['games'][0]['source']
 assert 'School — Park — Library' in by_number[44]['games'][0]['source']
 assert 'A = 3; B = 5; C = 8' in by_number[48]['games'][0]['source']
 assert 'The customer has 12 pounds' in by_number[94]['games'][0]['source']
+assert 'колір, розмір і ціна' in by_number[94]['games'][0]['reflection']['prompt']
+assert 'припущення' in by_number[35]['games'][1]['reflection']['prompt']
+assert 'кроків' in by_number[4]['games'][0]['reflection']['prompt']
+assert by_number[35]['games'][0]['reflection']['prompt']!=by_number[35]['games'][1]['reflection']['prompt']
 assert 'в календарі' not in json.dumps(payload,ensure_ascii=False)
 assert mapped==existing-{'jolly-phonics'},('Unmapped public pages',sorted(existing-{'jolly-phonics'}-mapped))
 assert positions=={0,1,2},'Correct choice position is predictable'
