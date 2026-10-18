@@ -1,0 +1,40 @@
+{
+  "base": "https://vovche.github.io/esl-lessons/",
+  "reports": [
+    {
+      "grade": 6,
+      "id": "g6-002",
+      "offlineReload": true,
+      "pausedHint": true,
+      "firstChoiceLocked": true,
+      "draft": true,
+      "newTab": true,
+      "reconnection": true,
+      "offlineConnectionProbe": true
+    },
+    {
+      "grade": 7,
+      "id": "g7-037",
+      "offlineReload": true,
+      "pausedHint": true,
+      "firstChoiceLocked": true,
+      "draft": true,
+      "newTab": true,
+      "reconnection": true,
+      "offlineConnectionProbe": true
+    },
+    {
+      "grade": 9,
+      "id": "g9-023",
+      "offlineReload": true,
+      "pausedHint": true,
+      "firstChoiceLocked": true,
+      "draft": true,
+      "newTab": true,
+      "reconnection": true,
+      "offlineConnectionProbe": true
+    }
+  ],
+  "testedCommit": "8a3205ae270ed50630b9c125d716d9a23134f676",
+  "date": "2026-10-18"
+}
