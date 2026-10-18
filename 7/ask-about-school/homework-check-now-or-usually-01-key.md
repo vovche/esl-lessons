@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test/7-klas-now-or-usually-teperishni-chasi-3886802.html). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=1924287).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/007125354).
 ## 1. 1 бал
 
 Доповни: Eddy ___ music. (love; загальний факт)
