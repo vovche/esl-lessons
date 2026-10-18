@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886815). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=9478728).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/003161277).
 ## 1. 1 бал
 
 Доповни одним словом: What ___ Dad make for dinner yesterday?
