@@ -1,0 +1,89 @@
+{
+  "date": "2026-10-18",
+  "reports": [
+    {
+      "grade": 6,
+      "engine": "chromium",
+      "oldRef": "8a3205ae",
+      "newRef": "working-tree",
+      "passed": true,
+      "failedInstallState": "redundant",
+      "interruptedOldCacheUnchanged": true,
+      "oldOfflineStatesAfterFailedInstall": true,
+      "successfulInstallState": "activated",
+      "newCoreCached": true,
+      "seededGameStorageRetained": true,
+      "newOfflineStates": true
+    },
+    {
+      "grade": 6,
+      "engine": "webkit",
+      "oldRef": "8a3205ae",
+      "newRef": "working-tree",
+      "passed": true,
+      "failedInstallState": "redundant",
+      "interruptedOldCacheUnchanged": true,
+      "oldOfflineStatesAfterFailedInstall": true,
+      "successfulInstallState": "activated",
+      "newCoreCached": true,
+      "seededGameStorageRetained": true,
+      "newOfflineStates": true
+    },
+    {
+      "grade": 7,
+      "engine": "chromium",
+      "oldRef": "8a3205ae",
+      "newRef": "working-tree",
+      "passed": true,
+      "failedInstallState": "redundant",
+      "interruptedOldCacheUnchanged": true,
+      "oldOfflineStatesAfterFailedInstall": true,
+      "successfulInstallState": "activated",
+      "newCoreCached": true,
+      "seededGameStorageRetained": true,
+      "newOfflineStates": true
+    },
+    {
+      "grade": 7,
+      "engine": "webkit",
+      "oldRef": "8a3205ae",
+      "newRef": "working-tree",
+      "passed": true,
+      "failedInstallState": "redundant",
+      "interruptedOldCacheUnchanged": true,
+      "oldOfflineStatesAfterFailedInstall": true,
+      "successfulInstallState": "activated",
+      "newCoreCached": true,
+      "seededGameStorageRetained": true,
+      "newOfflineStates": true
+    },
+    {
+      "grade": 9,
+      "engine": "chromium",
+      "oldRef": "8a3205ae",
+      "newRef": "working-tree",
+      "passed": true,
+      "failedInstallState": "redundant",
+      "interruptedOldCacheUnchanged": true,
+      "oldOfflineStatesAfterFailedInstall": true,
+      "successfulInstallState": "activated",
+      "newCoreCached": true,
+      "seededGameStorageRetained": true,
+      "newOfflineStates": true
+    },
+    {
+      "grade": 9,
+      "engine": "webkit",
+      "oldRef": "8a3205ae",
+      "newRef": "working-tree",
+      "passed": true,
+      "failedInstallState": "redundant",
+      "interruptedOldCacheUnchanged": true,
+      "oldOfflineStatesAfterFailedInstall": true,
+      "successfulInstallState": "activated",
+      "newCoreCached": true,
+      "seededGameStorageRetained": true,
+      "newOfflineStates": true
+    }
+  ]
+}

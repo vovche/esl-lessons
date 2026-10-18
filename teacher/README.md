@@ -4,6 +4,7 @@
 Обсяг і межі виконаної перевірки: [VALIDATION.md](VALIDATION.md).
 
 Проходження учнівських ігор у браузері, виправлення та межі мобільної перевірки: [BROWSER_REVIEW.md](BROWSER_REVIEW.md).
+Оновлення зі старим офлайн-кешем: [CACHE_UPGRADE_REVIEW.md](CACHE_UPGRADE_REVIEW.md).
 Мобільні дотики та перезапуск браузера: [MOBILE_RESTART_REVIEW.md](MOBILE_RESTART_REVIEW.md).
 Перевірка вже опублікованого сайту: [PUBLISHED_OFFLINE_REVIEW.md](PUBLISHED_OFFLINE_REVIEW.md).
 Перевірка втрати інтернету, перезавантаження та відновлення прогресу: [OFFLINE_REVIEW.md](OFFLINE_REVIEW.md).

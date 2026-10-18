@@ -33,7 +33,7 @@ const base=process.env.SIM_BASE_URL||'http://127.0.0.1:8876/';
   await root.getByRole('button',{name:'Продовжити місію',exact:true}).click();assert(await root.locator('.sim-choice').first().isDisabled());assert.equal(await root.getByRole('button',{name:'Підказка',exact:true}).count(),0);
   await root.getByRole('button',{name:'Наступний хід',exact:true}).click();await root.locator('.sim-choice').nth(check.steps[1].choices.findIndex(c=>c.effect==='advance')).click();await root.getByRole('button',{name:'Завершити місію',exact:true}).click();assert.match(await root.locator('.sim-score').innerText(),/1 із 2/);
   const tab=await context.newPage();await tab.goto(url,{waitUntil:'domcontentloaded'});await tab.locator('[data-sim-load]').click();assert.equal(await tab.locator('.sim-select').inputValue(),id);assert.equal(await tab.getByRole('button',{name:'Переглянути результат',exact:true}).count(),2);await tab.close();
-  const keys=await page.evaluate(async()=>{const cache=await caches.open('esl-missions-v1');return(await cache.keys()).map(r=>r.url)});
+  const keys=await page.evaluate(async()=>{const cache=await caches.open('esl-missions-v2');return(await cache.keys()).map(r=>r.url)});
   assert(keys.every(k=>!k.includes('/teacher/')&&!k.includes('jolly-phonics')));assert(keys.some(k=>k===new URL(`${grade}/simulations.json`,base).href));
   await page.locator('[data-offline-return]').click();await page.getByText('Зв’язок поки недоступний.',{exact:false}).waitFor();
   assert(await page.locator('.offline-page').isVisible());

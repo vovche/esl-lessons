@@ -123,6 +123,17 @@
         preparing = false; retryOffline.hidden = offlineReady; connectionStatus();
       }
     }
+    if ('serviceWorker' in navigator) {
+      let hadController = Boolean(navigator.serviceWorker.controller);
+      navigator.serviceWorker.addEventListener('controllerchange', () => {
+        if (hadController && !root.querySelector('[data-sim-update]')) {
+          const notice = el('p', 'sim-note', 'Оновлення готове. Можна завершити поточну місію; нова версія відкриється після перезавантаження.');
+          notice.dataset.simUpdate = ''; notice.setAttribute('role', 'status');
+          root.insertBefore(notice, host);
+        }
+        hadController = true;
+      });
+    }
     global.addEventListener('offline', connectionStatus);
     global.addEventListener('online', () => { connectionStatus(); if (lessons.length && !offlineReady) prepareOffline(); });
     connectionStatus();

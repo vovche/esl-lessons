@@ -1,7 +1,9 @@
 /* A small, explicit offline cache for student missions, not whole lessons. */
 'use strict';
-// Shell revision 2: reinstall the core files so existing caches receive touch-readiness fixes.
-const CACHE_NAME = 'esl-missions-v1';
+// Bump this cache version whenever the offline shell/runtime changes. Install writes
+// a separate bundle; an interrupted update must never overwrite the active bundle.
+const CACHE_NAME = 'esl-missions-v2';
+const PREVIOUS_CACHES = ['esl-missions-v1'];
 const SITE = new URL('./', self.registration.scope);
 const CORE_PATHS = ['offline-simulations.html', 'assets/offline-simulations.js', 'assets/lesson-simulations.js', 'assets/lesson-simulations.css', 'assets/lesson-theme.css'];
 const CORE = CORE_PATHS.map(path => new URL(path, SITE).href);
@@ -29,10 +31,27 @@ self.addEventListener('install', event => {
 });
 self.addEventListener('activate', event => {
   event.waitUntil((async () => {
-    for (const name of await caches.keys()) if (name.startsWith('esl-missions-') && name !== CACHE_NAME) await caches.delete(name);
+    // Retain the previous bundle for still-open tabs and as a migration fallback.
+    for (const grade of GRADES) await storedGrade(grade);
     await self.clients.claim();
   })());
 });
+async function storedGrade(grade) {
+  const current = await caches.open(CACHE_NAME);
+  const names = await caches.keys();
+  for (const name of [CACHE_NAME, ...PREVIOUS_CACHES]) {
+    if (!names.includes(name)) continue;
+    const response = await (await caches.open(name)).match(gradeURL(grade));
+    if (!response) continue;
+    try {
+      if (!validData(await response.clone().json(), grade)) continue;
+      if (name !== CACHE_NAME) {
+        try { await current.put(gradeURL(grade), response.clone()); } catch (_) { /* The previous cache remains usable. */ }
+      }
+      return response;
+    } catch (_) { /* Ignore invalid old data and try the next cache. */ }
+  }
+}
 self.addEventListener('message', event => {
   const data = event.data;
   if (!data || data.type !== 'PREPARE_MISSIONS' || !GRADES.has(String(data.grade))) return;
@@ -46,22 +65,25 @@ self.addEventListener('message', event => {
         if (!response.ok || !validData(await response.clone().json(), grade)) throw new Error('Mission data unavailable');
         await cache.put(gradeURL(grade), response);
       } catch (error) {
-        const existing = await cache.match(gradeURL(grade));
+        const existing = await storedGrade(grade);
         if (!existing || !validData(await existing.json(), grade)) throw error;
       }
-      if (!(await cache.match(gradeURL(grade))) || !(await Promise.all(CORE.map(url => cache.match(url)))).every(Boolean)) throw new Error('Mission cache incomplete');
+      if (!(await storedGrade(grade)) || !(await Promise.all(CORE.map(url => cache.match(url)))).every(Boolean)) throw new Error('Mission cache incomplete');
       if (port) port.postMessage({ok: true});
     } catch (_) { if (port) port.postMessage({ok: false}); }
   })());
 });
 async function cachedResource(request, grade) {
   const cache = await caches.open(CACHE_NAME);
+  // Core files belong to one installed release. Do not mix a later partial
+  // deployment into the active bundle via network-first resource requests.
+  if (!grade) { const pinned = await cache.match(request.url); if (pinned) return pinned; }
   try {
     const response = await network(request);
     if (!response.ok || (grade && !validData(await response.clone().json(), grade))) throw new Error('Mission resource unavailable');
     try { await cache.put(request.url, response.clone()); } catch (_) { /* Online use still works if cache storage is full. */ }
     return response;
-  } catch (error) { const cached = await cache.match(request.url); if (cached) return cached; throw error; }
+  } catch (error) { const cached = grade ? await storedGrade(grade) : await cache.match(request.url); if (cached) return cached; throw error; }
 }
 async function navigation(request) {
   const url = new URL(request.url);
@@ -74,7 +96,7 @@ async function navigation(request) {
     if (!response.ok) throw new Error('Lesson unavailable');
     return response;
   } catch (error) {
-    const cache = await caches.open(CACHE_NAME), stored = await cache.match(gradeURL(match[1]));
+    const cache = await caches.open(CACHE_NAME), stored = await storedGrade(match[1]);
     if (!stored) throw error;
     const data = await stored.json();
     if (!validData(data, match[1]) || !data.lessons.some(lesson => lesson.slugs.includes(match[2]))) throw error;
