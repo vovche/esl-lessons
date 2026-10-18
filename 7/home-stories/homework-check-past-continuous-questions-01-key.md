@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test/7-klas-what-were-you-doing-minula-trivala-diya-3886809.html). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=4711293).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/0030170065).
 ## 1. 1 бал
 
 Доповни одним словом: Where ___ they washing the dishes?
