@@ -75,4 +75,6 @@ def main():
  root=ROOT/'index.html';html=root.read_text();start=html.index('<h2 id="class-9">');a=html.rfind('<section',0,start);b=html.index('</section>',start)+len('</section>');rootblock='<section class="class-section"><div class="class-heading"><h2 id="class-9"><a class="section-link" data-site-nav="grade" href="9/">9 клас →</a></h2><span>Starter · Unit 1–8 · аудіо SB і WB</span></div><div class="cards">'+''.join(card(s,'9/') for s in lessons)+extra.replace('href="','href="9/')+'</div></section>';root.write_text(html[:a]+rootblock+html[b:]);print('grade 9: built',len(lessons),'sections; retained',len(legacy),'lessons; 2 references')
  from attach_naurok_homework import apply_grade
  apply_grade(9)
+ from attach_lesson_simulations import apply_grade as apply_simulations
+ apply_simulations(9)
 if __name__=='__main__':main()

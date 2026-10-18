@@ -16,8 +16,8 @@
         },
         "games.pdf": {
           "pages": 2,
-          "sha256": "fb90c0c5a71b2dff37f6539e061d0786be22ffe352b83457b158cd8aa835d09d",
-          "source_sha256": "227720d659087ffabaa7f95b2f561d82de2e872869e78e1bfc0bc10828a8d028"
+          "sha256": "dc50a7c7c92fbf14d0ce9a9a03a4dd44fdfa5b3aff8719de844dba6ebec7ee40",
+          "source_sha256": "336e1da2c29dc0dd80576b424d56d16db8ee09aa85beb242b4ca5d48d1ba8241"
         }
       }
     },
@@ -196,8 +196,8 @@
         },
         "games.pdf": {
           "pages": 2,
-          "sha256": "ee55f232d7d5daab8dc1fcf4aa90367a96803ba902a4f1db4ef068372c786204",
-          "source_sha256": "be180f2ce26b1ce22fdea8db554b582a8c0407cd2a12b2b390c6cfce9d3e752c"
+          "sha256": "3b69b1f215d24435232968e1409daa8caa063157330b796bcb54aff5c2991f01",
+          "source_sha256": "3932f3c9d9f5879654bd442c3163198b748cef25ea72abea955e42d05f8cac51"
         }
       }
     },
@@ -476,8 +476,8 @@
         },
         "games.pdf": {
           "pages": 2,
-          "sha256": "67444c9d727e6e6d0ae844a6f1e1a0a09d8bd4ca4276b839a096c59e77187975",
-          "source_sha256": "278a4dcd543846663c01aceb67a6fb172c776dc000398c158a265e97232aab8d"
+          "sha256": "a814d64f9e60325e125c55abfafa5a8ec8d4718348dcbaa5985fc9332d0e829f",
+          "source_sha256": "76325f8ddb7b591d589d3a89bc5069201024355abe9b953ee17f4f0c4a7e16cc"
         }
       }
     },
@@ -856,8 +856,8 @@
         },
         "games.pdf": {
           "pages": 2,
-          "sha256": "22bdbb3f527afc51f9c05c4a4943273b66a3a4c7989bbec00a863deb2fa7affc",
-          "source_sha256": "5e9610e801f31066b0ddd5a669ec3308040a20f940067fadb045011861e2248c"
+          "sha256": "83925026a098f7f966544b15d40c4399349e04e15bfb2b9bcda6e727fcae7e64",
+          "source_sha256": "52db2b26c6df502573680b1def9ec3af3f017f52ac4df6279d07903ae87c0d52"
         }
       }
     },
@@ -876,8 +876,8 @@
         },
         "games.pdf": {
           "pages": 2,
-          "sha256": "0e416ba06acceeb89204028b06cf471c14d1fad485c3f2d479d0ee78025f6d10",
-          "source_sha256": "1f059dd20cee997b27de15e7b517b94023df238f119b7b6d88534ad6358bc33c"
+          "sha256": "55dae47cbd918f34b728288dffb904519ff13a8bdc8f0b5256f7a105228c39a5",
+          "source_sha256": "0a5656c2de2307cde388eea703e08c285953c2b340b8477e2e4373cd24bd7f86"
         }
       }
     },
@@ -1176,8 +1176,8 @@
         },
         "games.pdf": {
           "pages": 2,
-          "sha256": "9e3aa2fb27c6f47bc066223182373a0e85a98f31bf8c2c24771c5461135a6066",
-          "source_sha256": "56b6627f2be6c3893601820b15d7fdd30a3e93f59fcd12f7683e7fbff21b50b0"
+          "sha256": "8846f729895809a434f6f8fe3f2b8171db61f9bb46070ee586adc3f5d24411a3",
+          "source_sha256": "f5063f0c81ae2f1c35632c90c071259a8be53166640e6787fc8083f09ca64833"
         }
       }
     },
@@ -1196,8 +1196,8 @@
         },
         "games.pdf": {
           "pages": 2,
-          "sha256": "6cd99633b76e1f7a813fd15e8a7f0ee2da048abbca32ca2df9b720ff2f1fa3fc",
-          "source_sha256": "820c6c250d8061b27175fca9e3a4d8f324d6beec7071719493828add7f862123"
+          "sha256": "9b8b82e3211b0871f3587683f340fa75813117c94c33e7a0ca674227512475cf",
+          "source_sha256": "d314c1e2569039f0aa3e3e7630087ab4065223fdb9fa06aeaf52b32d35203bbb"
         }
       }
     },
@@ -1236,8 +1236,8 @@
         },
         "games.pdf": {
           "pages": 2,
-          "sha256": "b21c74d243a7170fca2afa6ce68732aea23d7b2dc3bb637eef3b0cc7faa2c3a8",
-          "source_sha256": "a599aaef4f1577cabbb185b75b42e3dc7e95b91ac3b592e975288074848d9f3c"
+          "sha256": "db93194e64cb66b7518a89006164ddc1f200665d81711c20693f9847450d836c",
+          "source_sha256": "64a44dc91e8980816522c0bb3a790db4764d8dcea02eab8af63a7329971915a6"
         }
       }
     },
@@ -1256,8 +1256,8 @@
         },
         "games.pdf": {
           "pages": 2,
-          "sha256": "1a5abf46cfbdaf4c55bf60895d290de2768da3f4397def82cd354da00d634646",
-          "source_sha256": "3410285e52234ebe56051904a34176e226cf1baeda3247a6b592af6857ceeb35"
+          "sha256": "9270128142ed9a80557d7f0afbcb980346585a100888a224885c066628f46e81",
+          "source_sha256": "ff0a07cb61692d10f2839a48349a13430607f8f7cebbfec6533c350bbb8aa06a"
         }
       }
     },
@@ -1356,8 +1356,8 @@
         },
         "games.pdf": {
           "pages": 2,
-          "sha256": "bdd798f379927994528f3f26a211dd0827c33a63a52b2cd906c1cf60d6415c12",
-          "source_sha256": "c971e41884f05ca4758501fdb6c579c7aaa299e3a35eafad578d0154899b1304"
+          "sha256": "2d9f667b637a9d5ddcfea8fe4178f1534ee5cf5cf5dddb4ae7437a93c4f611aa",
+          "source_sha256": "c84143e155b65294193326b0fea10eb3420ca6c3843712f45bfa65e058563932"
         }
       }
     },
@@ -1456,8 +1456,8 @@
         },
         "games.pdf": {
           "pages": 2,
-          "sha256": "1699932ccf41b65af2bcaa76e003e7b6e3fd828e30a6ef4a9d0ee4fea7f9fe96",
-          "source_sha256": "f97eacdde777b10c0d1127c8c1ea069456cf8bb99a367ebdc05f3dd2d0c0d1ba"
+          "sha256": "e6140e0d299e3103daa5ee0d71370407f853466fce2fa221a9573512f1ed9c0c",
+          "source_sha256": "34a486eec8dfad9c53b6d53c0332e6e9bebe4fc319fca5984a842849183e8c55"
         }
       }
     },
@@ -1476,8 +1476,8 @@
         },
         "games.pdf": {
           "pages": 2,
-          "sha256": "415bb9f52246fa458645360a89ca8cfc17602f87eac556e2e83a9b63dbf4de19",
-          "source_sha256": "931cce42f465d3d2fd80abee892c397de97472801ded8de744ba9dfa3b7e6867"
+          "sha256": "ca493fea56b80d95186771d30f6162e0359d15a33102ccd28a43c89ea0aeb556",
+          "source_sha256": "10c74875210f202879d8243d191fd736ae5b7b6db8532faa0b277a2392e79ec4"
         }
       }
     },
@@ -1656,8 +1656,8 @@
         },
         "games.pdf": {
           "pages": 2,
-          "sha256": "754f7e48baa64b56fe35df51174ccbce516023ef9d552565d969d5cd3d330fa7",
-          "source_sha256": "13a60882e4ec345bb1d156393f2ba3b1682208ba75d4da16a64ac2048cbbc970"
+          "sha256": "7974fdcaa7e7c3ee1044e116b6a1179cde985ce6057eba0f176790bbc4f1dd80",
+          "source_sha256": "73d296a6759101f393e920ea1f24b9782c8066debea33ca68a80c96a7b4097ad"
         }
       }
     },
@@ -1756,8 +1756,8 @@
         },
         "games.pdf": {
           "pages": 2,
-          "sha256": "0da0f960fa6dc238fd1db728ca2fc306961761379113781c1ea4476641cf1ce7",
-          "source_sha256": "d35e9f5cdd197694b66f0d7d09fe5ea0d170d7d8f3d07ff535ce97fce1b38613"
+          "sha256": "eb2e2f513982f5648da5ce5feef8f80f46108e4a0f4475862ceff71f884b6741",
+          "source_sha256": "0228a65789e8a20b8215746ac08a6a665b5af4fdf819e9c4a97c56d8b769d984"
         }
       }
     },
@@ -1776,8 +1776,8 @@
         },
         "games.pdf": {
           "pages": 2,
-          "sha256": "70b7556eb2572272a36db4cb154782726f14236ba99a653f6b6eda76cd0a2821",
-          "source_sha256": "783600214d135650309e5fe212b07a076ef3c67fb1dc9ee2c81d7a588fe9feaa"
+          "sha256": "552cb01480edadfd11af32d1cd71d2ea79ae207248e0c897213aab66184e5ac0",
+          "source_sha256": "a55c202a3fe2d99ea6d637c75dc61570f31a86e5b122ca4c692488ad3f05b0e8"
         }
       }
     },
@@ -1816,8 +1816,8 @@
         },
         "games.pdf": {
           "pages": 2,
-          "sha256": "8d486a58ae89b8aaa3c1a630cbe5eabfcbeb6eb9f2ef050c2ea2948e2bdf4463",
-          "source_sha256": "9a35b0755ac927298eeecb1edc43145c5d65d50e1077f5c5d64b6f225ba2712f"
+          "sha256": "17c425173313f50befa6732d01b3fec90c354e42c0fb0e28cbc208b9af254a3d",
+          "source_sha256": "5b4e0b569410b7b46d0a0e8e525782cb6b645fc44a0d071265742bdb3993f7a8"
         }
       }
     },
@@ -1836,8 +1836,8 @@
         },
         "games.pdf": {
           "pages": 2,
-          "sha256": "c825e19553123ca072e7b349ff68c5ba0389fb7a5ab57d32c9cb036301f588e2",
-          "source_sha256": "aa3f679153f1a7d2002b7be9658b2476aba24e4e3e298e09dacdb918d8c83986"
+          "sha256": "b429eef3096fcb912632872bf570d5fc303cbc97b2e376d46d5443761dfd7cfa",
+          "source_sha256": "72ca731c81bcaefc5f03fc37548eefd9e66e7b9e5b7452d88134459b7149789e"
         }
       }
     },
@@ -1876,8 +1876,8 @@
         },
         "games.pdf": {
           "pages": 2,
-          "sha256": "b8c0d6e083d1efad1bd2390660076b6b44cee4f136602df5b1f4c93ce3a7e822",
-          "source_sha256": "a0452c1f53795b63f9c2cad88bd36bc09f6395a5e2a437e2e573e6ab44c499dd"
+          "sha256": "be7ba32e5360c7ae14df2d8442c2c89febe5f53b64118fa6fe537ca37bad5563",
+          "source_sha256": "b6c7c9c61e57ee67c847dd372a8defbedfa9f1f126f3a046b6fdb9439f0fecd7"
         }
       }
     },
@@ -1936,8 +1936,8 @@
         },
         "games.pdf": {
           "pages": 2,
-          "sha256": "cfe050c0aa2f5da99ba7964c3335684ac71057701093c1001944be10f0fbd9f6",
-          "source_sha256": "1ce5f424144daa8732894f74c1599fb592f9101700b2bf229c0ac3fdbb0ff5f2"
+          "sha256": "143be0588e072bf2bc06d0f267191578b69cbf45583f60cefba668485e1b1dbc",
+          "source_sha256": "60498ed75f7e106f25c75bf4ea66c7bbda464dc0f019b79399146b70dec220fc"
         }
       }
     },
@@ -2036,8 +2036,8 @@
         },
         "games.pdf": {
           "pages": 2,
-          "sha256": "1c11bbbd5be34bf2741805872a4862e651e6dc02e3b2324e448090edb2cf0c2e",
-          "source_sha256": "91392bc645b62fdb6a75d8bdbdc8a318f5adfb22900718c50433793adf9861f3"
+          "sha256": "6db0c9d52cfa398da88f1be056f069ce5629dde75d7afaadd7b1176430983b0c",
+          "source_sha256": "7a6204297053029741957126f9cc8e21859337f43330ef81379acde700881d7d"
         }
       }
     },
@@ -2056,8 +2056,8 @@
         },
         "games.pdf": {
           "pages": 2,
-          "sha256": "7a545fe57f4a35d7ed2f222bc107ccea00630015ac2922e2042c3c24b9c8dd15",
-          "source_sha256": "b34b078a7214286285a26a8a3da615ed8f1d214934863f7bda5e8e1d65d93dd0"
+          "sha256": "f38d207223ba02660c55ee238835b787584351e082c5d83daa3bd14d915c2d4a",
+          "source_sha256": "92e4a35b7aeecfe56a7abead27043d75fba19ce5345d98455aa8bf9dbd0b1753"
         }
       }
     },
@@ -2096,8 +2096,8 @@
         },
         "games.pdf": {
           "pages": 2,
-          "sha256": "211037fc9d64cb59695bf5368c94f7b5a0b38434f11355f71f8d3c23c4e02d29",
-          "source_sha256": "6e5a401f5d9caed311802423227517407874f09f7b56743210935f06ab77eff2"
+          "sha256": "d3066797b94bda4a90c19a7e96435e8d1f9e074c67affb90e18a4d194a8c8b9c",
+          "source_sha256": "79f3350668fdd70d5593f7998c962b67ef92b5ab5482ed52631c09a5078f237c"
         }
       }
     },
@@ -2116,8 +2116,8 @@
         },
         "games.pdf": {
           "pages": 2,
-          "sha256": "0071a2a8a97ce80a8938c59e1afff7507eb124bf26bd55b1327cc2e27be520fc",
-          "source_sha256": "f0a91ab96582943c498eba365e62b4988245f362a50f129f78f6d62e44624274"
+          "sha256": "da2115d99b2b6f66077b623e1cc307ca79e0d37ae5c4e742897f5ee6cb951903",
+          "source_sha256": "5c001ea0a94ea18209e6885eb506d8dd6e651c1d4d04b405ff883559e979b32d"
         }
       }
     },
@@ -2216,8 +2216,8 @@
         },
         "games.pdf": {
           "pages": 2,
-          "sha256": "fe96968f11e12223c427118be3d4536534b0bf7d054bd665e48c3f3406c05b0d",
-          "source_sha256": "5016e74157643bffe2237a5c1aa50830e7037ca2ef6848c9de649dfa8d0cccc6"
+          "sha256": "ee71286df52f0d3c944d61bcfd2b819cd4b915a7f18a6ff183bc918525bbc005",
+          "source_sha256": "22249214c996b855ecf2699596b78ad9382be7959b36346133306dbc494ee103"
         }
       }
     },

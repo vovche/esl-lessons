@@ -120,3 +120,11 @@ for l in source:
 for phase in ('learning','checking'):
  assert len({g.answer_positions(g.profile(l),phase) for l in source})==4
 print('PASS: homogeneous distractors, four-sentence lexical models, distinct parallel game cards and all four balanced A/B position patterns.')
+
+# The protagonist may be Alex; a simultaneous second chore must belong to somebody else.
+for number in range(1,141):
+ for offset in (0,1,2):
+  text=g.context(2,number,offset)['text']
+  assert 'while Ari washed up' in text
+  assert not re.search(r'Yesterday (\w+) swept the floor while \1 washed up',text)
+print('PASS: all household-story variants keep simultaneous actors distinct.')

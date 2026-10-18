@@ -25,7 +25,7 @@ I will read a short English text for five minutes on Tuesday. I will record thre
 
 00–02: перший новий стимул. 02–04: другий новий стимул й одна англійська репліка-пояснення. 04–05: фіксація доказу й лише потім навчальний повтор.
 
-**Новий стимул 1:** “What does Dan suggest doing first while listening? Choices: Finding the main idea / Finding every detail” Ключ після першої спроби: **Finding the main idea**. Причина: This particular detail is stated in the lesson source; check its named person, event, category or sequence.
+**Новий стимул 1:** “What does Emma plan to do besides practising and keeping a record? Choices: ask questions / write film reviews” Ключ після першої спроби: **ask questions**. Причина: This particular detail is stated in the lesson source; check its named person, event, category or sequence.
 
 **Новий стимул 2:** “What should learners do with mistakes? Choices: Only count them / Notice and correct them” Ключ після першої спроби: **Notice and correct them**. Причина: This particular detail is stated in the lesson source; check its named person, event, category or sequence.
 

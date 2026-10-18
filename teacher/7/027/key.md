@@ -4,7 +4,7 @@
 
 ## R · Повний текст, факти й докази
 
-Alex and two friends met in the living room on Sunday at 11 a.m. They made a shared cleaning plan. Yesterday Alex swept the floor while Alex washed up. At ten o’clock Sam was checking the list. The dishwasher was not working, so the friends used a bowl. They shared the tasks fairly and asked before changing a partner’s job. They switched off the vacuum cleaner when the work was finished.
+Alex and two friends met in the living room on Sunday at 11 a.m. They made a shared cleaning plan. Yesterday Alex swept the floor while Ari washed up. At ten o’clock Sam was checking the list. The dishwasher was not working, so the friends used a bowl. They shared the tasks fairly and asked before changing a partner’s job. They switched off the vacuum cleaner when the work was finished.
 
 1. **swept the floor**. Доказ у тексті: «swept the floor».
 2. **checking the list**. Доказ у тексті: «checking the list».
@@ -14,7 +14,7 @@ Alex and two friends met in the living room on Sunday at 11 a.m. They made a sha
 
 Відділити додаток L в учня до слухання. Прочитати двічі, між читаннями 45 секунд. Не підказувати інтонацією тільки потрібні слова. За відсутності чутності перенести L.
 
-Kim and two friends met in the community room on Friday at 5 p.m. They made a simple chore chart. Yesterday Kim swept the floor while Alex washed up. At ten o’clock Sam was checking the list. The dishwasher was not working, so the friends used a bowl. They shared the tasks fairly and asked before changing a partner’s job. They switched off the vacuum cleaner when the work was finished.
+Kim and two friends met in the community room on Friday at 5 p.m. They made a simple chore chart. Yesterday Kim swept the floor while Ari washed up. At ten o’clock Sam was checking the list. The dishwasher was not working, so the friends used a bowl. They shared the tasks fairly and asked before changing a partner’s job. They switched off the vacuum cleaner when the work was finished.
 
 1. **swept the floor**. Доказ у тексті: «swept the floor».
 2. **checking the list**. Доказ у тексті: «checking the list».

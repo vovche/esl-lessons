@@ -27,7 +27,7 @@ Recommendation: check an alternative before deciding, because a single example d
 
 00–02: перший новий стимул. 02–04: другий новий стимул й одна англійська репліка-пояснення. 04–05: фіксація доказу й лише потім навчальний повтор.
 
-**Новий стимул 1:** “Which invention helped communication over long distances? Choices: a household appliance / the telephone” Ключ після першої спроби: **the telephone**. Причина: This particular detail is stated in the lesson source; check its named person, event, category or sequence.
+**Новий стимул 1:** “What did computers open new ways to do? Choices: only finish household chores / work and learn” Ключ після першої спроби: **work and learn**. Причина: This particular detail is stated in the lesson source; check its named person, event, category or sequence.
 
 **Новий стимул 2:** “What did household appliances help save? Choices: time on chores / distance between cities” Ключ після першої спроби: **time on chores**. Причина: This particular detail is stated in the lesson source; check its named person, event, category or sequence.
 

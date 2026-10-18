@@ -29,7 +29,7 @@ My question: what other option could be considered?
 
 **Новий стимул 1:** “Which two countries are compared? Choices: Ukraine and the UK / Ukraine and Canada” Ключ після першої спроби: **Ukraine and the UK**. Причина: This particular detail is stated in the lesson source; check its named person, event, category or sequence.
 
-**Новий стимул 2:** “What does the plan include besides museums and local food? Choices: an extra flight / a place to rest” Ключ після першої спроби: **a place to rest**. Причина: This particular detail is stated in the lesson source; check its named person, event, category or sequence.
+**Новий стимул 2:** “What do the friends practise asking for? Choices: job references / directions” Ключ після першої спроби: **directions**. Причина: This particular detail is stated in the lesson source; check its named person, event, category or sequence.
 
 
 Учень каже/пише “The source / context shows …” або “This belongs under … because …”. Правильний вибір з поясненням → питання закрито; неправильний вибір → питання залишається відкритим до зворотного зв’язку. **Стан успіху:** обидва правильні рішення й осмислена причина. Фіксація:0–2 точних виборів та окремо є/немає пояснення. Це вузький доказ цілі, не автоматична підсумкова оцінка. Після запису першого результату вчитель дає одну підказку і дозволяє повтор; повтор позначається «з опорою» й не стирає першу самостійну спробу.

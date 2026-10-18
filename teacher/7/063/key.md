@@ -4,7 +4,7 @@
 
 ## R · Повний текст, факти й докази
 
-Alex belongs to a school club. The club meets in the school hall on Wednesday at 2 p.m. This week the members are preparing an exhibition of drawings for the school anniversary. Alex usually collects ideas, but today is making a decoration. One member calls himself a science geek; another enjoys books. The teacher explains that labels must never be used to tease people. Everyone can choose a useful role. Alex and two friends met in the living room on Sunday at 11 a.m. They made a shared cleaning plan. Yesterday Alex swept the floor while Alex washed up. At ten o’clock Sam was checking the list. The dishwasher was not working, so the friends used a bowl. They shared the tasks fairly and asked before changing a partner’s job. They switched off the vacuum cleaner when the work was finished.
+Alex belongs to a school club. The club meets in the school hall on Wednesday at 2 p.m. This week the members are preparing an exhibition of drawings for the school anniversary. Alex usually collects ideas, but today is making a decoration. One member calls himself a science geek; another enjoys books. The teacher explains that labels must never be used to tease people. Everyone can choose a useful role. Alex and two friends met in the living room on Sunday at 11 a.m. They made a shared cleaning plan. Yesterday Alex swept the floor while Ari washed up. At ten o’clock Sam was checking the list. The dishwasher was not working, so the friends used a bowl. They shared the tasks fairly and asked before changing a partner’s job. They switched off the vacuum cleaner when the work was finished.
 
 1. **the school anniversary**. Доказ у тексті: «the school anniversary».
 2. **swept the floor**. Доказ у тексті: «swept the floor».

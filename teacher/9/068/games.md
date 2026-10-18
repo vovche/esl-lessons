@@ -30,7 +30,7 @@ B: Yes, let us compare the details before deciding.
 
 00–02: перший новий стимул. 02–04: другий новий стимул й одна англійська репліка-пояснення. 04–05: фіксація доказу й лише потім навчальний повтор.
 
-**Новий стимул 1:** “Which event provides Emma’s teamwork example? Choices: a sports tournament / a charity event” Ключ після першої спроби: **a charity event**. Причина: This particular detail is stated in the lesson source; check its named person, event, category or sequence.
+**Новий стимул 1:** “Which section is named alongside experience and interests? Choices: medical history / education” Ключ після першої спроби: **education**. Причина: This particular detail is stated in the lesson source; check its named person, event, category or sequence.
 
 **Новий стимул 2:** “What does the teacher ask them to check? Choices: spelling / the price of the event” Ключ після першої спроби: **spelling**. Причина: This particular detail is stated in the lesson source; check its named person, event, category or sequence.
 

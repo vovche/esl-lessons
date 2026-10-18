@@ -27,7 +27,7 @@ My question: what other option could be considered?
 
 00–02: перший новий стимул. 02–04: другий новий стимул й одна англійська репліка-пояснення. 04–05: фіксація доказу й лише потім навчальний повтор.
 
-**Новий стимул 1:** “What is wrong with the picture? Choices: It belongs to a different story. / It has no date in the text.” Ключ після першої спроби: **It belongs to a different story.**. Причина: This particular detail is stated in the lesson source; check its named person, event, category or sequence.
+**Новий стимул 1:** “What does the source say about popular posts? Choices: They are not always accurate. / They are always accurate.” Ключ після першої спроби: **They are not always accurate.**. Причина: This particular detail is stated in the lesson source; check its named person, event, category or sequence.
 
 **Новий стимул 2:** “Which reports do the friends compare? Choices: only the most popular posts / reliable reports” Ключ після першої спроби: **reliable reports**. Причина: This particular detail is stated in the lesson source; check its named person, event, category or sequence.
 

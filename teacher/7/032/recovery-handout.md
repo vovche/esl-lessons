@@ -77,4 +77,4 @@ Dana belongs to a school club. The club meets in the science lab on Friday at 3 
 
 Повний текст для вчителя та подальшої паперової роботи. Самостійне читання цього додатка не є доказом слухання.
 
-Alex and two friends met in the living room on Sunday at 11 a.m. They made a shared cleaning plan. Yesterday Alex dried the dishes while Alex washed up. At ten o’clock Sam was reading the plan. The dishwasher was not working, so the friends used a saucepan. They shared the tasks by agreement and asked before changing a partner’s job. They switched off the vacuum cleaner when the work was finished.
+Alex and two friends met in the living room on Sunday at 11 a.m. They made a shared cleaning plan. Yesterday Alex dried the dishes while Ari washed up. At ten o’clock Sam was reading the plan. The dishwasher was not working, so the friends used a saucepan. They shared the tasks by agreement and asked before changing a partner’s job. They switched off the vacuum cleaner when the work was finished.

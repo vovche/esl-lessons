@@ -38,7 +38,7 @@
 
 **Стартовий стан:**0/2 квитків перевірено; учитель не показує ключ, модель продукту й пояснення першої гри. У читанні текст залишається; у лексичному/граматичному пригадуванні словник/правило закриті. Для слухання текст не показують: учитель читає відповідне джерело двічі й фіксує L лише за реальної чутності. Якщо джерело прочитане учнем, це R.
 
-**Окрема паралельна картка для перевірки (нові дані):** Robin and two friends met in the community room on Friday at 5 p.m. They made a simple chore chart. Yesterday Robin dried the dishes while Alex washed up. At ten o’clock Sam was reading the plan. The dishwasher was not working, so the friends used a saucepan. They shared the tasks by agreement and asked before changing a partner’s job. They switched off the vacuum cleaner when the work was finished.
+**Окрема паралельна картка для перевірки (нові дані):** Robin and two friends met in the community room on Friday at 5 p.m. They made a simple chore chart. Yesterday Robin dried the dishes while Ari washed up. At ten o’clock Sam was reading the plan. The dishwasher was not working, so the friends used a saucepan. They shared the tasks by agreement and asked before changing a partner’s job. They switched off the vacuum cleaner when the work was finished.
 
 Квиток 1: What did the learner do yesterday? A — dried the dishes; B — mopped the floor.
 

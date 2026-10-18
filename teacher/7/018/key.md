@@ -14,7 +14,7 @@ Alex: I washed up yesterday, but I cannot do every job today. Sam: Let us share 
 
 Відділити додаток L в учня до слухання. Прочитати двічі, між читаннями 45 секунд. Не підказувати інтонацією тільки потрібні слова. За відсутності чутності перенести L.
 
-Robin and two friends met in the community room on Friday at 5 p.m. They made a simple chore chart. Yesterday Robin swept the floor while Alex washed up. At ten o’clock Sam was checking the list. The dishwasher was not working, so the friends used a bowl. They shared the tasks fairly and asked before changing a partner’s job. They switched off the vacuum cleaner when the work was finished.
+Robin and two friends met in the community room on Friday at 5 p.m. They made a simple chore chart. Yesterday Robin swept the floor while Ari washed up. At ten o’clock Sam was checking the list. The dishwasher was not working, so the friends used a bowl. They shared the tasks fairly and asked before changing a partner’s job. They switched off the vacuum cleaner when the work was finished.
 
 1. **swept the floor**. Доказ у тексті: «swept the floor».
 2. **checking the list**. Доказ у тексті: «checking the list».

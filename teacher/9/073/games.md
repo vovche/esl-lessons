@@ -27,7 +27,7 @@ My question: what other option could be considered?
 
 00–02: перший новий стимул. 02–04: другий новий стимул й одна англійська репліка-пояснення. 04–05: фіксація доказу й лише потім навчальний повтор.
 
-**Новий стимул 1:** “Which invention helped communication over long distances? Choices: the telephone / a household appliance” Ключ після першої спроби: **the telephone**. Причина: This particular detail is stated in the lesson source; check its named person, event, category or sequence.
+**Новий стимул 1:** “What did computers open new ways to do? Choices: work and learn / only finish household chores” Ключ після першої спроби: **work and learn**. Причина: This particular detail is stated in the lesson source; check its named person, event, category or sequence.
 
 **Новий стимул 2:** “What did household appliances help save? Choices: distance between cities / time on chores” Ключ після першої спроби: **time on chores**. Причина: This particular detail is stated in the lesson source; check its named person, event, category or sequence.
 

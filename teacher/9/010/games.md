@@ -32,7 +32,7 @@ B: Yes, let us compare the details before deciding.
 
 **Новий стимул 1:** “When will Emma take part in the exhibition? Choices: next Monday / next Friday” Ключ після першої спроби: **next Friday**. Причина: This particular detail is stated in the lesson source; check its named person, event, category or sequence.
 
-**Новий стимул 2:** “What does Emma plan to ask visitors for? Choices: feedback / their contact details” Ключ після першої спроби: **feedback**. Причина: This particular detail is stated in the lesson source; check its named person, event, category or sequence.
+**Новий стимул 2:** “Which two past details does Emma describe in her autobiography? Choices: where she grew up and her interest in photography / a future job and a future city visit” Ключ після першої спроби: **where she grew up and her interest in photography**. Причина: This particular detail is stated in the lesson source; check its named person, event, category or sequence.
 
 
 Учень каже/пише “The source / context shows …” або “This belongs under … because …”. Правильний вибір з поясненням → питання закрито; неправильний вибір → питання залишається відкритим до зворотного зв’язку. **Стан успіху:** обидва правильні рішення й осмислена причина. Фіксація:0–2 точних виборів та окремо є/немає пояснення. Це вузький доказ цілі, не автоматична підсумкова оцінка. Після запису першого результату вчитель дає одну підказку і дозволяє повтор; повтор позначається «з опорою» й не стирає першу самостійну спробу.

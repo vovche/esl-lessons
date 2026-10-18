@@ -1,0 +1,61 @@
+.lesson-simulations {
+  box-sizing: border-box;
+  width: min(100%, 1120px);
+  margin: 36px auto;
+  padding: clamp(20px, 4vw, 40px);
+  border: 1px solid var(--line, #d9e4e9);
+  border-radius: 18px;
+  background: var(--paper, #fff);
+  color: var(--ink, #14243a);
+  font: 16px/1.55 system-ui, sans-serif;
+  text-align: left;
+  overflow-wrap: anywhere;
+}
+.lesson-simulations *, .lesson-simulations *::before, .lesson-simulations *::after { box-sizing: border-box; }
+.lesson-simulations h2 { font-size: clamp(26px, 4vw, 36px); margin: 0 0 12px; line-height: 1.15; color: var(--ink); }
+.lesson-simulations h3 { font-size: 23px; line-height: 1.25; margin: 16px 0 12px; color: var(--ink); }
+.lesson-simulations p { margin: 10px 0 16px; }
+.lesson-simulations [hidden] { display: none !important; }
+.lesson-simulations :is(button, select, textarea, summary, [tabindex]):focus-visible { outline: 3px solid #b96709; outline-offset: 4px; }
+.lesson-simulations h3:focus { outline: none; }
+.lesson-simulations .sim-label { display: block; font-weight: 700; margin: 22px 0 8px; }
+.lesson-simulations .sim-select, .lesson-simulations .sim-production { width: 100%; padding: 12px; border: 1px solid #718697; border-radius: 9px; font: inherit; color: var(--ink); background: #fff; }
+.lesson-simulations .sim-select { text-overflow: ellipsis; }
+.lesson-simulations .sim-production { resize: vertical; min-height: 110px; }
+.lesson-simulations .sim-mode-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; margin-top: 24px; }
+.lesson-simulations .sim-mode-card { padding: 24px; background: var(--bg, #f3f7f6); border: 1px solid var(--line); border-radius: 14px; display: flex; flex-direction: column; align-items: flex-start; }
+.lesson-simulations .sim-mode-card .sim-button { margin-top: auto; }
+.lesson-simulations .sim-mode-name { font-weight: 700; color: var(--blue, #075b79); margin: 0; }
+.lesson-simulations .sim-muted { color: var(--muted, #465a70); font-size: 15px; }
+.lesson-simulations .sim-button, .lesson-simulations .sim-choice { font: inherit; font-weight: 650; min-height: 46px; border-radius: 10px; border: 2px solid var(--blue, #075b79); padding: 11px 17px; cursor: pointer; background: var(--blue, #075b79); color: #fff; text-align: left; }
+.lesson-simulations .sim-button:hover { background: #10354b; border-color: #10354b; }
+.lesson-simulations .sim-secondary { background: #fff; color: var(--blue, #075b79); }
+.lesson-simulations .sim-secondary:hover { background: var(--blue-soft, #e6f4f7); color: var(--ink); }
+.lesson-simulations button:disabled { cursor: default; }
+.lesson-simulations .sim-toolbar { display: flex; flex-wrap: wrap; gap: 12px; margin: 18px 0; }
+.lesson-simulations .sim-role { font-weight: 650; }
+.lesson-simulations .sim-progress-label { margin-bottom: 4px; }
+.lesson-simulations .sim-progress { width: 100%; accent-color: var(--blue, #075b79); height: 10px; display: block; margin-bottom: 24px; }
+.lesson-simulations .sim-source { padding: 18px; background: var(--blue-soft, #e6f4f7); border: 1px solid var(--line); border-radius: 12px; margin: 20px 0; }
+.lesson-simulations .sim-source summary { cursor: pointer; font-weight: 700; }
+.lesson-simulations .sim-source p { white-space: pre-wrap; margin-bottom: 0; }
+.lesson-simulations .sim-step { min-width: 0; border: 0; padding: 0; margin: 26px 0 12px; }
+.lesson-simulations .sim-step legend { padding: 0; width: 100%; font-weight: 700; font-size: 20px; margin-bottom: 16px; }
+.lesson-simulations .sim-choices { display: grid; gap: 12px; }
+.lesson-simulations .sim-choice { background: #fff; color: var(--ink); width: 100%; border-color: #99acb8; font-weight: 500; }
+.lesson-simulations .sim-choice:hover:not(:disabled) { border-color: var(--blue); background: var(--blue-soft); }
+.lesson-simulations .sim-choice[aria-pressed="true"] { background: #10354b; color: #fff; border-color: #10354b; }
+.lesson-simulations .sim-feedback:empty { display: none; }
+.lesson-simulations .sim-feedback, .lesson-simulations .sim-note { padding: 15px 18px; border-radius: 10px; background: var(--sand, #fff5df); }
+.lesson-simulations .sim-good { color: var(--good, #17634a); background: var(--good-bg, #e5f5ed); }
+.lesson-simulations .sim-retry { color: #754314; }
+.lesson-simulations .sim-complete { font-weight: 700; font-size: 27px; color: var(--good, #17634a); }
+.lesson-simulations .sim-score { font-size: 21px; font-weight: 650; }
+@media (max-width: 600px) {
+  .lesson-simulations { margin: 24px 0; padding: 20px 16px; }
+  .lesson-simulations .sim-mode-grid { grid-template-columns: 1fr; }
+  .lesson-simulations .sim-mode-card { padding: 20px; }
+  .lesson-simulations .sim-toolbar .sim-button { flex: 1 1 auto; }
+}
+@media (prefers-reduced-motion: reduce) { .lesson-simulations * { scroll-behavior: auto; transition: none; animation: none; } }
+@media print { .lesson-simulations { display: none; } }

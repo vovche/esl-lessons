@@ -82,4 +82,6 @@ def main():
  root.write_text(html[:section_start]+rootblock+html[end:]);print(f'grade 7: built {len(lessons)} course sections; retained {len(legacy)} authored lessons; 2 references')
  from attach_naurok_homework import apply_grade
  apply_grade(7)
+ from attach_lesson_simulations import apply_grade as apply_simulations
+ apply_simulations(7)
 if __name__=='__main__':main()

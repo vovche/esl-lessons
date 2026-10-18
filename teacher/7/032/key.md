@@ -14,7 +14,7 @@ Dana belongs to a school club. The club meets in the science lab on Friday at 3 
 
 Відділити додаток L в учня до слухання. Прочитати двічі, між читаннями 45 секунд. Не підказувати інтонацією тільки потрібні слова. За відсутності чутності перенести L.
 
-Alex and two friends met in the living room on Sunday at 11 a.m. They made a shared cleaning plan. Yesterday Alex swept the floor while Alex washed up. At ten o’clock Sam was checking the list. The dishwasher was not working, so the friends used a bowl. They shared the tasks fairly and asked before changing a partner’s job. They switched off the vacuum cleaner when the work was finished.
+Alex and two friends met in the living room on Sunday at 11 a.m. They made a shared cleaning plan. Yesterday Alex swept the floor while Ari washed up. At ten o’clock Sam was checking the list. The dishwasher was not working, so the friends used a bowl. They shared the tasks fairly and asked before changing a partner’s job. They switched off the vacuum cleaner when the work was finished.
 
 1. **swept the floor**. Доказ у тексті: «swept the floor».
 2. **checking the list**. Доказ у тексті: «checking the list».
@@ -80,7 +80,7 @@ L /3, R /3: по 1 за кожний правильний факт; S /3: по 1
 
 **Резерв L — прочитати двічі:**
 
-Alex and two friends met in the living room on Sunday at 11 a.m. They made a shared cleaning plan. Yesterday Alex dried the dishes while Alex washed up. At ten o’clock Sam was reading the plan. The dishwasher was not working, so the friends used a saucepan. They shared the tasks by agreement and asked before changing a partner’s job. They switched off the vacuum cleaner when the work was finished.
+Alex and two friends met in the living room on Sunday at 11 a.m. They made a shared cleaning plan. Yesterday Alex dried the dishes while Ari washed up. At ten o’clock Sam was reading the plan. The dishwasher was not working, so the friends used a saucepan. They shared the tasks by agreement and asked before changing a partner’s job. They switched off the vacuum cleaner when the work was finished.
 
 1. **dried the dishes**. Доказ у тексті: «dried the dishes».
 2. **reading the plan**. Доказ у тексті: «reading the plan».

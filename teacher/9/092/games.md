@@ -27,7 +27,7 @@ Recommendation: check an alternative before deciding, because a single example d
 
 00–02: перший новий стимул. 02–04: другий новий стимул й одна англійська репліка-пояснення. 04–05: фіксація доказу й лише потім навчальний повтор.
 
-**Новий стимул 1:** “Which two habitat threats are named together? Choices: light pollution and traffic noise / forests being cut down and polluted rivers” Ключ після першої спроби: **forests being cut down and polluted rivers**. Причина: This particular detail is stated in the lesson source; check its named person, event, category or sequence.
+**Новий стимул 1:** “Which habitat threat is named besides forests being cut down? Choices: traffic noise / polluted rivers” Ключ після першої спроби: **polluted rivers**. Причина: This particular detail is stated in the lesson source; check its named person, event, category or sequence.
 
 **Новий стимул 2:** “What is another direct threat to some species? Choices: illegal hunting / school surveys” Ключ після першої спроби: **illegal hunting**. Причина: This particular detail is stated in the lesson source; check its named person, event, category or sequence.
 

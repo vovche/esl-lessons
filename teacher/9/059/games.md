@@ -27,7 +27,7 @@ My question: what other option could be considered?
 
 00–02: перший новий стимул. 02–04: другий новий стимул й одна англійська репліка-пояснення. 04–05: фіксація доказу й лише потім навчальний повтор.
 
-**Новий стимул 1:** “What options does Dan compare after Year9? Choices: continuing education and job training / two holiday routes” Ключ після першої спроби: **continuing education and job training**. Причина: This particular detail is stated in the lesson source; check its named person, event, category or sequence.
+**Новий стимул 1:** “Besides salary, what does Emma say a dream job should match? Choices: interests and skills / only a job title” Ключ після першої спроби: **interests and skills**. Причина: This particular detail is stated in the lesson source; check its named person, event, category or sequence.
 
 **Новий стимул 2:** “What do the friends read to identify required qualities? Choices: museum reviews / job adverts” Ключ після першої спроби: **job adverts**. Причина: This particular detail is stated in the lesson source; check its named person, event, category or sequence.
 

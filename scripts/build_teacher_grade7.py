@@ -211,6 +211,7 @@ def context(u,n,offset=0):
  d=OLD_CONTEXT(u,n,offset)
  # Avoid inaccurate full-game scores across different sports; this is a reporting task.
  if u==5:d['text']=d['text'].replace('the final score was 12–10','the reporter checked the score before publication')
+ if u==2:d['text']=d['text'].replace('while Alex washed up','while Ari washed up')
  # A cooking club is a group, not a room; grammar must remain natural in every variant.
  d['text']=d['text'].replace('to the cooking club','to a meeting of the cooking club').replace('in Room 12','in Room 12')
  d['qas']=[{'question':q,'answer':a,'evidence':a} for q,a in UNIT_Q[u]]

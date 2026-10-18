@@ -200,6 +200,8 @@ def main():
     (ROOT/'index.html').write_text(root[:start]+rootsection+root[end:])
     from attach_naurok_homework import apply_grade
     apply_grade(6)
+    from attach_lesson_simulations import apply_grade as apply_simulations
+    apply_simulations(6)
     print(f'Built {len(sequence)} grade 6 lessons and 2 reference pages')
 
 

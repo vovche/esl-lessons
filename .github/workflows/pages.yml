@@ -32,10 +32,17 @@ jobs:
           python3 scripts/build_dictionary.py --check
           python3 tests/check_jolly_phonics.py
           python3 tests/check_future_forms_v2.py
+          python3 tests/check_naurok_homework.py
+          python3 tests/check_homework_archives.py
           python3 tests/check_teacher_materials.py
           python3 tests/check_teacher_grade6_quality.py
           python3 tests/check_teacher_grade7_quality.py
           python3 tests/check_teacher_grade9_quality.py
+          python3 tests/check_grade6_simulations.py
+          python3 tests/check_grade7_simulations.py
+          python3 tests/check_grade9_simulations.py
+          python3 tests/check_student_simulations.py
+          node tests/check_lesson_simulations.cjs
       - name: Stage public website
         run: python3 scripts/prepare_pages.py --output "$RUNNER_TEMP/esl-pages"
       - name: Verify teacher documents are excluded

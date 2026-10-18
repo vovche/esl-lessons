@@ -11,7 +11,7 @@
 
 ## R · Прочитай
 
-Dana belongs to a school club. The club meets in the science lab on Friday at 3 p.m. This week the members are preparing a presentation about birds for the school anniversary. Dana usually collects ideas, but today is making a poster. One member calls himself a science geek; another enjoys books. The teacher explains that labels must never be used to tease people. Everyone can choose a useful role. Dana and two friends met in the kitchen on Saturday at 10 a.m. They made a list of household duties. Yesterday Dana dried the dishes while Alex washed up. At ten o’clock Sam was reading the plan. The dishwasher was not working, so the friends used a saucepan. They shared the tasks by agreement and asked before changing a partner’s job. They switched off the vacuum cleaner when the work was finished.
+Dana belongs to a school club. The club meets in the science lab on Friday at 3 p.m. This week the members are preparing a presentation about birds for the school anniversary. Dana usually collects ideas, but today is making a poster. One member calls himself a science geek; another enjoys books. The teacher explains that labels must never be used to tease people. Everyone can choose a useful role. Dana and two friends met in the kitchen on Saturday at 10 a.m. They made a list of household duties. Yesterday Dana dried the dishes while Ari washed up. At ten o’clock Sam was reading the plan. The dishwasher was not working, so the friends used a saucepan. They shared the tasks by agreement and asked before changing a partner’s job. They switched off the vacuum cleaner when the work was finished.
 
 1. What are members preparing for?
 

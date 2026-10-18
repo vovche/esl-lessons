@@ -150,32 +150,32 @@ LISTENING_CARDS={
 
 # New round-two source details, with alternatives from the same semantic category.
 READING_TRANSFER={
-1:[('What does Dan suggest doing first while listening?','Finding the main idea','Finding every detail'),('What should learners do with mistakes?','Notice and correct them','Only count them')],
+1:[('What does Emma plan to do besides practising and keeping a record?','ask questions','write film reviews'),('What should learners do with mistakes?','Notice and correct them','Only count them')],
 2:[('Which instrument does Emma play?','the guitar','the piano'),('Which subject interests Dan?','science','fashion design')],
 7:[('Which invented surname does Robin use?','Lake','Green'),('Which language is used for the interview?','English','French')],
-10:[('When will Emma take part in the exhibition?','next Friday','next Monday'),('What does Emma plan to ask visitors for?','feedback','their contact details')],
+10:[('When will Emma take part in the exhibition?','next Friday','next Monday'),('Which two past details does Emma describe in her autobiography?','where she grew up and her interest in photography','a future job and a future city visit')],
 15:[('Which shirt does Dan prefer?','striped','plain'),('What does Emma wear with her shirt?','trousers','a skirt')],
 21:[('What does the second student suggest allowing?','small accessories','only plain shirts'),('Which groups will be asked before the recommendation?','different groups','only the two speakers')],
-24:[('What does Emma intend to repair?','a favourite jacket','a pair of boots'),('Which colours does she enjoy now?','brighter colours','only dark colours')],
+24:[('What did Emma use to wear?','only dark clothes','only bright colours'),('Which items does Emma avoid buying?','items she will wear just once','items she will wear regularly')],
 29:[('What does Dan want to create in a club?','videos','clothing patterns'),('Which activities does Emma’s preferred group organise?','charity events','gaming tournaments')],
 35:[('Who will edit the film?','Robin','Sam'),('Who will check the tournament timetable?','Sam','Robin')],
 38:[('How many students were asked?','twenty','thirty'),('Which two creative activities are named?','music and films','photography and painting')],
-43:[('What is wrong with the picture?','It belongs to a different story.','It has no date in the text.'),('Which reports do the friends compare?','reliable reports','only the most popular posts')],
+43:[('What does the source say about popular posts?','They are not always accurate.','They are always accurate.'),('Which reports do the friends compare?','reliable reports','only the most popular posts')],
 46:[('Which programme explains experiments?','the science series','the comedy'),('Which programme reviews matches?','the sports programme','the science series')],
 49:[('What will the creator do before shooting?','check the examples','edit the recording'),('When does the creator suggest subscribing?','if the topic is useful to the viewer','before checking whether the topic is useful')],
 52:[('What kind of programme is being discussed?','a science programme','a sports programme'),('What comes after the opening question and answer?','one follow-up','a second full interview')],
-59:[('What options does Dan compare after Year9?','continuing education and job training','two holiday routes'),('What do the friends read to identify required qualities?','job adverts','museum reviews')],
+59:[('Besides salary, what does Emma say a dream job should match?','interests and skills','only a job title'),('What do the friends read to identify required qualities?','job adverts','museum reviews')],
 65:[('How can several skills be developed according to the speaker?','practice, feedback and training','only a university title'),('What type of team is described?','an international project team','a single-person business')],
-68:[('Which event provides Emma’s teamwork example?','a charity event','a sports tournament'),('What does the teacher ask them to check?','spelling','the price of the event')],
-73:[('Which invention helped communication over long distances?','the telephone','a household appliance'),('What did household appliances help save?','time on chores','distance between cities')],
+68:[('Which section is named alongside experience and interests?','education','medical history'),('What does the teacher ask them to check?','spelling','the price of the event')],
+73:[('What did computers open new ways to do?','work and learn','only finish household chores'),('What did household appliances help save?','time on chores','distance between cities')],
 76:[('Which year belongs to the Physics prize?','1903','1911'),('What research field is named?','radioactivity','climate science')],
 80:[('What material is the prototype’s first tube made from?','cardboard','metal'),('What does the visitor ask about?','evidence','the colour of the model')],
-83:[('What does Dan do before switching the tablet off?','saves his work','prints the entire chart'),('How many sources does he use to check information?','more than one','exactly one')],
-88:[('Which two habitat threats are named together?','forests being cut down and polluted rivers','light pollution and traffic noise'),('What is another direct threat to some species?','illegal hunting','school surveys')],
-94:[('What will the class do in dry weather?','collect litter','hold only the indoor swap'),('What would Emma add if she managed the school?','refill stations','more single-use wrappers')],
-102:[('Which two countries are compared?','Ukraine and the UK','Ukraine and Canada'),('What does the plan include besides museums and local food?','a place to rest','an extra flight')],
+83:[('What does Emma suggest checking?','the battery','the printer'),('How many sources does he use to check information?','more than one','exactly one')],
+88:[('Which habitat threat is named besides forests being cut down?','polluted rivers','traffic noise'),('What is another direct threat to some species?','illegal hunting','school surveys')],
+94:[('What will the class do in dry weather?','collect litter','hold only the indoor swap'),('Which item does the leaflet suggest bringing?','a reusable bottle','a single-use wrapper')],
+102:[('Which two countries are compared?','Ukraine and the UK','Ukraine and Canada'),('What do the friends practise asking for?','directions','job references')],
 108:[('Where does the route begin?','the museum entrance','the gallery entrance'),('Which place is beyond the gallery?','the observation deck','the museum entrance')],
-111:[('What did the friends still enjoy?','the waterfront and a local exhibition','the closed museum and a theatre'),('What extra time does Dan recommend leaving?','time for transport','time for a second school lesson')],
+111:[('What did the friends still enjoy?','the waterfront and a local exhibition','the closed museum and a theatre'),('What kind of text does Dan write?','an e-mail','a survey report')],
 }
 # Sessions that revisit the same source inherit its new detail questions, not generic certainty distractors.
 for _base,_others in {2:[3,5],15:[16,18,19],29:[30,32,33],43:[44],46:[47],59:[60,62,63],73:[74],76:[77],88:[89,91,92],94:[97],102:[103,105,106]}.items():
@@ -794,6 +794,10 @@ def main():
 -7/21/35/49/65/80/94/108: transcript тільки вkey до завершення;7/21/35/49/65/80/108 мають нові предметні повідомлення проbeliefs,clothingrules,e-sports,vlogproduction,careers,prototype,route замість одного загального тексту юніту.52 — власнерадіоінтерв’ю. Діагностичнеаудіо має нові факти15хв/spelling+dates,відміннівідпрочитаноготексту.
 -58/118/119/120/121: різні корекційні цілі портфоліо; fallback-пари дають змогу працювати без попереднього зошита.
 -Усі121: один головний продукт,12хв на коротку практику; резерв не додається поверх45хв. B/D має окрему коротку картку без вимоги читати весь пакет. Гра1 заміщує16–24, гра2 —36–41; у контрольному варіанті підказка відділена від першого самостійного доказу.
+
+## Повторна перевірка новизни раундів
+
+У другому раунді1/10/24/43/44/59/60/62/63/68/73/74/83/88/89/91/92/94/97/102/103/105/106/111 були повтори вже тренованих фактів або їх перефразування. Перевірні картки замінено іншими деталями того самого джерела: запитання й минулі інтереси, колишній стиль/одноразові покупки, межі популярності, вимоги до професії, розділи CV, роль комп’ютерів, батарея, інша загроза середовищу, багаторазова пляшка, мовна функція та жанр e-mail. Перша спроба другого раунду більше не дублює ці попередні питання.
 
 ## Критерії й обмеження
 

@@ -30,7 +30,7 @@ B: Yes, let us compare the details before deciding.
 
 00–02: перший новий стимул. 02–04: другий новий стимул й одна англійська репліка-пояснення. 04–05: фіксація доказу й лише потім навчальний повтор.
 
-**Новий стимул 1:** “What does Dan do before switching the tablet off? Choices: saves his work / prints the entire chart” Ключ після першої спроби: **saves his work**. Причина: This particular detail is stated in the lesson source; check its named person, event, category or sequence.
+**Новий стимул 1:** “What does Emma suggest checking? Choices: the battery / the printer” Ключ після першої спроби: **the battery**. Причина: This particular detail is stated in the lesson source; check its named person, event, category or sequence.
 
 **Новий стимул 2:** “How many sources does he use to check information? Choices: exactly one / more than one” Ключ після першої спроби: **more than one**. Причина: This particular detail is stated in the lesson source; check its named person, event, category or sequence.
 

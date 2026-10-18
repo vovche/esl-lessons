@@ -89,6 +89,12 @@ def check():
     survey=(BASE/'039/handout.md').read_text()
     assert 'Survey: 20 students; 10 sport, 6 music, 4 film' in survey
     assert '2 of 10 students = 20%' in survey
+    # These round-two facts used to repeat the learned question verbatim or semantically.
+    for n,expected in [(24,'only dark clothes'),(83,'the battery'),(94,'a reusable bottle')]:
+        c=module['card'](source['lessons'][n-1])
+        check_answers=[q['answer'] for q in module['transfer_items'](c)]
+        assert expected in check_answers
+
     # Independent regression anchors for material defects, not only metadata.
     assert '30%' in (BASE/'039/games.md').read_text()
     assert '50%' in (BASE/'039/key.md').read_text()

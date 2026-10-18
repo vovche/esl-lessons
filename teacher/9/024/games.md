@@ -30,9 +30,9 @@ B: Yes, let us compare the details before deciding.
 
 00–02: перший новий стимул. 02–04: другий новий стимул й одна англійська репліка-пояснення. 04–05: фіксація доказу й лише потім навчальний повтор.
 
-**Новий стимул 1:** “What does Emma intend to repair? Choices: a pair of boots / a favourite jacket” Ключ після першої спроби: **a favourite jacket**. Причина: This particular detail is stated in the lesson source; check its named person, event, category or sequence.
+**Новий стимул 1:** “What did Emma use to wear? Choices: only bright colours / only dark clothes” Ключ після першої спроби: **only dark clothes**. Причина: This particular detail is stated in the lesson source; check its named person, event, category or sequence.
 
-**Новий стимул 2:** “Which colours does she enjoy now? Choices: brighter colours / only dark colours” Ключ після першої спроби: **brighter colours**. Причина: This particular detail is stated in the lesson source; check its named person, event, category or sequence.
+**Новий стимул 2:** “Which items does Emma avoid buying? Choices: items she will wear just once / items she will wear regularly” Ключ після першої спроби: **items she will wear just once**. Причина: This particular detail is stated in the lesson source; check its named person, event, category or sequence.
 
 
 Учень каже/пише “The source / context shows …” або “This belongs under … because …”. Правильний вибір з поясненням → питання закрито; неправильний вибір → питання залишається відкритим до зворотного зв’язку. **Стан успіху:** обидва правильні рішення й осмислена причина. Фіксація:0–2 точних виборів та окремо є/немає пояснення. Це вузький доказ цілі, не автоматична підсумкова оцінка. Після запису першого результату вчитель дає одну підказку і дозволяє повтор; повтор позначається «з опорою» й не стирає першу самостійну спробу.
