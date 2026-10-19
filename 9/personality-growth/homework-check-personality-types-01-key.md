@@ -14,6 +14,7 @@
 Дедлайн: 2027-01-03T23:00, Europe/Kyiv.
 
 [naurok: тест](https://naurok.com.ua/test/9-klas-what-kind-of-person-risi-harakteru-3887165.html). Стан: `published_pending_homework_daily_limit`.
+[kahoot: домашнє завдання](https://kahoot.it/challenge/002179082).
 ## 1. 1 бал
 
 Напиши англійською одним словом: допитливий.

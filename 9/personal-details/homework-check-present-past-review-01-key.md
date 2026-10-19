@@ -14,6 +14,7 @@
 Дедлайн: 2027-01-03T23:00, Europe/Kyiv.
 
 [naurok: тест](https://naurok.com.ua/test/9-klas-six-tenses-one-story-teperishni-y-minuli-chasi-3887172.html). Стан: `published_pending_homework_daily_limit`.
+[kahoot: домашнє завдання](https://kahoot.it/challenge/007539597).
 ## 1. 1 бал
 
 Впиши форму take: My brother ___ the bus to school every day.

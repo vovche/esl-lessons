@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test/9-klas-ask-for-details-anketa-ta-zapitannya-3886818.html). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=9797264).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/003113742).
 ## 1. 1 бал
 
 Напиши англійською одним словом поле анкети «прізвище».

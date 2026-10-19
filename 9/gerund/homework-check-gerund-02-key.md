@@ -14,6 +14,7 @@
 Дедлайн: 2027-01-03T23:00, Europe/Kyiv.
 
 [naurok: тест](https://naurok.com.ua/test/9-klas-gerund-znachennya-stop-remember-try-regret-3887204.html). Стан: `published_pending_homework_daily_limit`.
+[kahoot: домашнє завдання](https://kahoot.it/challenge/0035253293).
 ## 1. 1 бал
 
 Напиши форму -ing від run.
