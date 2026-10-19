@@ -351,7 +351,7 @@
           "test_id": "3886850",
           "title": "9 клас · All About Me: Починаємо тему",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "question_points": [
             1,
             1,
@@ -369,7 +369,12 @@
           "assessment_lesson_path": "9/sb-u1-blog/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "All About Me: Починаємо тему Усе про мене: Починаємо тему",
-          "content_id": "9-sb-u1-lead-in-homework-01"
+          "content_id": "9-sb-u1-lead-in-homework-01",
+          "homework_id": "86143160",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86143160",
+          "code": "1177360",
+          "student_url": "https://naurok.ua/test/join?gamecode=1177360",
+          "verified_deadline_ui": "2027-01-03T23:00"
         }
       ]
     },
