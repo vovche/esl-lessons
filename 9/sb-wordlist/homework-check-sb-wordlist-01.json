@@ -116,6 +116,37 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "af53ac36-61fe-4b2f-b52d-a2845d55095f",
+      "editor_url": "https://create.kahoot.it/creator/af53ac36-61fe-4b2f-b52d-a2845d55095f",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 8,
+      "content_slide_count": 0,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "assignment_id": "a7550015-216a-47bc-8f1c-fcb58c739f03",
+      "code": "0077156071",
+      "student_url": "https://kahoot.it/challenge/0077156071",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/a7550015-216a-47bc-8f1c-fcb58c739f03/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1792389780172/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "adaptations": []
     }
   },
   "assessment": {

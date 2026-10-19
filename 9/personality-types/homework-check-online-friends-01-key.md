@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test/9-klas-meet-the-people-profili-y-interesi-3886812.html). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=7959737).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/007258925).
 ## 1. 1 бал
 
 Впиши одним словом назву музичного інструмента: I play the ___ in my school band. Українською: гітара.

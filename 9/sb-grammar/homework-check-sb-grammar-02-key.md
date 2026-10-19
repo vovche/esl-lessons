@@ -14,6 +14,7 @@
 Дедлайн: 2027-06-01T23:00, Europe/Kyiv.
 
 [naurok: тест](https://naurok.com.ua/test/9-klas-gramatika-kursu-units-5-8-3887200.html). Стан: `published_pending_homework_daily_limit`.
+[kahoot: домашнє завдання](https://kahoot.it/challenge/006020468).
 ## 1. 1 бал
 
 Доповни непряме прохання: “Please help,” Emma asked. Emma asked Dan ___ help.
