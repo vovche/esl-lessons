@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test/9-klas-wearing-or-to-wear-gerundiy-ta-infinitiv-3886787.html). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=6346583).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/009705861).
 ## 1. 1 бал
 
 Впиши правильну форму make: Mira enjoys ___ her own clothes.
