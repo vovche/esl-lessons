@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test/7-klas-my-chores-domashni-spravi-3886782.html). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=7553658).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/0043741249).
 ## 1. 1 бал
 
 Доповни одним словом: I ___ the washing-up after dinner.

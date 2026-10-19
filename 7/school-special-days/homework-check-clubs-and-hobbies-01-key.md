@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886786). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=4153728).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/001649504).
 ## 1. 1 бал
 
 Напиши англійською слово «сильне захоплення». Воно починається з p.
