@@ -13,7 +13,7 @@
 
 Дедлайн: 2027-06-01T23:00, Europe/Kyiv.
 
-[naurok: тест](https://naurok.com.ua/test/9-klas-gramatika-kursu-units-1-4-3887197.html). Стан: `published_pending_homework_daily_limit`.
+[naurok: тест](https://naurok.com.ua/test/9-klas-gramatika-kursu-units-1-4-3887197.html). Стан: `published`.
 [kahoot: домашнє завдання](https://kahoot.it/challenge/004227930).
 ## 1. 1 бал
 

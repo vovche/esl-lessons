@@ -1513,7 +1513,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3886992",
           "title": "Unusual transport · 6 клас · ESL culture-1",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "published",
           "test_url": "https://naurok.com.ua/test-beta/test/3886992",
           "verified": true,
           "question_points": [
@@ -1533,7 +1533,18 @@
           "assessment_lesson_path": "6/sb-round-up-1/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Unusual transport Культура: незвичайний транспорт",
-          "content_id": "6-sb-culture-1-homework-01"
+          "content_id": "6-sb-culture-1-homework-01",
+          "existing_assignment_review": {
+            "homework_id": "86247636",
+            "code": "3962149",
+            "actual_deadline": "2026-10-28T23:00",
+            "expected_deadline": "2027-01-03T23:00",
+            "participants": 4,
+            "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86247636",
+            "student_url": "https://naurok.ua/test/join?gamecode=3962149",
+            "verified_on_site": true,
+            "note": "Existing assignment with participants already exists; deadline differs from the planned queue. Do not create a duplicate or alter this assignment until the teacher reviews the deadline."
+          }
         }
       ]
     },

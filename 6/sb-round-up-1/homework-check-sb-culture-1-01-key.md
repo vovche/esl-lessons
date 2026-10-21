@@ -13,7 +13,7 @@
 
 Дедлайн: 2027-01-03T23:00, Europe/Kyiv.
 
-[naurok: тест](https://naurok.com.ua/test-beta/test/3886992). Стан: `published_pending_homework_daily_limit`.
+[naurok: тест](https://naurok.com.ua/test-beta/test/3886992). Стан: `published`.
 ## 1. 1 бал
 
 Напиши англійською: «двоповерховий автобус».

@@ -66,7 +66,7 @@
     "naurok": {
       "test_id": "3887197",
       "test_url": "https://naurok.com.ua/test/9-klas-gramatika-kursu-units-1-4-3887197.html",
-      "status": "published_pending_homework_daily_limit",
+      "status": "published",
       "verified": true,
       "deadline": "2027-06-01T23:00",
       "semester": "annual",
