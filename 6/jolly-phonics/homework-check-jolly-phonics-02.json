@@ -80,6 +80,37 @@
         2,
         3
       ]
+    },
+    "kahoot": {
+      "id": "819ccb9b-2b71-4804-b03a-cc76e009cb2f",
+      "title": "6 клас · 000 · Phonics 2",
+      "editor_url": "https://create.kahoot.it/creator/819ccb9b-2b71-4804-b03a-cc76e009cb2f",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 6,
+      "content_slide_count": 0,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "assignment_id": "c1b85ebb-b4b7-4ae1-9a63-8e019f521095",
+      "code": "0064156186",
+      "student_url": "https://kahoot.it/challenge/0064156186",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/c1b85ebb-b4b7-4ae1-9a63-8e019f521095/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1792607721648/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "randomize_answer_order": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "adaptations": []
     }
   },
   "assessment": {

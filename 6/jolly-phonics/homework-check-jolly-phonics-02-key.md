@@ -14,6 +14,7 @@
 Дедлайн: 2027-01-03T23:00, Europe/Kyiv.
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886880). Стан: `published_pending_homework_daily_limit`.
+[kahoot: домашнє завдання](https://kahoot.it/challenge/0064156186).
 ## 1. 1 бал
 
 Jolly Phonics. Який запис літери або буквосполучення на картці зі словом cat позначає звук /k/? Напишіть запис із картки; збережіть риску між літерами, якщо вона є на картці.
