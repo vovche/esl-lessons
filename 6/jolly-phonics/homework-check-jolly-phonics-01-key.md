@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886875). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=9106569).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/0026503694).
 ## 1. 1 бал
 
 Jolly Phonics. Який запис літери або буквосполучення на картці зі словом sun позначає звук /s/? Напишіть запис із картки; збережіть риску між літерами, якщо вона є на картці.
