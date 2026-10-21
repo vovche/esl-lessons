@@ -10,9 +10,10 @@
       "markdown": "homework-check-sb-5c-01.md",
       "answer_key": "homework-check-sb-5c-01-key.md",
       "test_url": "https://naurok.com.ua/test-beta/test/3886873",
-      "status": "published_pending_homework_daily_limit",
+      "status": "homework_created",
       "pdf": "homework-check-sb-5c-01.pdf",
-      "answer_key_pdf": "homework-check-sb-5c-01-key.pdf"
+      "answer_key_pdf": "homework-check-sb-5c-01-key.pdf",
+      "student_url": "https://naurok.ua/test/join?gamecode=3869297"
     }
   ]
 }

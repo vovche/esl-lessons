@@ -49,9 +49,10 @@
       "markdown": "homework-check-sb-grammar-04.md",
       "answer_key": "homework-check-sb-grammar-04-key.md",
       "test_url": "https://naurok.com.ua/test-beta/test/3886853",
-      "status": "published_pending_homework_daily_limit",
+      "status": "homework_created",
       "pdf": "homework-check-sb-grammar-04.pdf",
-      "answer_key_pdf": "homework-check-sb-grammar-04-key.pdf"
+      "answer_key_pdf": "homework-check-sb-grammar-04-key.pdf",
+      "student_url": "https://naurok.ua/test/join?gamecode=7834114"
     },
     {
       "id": "6-sb-grammar-homework-05",
@@ -61,9 +62,10 @@
       "markdown": "homework-check-sb-grammar-05.md",
       "answer_key": "homework-check-sb-grammar-05-key.md",
       "test_url": "https://naurok.com.ua/test-beta/test/3886856",
-      "status": "published_pending_homework_daily_limit",
+      "status": "homework_created",
       "pdf": "homework-check-sb-grammar-05.pdf",
-      "answer_key_pdf": "homework-check-sb-grammar-05-key.pdf"
+      "answer_key_pdf": "homework-check-sb-grammar-05-key.pdf",
+      "student_url": "https://naurok.ua/test/join?gamecode=4159541"
     },
     {
       "id": "6-sb-grammar-homework-06",
@@ -73,9 +75,10 @@
       "markdown": "homework-check-sb-grammar-06.md",
       "answer_key": "homework-check-sb-grammar-06-key.md",
       "test_url": "https://naurok.com.ua/test-beta/test/3886864",
-      "status": "published_pending_homework_daily_limit",
+      "status": "homework_created",
       "pdf": "homework-check-sb-grammar-06.pdf",
-      "answer_key_pdf": "homework-check-sb-grammar-06-key.pdf"
+      "answer_key_pdf": "homework-check-sb-grammar-06-key.pdf",
+      "student_url": "https://naurok.ua/test/join?gamecode=5638116"
     },
     {
       "id": "6-sb-grammar-homework-07",
@@ -85,9 +88,10 @@
       "markdown": "homework-check-sb-grammar-07.md",
       "answer_key": "homework-check-sb-grammar-07-key.md",
       "test_url": "https://naurok.com.ua/test-beta/test/3886868",
-      "status": "published_pending_homework_daily_limit",
+      "status": "homework_created",
       "pdf": "homework-check-sb-grammar-07.pdf",
-      "answer_key_pdf": "homework-check-sb-grammar-07-key.pdf"
+      "answer_key_pdf": "homework-check-sb-grammar-07-key.pdf",
+      "student_url": "https://naurok.ua/test/join?gamecode=6093176"
     },
     {
       "id": "6-sb-grammar-homework-08",
@@ -97,9 +101,10 @@
       "markdown": "homework-check-sb-grammar-08.md",
       "answer_key": "homework-check-sb-grammar-08-key.md",
       "test_url": "https://naurok.com.ua/test-beta/test/3886871",
-      "status": "published_pending_homework_daily_limit",
+      "status": "homework_created",
       "pdf": "homework-check-sb-grammar-08.pdf",
-      "answer_key_pdf": "homework-check-sb-grammar-08-key.pdf"
+      "answer_key_pdf": "homework-check-sb-grammar-08-key.pdf",
+      "student_url": "https://naurok.ua/test/join?gamecode=5916118"
     }
   ]
 }

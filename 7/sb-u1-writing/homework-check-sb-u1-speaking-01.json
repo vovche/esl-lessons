@@ -114,8 +114,12 @@
     "naurok": {
       "test_id": "3886865",
       "test_url": "https://naurok.com.ua/test-beta/test/3886865",
-      "status": "published_pending_homework_daily_limit",
+      "status": "homework_created",
       "verified": true,
+      "homework_id": "86272577",
+      "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272577",
+      "student_url": "https://naurok.ua/test/join?gamecode=8236280",
+      "code": "8236280",
       "deadline": "2027-01-03T23:00",
       "semester": 1,
       "points": 10,

@@ -519,7 +519,7 @@
           "test_url": "https://naurok.com.ua/test-beta/test/3886852",
           "title": "7 клас · In and out of school: Читання Шкільне життя і дозвілля · Читання",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -538,7 +538,12 @@
           "assessment_lesson_path": "7/sb-u1-grammar/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "In and out of school: Читання Шкільне життя і дозвілля · Читання",
-          "content_id": "7-sb-u1-reading-homework-01"
+          "content_id": "7-sb-u1-reading-homework-01",
+          "homework_id": "86272350",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272350",
+          "code": "1721893",
+          "student_url": "https://naurok.ua/test/join?gamecode=1721893",
+          "verified_deadline_ui": "2027-01-03T23:00"
         }
       ]
     },
@@ -550,7 +555,7 @@
           "test_url": "https://naurok.com.ua/test-beta/test/3886860",
           "title": "7 клас · In and out of school: Самоперевірка Шкільне життя і дозвілля · Самоперевірка",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -569,7 +574,12 @@
           "assessment_lesson_path": "7/sb-u2-lead-in/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "In and out of school: Самоперевірка Шкільне життя і дозвілля · Самоперевірка",
-          "content_id": "7-sb-u1-self-check-homework-01"
+          "content_id": "7-sb-u1-self-check-homework-01",
+          "homework_id": "86272515",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272515",
+          "code": "5008740",
+          "student_url": "https://naurok.ua/test/join?gamecode=5008740",
+          "verified_deadline_ui": "2027-01-03T23:00"
         }
       ]
     },
@@ -581,7 +591,7 @@
           "test_url": "https://naurok.com.ua/test-beta/test/3886865",
           "title": "7 клас · In and out of school: Говоріння Шкільне життя і дозвілля · Говоріння",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -600,7 +610,12 @@
           "assessment_lesson_path": "7/sb-u1-writing/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "In and out of school: Говоріння Шкільне життя і дозвілля · Говоріння",
-          "content_id": "7-sb-u1-speaking-homework-01"
+          "content_id": "7-sb-u1-speaking-homework-01",
+          "homework_id": "86272577",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272577",
+          "code": "8236280",
+          "student_url": "https://naurok.ua/test/join?gamecode=8236280",
+          "verified_deadline_ui": "2027-01-03T23:00"
         }
       ]
     },
@@ -612,7 +627,7 @@
           "test_url": "https://naurok.com.ua/test-beta/test/3886869",
           "title": "7 клас · In and out of school: Лексика Шкільне життя і дозвілля · Лексика",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -631,7 +646,12 @@
           "assessment_lesson_path": "7/sb-u1-reading/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "In and out of school: Лексика Шкільне життя і дозвілля · Лексика",
-          "content_id": "7-sb-u1-vocabulary-homework-01"
+          "content_id": "7-sb-u1-vocabulary-homework-01",
+          "homework_id": "86272612",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272612",
+          "code": "9384937",
+          "student_url": "https://naurok.ua/test/join?gamecode=9384937",
+          "verified_deadline_ui": "2027-01-03T23:00"
         }
       ]
     },
@@ -643,7 +663,7 @@
           "test_url": "https://naurok.com.ua/test-beta/test/3886874",
           "title": "7 клас · In and out of school: Лексика: застосування Шкільне життя і дозвілля · Лексика: застосування",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -662,7 +682,12 @@
           "assessment_lesson_path": "7/sb-u1-grammar-2/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "In and out of school: Лексика: застосування Шкільне життя і дозвілля · Лексика: застосування",
-          "content_id": "7-sb-u1-vocabulary-2-homework-01"
+          "content_id": "7-sb-u1-vocabulary-2-homework-01",
+          "homework_id": "86272655",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272655",
+          "code": "1213093",
+          "student_url": "https://naurok.ua/test/join?gamecode=1213093",
+          "verified_deadline_ui": "2027-01-03T23:00"
         }
       ]
     },

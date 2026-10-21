@@ -385,7 +385,7 @@
           "test_id": "3886854",
           "title": "9 клас · All About Me: Слухання",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "question_points": [
             1,
             1,
@@ -403,7 +403,12 @@
           "assessment_lesson_path": "9/sb-u1-vocabulary-2/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "All About Me: Слухання Усе про мене: Слухання",
-          "content_id": "9-sb-u1-listening-homework-01"
+          "content_id": "9-sb-u1-listening-homework-01",
+          "homework_id": "86272431",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272431",
+          "code": "7475559",
+          "student_url": "https://naurok.ua/test/join?gamecode=7475559",
+          "verified_deadline_ui": "2027-01-03T23:00"
         }
       ]
     },
@@ -414,7 +419,7 @@
           "test_id": "3886858",
           "title": "9 клас · All About Me: Повторення",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "question_points": [
             1,
             1,
@@ -432,7 +437,12 @@
           "assessment_lesson_path": "9/sb-u1-self-check/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "All About Me: Повторення Усе про мене: Повторення",
-          "content_id": "9-sb-u1-look-back-homework-01"
+          "content_id": "9-sb-u1-look-back-homework-01",
+          "homework_id": "86272511",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272511",
+          "code": "1516226",
+          "student_url": "https://naurok.ua/test/join?gamecode=1516226",
+          "verified_deadline_ui": "2027-01-03T23:00"
         }
       ]
     },
@@ -443,7 +453,7 @@
           "test_id": "3886862",
           "title": "9 клас · All About Me: Читання",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "question_points": [
             1,
             1,
@@ -461,7 +471,12 @@
           "assessment_lesson_path": "9/sb-u1-grammar/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "All About Me: Читання Усе про мене: Читання",
-          "content_id": "9-sb-u1-reading-homework-01"
+          "content_id": "9-sb-u1-reading-homework-01",
+          "homework_id": "86272547",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272547",
+          "code": "6289854",
+          "student_url": "https://naurok.ua/test/join?gamecode=6289854",
+          "verified_deadline_ui": "2027-01-03T23:00"
         }
       ]
     },
@@ -472,7 +487,7 @@
           "test_id": "3886870",
           "title": "9 клас · All About Me: Самооцінювання",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "question_points": [
             1,
             1,
@@ -490,7 +505,12 @@
           "assessment_lesson_path": "9/sb-u2-lead-in/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "All About Me: Самооцінювання Усе про мене: Самооцінювання",
-          "content_id": "9-sb-u1-self-check-homework-01"
+          "content_id": "9-sb-u1-self-check-homework-01",
+          "homework_id": "86272619",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272619",
+          "code": "6729759",
+          "student_url": "https://naurok.ua/test/join?gamecode=6729759",
+          "verified_deadline_ui": "2027-01-03T23:00"
         }
       ]
     },
@@ -501,7 +521,7 @@
           "test_id": "3886872",
           "title": "9 клас · All About Me: Говоріння",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "question_points": [
             1,
             1,
@@ -519,7 +539,12 @@
           "assessment_lesson_path": "9/sb-u1-writing/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "All About Me: Говоріння Усе про мене: Говоріння",
-          "content_id": "9-sb-u1-speaking-homework-01"
+          "content_id": "9-sb-u1-speaking-homework-01",
+          "homework_id": "86272643",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272643",
+          "code": "1747607",
+          "student_url": "https://naurok.ua/test/join?gamecode=1747607",
+          "verified_deadline_ui": "2027-01-03T23:00"
         }
       ]
     },
@@ -530,7 +555,7 @@
           "test_id": "3886876",
           "title": "9 клас · All About Me: Слова й словосполучення",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "question_points": [
             1,
             1,
@@ -548,7 +573,12 @@
           "assessment_lesson_path": "9/sb-u1-reading/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "All About Me: Слова й словосполучення Усе про мене: Слова й словосполучення",
-          "content_id": "9-sb-u1-vocabulary-homework-01"
+          "content_id": "9-sb-u1-vocabulary-homework-01",
+          "homework_id": "86272681",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272681",
+          "code": "7104950",
+          "student_url": "https://naurok.ua/test/join?gamecode=7104950",
+          "verified_deadline_ui": "2027-01-03T23:00"
         }
       ]
     },
@@ -559,7 +589,7 @@
           "test_id": "3886877",
           "title": "9 клас · All About Me: Лексика в контексті",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "question_points": [
             1,
             1,
@@ -577,7 +607,12 @@
           "assessment_lesson_path": "9/sb-u1-grammar-2/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "All About Me: Лексика в контексті Усе про мене: Лексика в контексті",
-          "content_id": "9-sb-u1-vocabulary-2-homework-01"
+          "content_id": "9-sb-u1-vocabulary-2-homework-01",
+          "homework_id": "86272691",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272691",
+          "code": "6575805",
+          "student_url": "https://naurok.ua/test/join?gamecode=6575805",
+          "verified_deadline_ui": "2027-01-03T23:00"
         }
       ]
     },

@@ -13,7 +13,8 @@
 
 Дедлайн: 2027-06-01T23:00, Europe/Kyiv.
 
-[naurok: тест](https://naurok.com.ua/test-beta/test/3886861). Стан: `published_pending_homework_daily_limit`.
+[naurok: тест](https://naurok.com.ua/test-beta/test/3886861). Стан: `homework_created`.
+[naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=2750424).
 ## 1. 1 бал
 
 Напиши англійською: «клавіатура».

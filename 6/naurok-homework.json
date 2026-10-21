@@ -693,7 +693,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3886855",
           "title": "Where I live · 6 клас · ESL 4e",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "test_url": "https://naurok.com.ua/test-beta/test/3886855",
           "question_points": [
@@ -713,7 +713,12 @@
           "assessment_lesson_path": "6/sb-song-2/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Where I live Описуємо своє місто",
-          "content_id": "6-sb-4e-homework-01"
+          "content_id": "6-sb-4e-homework-01",
+          "homework_id": "86272460",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272460",
+          "code": "4184278",
+          "student_url": "https://naurok.ua/test/join?gamecode=4184278",
+          "verified_deadline_ui": "2027-01-03T23:00"
         }
       ]
     },
@@ -725,7 +730,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3886861",
           "title": "Computer parts · 6 клас · ESL 5a",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "test_url": "https://naurok.com.ua/test-beta/test/3886861",
           "question_points": [
@@ -745,7 +750,12 @@
           "assessment_lesson_path": "6/sb-5b/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Computer parts Комп’ютер і плани",
-          "content_id": "6-sb-5a-homework-01"
+          "content_id": "6-sb-5a-homework-01",
+          "homework_id": "86272527",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272527",
+          "code": "2750424",
+          "student_url": "https://naurok.ua/test/join?gamecode=2750424",
+          "verified_deadline_ui": "2027-06-01T23:00"
         }
       ]
     },
@@ -757,7 +767,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3886866",
           "title": "Gadgets · 6 клас · ESL 5b",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "test_url": "https://naurok.com.ua/test-beta/test/3886866",
           "question_points": [
@@ -777,7 +787,12 @@
           "assessment_lesson_path": "6/sb-5c/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Gadgets Технології майбутнього",
-          "content_id": "6-sb-5b-homework-01"
+          "content_id": "6-sb-5b-homework-01",
+          "homework_id": "86272587",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272587",
+          "code": "6460571",
+          "student_url": "https://naurok.ua/test/join?gamecode=6460571",
+          "verified_deadline_ui": "2027-06-01T23:00"
         }
       ]
     },
@@ -789,7 +804,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3886873",
           "title": "Recycling · 6 клас · ESL 5c",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "test_url": "https://naurok.com.ua/test-beta/test/3886873",
           "question_points": [
@@ -809,7 +824,12 @@
           "assessment_lesson_path": "6/sb-5d/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Recycling Обов’язки та заборони",
-          "content_id": "6-sb-5c-homework-01"
+          "content_id": "6-sb-5c-homework-01",
+          "homework_id": "86272648",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272648",
+          "code": "3869297",
+          "student_url": "https://naurok.ua/test/join?gamecode=3869297",
+          "verified_deadline_ui": "2027-06-01T23:00"
         }
       ]
     },

@@ -13,7 +13,8 @@
 
 Дедлайн: 2027-06-01T23:00, Europe/Kyiv.
 
-[naurok: тест](https://naurok.com.ua/test-beta/test/3886871). Стан: `published_pending_homework_daily_limit`.
+[naurok: тест](https://naurok.com.ua/test-beta/test/3886871). Стан: `homework_created`.
+[naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=5916118).
 ## 1. 1 бал
 
 Вставте who або which: This is the girl ___ won a prize.
