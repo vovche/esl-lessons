@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test/transport-6-klas-esl-2b-3886803.html). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=3111403).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/0094134286).
 ## 1. 1 бал
 
 Напиши англійською: «пором».
