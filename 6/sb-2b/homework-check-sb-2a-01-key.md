@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test/holiday-activity-6-klas-esl-2a-3886800.html). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=9135186).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/007939530).
 ## 1. 1 бал
 
 Напиши англійською: «засмагати».
