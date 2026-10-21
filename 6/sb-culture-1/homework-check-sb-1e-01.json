@@ -117,6 +117,39 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "84c5ead8-db29-490f-982a-996a8de6c6a9",
+      "title": "6 клас · 005 · My friend's profile",
+      "editor_url": "https://create.kahoot.it/creator/84c5ead8-db29-490f-982a-996a8de6c6a9",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 8,
+      "content_slide_count": 1,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "assignment_id": "4cae8377-acca-458d-a269-9b9c34601ce4",
+      "code": "0028616642",
+      "student_url": "https://kahoot.it/challenge/0028616642",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/4cae8377-acca-458d-a269-9b9c34601ce4/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1792609492981/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "randomize_answer_order": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "adaptations": []
     }
   },
   "assessment": {

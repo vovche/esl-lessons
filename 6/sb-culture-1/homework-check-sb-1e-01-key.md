@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test/my-friend-s-profile-6-klas-esl-1e-3886797.html). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=7745162).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/0028616642).
 ## 1. 1 бал
 
 Напиши англійською: «товариський».
