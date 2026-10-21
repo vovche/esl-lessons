@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test/free-time-6-klas-esl-1d-3886794.html). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=3132040).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/008964027).
 ## 1. 1 бал
 
 Напиши англійською: «караоке».
