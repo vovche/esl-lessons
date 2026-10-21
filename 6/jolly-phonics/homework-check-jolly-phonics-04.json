@@ -80,6 +80,37 @@
         2,
         3
       ]
+    },
+    "kahoot": {
+      "id": "fb4f3a70-bdfe-4425-b1c2-f724936575ad",
+      "title": "6 клас · 000 · Phonics 4",
+      "editor_url": "https://create.kahoot.it/creator/fb4f3a70-bdfe-4425-b1c2-f724936575ad",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 6,
+      "content_slide_count": 0,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "assignment_id": "87c7986e-3c2c-439f-927b-f50c6f369593",
+      "code": "0067697553",
+      "student_url": "https://kahoot.it/challenge/0067697553",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/87c7986e-3c2c-439f-927b-f50c6f369593/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1792608423425/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "randomize_answer_order": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "adaptations": []
     }
   },
   "assessment": {
