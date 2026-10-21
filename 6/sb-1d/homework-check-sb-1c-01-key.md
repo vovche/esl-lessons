@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test/character-6-klas-esl-1c-3886789.html). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=6400268).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/004444557).
 ## 1. 1 бал
 
 Напиши англійською: «спідниця».

@@ -117,6 +117,39 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "03334c06-7c53-477b-85a6-20836f009875",
+      "title": "6 клас · 003 · Character",
+      "editor_url": "https://create.kahoot.it/creator/03334c06-7c53-477b-85a6-20836f009875",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 8,
+      "content_slide_count": 2,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "assignment_id": "e628f417-09bb-4faf-9eae-4c48322780e8",
+      "code": "004444557",
+      "student_url": "https://kahoot.it/challenge/004444557",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/e628f417-09bb-4faf-9eae-4c48322780e8/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1792604212017/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "randomize_answer_order": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "adaptations": []
     }
   },
   "assessment": {
