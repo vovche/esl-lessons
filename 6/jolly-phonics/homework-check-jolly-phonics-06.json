@@ -116,7 +116,7 @@
       "deadline": null,
       "no_deadline": true,
       "student_entry_verified": true,
-      "content_verified_after_reopen": false,
+      "content_verified_after_reopen": true,
       "adaptations": [
         "English prompts shortened for Kahoot while preserving source words and phonics tasks.",
         "Source weights 1/2/3 mapped to Standard/Double; report normalized to 10."
