@@ -80,6 +80,46 @@
         2,
         3
       ]
+    },
+    "kahoot": {
+      "id": "4505203f-801b-48f3-8feb-fb496beba716",
+      "title": "6 клас · 000 · Jolly Phonics 5",
+      "editor_url": "https://create.kahoot.it/creator/4505203f-801b-48f3-8feb-fb496beba716",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 6,
+      "content_slide_count": 0,
+      "source_question_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ],
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "assignment_id": "1ddd0b2c-aa65-45bd-9b5e-236fdd90ab48",
+      "code": "003639357",
+      "student_url": "https://kahoot.it/challenge/003639357",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/1ddd0b2c-aa65-45bd-9b5e-236fdd90ab48/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1792637384229/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": false,
+      "adaptations": [
+        "Prompts shortened to fit Kahoot limits while preserving the original phonics tasks.",
+        "Source weights 1/2/3 mapped to Standard/Double; report normalized to 10."
+      ]
     }
   },
   "assessment": {
