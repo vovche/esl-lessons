@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test/travel-preparations-6-klas-esl-2c-3886806.html). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=7818947).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/004412371).
 ## 1. 1 бал
 
 Напиши англійською: «паспорт».
