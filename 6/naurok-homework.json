@@ -889,7 +889,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3886882",
           "title": "An environmental event · 6 клас · ESL 5e",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "test_url": "https://naurok.com.ua/test-beta/test/3886882",
           "question_points": [
@@ -909,7 +909,23 @@
           "assessment_lesson_path": "6/sb-culture-3/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "An environmental event Запрошення на екоподію",
-          "content_id": "6-sb-5e-homework-01"
+          "content_id": "6-sb-5e-homework-01",
+          "homework_id": "86370704",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86370704",
+          "code": "1759138",
+          "student_url": "https://naurok.ua/test/join?gamecode=1759138",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": false,
+            "show_ranking": false,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-25T"
         }
       ]
     },
@@ -921,7 +937,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3886893",
           "title": "Healthy food · 6 клас · ESL 6a",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "test_url": "https://naurok.com.ua/test-beta/test/3886893",
           "question_points": [
@@ -941,7 +957,23 @@
           "assessment_lesson_path": "6/sb-6b/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Healthy food Їжа та кількість",
-          "content_id": "6-sb-6a-homework-01"
+          "content_id": "6-sb-6a-homework-01",
+          "homework_id": "86370705",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86370705",
+          "code": "6625751",
+          "student_url": "https://naurok.ua/test/join?gamecode=6625751",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": false,
+            "show_ranking": false,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-25T"
         }
       ]
     },
@@ -953,7 +985,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3886895",
           "title": "Ailments and illnesses · 6 клас · ESL 6b",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "test_url": "https://naurok.com.ua/test-beta/test/3886895",
           "question_points": [
@@ -973,7 +1005,23 @@
           "assessment_lesson_path": "6/sb-6c/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Ailments and illnesses Самопочуття й поради",
-          "content_id": "6-sb-6b-homework-01"
+          "content_id": "6-sb-6b-homework-01",
+          "homework_id": "86370706",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86370706",
+          "code": "2005873",
+          "student_url": "https://naurok.ua/test/join?gamecode=2005873",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": false,
+            "show_ranking": false,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-25"
         }
       ]
     },
@@ -985,7 +1033,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3886899",
           "title": "Facts about sports · 6 клас · ESL 6c",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3886899",
           "verified": true,
           "question_points": [
@@ -1005,7 +1053,23 @@
           "assessment_lesson_path": "6/sb-6d/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Facts about sports Спорт і запитання з хвостиком",
-          "content_id": "6-sb-6c-homework-01"
+          "content_id": "6-sb-6c-homework-01",
+          "homework_id": "86370707",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86370707",
+          "code": "3499761",
+          "student_url": "https://naurok.ua/test/join?gamecode=3499761",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": false,
+            "show_ranking": false,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-25"
         }
       ]
     },
@@ -1017,7 +1081,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3886906",
           "title": "Football · 6 клас · ESL 6d",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3886906",
           "verified": true,
           "question_points": [
@@ -1037,7 +1101,23 @@
           "assessment_lesson_path": "6/sb-6e/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Football Моя команда",
-          "content_id": "6-sb-6d-homework-01"
+          "content_id": "6-sb-6d-homework-01",
+          "homework_id": "86370708",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86370708",
+          "code": "3059345",
+          "student_url": "https://naurok.ua/test/join?gamecode=3059345",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": false,
+            "show_ranking": false,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-25"
         }
       ]
     },
@@ -1049,7 +1129,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3886913",
           "title": "Get active! · 6 клас · ESL 6e",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3886913",
           "verified": true,
           "question_points": [
@@ -1069,7 +1149,23 @@
           "assessment_lesson_path": "6/sb-song-3/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Get active! Нове захоплення",
-          "content_id": "6-sb-6e-homework-01"
+          "content_id": "6-sb-6e-homework-01",
+          "homework_id": "86370709",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86370709",
+          "code": "9412250",
+          "student_url": "https://naurok.ua/test/join?gamecode=9412250",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": false,
+            "show_ranking": false,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-25"
         }
       ]
     },
@@ -1081,7 +1177,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3886918",
           "title": "TV programmes · 6 клас · ESL 7a",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3886918",
           "verified": true,
           "question_points": [
@@ -1101,7 +1197,23 @@
           "assessment_lesson_path": "6/sb-7b/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "TV programmes Досвід і телепрограми",
-          "content_id": "6-sb-7a-homework-01"
+          "content_id": "6-sb-7a-homework-01",
+          "homework_id": "86370710",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86370710",
+          "code": "8675872",
+          "student_url": "https://naurok.ua/test/join?gamecode=8675872",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": false,
+            "show_ranking": false,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-25"
         }
       ]
     },
@@ -1113,7 +1225,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3886922",
           "title": "Music · 6 клас · ESL 7b",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3886922",
           "verified": true,
           "question_points": [
@@ -1133,7 +1245,23 @@
           "assessment_lesson_path": "6/sb-7c/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Music Досвід і конкретна подія",
-          "content_id": "6-sb-7b-homework-01"
+          "content_id": "6-sb-7b-homework-01",
+          "homework_id": "86370711",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86370711",
+          "code": "7017527",
+          "student_url": "https://naurok.ua/test/join?gamecode=7017527",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": false,
+            "show_ranking": false,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-25"
         }
       ]
     },
@@ -1145,7 +1273,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3886925",
           "title": "Messages · 6 клас · ESL 7c",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3886925",
           "verified": true,
           "question_points": [
@@ -1165,7 +1293,23 @@
           "assessment_lesson_path": "6/sb-7d/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Messages Повідомлення та тривалість",
-          "content_id": "6-sb-7c-homework-01"
+          "content_id": "6-sb-7c-homework-01",
+          "homework_id": "86370712",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86370712",
+          "code": "4162881",
+          "student_url": "https://naurok.ua/test/join?gamecode=4162881",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": false,
+            "show_ranking": false,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-25"
         }
       ]
     },
@@ -1177,7 +1321,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3886934",
           "title": "Going shopping · 6 клас · ESL 7d",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3886934",
           "verified": true,
           "question_points": [
@@ -1197,7 +1341,23 @@
           "assessment_lesson_path": "6/sb-7e/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Going shopping Розмір, ціна та вибір",
-          "content_id": "6-sb-7d-homework-01"
+          "content_id": "6-sb-7d-homework-01",
+          "homework_id": "86370713",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86370713",
+          "code": "5308875",
+          "student_url": "https://naurok.ua/test/join?gamecode=5308875",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": false,
+            "show_ranking": false,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-25"
         }
       ]
     },
@@ -1209,7 +1369,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3886942",
           "title": "Teen problems · 6 клас · ESL 7e",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3886942",
           "verified": true,
           "question_points": [
@@ -1229,7 +1389,23 @@
           "assessment_lesson_path": "6/sb-culture-4/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Teen problems Просимо й даємо пораду",
-          "content_id": "6-sb-7e-homework-01"
+          "content_id": "6-sb-7e-homework-01",
+          "homework_id": "86370714",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86370714",
+          "code": "3218689",
+          "student_url": "https://naurok.ua/test/join?gamecode=3218689",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": false,
+            "show_ranking": false,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-25"
         }
       ]
     },
@@ -1241,7 +1417,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3886949",
           "title": "In the headlines · 6 клас · ESL 8a",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3886949",
           "verified": true,
           "question_points": [
@@ -1261,7 +1437,23 @@
           "assessment_lesson_path": "6/sb-8b/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "In the headlines Новини та означальні речення",
-          "content_id": "6-sb-8a-homework-01"
+          "content_id": "6-sb-8a-homework-01",
+          "homework_id": "86370715",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86370715",
+          "code": "3255907",
+          "student_url": "https://naurok.ua/test/join?gamecode=3255907",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": false,
+            "show_ranking": false,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-25"
         }
       ]
     },
@@ -1273,7 +1465,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3886952",
           "title": "Performing on stage · 6 клас · ESL 8b",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3886952",
           "verified": true,
           "question_points": [
@@ -1293,7 +1485,23 @@
           "assessment_lesson_path": "6/sb-8c/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Performing on stage Виступ і згода",
-          "content_id": "6-sb-8b-homework-01"
+          "content_id": "6-sb-8b-homework-01",
+          "homework_id": "86370716",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86370716",
+          "code": "4969766",
+          "student_url": "https://naurok.ua/test/join?gamecode=4969766",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": false,
+            "show_ranking": false,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-25"
         }
       ]
     },
@@ -1305,7 +1513,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3886960",
           "title": "The press · 6 клас · ESL 8c",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3886960",
           "verified": true,
           "question_points": [
@@ -1325,7 +1533,23 @@
           "assessment_lesson_path": "6/sb-8d/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "The press Як створюють журнал",
-          "content_id": "6-sb-8c-homework-01"
+          "content_id": "6-sb-8c-homework-01",
+          "homework_id": "86370717",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86370717",
+          "code": "1560807",
+          "student_url": "https://naurok.ua/test/join?gamecode=1560807",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": false,
+            "show_ranking": false,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-25"
         }
       ]
     },
@@ -1337,7 +1561,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3886964",
           "title": "The Oscars · 6 клас · ESL 8d",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3886964",
           "verified": true,
           "question_points": [
@@ -1357,7 +1581,23 @@
           "assessment_lesson_path": "6/sb-8e/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "The Oscars Нагороди в минулому",
-          "content_id": "6-sb-8d-homework-01"
+          "content_id": "6-sb-8d-homework-01",
+          "homework_id": "86370718",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86370718",
+          "code": "6111143",
+          "student_url": "https://naurok.ua/test/join?gamecode=6111143",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": false,
+            "show_ranking": false,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-25"
         }
       ]
     },
@@ -1369,7 +1609,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3886971",
           "title": "Films to watch · 6 клас · ESL 8e",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3886971",
           "verified": true,
           "question_points": [
@@ -1389,7 +1629,23 @@
           "assessment_lesson_path": "6/sb-song-4/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Films to watch Пишемо рецензію",
-          "content_id": "6-sb-8e-homework-01"
+          "content_id": "6-sb-8e-homework-01",
+          "homework_id": "86370719",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86370719",
+          "code": "1326519",
+          "student_url": "https://naurok.ua/test/join?gamecode=1326519",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": false,
+            "show_ranking": false,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-25"
         }
       ]
     },
@@ -1401,7 +1657,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3886976",
           "title": "A country fact file · 6 клас · ESL clil-geography",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3886976",
           "verified": true,
           "question_points": [
@@ -1421,7 +1677,23 @@
           "assessment_lesson_path": "6/sb-clil-sport/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "A country fact file Географія англійською: профіль країни",
-          "content_id": "6-sb-clil-geography-homework-01"
+          "content_id": "6-sb-clil-geography-homework-01",
+          "homework_id": "86370720",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86370720",
+          "code": "7293353",
+          "student_url": "https://naurok.ua/test/join?gamecode=7293353",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": false,
+            "show_ranking": false,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-25"
         }
       ]
     },
@@ -1433,7 +1705,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3886981",
           "title": "An expedition · 6 клас · ESL clil-history",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3886981",
           "verified": true,
           "question_points": [
@@ -1453,7 +1725,23 @@
           "assessment_lesson_path": "6/sb-clil-geography/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "An expedition Історія англійською: експедиція",
-          "content_id": "6-sb-clil-history-homework-01"
+          "content_id": "6-sb-clil-history-homework-01",
+          "homework_id": "86370721",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86370721",
+          "code": "7853314",
+          "student_url": "https://naurok.ua/test/join?gamecode=7853314",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": false,
+            "show_ranking": false,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-25"
         }
       ]
     },
@@ -1465,7 +1753,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3886984",
           "title": "Instrument families · 6 клас · ESL clil-music",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3886984",
           "verified": true,
           "question_points": [
@@ -1485,7 +1773,23 @@
           "assessment_lesson_path": "6/sb-pair-work/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Instrument families Музика англійською: групи інструментів",
-          "content_id": "6-sb-clil-music-homework-01"
+          "content_id": "6-sb-clil-music-homework-01",
+          "homework_id": "86370722",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86370722",
+          "code": "8962873",
+          "student_url": "https://naurok.ua/test/join?gamecode=8962873",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": false,
+            "show_ranking": false,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-25"
         }
       ]
     },
@@ -1497,7 +1801,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3886990",
           "title": "Ice hockey · 6 клас · ESL clil-sport",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3886990",
           "verified": true,
           "question_points": [
@@ -1517,7 +1821,23 @@
           "assessment_lesson_path": "6/sb-clil-music/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Ice hockey Фізкультура англійською: хокей",
-          "content_id": "6-sb-clil-sport-homework-01"
+          "content_id": "6-sb-clil-sport-homework-01",
+          "homework_id": "86370723",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86370723",
+          "code": "6424247",
+          "student_url": "https://naurok.ua/test/join?gamecode=6424247",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": false,
+            "show_ranking": false,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-25"
         }
       ]
     },
@@ -1572,7 +1892,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3886998",
           "title": "A place full of stories · 6 клас · ESL culture-2",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3886998",
           "verified": true,
           "question_points": [
@@ -1592,7 +1912,23 @@
           "assessment_lesson_path": "6/sb-round-up-3/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "A place full of stories Культура: традиції та легенди",
-          "content_id": "6-sb-culture-2-homework-01"
+          "content_id": "6-sb-culture-2-homework-01",
+          "homework_id": "86370724",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86370724",
+          "code": "6907822",
+          "student_url": "https://naurok.ua/test/join?gamecode=6907822",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": false,
+            "show_ranking": false,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-25"
         }
       ]
     },
@@ -1604,7 +1940,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3887003",
           "title": "Parks in the city · 6 клас · ESL culture-3",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3887003",
           "verified": true,
           "question_points": [
@@ -1624,7 +1960,23 @@
           "assessment_lesson_path": "6/sb-round-up-5/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Parks in the city Культура: міські парки",
-          "content_id": "6-sb-culture-3-homework-01"
+          "content_id": "6-sb-culture-3-homework-01",
+          "homework_id": "86370725",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86370725",
+          "code": "4937191",
+          "student_url": "https://naurok.ua/test/join?gamecode=4937191",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": false,
+            "show_ranking": false,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-25"
         }
       ]
     },
@@ -1636,7 +1988,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3887009",
           "title": "Popular musicals · 6 клас · ESL culture-4",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3887009",
           "verified": true,
           "question_points": [
@@ -1656,7 +2008,23 @@
           "assessment_lesson_path": "6/sb-round-up-7/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Popular musicals Культура: музичний театр",
-          "content_id": "6-sb-culture-4-homework-01"
+          "content_id": "6-sb-culture-4-homework-01",
+          "homework_id": "86370726",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86370726",
+          "code": "2497590",
+          "student_url": "https://naurok.ua/test/join?gamecode=2497590",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": false,
+            "show_ranking": false,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-25"
         }
       ]
     },
@@ -1668,7 +2036,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3887013",
           "title": "Food traditions · 6 клас · ESL culture-ukraine-1",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3887013",
           "verified": true,
           "question_points": [
@@ -1688,7 +2056,23 @@
           "assessment_lesson_path": "6/sb-culture-ukraine-2/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Food traditions Культура: традиції харчування",
-          "content_id": "6-sb-culture-ukraine-1-homework-01"
+          "content_id": "6-sb-culture-ukraine-1-homework-01",
+          "homework_id": "86370727",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86370727",
+          "code": "4318058",
+          "student_url": "https://naurok.ua/test/join?gamecode=4318058",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": false,
+            "show_ranking": false,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-25"
         }
       ]
     },
