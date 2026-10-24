@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test/travelling-then-and-now-6-klas-esl-2d-3886811.html). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=1491457).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/008883541).
 ## 1. 1 бал
 
 Напиши англійською: «морська подорож».
