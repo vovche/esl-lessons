@@ -841,7 +841,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3886878",
           "title": "Animal protection · 6 клас · ESL 5d",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "test_url": "https://naurok.com.ua/test-beta/test/3886878",
           "question_points": [
@@ -861,7 +861,23 @@
           "assessment_lesson_path": "6/sb-5e/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Animal protection Захищаємо тварин",
-          "content_id": "6-sb-5d-homework-01"
+          "content_id": "6-sb-5d-homework-01",
+          "homework_id": "86368685",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86368685",
+          "code": "8852883",
+          "student_url": "https://naurok.ua/test/join?gamecode=8852883",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": false,
+            "show_ranking": false,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-24T17:13:00+03:00"
         }
       ]
     },
