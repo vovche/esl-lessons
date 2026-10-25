@@ -116,6 +116,52 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "96e01814-b52a-40ae-b8b2-849012e25c1a",
+      "editor_url": "https://create.kahoot.it/creator/96e01814-b52a-40ae-b8b2-849012e25c1a",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 8,
+      "content_slide_count": 0,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "assignment_id": "74267de0-5719-4dc7-bcf5-d50a4d3e67d6",
+      "code": "0095905181",
+      "student_url": "https://kahoot.it/challenge/0095905181",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/74267de0-5719-4dc7-bcf5-d50a4d3e67d6/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1792390762373/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "adaptations": [],
+      "kahoot_id": "96e01814-b52a-40ae-b8b2-849012e25c1a",
+      "title": "9 клас · 000 · Wordlist Unit 8",
+      "source_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "maximum_scoring_units": 10,
+      "assessment_lesson_path": "9/sb-wordlist/",
+      "reverified_at": "2026-10-25T08:36:52.775557+00:00"
     }
   },
   "assessment": {

@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test/9-klas-my-story-so-far-avtobiografiya-3886807.html). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=6237250).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/008139854).
 ## 1. 1 бал
 
 Напиши англійською одним словом: автобіографія.

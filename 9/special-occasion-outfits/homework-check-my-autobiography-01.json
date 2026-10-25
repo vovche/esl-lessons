@@ -92,6 +92,56 @@
         2,
         3
       ]
+    },
+    "kahoot": {
+      "id": "5eaf3244-c6ed-454d-a131-9798a8050ce2",
+      "editor_url": "https://create.kahoot.it/creator/5eaf3244-c6ed-454d-a131-9798a8050ce2",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 6,
+      "content_slide_count": 0,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "assignment_id": "76a6a80c-8581-47a3-a5e4-04b53647bf3f",
+      "code": "008139854",
+      "student_url": "https://kahoot.it/challenge/008139854",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/76a6a80c-8581-47a3-a5e4-04b53647bf3f/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1792390764507/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "adaptations": [
+        {
+          "question": 6,
+          "from": "word",
+          "to": "choice",
+          "reason": "typed_answer_exceeds_20_characters",
+          "approved": true
+        }
+      ],
+      "kahoot_id": "5eaf3244-c6ed-454d-a131-9798a8050ce2",
+      "title": "9 клас · 011 · Autobiography",
+      "source_question_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ],
+      "maximum_scoring_units": 9,
+      "assessment_lesson_path": "9/special-occasion-outfits/",
+      "reverified_at": "2026-10-25T08:36:52.774343+00:00"
     }
   },
   "assessment": {
