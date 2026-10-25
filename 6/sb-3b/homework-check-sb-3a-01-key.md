@@ -15,6 +15,8 @@
 
 [naurok: тест](https://naurok.com.ua/test/accident-6-klas-esl-3a-3886817.html). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=5279543).
+[kahoot: тест](https://create.kahoot.it/details/6-029-accident/6295a969-1d90-45f3-9c5a-9bf692cbe9c3). Стан: `homework_created`.
+[kahoot: домашнє завдання](https://kahoot.it/challenge/001441353).
 ## 1. 1 бал
 
 Напиши англійською: «нещасний випадок».

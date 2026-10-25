@@ -117,6 +117,72 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "kahoot_id": "6295a969-1d90-45f3-9c5a-9bf692cbe9c3",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "title": "6 клас · 029 · Accident",
+      "editor_url": "https://create.kahoot.it/creator/6295a969-1d90-45f3-9c5a-9bf692cbe9c3",
+      "test_url": "https://create.kahoot.it/details/6-029-accident/6295a969-1d90-45f3-9c5a-9bf692cbe9c3",
+      "question_count": 8,
+      "content_slide_count": 2,
+      "source_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "maximum_possible_kahoot_points": 10,
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "assignment_id": "22aed320-cadf-4b1c-9f02-b0a8c6dfab76",
+      "code": "001441353",
+      "student_url": "https://kahoot.it/challenge/001441353",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/22aed320-cadf-4b1c-9f02-b0a8c6dfab76/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1792915362474/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": true,
+      "question_timers_seconds": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        30,
+        30
+      ],
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "assessment_lesson_path": "6/sb-3b/",
+      "adaptations": [
+        {
+          "questions": [
+            1,
+            2,
+            3
+          ],
+          "adaptation": "kept as typed written answers; distractors removed after changing question type",
+          "approved": true
+        }
+      ],
+      "created_at": "2026-10-25T10:02:42+02:00"
     }
   },
   "assessment": {
