@@ -15,6 +15,8 @@
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886820). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=4863579).
+[kahoot: тест](https://create.kahoot.it/details/6-031-mysteries/267e141b-57ba-49ee-85da-94ad398657d5). Стан: `homework_created`.
+[kahoot: домашнє завдання](https://kahoot.it/challenge/002287496).
 ## 1. 1 бал
 
 Напиши англійською: «зникати».
