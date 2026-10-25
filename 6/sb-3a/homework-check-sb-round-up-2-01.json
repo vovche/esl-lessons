@@ -128,9 +128,9 @@
       "status": "homework_created",
       "verified": true,
       "visibility": "private",
-      "title": "6 клас · 028 · Round-up 2",
+      "title": "6 клас · 027 · Round-up 2",
       "editor_url": "https://create.kahoot.it/creator/91921821-259a-44fe-8612-eb23ef842ff0",
-      "test_url": "https://create.kahoot.it/details/6-028-round-up-2/91921821-259a-44fe-8612-eb23ef842ff0",
+      "test_url": "https://create.kahoot.it/details/6-027-round-up-2/91921821-259a-44fe-8612-eb23ef842ff0",
       "question_count": 8,
       "content_slide_count": 6,
       "source_question_weights": [
@@ -187,7 +187,8 @@
           "approved": true
         }
       ],
-      "created_at": "2026-10-25T09:56:57+02:00"
+      "created_at": "2026-10-25T09:56:57+02:00",
+      "title_verified_at": "2026-10-25T10:07:00+02:00"
     }
   },
   "assessment": {
