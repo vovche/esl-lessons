@@ -122,6 +122,72 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "kahoot_id": "91921821-259a-44fe-8612-eb23ef842ff0",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "title": "6 клас · 028 · Round-up 2",
+      "editor_url": "https://create.kahoot.it/creator/91921821-259a-44fe-8612-eb23ef842ff0",
+      "test_url": "https://create.kahoot.it/details/6-028-round-up-2/91921821-259a-44fe-8612-eb23ef842ff0",
+      "question_count": 8,
+      "content_slide_count": 6,
+      "source_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "maximum_possible_kahoot_points": 10,
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "assignment_id": "0539b362-bfd5-4119-977e-5aefa1a729b3",
+      "code": "008798052",
+      "student_url": "https://kahoot.it/challenge/008798052",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/0539b362-bfd5-4119-977e-5aefa1a729b3/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1792915017060/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": true,
+      "question_timers_seconds": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        30,
+        30,
+        30
+      ],
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "assessment_lesson_path": "6/sb-3a/",
+      "adaptations": [
+        {
+          "questions": [
+            6,
+            7,
+            8
+          ],
+          "adaptation": "verbatim reading passages split across six content slides before comprehension questions",
+          "approved": true
+        }
+      ],
+      "created_at": "2026-10-25T09:56:57+02:00"
     }
   },
   "assessment": {
