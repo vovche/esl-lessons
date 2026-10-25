@@ -133,6 +133,67 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "kahoot_id": "70eeacad-f0a5-41e9-8334-164fc2a85b54",
+      "title": "7 клас · 011 · Choosing a club",
+      "editor_url": "https://create.kahoot.it/creator/70eeacad-f0a5-41e9-8334-164fc2a85b54",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 8,
+      "content_slide_count": 1,
+      "source_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "maximum_scoring_units": 10,
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "assignment_id": "d9d2b1b7-01bb-420c-8e30-3e3409b6d9cf",
+      "code": "0085005389",
+      "student_url": "https://kahoot.it/challenge/0085005389",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/d9d2b1b7-01bb-420c-8e30-3e3409b6d9cf/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1792951004239/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "randomize_answer_order": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "assessment_lesson_path": "7/sb-u1-writing/",
+      "adaptations": [
+        {
+          "source_question": 7,
+          "adaptation": "reading_on_content_slides",
+          "content_unit_indexes": [
+            6
+          ]
+        },
+        {
+          "source_question": 8,
+          "adaptation": "reading_on_content_slides",
+          "content_unit_indexes": [
+            6
+          ]
+        }
+      ],
+      "created_at": "2026-10-25T17:57:18.366631+00:00"
     }
   },
   "assessment": {

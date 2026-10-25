@@ -133,6 +133,67 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "kahoot_id": "6f3090a0-3f71-4176-a81b-0f514f3d8020",
+      "title": "7 клас · 009 · School words in use",
+      "editor_url": "https://create.kahoot.it/creator/6f3090a0-3f71-4176-a81b-0f514f3d8020",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 8,
+      "content_slide_count": 1,
+      "source_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "maximum_scoring_units": 10,
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "assignment_id": "7b22562f-9d80-44b6-b6a4-10dc4d8e0427",
+      "code": "0090293171",
+      "student_url": "https://kahoot.it/challenge/0090293171",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/7b22562f-9d80-44b6-b6a4-10dc4d8e0427/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1792940423912/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "randomize_answer_order": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "assessment_lesson_path": "7/sb-u1-grammar-2/",
+      "adaptations": [
+        {
+          "source_question": 7,
+          "adaptation": "reading_on_content_slides",
+          "content_unit_indexes": [
+            6
+          ]
+        },
+        {
+          "source_question": 8,
+          "adaptation": "reading_on_content_slides",
+          "content_unit_indexes": [
+            6
+          ]
+        }
+      ],
+      "created_at": "2026-10-25T15:01:04.803425+00:00"
     }
   },
   "assessment": {

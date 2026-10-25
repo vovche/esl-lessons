@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886874). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=1213093).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/0090293171).
 ## 1. 1 бал
 
 Обери значення слова make decorations.
