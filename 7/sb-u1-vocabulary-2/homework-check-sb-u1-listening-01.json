@@ -133,6 +133,69 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "kahoot_id": "cee30835-0941-40fd-9275-ae9e35151397",
+      "title": "7 клас · 008 · School show",
+      "editor_url": "https://create.kahoot.it/creator/cee30835-0941-40fd-9275-ae9e35151397",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 8,
+      "content_slide_count": 2,
+      "source_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "maximum_scoring_units": 10,
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "assignment_id": "83a798d4-7ad9-4bc8-9e7b-39c83704d3cb",
+      "code": "001679484",
+      "student_url": "https://kahoot.it/challenge/001679484",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/83a798d4-7ad9-4bc8-9e7b-39c83704d3cb/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1792940200893/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "randomize_answer_order": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "assessment_lesson_path": "7/sb-u1-vocabulary-2/",
+      "adaptations": [
+        {
+          "source_question": 7,
+          "adaptation": "reading_on_content_slides",
+          "content_unit_indexes": [
+            6,
+            7
+          ]
+        },
+        {
+          "source_question": 8,
+          "adaptation": "reading_on_content_slides",
+          "content_unit_indexes": [
+            6,
+            7
+          ]
+        }
+      ],
+      "created_at": "2026-10-25T14:57:06.060248+00:00"
     }
   },
   "assessment": {
