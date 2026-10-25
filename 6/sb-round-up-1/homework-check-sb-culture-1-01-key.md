@@ -14,6 +14,7 @@
 Дедлайн: 2027-01-03T23:00, Europe/Kyiv.
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886992). Стан: `published`.
+[kahoot: домашнє завдання](https://kahoot.it/challenge/003228445).
 ## 1. 1 бал
 
 Напиши англійською: «двоповерховий автобус».
