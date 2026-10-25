@@ -14,6 +14,7 @@
 Дедлайн: 2027-01-03T23:00, Europe/Kyiv.
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886936). Стан: `published_pending_homework_daily_limit`.
+[kahoot: домашнє завдання](https://kahoot.it/challenge/002553573).
 ## 1. 1 бал
 
 Лексика Unit 3. Перекладіть англійською: «нещасний випадок». Підказка: 8 символів; починається на a. Напишіть слово або словосполучення зі словника уроку.

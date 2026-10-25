@@ -80,6 +80,48 @@
         2,
         3
       ]
+    },
+    "kahoot": {
+      "id": "a9063472-6cc5-41d7-a88a-a3cc57a56c15",
+      "title": "6 клас · 000 · Wordlist Unit 3",
+      "editor_url": "https://create.kahoot.it/creator/a9063472-6cc5-41d7-a88a-a3cc57a56c15",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 6,
+      "content_slide_count": 0,
+      "source_question_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ],
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "maximum_possible_kahoot_points": 9,
+      "assignment_id": "2d32afe7-d699-4e02-b038-f5c050e609ec",
+      "code": "002553573",
+      "student_url": "https://kahoot.it/challenge/002553573",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/2d32afe7-d699-4e02-b038-f5c050e609ec/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1792887666601/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "adaptations": [
+        "The Unit 3 letter-reconstruction item was adapted to an English unscrambling prompt with the full 13-letter answer.",
+        "Source weights 1/2/3 mapped to Standard/Double; maximum score 9 is normalized to 10."
+      ]
     }
   },
   "assessment": {
