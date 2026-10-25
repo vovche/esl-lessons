@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886828). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=8762779).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/001744600).
 ## 1. 1 бал
 
 Напиши англійською: «драбина».
