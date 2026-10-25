@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886998). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=6907822).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/002875617).
 ## 1. 1 бал
 
 Напиши англійською: «волинка».

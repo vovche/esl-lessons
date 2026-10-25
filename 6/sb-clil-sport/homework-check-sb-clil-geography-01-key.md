@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886976). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=7293353).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/004153425).
 ## 1. 1 бал
 
 Напиши англійською: «клімат».
