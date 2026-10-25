@@ -80,6 +80,50 @@
         2,
         3
       ]
+    },
+    "kahoot": {
+      "id": "c6c55966-64cc-4b85-b274-9e5195a4ffb6",
+      "title": "6 клас · 000 · Wordlist Unit 4",
+      "editor_url": "https://create.kahoot.it/creator/c6c55966-64cc-4b85-b274-9e5195a4ffb6",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 6,
+      "content_slide_count": 0,
+      "source_question_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ],
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "maximum_possible_kahoot_points": 9,
+      "assignment_id": "4d6792cc-9b19-4dc5-80e9-d32ba5cc3ae2",
+      "code": "005242098",
+      "student_url": "https://kahoot.it/challenge/005242098",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/4d6792cc-9b19-4dc5-80e9-d32ba5cc3ae2/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1792887975670/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "assessment_lesson_path": "6/sb-wordlist/",
+      "publication_status": "publication_pending",
+      "adaptations": [
+        "The Unit 4 letter-reconstruction item was adapted to an English unscrambling prompt with the complete 11-letter answer.",
+        "Source weights 1/2/3 mapped to Standard/Double; maximum score 9 is normalized to 10."
+      ]
     }
   },
   "assessment": {
