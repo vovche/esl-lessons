@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886856). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=4159541).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/0097610264).
 ## 1. 1 бал
 
 Вставте be: I ___ going to buy a keyboard.

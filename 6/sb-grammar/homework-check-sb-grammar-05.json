@@ -84,6 +84,59 @@
         2,
         3
       ]
+    },
+    "kahoot": {
+      "id": "539467b8-0d42-4dad-bbae-f87ade5e4f31",
+      "title": "6 клас · 069 · Grammar Unit 5",
+      "editor_url": "https://create.kahoot.it/creator/539467b8-0d42-4dad-bbae-f87ade5e4f31",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 6,
+      "content_slide_count": 0,
+      "source_question_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ],
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "maximum_possible_kahoot_points": 9,
+      "assignment_id": "52588d02-a93f-4b3d-818d-f27e187d86a6",
+      "code": "0097610264",
+      "student_url": "https://kahoot.it/challenge/0097610264",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/52588d02-a93f-4b3d-818d-f27e187d86a6/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1792888379988/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "assessment_lesson_path": "6/sb-grammar/",
+      "publication_status": "publication_pending",
+      "adaptations": [
+        {
+          "question": 6,
+          "from": "word",
+          "to": "choice",
+          "reason": "typed_answer_exceeds_20_characters",
+          "approved": true,
+          "correct_answer": "Are you going to visit the fair?"
+        },
+        "Source weights 1/2/3 mapped to Standard/Double; maximum score 9 is normalized to 10."
+      ],
+      "canonical_id": "6-sb-grammar-homework-05",
+      "source_json": "6/sb-grammar/homework-check-sb-grammar-05.json"
     }
   },
   "assessment": {
