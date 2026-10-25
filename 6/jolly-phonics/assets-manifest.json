@@ -1,5 +1,5 @@
 {
-  "version": "1.0.16",
+  "version": "1.0.17",
   "assets": [
     {
       "url": "app.js",
@@ -1288,8 +1288,8 @@
     },
     {
       "url": "index.html",
-      "sha256": "40bf1a8bf0101b4e19cea067eb6795ac9b484ff733d02ffe01487438ba9aeade",
-      "bytes": 13045
+      "sha256": "388d68be4611d3ebf04d12684357379190d5392851198b8d006c27e5c500c7f6",
+      "bytes": 13247
     },
     {
       "url": "manifest.webmanifest",

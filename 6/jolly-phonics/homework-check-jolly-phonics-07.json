@@ -80,6 +80,48 @@
         2,
         3
       ]
+    },
+    "kahoot": {
+      "id": "7486ae37-9f79-49ee-baf3-cb776de31e01",
+      "title": "6 клас · 000 · Jolly Phonics 7",
+      "editor_url": "https://create.kahoot.it/creator/7486ae37-9f79-49ee-baf3-cb776de31e01",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 6,
+      "content_slide_count": 0,
+      "source_question_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ],
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "maximum_possible_kahoot_points": 9,
+      "assignment_id": "5db03e25-4de3-4a0d-91ec-e79b53df8483",
+      "code": "003369709",
+      "student_url": "https://kahoot.it/challenge/003369709",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/5db03e25-4de3-4a0d-91ec-e79b53df8483/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1792886671088/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "adaptations": [
+        "English prompts shortened while preserving the source graphemes and words.",
+        "Source weights 1/2/3 mapped to Standard/Double; maximum score 9 is normalized to 10."
+      ]
     }
   },
   "assessment": {
