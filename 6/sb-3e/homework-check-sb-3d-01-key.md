@@ -15,6 +15,8 @@
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886825). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=5242233).
+[kahoot: тест](https://create.kahoot.it/details/6-035-feelings/1900b452-efbb-4705-9594-789e91dc1495). Стан: `homework_created`.
+[kahoot: домашнє завдання](https://kahoot.it/challenge/0097728219).
 ## 1. 1 бал
 
 Напиши англійською: «здивований».
