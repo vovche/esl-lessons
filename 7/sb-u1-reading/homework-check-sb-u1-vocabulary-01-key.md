@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886869). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=9384937).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/0016447249).
 ## 1. 1 бал
 
 Обери значення слова bookworm.

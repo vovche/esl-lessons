@@ -133,6 +133,69 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "kahoot_id": "515267d9-eaf0-40f6-9190-5e6d9b410635",
+      "title": "7 клас · 004 · School vocabulary",
+      "editor_url": "https://create.kahoot.it/creator/515267d9-eaf0-40f6-9190-5e6d9b410635",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 8,
+      "content_slide_count": 2,
+      "source_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "maximum_scoring_units": 10,
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "assignment_id": "353eabf6-f229-4011-88a3-b45fcdffc0ed",
+      "code": "0016447249",
+      "student_url": "https://kahoot.it/challenge/0016447249",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/353eabf6-f229-4011-88a3-b45fcdffc0ed/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1792939765929/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "randomize_answer_order": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "assessment_lesson_path": "7/sb-u1-reading/",
+      "adaptations": [
+        {
+          "source_question": 7,
+          "adaptation": "reading_on_content_slides",
+          "content_unit_indexes": [
+            6,
+            7
+          ]
+        },
+        {
+          "source_question": 8,
+          "adaptation": "reading_on_content_slides",
+          "content_unit_indexes": [
+            6,
+            7
+          ]
+        }
+      ],
+      "created_at": "2026-10-25T14:49:55.082029+00:00"
     }
   },
   "assessment": {

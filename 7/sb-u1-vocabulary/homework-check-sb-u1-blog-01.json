@@ -133,6 +133,69 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "kahoot_id": "5da43f56-8d6d-4ea4-9ef0-70ea85e256cc",
+      "title": "7 клас · 002b · School clubs",
+      "editor_url": "https://create.kahoot.it/creator/5da43f56-8d6d-4ea4-9ef0-70ea85e256cc",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 8,
+      "content_slide_count": 2,
+      "source_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "maximum_scoring_units": 10,
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "assignment_id": "172e33ec-f33c-4fd2-98aa-aa3f6268516b",
+      "code": "001749828",
+      "student_url": "https://kahoot.it/challenge/001749828",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/172e33ec-f33c-4fd2-98aa-aa3f6268516b/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1792939685030/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "randomize_answer_order": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "assessment_lesson_path": "7/sb-u1-vocabulary/",
+      "adaptations": [
+        {
+          "source_question": 7,
+          "adaptation": "reading_on_content_slides",
+          "content_unit_indexes": [
+            6,
+            7
+          ]
+        },
+        {
+          "source_question": 8,
+          "adaptation": "reading_on_content_slides",
+          "content_unit_indexes": [
+            6,
+            7
+          ]
+        }
+      ],
+      "created_at": "2026-10-25T14:48:31.319986+00:00"
     }
   },
   "assessment": {
