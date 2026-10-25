@@ -80,6 +80,48 @@
         2,
         3
       ]
+    },
+    "kahoot": {
+      "id": "65b6d2ba-1f6f-4b3e-aac7-881c0bd12be7",
+      "title": "6 клас · 000 · Wordlist Unit 1",
+      "editor_url": "https://create.kahoot.it/creator/65b6d2ba-1f6f-4b3e-aac7-881c0bd12be7",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 6,
+      "content_slide_count": 0,
+      "source_question_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ],
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "maximum_possible_kahoot_points": 9,
+      "assignment_id": "7d8f265c-46c2-466d-8f7a-9e5a83f2c5c5",
+      "code": "0080191918",
+      "student_url": "https://kahoot.it/challenge/0080191918",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/7d8f265c-46c2-466d-8f7a-9e5a83f2c5c5/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1792886973371/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "adaptations": [
+        "Prompts kept as typed English answers; the longest answer rollerblading is 13 characters, within Kahoot limit.",
+        "Source weights 1/2/3 mapped to Standard/Double; maximum score 9 is normalized to 10."
+      ]
     }
   },
   "assessment": {

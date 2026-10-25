@@ -14,6 +14,7 @@
 Дедлайн: 2027-01-03T23:00, Europe/Kyiv.
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886917). Стан: `published_pending_homework_daily_limit`.
+[kahoot: домашнє завдання](https://kahoot.it/challenge/0080191918).
 ## 1. 1 бал
 
 Лексика Unit 1. Перекладіть англійською: «історія». Підказка: 7 символів; починається на h. Напишіть слово або словосполучення зі словника уроку.
