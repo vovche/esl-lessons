@@ -117,6 +117,69 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "kahoot_id": "58ba287c-7285-49c7-8770-28f1c8b4e61c",
+      "title": "6 клас · 048 · Outer space",
+      "editor_url": "https://create.kahoot.it/creator/58ba287c-7285-49c7-8770-28f1c8b4e61c",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 8,
+      "content_slide_count": 2,
+      "source_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "maximum_scoring_units": 10,
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "assignment_id": "587cffdc-0b77-46e0-aaa5-7a5b8f6ed072",
+      "code": "006153600",
+      "student_url": "https://kahoot.it/challenge/006153600",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/587cffdc-0b77-46e0-aaa5-7a5b8f6ed072/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1792938630529/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "randomize_answer_order": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "assessment_lesson_path": "6/sb-4e/",
+      "adaptations": [
+        {
+          "source_question": 7,
+          "adaptation": "reading_on_content_slides",
+          "content_unit_indexes": [
+            6,
+            7
+          ]
+        },
+        {
+          "source_question": 8,
+          "adaptation": "reading_on_content_slides",
+          "content_unit_indexes": [
+            6,
+            7
+          ]
+        }
+      ],
+      "created_at": "2026-10-25T14:30:50.313455+00:00"
     }
   },
   "assessment": {

@@ -14,6 +14,7 @@
 Дедлайн: 2027-01-03T23:00, Europe/Kyiv.
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3887104). Стан: `published_pending_homework_daily_limit`.
+[kahoot: домашнє завдання](https://kahoot.it/challenge/004707657).
 ## 1. 1 бал
 
 Напиши англійською: «невезучий».

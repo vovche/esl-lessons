@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886847). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=1983711).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/006153600).
 ## 1. 1 бал
 
 Напиши англійською: «галактика».

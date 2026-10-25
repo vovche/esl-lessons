@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886981). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=7853314).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/008165644).
 ## 1. 1 бал
 
 Напиши англійською: «експедиція».
