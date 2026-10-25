@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886843). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=3845598).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/003520415).
 ## 1. 1 бал
 
 Напиши англійською: «спокійний».

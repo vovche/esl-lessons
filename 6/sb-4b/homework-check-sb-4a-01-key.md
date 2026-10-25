@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886830). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=9424233).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/006429698).
 ## 1. 1 бал
 
 Напиши англійською: «квітникар, квіткова крамниця».

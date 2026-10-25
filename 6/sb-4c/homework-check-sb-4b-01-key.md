@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886836). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=5374064).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/004344743).
 ## 1. 1 бал
 
 Напиши англійською: «перехід».

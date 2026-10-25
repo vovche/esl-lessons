@@ -117,6 +117,69 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "kahoot_id": "7153c74e-6be3-415c-bc31-afbc19ecc2a7",
+      "title": "6 клас · 044 · How to get there",
+      "editor_url": "https://create.kahoot.it/creator/7153c74e-6be3-415c-bc31-afbc19ecc2a7",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 8,
+      "content_slide_count": 2,
+      "source_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "maximum_scoring_units": 10,
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "assignment_id": "c41899ef-2a8e-4f8b-912f-8ecc02d011b1",
+      "code": "004344743",
+      "student_url": "https://kahoot.it/challenge/004344743",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/c41899ef-2a8e-4f8b-912f-8ecc02d011b1/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1792938265782/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "randomize_answer_order": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "assessment_lesson_path": "6/sb-4c/",
+      "adaptations": [
+        {
+          "source_question": 7,
+          "adaptation": "reading_on_content_slides",
+          "content_unit_indexes": [
+            6,
+            7
+          ]
+        },
+        {
+          "source_question": 8,
+          "adaptation": "reading_on_content_slides",
+          "content_unit_indexes": [
+            6,
+            7
+          ]
+        }
+      ],
+      "created_at": "2026-10-25T14:24:52.549871+00:00"
     }
   },
   "assessment": {

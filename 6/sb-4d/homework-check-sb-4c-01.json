@@ -117,6 +117,69 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "kahoot_id": "d0c36874-d55d-4d9f-a8a2-67bba3f084ef",
+      "title": "6 клас · 046 · City vs countryside",
+      "editor_url": "https://create.kahoot.it/creator/d0c36874-d55d-4d9f-a8a2-67bba3f084ef",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 8,
+      "content_slide_count": 2,
+      "source_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "maximum_scoring_units": 10,
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "assignment_id": "2e8b64ca-5bb3-4fa8-9357-8de782b64f60",
+      "code": "003520415",
+      "student_url": "https://kahoot.it/challenge/003520415",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/2e8b64ca-5bb3-4fa8-9357-8de782b64f60/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1792938371524/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "randomize_answer_order": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "assessment_lesson_path": "6/sb-4d/",
+      "adaptations": [
+        {
+          "source_question": 7,
+          "adaptation": "reading_on_content_slides",
+          "content_unit_indexes": [
+            6,
+            7
+          ]
+        },
+        {
+          "source_question": 8,
+          "adaptation": "reading_on_content_slides",
+          "content_unit_indexes": [
+            6,
+            7
+          ]
+        }
+      ],
+      "created_at": "2026-10-25T14:26:44.643285+00:00"
     }
   },
   "assessment": {
