@@ -15,6 +15,8 @@
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886824). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=6844339).
+[kahoot: тест](https://create.kahoot.it/details/6-033-what-happened/fbd46459-cede-40b4-93a3-6199f117a8fb). Стан: `homework_created`.
+[kahoot: домашнє завдання](https://kahoot.it/challenge/009903009).
 ## 1. 1 бал
 
 Напиши англійською: «атракціон».
