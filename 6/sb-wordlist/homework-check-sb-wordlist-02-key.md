@@ -14,6 +14,7 @@
 Дедлайн: 2027-01-03T23:00, Europe/Kyiv.
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886931). Стан: `published_pending_homework_daily_limit`.
+[kahoot: домашнє завдання](https://kahoot.it/challenge/005905884).
 ## 1. 1 бал
 
 Лексика Unit 2. Перекладіть англійською: «засмагати». Підказка: 8 символів; починається на s. Напишіть слово або словосполучення зі словника уроку.

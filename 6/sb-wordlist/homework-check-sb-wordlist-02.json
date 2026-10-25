@@ -80,6 +80,48 @@
         2,
         3
       ]
+    },
+    "kahoot": {
+      "id": "db2690ba-e8be-4427-8d4e-6fea009f26d6",
+      "title": "6 клас · 000 · Wordlist Unit 2",
+      "editor_url": "https://create.kahoot.it/creator/db2690ba-e8be-4427-8d4e-6fea009f26d6",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 6,
+      "content_slide_count": 0,
+      "source_question_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ],
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "maximum_possible_kahoot_points": 9,
+      "assignment_id": "de9fc163-a060-4297-8746-5a6a2d6b2324",
+      "code": "005905884",
+      "student_url": "https://kahoot.it/challenge/005905884",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/de9fc163-a060-4297-8746-5a6a2d6b2324/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1792887270011/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": false,
+      "adaptations": [
+        "The Unit 2 letter-reconstruction item was adapted to an English prompt asking learners to unscramble the complete letter set.",
+        "Source weights 1/2/3 mapped to Standard/Double; maximum score 9 is normalized to 10."
+      ]
     }
   },
   "assessment": {
