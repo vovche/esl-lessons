@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test/a-school-trip-6-klas-esl-2e-3886813.html). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=4858667).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/00220103).
 ## 1. 1 бал
 
 Напиши англійською: «дивовижний».
