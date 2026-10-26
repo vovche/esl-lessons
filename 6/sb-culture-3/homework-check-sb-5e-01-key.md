@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886882). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=1759138).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/0093590267).
 ## 1. 1 бал
 
 Напиши англійською: «запрошувати».
