@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886866). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=6460571).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/0015829626).
 ## 1. 1 бал
 
 Напиши англійською: «бездротовий».

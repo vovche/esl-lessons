@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886861). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=2750424).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/007152632).
 ## 1. 1 бал
 
 Напиши англійською: «клавіатура».

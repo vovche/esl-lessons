@@ -117,6 +117,38 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "b25e2676-56f3-42ef-9728-e3eb725906cd",
+      "title": "Gadgets · 6 клас · ESL 5b",
+      "editor_url": "https://create.kahoot.it/creator/b25e2676-56f3-42ef-9728-e3eb725906cd",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 8,
+      "content_slide_count": 2,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "assignment_id": "8e10d35a-2e06-4db1-8e51-01fbe6b4e2ba",
+      "code": "0015829626",
+      "student_url": "https://kahoot.it/challenge/0015829626",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/8e10d35a-2e06-4db1-8e51-01fbe6b4e2ba/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793004150960/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "randomize_answer_order": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": false
     }
   },
   "assessment": {
