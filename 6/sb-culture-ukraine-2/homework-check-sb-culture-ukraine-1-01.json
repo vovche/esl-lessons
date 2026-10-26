@@ -117,6 +117,41 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "kahoot_id": "9d04b027-fea1-4a82-b222-5ba2ca108876",
+      "assignment_id": "f7df2877-df41-4e56-b9af-c05e9762e38e",
+      "title": "6 клас · 094 · Food traditions",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "code": "004078174",
+      "student_url": "https://kahoot.it/challenge/004078174",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/f7df2877-df41-4e56-b9af-c05e9762e38e/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793049992061/summary",
+      "editor_url": "https://create.kahoot.it/creator/9d04b027-fea1-4a82-b222-5ba2ca108876",
+      "test_url": "https://create.kahoot.it/details/6-094-food-traditions/9d04b027-fea1-4a82-b222-5ba2ca108876",
+      "deadline": null,
+      "no_deadline": true,
+      "question_count": 8,
+      "content_slide_count": 2,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "course_id": "7572952c-010e-4290-8d43-1a907efd66cc",
+      "course_title": "6 клас",
+      "course_module": 8,
+      "course_added": true,
+      "course_module_verified": true,
+      "verified_on_site_at": "2026-10-26"
     }
   },
   "assessment": {
