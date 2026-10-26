@@ -122,6 +122,43 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "974f6518-5b3e-4c70-94f4-08c4aa2ed276",
+      "title": "6 клас · 085 · Round-up 6",
+      "editor_url": "https://create.kahoot.it/creator/974f6518-5b3e-4c70-94f4-08c4aa2ed276",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "question_count": 8,
+      "content_slide_count": 6,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "assignment_id": "d58b2a59-07bf-4bbd-9fbc-fa1c7da163d7",
+      "code": "005591692",
+      "student_url": "https://kahoot.it/challenge/005591692",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/d58b2a59-07bf-4bbd-9fbc-fa1c7da163d7/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793030012612/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": true,
+      "randomize_answer_order": false,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "course_id": "7572952c-010e-4290-8d43-1a907efd66cc",
+      "course_module": 6,
+      "adaptations": [
+        "Each of the three full reading passages is preserved across two content slides."
+      ]
     }
   },
   "assessment": {
