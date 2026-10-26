@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886925). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=4162881).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/003999813).
 ## 1. 1 бал
 
 Напиши англійською: «отримувати».

@@ -117,6 +117,45 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "258df54e-6189-4a4f-869c-0fdf7ef34925",
+      "title": "6 клас · 080 · Messages",
+      "editor_url": "https://create.kahoot.it/creator/258df54e-6189-4a4f-869c-0fdf7ef34925",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "question_count": 8,
+      "content_slide_count": 2,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "assignment_id": "b8c5d6e3-90c1-4a69-aece-9ce718b34ccb",
+      "code": "003999813",
+      "student_url": "https://kahoot.it/challenge/003999813",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/b8c5d6e3-90c1-4a69-aece-9ce718b34ccb/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793038091793/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "course_id": "7572952c-010e-4290-8d43-1a907efd66cc",
+      "course_title": "6 клас",
+      "course_module": 5,
+      "course_placement_status": "verified_in_public_course_module_5",
+      "assessment_lesson_path": "6/sb-7d/",
+      "created_at": "2026-10-26T18:08:11Z",
+      "adaptations": [
+        "Три словникові запитання — письмові; повний текст читання збережено на двох слайдах."
+      ]
     }
   },
   "assessment": {
