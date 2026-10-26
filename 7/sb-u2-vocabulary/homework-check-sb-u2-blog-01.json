@@ -129,6 +129,69 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "kahoot_id": "e98cde86-757f-4802-9f1c-a19d32e4a9ec",
+      "title": "7 клас · 019 · Household chores: a blog",
+      "editor_url": "https://create.kahoot.it/creator/e98cde86-757f-4802-9f1c-a19d32e4a9ec",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 8,
+      "content_slide_count": 2,
+      "source_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "maximum_scoring_units": 10,
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "assignment_id": "d1ffd408-9ae5-4093-b2ef-adb1e0fb449e",
+      "code": "008230109",
+      "student_url": "https://kahoot.it/challenge/008230109",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/d1ffd408-9ae5-4093-b2ef-adb1e0fb449e/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1792998199588/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "randomize_answer_order": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "assessment_lesson_path": "7/sb-u2-vocabulary/",
+      "adaptations": [
+        {
+          "source_question": 7,
+          "adaptation": "reading_on_content_slides",
+          "content_unit_indexes": [
+            6,
+            7
+          ]
+        },
+        {
+          "source_question": 8,
+          "adaptation": "reading_on_content_slides",
+          "content_unit_indexes": [
+            6,
+            7
+          ]
+        }
+      ],
+      "created_at": "2026-10-26T07:03:19+00:00"
     }
   },
   "assessment": {
