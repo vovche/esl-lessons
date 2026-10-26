@@ -117,6 +117,45 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "9f1ca260-e34e-4d28-be34-6472b75c259e",
+      "title": "6 клас · 079 · Music",
+      "editor_url": "https://create.kahoot.it/creator/9f1ca260-e34e-4d28-be34-6472b75c259e",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "question_count": 8,
+      "content_slide_count": 2,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "assignment_id": "b7ea0fb6-1dcf-44e0-bbd5-b3af9e33d55b",
+      "code": "001929443",
+      "student_url": "https://kahoot.it/challenge/001929443",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/b7ea0fb6-1dcf-44e0-bbd5-b3af9e33d55b/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793035564431/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "course_id": "7572952c-010e-4290-8d43-1a907efd66cc",
+      "course_title": "6 клас",
+      "course_module": 1,
+      "course_placement_status": "verified_in_public_course_module_1",
+      "assessment_lesson_path": "6/sb-7c/",
+      "created_at": "2026-10-26T17:26:04Z",
+      "adaptations": [
+        "Три словникові запитання — письмові; повний текст читання збережено на двох слайдах."
+      ]
     }
   },
   "assessment": {

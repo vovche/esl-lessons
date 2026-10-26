@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886922). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=7017527).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/001929443).
 ## 1. 1 бал
 
 Напиши англійською: «аудиторія, глядачі».
