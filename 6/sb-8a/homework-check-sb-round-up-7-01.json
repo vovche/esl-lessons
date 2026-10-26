@@ -122,6 +122,35 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "kahoot_id": "a108e43a-4421-4040-b552-9f85ec8b0d1e",
+      "assignment_id": "77872b17-582d-4b4d-adf0-6b172e454496",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "code": "0048712137",
+      "student_url": "https://kahoot.it/challenge/0048712137",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/77872b17-582d-4b4d-adf0-6b172e454496/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793048050034/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_count": 8,
+      "content_slide_count": 6,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "course_id": "7572952c-010e-4290-8d43-1a907efd66cc",
+      "course_title": "6 клас",
+      "module": 7
     }
   },
   "assessment": {
