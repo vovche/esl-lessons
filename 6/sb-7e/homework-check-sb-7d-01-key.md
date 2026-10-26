@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886934). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=5308875).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/002694276).
 ## 1. 1 бал
 
 Напиши англійською: «чек».
