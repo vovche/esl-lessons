@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886906). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=3059345).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/007278487).
 ## 1. 1 бал
 
 Напиши англійською: «глядач».

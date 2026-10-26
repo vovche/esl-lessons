@@ -117,6 +117,46 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "9f35d176-8e1d-4c20-8dc5-9610d118aed8",
+      "title": "6 клас · 076 · Football",
+      "editor_url": "https://create.kahoot.it/creator/9f35d176-8e1d-4c20-8dc5-9610d118aed8",
+      "visibility": "public",
+      "status": "homework_created",
+      "verified": true,
+      "question_count": 8,
+      "content_slide_count": 2,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "assignment_id": "cc3b677e-e83b-48f5-8bba-230942509422",
+      "code": "007278487",
+      "student_url": "https://kahoot.it/challenge/007278487",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/cc3b677e-e83b-48f5-8bba-230942509422/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793033145519/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": true,
+      "randomize_answer_order": false,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "adaptations": [
+        "Запитання 7–8 відкриваються після двох слайдів із повним текстом читання."
+      ],
+      "assessment_lesson_path": "6/sb-6e/",
+      "course_id": "7572952c-010e-4290-8d43-1a907efd66cc",
+      "course_title": "6 клас",
+      "course_module": 6,
+      "course_status": "saved_and_reopened_verified"
     }
   },
   "assessment": {
