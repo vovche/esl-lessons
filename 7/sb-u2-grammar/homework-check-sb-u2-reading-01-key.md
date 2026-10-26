@@ -13,6 +13,7 @@
 
 Дедлайн: 2027-01-03T23:00, Europe/Kyiv.
 
+[kahoot: домашнє завдання](https://kahoot.it/challenge/0096581075).
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886927). Стан: `published_pending_homework_daily_limit`.
 ## 1. 1 бал
 
