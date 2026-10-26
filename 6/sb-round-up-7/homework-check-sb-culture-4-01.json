@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "Popular musicals · 6 клас · ESL culture-4",
+  "title": "6 клас · 099 · Popular musicals",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-culture-4/index.html",
@@ -117,6 +117,38 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "kahoot_id": "1b124100-b071-4a59-84d6-6240271dd258",
+      "title": "6 клас · 099 · Popular musicals",
+      "editor_url": "https://create.kahoot.it/creator/1b124100-b071-4a59-84d6-6240271dd258",
+      "assignment_id": "bc38d507-2e0e-4cd4-be85-a59a327075aa",
+      "code": "00465948",
+      "student_url": "https://kahoot.it/challenge/00465948",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/bc38d507-2e0e-4cd4-be85-a59a327075aa/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793055872678/summary",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "deadline": null,
+      "no_deadline": true,
+      "question_count": 8,
+      "content_slide_count": 2,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "course_id": "7572952c-010e-4290-8d43-1a907efd66cc",
+      "course_title": "6 клас",
+      "course_module": 7,
+      "course_placement_verified": true
     }
   },
   "assessment": {
