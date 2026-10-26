@@ -14,6 +14,7 @@
 Дедлайн: 2027-06-01T23:00, Europe/Kyiv.
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886951). Стан: `published_pending_homework_daily_limit`.
+[kahoot: домашнє завдання](https://kahoot.it/challenge/001235897).
 ## 1. 1 бал
 
 Лексика Unit 6. Перекладіть англійською: «білок». Підказка: 7 символів; починається на p. Напишіть слово або словосполучення зі словника уроку.
