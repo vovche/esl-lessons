@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886942). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=3218689).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/0024477338).
 ## 1. 1 бал
 
 Напиши англійською: «порада».

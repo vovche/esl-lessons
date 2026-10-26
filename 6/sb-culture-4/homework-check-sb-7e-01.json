@@ -117,6 +117,47 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "ab9107df-9d84-4d42-a2bc-0ef9c50e0099",
+      "title": "6 клас · 082 · Teen problems",
+      "editor_url": "https://create.kahoot.it/creator/ab9107df-9d84-4d42-a2bc-0ef9c50e0099",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "question_count": 8,
+      "content_slide_count": 2,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "assignment_id": "ca1a99e2-526c-4f9d-ba85-a73a486bc603",
+      "code": "0024477338",
+      "student_url": "https://kahoot.it/challenge/0024477338",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/ca1a99e2-526c-4f9d-ba85-a73a486bc603/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793042424198/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "randomize_answer_order": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": false,
+      "course_id": "7572952c-010e-4290-8d43-1a907efd66cc",
+      "course_title": "6 клас",
+      "course_module": 8,
+      "course_placement_status": "verified_in_course_module_8",
+      "assessment_lesson_path": "6/sb-culture-4/",
+      "created_at": "2026-10-26T19:20:24Z",
+      "adaptations": [
+        "Письмові відповіді залишено для трьох слів; текст читання збережено на двох слайдах."
+      ]
     }
   },
   "assessment": {
