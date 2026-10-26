@@ -113,6 +113,44 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "kahoot_id": "9f9e5b01-0cd1-4175-9863-06421769a81e",
+      "assignment_id": "9fe8cec6-b141-4a95-827a-6812442fbf4c",
+      "title": "6 клас · 095 · Learn and create",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "code": "0028693104",
+      "student_url": "https://kahoot.it/challenge/0028693104",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/9fe8cec6-b141-4a95-827a-6812442fbf4c/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793050564169/summary",
+      "editor_url": "https://create.kahoot.it/creator/9f9e5b01-0cd1-4175-9863-06421769a81e",
+      "test_url": "https://create.kahoot.it/details/6-095-learn-and-create/9f9e5b01-0cd1-4175-9863-06421769a81e",
+      "deadline": null,
+      "no_deadline": true,
+      "question_count": 8,
+      "content_slide_count": 2,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "course_id": "7572952c-010e-4290-8d43-1a907efd66cc",
+      "course_title": "6 клас",
+      "course_module": 8,
+      "course_added": true,
+      "course_module_verified": true,
+      "student_entry_verified": true,
+      "assignment_deadline_verified": true,
+      "verified_on_site_at": "2026-10-26",
+      "assessment_lesson_path": "6/sb-learning-tips/"
     }
   },
   "assessment": {
