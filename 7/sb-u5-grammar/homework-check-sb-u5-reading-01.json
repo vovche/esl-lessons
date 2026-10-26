@@ -163,7 +163,18 @@
       "course_title": "7 клас",
       "course_module": 5,
       "course_placement_verified": true,
-      "course_publication_status": "draft_pending_empty_modules"
+      "course_publication_status": "draft_pending_empty_modules",
+      "publication_status": "publication_verified",
+      "commit_sha": "6f189dda01995566662a491e1ffd75f57072c1b8",
+      "pages_run_id": "40422756802",
+      "pages_run_url": "https://github.com/vovche/esl-lessons/actions/runs/40422756802",
+      "live_check": {
+        "checked_at": "2026-10-27",
+        "url": "https://vovche.github.io/esl-lessons/7/sb-u5-grammar/?v=6f189dda01995566662a491e1ffd75f57072c1b8",
+        "http_status": 200,
+        "expected_student_url": "https://kahoot.it/challenge/009286524",
+        "expected_href_count": 1
+      }
     }
   },
   "assessment": {
