@@ -117,6 +117,44 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "549d35ef-d57f-4503-9e35-78585535905c",
+      "title": "6 клас · 075 · Facts about sports",
+      "editor_url": "https://create.kahoot.it/creator/549d35ef-d57f-4503-9e35-78585535905c",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "question_count": 8,
+      "content_slide_count": 1,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "assignment_id": "4ebcfab5-72b8-46fc-a835-28142b73a5ce",
+      "code": "003120178",
+      "student_url": "https://kahoot.it/challenge/003120178",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/4ebcfab5-72b8-46fc-a835-28142b73a5ce/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793032028788/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "course_id": "7572952c-010e-4290-8d43-1a907efd66cc",
+      "course_title": "6 клас",
+      "course_module": 6,
+      "course_status": "saved_and_reopened_verified",
+      "adaptations": [
+        "Два запитання на розуміння тексту адаптовано до короткого формату Kahoot; оригінальний контекст збережено на слайді.",
+        "Шкала Kahoot нормалізується до 10 балів; складні запитання мають подвійні бали."
+      ]
     }
   },
   "assessment": {
