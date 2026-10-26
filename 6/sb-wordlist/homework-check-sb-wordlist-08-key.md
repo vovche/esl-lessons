@@ -14,6 +14,7 @@
 Дедлайн: 2027-06-01T23:00, Europe/Kyiv.
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886957). Стан: `published_pending_homework_daily_limit`.
+[kahoot: домашнє завдання](https://kahoot.it/challenge/00606400).
 ## 1. 1 бал
 
 Лексика Unit 8. Перекладіть англійською: «заголовок». Підказка: 8 символів; починається на h. Напишіть слово або словосполучення зі словника уроку.
