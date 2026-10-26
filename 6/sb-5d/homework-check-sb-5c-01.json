@@ -122,7 +122,7 @@
       "id": "1ba3b94c-9e48-4dc7-8e31-9cbb275cf588",
       "title": "Recycling · 6 клас · ESL 5c",
       "editor_url": "https://create.kahoot.it/creator/1ba3b94c-9e48-4dc7-8e31-9cbb275cf588",
-      "visibility": "private",
+      "visibility": "public",
       "status": "homework_created",
       "verified": true,
       "question_count": 8,
@@ -152,7 +152,19 @@
       "assessment_lesson_path": "6/sb-5d/",
       "adaptations": [
         "Запитання 7–8 відкриваються після двох слайдів з повним текстом читання."
-      ]
+      ],
+      "publication_status": "publication_verified",
+      "commit_sha": "2ebfa3168b8044c1414f8dbe375b480d208a3e48",
+      "pages_run_id": "40296269865",
+      "pages_run_url": "https://github.com/vovche/esl-lessons/actions/runs/40296269865",
+      "pages_conclusion": "success",
+      "live_page_url": "https://vovche.github.io/esl-lessons/6/sb-5d/",
+      "live_page_http_status": 200,
+      "live_student_href_verified": "https://kahoot.it/challenge/004827817",
+      "publication_verified_at": "2026-10-26T08:58:00Z",
+      "course_id": "7572952c-010e-4290-8d43-1a907efd66cc",
+      "course_title": "6 клас",
+      "course_module": 5
     }
   },
   "assessment": {

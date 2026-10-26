@@ -119,12 +119,13 @@
       ]
     },
     "kahoot": {
+      "source_json": "6/sb-5b/homework-check-sb-5a-01.json",
       "id": "6faf1fde-dc02-4b08-b118-e1708888a63f",
       "title": "Computer parts · 6 клас · ESL 5a",
       "editor_url": "https://create.kahoot.it/creator/6faf1fde-dc02-4b08-b118-e1708888a63f",
       "status": "homework_created",
       "verified": true,
-      "visibility": "private",
+      "visibility": "public",
       "question_count": 8,
       "content_slide_count": 2,
       "kahoot_question_weights": [
@@ -148,7 +149,13 @@
       "question_timer": false,
       "randomize_answer_order": true,
       "student_entry_verified": true,
-      "content_verified_after_reopen": false
+      "content_verified_after_reopen": false,
+      "adaptations": [
+        "Запитання 7–8 подані через два слайди з текстом для читання перед запитаннями."
+      ],
+      "course_id": "7572952c-010e-4290-8d43-1a907efd66cc",
+      "course_title": "6 клас",
+      "course_module": 5
     }
   },
   "assessment": {

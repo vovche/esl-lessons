@@ -119,12 +119,13 @@
       ]
     },
     "kahoot": {
+      "source_json": "6/sb-5c/homework-check-sb-5b-01.json",
       "id": "b25e2676-56f3-42ef-9728-e3eb725906cd",
       "title": "Gadgets · 6 клас · ESL 5b",
       "editor_url": "https://create.kahoot.it/creator/b25e2676-56f3-42ef-9728-e3eb725906cd",
       "status": "homework_created",
       "verified": true,
-      "visibility": "private",
+      "visibility": "public",
       "question_count": 8,
       "content_slide_count": 2,
       "kahoot_question_weights": [
@@ -148,7 +149,13 @@
       "question_timer": false,
       "randomize_answer_order": true,
       "student_entry_verified": true,
-      "content_verified_after_reopen": false
+      "content_verified_after_reopen": false,
+      "adaptations": [
+        "Запитання 7–8 переведено на два слайди читання перед запитаннями."
+      ],
+      "course_id": "7572952c-010e-4290-8d43-1a907efd66cc",
+      "course_title": "6 клас",
+      "course_module": 5
     }
   },
   "assessment": {
