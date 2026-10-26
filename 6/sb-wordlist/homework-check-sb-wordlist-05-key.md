@@ -14,6 +14,7 @@
 Дедлайн: 2027-06-01T23:00, Europe/Kyiv.
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886947). Стан: `published_pending_homework_daily_limit`.
+[kahoot: домашнє завдання](https://kahoot.it/challenge/008661132).
 ## 1. 1 бал
 
 Лексика Unit 5. Перекладіть англійською: «клавіатура». Підказка: 8 символів; починається на k. Напишіть слово або словосполучення зі словника уроку.
