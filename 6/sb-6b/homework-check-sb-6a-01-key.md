@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886893). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=6625751).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/005040910).
 ## 1. 1 бал
 
 Напиши англійською: «білок».
