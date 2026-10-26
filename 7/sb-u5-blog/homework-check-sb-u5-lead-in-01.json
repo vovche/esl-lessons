@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Sport from A to Z: Починаємо юніт Спорт · Починаємо юніт",
+  "title": "7 клас · 066 · Sport kickoff",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u5-lead-in/index.html",
@@ -129,6 +129,38 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "kahoot_id": "cb358a87-05f9-48ee-b6b9-c124fc9033e0",
+      "title": "7 клас · 066 · Sport kickoff",
+      "editor_url": "https://create.kahoot.it/creator/cb358a87-05f9-48ee-b6b9-c124fc9033e0",
+      "assignment_id": "7b3236f8-00d7-49e4-9133-227a6784b2b8",
+      "code": "0088063300",
+      "student_url": "https://kahoot.it/challenge/0088063300",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/7b3236f8-00d7-49e4-9133-227a6784b2b8/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793057184810/summary",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "deadline": null,
+      "no_deadline": true,
+      "question_count": 8,
+      "content_slide_count": 1,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
+      "course_title": "7 клас",
+      "course_module": 5,
+      "course_placement_verified": true
     }
   },
   "assessment": {
