@@ -117,6 +117,41 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "44e0e334-ead8-4c76-b166-8559c2ac4166",
+      "title": "6 клас · 065 · Animal protection",
+      "editor_url": "https://create.kahoot.it/creator/44e0e334-ead8-4c76-b166-8559c2ac4166",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "question_count": 9,
+      "content_slide_count": 1,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "assignment_id": "e6976474-3725-4f56-9331-2c880ce28827",
+      "code": "009926313",
+      "student_url": "https://kahoot.it/challenge/009926313",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": true,
+      "question_timer_seconds": 240,
+      "randomize_answer_order": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "course_id": "7572952c-010e-4290-8d43-1a907efd66cc",
+      "course_title": "6 клас",
+      "course_module": 5
     }
   },
   "assessment": {
