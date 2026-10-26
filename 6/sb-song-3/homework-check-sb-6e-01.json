@@ -117,6 +117,41 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "a0c0aeb2-4ec5-4fb6-b2fc-42abba552741",
+      "title": "6 клас · 077 · Get active!",
+      "editor_url": "https://create.kahoot.it/creator/a0c0aeb2-4ec5-4fb6-b2fc-42abba552741",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "question_count": 8,
+      "content_slide_count": 2,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "assignment_id": "dc41f70d-d574-4e76-8ab6-da021f533d7b",
+      "code": "00389720",
+      "student_url": "https://kahoot.it/challenge/00389720",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/dc41f70d-d574-4e76-8ab6-da021f533d7b/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793034672888/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "normalization_verified": true,
+      "course_id": "7572952c-010e-4290-8d43-1a907efd66cc",
+      "course_title": "6 клас",
+      "course_module": 6,
+      "course_placement_status": "verified_in_public_course"
     }
   },
   "assessment": {
