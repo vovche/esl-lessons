@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886949). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=3255907).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/007510389).
 ## 1. 1 бал
 
 Напиши англійською: «заголовок».
