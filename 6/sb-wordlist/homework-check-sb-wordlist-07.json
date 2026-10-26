@@ -80,6 +80,41 @@
         2,
         3
       ]
+    },
+    "kahoot": {
+      "id": "1d5df644-07b9-413c-bca3-415ff3d13f9b",
+      "editor_url": "https://create.kahoot.it/creator/1d5df644-07b9-413c-bca3-415ff3d13f9b",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "question_count": 6,
+      "content_slide_count": 0,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "assignment_id": "d2716f18-6d36-4ec0-9b15-2bd2e8c61278",
+      "code": "003685467",
+      "student_url": "https://kahoot.it/challenge/003685467",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/d2716f18-6d36-4ec0-9b15-2bd2e8c61278/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793018496580/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "randomize_answer_order": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "adaptations": [
+        "Три прості запитання мають стандартні бали, три складніші — подвійні; 9 сирих балів переводяться до шкали 10."
+      ],
+      "course_id": "7572952c-010e-4290-8d43-1a907efd66cc",
+      "course_title": "6 клас",
+      "course_module": 7
     }
   },
   "assessment": {
