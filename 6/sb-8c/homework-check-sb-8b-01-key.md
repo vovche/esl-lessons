@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886952). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=4969766).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/00331392).
 ## 1. 1 бал
 
 Напиши англійською: «заздрісний».
