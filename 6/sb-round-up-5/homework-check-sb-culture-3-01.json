@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "Parks in the city · 6 клас · ESL culture-3",
+  "title": "6 клас · 072b · Parks in the city",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-culture-3/index.html",
@@ -117,6 +117,38 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "kahoot_id": "fc664901-2e9c-4eae-978e-172e5fbde288",
+      "title": "6 клас · 072b · Parks in the city",
+      "editor_url": "https://create.kahoot.it/creator/fc664901-2e9c-4eae-978e-172e5fbde288",
+      "assignment_id": "8ef14577-6b2e-42f9-861b-a514e4bbc976",
+      "code": "0024627738",
+      "student_url": "https://kahoot.it/challenge/0024627738",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/8ef14577-6b2e-42f9-861b-a514e4bbc976/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793056233574/summary",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "deadline": null,
+      "no_deadline": true,
+      "question_count": 8,
+      "content_slide_count": 2,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "course_id": "7572952c-010e-4290-8d43-1a907efd66cc",
+      "course_title": "6 клас",
+      "course_module": 5,
+      "course_placement_verified": true
     }
   },
   "assessment": {

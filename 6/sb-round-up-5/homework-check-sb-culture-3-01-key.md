@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3887003). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=4937191).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/0024627738).
 ## 1. 1 бал
 
 Напиши англійською: «природа».
