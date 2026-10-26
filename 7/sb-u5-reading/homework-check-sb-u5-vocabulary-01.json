@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Sport from A to Z: Лексика Спорт · Лексика",
+  "title": "7 клас · 067 · Sport vocabulary",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u5-vocabulary/index.html",
@@ -129,6 +129,38 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "kahoot_id": "16fb2e23-7da9-4f0d-ae2a-b808476c13e7",
+      "title": "7 клас · 067 · Sport vocabulary",
+      "editor_url": "https://create.kahoot.it/creator/16fb2e23-7da9-4f0d-ae2a-b808476c13e7",
+      "assignment_id": "5933232c-296e-4bd4-b8e3-db6c8ce4508c",
+      "code": "007758808",
+      "student_url": "https://kahoot.it/challenge/007758808",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/5933232c-296e-4bd4-b8e3-db6c8ce4508c/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793057674811/summary",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "deadline": null,
+      "no_deadline": true,
+      "question_count": 8,
+      "content_slide_count": 1,
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
+      "course_title": "7 клас",
+      "course_module": 5,
+      "course_placement_verified": true
     }
   },
   "assessment": {
