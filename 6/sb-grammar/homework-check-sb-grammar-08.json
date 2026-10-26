@@ -84,6 +84,47 @@
         2,
         3
       ]
+    },
+    "kahoot": {
+      "id": "9d517051-7ad4-415a-9bcf-70da4b42671b",
+      "editor_url": "https://create.kahoot.it/creator/9d517051-7ad4-415a-9bcf-70da4b42671b",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "question_count": 6,
+      "content_slide_count": 0,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "assignment_id": "d8cc9baf-2ca7-4cda-acdb-b4a69d46781b",
+      "code": "007839309",
+      "student_url": "https://kahoot.it/challenge/007839309",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/d8cc9baf-2ca7-4cda-acdb-b4a69d46781b/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793006392296/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "randomize_answer_order": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "adaptations": [
+        {
+          "question": 6,
+          "from": "word",
+          "to": "choice",
+          "reason": "typed_answer_exceeds_20_characters",
+          "approved": true
+        }
+      ],
+      "course_id": "7572952c-010e-4290-8d43-1a907efd66cc",
+      "course_title": "6 клас",
+      "course_module": 8
     }
   },
   "assessment": {
