@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886990). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=6424247).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/001450899).
 ## 1. 1 бал
 
 Напиши англійською: «шайба».
