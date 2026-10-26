@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886984). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=8962873).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/001699822).
 ## 1. 1 бал
 
 Напиши англійською: «оркестр».
