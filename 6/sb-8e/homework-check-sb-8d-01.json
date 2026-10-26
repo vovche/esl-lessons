@@ -117,6 +117,58 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "2d815f4d-fe05-4193-b36a-bea0f6942809",
+      "title": "6 клас · 087 · The Oscars",
+      "editor_url": "https://create.kahoot.it/creator/2d815f4d-fe05-4193-b36a-bea0f6942809",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "question_count": 8,
+      "content_slide_count": 2,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "assignment_id": "58b456fc-eba3-4ee9-8813-02fe25ccd6c5",
+      "code": "005092081",
+      "student_url": "https://kahoot.it/challenge/005092081",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/58b456fc-eba3-4ee9-8813-02fe25ccd6c5/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793044550254/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_times_seconds": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        null,
+        null,
+        30,
+        30
+      ],
+      "randomize_answer_order": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "course_id": "7572952c-010e-4290-8d43-1a907efd66cc",
+      "course_title": "6 клас",
+      "course_module": 8,
+      "course_placement_status": "verified_in_course_module_8",
+      "assessment_lesson_path": "6/sb-8e/",
+      "created_at": "2026-10-26T19:55:00Z",
+      "adaptations": [
+        "Три словникові питання у Kahoot зроблено письмовими відповідями; текст читання подано на двох слайдах."
+      ]
     }
   },
   "assessment": {

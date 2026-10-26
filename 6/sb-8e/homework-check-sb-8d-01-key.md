@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886964). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=6111143).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/005092081).
 ## 1. 1 бал
 
 Напиши англійською: «церемонія».
