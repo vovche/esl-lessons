@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886971). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=1326519).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/001672277).
 ## 1. 1 бал
 
 Напиши англійською: «сюжет».
