@@ -122,6 +122,41 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "43dbb87a-a32f-4b6f-9ab8-06164ae464a9",
+      "editor_url": "https://create.kahoot.it/creator/43dbb87a-a32f-4b6f-9ab8-06164ae464a9",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "question_count": 8,
+      "content_slide_count": 6,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "assignment_id": "3ae19feb-11eb-4bbd-914d-e07b2f41aeec",
+      "code": "006322602",
+      "student_url": "https://kahoot.it/challenge/006322602",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/3ae19feb-11eb-4bbd-914d-e07b2f41aeec/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793028319212/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "adaptations": [
+        "Прості запитання 1–6 мають стандартні бали, складніші 7–8 — подвійні; результат нормалізується до 10 балів. Три довгі тексти винесено на шість слайдів читання."
+      ],
+      "course_id": "7572952c-010e-4290-8d43-1a907efd66cc",
+      "course_title": "6 клас",
+      "course_module": 5
     }
   },
   "assessment": {
