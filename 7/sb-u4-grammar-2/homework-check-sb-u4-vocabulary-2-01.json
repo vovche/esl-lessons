@@ -169,12 +169,19 @@
       "course_module_number": 4,
       "course_membership_verified": true,
       "assessment_lesson_path": "7/sb-u4-grammar-2/",
-      "publication_status": "publication_pending",
+      "publication_status": "publication_verified",
       "verified_at": "2026-10-27T17:10:33+02:00",
       "canonical_id": "7-sb-u4-vocabulary-2-homework-01",
       "source_json": "7/sb-u4-grammar-2/homework-check-sb-u4-vocabulary-2-01.json",
       "created_at": "2026-10-27T17:10:33+02:00",
-      "verification_evidence": "Kahoot editor showed all 8 Ukrainian task directions, 1 reading slide and 8 quiz items; Q1–Q6 standard points, Q7–Q8 double points. Visibility selector saved as public. Report showed Без дедлайну, code 0061145621, 0 participants. Learner entry loaded the matching title and Почати; game was not started. Course editor shows the Kahoot in module 4."
+      "verification_evidence": "Kahoot editor showed all 8 Ukrainian task directions, 1 reading slide and 8 quiz items; Q1–Q6 standard points, Q7–Q8 double points. Visibility selector saved as public. Report showed Без дедлайну, code 0061145621, 0 participants. Learner entry loaded the matching title and Почати; game was not started. Course editor shows the Kahoot in module 4.",
+      "publication_verified_at": "2026-10-27T15:17:06Z",
+      "published_commit_sha": "3bd9aca163aea145627abf4e37db88ff645007e6",
+      "pages_run_id": "40528983767",
+      "pages_run_url": "https://github.com/vovche/esl-lessons/actions/runs/40528983767",
+      "live_page_url": "https://vovche.github.io/esl-lessons/7/sb-u4-grammar-2/",
+      "live_page_http_status": 200,
+      "student_href_verified": true
     }
   },
   "assessment": {
