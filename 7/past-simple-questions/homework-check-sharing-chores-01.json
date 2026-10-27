@@ -121,6 +121,83 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "kahoot_id": "334b759e-1807-4687-aed0-170231ea6af7",
+      "title": "7 клас · 023 · A helping hand",
+      "editor_url": "https://create.kahoot.it/creator/334b759e-1807-4687-aed0-170231ea6af7",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "question_count": 8,
+      "content_slide_count": 2,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "assignment_id": "a6b1b66e-13f3-456e-a765-9c21f3cc78b8",
+      "code": "0087737431",
+      "student_url": "https://kahoot.it/challenge/0087737431",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/a6b1b66e-13f3-456e-a765-9c21f3cc78b8/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793067485181/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": true,
+      "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
+      "course_title": "7 клас",
+      "course_module": 2,
+      "course_placement_verified": true,
+      "source_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "question_timers_seconds": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "course_publication_status": "draft_pending_empty_modules",
+      "assessment_lesson_path": "7/past-simple-questions/",
+      "publication_status": "publication_pending",
+      "created_at": "2026-10-27T04:23:25+02:00",
+      "adaptations": [
+        {
+          "question": 7,
+          "type": "written_answer",
+          "answer": "helping hand"
+        },
+        {
+          "question": 8,
+          "from": "typed_answer",
+          "to": "quiz",
+          "reason": "required answer sentence exceeds 20 characters",
+          "correct_answer": "Please wash the dishes today.",
+          "approved": true
+        },
+        {
+          "reading": "full source passage split across two content slides"
+        }
+      ]
     }
   },
   "assessment": {

@@ -14,6 +14,7 @@
 Дедлайн: 2027-01-03T23:00, Europe/Kyiv.
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3887112). Стан: `published_pending_homework_daily_limit`.
+[kahoot: домашнє завдання](https://kahoot.it/challenge/0087737431).
 ## 1. 1 бал
 
 Прочитай: Every morning, Jane’s mother cooks breakfast. Her elder sister sometimes boils sausages, cuts bread and helps make tea. Jane’s father is good at making coffee. After breakfast, the sister puts the dishes in the dishwasher. Their mother cleans the table.
