@@ -14,6 +14,8 @@
 Дедлайн: 2027-01-03T23:00, Europe/Kyiv.
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886996). Стан: `published_pending_homework_daily_limit`.
+[kahoot: тест](https://create.kahoot.it/details/7-036-food-art-recipes/4eacdbdf-f842-4624-a789-49e381e8adf2). Стан: `homework_created`.
+[kahoot: домашнє завдання](https://kahoot.it/challenge/007216583).
 ## 1. 1 бал
 
 Обери значення слова chopping board.

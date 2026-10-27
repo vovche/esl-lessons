@@ -129,6 +129,39 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "kahoot_id": "4eacdbdf-f842-4624-a789-49e381e8adf2",
+      "title": "7 клас · 036 · Food art & recipes",
+      "editor_url": "https://create.kahoot.it/creator/4eacdbdf-f842-4624-a789-49e381e8adf2",
+      "test_url": "https://create.kahoot.it/details/7-036-food-art-recipes/4eacdbdf-f842-4624-a789-49e381e8adf2",
+      "assignment_id": "5cb41cd5-988a-42ba-a5bd-989ab93b4f38",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/5cb41cd5-988a-42ba-a5bd-989ab93b4f38/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793076830479/summary",
+      "code": "007216583",
+      "student_url": "https://kahoot.it/challenge/007216583",
+      "no_deadline": true,
+      "deadline": null,
+      "question_count": 8,
+      "content_slide_count": 2,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "scoring_ui_verified": true,
+      "assignment_verified": true,
+      "publication_status": "publication_pending",
+      "assessment_lesson_path": "7/sb-u3-grammar/"
     }
   },
   "assessment": {
