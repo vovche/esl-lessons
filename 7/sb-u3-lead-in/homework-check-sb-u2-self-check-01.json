@@ -129,6 +129,44 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "addd5adf-ff09-44c7-9dfb-7f64933e28ef",
+      "editor_url": "https://create.kahoot.it/creator/addd5adf-ff09-44c7-9dfb-7f64933e28ef",
+      "test_url": "https://create.kahoot.it/details/7-031-do-your-chores-self-check/addd5adf-ff09-44c7-9dfb-7f64933e28ef",
+      "title": "7 клас · 031 · Do your chores: Self-check",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 8,
+      "content_slide_count": 2,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "scoring_ui_verified": true,
+      "assignment_id": "c4fd9d20-c28f-4ede-bb5e-2a4c1db5ce72",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/c4fd9d20-c28f-4ede-bb5e-2a4c1db5ce72/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793077793771/summary",
+      "code": "0042962260",
+      "student_url": "https://kahoot.it/challenge/0042962260",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "assignment_verified": true,
+      "assessment_lesson_path": "7/sb-u3-lead-in/",
+      "created_at": "2026-10-27T07:09:00+02:00",
+      "verified_at": "2026-10-27T07:09:00+02:00",
+      "publication_status": "publication_pending"
     }
   },
   "assessment": {
