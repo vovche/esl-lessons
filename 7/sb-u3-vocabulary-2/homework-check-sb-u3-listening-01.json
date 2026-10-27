@@ -50,7 +50,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Eva ___ washed the tomatoes.",
+      "prompt": "Обери правильну форму дієслова: Eva ___ washed the tomatoes.",
       "points": 1,
       "options": [
         "has",
@@ -62,7 +62,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Have you ___ the vegetables?",
+      "prompt": "Обери правильну форму дієслова: Have you ___ the vegetables?",
       "points": 1,
       "options": [
         "chopping",
@@ -74,7 +74,7 @@
     },
     {
       "type": "choice",
-      "prompt": "What ___ you prepared?",
+      "prompt": "Обери правильну форму дієслова: What ___ you prepared?",
       "points": 1,
       "options": [
         "did have",
@@ -114,8 +114,12 @@
     "naurok": {
       "test_id": "3886987",
       "test_url": "https://naurok.com.ua/test-beta/test/3886987",
-      "status": "published_pending_homework_daily_limit",
+      "status": "homework_created",
       "verified": true,
+      "homework_id": "86401117",
+      "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401117",
+      "student_url": "https://naurok.ua/test/join?gamecode=5626604",
+      "code": "5626604",
       "deadline": "2027-01-03T23:00",
       "semester": 1,
       "points": 10,
@@ -129,6 +133,54 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "f084c853-af43-4505-a316-684b83753f57",
+      "kahoot_id": "f084c853-af43-4505-a316-684b83753f57",
+      "editor_url": "https://create.kahoot.it/creator/f084c853-af43-4505-a316-684b83753f57",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "question_count": 10,
+      "quiz_question_count": 8,
+      "content_slide_count": 2,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "source_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "maximum_scoring_units": 10,
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "assignment_id": "a1536897-b9f1-42a6-892d-2ff6ee0a917e",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/a1536897-b9f1-42a6-892d-2ff6ee0a917e/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793106007491/summary",
+      "code": "005085733",
+      "student_url": "https://kahoot.it/challenge/005085733",
+      "deadline": null,
+      "no_deadline": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
+      "course_title": "7 клас",
+      "course_module_number": 3,
+      "course_membership_verified": true,
+      "course_status": "draft",
+      "publication_status": "publication_pending"
     }
   },
   "assessment": {

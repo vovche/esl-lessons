@@ -41,7 +41,7 @@
 
 ## 4. 1 бал
 
-Eva ___ washed the tomatoes.
+Обери правильну форму дієслова: Eva ___ washed the tomatoes.
 
 1. has
 2. have
@@ -50,7 +50,7 @@ Eva ___ washed the tomatoes.
 
 ## 5. 1 бал
 
-Have you ___ the vegetables?
+Обери правильну форму дієслова: Have you ___ the vegetables?
 
 1. chopping
 2. chopped
@@ -59,7 +59,7 @@ Have you ___ the vegetables?
 
 ## 6. 1 бал
 
-What ___ you prepared?
+Обери правильну форму дієслова: What ___ you prepared?
 
 1. did have
 2. has
