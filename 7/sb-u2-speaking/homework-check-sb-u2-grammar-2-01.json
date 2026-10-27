@@ -129,6 +129,40 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "kahoot_id": "bac367ff-e4c9-46be-bee1-3873a415983e",
+      "title": "7 клас · 077 · Chores: Grammar in context",
+      "editor_url": "https://create.kahoot.it/creator/bac367ff-e4c9-46be-bee1-3873a415983e",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 8,
+      "content_slide_count": 2,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "assignment_id": "c545ea14-da57-4658-b4fa-cc0bcb8206b0",
+      "code": "007930069",
+      "student_url": "https://kahoot.it/challenge/007930069",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/c545ea14-da57-4658-b4fa-cc0bcb8206b0/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793073346145/summary",
+      "no_deadline": true,
+      "student_entry_verified": false,
+      "content_verified_after_reopen": true,
+      "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
+      "course_module": 2,
+      "course_module_position": "after lesson 028",
+      "course_placement_verified": true,
+      "publication_status": "course_draft"
     }
   },
   "assessment": {
