@@ -88,7 +88,7 @@ What ___ you prepared?
 
 This unit is about cooking, recipes and experience. Before starting, I write down what I already know. I choose two useful words and one question I want to answer. At the end of the unit, I return to my question and check what I have learned.
 
-What do I write before starting?
+Що я записую перед початком?
 
 1. only my final score
 2. a shopping receipt
@@ -103,7 +103,7 @@ What do I write before starting?
 
 This unit is about cooking, recipes and experience. Before starting, I write down what I already know. I choose two useful words and one question I want to answer. At the end of the unit, I return to my question and check what I have learned.
 
-When do I return to my question?
+Коли я повертаюся до свого запитання?
 
 1. at the end of the unit
 2. never

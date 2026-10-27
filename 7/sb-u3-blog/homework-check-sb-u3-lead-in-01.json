@@ -86,7 +86,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nThis unit is about cooking, recipes and experience. Before starting, I write down what I already know. I choose two useful words and one question I want to answer. At the end of the unit, I return to my question and check what I have learned.\n\nWhat do I write before starting?",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nThis unit is about cooking, recipes and experience. Before starting, I write down what I already know. I choose two useful words and one question I want to answer. At the end of the unit, I return to my question and check what I have learned.\n\nЩо я записую перед початком?",
       "points": 2,
       "options": [
         "only my final score",
@@ -98,7 +98,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nThis unit is about cooking, recipes and experience. Before starting, I write down what I already know. I choose two useful words and one question I want to answer. At the end of the unit, I return to my question and check what I have learned.\n\nWhen do I return to my question?",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nThis unit is about cooking, recipes and experience. Before starting, I write down what I already know. I choose two useful words and one question I want to answer. At the end of the unit, I return to my question and check what I have learned.\n\nКоли я повертаюся до свого запитання?",
       "points": 2,
       "options": [
         "at the end of the unit",
@@ -133,7 +133,7 @@
     "kahoot": {
       "status": "homework_created",
       "verified": true,
-      "visibility": "private",
+      "visibility": "public",
       "kahoot_id": "e6221274-a676-4a84-a05e-bae19d12fb59",
       "title": "7 клас · 033a · Are you ready to cook?",
       "editor_url": "https://create.kahoot.it/creator/e6221274-a676-4a84-a05e-bae19d12fb59",
@@ -168,7 +168,15 @@
       "live_http_status": 200,
       "live_student_href_count": 1,
       "last_live_exact_href": "https://kahoot.it/challenge/009294852",
-      "live_verified_at": "2026-10-27T07:42:00+03:00"
+      "live_verified_at": "2026-10-27T07:42:00+03:00",
+      "directions_uk_verified": true,
+      "directions_verified_at": "2026-10-27T15:25:00Z",
+      "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
+      "course_title": "7 клас",
+      "course_module_number": 3,
+      "course_membership_verified": true,
+      "quiz_question_count": 8,
+      "verification_evidence": "Existing Kahoot and assignment were found in the Kahoot library and reports before any create action. The 8 quiz items matched the Unit 3 lead-in source; English task prompts were translated to Ukrainian in the Kahoot editor and verified after saving. The report shows no deadline and 0 participants. The Kahoot is public and appears in course 7 клас, module 3."
     }
   },
   "assessment": {
