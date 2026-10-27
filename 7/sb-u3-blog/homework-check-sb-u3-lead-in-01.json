@@ -129,6 +129,37 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "kahoot_id": "e6221274-a676-4a84-a05e-bae19d12fb59",
+      "title": "7 клас · 033a · Are you ready to cook?",
+      "editor_url": "https://create.kahoot.it/creator/e6221274-a676-4a84-a05e-bae19d12fb59",
+      "test_url": "https://create.kahoot.it/details/7-033a-are-you-ready-to-cook/e6221274-a676-4a84-a05e-bae19d12fb59",
+      "assignment_id": "b1a6a67c-22aa-4b8d-bac4-2cbabcb7fc55",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/b1a6a67c-22aa-4b8d-bac4-2cbabcb7fc55/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793075452083/summary",
+      "code": "009294852",
+      "student_url": "https://kahoot.it/challenge/009294852",
+      "no_deadline": true,
+      "deadline": null,
+      "question_count": 8,
+      "content_slide_count": 1,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "publication_status": "publication_pending",
+      "assessment_lesson_path": "7/sb-u3-blog/"
     }
   },
   "assessment": {
