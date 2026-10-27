@@ -38,7 +38,7 @@
     },
     {
       "type": "word",
-      "prompt": "Complete with the vocabulary word: We sing ___ songs at the youth club. (караоке)",
+      "prompt": "Доповни речення словом із словника: We sing ___ songs at the youth club. (караоке)",
       "points": 2,
       "answers": [
         "karaoke"
@@ -46,7 +46,7 @@
     },
     {
       "type": "word",
-      "prompt": "Complete: Mia is ___ — she enjoys meeting new people. (товариська)",
+      "prompt": "Доповни речення англійським словом: Mia is ___ — she enjoys meeting new people. (товариська)",
       "points": 2,
       "answers": [
         "outgoing"

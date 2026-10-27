@@ -56,7 +56,7 @@ She ___ never won a prize.
 
 ## 6. 1 бал
 
-Choose a question about experience.
+Обери запитання про досвід.
 
 1. Have you ever appeared on TV?
 2. Did you appeared on TV?

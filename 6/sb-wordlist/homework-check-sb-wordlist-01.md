@@ -32,13 +32,13 @@
 
 ## 4. 2 бали
 
-Complete with the vocabulary word: We sing ___ songs at the youth club. (караоке)
+Доповни речення словом із словника: We sing ___ songs at the youth club. (караоке)
 
 Відповідь: ______________________________________________________________
 
 ## 5. 2 бали
 
-Complete: Mia is ___ — she enjoys meeting new people. (товариська)
+Доповни речення англійським словом: Mia is ___ — she enjoys meeting new people. (товариська)
 
 Відповідь: ______________________________________________________________
 

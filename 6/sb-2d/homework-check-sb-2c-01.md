@@ -48,7 +48,7 @@ I called my brother. I asked ___ to help.
 
 ## 6. 1 бал
 
-Give the boarding passes to ___.
+Передай посадкові талони ___.
 
 1. me
 2. I

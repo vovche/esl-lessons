@@ -36,7 +36,7 @@
 
 ## 4. 1 бал
 
-Choose the correct order.
+Обери правильну послідовність.
 
 1. She straight has got hair.
 2. Straight she hair has got.
@@ -56,7 +56,7 @@ A question about personality is…
 
 ## 6. 1 бал
 
-Choose the natural sentence.
+Обери природне речення.
 
 1. He is a helpful boy.
 2. He a boy helpful is.

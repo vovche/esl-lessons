@@ -38,7 +38,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Choose a natural phrase.",
+      "prompt": "Обери природний вислів.",
       "points": 1,
       "options": [
         "An advice.",

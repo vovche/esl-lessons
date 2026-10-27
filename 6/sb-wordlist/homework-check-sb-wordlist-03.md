@@ -32,13 +32,13 @@
 
 ## 4. 2 бали
 
-Complete: I was ___ when my friends gave me an unexpected present. (здивований)
+Доповни речення англійським словом: I was ___ when my friends gave me an unexpected present. (здивований)
 
 Відповідь: ______________________________________________________________
 
 ## 5. 2 бали
 
-Complete: We used a ___ to climb up to the high window. (драбина)
+Доповни речення англійським словом: We used a ___ to climb up to the high window. (драбина)
 
 Відповідь: ______________________________________________________________
 

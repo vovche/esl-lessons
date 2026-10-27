@@ -48,7 +48,7 @@ The bank faces the park. It is ___ the park.
 
 ## 6. 1 бал
 
-Choose a direction.
+Обери напрямок.
 
 1. Turn left at the traffic lights.
 2. Left turning traffic.

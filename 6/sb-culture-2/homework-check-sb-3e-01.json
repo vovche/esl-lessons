@@ -60,7 +60,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Choose a clear ending.",
+      "prompt": "Обери чітке завершення.",
       "points": 1,
       "options": [
         "In the end, we got home safely.",

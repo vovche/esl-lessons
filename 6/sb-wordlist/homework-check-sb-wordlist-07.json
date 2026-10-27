@@ -38,7 +38,7 @@
     },
     {
       "type": "word",
-      "prompt": "Complete: Keep your ___ as proof that you paid for the shoes. (чек)",
+      "prompt": "Доповни речення англійським словом: Keep your ___ as proof that you paid for the shoes. (чек)",
       "points": 2,
       "answers": [
         "receipt"
@@ -46,7 +46,7 @@
     },
     {
       "type": "word",
-      "prompt": "Complete: I need some ___ about choosing a new hobby. (порада)",
+      "prompt": "Доповни речення англійським словом: I need some ___ about choosing a new hobby. (порада)",
       "points": 2,
       "answers": [
         "advice"

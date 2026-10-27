@@ -48,7 +48,7 @@ This is the camera ___ I bought.
 
 ## 6. 1 бал
 
-Choose the adjective from help.
+Обери прикметник, утворений від слова help.
 
 1. Helpful.
 2. Helps.

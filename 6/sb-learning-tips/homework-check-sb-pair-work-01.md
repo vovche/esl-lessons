@@ -32,7 +32,7 @@
 
 ## 4. 1 бал
 
-Choose a polite request for repetition.
+Обери ввічливе прохання повторити.
 
 1. Repeat now, you!
 2. You repeating?

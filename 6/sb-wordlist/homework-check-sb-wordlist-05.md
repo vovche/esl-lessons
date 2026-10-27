@@ -32,13 +32,13 @@
 
 ## 4. 2 бали
 
-Complete: A forest is the natural ___ of many animals. (середовище існування)
+Доповни речення англійським словом: A forest is the natural ___ of many animals. (середовище існування)
 
 Відповідь: ______________________________________________________________
 
 ## 5. 2 бали
 
-Complete: I want to ___ you to our clean-up this Saturday. (запрошувати)
+Доповни речення англійським словом: I want to ___ you to our clean-up this Saturday. (запрошувати)
 
 Відповідь: ______________________________________________________________
 

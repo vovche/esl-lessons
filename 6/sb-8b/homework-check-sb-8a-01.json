@@ -60,7 +60,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Choose the adjective from help.",
+      "prompt": "Обери прикметник, утворений від слова help.",
       "points": 1,
       "options": [
         "Helpful.",

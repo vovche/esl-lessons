@@ -55,7 +55,7 @@ A canal is a place for…
 
 ## 6. 1 бал
 
-Choose a sentence about a regular service.
+Обери речення про регулярне сполучення.
 
 1. Cable cars travel along streets.
 2. Cable cars travelled yesterday.

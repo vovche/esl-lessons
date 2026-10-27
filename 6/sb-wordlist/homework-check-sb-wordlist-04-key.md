@@ -35,13 +35,13 @@
 
 ## 4. 2 бали
 
-Complete: Our solar system is part of a ___. (галактика)
+Доповни речення англійським словом: Our solar system is part of a ___. (галактика)
 
 **Допустимі відповіді:** "galaxy"
 
 ## 5. 2 бали
 
-Complete: Tourists visited the old ___ with towers and thick walls. (замок)
+Доповни речення англійським словом: Tourists visited the old ___ with towers and thick walls. (замок)
 
 **Допустимі відповіді:** "castle"
 

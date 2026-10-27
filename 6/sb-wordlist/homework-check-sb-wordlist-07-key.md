@@ -35,13 +35,13 @@
 
 ## 4. 2 бали
 
-Complete: Keep your ___ as proof that you paid for the shoes. (чек)
+Доповни речення англійським словом: Keep your ___ as proof that you paid for the shoes. (чек)
 
 **Допустимі відповіді:** "receipt"
 
 ## 5. 2 бали
 
-Complete: I need some ___ about choosing a new hobby. (порада)
+Доповни речення англійським словом: I need some ___ about choosing a new hobby. (порада)
 
 **Допустимі відповіді:** "advice"
 

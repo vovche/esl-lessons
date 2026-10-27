@@ -32,13 +32,13 @@
 
 ## 4. 2 бали
 
-Complete: The long ___ across the ocean took many weeks. (морська подорож)
+Доповни речення англійським словом: The long ___ across the ocean took many weeks. (морська подорож)
 
 Відповідь: ______________________________________________________________
 
 ## 5. 2 бали
 
-Complete: The trip was ___; we loved every minute. (дивовижна)
+Доповни речення англійським словом: The trip was ___; we loved every minute. (дивовижна)
 
 Відповідь: ______________________________________________________________
 

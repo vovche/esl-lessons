@@ -38,7 +38,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Choose a polite request for repetition.",
+      "prompt": "Обери ввічливе прохання повторити.",
       "points": 1,
       "options": [
         "Repeat now, you!",

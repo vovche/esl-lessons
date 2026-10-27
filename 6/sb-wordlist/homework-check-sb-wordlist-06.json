@@ -38,7 +38,7 @@
     },
     {
       "type": "word",
-      "prompt": "Complete: A ___ watches a match without taking part in it. (глядач)",
+      "prompt": "Доповни речення англійським словом: A ___ watches a match without taking part in it. (глядач)",
       "points": 2,
       "answers": [
         "spectator"
@@ -46,7 +46,7 @@
     },
     {
       "type": "word",
-      "prompt": "Complete: You need a ___ to play tennis. (ракетка)",
+      "prompt": "Доповни речення англійським словом: You need a ___ to play tennis. (ракетка)",
       "points": 2,
       "answers": [
         "racket"

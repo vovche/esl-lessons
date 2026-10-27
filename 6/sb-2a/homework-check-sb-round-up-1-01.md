@@ -46,7 +46,7 @@ I enjoy ___ table tennis.
 
 ## 5. 1 бал
 
-Choose the correct order.
+Обери правильну послідовність.
 
 1. She has got straight hair.
 2. She straight has got hair.

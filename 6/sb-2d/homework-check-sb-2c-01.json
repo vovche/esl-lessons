@@ -60,7 +60,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Give the boarding passes to ___.",
+      "prompt": "Передай посадкові талони ___.",
       "points": 1,
       "options": [
         "me",

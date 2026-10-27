@@ -38,7 +38,7 @@
     },
     {
       "type": "word",
-      "prompt": "Complete: Our solar system is part of a ___. (галактика)",
+      "prompt": "Доповни речення англійським словом: Our solar system is part of a ___. (галактика)",
       "points": 2,
       "answers": [
         "galaxy"
@@ -46,7 +46,7 @@
     },
     {
       "type": "word",
-      "prompt": "Complete: Tourists visited the old ___ with towers and thick walls. (замок)",
+      "prompt": "Доповни речення англійським словом: Tourists visited the old ___ with towers and thick walls. (замок)",
       "points": 2,
       "answers": [
         "castle"

@@ -60,7 +60,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Choose a direction.",
+      "prompt": "Обери напрямок.",
       "points": 1,
       "options": [
         "Turn left at the traffic lights.",

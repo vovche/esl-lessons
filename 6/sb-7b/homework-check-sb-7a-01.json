@@ -60,7 +60,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Choose a question about experience.",
+      "prompt": "Обери запитання про досвід.",
       "points": 1,
       "options": [
         "Have you ever appeared on TV?",

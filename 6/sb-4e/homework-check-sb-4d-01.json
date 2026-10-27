@@ -38,7 +38,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Choose the superlative of large.",
+      "prompt": "Обери найвищий ступінь прикметника large.",
       "points": 1,
       "options": [
         "the larger",

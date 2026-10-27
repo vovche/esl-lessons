@@ -47,7 +47,7 @@ The country is ___ than the city.
 
 ## 4. 1 бал
 
-Choose the superlative of large.
+Обери найвищий ступінь прикметника large.
 
 1. the larger
 2. more large

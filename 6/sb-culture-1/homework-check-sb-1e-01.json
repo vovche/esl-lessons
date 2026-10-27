@@ -38,7 +38,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Choose the correct order.",
+      "prompt": "Обери правильну послідовність.",
       "points": 1,
       "options": [
         "She straight has got hair.",
@@ -60,7 +60,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Choose the natural sentence.",
+      "prompt": "Обери природне речення.",
       "points": 1,
       "options": [
         "He is a helpful boy.",

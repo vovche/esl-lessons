@@ -46,7 +46,7 @@ These shoes are ___ small for me.
 
 ## 5. 1 бал
 
-Choose a natural phrase.
+Обери природний вислів.
 
 1. Some advice.
 2. An advice.

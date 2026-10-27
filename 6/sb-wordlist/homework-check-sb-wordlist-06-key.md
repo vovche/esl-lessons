@@ -35,13 +35,13 @@
 
 ## 4. 2 бали
 
-Complete: A ___ watches a match without taking part in it. (глядач)
+Доповни речення англійським словом: A ___ watches a match without taking part in it. (глядач)
 
 **Допустимі відповіді:** "spectator"
 
 ## 5. 2 бали
 
-Complete: You need a ___ to play tennis. (ракетка)
+Доповни речення англійським словом: You need a ___ to play tennis. (ракетка)
 
 **Допустимі відповіді:** "racket"
 

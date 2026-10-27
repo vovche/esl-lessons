@@ -38,7 +38,7 @@
     },
     {
       "type": "word",
-      "prompt": "Complete: I was ___ when my friends gave me an unexpected present. (здивований)",
+      "prompt": "Доповни речення англійським словом: I was ___ when my friends gave me an unexpected present. (здивований)",
       "points": 2,
       "answers": [
         "surprised"
@@ -46,7 +46,7 @@
     },
     {
       "type": "word",
-      "prompt": "Complete: We used a ___ to climb up to the high window. (драбина)",
+      "prompt": "Доповни речення англійським словом: We used a ___ to climb up to the high window. (драбина)",
       "points": 2,
       "answers": [
         "ladder"

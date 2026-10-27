@@ -58,7 +58,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Choose an invitation.",
+      "prompt": "Обери запрошення.",
       "points": 1,
       "options": [
         "Would you like to come to our event?",

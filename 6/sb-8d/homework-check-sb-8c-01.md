@@ -48,7 +48,7 @@ Copies are ___ to shops.
 
 ## 6. 1 бал
 
-Choose a passive sentence.
+Обери речення в пасивному стані.
 
 1. Articles are written by reporters.
 2. Reporters write articles.

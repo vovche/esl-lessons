@@ -38,7 +38,7 @@
     },
     {
       "type": "word",
-      "prompt": "Complete: A forest is the natural ___ of many animals. (середовище існування)",
+      "prompt": "Доповни речення англійським словом: A forest is the natural ___ of many animals. (середовище існування)",
       "points": 2,
       "answers": [
         "habitat"
@@ -46,7 +46,7 @@
     },
     {
       "type": "word",
-      "prompt": "Complete: I want to ___ you to our clean-up this Saturday. (запрошувати)",
+      "prompt": "Доповни речення англійським словом: I want to ___ you to our clean-up this Saturday. (запрошувати)",
       "points": 2,
       "answers": [
         "invite"

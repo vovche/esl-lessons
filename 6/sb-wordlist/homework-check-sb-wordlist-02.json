@@ -38,7 +38,7 @@
     },
     {
       "type": "word",
-      "prompt": "Complete: The long ___ across the ocean took many weeks. (морська подорож)",
+      "prompt": "Доповни речення англійським словом: The long ___ across the ocean took many weeks. (морська подорож)",
       "points": 2,
       "answers": [
         "voyage"
@@ -46,7 +46,7 @@
     },
     {
       "type": "word",
-      "prompt": "Complete: The trip was ___; we loved every minute. (дивовижна)",
+      "prompt": "Доповни речення англійським словом: The trip was ___; we loved every minute. (дивовижна)",
       "points": 2,
       "answers": [
         "amazing"

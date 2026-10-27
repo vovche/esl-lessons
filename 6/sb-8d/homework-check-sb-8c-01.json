@@ -60,7 +60,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Choose a passive sentence.",
+      "prompt": "Обери речення в пасивному стані.",
       "points": 1,
       "options": [
         "Articles are written by reporters.",

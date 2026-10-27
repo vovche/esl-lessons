@@ -36,7 +36,7 @@
 
 ## 4. 1 бал
 
-Choose an invitation.
+Обери запрошення.
 
 1. I cannot come tomorrow.
 2. Thank you for inviting me.
@@ -46,7 +46,7 @@ Choose an invitation.
 
 ## 5. 1 бал
 
-Choose a polite acceptance.
+Обери ввічливу згоду.
 
 1. I cannot make it.
 2. I would love to come.

@@ -35,13 +35,13 @@
 
 ## 4. 2 бали
 
-Complete: The award ___ took place in a large theatre. (церемонія)
+Доповни речення англійським словом: The award ___ took place in a large theatre. (церемонія)
 
 **Допустимі відповіді:** "ceremony"
 
 ## 5. 2 бали
 
-Complete: The film has an exciting ___ about two friends on a journey. (сюжет)
+Доповни речення англійським словом: The film has an exciting ___ about two friends on a journey. (сюжет)
 
 **Допустимі відповіді:** "plot"
 

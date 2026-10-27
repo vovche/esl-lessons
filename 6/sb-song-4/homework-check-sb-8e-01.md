@@ -40,7 +40,7 @@ A film's story is its ___.
 
 ## 5. 1 бал
 
-Choose a passive sentence about a film.
+Обери пасивне речення про фільм.
 
 1. It was direct an artist.
 2. It was directed by an artist.

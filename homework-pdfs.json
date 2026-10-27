@@ -171,16 +171,16 @@
     {
       "id": "6-sb-1e-homework-01",
       "source": "6/sb-culture-1/homework-check-sb-1e-01.json",
-      "input_sha256": "15a8e4c72c1cd0e645fdbde65d69443b519b55964de1d1181afcf527813cbc91",
+      "input_sha256": "6104e03cb5367e2a7a1c029e54812364c4ed3ea312616eb6bfdf0367316f72bc",
       "student": {
         "path": "6/sb-culture-1/homework-check-sb-1e-01.pdf",
         "pages": 2,
-        "sha256": "44fa41ae7c4dab706ef16a9adca22f4f196aa01a0edeac8140bd6d4ff987e0df"
+        "sha256": "5cc23079e2e1a019e4b525481fd181c9a7505c100de16e05767e257b070a78e2"
       },
       "teacher": {
         "path": "6/sb-culture-1/homework-check-sb-1e-01-key.pdf",
         "pages": 1,
-        "sha256": "1b4ad012194813fcd3ae129a78870a91c427396bfa5138c3df4d29a2ec90a630"
+        "sha256": "de7f6fe64f969ea23f6711a7b0a0f21c124893f5490322ac0fa15faf01c6cded"
       }
     },
     {
@@ -216,16 +216,16 @@
     {
       "id": "6-sb-2c-homework-01",
       "source": "6/sb-2d/homework-check-sb-2c-01.json",
-      "input_sha256": "85e957292bb23ae2d533bf6c56a3e6c38edee6ac1e748e12e3cec002e304dcda",
+      "input_sha256": "bc228cae86c40d98b813b32b3c64ecf56f457bbed5da28b8cb0c1ad74be228f3",
       "student": {
         "path": "6/sb-2d/homework-check-sb-2c-01.pdf",
         "pages": 2,
-        "sha256": "4556b8a00c3019a6aaaf1b9fa1b099b417377e01ba01488d65a6f5b03ccdb09f"
+        "sha256": "2e8d0e5f0f8669957afc4147995e207533e81d9bbbcacfe01f987ad7ffc0e09a"
       },
       "teacher": {
         "path": "6/sb-2d/homework-check-sb-2c-01-key.pdf",
         "pages": 1,
-        "sha256": "13152a5e3d878e93ce73e270e29cd4e4a8de1bdde032cb5d6023778a6e289809"
+        "sha256": "27a8134cd61a5b0ed55fbfe885e353a03f8676f26198252876f978b490375958"
       }
     },
     {
@@ -321,16 +321,16 @@
     {
       "id": "6-sb-3e-homework-01",
       "source": "6/sb-culture-2/homework-check-sb-3e-01.json",
-      "input_sha256": "8a8f85606470e6c085be76126c69f7f1bbb6d851972f72b0b08697e5b54680ca",
+      "input_sha256": "1a627c16186d5a676eba3a8edf1b4c0775f788d9a76a9f6d6e12f57ea5a3c301",
       "student": {
         "path": "6/sb-culture-2/homework-check-sb-3e-01.pdf",
         "pages": 2,
-        "sha256": "dd8b9e89529dd65ca7315212fb95843f81c3e035ec4604fef84b17cc6eeabc04"
+        "sha256": "afdf1559ad23d6a8310a2bb396d09e6b65f337fd30b3f59375ad5b4f78788ccb"
       },
       "teacher": {
         "path": "6/sb-culture-2/homework-check-sb-3e-01-key.pdf",
         "pages": 1,
-        "sha256": "711f20275a31423f2fbe089f7a79acdf82fbd9163b65aabfd934a5ed374eaf34"
+        "sha256": "f8256d58ba7fbc45dff2b28ff909e4c033a75019c6e466a8a6b4459b153941e4"
       }
     },
     {
@@ -351,16 +351,16 @@
     {
       "id": "6-sb-4b-homework-01",
       "source": "6/sb-4c/homework-check-sb-4b-01.json",
-      "input_sha256": "145bd68b6d0a794d20c8218c4dbdeb0379effc76b799d1757469348f03f7fc10",
+      "input_sha256": "53678f3581fc093bb8a59851732fad43535e77565a79272216515aa69d985e50",
       "student": {
         "path": "6/sb-4c/homework-check-sb-4b-01.pdf",
         "pages": 2,
-        "sha256": "48c1d7a2f6de5f9db3b041fe25ffbc1b9f052c83cbc8d593a79caf39f46aa64a"
+        "sha256": "a01e65dc4d7f64d75ff82293c1bf817cd6cd8683007c891aa59b6e0bbab1bcb2"
       },
       "teacher": {
         "path": "6/sb-4c/homework-check-sb-4b-01-key.pdf",
         "pages": 1,
-        "sha256": "be3e55d8884ac7fd6d1e54c406b12f4ed63890458a7aa2927b612ee1a1a1514e"
+        "sha256": "5cfa2d29eb447e9f36dfaedae0d7ca407d50e0086a4d443b1d65a7362875ab6f"
       }
     },
     {
@@ -381,16 +381,16 @@
     {
       "id": "6-sb-4d-homework-01",
       "source": "6/sb-4e/homework-check-sb-4d-01.json",
-      "input_sha256": "b9ac47e402924772dde54796a17c238bb5a6ced142832541989061062b91abc3",
+      "input_sha256": "9aaca6c4c4ecc1f48441399831474b8ab5b7138bcb34967907dc30d2cebea943",
       "student": {
         "path": "6/sb-4e/homework-check-sb-4d-01.pdf",
         "pages": 2,
-        "sha256": "5595ad9bb2b3b27cbae09f82f91ec02b8a8a0bb6a6497813ac488099a961b3e8"
+        "sha256": "98f597c8a5153b52d835c8f6ae069d8180d17d0d126bba26e0e0090779e2686b"
       },
       "teacher": {
         "path": "6/sb-4e/homework-check-sb-4d-01-key.pdf",
         "pages": 1,
-        "sha256": "09a6023498f5efc934ca64e3db805818cc6c7026ba6c31a5a469d2b61b6bf0a9"
+        "sha256": "3571d552840932db654e773fd8c8e9da26be7a4400f4e768b8b9b3e3584ec3ed"
       }
     },
     {
@@ -471,16 +471,16 @@
     {
       "id": "6-sb-5e-homework-01",
       "source": "6/sb-culture-3/homework-check-sb-5e-01.json",
-      "input_sha256": "93a934c116ad95566541fc98488b4224148e5fdd06cea4456ebdd5316d0cd799",
+      "input_sha256": "e0b7b0d31ecb11773fdded2d0b52b397ba913b343f947a69e4922bd211c28c98",
       "student": {
         "path": "6/sb-culture-3/homework-check-sb-5e-01.pdf",
         "pages": 2,
-        "sha256": "25674f7d59321f5570fc4611592b62db38c4ef6501361c6fdf273efbc84bfd9f"
+        "sha256": "f6ed57f1f187d03c4a518ffd296b8dc9a359726eb9d7833b06eb4d4895b06fc1"
       },
       "teacher": {
         "path": "6/sb-culture-3/homework-check-sb-5e-01-key.pdf",
         "pages": 1,
-        "sha256": "e2e7db4c17883871b289b289fe4dc6a3954ac8dad7ac25dfb68d5e47273e724a"
+        "sha256": "29d041105a863d9c18cdc96ffcacda2b0aad4b034a51a89c7af166b97462a976"
       }
     },
     {
@@ -561,16 +561,16 @@
     {
       "id": "6-sb-7a-homework-01",
       "source": "6/sb-7b/homework-check-sb-7a-01.json",
-      "input_sha256": "780795c9d0c041802761b42001532282ae7e11079bdc8fd19686ce61f0347de8",
+      "input_sha256": "659dbb3ff2eb4bd2032182691a7f036b431c7e8c0588849668b13e79ae1ce0bd",
       "student": {
         "path": "6/sb-7b/homework-check-sb-7a-01.pdf",
         "pages": 2,
-        "sha256": "57abd03c39545f82aa117adff2f28d91c7d44723a564f93208f057e93e5e27ea"
+        "sha256": "00029d3c98716a070d3fbb929a74dc45324d3ebf8ccaaa4ba65c4ae3f46f500a"
       },
       "teacher": {
         "path": "6/sb-7b/homework-check-sb-7a-01-key.pdf",
         "pages": 1,
-        "sha256": "21720604dfe3b3bd859bd0fe8ab54d86264f68d9227e56b1f7eb2f89b2232049"
+        "sha256": "f1629e8b64c2905cb77552fb819c787889bf6f22cfbb9cdf1e852b0a7444df5c"
       }
     },
     {
@@ -621,31 +621,31 @@
     {
       "id": "6-sb-7e-homework-01",
       "source": "6/sb-culture-4/homework-check-sb-7e-01.json",
-      "input_sha256": "ea3f19d6777a9db86517944fbbb8954d41ea8f9ef17dd7ac4e080c1e31bf79ef",
+      "input_sha256": "88173aef2db598f1c922e08b4a516eb7afbc5f564c25c0923aa01eb5719897f3",
       "student": {
         "path": "6/sb-culture-4/homework-check-sb-7e-01.pdf",
         "pages": 2,
-        "sha256": "33b661b159839e8f1c239b5b4f4b03d24f87a8218719cf654bd52e27cd1b168c"
+        "sha256": "2708d8f55ab9b93978c93e57902977494bd235c64218f02e53b7c9af0bac432d"
       },
       "teacher": {
         "path": "6/sb-culture-4/homework-check-sb-7e-01-key.pdf",
         "pages": 1,
-        "sha256": "aa7206128afa73200b7ae668c11da79bab9e0d0ddd026c61a2aca107cc7bb382"
+        "sha256": "92e7825c0f5eb60f43fd70a76d61205fbae6685af7e33a0507f82632e3f1ee04"
       }
     },
     {
       "id": "6-sb-8a-homework-01",
       "source": "6/sb-8b/homework-check-sb-8a-01.json",
-      "input_sha256": "89b203d8070a63d01219f65151e2acac2a3ab604ab23e9863217e38d934fce2f",
+      "input_sha256": "4c6f33eca9b7714adc0cd00bd21a9b699b5933349af49b7b62aea5dcf5e3b60d",
       "student": {
         "path": "6/sb-8b/homework-check-sb-8a-01.pdf",
         "pages": 2,
-        "sha256": "db242cc9fcd55fd339e0beeaa1e05b07d129af776a746c1bfab3024cb4ae135e"
+        "sha256": "23e30c147920f1c0d918f2a6a0207f9115532ee02aecedc4dbfbd46ba7c61d35"
       },
       "teacher": {
         "path": "6/sb-8b/homework-check-sb-8a-01-key.pdf",
         "pages": 1,
-        "sha256": "569871facf5497affd8cad8ab4073b1b79b1855b38ca45f5f54c6ea99ce13f02"
+        "sha256": "53f652fa5f562b30586b7ac72646cf6f80352b95746a86caf666296bc1b97385"
       }
     },
     {
@@ -666,16 +666,16 @@
     {
       "id": "6-sb-8c-homework-01",
       "source": "6/sb-8d/homework-check-sb-8c-01.json",
-      "input_sha256": "ecb9d718c527e6a4b804615cb4c8c4fe83912ac8876cc0f60413bc005b88aa5a",
+      "input_sha256": "9982dec6c1cfd30f17b2332476c4e9304173d8f9a608c03cc599b7bd83fdf996",
       "student": {
         "path": "6/sb-8d/homework-check-sb-8c-01.pdf",
         "pages": 2,
-        "sha256": "abcf8221930ebd7d1606be064e4b663a6163413127d2fbc5bcfa9e8c21348b73"
+        "sha256": "998d604c1d0833b0888abff9d5f902368eca952431cd6707f78768e64ce1b363"
       },
       "teacher": {
         "path": "6/sb-8d/homework-check-sb-8c-01-key.pdf",
         "pages": 1,
-        "sha256": "e4e847ca0e3ff388a01a9b9291672798e572e1b2558fa67bbaf67a0c340fb931"
+        "sha256": "3a59cd121895b52c37f68157df571cce30eb70525109543325d93ce85872da64"
       }
     },
     {
@@ -696,16 +696,16 @@
     {
       "id": "6-sb-8e-homework-01",
       "source": "6/sb-song-4/homework-check-sb-8e-01.json",
-      "input_sha256": "461afefbbd62e18b9456d673ea24622bc7a489d78e1ccf4be139bb6bd301c878",
+      "input_sha256": "d73762c2c7900ce8e0a8ef6e48f760177b49a1702612be278cd3b5fc5447372a",
       "student": {
         "path": "6/sb-song-4/homework-check-sb-8e-01.pdf",
         "pages": 2,
-        "sha256": "f5a7a91b2c263baeccc87e48534eb0e634ec14fca358f3b393c049b7a72ff998"
+        "sha256": "edc34b6a520cf16c4f8cc98aa0edefb123dca6920a3bd53b06cdb3870390cc49"
       },
       "teacher": {
         "path": "6/sb-song-4/homework-check-sb-8e-01-key.pdf",
         "pages": 1,
-        "sha256": "a843fb48efbec961f36c676bcbb0a4e13db84b5b457b8c1d268f47a432ff6422"
+        "sha256": "edf893278f1099f37f1a9d892b340598c0879bb1a1cf06524f101e2cbf7173f0"
       }
     },
     {
@@ -771,16 +771,16 @@
     {
       "id": "6-sb-culture-1-homework-01",
       "source": "6/sb-round-up-1/homework-check-sb-culture-1-01.json",
-      "input_sha256": "aa41e9cfd9f530580d562a43499c116bfb3fbfc682207cbd8a05d7d29778be82",
+      "input_sha256": "783dd4a926bf25a73f1a4066525a134b8f319df699f4a94778c1fc777bed045f",
       "student": {
         "path": "6/sb-round-up-1/homework-check-sb-culture-1-01.pdf",
         "pages": 2,
-        "sha256": "105ee483526fe672eb7db7a70f2735c1855829ffe2bdfd97c6531d551330db49"
+        "sha256": "f0d26924b4ffd3f1168eed7f129e6a2d8e023ebb73020d7aa9a0a581f67f5ce0"
       },
       "teacher": {
         "path": "6/sb-round-up-1/homework-check-sb-culture-1-01-key.pdf",
         "pages": 1,
-        "sha256": "7faeba295fff1a0a1d6f4e86135cf941b67e0f17b3cb8ae6a7102a8af01502a5"
+        "sha256": "66af33504c60cbaa5781ddd9d2355be83de5ac4f0a895cbeadfbbad8184532dd"
       }
     },
     {
@@ -1011,31 +1011,31 @@
     {
       "id": "6-sb-pair-work-homework-01",
       "source": "6/sb-learning-tips/homework-check-sb-pair-work-01.json",
-      "input_sha256": "a7b9d5e8449426d0452d26750d971006198118cb73612aeb23c5cb0c5accf22a",
+      "input_sha256": "c65dbaa7bce2f5994f617cd12b940907d380381df6c0ac58ac4fe8669f90eb87",
       "student": {
         "path": "6/sb-learning-tips/homework-check-sb-pair-work-01.pdf",
         "pages": 2,
-        "sha256": "c50768a701d5053a68574bcf093467c93f26ae45493600cf4515cfc2ffdde9d2"
+        "sha256": "1d77dfd0aa12f206b6c46dfca54329b4b6cc7d8fea6a0f686c81d7821cf5d719"
       },
       "teacher": {
         "path": "6/sb-learning-tips/homework-check-sb-pair-work-01-key.pdf",
         "pages": 1,
-        "sha256": "5f423704332afc7c445438d2b3ba7eb391ce52883ba4c978ab5f56680ae26d8a"
+        "sha256": "7b8cb17bb667471853beba73e8b806cf314ce69d7cb300283c62e1ae50dfc612"
       }
     },
     {
       "id": "6-sb-round-up-1-homework-01",
       "source": "6/sb-2a/homework-check-sb-round-up-1-01.json",
-      "input_sha256": "8685c022a8723fc09d1eb5ae563f907c225c15a74ea391d5189a469d2835f5a1",
+      "input_sha256": "120242a79850a5a1b39c0756671814a2954e10a67702f4363b0168b41b0b5f90",
       "student": {
         "path": "6/sb-2a/homework-check-sb-round-up-1-01.pdf",
         "pages": 2,
-        "sha256": "d11e1ccb64b593ad6daf72e57e205668b351ae9526dcebc04b1c4d9e8d5bb0d7"
+        "sha256": "f690f95164a89dd31a04585f8b62eac1f7ab65cde22ecdfa7feb53f90a489ebe"
       },
       "teacher": {
         "path": "6/sb-2a/homework-check-sb-round-up-1-01-key.pdf",
         "pages": 1,
-        "sha256": "16fc488d2782b9c5c24fa9b7f9a5c4a8cc9772324a025ddd5fd73c2350f211bc"
+        "sha256": "73683559bac5b51b33f7aabf941a5a523d9c6bb6af776209e7aa29c9e157cd3c"
       }
     },
     {
@@ -1071,31 +1071,31 @@
     {
       "id": "6-sb-round-up-4-homework-01",
       "source": "6/sb-5a/homework-check-sb-round-up-4-01.json",
-      "input_sha256": "da941dad0c48efc4b956c67381a88eb027df0f7371dd1dc0280d0c14892d630f",
+      "input_sha256": "aff8dc203fd5e8aa353f8650dc1307e63a2a54feba5e1818df01ae1c32caa2db",
       "student": {
         "path": "6/sb-5a/homework-check-sb-round-up-4-01.pdf",
         "pages": 2,
-        "sha256": "82a479f45f0277c536347ceb8db3a42588fcc122616e17f304045785dc19e7f2"
+        "sha256": "c6ecb14ba610adf9eecf8c7ab13d7bb6d8f7e1cc8535a205289e3042b166c52d"
       },
       "teacher": {
         "path": "6/sb-5a/homework-check-sb-round-up-4-01-key.pdf",
         "pages": 1,
-        "sha256": "8674bdc283595ce118d2668001e9e5d93ec16176ca592ebe11c58857339e3225"
+        "sha256": "4eff1c930ee2a0e5918895df9b704af7f6b73fa56b86e3ac09074564c47f79ba"
       }
     },
     {
       "id": "6-sb-round-up-5-homework-01",
       "source": "6/sb-6a/homework-check-sb-round-up-5-01.json",
-      "input_sha256": "193377503df62853522e778b33a352f6f993b38b1b9ee5e546fc1396865c89ad",
+      "input_sha256": "efd2079fdacd858b4d36799cd78ce3e1731993c4b9437a1848df2f48229a0460",
       "student": {
         "path": "6/sb-6a/homework-check-sb-round-up-5-01.pdf",
         "pages": 2,
-        "sha256": "9639a4f293bfcb8187b27b7f025f74ec7cabdf8542f2b02bc43e9edeb0df58f6"
+        "sha256": "21198eb3c54a301341ff4994b0c174c14437d8c91316203b5ba712a9edb42496"
       },
       "teacher": {
         "path": "6/sb-6a/homework-check-sb-round-up-5-01-key.pdf",
         "pages": 1,
-        "sha256": "77cb95110e67f3d7cab943f1623e11c9f4745607ea433e7c5948368bd37d27f3"
+        "sha256": "204d7f99011ffd6ba2d4d5f5914c5b9b98dc233c4e71b6e64e0556d944e186d9"
       }
     },
     {
@@ -1116,16 +1116,16 @@
     {
       "id": "6-sb-round-up-7-homework-01",
       "source": "6/sb-8a/homework-check-sb-round-up-7-01.json",
-      "input_sha256": "006e71d134abe88e4ec4174b0cb5770754c0bdbf18c02a8f6b2b40391cc12a51",
+      "input_sha256": "935e3738249473460c007a07745161623fa7d7fa3656707626ee3f094ad4f838",
       "student": {
         "path": "6/sb-8a/homework-check-sb-round-up-7-01.pdf",
         "pages": 2,
-        "sha256": "e11e44bdddf7daa5c310cda9d4cd3675b768b02e2cd535a73cb9334249661a35"
+        "sha256": "4de7a099335b3100ca2bd3a282858ea1b047f8a3770226574f17ab497397a05b"
       },
       "teacher": {
         "path": "6/sb-8a/homework-check-sb-round-up-7-01-key.pdf",
         "pages": 1,
-        "sha256": "6c78b1aeeb0eab79942812a36419a62a44846918e38c9f023005f74385f42c5c"
+        "sha256": "122b90374f62899cdc046021c0d6cd3c9aa76949c4c8a9f0a3e1413884163e2f"
       }
     },
     {
@@ -1206,121 +1206,121 @@
     {
       "id": "6-sb-wordlist-homework-01",
       "source": "6/sb-wordlist/homework-check-sb-wordlist-01.json",
-      "input_sha256": "e639146a2e3d41c9e5f281e3b0179156bcc6f8b282ed1af24d83fd09be040dbf",
+      "input_sha256": "4c7dcd5003bf517d135779a240ae524ad104a377c601c0329af9a0ed5154c767",
       "student": {
         "path": "6/sb-wordlist/homework-check-sb-wordlist-01.pdf",
         "pages": 1,
-        "sha256": "3730404600c5aa8155e36fff68289e2888e0ce2f6f9a94b60c2880b6ab1f398c"
+        "sha256": "d00a04213fe80623137f50efbc283684f216492369fa0b4dca5626e07c06f9ab"
       },
       "teacher": {
         "path": "6/sb-wordlist/homework-check-sb-wordlist-01-key.pdf",
         "pages": 1,
-        "sha256": "640b66701e05d1dee99cd172eb7565bb0c70eda519ef2c5bf44268a03bf45b3a"
+        "sha256": "d508e68af6cf28c5e5331dbf7b6f0b8e7dc288164721af5d023fb84a72c8f4e3"
       }
     },
     {
       "id": "6-sb-wordlist-homework-02",
       "source": "6/sb-wordlist/homework-check-sb-wordlist-02.json",
-      "input_sha256": "a7e1e278821899a3ce5863c74c639e646966ed750549df9af05143a49e72fa6b",
+      "input_sha256": "38369eaf80ed7d995c9e0617f0172cab71844613495a25df0d2cef7f0224072c",
       "student": {
         "path": "6/sb-wordlist/homework-check-sb-wordlist-02.pdf",
         "pages": 1,
-        "sha256": "3237b2bded461d97e5ff638243e704647594789abd368a4d743b60ac53294130"
+        "sha256": "e416a8d50e7aa9ef928f61c79e25f41a243dd788518549b92e7c7effb428cbe4"
       },
       "teacher": {
         "path": "6/sb-wordlist/homework-check-sb-wordlist-02-key.pdf",
         "pages": 1,
-        "sha256": "04f1c936a8e4b3d5a35e0e826893158df2521b53f05270ee7099b6b827a67a22"
+        "sha256": "a8c8e1a6e644ad5bc9d30f0ea8270e463a3885059d6a651bcb7a0f020e98094b"
       }
     },
     {
       "id": "6-sb-wordlist-homework-03",
       "source": "6/sb-wordlist/homework-check-sb-wordlist-03.json",
-      "input_sha256": "c29b267afdcddcb27cacb8d2447234dc5e6d6b3d823b3368cb11f18cd71bd542",
+      "input_sha256": "8dec15fb088b4db0b1fe464726111a972bc3c2b3e940d0064447f2200c183468",
       "student": {
         "path": "6/sb-wordlist/homework-check-sb-wordlist-03.pdf",
         "pages": 1,
-        "sha256": "9bf8d09915b7e33df0aed4265972f4cc55591c3504ffceede1340d0e08f81e6d"
+        "sha256": "b52b560b1df56330047121c64c43600791873647df7578a446c577ce231bcee7"
       },
       "teacher": {
         "path": "6/sb-wordlist/homework-check-sb-wordlist-03-key.pdf",
         "pages": 1,
-        "sha256": "63daea9b857fc7b4cd553110594c196d117394551311a58b4c7b57c5efdb53a3"
+        "sha256": "a423ebc7ba857115aaf2a9dadaf3245aa60585d39ae4468bc182ff640e67eca7"
       }
     },
     {
       "id": "6-sb-wordlist-homework-04",
       "source": "6/sb-wordlist/homework-check-sb-wordlist-04.json",
-      "input_sha256": "cf471c7b3768f8e4bdf4ef5ed0cee6432b8f31cda8c8d7a12f0fc0b28877f62b",
+      "input_sha256": "f949632581ce32044c13a35b3f1c919a56e47ad07999de4f5d91e8c108f23125",
       "student": {
         "path": "6/sb-wordlist/homework-check-sb-wordlist-04.pdf",
         "pages": 1,
-        "sha256": "3922cef6a2f66badcbb5ce9990eafeb633c2d14495f7dd4ef46c9a8c54c7d587"
+        "sha256": "b3471ac87a7432fd188789a5cf944a8fafd75c0943644d2cf100434d0fb9ee9e"
       },
       "teacher": {
         "path": "6/sb-wordlist/homework-check-sb-wordlist-04-key.pdf",
         "pages": 1,
-        "sha256": "67ecc14fbd53496556bcebacdb6d2ec26d968b2eb1fb2aca36bb5a4ed8e9b82c"
+        "sha256": "7dd6e8fe99616e3d9a208377f0c802f82bccc8d495874166ec5a29c1c2353f0d"
       }
     },
     {
       "id": "6-sb-wordlist-homework-05",
       "source": "6/sb-wordlist/homework-check-sb-wordlist-05.json",
-      "input_sha256": "afcf5a7f5b050f9348178e84cce8ae43cb884c9c8a0d84fd1115462a591eabdc",
+      "input_sha256": "7c7463246f88c21d22c862521cfe09fa831b66195c170203537d1c47cde844c1",
       "student": {
         "path": "6/sb-wordlist/homework-check-sb-wordlist-05.pdf",
         "pages": 1,
-        "sha256": "44bc1c12d89d8c434c70e7ca855dd91acd8ea0e2d35cff0c0935e26549b471bc"
+        "sha256": "08f1ac56fe8447a891c8768c9b821a790704ac482738efe1fbbc63f8f6214303"
       },
       "teacher": {
         "path": "6/sb-wordlist/homework-check-sb-wordlist-05-key.pdf",
         "pages": 1,
-        "sha256": "2a772189f39a6684219bb902aae6e843b1b7f96ddfcf4543693bcc7959e8f92f"
+        "sha256": "45581fa9412dac0d4e1bc0efec92dd3015866fa88c5fdd09b09be1af3a32fef6"
       }
     },
     {
       "id": "6-sb-wordlist-homework-06",
       "source": "6/sb-wordlist/homework-check-sb-wordlist-06.json",
-      "input_sha256": "3ac3615a97aceba26e858c5534dcf3820d9eb8e7a798f2d6e1200faaf972d359",
+      "input_sha256": "5db2ee2b83ce705b6afc2a343e6f7c221a68bcdb49be3e8a423fd6ff1c0053b5",
       "student": {
         "path": "6/sb-wordlist/homework-check-sb-wordlist-06.pdf",
         "pages": 1,
-        "sha256": "2637bcaf8cc7e06ccf7b2f2afc508e42bba326e346a4915148b397c3d846d635"
+        "sha256": "5b7b518c6d0f695610bbe71165b18cc52a84277a0789532a4d34a684201501cb"
       },
       "teacher": {
         "path": "6/sb-wordlist/homework-check-sb-wordlist-06-key.pdf",
         "pages": 1,
-        "sha256": "1f36efca58be29e5cd36f4a6b52f3f4f6bca73cae336cc245bd66be1d7822709"
+        "sha256": "d764ffd8f82b991b73bd27620ae8b205042dc91f8f278c0e0101e93c8aaa4156"
       }
     },
     {
       "id": "6-sb-wordlist-homework-07",
       "source": "6/sb-wordlist/homework-check-sb-wordlist-07.json",
-      "input_sha256": "95867228a54723809b9fa5b362fc795de24f30f18d9345252c38294f82dc255b",
+      "input_sha256": "8e0ab64c6560d16b0b5d5a2bbc9a732e223e20885c44b7487f503f14693b5557",
       "student": {
         "path": "6/sb-wordlist/homework-check-sb-wordlist-07.pdf",
         "pages": 1,
-        "sha256": "01a5641383318f114a267b585b67fc276aad8ff9d779bf245b41e1084b22d376"
+        "sha256": "161b2b4c103aefc1c3bde024dcd682f41089804b96cd2b962f2107a07d41e01e"
       },
       "teacher": {
         "path": "6/sb-wordlist/homework-check-sb-wordlist-07-key.pdf",
         "pages": 1,
-        "sha256": "f6506887bfc3848dc546bfe3cbf94df4f72e0dcb4c2160e21bd3f39bf82326ee"
+        "sha256": "955fb911151ce9468b69754be3d2766a5800bca12d6217e284b425af1e704c8e"
       }
     },
     {
       "id": "6-sb-wordlist-homework-08",
       "source": "6/sb-wordlist/homework-check-sb-wordlist-08.json",
-      "input_sha256": "fc31f4e1760e9bbae20e72ed68eae670205f33486e0a7f8607229e5bb4a05d4d",
+      "input_sha256": "bcd788c19284a085b55638af2e41bbe544bdf39280f2a6667f1dc7359de4d165",
       "student": {
         "path": "6/sb-wordlist/homework-check-sb-wordlist-08.pdf",
         "pages": 1,
-        "sha256": "89ea658268ab3b0a1665243459dc29bedcaf7c099b7eed3a456a6eb18d36cfd3"
+        "sha256": "d34d89c30aff58c3badd668de202024a1d2ed0a53c3f5c00d190d5e69070a467"
       },
       "teacher": {
         "path": "6/sb-wordlist/homework-check-sb-wordlist-08-key.pdf",
         "pages": 1,
-        "sha256": "d80b7e5ccf83d6b08f92772c1936094d0793f317e7b9126acd8fc1c92457fba4"
+        "sha256": "bc7fd8aa301562746d6d299a745bbf8b6f82e36dafddb8418c1b8398eeff14cd"
       }
     },
     {

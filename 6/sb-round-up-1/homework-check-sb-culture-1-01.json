@@ -60,7 +60,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Choose a sentence about a regular service.",
+      "prompt": "Обери речення про регулярне сполучення.",
       "points": 1,
       "options": [
         "Cable cars travel along streets.",

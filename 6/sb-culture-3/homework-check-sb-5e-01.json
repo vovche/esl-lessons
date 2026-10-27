@@ -38,7 +38,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Choose an invitation.",
+      "prompt": "Обери запрошення.",
       "points": 1,
       "options": [
         "I cannot come tomorrow.",
@@ -49,7 +49,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Choose a polite acceptance.",
+      "prompt": "Обери ввічливу згоду.",
       "points": 1,
       "options": [
         "I cannot make it.",

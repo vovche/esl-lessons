@@ -32,7 +32,7 @@
 
 ## 4. 1 бал
 
-Choose a natural phrase.
+Обери природний вислів.
 
 1. An advice.
 2. Many advices.

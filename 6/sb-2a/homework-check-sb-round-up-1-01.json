@@ -58,7 +58,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Choose the correct order.",
+      "prompt": "Обери правильну послідовність.",
       "points": 1,
       "options": [
         "She has got straight hair.",

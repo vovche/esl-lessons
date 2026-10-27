@@ -38,7 +38,7 @@
     },
     {
       "type": "word",
-      "prompt": "Complete: The award ___ took place in a large theatre. (церемонія)",
+      "prompt": "Доповни речення англійським словом: The award ___ took place in a large theatre. (церемонія)",
       "points": 2,
       "answers": [
         "ceremony"
@@ -46,7 +46,7 @@
     },
     {
       "type": "word",
-      "prompt": "Complete: The film has an exciting ___ about two friends on a journey. (сюжет)",
+      "prompt": "Доповни речення англійським словом: The film has an exciting ___ about two friends on a journey. (сюжет)",
       "points": 2,
       "answers": [
         "plot"

@@ -48,7 +48,7 @@ I was climbing when the officer ___ me.
 
 ## 6. 1 бал
 
-Choose a clear ending.
+Обери чітке завершення.
 
 1. In the end, we got home safely.
 2. Yesterday afternoon…

@@ -46,7 +46,7 @@ If we ___ the water, animals will suffer.
 
 ## 5. 1 бал
 
-Choose an invitation.
+Обери запрошення.
 
 1. Would you like to come to our event?
 2. I cannot come tomorrow.
