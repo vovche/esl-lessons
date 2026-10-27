@@ -180,7 +180,16 @@
       "course_module_number": 3,
       "course_membership_verified": true,
       "course_status": "draft",
-      "publication_status": "publication_pending"
+      "publication_status": "publication_verified",
+      "commit_sha": "522d393b5b0a3d8f77edef7e5fe30d930ff2750a",
+      "pages_run_id": "40509906385",
+      "pages_run_url": "https://github.com/vovche/esl-lessons/actions/runs/40509906385",
+      "pages_conclusion": "success",
+      "live_page_url": "https://vovche.github.io/esl-lessons/7/sb-u3-vocabulary-2/",
+      "live_http_status": 200,
+      "live_student_href_count": 1,
+      "last_live_exact_href": "https://kahoot.it/challenge/005085733",
+      "live_verified_at": "2026-10-27T15:14:25+02:00"
     }
   },
   "assessment": {
