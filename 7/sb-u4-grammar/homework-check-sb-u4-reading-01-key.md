@@ -14,6 +14,7 @@
 Дедлайн: 2027-01-03T23:00, Europe/Kyiv.
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3887063). Стан: `published_pending_homework_daily_limit`.
+[kahoot: домашнє завдання](https://kahoot.it/challenge/004990343).
 ## 1. 1 бал
 
 Обери значення слова custom.
@@ -49,7 +50,7 @@
 
 ## 4. 1 бал
 
-Cards ___ sent to grandparents.
+Обери правильну форму дієслова: Cards ___ sent to grandparents.
 
 1. be
 2. are
@@ -60,7 +61,7 @@ Cards ___ sent to grandparents.
 
 ## 5. 1 бал
 
-The holiday ___ celebrated in winter.
+Обери правильну форму дієслова: The holiday ___ celebrated in winter.
 
 1. are
 2. do
@@ -71,7 +72,7 @@ The holiday ___ celebrated in winter.
 
 ## 6. 1 бал
 
-Special food is ___ at home.
+Обери правильну форму дієслова: Special food is ___ at home.
 
 1. prepared
 2. prepare
@@ -82,11 +83,11 @@ Special food is ___ at home.
 
 ## 7. 2 бали
 
-Прочитай текст і визнач правильну відповідь.
+Прочитай текст і обери відповідь.
 
-New Year traditions vary between countries. In Spain, people traditionally eat twelve grapes at midnight. In Scotland , first-footing is associated with the first visitor after midnight. A traveller can learn about a tradition by asking when it happens, what people do and why it matters.
+New Year traditions vary between countries. In Spain, people traditionally eat twelve grapes at midnight. In Scotland, first-footing is associated with the first visitor after midnight. A traveller can learn about a tradition by asking when it happens, what people do and why it matters.
 
-What is associated with midnight in Spain?
+Що традиційно їдять в Іспанії опівночі?
 
 1. a film review
 2. twelve grapes
@@ -97,11 +98,11 @@ What is associated with midnight in Spain?
 
 ## 8. 2 бали
 
-Прочитай текст і визнач правильну відповідь.
+Прочитай текст і обери відповідь.
 
-New Year traditions vary between countries. In Spain, people traditionally eat twelve grapes at midnight. In Scotland , first-footing is associated with the first visitor after midnight. A traveller can learn about a tradition by asking when it happens, what people do and why it matters.
+New Year traditions vary between countries. In Spain, people traditionally eat twelve grapes at midnight. In Scotland, first-footing is associated with the first visitor after midnight. A traveller can learn about a tradition by asking when it happens, what people do and why it matters.
 
-What does first-footing involve?
+Хто приходить першим після опівночі за традицією first-footing?
 
 1. a cooking competition
 2. a theatre seat

@@ -200,7 +200,7 @@
 | 045 · Traditions: Lead-in | [PDF](7/sb-u4-blog/homework-check-sb-u4-lead-in-01.pdf) | [PDF](7/sb-u4-blog/homework-check-sb-u4-lead-in-01-key.pdf) |
 | 7 клас · Traditions... Traditions...: Слухання Свята і традиції · Слухання | [PDF](7/sb-u4-vocabulary-2/homework-check-sb-u4-listening-01.pdf) | [PDF](7/sb-u4-vocabulary-2/homework-check-sb-u4-listening-01-key.pdf) |
 | 7 клас · Traditions... Traditions...: Повторення Свята і традиції · Повторення | [PDF](7/sb-u4-self-check/homework-check-sb-u4-look-back-01.pdf) | [PDF](7/sb-u4-self-check/homework-check-sb-u4-look-back-01-key.pdf) |
-| 7 клас · Traditions... Traditions...: Читання Свята і традиції · Читання | [PDF](7/sb-u4-grammar/homework-check-sb-u4-reading-01.pdf) | [PDF](7/sb-u4-grammar/homework-check-sb-u4-reading-01-key.pdf) |
+| 046 · Traditions: Reading | [PDF](7/sb-u4-grammar/homework-check-sb-u4-reading-01.pdf) | [PDF](7/sb-u4-grammar/homework-check-sb-u4-reading-01-key.pdf) |
 | 7 клас · Traditions... Traditions...: Самоперевірка Свята і традиції · Самоперевірка | [PDF](7/sb-u5-lead-in/homework-check-sb-u4-self-check-01.pdf) | [PDF](7/sb-u5-lead-in/homework-check-sb-u4-self-check-01-key.pdf) |
 | 7 клас · Traditions... Traditions...: Говоріння Свята і традиції · Говоріння | [PDF](7/sb-u4-writing/homework-check-sb-u4-speaking-01.pdf) | [PDF](7/sb-u4-writing/homework-check-sb-u4-speaking-01-key.pdf) |
 | 7 клас · Traditions... Traditions...: Лексика Свята і традиції · Лексика | [PDF](7/sb-u4-reading/homework-check-sb-u4-vocabulary-01.pdf) | [PDF](7/sb-u4-reading/homework-check-sb-u4-vocabulary-01-key.pdf) |

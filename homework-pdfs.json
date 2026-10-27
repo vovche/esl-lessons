@@ -2106,16 +2106,16 @@
     {
       "id": "7-sb-u4-reading-homework-01",
       "source": "7/sb-u4-grammar/homework-check-sb-u4-reading-01.json",
-      "input_sha256": "7a328a002b1049ebdc86bc5ef60506a6f4ee5cbb27755d1548e0c5c062c5756a",
+      "input_sha256": "f309c95885a77f4341fcff06732f5213a0a8449a1ba31a743c88334db3a14958",
       "student": {
         "path": "7/sb-u4-grammar/homework-check-sb-u4-reading-01.pdf",
         "pages": 2,
-        "sha256": "2b7d4997e8fee8fe732e6b04240bcd2d01126abdf7430115c18d8c25f9662ac0"
+        "sha256": "e5965c8451109155c07ff6ef80ca231a928693bb59ded7074ce8b625ce5a1342"
       },
       "teacher": {
         "path": "7/sb-u4-grammar/homework-check-sb-u4-reading-01-key.pdf",
-        "pages": 1,
-        "sha256": "1f0ad2d39c9d8529a87dd748080bdba2be0c8b2819662ee3461075f328bc5520"
+        "pages": 2,
+        "sha256": "f72841d5323b78d0ca8317e0d7581c03354e05b7528478a28887de32cdf378ca"
       }
     },
     {
