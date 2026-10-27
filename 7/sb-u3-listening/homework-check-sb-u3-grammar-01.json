@@ -166,7 +166,16 @@
       "assessment_lesson_path": "7/sb-u3-listening/",
       "created_at": "2026-10-27T07:17:00+02:00",
       "verified_at": "2026-10-27T07:17:00+02:00",
-      "publication_status": "publication_pending"
+      "publication_status": "publication_verified",
+      "commit_sha": "89abcc05768565b97bb9ba17b00130cfa08b34ca",
+      "pages_run_id": "40454740287",
+      "pages_run_url": "https://github.com/vovche/esl-lessons/actions/runs/40454740287",
+      "pages_conclusion": "success",
+      "live_page_url": "https://vovche.github.io/esl-lessons/7/sb-u3-listening/",
+      "live_http_status": 200,
+      "live_student_href_count": 1,
+      "last_live_exact_href": "https://kahoot.it/challenge/009488279",
+      "live_verified_at": "2026-10-27T08:02:00+02:00"
     }
   },
   "assessment": {
