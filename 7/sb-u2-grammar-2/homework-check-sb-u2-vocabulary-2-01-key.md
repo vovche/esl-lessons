@@ -14,7 +14,7 @@
 Дедлайн: 2027-01-03T23:00, Europe/Kyiv.
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886955). Стан: `published_pending_homework_daily_limit`.
-[kahoot: тест](https://create.kahoot.it/details/7-024-do-your-chores/5ed69e77-af68-4c1f-ae72-df04493500fa). Стан: `homework_created`.
+[kahoot: тест](https://create.kahoot.it/details/7-025-do-your-chores/5ed69e77-af68-4c1f-ae72-df04493500fa). Стан: `homework_created`.
 [kahoot: домашнє завдання](https://kahoot.it/challenge/004713919).
 ## 1. 1 бал
 

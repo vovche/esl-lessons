@@ -132,9 +132,9 @@
     },
     "kahoot": {
       "kahoot_id": "5ed69e77-af68-4c1f-ae72-df04493500fa",
-      "title": "7 клас · 024 · Do your chores",
+      "title": "7 клас · 025 · Do your chores",
       "editor_url": "https://create.kahoot.it/creator/5ed69e77-af68-4c1f-ae72-df04493500fa",
-      "test_url": "https://create.kahoot.it/details/7-024-do-your-chores/5ed69e77-af68-4c1f-ae72-df04493500fa",
+      "test_url": "https://create.kahoot.it/details/7-025-do-your-chores/5ed69e77-af68-4c1f-ae72-df04493500fa",
       "status": "homework_created",
       "verified": true,
       "visibility": "public",
@@ -174,7 +174,7 @@
       "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
       "course_title": "7 клас",
       "course_module": 2,
-      "course_module_position": "after lesson 023",
+      "course_module_position": "after lesson 024",
       "course_placement_verified": true,
       "course_publication_status": "draft_pending_empty_modules",
       "source_question_weights": [

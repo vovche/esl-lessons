@@ -14,6 +14,8 @@
 Дедлайн: 2027-01-03T23:00, Europe/Kyiv.
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886915). Стан: `published_pending_homework_daily_limit`.
+[kahoot: тест](https://create.kahoot.it/details/7-024-do-your-chores-listening/b50fceab-d87e-4475-89c6-4cc9d71906a5). Стан: `homework_created`.
+[kahoot: домашнє завдання](https://kahoot.it/challenge/005880015).
 ## 1. 1 бал
 
 Обери значення слова sweep the floor.
