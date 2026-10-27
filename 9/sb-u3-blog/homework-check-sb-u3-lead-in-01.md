@@ -38,7 +38,7 @@
 
 ## 4. 2 бали
 
-New members ... every week.
+Обери правильну форму: New members ... every week.
 
 1. are welcomeing
 2. are welcomed
@@ -46,7 +46,7 @@ New members ... every week.
 
 ## 5. 2 бали
 
-The survey results ... already ... .
+Обери правильну форму: The survey results ... already ... .
 
 1. have / been published
 2. are / publishing
@@ -56,7 +56,7 @@ The survey results ... already ... .
 
 Прочитай текст. Dan wants to join a club where he can create videos and learn digital skills. Emma prefers a volunteer group that organises charity events. They discuss youth subcultures and learn that interests and values are more useful than stereotypes. A club gives people a chance to practise teamwork and build confidence. Everyone should be welcomed and heard.
 
-What can a club help people practise?
+Що може допомогти людям відпрацьовувати вміння у клубі?
 
 1. isolation
 2. teamwork
