@@ -121,6 +121,42 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "1311ea97-957a-4d48-994e-90aaa5efbf54",
+      "editor_url": "https://create.kahoot.it/creator/1311ea97-957a-4d48-994e-90aaa5efbf54",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "question_count": 8,
+      "content_slide_count": 1,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "assignment_id": "0161895b-87b2-4491-bd18-06651ae0fb39",
+      "code": "002030292",
+      "student_url": "https://kahoot.it/challenge/002030292",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/0161895b-87b2-4491-bd18-06651ae0fb39/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793065939550/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
+      "course_title": "7 клас",
+      "course_module": 1,
+      "adaptations": [
+        "Довгу умову питання 7 винесено на слайд, а коротке поле відповіді приймає два слова in on.",
+        "Шість простіших питань мають стандартні бали; два письмові питання — подвійні. Максимум 10 балів."
+      ],
+      "content_verified_after_reopen": true,
+      "created_at": "2026-10-27T01:58:38Z"
     }
   },
   "assessment": {
