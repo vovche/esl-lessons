@@ -129,6 +129,36 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "kahoot_id": "d2d5db4e-2d82-4f1e-b68a-e04c6af0b3cc",
+      "title": "7 клас · 029 · Chores: Speaking",
+      "editor_url": "https://create.kahoot.it/creator/d2d5db4e-2d82-4f1e-b68a-e04c6af0b3cc",
+      "test_url": "https://create.kahoot.it/details/7-029-chores-speaking/d2d5db4e-2d82-4f1e-b68a-e04c6af0b3cc",
+      "assignment_id": "77c395a1-2b09-4cf9-bbb5-d6006aa587f7",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/77c395a1-2b09-4cf9-bbb5-d6006aa587f7/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793074623880/summary",
+      "code": "0034731719",
+      "student_url": "https://kahoot.it/challenge/0034731719",
+      "no_deadline": true,
+      "deadline": null,
+      "question_count": 8,
+      "content_slide_count": 1,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "publication_status": "publication_pending"
     }
   },
   "assessment": {
