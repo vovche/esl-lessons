@@ -189,13 +189,22 @@
         2
       ],
       "assessment_lesson_path": "7/sb-u2-self-check/",
-      "publication_status": "publication_pending",
+      "publication_status": "publication_verified",
       "created_at": "2026-10-27T07:00:00+03:00",
       "adaptations": [
         {
           "reading": "source reading continued on two content slides; answer keys preserved"
         }
-      ]
+      ],
+      "commit_sha": "66b7c60e0472d07a5711475c912d39cb35b71155",
+      "pages_run_id": "40445743193",
+      "pages_run_url": "https://github.com/vovche/esl-lessons/actions/runs/40445743193",
+      "pages_conclusion": "success",
+      "live_page_url": "https://vovche.github.io/esl-lessons/7/sb-u2-self-check/",
+      "live_http_status": 200,
+      "live_student_href_count": 1,
+      "last_live_exact_href": "https://kahoot.it/challenge/0059021563",
+      "live_verified_at": "2026-10-27T07:48:00+03:00"
     }
   },
   "assessment": {
