@@ -1297,7 +1297,7 @@
           "test_id": "3887090",
           "title": "9 клас · We Are Young and Cool!: Слова й словосполучення",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -1315,7 +1315,23 @@
           "assessment_lesson_path": "9/sb-u3-reading/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "We Are Young and Cool!: Слова й словосполучення Молодіжна культура і спільноти: Слова й словосполучення",
-          "content_id": "9-sb-u3-vocabulary-homework-01"
+          "content_id": "9-sb-u3-vocabulary-homework-01",
+          "homework_id": "86413085",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86413085",
+          "student_url": "https://naurok.ua/test/join?gamecode=9319167",
+          "code": "9319167",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": true,
+            "show_ranking": true,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-28T01:37:27+02:00"
         }
       ]
     },
