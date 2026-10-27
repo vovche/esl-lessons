@@ -158,7 +158,14 @@
       ],
       "normalization_max": 10,
       "normalization_formula": "earned_points / maximum_possible_points * 10",
-      "publication_status": "publication_pending"
+      "publication_status": "publication_verified",
+      "commit_sha": "e83ce8390a734d5a2847d042861ec129e65ff682",
+      "pages_run_id": "40449216711",
+      "pages_run_url": "https://github.com/vovche/esl-lessons/actions/runs/40449216711",
+      "pages_conclusion": "success",
+      "live_page_url": "https://vovche.github.io/esl-lessons/7/sb-u2-writing/",
+      "live_http_status": 200,
+      "live_student_href_count": 1
     }
   },
   "assessment": {
