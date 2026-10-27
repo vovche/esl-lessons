@@ -129,6 +129,75 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "kahoot_id": "5ed69e77-af68-4c1f-ae72-df04493500fa",
+      "title": "7 клас · 024 · Do your chores",
+      "editor_url": "https://create.kahoot.it/creator/5ed69e77-af68-4c1f-ae72-df04493500fa",
+      "test_url": "https://create.kahoot.it/details/7-024-do-your-chores/5ed69e77-af68-4c1f-ae72-df04493500fa",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "question_count": 8,
+      "content_slide_count": 1,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "assignment_id": "f787037b-1926-4eed-815e-907f4bed4f4d",
+      "code": "004713919",
+      "student_url": "https://kahoot.it/challenge/004713919",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/f787037b-1926-4eed-815e-907f4bed4f4d/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793068319431/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": true,
+      "question_timers_seconds": [
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20,
+        20
+      ],
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
+      "course_title": "7 клас",
+      "course_module": 2,
+      "course_module_position": "after lesson 023",
+      "course_placement_verified": true,
+      "course_publication_status": "draft_pending_empty_modules",
+      "source_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "assessment_lesson_path": "7/sb-u2-grammar-2/",
+      "publication_status": "publication_pending",
+      "commit_sha": null,
+      "pages_run_id": null,
+      "live_page_url": null,
+      "created_at": "2026-10-27T02:31:59Z",
+      "adaptations": [
+        {
+          "reading": "source context moved to one content slide"
+        }
+      ]
     }
   },
   "assessment": {
