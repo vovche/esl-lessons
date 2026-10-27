@@ -165,7 +165,11 @@
       "course_module": 5,
       "course_placement_verified": true,
       "course_publication_status": "draft_pending_empty_modules",
-      "publication_status": "source_link_push_pending"
+      "publication_status": "publication_verified",
+      "source_link_commit_sha": "49523799458c47097487e9b9e5e54e9c7d7b51dd",
+      "pages_run_id": 40430571118,
+      "live_page_http_status": 200,
+      "live_href_count": 1
     }
   },
   "assessment": {
