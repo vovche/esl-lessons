@@ -129,6 +129,44 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "2a37a784-22ed-4e15-aea8-6d152ad31674",
+      "editor_url": "https://create.kahoot.it/creator/2a37a784-22ed-4e15-aea8-6d152ad31674",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "question_count": 8,
+      "content_slide_count": 2,
+      "question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "assignment_id": "6bb3c712-4136-4ae4-b457-95812c5d24c4",
+      "code": "004744960",
+      "student_url": "https://kahoot.it/challenge/004744960",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/6bb3c712-4136-4ae4-b457-95812c5d24c4/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793063554701/summary",
+      "no_deadline": true,
+      "deadline": null,
+      "question_timer": false,
+      "random_answer_order": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
+      "course_title": "7 клас",
+      "course_module": 5,
+      "course_placement_verified": true,
+      "course_publication_status": "draft_pending_empty_modules",
+      "publication_status": "publication_pending",
+      "assessment_lesson_path": "7/sb-u5-vocabulary/"
     }
   },
   "assessment": {
