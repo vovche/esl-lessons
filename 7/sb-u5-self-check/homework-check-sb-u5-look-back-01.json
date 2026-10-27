@@ -165,11 +165,18 @@
       "course_module": 5,
       "course_placement_verified": true,
       "course_publication_status": "draft_pending_empty_modules",
-      "publication_status": "publication_pending",
+      "publication_status": "publication_verified",
       "assessment_lesson_path": "7/sb-u5-self-check/",
       "deadline_verified": true,
       "question_keys_verified_after_reopen": true,
-      "content_slides_verified_after_reopen": true
+      "content_slides_verified_after_reopen": true,
+      "source_link_commit_sha": "c3913cc4744c9e56e5b950f96430f7d4b84af641",
+      "pages_run_id": 40433230624,
+      "pages_run_url": "https://github.com/vovche/esl-lessons/actions/runs/40433230624",
+      "live_page_http_status": 200,
+      "live_href_count": 1,
+      "live_page_path": "7/sb-u5-self-check/",
+      "live_verified_at": "2026-10-27T01:34:54Z"
     }
   },
   "assessment": {
