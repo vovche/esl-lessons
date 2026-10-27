@@ -168,9 +168,11 @@
       "scoring_ui_verified": true,
       "assignment_verified": true,
       "assessment_lesson_path": "7/sb-u3-self-check/",
-      "publication_status": "publication_pending",
+      "publication_status": "publication_verified",
       "created_at": "2026-10-27T14:13:00+02:00",
-      "verification_evidence": "Kahoot editor reopened with 8 quiz questions and 2 text slides; all correct keys preserved. Questions 1–6 standard, questions 7–8 double. Settings show Ukrainian, private, saved to personal content. Assignment report confirms no deadline, code 005030936 and 0 participants; learner link opened the assignment start screen without starting."
+      "verification_evidence": "Kahoot editor reopened with 8 quiz questions and 2 text slides; all correct keys preserved. Questions 1–6 standard, questions 7–8 double. Settings show Ukrainian, private, saved to personal content. Assignment report confirms no deadline, code 005030936 and 0 participants; learner link opened the assignment start screen without starting.",
+      "publication_verified_at": "2026-10-27T12:17:39Z",
+      "publication_evidence": "GitHub Pages workflow succeeded for commit db3f7a37adacde2147611d966d109ee037c3a2ac; live lesson page returned HTTP 200 and contained the exact Kahoot 005030936 and Naurok 5411508 student hrefs."
     }
   },
   "assessment": {
