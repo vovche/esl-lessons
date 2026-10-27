@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Traditions... Traditions...: Починаємо юніт Свята і традиції · Починаємо юніт",
+  "title": "045 · Traditions: Lead-in",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u4-lead-in/index.html",
@@ -50,7 +50,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Cards ___ sent to grandparents.",
+      "prompt": "Обери правильну форму дієслова: Cards ___ sent to grandparents.",
       "points": 1,
       "options": [
         "be",
@@ -62,7 +62,7 @@
     },
     {
       "type": "choice",
-      "prompt": "The holiday ___ celebrated in winter.",
+      "prompt": "Обери правильну форму дієслова: The holiday ___ celebrated in winter.",
       "points": 1,
       "options": [
         "are",
@@ -74,7 +74,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Special food is ___ at home.",
+      "prompt": "Обери правильну форму дієслова: Special food is ___ at home.",
       "points": 1,
       "options": [
         "prepared",
@@ -86,7 +86,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nThis unit is about customs and family celebrations. Before starting, I write down what I already know. I choose two useful words and one question I want to answer. At the end of the unit, I return to my question and check what I have learned.\n\nWhat do I write before starting?",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nThis unit is about customs and family celebrations. Before starting, I write down what I already know. I choose two useful words and one question I want to answer. At the end of the unit, I return to my question and check what I have learned.\n\nЩо я записую перед початком?",
       "points": 2,
       "options": [
         "a shopping receipt",
@@ -98,7 +98,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nThis unit is about customs and family celebrations. Before starting, I write down what I already know. I choose two useful words and one question I want to answer. At the end of the unit, I return to my question and check what I have learned.\n\nWhen do I return to my question?",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nThis unit is about customs and family celebrations. Before starting, I write down what I already know. I choose two useful words and one question I want to answer. At the end of the unit, I return to my question and check what I have learned.\n\nКоли я повертаюся до свого запитання?",
       "points": 2,
       "options": [
         "never",
@@ -129,11 +129,55 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "21c508a3-24ca-43cf-81d5-b75adc31ddd1",
+      "kahoot_id": "21c508a3-24ca-43cf-81d5-b75adc31ddd1",
+      "editor_url": "https://create.kahoot.it/creator/21c508a3-24ca-43cf-81d5-b75adc31ddd1",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "question_count": 10,
+      "quiz_question_count": 8,
+      "content_slide_count": 2,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "maximum_scoring_units": 10,
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "assignment_id": "3a686211-c8bd-4e62-b200-b444de9266ec",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/3a686211-c8bd-4e62-b200-b444de9266ec/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793108629410/summary",
+      "code": "00456682",
+      "student_url": "https://kahoot.it/challenge/00456682",
+      "deadline": null,
+      "no_deadline": true,
+      "assignment_verified": true,
+      "content_verified_after_reopen": true,
+      "scoring_ui_verified": true,
+      "assessment_lesson_path": "7/sb-u4-blog/",
+      "course_title": "7 клас",
+      "course_module": 4,
+      "course_membership_verified": true,
+      "course_status": "draft"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "language_audit": {
+    "learner_directions": "Ukrainian",
+    "updated_on": "2026-10-27",
+    "verified_on_naurok": true,
+    "verified_on_kahoot": true
   }
 }

@@ -41,7 +41,7 @@
 
 ## 4. 1 бал
 
-Cards ___ sent to grandparents.
+Обери правильну форму дієслова: Cards ___ sent to grandparents.
 
 1. be
 2. are
@@ -50,7 +50,7 @@ Cards ___ sent to grandparents.
 
 ## 5. 1 бал
 
-The holiday ___ celebrated in winter.
+Обери правильну форму дієслова: The holiday ___ celebrated in winter.
 
 1. are
 2. do
@@ -59,7 +59,7 @@ The holiday ___ celebrated in winter.
 
 ## 6. 1 бал
 
-Special food is ___ at home.
+Обери правильну форму дієслова: Special food is ___ at home.
 
 1. prepared
 2. prepare
@@ -72,7 +72,7 @@ Special food is ___ at home.
 
 This unit is about customs and family celebrations. Before starting, I write down what I already know. I choose two useful words and one question I want to answer. At the end of the unit, I return to my question and check what I have learned.
 
-What do I write before starting?
+Що я записую перед початком?
 
 1. a shopping receipt
 2. what I already know
@@ -85,7 +85,7 @@ What do I write before starting?
 
 This unit is about customs and family celebrations. Before starting, I write down what I already know. I choose two useful words and one question I want to answer. At the end of the unit, I return to my question and check what I have learned.
 
-When do I return to my question?
+Коли я повертаюся до свого запитання?
 
 1. never
 2. only before starting
