@@ -158,8 +158,17 @@
       ],
       "normalization_max": 10,
       "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
-      "publication_status": "publication_pending",
-      "assessment_lesson_path": "7/sb-u3-blog/"
+      "publication_status": "publication_verified",
+      "assessment_lesson_path": "7/sb-u3-blog/",
+      "commit_sha": "43df75c953b52b0faf684c4e7e745b67b7bf162e",
+      "pages_run_id": "40451025537",
+      "pages_run_url": "https://github.com/vovche/esl-lessons/actions/runs/40451025537",
+      "pages_conclusion": "success",
+      "live_page_url": "https://vovche.github.io/esl-lessons/7/sb-u3-blog/",
+      "live_http_status": 200,
+      "live_student_href_count": 1,
+      "last_live_exact_href": "https://kahoot.it/challenge/009294852",
+      "live_verified_at": "2026-10-27T07:42:00+03:00"
     }
   },
   "assessment": {
