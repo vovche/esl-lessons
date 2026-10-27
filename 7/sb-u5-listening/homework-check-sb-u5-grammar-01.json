@@ -164,7 +164,11 @@
       "course_module": 5,
       "course_placement_verified": true,
       "course_publication_status": "draft_pending_empty_modules",
-      "publication_status": "publication_pending_source_link_push"
+      "publication_status": "publication_verified",
+      "commit_sha": "48ec386e0dda4019d8aa48844d3765b8174020e8",
+      "pages_run_id": "40424232201",
+      "pages_run_url": "https://github.com/vovche/esl-lessons/actions/runs/40424232201",
+      "live_href_verified": true
     }
   },
   "assessment": {
