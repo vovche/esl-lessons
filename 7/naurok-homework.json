@@ -1257,7 +1257,7 @@
           "test_url": "https://naurok.com.ua/test-beta/test/3886991",
           "title": "7 клас · Are you ready to cook?: Повторення Приготування їжі · Повторення",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -1276,7 +1276,11 @@
           "assessment_lesson_path": "7/sb-u3-self-check/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Are you ready to cook?: Повторення Приготування їжі · Повторення",
-          "content_id": "7-sb-u3-look-back-homework-01"
+          "content_id": "7-sb-u3-look-back-homework-01",
+          "homework_id": "86401127",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401127",
+          "code": "5411508",
+          "student_url": "https://naurok.ua/test/join?gamecode=5411508"
         }
       ]
     },

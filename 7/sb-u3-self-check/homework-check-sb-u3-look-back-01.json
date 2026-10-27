@@ -50,7 +50,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Eva ___ washed the tomatoes.",
+      "prompt": "Обери правильну форму: Eva ___ washed the tomatoes.",
       "points": 1,
       "options": [
         "is",
@@ -62,7 +62,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Have you ___ the vegetables?",
+      "prompt": "Обери правильну форму: Have you ___ the vegetables?",
       "points": 1,
       "options": [
         "chop",
@@ -74,7 +74,7 @@
     },
     {
       "type": "choice",
-      "prompt": "What ___ you prepared?",
+      "prompt": "Обери правильну форму: What ___ you prepared?",
       "points": 1,
       "options": [
         "have",
@@ -86,7 +86,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nI can now talk about cooking, recipes and experience. I test myself without looking at the examples first. Then I compare my answers with the models and correct mistakes. I choose one speaking task and one written task to show what I can do. My next step is to practise the skill that still feels difficult.\n\nWhat do I do before checking the models?",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nI can now talk about cooking, recipes and experience. I test myself without looking at the examples first. Then I compare my answers with the models and correct mistakes. I choose one speaking task and one written task to show what I can do. My next step is to practise the skill that still feels difficult.\n\nЩо я роблю перед тим, як звірити відповіді з прикладами?",
       "points": 2,
       "options": [
         "skip all tasks",
@@ -98,7 +98,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nI can now talk about cooking, recipes and experience. I test myself without looking at the examples first. Then I compare my answers with the models and correct mistakes. I choose one speaking task and one written task to show what I can do. My next step is to practise the skill that still feels difficult.\n\nWhat do I practise next?",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nI can now talk about cooking, recipes and experience. I test myself without looking at the examples first. Then I compare my answers with the models and correct mistakes. I choose one speaking task and one written task to show what I can do. My next step is to practise the skill that still feels difficult.\n\nЩо я практикую далі?",
       "points": 2,
       "options": [
         "only my favourite word",
@@ -114,8 +114,12 @@
     "naurok": {
       "test_id": "3886991",
       "test_url": "https://naurok.com.ua/test-beta/test/3886991",
-      "status": "published_pending_homework_daily_limit",
+      "status": "homework_created",
       "verified": true,
+      "homework_id": "86401127",
+      "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401127",
+      "student_url": "https://naurok.ua/test/join?gamecode=5411508",
+      "code": "5411508",
       "deadline": "2027-01-03T23:00",
       "semester": 1,
       "points": 10,
@@ -129,6 +133,44 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "8498955d-7012-41fa-8a0d-979467be22d9",
+      "editor_url": "https://create.kahoot.it/creator/8498955d-7012-41fa-8a0d-979467be22d9",
+      "test_url": "https://create.kahoot.it/details/7-044-cooking-review/8498955d-7012-41fa-8a0d-979467be22d9",
+      "title": "7 клас · 044 · Cooking: Review",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 10,
+      "quiz_question_count": 8,
+      "content_slide_count": 2,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "assignment_id": "c82ce228-618b-4016-9493-b5043b5e2ec9",
+      "code": "005030936",
+      "student_url": "https://kahoot.it/challenge/005030936",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/c82ce228-618b-4016-9493-b5043b5e2ec9/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793103035353/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "scoring_ui_verified": true,
+      "assignment_verified": true,
+      "assessment_lesson_path": "7/sb-u3-self-check/",
+      "publication_status": "publication_pending",
+      "created_at": "2026-10-27T14:13:00+02:00",
+      "verification_evidence": "Kahoot editor reopened with 8 quiz questions and 2 text slides; all correct keys preserved. Questions 1–6 standard, questions 7–8 double. Settings show Ukrainian, private, saved to personal content. Assignment report confirms no deadline, code 005030936 and 0 participants; learner link opened the assignment start screen without starting."
     }
   },
   "assessment": {

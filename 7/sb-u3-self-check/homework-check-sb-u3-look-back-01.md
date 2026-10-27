@@ -41,7 +41,7 @@
 
 ## 4. 1 бал
 
-Eva ___ washed the tomatoes.
+Обери правильну форму: Eva ___ washed the tomatoes.
 
 1. is
 2. has
@@ -50,7 +50,7 @@ Eva ___ washed the tomatoes.
 
 ## 5. 1 бал
 
-Have you ___ the vegetables?
+Обери правильну форму: Have you ___ the vegetables?
 
 1. chop
 2. chopping
@@ -59,7 +59,7 @@ Have you ___ the vegetables?
 
 ## 6. 1 бал
 
-What ___ you prepared?
+Обери правильну форму: What ___ you prepared?
 
 1. have
 2. did have
@@ -72,7 +72,7 @@ What ___ you prepared?
 
 I can now talk about cooking, recipes and experience. I test myself without looking at the examples first. Then I compare my answers with the models and correct mistakes. I choose one speaking task and one written task to show what I can do. My next step is to practise the skill that still feels difficult.
 
-What do I do before checking the models?
+Що я роблю перед тим, як звірити відповіді з прикладами?
 
 1. skip all tasks
 2. test myself
@@ -85,7 +85,7 @@ What do I do before checking the models?
 
 I can now talk about cooking, recipes and experience. I test myself without looking at the examples first. Then I compare my answers with the models and correct mistakes. I choose one speaking task and one written task to show what I can do. My next step is to practise the skill that still feels difficult.
 
-What do I practise next?
+Що я практикую далі?
 
 1. only my favourite word
 2. nothing
