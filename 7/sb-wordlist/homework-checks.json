@@ -34,9 +34,10 @@
       "markdown": "homework-check-sb-wordlist-03.md",
       "answer_key": "homework-check-sb-wordlist-03-key.md",
       "test_url": "https://naurok.com.ua/test-beta/test/3887134",
-      "status": "published_pending_homework_daily_limit",
+      "status": "homework_created",
       "pdf": "homework-check-sb-wordlist-03.pdf",
-      "answer_key_pdf": "homework-check-sb-wordlist-03-key.pdf"
+      "answer_key_pdf": "homework-check-sb-wordlist-03-key.pdf",
+      "student_url": "https://naurok.ua/test/join?gamecode=8134982"
     },
     {
       "id": "7-sb-wordlist-homework-04",

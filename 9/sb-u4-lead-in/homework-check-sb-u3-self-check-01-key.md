@@ -13,7 +13,8 @@
 
 Дедлайн: 2027-01-03T23:00, Europe/Kyiv.
 
-[naurok: тест](https://naurok.com.ua/test/9-klas-we-are-young-and-cool-samoocinyuvannya-3887081.html). Стан: `published_pending_homework_daily_limit`.
+[naurok: тест](https://naurok.com.ua/test/9-klas-we-are-young-and-cool-samoocinyuvannya-3887081.html). Стан: `homework_created`.
+[naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=6268467).
 ## 1. 1 бал
 
 Обери значення слова subculture.

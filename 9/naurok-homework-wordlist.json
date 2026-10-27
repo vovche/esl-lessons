@@ -83,7 +83,7 @@
           "semester": 1,
           "deadline": "2027-01-03T23:00",
           "plan_index": 2,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "question_count": 8,
           "verified": true,
           "content_verified": true,
@@ -93,7 +93,11 @@
           "placement_rule": "no_next_lesson",
           "source_lesson_title": "Лексика курсу",
           "plan_path": "9/sb-wordlist/homework-check-sb-wordlist-03.json",
-          "content_id": "9-sb-wordlist-homework-03"
+          "content_id": "9-sb-wordlist-homework-03",
+          "homework_id": "86400681",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86400681",
+          "student_url": "https://naurok.ua/test/join?gamecode=6701499",
+          "code": "6701499"
         },
         {
           "test_id": "3887162",

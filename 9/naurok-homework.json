@@ -1000,7 +1000,7 @@
           "test_id": "3887041",
           "title": "9 клас · We Are Young and Cool!: Блог і думки однолітків",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "question_points": [
             1,
             1,
@@ -1018,7 +1018,11 @@
           "assessment_lesson_path": "9/sb-u3-vocabulary/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "We Are Young and Cool!: Блог і думки однолітків Молодіжна культура і спільноти: Блог і думки однолітків",
-          "content_id": "9-sb-u3-blog-homework-01"
+          "content_id": "9-sb-u3-blog-homework-01",
+          "homework_id": "86401206",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401206",
+          "student_url": "https://naurok.ua/test/join?gamecode=4671587",
+          "code": "4671587"
         }
       ]
     },
@@ -1029,7 +1033,7 @@
           "test_id": "3887048",
           "title": "9 клас · We Are Young and Cool!: Граматика",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -1047,7 +1051,11 @@
           "assessment_lesson_path": "9/sb-u3-listening/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "We Are Young and Cool!: Граматика Молодіжна культура і спільноти: Граматика",
-          "content_id": "9-sb-u3-grammar-homework-01"
+          "content_id": "9-sb-u3-grammar-homework-01",
+          "homework_id": "86401209",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401209",
+          "student_url": "https://naurok.ua/test/join?gamecode=5689922",
+          "code": "5689922"
         }
       ]
     },
@@ -1058,7 +1066,7 @@
           "test_id": "3887054",
           "title": "9 клас · We Are Young and Cool!: Граматика в контексті",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -1076,7 +1084,11 @@
           "assessment_lesson_path": "9/sb-u3-speaking/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "We Are Young and Cool!: Граматика в контексті Молодіжна культура і спільноти: Граматика в контексті",
-          "content_id": "9-sb-u3-grammar-2-homework-01"
+          "content_id": "9-sb-u3-grammar-2-homework-01",
+          "homework_id": "86401214",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401214",
+          "student_url": "https://naurok.ua/test/join?gamecode=8823721",
+          "code": "8823721"
         }
       ]
     },
@@ -1120,7 +1132,7 @@
           "test_id": "3887064",
           "title": "9 клас · We Are Young and Cool!: Слухання",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -1138,7 +1150,11 @@
           "assessment_lesson_path": "9/sb-u3-vocabulary-2/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "We Are Young and Cool!: Слухання Молодіжна культура і спільноти: Слухання",
-          "content_id": "9-sb-u3-listening-homework-01"
+          "content_id": "9-sb-u3-listening-homework-01",
+          "homework_id": "86401229",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401229",
+          "student_url": "https://naurok.ua/test/join?gamecode=5414566",
+          "code": "5414566"
         }
       ]
     },
@@ -1149,7 +1165,7 @@
           "test_id": "3887068",
           "title": "9 клас · We Are Young and Cool!: Повторення",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -1167,7 +1183,11 @@
           "assessment_lesson_path": "9/sb-u3-self-check/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "We Are Young and Cool!: Повторення Молодіжна культура і спільноти: Повторення",
-          "content_id": "9-sb-u3-look-back-homework-01"
+          "content_id": "9-sb-u3-look-back-homework-01",
+          "homework_id": "86401238",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401238",
+          "student_url": "https://naurok.ua/test/join?gamecode=3720659",
+          "code": "3720659"
         }
       ]
     },
@@ -1178,7 +1198,7 @@
           "test_id": "3887074",
           "title": "9 клас · We Are Young and Cool!: Читання",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -1196,7 +1216,11 @@
           "assessment_lesson_path": "9/sb-u3-grammar/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "We Are Young and Cool!: Читання Молодіжна культура і спільноти: Читання",
-          "content_id": "9-sb-u3-reading-homework-01"
+          "content_id": "9-sb-u3-reading-homework-01",
+          "homework_id": "86401245",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401245",
+          "student_url": "https://naurok.ua/test/join?gamecode=1181986",
+          "code": "1181986"
         }
       ]
     },
@@ -1207,7 +1231,7 @@
           "test_id": "3887081",
           "title": "9 клас · We Are Young and Cool!: Самооцінювання",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -1225,7 +1249,11 @@
           "assessment_lesson_path": "9/sb-u4-lead-in/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "We Are Young and Cool!: Самооцінювання Молодіжна культура і спільноти: Самооцінювання",
-          "content_id": "9-sb-u3-self-check-homework-01"
+          "content_id": "9-sb-u3-self-check-homework-01",
+          "homework_id": "86401253",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401253",
+          "student_url": "https://naurok.ua/test/join?gamecode=6268467",
+          "code": "6268467"
         }
       ]
     },
@@ -1236,7 +1264,7 @@
           "test_id": "3887085",
           "title": "9 клас · We Are Young and Cool!: Говоріння",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -1254,7 +1282,11 @@
           "assessment_lesson_path": "9/sb-u3-writing/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "We Are Young and Cool!: Говоріння Молодіжна культура і спільноти: Говоріння",
-          "content_id": "9-sb-u3-speaking-homework-01"
+          "content_id": "9-sb-u3-speaking-homework-01",
+          "homework_id": "86401263",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401263",
+          "student_url": "https://naurok.ua/test/join?gamecode=8624618",
+          "code": "8624618"
         }
       ]
     },

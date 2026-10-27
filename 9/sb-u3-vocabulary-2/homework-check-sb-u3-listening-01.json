@@ -84,8 +84,12 @@
     "naurok": {
       "test_id": "3887064",
       "test_url": "https://naurok.com.ua/test/9-klas-we-are-young-and-cool-sluhannya-3887064.html",
-      "status": "published_pending_homework_daily_limit",
+      "status": "homework_created",
       "verified": true,
+      "homework_id": "86401229",
+      "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401229",
+      "student_url": "https://naurok.ua/test/join?gamecode=5414566",
+      "code": "5414566",
       "deadline": "2027-01-03T23:00",
       "semester": 1,
       "points": 10,

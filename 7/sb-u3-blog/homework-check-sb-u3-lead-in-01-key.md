@@ -13,7 +13,8 @@
 
 Дедлайн: 2027-01-03T23:00, Europe/Kyiv.
 
-[naurok: тест](https://naurok.com.ua/test-beta/test/3886983). Стан: `published_pending_homework_daily_limit`.
+[naurok: тест](https://naurok.com.ua/test-beta/test/3886983). Стан: `homework_created`.
+[naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=7149995).
 [kahoot: тест](https://create.kahoot.it/details/7-033a-are-you-ready-to-cook/e6221274-a676-4a84-a05e-bae19d12fb59). Стан: `homework_created`.
 [kahoot: домашнє завдання](https://kahoot.it/challenge/009294852).
 ## 1. 1 бал

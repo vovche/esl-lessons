@@ -13,7 +13,8 @@
 
 Дедлайн: 2027-01-03T23:00, Europe/Kyiv.
 
-[naurok: тест](https://naurok.com.ua/test-beta/test/3887015). Стан: `published_pending_homework_daily_limit`.
+[naurok: тест](https://naurok.com.ua/test-beta/test/3887015). Стан: `homework_created`.
+[naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=2973881).
 [kahoot: тест](https://create.kahoot.it/details/7-037-food-art-vocabulary/9fae5b0c-4afb-46c1-9a29-350edace62fd). Стан: `homework_created`.
 [kahoot: домашнє завдання](https://kahoot.it/challenge/007650126).
 ## 1. 1 бал

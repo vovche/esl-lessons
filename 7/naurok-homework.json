@@ -1102,7 +1102,7 @@
           "test_url": "https://naurok.com.ua/test-beta/test/3886966",
           "title": "7 клас · Are you ready to cook?: Блог і обговорення Приготування їжі · Блог і обговорення",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -1121,7 +1121,11 @@
           "assessment_lesson_path": "7/sb-u3-vocabulary/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Are you ready to cook?: Блог і обговорення Приготування їжі · Блог і обговорення",
-          "content_id": "7-sb-u3-blog-homework-01"
+          "content_id": "7-sb-u3-blog-homework-01",
+          "homework_id": "86400940",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86400940",
+          "student_url": "https://naurok.ua/test/join?gamecode=3719548",
+          "code": "3719548"
         }
       ]
     },
@@ -1133,7 +1137,7 @@
           "test_url": "https://naurok.com.ua/test-beta/test/3886973",
           "title": "7 клас · Are you ready to cook?: Граматика Приготування їжі · Граматика",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -1152,7 +1156,11 @@
           "assessment_lesson_path": "7/sb-u3-listening/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Are you ready to cook?: Граматика Приготування їжі · Граматика",
-          "content_id": "7-sb-u3-grammar-homework-01"
+          "content_id": "7-sb-u3-grammar-homework-01",
+          "homework_id": "86401025",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401025",
+          "student_url": "https://naurok.ua/test/join?gamecode=7295743",
+          "code": "7295743"
         }
       ]
     },
@@ -1199,7 +1207,7 @@
           "test_url": "https://naurok.com.ua/test-beta/test/3886983",
           "title": "7 клас · Are you ready to cook?: Починаємо юніт Приготування їжі · Починаємо юніт",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -1218,7 +1226,11 @@
           "assessment_lesson_path": "7/sb-u3-blog/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Are you ready to cook?: Починаємо юніт Приготування їжі · Починаємо юніт",
-          "content_id": "7-sb-u3-lead-in-homework-01"
+          "content_id": "7-sb-u3-lead-in-homework-01",
+          "homework_id": "86401061",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401061",
+          "student_url": "https://naurok.ua/test/join?gamecode=7149995",
+          "code": "7149995"
         }
       ]
     },
@@ -1300,7 +1312,7 @@
           "test_url": "https://naurok.com.ua/test-beta/test/3886996",
           "title": "7 клас · Are you ready to cook?: Читання Приготування їжі · Читання",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -1319,7 +1331,11 @@
           "assessment_lesson_path": "7/sb-u3-grammar/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Are you ready to cook?: Читання Приготування їжі · Читання",
-          "content_id": "7-sb-u3-reading-homework-01"
+          "content_id": "7-sb-u3-reading-homework-01",
+          "homework_id": "86401139",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401139",
+          "student_url": "https://naurok.ua/test/join?gamecode=9748654",
+          "code": "9748654"
         }
       ]
     },
@@ -1331,7 +1347,7 @@
           "test_url": "https://naurok.com.ua/test-beta/test/3887001",
           "title": "7 клас · Are you ready to cook?: Самоперевірка Приготування їжі · Самоперевірка",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -1350,7 +1366,11 @@
           "assessment_lesson_path": "7/sb-u4-lead-in/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Are you ready to cook?: Самоперевірка Приготування їжі · Самоперевірка",
-          "content_id": "7-sb-u3-self-check-homework-01"
+          "content_id": "7-sb-u3-self-check-homework-01",
+          "homework_id": "86401180",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401180",
+          "student_url": "https://naurok.ua/test/join?gamecode=2364227",
+          "code": "2364227"
         }
       ]
     },
@@ -1397,7 +1417,7 @@
           "test_url": "https://naurok.com.ua/test-beta/test/3887010",
           "title": "7 клас · Are you ready to cook?: Лексика Приготування їжі · Лексика",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -1416,7 +1436,11 @@
           "assessment_lesson_path": "7/sb-u3-reading/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Are you ready to cook?: Лексика Приготування їжі · Лексика",
-          "content_id": "7-sb-u3-vocabulary-homework-01"
+          "content_id": "7-sb-u3-vocabulary-homework-01",
+          "homework_id": "86401193",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401193",
+          "student_url": "https://naurok.ua/test/join?gamecode=1071281",
+          "code": "1071281"
         }
       ]
     },
@@ -1428,7 +1452,7 @@
           "test_url": "https://naurok.com.ua/test-beta/test/3887015",
           "title": "7 клас · Are you ready to cook?: Лексика: застосування Приготування їжі · Лексика: застосування",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -1447,7 +1471,11 @@
           "assessment_lesson_path": "7/sb-u3-grammar-2/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Are you ready to cook?: Лексика: застосування Приготування їжі · Лексика: застосування",
-          "content_id": "7-sb-u3-vocabulary-2-homework-01"
+          "content_id": "7-sb-u3-vocabulary-2-homework-01",
+          "homework_id": "86401194",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401194",
+          "student_url": "https://naurok.ua/test/join?gamecode=2973881",
+          "code": "2973881"
         }
       ]
     },
@@ -1459,7 +1487,7 @@
           "test_url": "https://naurok.com.ua/test-beta/test/3887020",
           "title": "7 клас · Are you ready to cook?: Письмо Приготування їжі · Письмо",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -1478,7 +1506,11 @@
           "assessment_lesson_path": "7/sb-u3-look-back/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Are you ready to cook?: Письмо Приготування їжі · Письмо",
-          "content_id": "7-sb-u3-writing-homework-01"
+          "content_id": "7-sb-u3-writing-homework-01",
+          "homework_id": "86401201",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401201",
+          "student_url": "https://naurok.ua/test/join?gamecode=6549452",
+          "code": "6549452"
         }
       ]
     },
@@ -2007,7 +2039,7 @@
           "test_url": "https://naurok.com.ua/test-beta/test/3887134",
           "title": "7 клас · Лексика курсу — Unit 3",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -2026,7 +2058,11 @@
           "assessment_lesson_path": "7/sb-wordlist/index.html",
           "placement_rule": "no_next_lesson",
           "source_lesson_title": "Лексика курсу",
-          "content_id": "7-sb-wordlist-homework-03"
+          "content_id": "7-sb-wordlist-homework-03",
+          "homework_id": "86400668",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86400668",
+          "student_url": "https://naurok.ua/test/join?gamecode=8134982",
+          "code": "8134982"
         },
         {
           "test_id": "3887138",
