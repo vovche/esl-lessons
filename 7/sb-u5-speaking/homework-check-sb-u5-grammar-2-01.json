@@ -165,7 +165,13 @@
       "course_module": 5,
       "course_placement_verified": true,
       "course_publication_status": "draft_pending_empty_modules",
-      "publication_status": "source_link_push_pending"
+      "publication_status": "publication_verified",
+      "source_link_commit_sha": "fa8abcc8ca3220dd727915e76455bebd44c01ad9",
+      "pages_run_id": 40428567476,
+      "pages_run_url": "https://github.com/vovche/esl-lessons/actions/runs/40428567476",
+      "live_page_http_status": 200,
+      "live_href_verified": "https://kahoot.it/challenge/003067598",
+      "live_href_count": 1
     }
   },
   "assessment": {
