@@ -13,7 +13,9 @@
 
 Дедлайн: 2027-01-03T23:00, Europe/Kyiv.
 
-[naurok: тест](https://naurok.com.ua/test-beta/test/3886978). Стан: `published_pending_homework_daily_limit`.
+[naurok: тест](https://naurok.com.ua/test-beta/test/3886978). Стан: `homework_created`.
+[naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=9084558).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/0076661255).
 ## 1. 1 бал
 
 Обери значення слова chopping board.
@@ -49,7 +51,7 @@
 
 ## 4. 1 бал
 
-What ___ you prepared?
+Обери правильну форму дієслова: What ___ you prepared?
 
 1. has
 2. have
@@ -60,7 +62,7 @@ What ___ you prepared?
 
 ## 5. 1 бал
 
-How many dishes ___ she prepared?
+Обери правильну форму дієслова: How many dishes ___ she prepared?
 
 1. have
 2. did has
@@ -71,7 +73,7 @@ How many dishes ___ she prepared?
 
 ## 6. 1 бал
 
-Where ___ they put the ingredients?
+Обери правильну форму дієслова: Where ___ they put the ingredients?
 
 1. have
 2. has

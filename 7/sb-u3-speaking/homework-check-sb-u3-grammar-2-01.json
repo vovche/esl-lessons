@@ -50,7 +50,7 @@
     },
     {
       "type": "choice",
-      "prompt": "What ___ you prepared?",
+      "prompt": "Обери правильну форму дієслова: What ___ you prepared?",
       "points": 1,
       "options": [
         "has",
@@ -62,7 +62,7 @@
     },
     {
       "type": "choice",
-      "prompt": "How many dishes ___ she prepared?",
+      "prompt": "Обери правильну форму дієслова: How many dishes ___ she prepared?",
       "points": 1,
       "options": [
         "have",
@@ -74,7 +74,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Where ___ they put the ingredients?",
+      "prompt": "Обери правильну форму дієслова: Where ___ they put the ingredients?",
       "points": 1,
       "options": [
         "have",
@@ -114,8 +114,12 @@
     "naurok": {
       "test_id": "3886978",
       "test_url": "https://naurok.com.ua/test-beta/test/3886978",
-      "status": "published_pending_homework_daily_limit",
+      "status": "homework_created",
       "verified": true,
+      "homework_id": "86401054",
+      "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401054",
+      "student_url": "https://naurok.ua/test/join?gamecode=9084558",
+      "code": "9084558",
       "deadline": "2027-01-03T23:00",
       "semester": 1,
       "points": 10,
@@ -129,6 +133,50 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "0ed72eb4-ee60-4c66-84d8-978619235285",
+      "kahoot_id": "0ed72eb4-ee60-4c66-84d8-978619235285",
+      "editor_url": "https://create.kahoot.it/creator/0ed72eb4-ee60-4c66-84d8-978619235285",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 10,
+      "quiz_question_count": 8,
+      "content_slide_count": 2,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "source_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "maximum_scoring_units": 10,
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "assignment_id": "f580c556-448b-4c5e-932a-fadcf6e55c6d",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/f580c556-448b-4c5e-932a-fadcf6e55c6d/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793103944981/summary",
+      "code": "0076661255",
+      "student_url": "https://kahoot.it/challenge/0076661255",
+      "deadline": null,
+      "no_deadline": true,
+      "scoring_ui_verified": true,
+      "content_verified_after_reopen": true,
+      "assignment_verified": true,
+      "assessment_lesson_path": "7/sb-u3-speaking/"
     }
   },
   "assessment": {

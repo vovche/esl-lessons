@@ -1164,7 +1164,7 @@
           "test_url": "https://naurok.com.ua/test-beta/test/3886978",
           "title": "7 клас · Are you ready to cook?: Граматика: застосування Приготування їжі · Граматика: застосування",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -1183,7 +1183,11 @@
           "assessment_lesson_path": "7/sb-u3-speaking/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Are you ready to cook?: Граматика: застосування Приготування їжі · Граматика: застосування",
-          "content_id": "7-sb-u3-grammar-2-homework-01"
+          "content_id": "7-sb-u3-grammar-2-homework-01",
+          "homework_id": "86401054",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401054",
+          "code": "9084558",
+          "student_url": "https://naurok.ua/test/join?gamecode=9084558"
         }
       ]
     },
