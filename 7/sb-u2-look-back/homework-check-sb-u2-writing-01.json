@@ -188,16 +188,20 @@
         2
       ],
       "assessment_lesson_path": "7/sb-u2-look-back/",
-      "publication_status": "publication_pending",
-      "commit_sha": null,
-      "pages_run_id": null,
-      "live_page_url": null,
+      "publication_status": "publication_verified",
+      "commit_sha": "676a564bb61d36f03f2ddb7037324b77a7879fb9",
+      "pages_run_id": "40444239274",
+      "live_page_url": "https://vovche.github.io/esl-lessons/7/sb-u2-look-back/",
       "created_at": "2026-10-27T05:21:00Z",
       "adaptations": [
         {
           "reading": "source reading continued on a second content slide"
         }
-      ]
+      ],
+      "pages_run_url": "https://github.com/vovche/esl-lessons/actions/runs/40444239274",
+      "pages_conclusion": "success",
+      "live_http_status": 200,
+      "live_student_href_count": 1
     }
   },
   "assessment": {
