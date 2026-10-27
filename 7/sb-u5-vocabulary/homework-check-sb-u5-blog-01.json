@@ -165,8 +165,12 @@
       "course_module": 5,
       "course_placement_verified": true,
       "course_publication_status": "draft_pending_empty_modules",
-      "publication_status": "publication_pending",
-      "assessment_lesson_path": "7/sb-u5-vocabulary/"
+      "publication_status": "publication_verified",
+      "assessment_lesson_path": "7/sb-u5-vocabulary/",
+      "source_link_commit_sha": "c69697f4bc1a672560ef3e8b85d3d995feca68d0",
+      "pages_run_id": 40431735776,
+      "live_page_http_status": 200,
+      "live_href_count": 1
     }
   },
   "assessment": {
