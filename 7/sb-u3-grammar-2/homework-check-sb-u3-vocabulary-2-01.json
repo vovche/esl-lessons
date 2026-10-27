@@ -160,9 +160,18 @@
       "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
       "scoring_ui_verified": true,
       "assignment_verified": true,
-      "publication_status": "publication_pending",
+      "publication_status": "publication_verified",
       "assessment_lesson_path": "7/sb-u3-grammar-2/",
-      "created_at": "2026-10-27T07:00:57+02:00"
+      "created_at": "2026-10-27T07:00:57+02:00",
+      "commit_sha": "8a06866e4de4d335b71834e822269747cbf1e092",
+      "pages_run_id": "40453020718",
+      "pages_run_url": "https://github.com/vovche/esl-lessons/actions/runs/40453020718",
+      "pages_conclusion": "success",
+      "live_page_url": "https://vovche.github.io/esl-lessons/7/sb-u3-grammar-2/",
+      "live_http_status": 200,
+      "live_student_href_count": 1,
+      "last_live_exact_href": "https://kahoot.it/challenge/007650126",
+      "live_verified_at": "2026-10-27T07:03:56+02:00"
     }
   },
   "assessment": {
