@@ -13,7 +13,9 @@
 
 Дедлайн: 2027-01-03T23:00, Europe/Kyiv.
 
-[naurok: тест](https://naurok.com.ua/test-beta/test/3887004). Стан: `published_pending_homework_daily_limit`.
+[naurok: тест](https://naurok.com.ua/test-beta/test/3887004). Стан: `homework_created`.
+[naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=7032864).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/007937878).
 ## 1. 1 бал
 
 Обери значення слова chopping board.
@@ -49,7 +51,7 @@
 
 ## 4. 1 бал
 
-Eva ___ washed the tomatoes.
+Обери правильну форму дієслова: Eva ___ washed the tomatoes.
 
 1. has
 2. have
@@ -60,7 +62,7 @@ Eva ___ washed the tomatoes.
 
 ## 5. 1 бал
 
-Have you ___ the vegetables?
+Обери правильну форму дієслова: Have you ___ the vegetables?
 
 1. chopping
 2. chopped
@@ -71,7 +73,7 @@ Have you ___ the vegetables?
 
 ## 6. 1 бал
 
-What ___ you prepared?
+Обери правильну форму дієслова: What ___ you prepared?
 
 1. did have
 2. has

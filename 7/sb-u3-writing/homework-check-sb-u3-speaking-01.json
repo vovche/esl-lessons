@@ -50,7 +50,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Eva ___ washed the tomatoes.",
+      "prompt": "Обери правильну форму дієслова: Eva ___ washed the tomatoes.",
       "points": 1,
       "options": [
         "has",
@@ -62,7 +62,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Have you ___ the vegetables?",
+      "prompt": "Обери правильну форму дієслова: Have you ___ the vegetables?",
       "points": 1,
       "options": [
         "chopping",
@@ -74,7 +74,7 @@
     },
     {
       "type": "choice",
-      "prompt": "What ___ you prepared?",
+      "prompt": "Обери правильну форму дієслова: What ___ you prepared?",
       "points": 1,
       "options": [
         "did have",
@@ -114,8 +114,12 @@
     "naurok": {
       "test_id": "3887004",
       "test_url": "https://naurok.com.ua/test-beta/test/3887004",
-      "status": "published_pending_homework_daily_limit",
+      "status": "homework_created",
       "verified": true,
+      "homework_id": "86401189",
+      "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401189",
+      "student_url": "https://naurok.ua/test/join?gamecode=7032864",
+      "code": "7032864",
       "deadline": "2027-01-03T23:00",
       "semester": 1,
       "points": 10,
@@ -128,6 +132,44 @@
         1,
         2,
         2
+      ]
+    },
+    "kahoot": {
+      "id": "64afa62e-d487-413b-9270-f83d01772742",
+      "editor_url": "https://create.kahoot.it/creator/64afa62e-d487-413b-9270-f83d01772742",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "question_count": 10,
+      "quiz_question_count": 8,
+      "content_slide_count": 2,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "assignment_id": "f62bc1de-b7a0-47a3-a392-f31cc292f621",
+      "code": "007937878",
+      "student_url": "https://kahoot.it/challenge/007937878",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/f62bc1de-b7a0-47a3-a392-f31cc292f621/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793107214373/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
+      "course_title": "7 клас",
+      "course_module_number": 3,
+      "course_membership_verified": true,
+      "adaptations": [
+        "Instruction text translated into Ukrainian; English learning examples retained."
       ]
     }
   },
