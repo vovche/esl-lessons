@@ -58,7 +58,7 @@ There ___ two books on the desk.
 
 Прочитай текст: A student is introducing their family. They have got one sister and two cousins. Their favourite season is summer. In the room there is a desk next to a window. Two books are on the desk. The student can use a dictionary and likes learning new words with example sentences.
 
-Which season does the student like best?
+Яка пора року подобається учневі найбільше?
 
 1. Winter.
 2. Autumn.
@@ -68,7 +68,7 @@ Which season does the student like best?
 
 Прочитай текст: A student is introducing their family. They have got one sister and two cousins. Their favourite season is summer. In the room there is a desk next to a window. Two books are on the desk. The student can use a dictionary and likes learning new words with example sentences.
 
-Where are the books?
+Де лежать книжки?
 
 1. In a suitcase.
 2. On the desk.

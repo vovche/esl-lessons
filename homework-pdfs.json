@@ -981,16 +981,16 @@
     {
       "id": "6-sb-hello-homework-01",
       "source": "6/sb-1a/homework-check-sb-hello-01.json",
-      "input_sha256": "3c96c58e41555091a4109cadab137322a836a5fdcb3b8923c4da97582e62df30",
+      "input_sha256": "b9c70874e24f554ac8eb3f57a2ab09293b4eb1b3269d8ab2cdea3716351798c9",
       "student": {
         "path": "6/sb-1a/homework-check-sb-hello-01.pdf",
         "pages": 2,
-        "sha256": "ea05bc50c069fde4151dc8d8b7041d50de3491f724fc8f7dbddf8061d67402ab"
+        "sha256": "0c4660ae270a09b5c3a673beea8b59edee301c961088f4128389c0734776309b"
       },
       "teacher": {
         "path": "6/sb-1a/homework-check-sb-hello-01-key.pdf",
         "pages": 1,
-        "sha256": "d33a65dcc4f16a3bc77b5441cb0fa353ebf4fb2cfbfcdeebba575900d6065461"
+        "sha256": "311cbdddc9b676f77035edc8fdcddedb0c817c7731535343f5321906215f7cca"
       }
     },
     {

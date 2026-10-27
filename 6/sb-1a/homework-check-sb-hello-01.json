@@ -71,7 +71,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Прочитай текст: A student is introducing their family. They have got one sister and two cousins. Their favourite season is summer. In the room there is a desk next to a window. Two books are on the desk. The student can use a dictionary and likes learning new words with example sentences.\n\nWhich season does the student like best?",
+      "prompt": "Прочитай текст: A student is introducing their family. They have got one sister and two cousins. Their favourite season is summer. In the room there is a desk next to a window. Two books are on the desk. The student can use a dictionary and likes learning new words with example sentences.\n\nЯка пора року подобається учневі найбільше?",
       "points": 2,
       "options": [
         "Winter.",
@@ -82,7 +82,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Прочитай текст: A student is introducing their family. They have got one sister and two cousins. Their favourite season is summer. In the room there is a desk next to a window. Two books are on the desk. The student can use a dictionary and likes learning new words with example sentences.\n\nWhere are the books?",
+      "prompt": "Прочитай текст: A student is introducing their family. They have got one sister and two cousins. Their favourite season is summer. In the room there is a desk next to a window. Two books are on the desk. The student can use a dictionary and likes learning new words with example sentences.\n\nДе лежать книжки?",
       "points": 2,
       "options": [
         "In a suitcase.",
