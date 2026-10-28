@@ -14,6 +14,8 @@
 Дедлайн: 2027-06-01T23:00, Europe/Kyiv.
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3887202). Стан: `published_pending_homework_daily_limit`.
+[kahoot: тест](https://create.kahoot.it/details/7-080/060f3347-5866-4f29-8bd8-e0a9c3576fae). Стан: `homework_created`.
+[kahoot: домашнє завдання](https://kahoot.it/challenge/0068566188).
 ## 1. 1 бал
 
 Обери значення слова cough.

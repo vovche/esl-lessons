@@ -130,6 +130,42 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "060f3347-5866-4f29-8bd8-e0a9c3576fae",
+      "editor_url": "https://create.kahoot.it/creator/060f3347-5866-4f29-8bd8-e0a9c3576fae",
+      "test_url": "https://create.kahoot.it/details/7-080/060f3347-5866-4f29-8bd8-e0a9c3576fae",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "question_count": 8,
+      "content_slide_count": 2,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "assignment_id": "d46ec662-827a-400f-be8d-627f06894c88",
+      "code": "0068566188",
+      "student_url": "https://kahoot.it/challenge/0068566188",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/d46ec662-827a-400f-be8d-627f06894c88/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793146563679/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "scoring_ui_verified": true,
+      "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
+      "course_title": "7 клас",
+      "course_module": 6,
+      "course_placement_verified": true
     }
   },
   "assessment": {
