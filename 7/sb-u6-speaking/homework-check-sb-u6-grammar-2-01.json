@@ -130,6 +130,39 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "status": "homework_created",
+      "verified": true,
+      "kahoot_id": "926c4aba-a70c-4948-bfb3-4bfa539325f1",
+      "title": "7 клас · 079 · Самопочуття: граматика",
+      "editor_url": "https://create.kahoot.it/creator/926c4aba-a70c-4948-bfb3-4bfa539325f1",
+      "assignment_id": "7cfca754-d746-489a-ab49-33be24c4a00b",
+      "code": "009858810",
+      "student_url": "https://kahoot.it/challenge/009858810",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/7cfca754-d746-489a-ab49-33be24c4a00b/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793146008225/summary",
+      "no_deadline": true,
+      "deadline": null,
+      "visibility": "public",
+      "question_count": 8,
+      "content_slide_count": 2,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
+      "course_title": "7 клас",
+      "course_module": 6,
+      "course_placement_verified": true,
+      "course_publication_status": "draft_pending_empty_modules"
     }
   },
   "assessment": {
