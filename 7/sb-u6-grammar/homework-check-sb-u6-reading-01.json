@@ -130,6 +130,38 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "d4e7c126-3634-4354-be67-d5f219ed68c9",
+      "title": "7 клас · 088 · Самопочуття: читання",
+      "status": "homework_created",
+      "verified": true,
+      "editor_url": "https://create.kahoot.it/creator/d4e7c126-3634-4354-be67-d5f219ed68c9",
+      "assignment_id": "9ca910c4-4394-40ed-a9c5-e4a4796dc4e2",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/9ca910c4-4394-40ed-a9c5-e4a4796dc4e2/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793149567140/summary",
+      "code": "003129256",
+      "student_url": "https://kahoot.it/challenge/003129256",
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "no_deadline": true,
+      "deadline": null,
+      "visibility": "public",
+      "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
+      "course_title": "7 клас",
+      "course_module": 6,
+      "course_placement_verified": true,
+      "course_publication_status": "draft_pending_empty_modules",
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "description": "Читання про здоров’я та медичну допомогу. Інструкції українською."
     }
   },
   "assessment": {
