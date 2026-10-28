@@ -14,6 +14,7 @@
 Дедлайн: 2027-06-01T23:00, Europe/Kyiv.
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3887216). Стан: `published_pending_homework_daily_limit`.
+[kahoot: домашнє завдання](https://kahoot.it/challenge/0050610467).
 ## 1. 1 бал
 
 Обери значення слова landmark.
@@ -49,7 +50,7 @@
 
 ## 4. 1 бал
 
-I need ___ ticket because mine is lost.
+Обери правильне слово: I need ___ ticket because mine is lost.
 
 1. other
 2. another
@@ -60,7 +61,7 @@ I need ___ ticket because mine is lost.
 
 ## 5. 1 бал
 
-Some attractions are better than ___.
+Обери правильне слово: Some attractions are better than ___.
 
 1. another
 2. other one attraction
@@ -71,7 +72,7 @@ Some attractions are better than ___.
 
 ## 6. 1 бал
 
-We can visit either the museum ___ the park.
+Обери правильний сполучник: We can visit either the museum ___ the park.
 
 1. or
 2. nor

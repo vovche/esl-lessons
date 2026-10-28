@@ -2886,16 +2886,16 @@
     {
       "id": "7-sb-u8-vocabulary-homework-01",
       "source": "7/sb-u8-reading/homework-check-sb-u8-vocabulary-01.json",
-      "input_sha256": "a937fd82222f0eb1807b9aaed4b1e6bb6c7238d0896be08c55e714325cd86bb1",
+      "input_sha256": "7359b072861ef5936f3da708126d67a883a17d627ebc1729148e03e337e57cb5",
       "student": {
         "path": "7/sb-u8-reading/homework-check-sb-u8-vocabulary-01.pdf",
         "pages": 2,
-        "sha256": "83f90d085262516304ccb44413bd8dcce15e14e5cca1368c7d21fdae361d8f12"
+        "sha256": "a4a5a5aa6feb78ba842f8196d8aba89b572fab4bca1657ef77885f263f9fa8b5"
       },
       "teacher": {
         "path": "7/sb-u8-reading/homework-check-sb-u8-vocabulary-01-key.pdf",
         "pages": 1,
-        "sha256": "a6974caf356aaa9b5b23fb5276f7e73b7fdfbbe96823157365c25157b867ae98"
+        "sha256": "8a00fa1bf761f76369eafb5edc9ed3058d4818b2f143fd801dca68b2306c2e91"
       }
     },
     {
