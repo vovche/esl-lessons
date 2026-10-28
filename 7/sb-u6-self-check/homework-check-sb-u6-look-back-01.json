@@ -130,6 +130,38 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "2c217b10-0c65-4235-8412-600cf4fcc13b",
+      "title": "7 клас · 100 · Самопочуття: повторення",
+      "status": "homework_created",
+      "verified": true,
+      "editor_url": "https://create.kahoot.it/creator/2c217b10-0c65-4235-8412-600cf4fcc13b",
+      "assignment_id": "81f75bb3-882d-4f4f-a2d3-5b2fa82aa091",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/81f75bb3-882d-4f4f-a2d3-5b2fa82aa091/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793148979913/summary",
+      "code": "0034671799",
+      "student_url": "https://kahoot.it/challenge/0034671799",
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "no_deadline": true,
+      "deadline": null,
+      "visibility": "public",
+      "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
+      "course_title": "7 клас",
+      "course_module": 6,
+      "course_placement_verified": true,
+      "course_publication_status": "draft_pending_empty_modules",
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "description": "Повторення лексики про самопочуття, граматики та самооцінювання. Інструкції українською."
     }
   },
   "assessment": {
