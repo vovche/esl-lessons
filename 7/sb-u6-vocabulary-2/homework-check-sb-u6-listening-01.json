@@ -50,7 +50,7 @@
     },
     {
       "type": "choice",
-      "prompt": "If Alex misses a lesson, he ___ for the notes.",
+      "prompt": "Обери правильну форму: If Alex misses a lesson, he ___ for the notes.",
       "points": 1,
       "options": [
         "asks",
@@ -62,7 +62,7 @@
     },
     {
       "type": "choice",
-      "prompt": "He ___ sent a message before the lesson started.",
+      "prompt": "Обери правильну форму: He ___ sent a message before the lesson started.",
       "points": 1,
       "options": [
         "have",
@@ -74,7 +74,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Had you ___ the homework before the call?",
+      "prompt": "Обери правильну форму: Had you ___ the homework before the call?",
       "points": 1,
       "options": [
         "finish",
@@ -130,6 +130,38 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "37d7481d-c47b-454c-aabf-ae281b4343d4",
+      "title": "7 клас · 086 · Самопочуття: слухання",
+      "status": "homework_created",
+      "verified": true,
+      "editor_url": "https://create.kahoot.it/creator/37d7481d-c47b-454c-aabf-ae281b4343d4",
+      "assignment_id": "c51e22ed-9d1d-41bf-b9d0-d31ff4da9be4",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/c51e22ed-9d1d-41bf-b9d0-d31ff4da9be4/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793148155684/summary",
+      "code": "00541601",
+      "student_url": "https://kahoot.it/challenge/00541601",
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "no_deadline": true,
+      "deadline": null,
+      "visibility": "public",
+      "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
+      "course_title": "7 клас",
+      "course_module": 6,
+      "course_placement_verified": true,
+      "course_publication_status": "draft_pending_empty_modules",
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "description": "Перевір лексику, граматику й розуміння прочитаного. Інструкції українською."
     }
   },
   "assessment": {

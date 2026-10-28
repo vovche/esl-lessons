@@ -41,7 +41,7 @@
 
 ## 4. 1 бал
 
-If Alex misses a lesson, he ___ for the notes.
+Обери правильну форму: If Alex misses a lesson, he ___ for the notes.
 
 1. asks
 2. asked
@@ -50,7 +50,7 @@ If Alex misses a lesson, he ___ for the notes.
 
 ## 5. 1 бал
 
-He ___ sent a message before the lesson started.
+Обери правильну форму: He ___ sent a message before the lesson started.
 
 1. have
 2. had
@@ -59,7 +59,7 @@ He ___ sent a message before the lesson started.
 
 ## 6. 1 бал
 
-Had you ___ the homework before the call?
+Обери правильну форму: Had you ___ the homework before the call?
 
 1. finish
 2. finishing
