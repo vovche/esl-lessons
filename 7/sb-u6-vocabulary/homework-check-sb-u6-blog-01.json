@@ -130,6 +130,37 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "8e68cbed-87fd-44b5-8460-c3cb2d365270",
+      "title": "7 клас · 078 · Самопочуття: блог",
+      "status": "homework_created",
+      "verified": true,
+      "editor_url": "https://create.kahoot.it/creator/8e68cbed-87fd-44b5-8460-c3cb2d365270",
+      "assignment_id": "b6aecbe9-6563-4c2a-b583-85134866dd7e",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/b6aecbe9-6563-4c2a-b583-85134866dd7e/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793145466398/summary",
+      "code": "0016243849",
+      "student_url": "https://kahoot.it/challenge/0016243849",
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "no_deadline": true,
+      "deadline": null,
+      "visibility": "public",
+      "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
+      "course_title": "7 клас",
+      "course_module": 6,
+      "course_placement_verified": true,
+      "course_publication_status": "draft_pending_empty_modules",
+      "question_points": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
     }
   },
   "assessment": {
