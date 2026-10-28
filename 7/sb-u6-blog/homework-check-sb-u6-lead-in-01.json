@@ -130,6 +130,56 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "1b0bf948-8270-4925-9ee2-cda6b714b11f",
+      "editor_url": "https://create.kahoot.it/creator/1b0bf948-8270-4925-9ee2-cda6b714b11f",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "question_count": 8,
+      "content_slide_count": 1,
+      "source_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "scoring_ui_verified": true,
+      "assignment_id": "8ebb72fc-a08f-4d77-a4bf-0d846e1b2595",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/8ebb72fc-a08f-4d77-a4bf-0d846e1b2595/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793147390038/summary",
+      "code": "005570407",
+      "student_url": "https://kahoot.it/challenge/005570407",
+      "deadline": null,
+      "no_deadline": true,
+      "assignment_verified": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
+      "course_title": "7 клас",
+      "course_module": 6,
+      "course_membership_verified": true,
+      "course_status": "draft",
+      "created_at": "2026-10-28T02:29:50+03:00",
+      "verified_at": "2026-10-28T04:00:00+03:00",
+      "verification_evidence": "Kahoot connector returned all 8 scored questions, one reading slide and correct keys; editor showed 9 blocks; six questions use standard points and two use double points (10 units total); creator/course picker showed public visibility. Assignment report showed no deadline, code 005570407, 9 questions and 0 participants; no game was started. Course editor showed the Kahoot in module 6; course saved as draft because module 7 is empty.",
+      "title": "7 клас · 084a · Самопочуття: старт"
     }
   },
   "assessment": {
