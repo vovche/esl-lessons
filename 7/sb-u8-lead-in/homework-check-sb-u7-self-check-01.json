@@ -133,7 +133,7 @@
     "kahoot": {
       "id": "b85a6eb5-3941-4802-90c9-18f351a19761",
       "editor_url": "https://create.kahoot.it/creator/b85a6eb5-3941-4802-90c9-18f351a19761",
-      "status": "reused_existing_kahoot",
+      "status": "homework_created",
       "verified": true,
       "visibility": "private",
       "question_count": 8,
@@ -165,7 +165,8 @@
       "course_placement_verified": false,
       "visibility_change_authorized_by_user": true,
       "near_duplicate_of": "7-sb-u7-look-back-homework-01",
-      "unique_difference": "None; all 8 prompts, correct answers, options as a set, and weights are identical. Option ordering differs only."
+      "unique_difference": "None; all 8 prompts, correct answers, options as a set, and weights are identical. Option ordering differs only.",
+      "reused_existing_kahoot": true
     }
   },
   "assessment": {
