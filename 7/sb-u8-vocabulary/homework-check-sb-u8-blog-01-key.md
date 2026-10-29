@@ -14,6 +14,8 @@
 Дедлайн: 2027-06-01T23:00, Europe/Kyiv.
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3887242). Стан: `published_pending_homework_daily_limit`.
+[kahoot: тест](https://create.kahoot.it/details/7-106/b397fa1d-b873-4706-bf4e-a7ce86199b7d). Стан: `homework_created`.
+[kahoot: домашнє завдання](https://kahoot.it/challenge/002877199).
 ## 1. 1 бал
 
 Обери значення слова landmark.
