@@ -14,6 +14,8 @@
 Дедлайн: 2027-06-01T23:00, Europe/Kyiv.
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3887231). Стан: `published_pending_homework_daily_limit`.
+[kahoot: тест](https://create.kahoot.it/details/7-102/bc7d2898-1ba1-444a-9d88-84fd8b8c7acf). Стан: `homework_created`.
+[kahoot: домашнє завдання](https://kahoot.it/challenge/0054352693).
 ## 1. 1 бал
 
 Обери значення слова statue.

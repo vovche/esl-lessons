@@ -129,6 +129,39 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "title": "7 клас · 102 · Подорожі: лексика",
+      "kahoot_id": "bc7d2898-1ba1-444a-9d88-84fd8b8c7acf",
+      "editor_url": "https://create.kahoot.it/creator/bc7d2898-1ba1-444a-9d88-84fd8b8c7acf",
+      "test_url": "https://create.kahoot.it/details/7-102/bc7d2898-1ba1-444a-9d88-84fd8b8c7acf",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "question_count": 8,
+      "content_slide_count": 2,
+      "assignment_id": "82374f60-506c-49fc-933e-a7d4bb2f4e67",
+      "code": "0054352693",
+      "student_url": "https://kahoot.it/challenge/0054352693",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/82374f60-506c-49fc-933e-a7d4bb2f4e67/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793251950051/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
+      "course_title": "7 клас",
+      "course_module": 8,
+      "course_membership_verified": true
     }
   },
   "assessment": {
