@@ -129,6 +129,45 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "2e2e9247-5857-4285-b9ab-19bc61b1326e",
+      "editor_url": "https://create.kahoot.it/creator/2e2e9247-5857-4285-b9ab-19bc61b1326e",
+      "test_url": "https://create.kahoot.it/details/7-105/2e2e9247-5857-4285-b9ab-19bc61b1326e",
+      "title": "7 клас · 105 · Подорожі: письмо",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "question_count": 8,
+      "content_slide_count": 1,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
+      "course_title": "7 клас",
+      "course_module": 8,
+      "course_membership_verified": true,
+      "student_entry_verified": true,
+      "no_deadline": true,
+      "assignment_id": "550b7458-b872-40b8-948a-9957d58d1e86",
+      "code": "001684463",
+      "student_url": "https://kahoot.it/challenge/001684463",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/550b7458-b872-40b8-948a-9957d58d1e86/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793292954489/summary",
+      "deadline": null,
+      "question_timer": false,
+      "randomize_answer_order": true,
+      "assignment_verified": true,
+      "module_title": "8",
+      "updated_on": "2026-10-29"
     }
   },
   "assessment": {
