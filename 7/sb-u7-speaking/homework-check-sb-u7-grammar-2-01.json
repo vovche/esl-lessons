@@ -129,6 +129,53 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "afe49f23-34fa-4ee8-8d93-b19d06cf7aae",
+      "editor_url": "https://create.kahoot.it/creator/afe49f23-34fa-4ee8-8d93-b19d06cf7aae",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 8,
+      "content_slide_count": 1,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
+      "course_module": 7,
+      "near_duplicate_review": {
+        "similar_kahoot_ids": [
+          "f1adae4a-ff45-4a85-bae8-b966b446dc91",
+          "49774705-1cf2-4f16-bd84-80632fece0bd"
+        ],
+        "overlap_with_blog": 6,
+        "overlap_with_grammar": 5,
+        "distinctive_items": [
+          "The plot is less original ___ the previous one.",
+          "The play is not as long ___ the film.",
+          "I prefer a comedy ___ a thriller today."
+        ]
+      },
+      "assignment_id": "4f7c1e7d-d7db-4346-9460-9be325383e4b",
+      "code": "0054632576",
+      "student_url": "https://kahoot.it/challenge/0054632576",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/4f7c1e7d-d7db-4346-9460-9be325383e4b/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793296140211/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "randomize_answer_order": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "course_placement_verified": false
     }
   },
   "assessment": {
