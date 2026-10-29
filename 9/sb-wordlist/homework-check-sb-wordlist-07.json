@@ -122,7 +122,7 @@
       "editor_url": "https://create.kahoot.it/creator/d5bd53f5-4bb4-4650-9858-3bb77549535f",
       "status": "homework_created",
       "verified": true,
-      "visibility": "private",
+      "visibility": "public",
       "question_count": 8,
       "content_slide_count": 0,
       "kahoot_question_weights": [
@@ -146,7 +146,11 @@
       "question_timer": false,
       "student_entry_verified": true,
       "content_verified_after_reopen": true,
-      "adaptations": []
+      "adaptations": [],
+      "course_id": "dfb845bd-6dcb-48ab-afd9-da778e6a9e00",
+      "course_title": "9 клас",
+      "course_module": 7,
+      "course_membership_verified": true
     }
   },
   "assessment": {
