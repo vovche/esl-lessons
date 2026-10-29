@@ -13,7 +13,8 @@
 
 Дедлайн: 2027-01-03T23:00, Europe/Kyiv.
 
-[naurok: тест](https://naurok.com.ua/test-beta/test/3886915). Стан: `published_pending_homework_daily_limit`.
+[naurok: тест](https://naurok.com.ua/test-beta/test/3886915). Стан: `homework_created`.
+[naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=4788191).
 [kahoot: тест](https://create.kahoot.it/details/7-024-do-your-chores-listening/b50fceab-d87e-4475-89c6-4cc9d71906a5). Стан: `homework_created`.
 [kahoot: домашнє завдання](https://kahoot.it/challenge/005880015).
 ## 1. 1 бал

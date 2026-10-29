@@ -699,7 +699,7 @@
           "test_url": "https://naurok.com.ua/test-beta/test/3886879",
           "title": "7 клас · In and out of school: Письмо Шкільне життя і дозвілля · Письмо",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -718,7 +718,30 @@
           "assessment_lesson_path": "7/sb-u1-look-back/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "In and out of school: Письмо Шкільне життя і дозвілля · Письмо",
-          "content_id": "7-sb-u1-writing-homework-01"
+          "content_id": "7-sb-u1-writing-homework-01",
+          "homework_id": "86437231",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86437231",
+          "teacher_homework_actual_url": "https://naurok.com.ua/test/homework/86437231",
+          "code": "4155349",
+          "student_url": "https://naurok.ua/test/join?gamecode=4155349",
+          "verified_deadline_ui": "2027-01-03T23:00",
+          "deadline_verified": true,
+          "active_students": 0,
+          "mode": "Звичайний тест",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": true,
+            "show_ranking": true,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-29T12:30:00+02:00",
+          "student_entry_verified": false,
+          "student_joined": false
         }
       ]
     },
@@ -730,7 +753,7 @@
           "test_url": "https://naurok.com.ua/test-beta/test/3886883",
           "title": "7 клас · Do your chores: Блог і обговорення Домашні справи · Блог і обговорення",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -749,7 +772,30 @@
           "assessment_lesson_path": "7/sb-u2-vocabulary/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Do your chores: Блог і обговорення Домашні справи · Блог і обговорення",
-          "content_id": "7-sb-u2-blog-homework-01"
+          "content_id": "7-sb-u2-blog-homework-01",
+          "homework_id": "86437237",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86437237",
+          "teacher_homework_actual_url": "https://naurok.com.ua/test/homework/86437237",
+          "code": "5452846",
+          "student_url": "https://naurok.ua/test/join?gamecode=5452846",
+          "verified_deadline_ui": "2027-01-03T23:00",
+          "deadline_verified": true,
+          "active_students": 0,
+          "mode": "Звичайний тест",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": true,
+            "show_ranking": true,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-29T12:32:00+02:00",
+          "student_entry_verified": false,
+          "student_joined": false
         }
       ]
     },
@@ -761,7 +807,7 @@
           "test_url": "https://naurok.com.ua/test-beta/test/3886896",
           "title": "7 клас · Do your chores: Граматика Домашні справи · Граматика",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -780,7 +826,30 @@
           "assessment_lesson_path": "7/sb-u2-listening/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Do your chores: Граматика Домашні справи · Граматика",
-          "content_id": "7-sb-u2-grammar-homework-01"
+          "content_id": "7-sb-u2-grammar-homework-01",
+          "homework_id": "86437244",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86437244",
+          "teacher_homework_actual_url": "https://naurok.com.ua/test/homework/86437244",
+          "code": "9957582",
+          "student_url": "https://naurok.ua/test/join?gamecode=9957582",
+          "verified_deadline_ui": "2027-01-03T23:00",
+          "deadline_verified": true,
+          "active_students": 0,
+          "mode": "Звичайний тест",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": true,
+            "show_ranking": true,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-29T12:34:00+02:00",
+          "student_entry_verified": false,
+          "student_joined": false
         }
       ]
     },
@@ -792,7 +861,7 @@
           "test_url": "https://naurok.com.ua/test-beta/test/3886904",
           "title": "7 клас · Do your chores: Граматика: застосування Домашні справи · Граматика: застосування",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -811,7 +880,30 @@
           "assessment_lesson_path": "7/sb-u2-speaking/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Do your chores: Граматика: застосування Домашні справи · Граматика: застосування",
-          "content_id": "7-sb-u2-grammar-2-homework-01"
+          "content_id": "7-sb-u2-grammar-2-homework-01",
+          "homework_id": "86437254",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86437254",
+          "teacher_homework_actual_url": "https://naurok.com.ua/test/homework/86437254",
+          "code": "2987134",
+          "student_url": "https://naurok.ua/test/join?gamecode=2987134",
+          "verified_deadline_ui": "2027-01-03T23:00",
+          "deadline_verified": true,
+          "active_students": 0,
+          "mode": "Звичайний тест",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": true,
+            "show_ranking": true,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-29T12:36:00+02:00",
+          "student_entry_verified": false,
+          "student_joined": false
         }
       ]
     },
@@ -823,7 +915,7 @@
           "test_url": "https://naurok.com.ua/test-beta/test/3886911",
           "title": "7 клас · Do your chores: Починаємо юніт Домашні справи · Починаємо юніт",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -842,7 +934,30 @@
           "assessment_lesson_path": "7/sb-u2-blog/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Do your chores: Починаємо юніт Домашні справи · Починаємо юніт",
-          "content_id": "7-sb-u2-lead-in-homework-01"
+          "content_id": "7-sb-u2-lead-in-homework-01",
+          "homework_id": "86437262",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86437262",
+          "teacher_homework_actual_url": "https://naurok.com.ua/test/homework/86437262",
+          "code": "8242711",
+          "student_url": "https://naurok.ua/test/join?gamecode=8242711",
+          "verified_deadline_ui": "2027-01-03T23:00",
+          "deadline_verified": true,
+          "active_students": 0,
+          "mode": "Звичайний тест",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": true,
+            "show_ranking": true,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-29T12:38:00+02:00",
+          "student_entry_verified": false,
+          "student_joined": false
         }
       ]
     },
@@ -854,7 +969,7 @@
           "test_url": "https://naurok.com.ua/test-beta/test/3886915",
           "title": "7 клас · Do your chores: Слухання Домашні справи · Слухання",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "verified": true,
           "question_points": [
             1,
@@ -873,7 +988,30 @@
           "assessment_lesson_path": "7/sb-u2-vocabulary-2/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Do your chores: Слухання Домашні справи · Слухання",
-          "content_id": "7-sb-u2-listening-homework-01"
+          "content_id": "7-sb-u2-listening-homework-01",
+          "homework_id": "86437270",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86437270",
+          "teacher_homework_actual_url": "https://naurok.com.ua/test/homework/86437270",
+          "code": "4788191",
+          "student_url": "https://naurok.ua/test/join?gamecode=4788191",
+          "verified_deadline_ui": "2027-01-03T23:00",
+          "deadline_verified": true,
+          "active_students": 0,
+          "mode": "Звичайний тест",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": true,
+            "show_ranking": true,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-29T12:40:00+02:00",
+          "student_entry_verified": false,
+          "student_joined": false
         }
       ]
     },

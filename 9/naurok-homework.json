@@ -623,7 +623,7 @@
           "test_id": "3886881",
           "title": "9 клас · All About Me: Письмо",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "question_points": [
             1,
             1,
@@ -641,7 +641,30 @@
           "assessment_lesson_path": "9/sb-u1-look-back/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "All About Me: Письмо Усе про мене: Письмо",
-          "content_id": "9-sb-u1-writing-homework-01"
+          "content_id": "9-sb-u1-writing-homework-01",
+          "homework_id": "86437152",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86437152",
+          "teacher_homework_actual_url": "https://naurok.com.ua/test/homework/86437152",
+          "code": "3421266",
+          "student_url": "https://naurok.ua/test/join?gamecode=3421266",
+          "verified_deadline_ui": "2027-01-03T23:00",
+          "deadline_verified": true,
+          "active_students": 0,
+          "mode": "Звичайний тест",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": true,
+            "show_ranking": true,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-29T12:07:30+02:00",
+          "student_entry_verified": false,
+          "student_joined": false
         }
       ]
     },

@@ -2326,7 +2326,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3887055",
           "title": "Round-up 3 · 6 клас · ESL round-up-3",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3887055",
           "verified": true,
           "question_points": [
@@ -2346,7 +2346,30 @@
           "assessment_lesson_path": "6/sb-4a/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Round-up 3 Повторення юніту 3",
-          "content_id": "6-sb-round-up-3-homework-01"
+          "content_id": "6-sb-round-up-3-homework-01",
+          "homework_id": "86437179",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86437179",
+          "teacher_homework_actual_url": "https://naurok.com.ua/test/homework/86437179",
+          "code": "5805284",
+          "student_url": "https://naurok.ua/test/join?gamecode=5805284",
+          "verified_deadline_ui": "2027-01-03T23:00",
+          "deadline_verified": true,
+          "active_students": 0,
+          "mode": "Звичайний тест",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": true,
+            "show_ranking": true,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-29T12:16:00+02:00",
+          "student_entry_verified": false,
+          "student_joined": false
         }
       ]
     },
@@ -2358,7 +2381,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3887062",
           "title": "Round-up 4 · 6 клас · ESL round-up-4",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3887062",
           "verified": true,
           "question_points": [
@@ -2378,7 +2401,30 @@
           "assessment_lesson_path": "6/sb-5a/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Round-up 4 Повторення юніту 4",
-          "content_id": "6-sb-round-up-4-homework-01"
+          "content_id": "6-sb-round-up-4-homework-01",
+          "homework_id": "86437183",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86437183",
+          "teacher_homework_actual_url": "https://naurok.com.ua/test/homework/86437183",
+          "code": "7213779",
+          "student_url": "https://naurok.ua/test/join?gamecode=7213779",
+          "verified_deadline_ui": "2027-01-03T23:00",
+          "deadline_verified": true,
+          "active_students": 0,
+          "mode": "Звичайний тест",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": true,
+            "show_ranking": true,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-29T12:18:00+02:00",
+          "student_entry_verified": false,
+          "student_joined": false
         }
       ]
     },
@@ -2518,7 +2564,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3887095",
           "title": "Me and my board · 6 клас · ESL song-1",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3887095",
           "verified": true,
           "question_points": [
@@ -2538,7 +2584,30 @@
           "assessment_lesson_path": "6/sb-round-up-2/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Me and my board Пісня: день зі скейтбордом",
-          "content_id": "6-sb-song-1-homework-01"
+          "content_id": "6-sb-song-1-homework-01",
+          "homework_id": "86437208",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86437208",
+          "teacher_homework_actual_url": "https://naurok.com.ua/test/homework/86437208",
+          "code": "3533719",
+          "student_url": "https://naurok.ua/test/join?gamecode=3533719",
+          "verified_deadline_ui": "2027-01-03T23:00",
+          "deadline_verified": true,
+          "active_students": 0,
+          "mode": "Звичайний тест",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": true,
+            "show_ranking": true,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-29T12:26:00+02:00",
+          "student_entry_verified": false,
+          "student_joined": false
         }
       ]
     },
@@ -2550,7 +2619,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3887104",
           "title": "Unlucky day · 6 клас · ESL song-2",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3887104",
           "verified": true,
           "question_points": [
@@ -2570,7 +2639,30 @@
           "assessment_lesson_path": "6/sb-round-up-4/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Unlucky day Пісня: невдалий день",
-          "content_id": "6-sb-song-2-homework-01"
+          "content_id": "6-sb-song-2-homework-01",
+          "homework_id": "86437217",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86437217",
+          "teacher_homework_actual_url": "https://naurok.com.ua/test/homework/86437217",
+          "code": "4411741",
+          "student_url": "https://naurok.ua/test/join?gamecode=4411741",
+          "verified_deadline_ui": "2027-01-03T23:00",
+          "deadline_verified": true,
+          "active_students": 0,
+          "mode": "Звичайний тест",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": true,
+            "show_ranking": true,
+            "game_mode": "none"
+          },
+          "verified_on_site_at": "2026-10-29T12:28:00+02:00",
+          "student_entry_verified": false,
+          "student_joined": false
         }
       ]
     },

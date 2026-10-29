@@ -23,9 +23,10 @@
       "markdown": "homework-check-jolly-phonics-02.md",
       "answer_key": "homework-check-jolly-phonics-02-key.md",
       "test_url": "https://naurok.com.ua/test-beta/test/3886880",
-      "status": "published_pending_homework_daily_limit",
+      "status": "homework_created",
       "pdf": "homework-check-jolly-phonics-02.pdf",
-      "answer_key_pdf": "homework-check-jolly-phonics-02-key.pdf"
+      "answer_key_pdf": "homework-check-jolly-phonics-02-key.pdf",
+      "student_url": "https://naurok.ua/test/join?gamecode=8712279"
     },
     {
       "id": "6-jolly-phonics-homework-03",
@@ -35,9 +36,10 @@
       "markdown": "homework-check-jolly-phonics-03.md",
       "answer_key": "homework-check-jolly-phonics-03-key.md",
       "test_url": "https://naurok.com.ua/test-beta/test/3886884",
-      "status": "published_pending_homework_daily_limit",
+      "status": "homework_created",
       "pdf": "homework-check-jolly-phonics-03.pdf",
-      "answer_key_pdf": "homework-check-jolly-phonics-03-key.pdf"
+      "answer_key_pdf": "homework-check-jolly-phonics-03-key.pdf",
+      "student_url": "https://naurok.ua/test/join?gamecode=2245713"
     },
     {
       "id": "6-jolly-phonics-homework-04",
@@ -47,9 +49,10 @@
       "markdown": "homework-check-jolly-phonics-04.md",
       "answer_key": "homework-check-jolly-phonics-04-key.md",
       "test_url": "https://naurok.com.ua/test-beta/test/3886888",
-      "status": "published_pending_homework_daily_limit",
+      "status": "homework_created",
       "pdf": "homework-check-jolly-phonics-04.pdf",
-      "answer_key_pdf": "homework-check-jolly-phonics-04-key.pdf"
+      "answer_key_pdf": "homework-check-jolly-phonics-04-key.pdf",
+      "student_url": "https://naurok.ua/test/join?gamecode=2939342"
     },
     {
       "id": "6-jolly-phonics-homework-05",
@@ -59,9 +62,10 @@
       "markdown": "homework-check-jolly-phonics-05.md",
       "answer_key": "homework-check-jolly-phonics-05-key.md",
       "test_url": "https://naurok.com.ua/test-beta/test/3886901",
-      "status": "published_pending_homework_daily_limit",
+      "status": "homework_created",
       "pdf": "homework-check-jolly-phonics-05.pdf",
-      "answer_key_pdf": "homework-check-jolly-phonics-05-key.pdf"
+      "answer_key_pdf": "homework-check-jolly-phonics-05-key.pdf",
+      "student_url": "https://naurok.ua/test/join?gamecode=3855918"
     },
     {
       "id": "6-jolly-phonics-homework-06",
@@ -71,9 +75,10 @@
       "markdown": "homework-check-jolly-phonics-06.md",
       "answer_key": "homework-check-jolly-phonics-06-key.md",
       "test_url": "https://naurok.com.ua/test-beta/test/3886905",
-      "status": "published_pending_homework_daily_limit",
+      "status": "homework_created",
       "pdf": "homework-check-jolly-phonics-06.pdf",
-      "answer_key_pdf": "homework-check-jolly-phonics-06-key.pdf"
+      "answer_key_pdf": "homework-check-jolly-phonics-06-key.pdf",
+      "student_url": "https://naurok.ua/test/join?gamecode=3483786"
     },
     {
       "id": "6-jolly-phonics-homework-07",
@@ -83,9 +88,10 @@
       "markdown": "homework-check-jolly-phonics-07.md",
       "answer_key": "homework-check-jolly-phonics-07-key.md",
       "test_url": "https://naurok.com.ua/test-beta/test/3886910",
-      "status": "published_pending_homework_daily_limit",
+      "status": "homework_created",
       "pdf": "homework-check-jolly-phonics-07.pdf",
-      "answer_key_pdf": "homework-check-jolly-phonics-07-key.pdf"
+      "answer_key_pdf": "homework-check-jolly-phonics-07-key.pdf",
+      "student_url": "https://naurok.ua/test/join?gamecode=8386913"
     }
   ]
 }
