@@ -129,6 +129,41 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "325ee527-a386-4a24-a11d-dd88ac2d024c",
+      "editor_url": "https://create.kahoot.it/creator/325ee527-a386-4a24-a11d-dd88ac2d024c",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 8,
+      "content_slide_count": 1,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "assignment_id": "5be02c3f-b9ba-479c-baed-5be4177c1430",
+      "code": "009818908",
+      "student_url": "https://kahoot.it/challenge/009818908",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/5be02c3f-b9ba-479c-baed-5be4177c1430/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793298039604/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "randomize_answer_order": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
+      "course_module": 7,
+      "course_placement_verified": false,
+      "visibility_change_authorized_by_user": true
     }
   },
   "assessment": {
