@@ -47,7 +47,7 @@
     },
     {
       "type": "choice",
-      "prompt": "“Do you have experience?” He asked ... I had experience.",
+      "prompt": "Обери правильний варіант непрямого запитання: “Do you have experience?” He asked ... I had experience.",
       "points": 2,
       "options": [
         "where",
@@ -58,7 +58,7 @@
     },
     {
       "type": "choice",
-      "prompt": "“Why did you apply?” She asked why I ... .",
+      "prompt": "Обери правильну форму непрямого запитання: “Why did you apply?” She asked why I ... .",
       "points": 2,
       "options": [
         "had applied",
@@ -69,7 +69,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Прочитай текст. Emma is preparing a CV for a school project. She includes education, experience, interests and useful skills. She describes helping at a charity event as evidence of teamwork. Dan asks whether she has included contact details, and she uses fictional details for the public example. The teacher tells them to check spelling before submitting the CV.\n\nWhy does she use fictional contact details?",
+      "prompt": "Прочитай текст. Emma is preparing a CV for a school project. She includes education, experience, interests and useful skills. She describes helping at a charity event as evidence of teamwork. Dan asks whether she has included contact details, and she uses fictional details for the public example. The teacher tells them to check spelling before submitting the CV.\n\nЧому вона використала вигадані контактні дані?",
       "points": 3,
       "options": [
         "The CV has no education section.",
@@ -98,6 +98,50 @@
         2,
         3
       ]
+    },
+    "kahoot": {
+      "id": "3d9cb8c7-88d1-4b8f-92a8-d07bf4e98981",
+      "kahoot_id": "3d9cb8c7-88d1-4b8f-92a8-d07bf4e98981",
+      "editor_url": "https://create.kahoot.it/creator/3d9cb8c7-88d1-4b8f-92a8-d07bf4e98981",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "title": "9 клас · 057 · Jobs Around Us: Grammar in Context",
+      "question_count": 6,
+      "content_slide_count": 2,
+      "source_question_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ],
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "maximum_scoring_units": 9,
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "assignment_id": "b8a8112f-c6bc-4e4a-a5ac-e5af90892dc7",
+      "code": "003279062",
+      "student_url": "https://kahoot.it/challenge/003279062",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/b8a8112f-c6bc-4e4a-a5ac-e5af90892dc7/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793302157764/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "question_time_limit_seconds": 240,
+      "randomize_answer_order": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "assessment_lesson_path": "9/sb-u5-speaking/",
+      "course_membership_verified": false,
+      "publication_status": "publication_pending"
     }
   },
   "assessment": {

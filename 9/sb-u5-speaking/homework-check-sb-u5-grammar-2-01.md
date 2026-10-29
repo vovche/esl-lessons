@@ -38,7 +38,7 @@
 
 ## 4. 2 бали
 
-“Do you have experience?” He asked ... I had experience.
+Обери правильний варіант непрямого запитання: “Do you have experience?” He asked ... I had experience.
 
 1. where
 2. whether
@@ -46,7 +46,7 @@
 
 ## 5. 2 бали
 
-“Why did you apply?” She asked why I ... .
+Обери правильну форму непрямого запитання: “Why did you apply?” She asked why I ... .
 
 1. had applied
 2. did apply?
@@ -56,7 +56,7 @@
 
 Прочитай текст. Emma is preparing a CV for a school project. She includes education, experience, interests and useful skills. She describes helping at a charity event as evidence of teamwork. Dan asks whether she has included contact details, and she uses fictional details for the public example. The teacher tells them to check spelling before submitting the CV.
 
-Why does she use fictional contact details?
+Чому вона використала вигадані контактні дані?
 
 1. The CV has no education section.
 2. The example is public.
