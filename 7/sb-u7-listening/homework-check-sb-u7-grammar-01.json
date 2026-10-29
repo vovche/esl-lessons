@@ -129,6 +129,42 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "49774705-1cf2-4f16-bd84-80632fece0bd",
+      "editor_url": "https://create.kahoot.it/creator/49774705-1cf2-4f16-bd84-80632fece0bd",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 8,
+      "content_slide_count": 1,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "near_duplicate_of": "7-sb-u7-blog-homework-01",
+      "unique_difference": "Question 6 checks too + adjective instead of than for comparative adjective.",
+      "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
+      "course_module": 7,
+      "assignment_id": "d8b9e55e-1a09-492a-8adb-5c828b8ab192",
+      "code": "003937576",
+      "student_url": "https://kahoot.it/challenge/003937576",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/d8b9e55e-1a09-492a-8adb-5c828b8ab192/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793295873825/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "randomize_answer_order": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "course_placement_verified": false
     }
   },
   "assessment": {
