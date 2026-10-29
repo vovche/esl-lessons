@@ -129,6 +129,46 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "212e87fe-08a5-4a66-88e7-8814f969044f",
+      "title": "7 клас · 100 · Подорожі: граматика",
+      "editor_url": "https://create.kahoot.it/creator/212e87fe-08a5-4a66-88e7-8814f969044f",
+      "test_url": "https://create.kahoot.it/details/7-100-podorozhi-hramatyka/212e87fe-08a5-4a66-88e7-8814f969044f",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "question_count": 8,
+      "content_slide_count": 2,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "assignment_id": "79f0a846-6d94-4fc9-972c-4674010f90a4",
+      "code": "001080234",
+      "student_url": "https://kahoot.it/challenge/001080234",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/79f0a846-6d94-4fc9-972c-4674010f90a4/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793250772174/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
+      "course_title": "7 клас",
+      "course_module": 8,
+      "course_module_actual": 8,
+      "course_membership_verified": true,
+      "course_status": "draft_not_saved_due_empty_module_7",
+      "assessment_lesson_path": "7/sb-u8-listening/",
+      "created_on": "2026-10-29"
     }
   },
   "assessment": {
