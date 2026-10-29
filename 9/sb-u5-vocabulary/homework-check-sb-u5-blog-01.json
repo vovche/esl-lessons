@@ -98,6 +98,42 @@
         2,
         3
       ]
+    },
+    "kahoot": {
+      "kahoot_id": "5612b51f-aa7d-458e-83b4-bcf8e879f56a",
+      "assignment_id": "c20465eb-5571-4840-9d10-eeb5c0a38213",
+      "code": "009472464",
+      "student_url": "https://kahoot.it/challenge/009472464",
+      "title": "9 клас · 051 · Jobs Around Us: Blog",
+      "editor_url": "https://create.kahoot.it/creator/5612b51f-aa7d-458e-83b4-bcf8e879f56a",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/c20465eb-5571-4840-9d10-eeb5c0a38213/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793301099123/summary",
+      "visibility": "private",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "randomize_answer_order": true,
+      "verified": true,
+      "student_landing_verified": true,
+      "question_count": 7,
+      "quiz_question_count": 6,
+      "content_slide_count": 1,
+      "weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "assessment_lesson_path": "9/sb-u5-vocabulary/",
+      "publication_status": "publication_pending",
+      "saved_at": "2026-10-29T18:31:39+00:00",
+      "reused_for_exact_duplicate_ids": [
+        "9-sb-u5-grammar-homework-01"
+      ],
+      "status": "homework_created"
     }
   },
   "assessment": {
