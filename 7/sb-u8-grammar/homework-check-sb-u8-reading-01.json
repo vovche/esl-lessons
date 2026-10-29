@@ -129,6 +129,38 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "c496dd24-f6e5-4652-85af-217e4bd7fb28",
+      "editor_url": "https://create.kahoot.it/creator/c496dd24-f6e5-4652-85af-217e4bd7fb28",
+      "test_url": "https://create.kahoot.it/details/7-099-what-is-there-to-see-and-to-do/c496dd24-f6e5-4652-85af-217e4bd7fb28",
+      "title": "7 клас · 099 · What is there to see and to do? — читання",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
+      "course_title": "7 клас",
+      "course_module": 8,
+      "course_membership_verified": true,
+      "student_entry_verified": true,
+      "assignment_id": "54d0e7a3-07eb-4ef5-b26b-6597e0100cf7",
+      "code": "006220680",
+      "student_url": "https://kahoot.it/challenge/006220680",
+      "no_deadline": true,
+      "deadline": null,
+      "updated_on": "2026-10-29",
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
     }
   },
   "assessment": {
