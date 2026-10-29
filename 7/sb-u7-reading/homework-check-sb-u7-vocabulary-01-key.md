@@ -14,6 +14,7 @@
 Дедлайн: 2027-06-01T23:00, Europe/Kyiv.
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3887221). Стан: `published_pending_homework_daily_limit`.
+[kahoot: домашнє завдання](https://kahoot.it/challenge/0073793472).
 ## 1. 1 бал
 
 Обери значення слова performance.
