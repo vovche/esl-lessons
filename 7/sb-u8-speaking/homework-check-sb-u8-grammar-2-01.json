@@ -129,6 +129,48 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "25087bc1-b3fa-41d4-b1c7-162228985eda",
+      "kahoot_id": "25087bc1-b3fa-41d4-b1c7-162228985eda",
+      "title": "7 клас · 103 · Подорожі: граматика",
+      "editor_url": "https://create.kahoot.it/creator/25087bc1-b3fa-41d4-b1c7-162228985eda",
+      "test_url": "https://create.kahoot.it/details/7-103/25087bc1-b3fa-41d4-b1c7-162228985eda",
+      "verified": true,
+      "visibility": "public",
+      "question_count": 8,
+      "content_slide_count": 2,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "scoring_ui_verified": true,
+      "assignment_verified": true,
+      "assignment_id": "c780d493-132d-4043-90ec-8871d4bfc333",
+      "code": "007889998",
+      "student_url": "https://kahoot.it/challenge/007889998",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/c780d493-132d-4043-90ec-8871d4bfc333/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793266374419/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
+      "course_title": "7 клас",
+      "course_module": 8,
+      "course_module_actual": 8,
+      "course_membership_verified": true,
+      "course_status": "draft_not_saved_due_empty_module_7",
+      "assessment_lesson_path": "7/sb-u8-speaking/",
+      "status": "homework_created"
     }
   },
   "assessment": {
