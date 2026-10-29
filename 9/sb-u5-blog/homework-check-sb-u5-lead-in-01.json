@@ -149,9 +149,10 @@
       "course_module_actual": 1,
       "course_module_expected": 5,
       "course_membership_verified": false,
-      "status": "homework_created_pending_course_placement",
+      "status": "homework_created",
       "verified": true,
-      "verified_at": "2026-10-29T22:00:00+02:00"
+      "verified_at": "2026-10-29T22:00:00+02:00",
+      "code": "004607394"
     }
   },
   "assessment": {
