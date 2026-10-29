@@ -86,27 +86,27 @@
     },
     {
       "type": "choice",
-      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nBefore writing about customs and family celebrations, I make a short plan. My first sentence introduces the topic. I add details and examples in a logical order. Then I check my verbs, spelling and punctuation. I ask a classmate for feedback and improve my final text.\n\nWhat comes before the first draft?",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nBefore writing about customs and family celebrations, I make a short plan. My first sentence introduces the topic. I add details and examples in a logical order. Then I check my verbs, spelling and punctuation. I ask a classmate for feedback and improve my final text.\n\nЩо я роблю перед тим, як написати перший варіант тексту?",
       "points": 2,
       "options": [
-        "a film ending",
-        "a short plan",
-        "the final score",
-        "Жоден із наведених варіантів"
+        "рахую підсумкові бали",
+        "Жоден із наведених варіантів",
+        "складаю короткий план",
+        "переглядаю фінал фільму"
       ],
-      "key": 1
+      "key": 2
     },
     {
       "type": "choice",
-      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nBefore writing about customs and family celebrations, I make a short plan. My first sentence introduces the topic. I add details and examples in a logical order. Then I check my verbs, spelling and punctuation. I ask a classmate for feedback and improve my final text.\n\nWhy do I ask a classmate for feedback?",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nBefore writing about customs and family celebrations, I make a short plan. My first sentence introduces the topic. I add details and examples in a logical order. Then I check my verbs, spelling and punctuation. I ask a classmate for feedback and improve my final text.\n\nНавіщо я прошу однокласника дати відгук?",
       "points": 2,
       "options": [
-        "to avoid writing",
-        "to copy every answer",
-        "to improve the text",
-        "Жоден із наведених варіантів"
+        "Жоден із наведених варіантів",
+        "щоб покращити текст",
+        "щоб уникнути письма",
+        "щоб скопіювати всі відповіді"
       ],
-      "key": 2
+      "key": 1
     }
   ],
   "id": "7-sb-u4-writing-homework-01",
@@ -129,6 +129,38 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "0d1c481e-087f-4006-992c-3bf96488c711",
+      "editor_url": "https://create.kahoot.it/creator/0d1c481e-087f-4006-992c-3bf96488c711",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 8,
+      "content_slide_count": 1,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "assignment_id": "fbd86344-ec6a-4d12-a50f-c973e4ce369a",
+      "code": "0040464005",
+      "student_url": "https://kahoot.it/challenge/0040464005",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/fbd86344-ec6a-4d12-a50f-c973e4ce369a/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793300520690/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "randomize_answer_order": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": false,
+      "title": "7 клас · 052 · Traditions: Writing"
     }
   },
   "assessment": {

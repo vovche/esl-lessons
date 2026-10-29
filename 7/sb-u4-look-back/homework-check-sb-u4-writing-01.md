@@ -72,12 +72,12 @@ Special food is ___ at home.
 
 Before writing about customs and family celebrations, I make a short plan. My first sentence introduces the topic. I add details and examples in a logical order. Then I check my verbs, spelling and punctuation. I ask a classmate for feedback and improve my final text.
 
-What comes before the first draft?
+Що я роблю перед тим, як написати перший варіант тексту?
 
-1. a film ending
-2. a short plan
-3. the final score
-4. Жоден із наведених варіантів
+1. рахую підсумкові бали
+2. Жоден із наведених варіантів
+3. складаю короткий план
+4. переглядаю фінал фільму
 
 ## 8. 2 бали
 
@@ -85,9 +85,9 @@ What comes before the first draft?
 
 Before writing about customs and family celebrations, I make a short plan. My first sentence introduces the topic. I add details and examples in a logical order. Then I check my verbs, spelling and punctuation. I ask a classmate for feedback and improve my final text.
 
-Why do I ask a classmate for feedback?
+Навіщо я прошу однокласника дати відгук?
 
-1. to avoid writing
-2. to copy every answer
-3. to improve the text
-4. Жоден із наведених варіантів
+1. Жоден із наведених варіантів
+2. щоб покращити текст
+3. щоб уникнути письма
+4. щоб скопіювати всі відповіді
