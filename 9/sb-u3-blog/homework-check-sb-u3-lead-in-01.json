@@ -109,7 +109,7 @@
       "title": "9 клас · 029 · Youth clubs: introduction",
       "status": "homework_created",
       "verified": true,
-      "visibility": "private",
+      "visibility": "public",
       "question_count": 8,
       "quiz_question_count": 6,
       "content_slide_count": 2,
@@ -140,7 +140,11 @@
       "created_at": "2026-10-27T13:50:00+02:00",
       "verification_evidence": "Reopened Kahoot editor; verified Ukrainian prompt language, six quiz questions and two reading slides, correct keys, private visibility, standard points for questions 1–3 and double points for 4–6. Assignment report confirmed no deadline, code 006389889 and 0 participants; learner link opened the assignment start page without starting a session.",
       "publication_verified_at": "2026-10-27T18:05:00+02:00",
-      "publication_evidence": "GitHub Pages workflow succeeded for commit 31666c717b8e5593076e00cebd5e32645b6aa906; live lesson page returned HTTP 200 and contained the exact Kahoot and Naurok student hrefs."
+      "publication_evidence": "GitHub Pages workflow succeeded for commit 31666c717b8e5593076e00cebd5e32645b6aa906; live lesson page returned HTTP 200 and contained the exact Kahoot and Naurok student hrefs.",
+      "course_id": "dfb845bd-6dcb-48ab-afd9-da778e6a9e00",
+      "course_title": "9 клас",
+      "course_module": 3,
+      "course_membership_verified": true
     }
   },
   "assessment": {
