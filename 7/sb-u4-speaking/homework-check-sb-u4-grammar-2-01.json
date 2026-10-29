@@ -129,6 +129,40 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "b8626315-be9b-4985-9bc4-d77f96b6d3b2",
+      "editor_url": "https://create.kahoot.it/creator/b8626315-be9b-4985-9bc4-d77f96b6d3b2",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 8,
+      "content_slide_count": 2,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "assignment_id": "7e1e8da5-4893-4942-bdc4-be86eebcaab0",
+      "code": "005023235",
+      "student_url": "https://kahoot.it/challenge/005023235",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/7e1e8da5-4893-4942-bdc4-be86eebcaab0/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793299276011/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "randomize_answer_order": true,
+      "student_entry_verified": true,
+      "student_landing_question_count": 10,
+      "course_placement_status": "pending_action_time_confirmation",
+      "near_duplicate_of": "7-sb-u4-grammar-homework-01",
+      "unique_difference": "Three grammar-application questions differ: passive WH question, question tag, and passive WH form. Six shared lexical/reading questions do not make the full quizzes duplicates."
     }
   },
   "assessment": {
