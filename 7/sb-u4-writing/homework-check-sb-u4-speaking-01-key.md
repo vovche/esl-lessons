@@ -14,6 +14,7 @@
 Дедлайн: 2027-01-03T23:00, Europe/Kyiv.
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3887075). Стан: `published_pending_homework_daily_limit`.
+[kahoot: домашнє завдання](https://kahoot.it/challenge/0075697663).
 ## 1. 1 бал
 
 Обери значення слова custom.
@@ -82,30 +83,30 @@ Special food is ___ at home.
 
 ## 7. 2 бали
 
-Прочитай текст і визнач правильну відповідь.
+Прочитай діалог і визнач правильну відповідь.
 
 A: What tradition does your family follow? B: We send greeting cards. A: When are they sent? B: Before the holiday. A: Who receives them? B: Our grandparents. We sometimes make the cards ourselves.
 
-What tradition does B describe?
+За діалогом: Яку традицію описує співрозмовник?
 
-1. playing ice hockey
-2. visiting a castle
-3. sending greeting cards
+1. гра в хокей
+2. надсилання вітальних листівок
+3. відвідування замку
 4. Жоден із наведених варіантів
 
-**Ключ: 3. sending greeting cards**
+**Ключ: 2. надсилання вітальних листівок**
 
 ## 8. 2 бали
 
-Прочитай текст і визнач правильну відповідь.
+Прочитай діалог і визнач правильну відповідь.
 
 A: What tradition does your family follow? B: We send greeting cards. A: When are they sent? B: Before the holiday. A: Who receives them? B: Our grandparents. We sometimes make the cards ourselves.
 
-Who receives the cards?
+За діалогом: Хто отримує листівки?
 
-1. grandparents
-2. a referee
-3. a tour guide
+1. дідусь і бабуся
+2. екскурсовод
+3. суддя
 4. Жоден із наведених варіантів
 
-**Ключ: 1. grandparents**
+**Ключ: 1. дідусь і бабуся**

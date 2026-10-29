@@ -86,24 +86,24 @@
     },
     {
       "type": "choice",
-      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nA: What tradition does your family follow? B: We send greeting cards. A: When are they sent? B: Before the holiday. A: Who receives them? B: Our grandparents. We sometimes make the cards ourselves.\n\nWhat tradition does B describe?",
+      "prompt": "Прочитай діалог і визнач правильну відповідь.\n\nA: What tradition does your family follow? B: We send greeting cards. A: When are they sent? B: Before the holiday. A: Who receives them? B: Our grandparents. We sometimes make the cards ourselves.\n\nЗа діалогом: Яку традицію описує співрозмовник?",
       "points": 2,
       "options": [
-        "playing ice hockey",
-        "visiting a castle",
-        "sending greeting cards",
+        "гра в хокей",
+        "надсилання вітальних листівок",
+        "відвідування замку",
         "Жоден із наведених варіантів"
       ],
-      "key": 2
+      "key": 1
     },
     {
       "type": "choice",
-      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nA: What tradition does your family follow? B: We send greeting cards. A: When are they sent? B: Before the holiday. A: Who receives them? B: Our grandparents. We sometimes make the cards ourselves.\n\nWho receives the cards?",
+      "prompt": "Прочитай діалог і визнач правильну відповідь.\n\nA: What tradition does your family follow? B: We send greeting cards. A: When are they sent? B: Before the holiday. A: Who receives them? B: Our grandparents. We sometimes make the cards ourselves.\n\nЗа діалогом: Хто отримує листівки?",
       "points": 2,
       "options": [
-        "grandparents",
-        "a referee",
-        "a tour guide",
+        "дідусь і бабуся",
+        "екскурсовод",
+        "суддя",
         "Жоден із наведених варіантів"
       ],
       "key": 0
@@ -129,6 +129,38 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "da67ad48-8aa7-40e5-a56f-c839ac49221f",
+      "editor_url": "https://create.kahoot.it/creator/da67ad48-8aa7-40e5-a56f-c839ac49221f",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 8,
+      "content_slide_count": 1,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "assignment_id": "7d5cf570-2663-4000-a4ce-a615602e7e18",
+      "code": "0075697663",
+      "student_url": "https://kahoot.it/challenge/0075697663",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/7d5cf570-2663-4000-a4ce-a615602e7e18/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793300222042/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "randomize_answer_order": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": false,
+      "title": "7 клас · 051 · Traditions: Speaking"
     }
   },
   "assessment": {

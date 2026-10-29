@@ -68,26 +68,26 @@ Special food is ___ at home.
 
 ## 7. 2 бали
 
-Прочитай текст і визнач правильну відповідь.
+Прочитай діалог і визнач правильну відповідь.
 
 A: What tradition does your family follow? B: We send greeting cards. A: When are they sent? B: Before the holiday. A: Who receives them? B: Our grandparents. We sometimes make the cards ourselves.
 
-What tradition does B describe?
+За діалогом: Яку традицію описує співрозмовник?
 
-1. playing ice hockey
-2. visiting a castle
-3. sending greeting cards
+1. гра в хокей
+2. надсилання вітальних листівок
+3. відвідування замку
 4. Жоден із наведених варіантів
 
 ## 8. 2 бали
 
-Прочитай текст і визнач правильну відповідь.
+Прочитай діалог і визнач правильну відповідь.
 
 A: What tradition does your family follow? B: We send greeting cards. A: When are they sent? B: Before the holiday. A: Who receives them? B: Our grandparents. We sometimes make the cards ourselves.
 
-Who receives the cards?
+За діалогом: Хто отримує листівки?
 
-1. grandparents
-2. a referee
-3. a tour guide
+1. дідусь і бабуся
+2. екскурсовод
+3. суддя
 4. Жоден із наведених варіантів
