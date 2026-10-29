@@ -58,16 +58,27 @@ def render_footer(tests: list[dict], lesson_path: str | None = None, root: Path 
         validate_test(test)
     links = []
     for index, test in enumerate(tests, 1):
+        kahoot = {}
+        if test.get('content_path') and root.is_dir():
+            content_file = root / test['content_path']
+            if content_file.is_file():
+                assert content_file.resolve().is_relative_to(root.resolve()), 'content path outside lesson root'
+                document = json.loads(content_file.read_text(encoding='utf-8'))
+                kahoot = document.get('platforms', {}).get('kahoot', {})
+        has_kahoot_homework = kahoot.get('status') == 'homework_created' and kahoot.get('verified') is True
         if test.get('source_lesson_title'):
             links.append('Перевірка ДЗ за темою «' + html.escape(test['source_lesson_title']) + '».')
         if test.get('status') != 'homework_created':
             label = 'Тест для самоперевірки'
             if len(tests) > 1:
                 label += f' · частина {index}'
-            links.append(f'<a href="{html.escape(test["test_url"], quote=True)}" target="_blank" '
-                         f'rel="noopener noreferrer">{label}</a> (максимум 10 балів). '
-                         'Посилання на домашнє завдання буде додано згодом; '
-                         'самоперевірка не надсилає результат учителю.')
+            pending_note = ('Самоперевірка не надсилає результат учителю.' if has_kahoot_homework else
+                            'Посилання на домашнє завдання буде додано згодом; '
+                            'самоперевірка не надсилає результат учителю.')
+            links.append(
+                f'<a href="{html.escape(test["test_url"], quote=True)}" target="_blank" '
+                f'rel="noopener noreferrer">{label}</a> (максимум 10 балів). {pending_note}'
+            )
         else:
             label = 'Домашнє завдання на «На Урок»'
             if len(tests) > 1:
@@ -86,27 +97,22 @@ def render_footer(tests: list[dict], lesson_path: str | None = None, root: Path 
                 links.append(f'<a href="{html.escape(content.with_suffix(".pdf").as_posix(), quote=True)}">'
                              'Завдання для друку (PDF)</a>.')
         if test.get('content_path') and root.is_dir():
-            content_file = root / test['content_path']
-            if content_file.is_file():
-                assert content_file.resolve().is_relative_to(root.resolve()), 'content path outside lesson root'
-                document = json.loads(content_file.read_text(encoding='utf-8'))
-                kahoot = document.get('platforms', {}).get('kahoot', {})
-                if kahoot.get('status') == 'homework_created' and kahoot.get('verified') is True:
-                    code = str(kahoot.get('code', ''))
-                    assert re.fullmatch(r'[0-9]+', code), 'invalid Kahoot challenge code'
-                    student = urlparse(kahoot.get('student_url', ''))
-                    assert ((student.scheme, student.netloc, student.path)
-                            == ('https', 'kahoot.it', f'/challenge/{code}')
-                            and not student.params and not student.query and not student.fragment), \
-                        'invalid Kahoot student URL or challenge code mismatch'
-                    assert kahoot.get('normalization_max') == 10, 'expected Kahoot normalization to 10'
-                    assert kahoot.get('no_deadline') is True and kahoot.get('deadline') is None, \
-                        'expected Kahoot homework without a deadline'
-                    links.append(
-                        f'<a href="{html.escape(kahoot["student_url"], quote=True)}" target="_blank" '
-                        'rel="noopener noreferrer">Резервне ДЗ на Kahoot</a> '
-                        '(без кінцевої дати; оцінка за шкалою 10).'
-                    )
+            if has_kahoot_homework:
+                code = str(kahoot.get('code', ''))
+                assert re.fullmatch(r'[0-9]+', code), 'invalid Kahoot challenge code'
+                student = urlparse(kahoot.get('student_url', ''))
+                assert ((student.scheme, student.netloc, student.path)
+                        == ('https', 'kahoot.it', f'/challenge/{code}')
+                        and not student.params and not student.query and not student.fragment), \
+                    'invalid Kahoot student URL or challenge code mismatch'
+                assert kahoot.get('normalization_max') == 10, 'expected Kahoot normalization to 10'
+                assert kahoot.get('no_deadline') is True and kahoot.get('deadline') is None, \
+                    'expected Kahoot homework without a deadline'
+                links.append(
+                    f'<a href="{html.escape(kahoot["student_url"], quote=True)}" target="_blank" '
+                    'rel="noopener noreferrer">Резервне ДЗ на Kahoot</a> '
+                    '(без кінцевої дати; оцінка за шкалою 10).'
+                )
     return '<p data-naurok-homework="true" data-dictionary-skip>' + '<br>'.join(links) + '</p>'
 
 

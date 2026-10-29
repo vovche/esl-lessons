@@ -80,6 +80,15 @@ with tempfile.TemporaryDirectory() as directory:
     assert kahoot_html == attach(kahoot_html, [portable_receipt], '7/sample/index.html', root), \
         'repeated attach duplicated Kahoot homework'
     assert kahoot_html.count('Резервне ДЗ на Kahoot') == 1
+    pending_with_kahoot = attach(
+        source,
+        [dict(portable_receipt, status='published_pending_homework_daily_limit')],
+        '7/sample/index.html',
+        root,
+    )
+    assert 'Резервне ДЗ на Kahoot</a>' in pending_with_kahoot
+    assert 'Посилання на домашнє завдання буде додано згодом' not in pending_with_kahoot
+    assert 'Самоперевірка не надсилає результат учителю.' in pending_with_kahoot
     assert 'Резервне ДЗ на Kahoot' not in render_kahoot(dict(kahoot, status='created_pending_assignment'))
     assert 'Резервне ДЗ на Kahoot' not in render_kahoot(dict(kahoot, verified=False))
     for invalid in [

@@ -129,6 +129,40 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "kahoot_id": "12ae89a7-d460-4bfb-9006-c063c8a7aedd",
+      "title": "7 клас · 101 · Подорожі: слухання",
+      "visibility": "public",
+      "editor_url": "https://create.kahoot.it/creator/12ae89a7-d460-4bfb-9006-c063c8a7aedd",
+      "test_url": "https://create.kahoot.it/details/7-101/12ae89a7-d460-4bfb-9006-c063c8a7aedd",
+      "status": "homework_created",
+      "verified": true,
+      "assignment_id": "976108b6-175c-4157-bc8c-f3b60ac89ed0",
+      "code": "009637966",
+      "student_url": "https://kahoot.it/challenge/009637966",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/976108b6-175c-4157-bc8c-f3b60ac89ed0/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793251461338/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "questions_verified": 8,
+      "content_slides_verified": 2,
+      "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
+      "course_title": "7 клас",
+      "course_module": 8,
+      "course_membership_verified": true,
+      "course_status": "draft_not_saved_due_empty_module_7"
     }
   },
   "assessment": {
