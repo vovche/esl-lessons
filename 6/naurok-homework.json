@@ -2116,7 +2116,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3887023",
           "title": "Hello! · 6 клас · ESL hello",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3887023",
           "verified": true,
           "question_points": [
@@ -2136,7 +2136,26 @@
           "assessment_lesson_path": "6/sb-1a/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Hello! Знайомство й повторення",
-          "content_id": "6-sb-hello-homework-01"
+          "content_id": "6-sb-hello-homework-01",
+          "homework_id": "86435825",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86435825",
+          "teacher_homework_actual_url": "https://naurok.com.ua/test/homework/86435825",
+          "code": "6856263",
+          "student_url": "https://naurok.ua/test/join?gamecode=6856263",
+          "student_entry_verified": true,
+          "active_students": 0,
+          "verified_on_site_at": "2026-10-29T11:18:46+02:00",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": true,
+            "show_ranking": true,
+            "game_mode": "none"
+          }
         }
       ]
     },
@@ -2212,7 +2231,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3887042",
           "title": "Round-up 1 · 6 клас · ESL round-up-1",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "published",
           "test_url": "https://naurok.com.ua/test-beta/test/3887042",
           "verified": true,
           "question_points": [
@@ -2232,7 +2251,19 @@
           "assessment_lesson_path": "6/sb-2a/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Round-up 1 Повторення юніту 1",
-          "content_id": "6-sb-round-up-1-homework-01"
+          "content_id": "6-sb-round-up-1-homework-01",
+          "existing_assignment_review": {
+            "homework_id": "86197546",
+            "actual_deadline": "2026-10-27T23:00",
+            "expected_deadline": "2027-01-03T23:00",
+            "participants": 6,
+            "completed_participants": 6,
+            "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86197546",
+            "teacher_homework_actual_url": "https://naurok.com.ua/test/homework/86197546",
+            "verified_on_site_at": "2026-10-29T11:19:45+02:00",
+            "verified_on_site": true,
+            "note": "An earlier assignment for this test is already finished and has 6 student results. Do not create a duplicate or alter the completed assignment."
+          }
         }
       ]
     },
@@ -2244,7 +2275,7 @@
           "builder_url": "https://naurok.com.ua/test/builder/3887047",
           "title": "Round-up 2 · 6 клас · ESL round-up-2",
           "points": 10,
-          "status": "published_pending_homework_daily_limit",
+          "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3887047",
           "verified": true,
           "question_points": [
@@ -2264,7 +2295,26 @@
           "assessment_lesson_path": "6/sb-3a/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Round-up 2 Повторення юніту 2",
-          "content_id": "6-sb-round-up-2-homework-01"
+          "content_id": "6-sb-round-up-2-homework-01",
+          "homework_id": "86435888",
+          "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86435888",
+          "teacher_homework_actual_url": "https://naurok.com.ua/test/homework/86435888",
+          "code": "4964863",
+          "student_url": "https://naurok.ua/test/join?gamecode=4964863",
+          "student_entry_verified": true,
+          "active_students": 0,
+          "verified_on_site_at": "2026-10-29T11:21:05+02:00",
+          "actual_settings": {
+            "mode": "normal",
+            "score_scale": 10,
+            "time_limit_minutes": 40,
+            "shuffle_questions": false,
+            "shuffle_answers": true,
+            "show_correctness_immediately": false,
+            "show_review_after_test": true,
+            "show_ranking": true,
+            "game_mode": "none"
+          }
         }
       ]
     },
