@@ -14,6 +14,7 @@
 Дедлайн: 2027-01-03T23:00, Europe/Kyiv.
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3887070). Стан: `published_pending_homework_daily_limit`.
+[kahoot: домашнє завдання](https://kahoot.it/challenge/002535231).
 ## 1. 1 бал
 
 Обери значення слова custom.
@@ -86,14 +87,14 @@ Special food is ___ at home.
 
 I can now talk about customs and family celebrations. I test myself without looking at the examples first. Then I compare my answers with the models and correct mistakes. I choose one speaking task and one written task to show what I can do. My next step is to practise the skill that still feels difficult.
 
-What do I do before checking the models?
+Що я роблю перед тим, як звірити відповіді зі зразками?
 
-1. copy the answers
-2. skip all tasks
-3. test myself
-4. Жоден із наведених варіантів
+1. пропускаю всі завдання
+2. спершу перевіряю себе без прикладів
+3. Жоден із наведених варіантів
+4. одразу читаю правильні відповіді
 
-**Ключ: 3. test myself**
+**Ключ: 2. спершу перевіряю себе без прикладів**
 
 ## 8. 2 бали
 
@@ -101,11 +102,11 @@ What do I do before checking the models?
 
 I can now talk about customs and family celebrations. I test myself without looking at the examples first. Then I compare my answers with the models and correct mistakes. I choose one speaking task and one written task to show what I can do. My next step is to practise the skill that still feels difficult.
 
-What do I practise next?
+Що я практикую як наступний крок?
 
-1. the skill that feels difficult
-2. only my favourite word
-3. nothing
-4. Жоден із наведених варіантів
+1. навичку, яка досі дається складно
+2. іншу тему замість цієї
+3. Жоден із наведених варіантів
+4. лише знайомі приклади
 
-**Ключ: 1. the skill that feels difficult**
+**Ключ: 1. навичку, яка досі дається складно**

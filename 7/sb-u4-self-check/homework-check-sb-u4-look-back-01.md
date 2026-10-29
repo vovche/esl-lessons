@@ -72,12 +72,12 @@ Special food is ___ at home.
 
 I can now talk about customs and family celebrations. I test myself without looking at the examples first. Then I compare my answers with the models and correct mistakes. I choose one speaking task and one written task to show what I can do. My next step is to practise the skill that still feels difficult.
 
-What do I do before checking the models?
+Що я роблю перед тим, як звірити відповіді зі зразками?
 
-1. test myself
-2. copy the answers
-3. skip all tasks
-4. Жоден із наведених варіантів
+1. пропускаю всі завдання
+2. спершу перевіряю себе без прикладів
+3. Жоден із наведених варіантів
+4. одразу читаю правильні відповіді
 
 ## 8. 2 бали
 
@@ -85,9 +85,9 @@ What do I do before checking the models?
 
 I can now talk about customs and family celebrations. I test myself without looking at the examples first. Then I compare my answers with the models and correct mistakes. I choose one speaking task and one written task to show what I can do. My next step is to practise the skill that still feels difficult.
 
-What do I practise next?
+Що я практикую як наступний крок?
 
-1. nothing
-2. the skill that feels difficult
-3. only my favourite word
-4. Жоден із наведених варіантів
+1. навичку, яка досі дається складно
+2. іншу тему замість цієї
+3. Жоден із наведених варіантів
+4. лише знайомі приклади

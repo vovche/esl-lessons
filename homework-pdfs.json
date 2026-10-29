@@ -2091,16 +2091,16 @@
     {
       "id": "7-sb-u4-look-back-homework-01",
       "source": "7/sb-u4-self-check/homework-check-sb-u4-look-back-01.json",
-      "input_sha256": "b49e0a8047da2f042e09392f2feef051b1ce614b3438d83ddf0d245f80f72c09",
+      "input_sha256": "e362cfc481e7cea1cd11cd1772eee40cc36c2e9ff1cbec59522f4ce40030dc0d",
       "student": {
         "path": "7/sb-u4-self-check/homework-check-sb-u4-look-back-01.pdf",
         "pages": 2,
-        "sha256": "45cdaa9ba7641a3cda5e1f6d7489ffa0757aa04464ea9803859520d9573f3548"
+        "sha256": "e07ec1f7b93ac557b993270ac1aa96d60c6c140d852dfa2f2746b8bdf75a298d"
       },
       "teacher": {
         "path": "7/sb-u4-self-check/homework-check-sb-u4-look-back-01-key.pdf",
         "pages": 1,
-        "sha256": "46d861f0b9cd40d2dd6559947a28b34e256eb933783d9271cbe6a6b67e07a0a6"
+        "sha256": "86408103aea0947375431a4a6b773cdadfbc6272229721c95f18786bfae179e5"
       }
     },
     {
@@ -2121,16 +2121,16 @@
     {
       "id": "7-sb-u4-self-check-homework-01",
       "source": "7/sb-u5-lead-in/homework-check-sb-u4-self-check-01.json",
-      "input_sha256": "3589e8c462da6a144b09ad18554056597997da05744eaa78b3a2115e8a2d0d18",
+      "input_sha256": "1f5a7dc4d0c42c967afc25f55ffe1768172509252ffe71db4a8a4db970905c20",
       "student": {
         "path": "7/sb-u5-lead-in/homework-check-sb-u4-self-check-01.pdf",
         "pages": 2,
-        "sha256": "78e5c1def0cbdf244efad65cf54f6563132804f9982e7e5a50721d46bda2ce68"
+        "sha256": "77ac866103c35a948e994d7a22aa2e57549e86443a710e395587ab7075449cb2"
       },
       "teacher": {
         "path": "7/sb-u5-lead-in/homework-check-sb-u4-self-check-01-key.pdf",
         "pages": 1,
-        "sha256": "5acc114261bddc33cbc6ccdc786ef2cd7bc6f8f3ebdcfda3f2b644f6faa836bb"
+        "sha256": "444ce1fa37b686da3accbe11d1a39d415c7e3039a0ec0754037c4a866e460a8c"
       }
     },
     {

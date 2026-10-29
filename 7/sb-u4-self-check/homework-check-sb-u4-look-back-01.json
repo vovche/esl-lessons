@@ -86,27 +86,27 @@
     },
     {
       "type": "choice",
-      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nI can now talk about customs and family celebrations. I test myself without looking at the examples first. Then I compare my answers with the models and correct mistakes. I choose one speaking task and one written task to show what I can do. My next step is to practise the skill that still feels difficult.\n\nWhat do I do before checking the models?",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nI can now talk about customs and family celebrations. I test myself without looking at the examples first. Then I compare my answers with the models and correct mistakes. I choose one speaking task and one written task to show what I can do. My next step is to practise the skill that still feels difficult.\n\nЩо я роблю перед тим, як звірити відповіді зі зразками?",
       "points": 2,
       "options": [
-        "test myself",
-        "copy the answers",
-        "skip all tasks",
-        "Жоден із наведених варіантів"
+        "пропускаю всі завдання",
+        "спершу перевіряю себе без прикладів",
+        "Жоден із наведених варіантів",
+        "одразу читаю правильні відповіді"
       ],
-      "key": 0
+      "key": 1
     },
     {
       "type": "choice",
-      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nI can now talk about customs and family celebrations. I test myself without looking at the examples first. Then I compare my answers with the models and correct mistakes. I choose one speaking task and one written task to show what I can do. My next step is to practise the skill that still feels difficult.\n\nWhat do I practise next?",
+      "prompt": "Прочитай текст і визнач правильну відповідь.\n\nI can now talk about customs and family celebrations. I test myself without looking at the examples first. Then I compare my answers with the models and correct mistakes. I choose one speaking task and one written task to show what I can do. My next step is to practise the skill that still feels difficult.\n\nЩо я практикую як наступний крок?",
       "points": 2,
       "options": [
-        "nothing",
-        "the skill that feels difficult",
-        "only my favourite word",
-        "Жоден із наведених варіантів"
+        "навичку, яка досі дається складно",
+        "іншу тему замість цієї",
+        "Жоден із наведених варіантів",
+        "лише знайомі приклади"
       ],
-      "key": 1
+      "key": 0
     }
   ],
   "id": "7-sb-u4-look-back-homework-01",
@@ -129,6 +129,39 @@
         2,
         2
       ]
+    },
+    "kahoot": {
+      "id": "018ca876-5527-4923-92b1-fb31eb6638c1",
+      "editor_url": "https://create.kahoot.it/creator/018ca876-5527-4923-92b1-fb31eb6638c1",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 8,
+      "content_slide_count": 2,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "assignment_id": "6500755b-37fc-4998-b8e7-dbe58dbabb4f",
+      "code": "002535231",
+      "student_url": "https://kahoot.it/challenge/002535231",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/6500755b-37fc-4998-b8e7-dbe58dbabb4f/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793299810151/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "randomize_answer_order": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": false,
+      "title": "7 клас · 053 · Traditions: Review",
+      "reused_existing_kahoot": false
     }
   },
   "assessment": {
