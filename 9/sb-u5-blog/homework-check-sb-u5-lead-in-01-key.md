@@ -14,6 +14,7 @@
 Дедлайн: 2027-06-01T23:00, Europe/Kyiv.
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3886975). Стан: `published_pending_homework_daily_limit`.
+[kahoot: домашнє завдання](https://kahoot.it/challenge/004607394).
 ## 1. 1 бал
 
 Обери значення слова occupation.
@@ -46,7 +47,7 @@
 
 ## 4. 2 бали
 
-“Do not share the password,” he said. He told us ... it.
+Обери правильне продовження: “Do not share the password,” he said. He told us ... it.
 
 1. not share
 2. not to share
@@ -56,7 +57,7 @@
 
 ## 5. 2 бали
 
-“Please help,” Emma asked. Emma asked Dan ... .
+Обери правильне продовження речення: “Please help,” Emma asked. Emma asked Dan ... .
 
 1. to help
 2. helping
@@ -66,9 +67,7 @@
 
 ## 6. 3 бали
 
-Прочитай текст. Dan is thinking about what to do after Year 9. He compares continuing his education with training for a particular job. Emma says that a dream job should match interests and skills, not only salary. They read job adverts and identify required qualities. An ethical hacker, for example, needs digital skills and a responsible attitude to security.
-
-What attitude does an ethical hacker need?
+Прочитай текст і обери відповідь. Dan is thinking about what to do after Year 9. He compares continuing his education with training for a particular job. Emma says that a dream job should match interests and skills, not only salary. They read job adverts and identify required qualities. An ethical hacker, for example, needs digital skills and a responsible attitude to security. Якого ставлення потребує етичний хакер?
 
 1. a dislike of technology
 2. a responsible attitude to security

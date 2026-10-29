@@ -4086,16 +4086,16 @@
     {
       "id": "9-sb-u5-lead-in-homework-01",
       "source": "9/sb-u5-blog/homework-check-sb-u5-lead-in-01.json",
-      "input_sha256": "7b35f19be6b64f3a442e021019c7a64b2eb635cc2cbe1b11f3e8ffb572029860",
+      "input_sha256": "38b0c35df2bba0a65bc1d732a79fbae0ce97dc18a1441272f7f22e7db7132c64",
       "student": {
         "path": "9/sb-u5-blog/homework-check-sb-u5-lead-in-01.pdf",
         "pages": 2,
-        "sha256": "c5095faa39e4654469fd0b6065629e68834594dd1b9d304c4e52e3bfebe212b2"
+        "sha256": "e2aa0c3dd2a8d04d4aee8605e843510d2d7d1d4d0183c2c0ebc79f760ab8e519"
       },
       "teacher": {
         "path": "9/sb-u5-blog/homework-check-sb-u5-lead-in-01-key.pdf",
         "pages": 1,
-        "sha256": "7bc019401f97e6f17ff5958e3e164c833f361f2c382fbbf8d7d3155eefb42db4"
+        "sha256": "52537c2c2236e484a5ec2d43d7c53f1480c63aca27086e1c3a4897af10d06b26"
       }
     },
     {

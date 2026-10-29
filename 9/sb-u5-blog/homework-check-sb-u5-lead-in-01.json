@@ -47,7 +47,7 @@
     },
     {
       "type": "choice",
-      "prompt": "“Do not share the password,” he said. He told us ... it.",
+      "prompt": "Обери правильне продовження: “Do not share the password,” he said. He told us ... it.",
       "points": 2,
       "options": [
         "not share",
@@ -58,7 +58,7 @@
     },
     {
       "type": "choice",
-      "prompt": "“Please help,” Emma asked. Emma asked Dan ... .",
+      "prompt": "Обери правильне продовження речення: “Please help,” Emma asked. Emma asked Dan ... .",
       "points": 2,
       "options": [
         "to help",
@@ -69,7 +69,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Прочитай текст. Dan is thinking about what to do after Year 9. He compares continuing his education with training for a particular job. Emma says that a dream job should match interests and skills, not only salary. They read job adverts and identify required qualities. An ethical hacker, for example, needs digital skills and a responsible attitude to security.\n\nWhat attitude does an ethical hacker need?",
+      "prompt": "Прочитай текст і обери відповідь. Dan is thinking about what to do after Year 9. He compares continuing his education with training for a particular job. Emma says that a dream job should match interests and skills, not only salary. They read job adverts and identify required qualities. An ethical hacker, for example, needs digital skills and a responsible attitude to security. Якого ставлення потребує етичний хакер?",
       "points": 3,
       "options": [
         "a dislike of technology",
@@ -98,6 +98,60 @@
         2,
         3
       ]
+    },
+    "kahoot": {
+      "kahoot_id": "2cbed645-854b-4a08-acd2-8f7b1ce906be",
+      "title": "9 клас · Jobs Around Us: Починаємо тему",
+      "visibility": "public",
+      "assignment_id": "aa12558a-ee03-4947-a537-538e567b9834",
+      "assignment_code": "004607394",
+      "student_url": "https://kahoot.it/challenge/004607394",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/aa12558a-ee03-4947-a537-538e567b9834/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793303463709/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer_bonus": false,
+      "question_time_limits_seconds": [
+        20,
+        20,
+        20,
+        30,
+        30,
+        null,
+        null,
+        30
+      ],
+      "source_question_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ],
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "maximum_scoring_units": 9,
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "quiz_question_count": 6,
+      "content_slide_count": 2,
+      "question_count": 8,
+      "student_landing_verified": true,
+      "participants_at_verification": 0,
+      "course_title": "9 клас",
+      "course_id": "dfb845bd-6dcb-48ab-afd9-da778e6a9e00",
+      "course_module_actual": 1,
+      "course_module_expected": 5,
+      "course_membership_verified": false,
+      "status": "homework_created_pending_course_placement",
+      "verified": true,
+      "verified_at": "2026-10-29T22:00:00+02:00"
     }
   },
   "assessment": {
