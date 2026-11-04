@@ -132,8 +132,15 @@
       "course_module": 8,
       "course_module_actual": 8,
       "course_membership_verified": true,
-      "publication_status": "publication_pending",
-      "normalization_note": "Стандартні бали за прості запитання, подвійні за складні; максимум 9 сирих балів переведено у шкалу 10."
+      "publication_status": "publication_verified",
+      "normalization_note": "Стандартні бали за прості запитання, подвійні за складні; максимум 9 сирих балів переведено у шкалу 10.",
+      "published_commit_sha": "66671559c5dd3d4a2103dddc861d62c8b18d5673",
+      "pages_run_id": 41911913122,
+      "pages_run_url": "https://github.com/vovche/esl-lessons/actions/runs/41911913122",
+      "live_page_url": "https://vovche.github.io/esl-lessons/9/sb-u8-vocabulary-2/",
+      "live_http_status": 200,
+      "live_student_href_count": 1,
+      "live_student_link_verified": true
     }
   },
   "assessment": {
