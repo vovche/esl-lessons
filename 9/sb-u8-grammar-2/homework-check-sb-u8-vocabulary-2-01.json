@@ -98,6 +98,49 @@
         2,
         3
       ]
+    },
+    "kahoot": {
+      "id": "af1f7435-fa9a-4aeb-bada-c49ee6c62ebf",
+      "editor_url": "https://create.kahoot.it/creator/af1f7435-fa9a-4aeb-bada-c49ee6c62ebf",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "question_count": 6,
+      "content_slide_count": 2,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / 9 * 10",
+      "assignment_id": "69370ce0-9f76-4b74-af93-f73bf7353a65",
+      "code": "0093087414",
+      "student_url": "https://kahoot.it/challenge/0093087414",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/69370ce0-9f76-4b74-af93-f73bf7353a65/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793817081741/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "course_id": "dfb845bd-6dcb-48ab-afd9-da778e6a9e00",
+      "course_title": "9 клас",
+      "course_module": 8,
+      "course_module_actual": 8,
+      "course_membership_verified": true,
+      "adaptations": [
+        {
+          "kind": "score_normalization",
+          "note": "Kahoot supports standard/double/zero points. Simple questions use standard points, harder questions double; raw maximum 9 is normalized to 10."
+        },
+        {
+          "kind": "long_context_split",
+          "note": "Long travel-planning context split into two context slides; prompts are Ukrainian while English learning material remains intact."
+        }
+      ],
+      "reused_existing_assignment": true
     }
   },
   "assessment": {
