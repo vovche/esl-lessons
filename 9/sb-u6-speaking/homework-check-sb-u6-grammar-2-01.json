@@ -129,7 +129,14 @@
       "course_title": "9 клас",
       "course_module": 6,
       "course_membership_verified": true,
-      "reused_existing_assignment": false
+      "reused_existing_assignment": false,
+      "publication_status": "publication_verified",
+      "published_commit_sha": "11443f96e6b62c9172fe7dae41014ac690e4082b",
+      "pages_run_id": 41915243385,
+      "pages_run_url": "https://github.com/vovche/esl-lessons/actions/runs/41915243385",
+      "live_page_url": "https://vovche.github.io/esl-lessons/9/sb-u6-speaking/",
+      "live_http_status": 200,
+      "live_student_href_count": 1
     }
   },
   "assessment": {
