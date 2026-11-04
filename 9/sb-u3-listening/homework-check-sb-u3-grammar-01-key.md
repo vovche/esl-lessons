@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test/9-klas-we-are-young-and-cool-gramatika-3887048.html). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=5689922).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/006470526).
 ## 1. 1 бал
 
 Обери значення слова subculture.
