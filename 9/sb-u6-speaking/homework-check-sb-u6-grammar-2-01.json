@@ -98,6 +98,38 @@
         2,
         3
       ]
+    },
+    "kahoot": {
+      "id": "0b6c75dd-c186-4de1-ba3b-67bcbde9e1e6",
+      "editor_url": "https://create.kahoot.it/creator/0b6c75dd-c186-4de1-ba3b-67bcbde9e1e6",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "question_count": 6,
+      "content_slide_count": 1,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "assignment_id": "10caa846-5334-4fbb-85ef-7c834b51c340",
+      "code": "0074145856",
+      "student_url": "https://kahoot.it/challenge/0074145856",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/10caa846-5334-4fbb-85ef-7c834b51c340/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793810748389/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "course_id": "dfb845bd-6dcb-48ab-afd9-da778e6a9e00",
+      "course_title": "9 клас",
+      "course_module": 6,
+      "course_membership_verified": true,
+      "reused_existing_assignment": false
     }
   },
   "assessment": {
