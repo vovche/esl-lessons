@@ -98,6 +98,42 @@
         2,
         3
       ]
+    },
+    "kahoot": {
+      "id": "1bc40ad9-4ad5-4d93-a8d6-8c7942df0978",
+      "editor_url": "https://create.kahoot.it/creator/1bc40ad9-4ad5-4d93-a8d6-8c7942df0978",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "question_count": 6,
+      "content_slide_count": 1,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "kahoot_score_max": 9,
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / 9 * 10",
+      "assignment_id": "d0b42a6c-0394-4d11-9f30-803eff4fe79e",
+      "code": "0061617633",
+      "student_url": "https://kahoot.it/challenge/0061617633",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/d0b42a6c-0394-4d11-9f30-803eff4fe79e/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793825453699/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "scoring_ui_verified": true,
+      "course_id": "dfb845bd-6dcb-48ab-afd9-da778e6a9e00",
+      "course_title": "9 клас",
+      "course_module": 8,
+      "course_module_actual": 8,
+      "course_membership_verified": true,
+      "publication_status": "publication_pending",
+      "normalization_note": "Стандартні бали за прості запитання, подвійні за складні; максимум 9 сирих балів переведено у шкалу 10."
     }
   },
   "assessment": {
