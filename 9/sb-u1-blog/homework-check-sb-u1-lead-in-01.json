@@ -132,7 +132,14 @@
       "course_title": "9 клас",
       "course_module": 1,
       "course_membership_verified": true,
-      "publication_status": "publication_pending"
+      "publication_status": "publication_verified",
+      "published_commit_sha": "cc79b9f4864340ad3dd4cb34a948274073933224",
+      "pages_run_id": 41908638620,
+      "pages_run_url": "https://github.com/vovche/esl-lessons/actions/runs/41908638620",
+      "live_page_url": "https://vovche.github.io/esl-lessons/9/sb-u1-blog/",
+      "live_http_status": 200,
+      "live_student_href_count": 1,
+      "live_student_link_verified": true
     }
   },
   "assessment": {
