@@ -98,6 +98,58 @@
         2,
         3
       ]
+    },
+    "kahoot": {
+      "id": "e0ceccd4-8ba7-4f84-9bc1-b30a790de1d9",
+      "editor_url": "https://create.kahoot.it/creator/e0ceccd4-8ba7-4f84-9bc1-b30a790de1d9",
+      "status": "homework_created_pending_publication",
+      "verified": true,
+      "visibility": "public",
+      "question_count": 6,
+      "content_slide_count": 1,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "source_question_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ],
+      "maximum_scoring_units": 9,
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "assignment_id": "c698573d-bc18-4e0d-8f5d-22438bc352b9",
+      "code": "0052493553",
+      "student_url": "https://kahoot.it/challenge/0052493553",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/c698573d-bc18-4e0d-8f5d-22438bc352b9/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793827896945/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "scoring_ui_verified": true,
+      "adaptations": [
+        {
+          "question": 6,
+          "from": "English comprehension question and paragraph",
+          "to": "Ukrainian question with separate content slide",
+          "reason": "Ukrainian task instruction; Kahoot question length limit",
+          "approved": true
+        }
+      ],
+      "title": "9 клас · 121 · Подорожі: говоріння",
+      "assessment_lesson_path": "9/sb-u8-writing/",
+      "course_id": "dfb845bd-6dcb-48ab-afd9-da778e6a9e00",
+      "course_title": "9 клас",
+      "course_module": 8,
+      "course_membership_verified": true
     }
   },
   "assessment": {
