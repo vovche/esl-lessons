@@ -14,6 +14,8 @@
 Дедлайн: 2027-06-01T23:00, Europe/Kyiv.
 
 [naurok: тест](https://naurok.com.ua/test-beta/test/3887073). Стан: `published_pending_homework_daily_limit`.
+[kahoot: тест](https://create.kahoot.it/details/9-115-think-green/2b669f5d-0082-4785-a603-da555c042f58). Стан: `homework_created`.
+[kahoot: домашнє завдання](https://kahoot.it/challenge/008250683).
 ## 1. 1 бал
 
 Обери значення слова environment.
