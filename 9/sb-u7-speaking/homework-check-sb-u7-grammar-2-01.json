@@ -98,6 +98,48 @@
         2,
         3
       ]
+    },
+    "kahoot": {
+      "id": "5e567358-684f-40e9-8e3c-6c46dbfc9c42",
+      "editor_url": "https://create.kahoot.it/creator/5e567358-684f-40e9-8e3c-6c46dbfc9c42",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "question_count": 6,
+      "content_slide_count": 2,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / 9 * 10",
+      "assignment_id": "fcd6930a-d3ce-4d47-b3eb-9b977d8a6760",
+      "code": "00496629",
+      "student_url": "https://kahoot.it/challenge/00496629",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/fcd6930a-d3ce-4d47-b3eb-9b977d8a6760/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793816249050/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "course_id": "dfb845bd-6dcb-48ab-afd9-da778e6a9e00",
+      "course_title": "9 клас",
+      "course_module": 7,
+      "course_module_actual": 7,
+      "course_membership_verified": true,
+      "adaptations": [
+        {
+          "kind": "score_normalization",
+          "note": "Kahoot supports standard/double/zero point modes; applied 1,1,1,2,2,2 (raw max 9), normalized to 10."
+        },
+        {
+          "kind": "long_reading_prompt",
+          "note": "Reading context retained in two content slides; final comprehension prompt is Ukrainian multiple choice."
+        }
+      ]
     }
   },
   "assessment": {
