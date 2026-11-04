@@ -98,6 +98,39 @@
         2,
         3
       ]
+    },
+    "kahoot": {
+      "kahoot_id": "a7935395-7cb1-4817-b475-9372cf05f04d",
+      "title": "9 клас · 112 · Science & Tech: Блог",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "question_count": 8,
+      "content_slide_count": 2,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "assignment_id": "1a65a03c-e89c-413c-bb3d-ffcde83c95bb",
+      "code": "008899094",
+      "student_url": "https://kahoot.it/challenge/008899094",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/1a65a03c-e89c-413c-bb3d-ffcde83c95bb/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793305921061/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "course_id": "dfb845bd-6dcb-48ab-afd9-da778e6a9e00",
+      "course_title": "9 клас",
+      "course_module": 6,
+      "course_module_actual": 6,
+      "course_membership_verified": true,
+      "verified_at": "2026-11-04T15:26:00+02:00"
     }
   },
   "assessment": {
