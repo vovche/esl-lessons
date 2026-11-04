@@ -98,6 +98,44 @@
         2,
         3
       ]
+    },
+    "kahoot": {
+      "id": "f76e12fe-86ae-4288-adfd-9767daa07903",
+      "editor_url": "https://create.kahoot.it/creator/f76e12fe-86ae-4288-adfd-9767daa07903",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "question_count": 6,
+      "content_slide_count": 2,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "kahoot_score_max": 9,
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / 9 * 10",
+      "assignment_id": "e5e0d0ce-7aae-4ffd-aab4-5ff6065fb2b6",
+      "code": "005050467",
+      "student_url": "https://kahoot.it/challenge/005050467",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/e5e0d0ce-7aae-4ffd-aab4-5ff6065fb2b6/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793824021693/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "course_id": "dfb845bd-6dcb-48ab-afd9-da778e6a9e00",
+      "course_title": "9 клас",
+      "course_module": 8,
+      "course_membership_verified": true,
+      "scoring_modes_rechecked_after_reopen": true,
+      "publication_status": "publication_pending",
+      "adaptations": [
+        "Added Ukrainian instruction to English-language grammar items."
+      ]
     }
   },
   "assessment": {
