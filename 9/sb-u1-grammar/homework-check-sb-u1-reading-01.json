@@ -101,6 +101,53 @@
         2,
         3
       ]
+    },
+    "kahoot": {
+      "id": "6ce8982f-ea67-4776-bc1d-a231df3b8f5e",
+      "editor_url": "https://create.kahoot.it/creator/6ce8982f-ea67-4776-bc1d-a231df3b8f5e",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "question_count": 6,
+      "content_slide_count": 2,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "assignment_id": "93378123-f988-4fdd-b56c-ddefd30730ce",
+      "code": "0054821",
+      "student_url": "https://kahoot.it/challenge/0054821",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/93378123-f988-4fdd-b56c-ddefd30730ce/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793836016401/summary",
+      "kahoot_id": "6ce8982f-ea67-4776-bc1d-a231df3b8f5e",
+      "title": "9 клас · 126 · All About Me: Повторення",
+      "source_question_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ],
+      "maximum_scoring_units": 9,
+      "assessment_lesson_path": "9/sb-u1-self-check/",
+      "course_id": "dfb845bd-6dcb-48ab-afd9-da778e6a9e00",
+      "course_title": "9 клас",
+      "course_module": 1,
+      "course_membership_verified": true,
+      "deadline": null,
+      "participants": 0,
+      "no_deadline": true,
+      "reused_for": [
+        "9-sb-u1-look-back-homework-01",
+        "9-sb-u1-reading-homework-01"
+      ],
+      "source_match": "identical questions, answer options, and point weights"
     }
   },
   "assessment": {

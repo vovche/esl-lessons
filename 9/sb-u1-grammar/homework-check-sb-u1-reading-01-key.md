@@ -15,6 +15,7 @@
 
 [naurok: тест](https://naurok.com.ua/test/9-klas-all-about-me-chitannya-3886862.html). Стан: `homework_created`.
 [naurok: домашнє завдання](https://naurok.ua/test/join?gamecode=6289854).
+[kahoot: домашнє завдання](https://kahoot.it/challenge/0054821).
 ## 1. 1 бал
 
 Обери значення слова personality.
