@@ -11709,12 +11709,22 @@
       "target_title": "7en47 Traditions: Grammar practice",
       "naurok_test_id": "3887039",
       "kahoot_id": "b8626315-be9b-4985-9bc4-d77f96b6d3b2",
-      "naurok_current_title": "7 клас · Traditions... Traditions...: Граматика: застосування Свята і традиції · Граматика: застосування",
-      "kahoot_current_title": "7 клас · Traditions... Traditions...: Граматика: застосування Свята і традиції · Граматика: застосування",
+      "naurok_current_title": "7en47 Traditions: Grammar practice",
+      "kahoot_current_title": "7en47 Traditions: Grammar practice",
       "kahoot_status": "homework_created",
       "kahoot_assignment_url": "https://kahoot.it/challenge/005023235",
       "previous_target_title": "7en47 Traditions... Traditions...: Граматика: застосування Свята і традиції Граматика: застосування",
-      "long_topic": "Traditions... Traditions...: Граматика: застосування Свята і традиції Граматика: застосування"
+      "long_topic": "Traditions... Traditions...: Граматика: застосування Свята і традиції Граматика: застосування",
+      "rename_status": "verified_both_platforms",
+      "verified_platforms": [
+        "kahoot",
+        "naurok"
+      ],
+      "rename_verified_on": "2026-11-08",
+      "naurok_title_verified": "7en47 Traditions: Grammar practice",
+      "naurok_renamed_verified_on": "2026-11-08",
+      "kahoot_title_verified": "7en47 Traditions: Grammar practice",
+      "kahoot_renamed_verified_on": "2026-11-08"
     },
     {
       "canonical_id": "7-sb-u4-lead-in-homework-01",
@@ -14977,7 +14987,8 @@
       "7-sb-u8-vocabulary-homework-01",
       "7-sb-u8-writing-homework-01",
       "9-sb-u1-self-check-homework-01",
-      "7-school-special-days-homework-01"
+      "7-school-special-days-homework-01",
+      "7-sb-u4-grammar-2-homework-01"
     ],
     "naurok_completed_ids": [
       "6-jolly-phonics-homework-01",
@@ -15167,7 +15178,8 @@
       "9-sb-u1-blog-homework-01",
       "9-sb-u1-lead-in-homework-01",
       "9-sb-u1-grammar-homework-01",
-      "7-school-special-days-homework-01"
+      "7-school-special-days-homework-01",
+      "7-sb-u4-grammar-2-homework-01"
     ],
     "kahoot_completed_ids": [
       "6-jolly-phonics-homework-01",
@@ -15361,7 +15373,8 @@
       "9-sb-u1-blog-homework-01",
       "9-sb-u1-lead-in-homework-01",
       "9-sb-u1-grammar-homework-01",
-      "7-school-special-days-homework-01"
+      "7-school-special-days-homework-01",
+      "7-sb-u4-grammar-2-homework-01"
     ]
   },
   "kahoot_mapping_conflicts": [

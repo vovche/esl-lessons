@@ -162,7 +162,9 @@
       "student_landing_question_count": 10,
       "course_placement_status": "pending_action_time_confirmation",
       "near_duplicate_of": "7-sb-u4-grammar-homework-01",
-      "unique_difference": "Three grammar-application questions differ: passive WH question, question tag, and passive WH form. Six shared lexical/reading questions do not make the full quizzes duplicates."
+      "unique_difference": "Three grammar-application questions differ: passive WH question, question tag, and passive WH form. Six shared lexical/reading questions do not make the full quizzes duplicates.",
+      "title_verified": "7en47 Traditions: Grammar practice",
+      "title_verified_on": "2026-11-08"
     }
   },
   "assessment": {
@@ -178,6 +180,7 @@
     "lesson_in_month": 7,
     "target_title": "7en47 Traditions: Grammar practice",
     "mapping_method": "section",
-    "status": "pending_external_rename"
+    "status": "verified_both_platforms",
+    "verified_on": "2026-11-08"
   }
 }
