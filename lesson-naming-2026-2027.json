@@ -11610,7 +11610,7 @@
       "target_title": "7en39 Cooking: Vocabulary practice",
       "naurok_test_id": "3887015",
       "kahoot_id": "9fae5b0c-4afb-46c1-9a29-350edace62fd",
-      "naurok_current_title": "7 клас · Are you ready to cook?: Лексика: застосування Приготування їжі · Лексика: застосування",
+      "naurok_current_title": "7en39 Cooking: Vocabulary practice",
       "kahoot_current_title": "7en39 Cooking: Vocabulary practice",
       "kahoot_status": "homework_created",
       "kahoot_assignment_url": "https://kahoot.it/challenge/007650126",
@@ -11619,10 +11619,13 @@
       "kahoot_title_verified": "7en39 Cooking: Vocabulary practice",
       "kahoot_renamed_verified_on": "2026-11-07",
       "verified_platforms": [
-        "kahoot"
+        "kahoot",
+        "naurok"
       ],
-      "rename_status": "kahoot_title_verified",
-      "rename_verified_on": "2026-11-07"
+      "rename_status": "verified_both_platforms",
+      "rename_verified_on": "2026-11-07",
+      "naurok_title_verified": "7en39 Cooking: Vocabulary practice",
+      "naurok_renamed_verified_on": "2026-11-07"
     },
     {
       "canonical_id": "7-sb-u3-writing-homework-01",
@@ -14753,8 +14756,8 @@
     }
   ],
   "rename_progress": {
-    "verified_both_platforms": 179,
-    "naurok_title_verified": 183,
+    "verified_both_platforms": 180,
+    "naurok_title_verified": 184,
     "kahoot_title_verified": 190,
     "total_tests": 327,
     "updated_on": "2026-11-07",
@@ -14886,6 +14889,7 @@
       "7-sb-u3-lead-in-homework-01",
       "7-sb-u3-listening-homework-01",
       "7-sb-u3-reading-homework-01",
+      "7-sb-u3-vocabulary-2-homework-01",
       "7-sb-u3-vocabulary-homework-01",
       "7-sb-u3-writing-homework-01",
       "7-sb-u4-reading-homework-01",
@@ -15070,6 +15074,7 @@
       "7-sb-u3-reading-homework-01",
       "7-sb-u3-self-check-homework-01",
       "7-sb-u3-speaking-homework-01",
+      "7-sb-u3-vocabulary-2-homework-01",
       "7-sb-u3-vocabulary-homework-01",
       "7-sb-u3-writing-homework-01",
       "7-sb-u4-reading-homework-01",
