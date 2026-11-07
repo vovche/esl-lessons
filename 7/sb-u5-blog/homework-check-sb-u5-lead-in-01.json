@@ -179,7 +179,8 @@
     "lesson_in_month": 1,
     "target_title": "7en51 Sport: Intro",
     "mapping_method": "unit_lead_in",
-    "status": "kahoot_renamed_pending_naurok",
-    "kahoot_title_verified": "7en51 Sport: Intro"
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en51 Sport: Intro",
+    "naurok_title_verified": "7en51 Sport: Intro"
   }
 }

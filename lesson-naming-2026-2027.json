@@ -8890,7 +8890,7 @@
       "target_title": "7en51 Sport: Intro",
       "naurok_test_id": "3887139",
       "kahoot_id": "cb358a87-05f9-48ee-b6b9-c124fc9033e0",
-      "naurok_current_title": "7 клас · Sport from A to Z: Починаємо юніт Спорт · Починаємо юніт",
+      "naurok_current_title": "7en51 Sport: Intro",
       "kahoot_current_title": "7en51 Sport: Intro",
       "kahoot_status": "homework_created",
       "kahoot_assignment_url": "https://kahoot.it/challenge/0088063300",
@@ -8898,9 +8898,10 @@
       "long_topic": "Sport: Intro",
       "kahoot_title_verified": "7en51 Sport: Intro",
       "kahoot_renamed_verified_on": "2026-11-07",
-      "rename_status": "kahoot_title_verified",
+      "rename_status": "verified_both_platforms",
       "verified_platforms": [
-        "kahoot"
+        "kahoot",
+        "naurok"
       ],
       "naurok_renamed_verified_on": "2026-11-07",
       "naurok_title_verified": "7en51 Sport: Intro",
@@ -11233,7 +11234,7 @@
       "target_title": "7en22 Chores: Vocabulary",
       "naurok_test_id": "3886950",
       "kahoot_id": "c0bb441d-4bc0-4713-b9ba-e756d5c570a5",
-      "naurok_current_title": "7 клас · 020 · Do your chores: Vocabulary",
+      "naurok_current_title": "7en22 Chores: Vocabulary",
       "kahoot_current_title": "7en22 Chores: Vocabulary",
       "kahoot_status": "homework_created",
       "kahoot_assignment_url": "https://kahoot.it/challenge/008145982",
@@ -11241,9 +11242,10 @@
       "long_topic": "Chores: Vocabulary",
       "naurok_renamed_verified_on": "2026-11-07",
       "naurok_title_verified": "7en22 Chores: Vocabulary",
-      "rename_status": "kahoot_title_verified",
+      "rename_status": "verified_both_platforms",
       "verified_platforms": [
-        "kahoot"
+        "kahoot",
+        "naurok"
       ],
       "kahoot_title_verified": "7en22 Chores: Vocabulary",
       "kahoot_renamed_verified_on": "2026-11-07",
@@ -14756,8 +14758,8 @@
     }
   ],
   "rename_progress": {
-    "verified_both_platforms": 180,
-    "naurok_title_verified": 184,
+    "verified_both_platforms": 182,
+    "naurok_title_verified": 186,
     "kahoot_title_verified": 190,
     "total_tests": 327,
     "updated_on": "2026-11-07",
