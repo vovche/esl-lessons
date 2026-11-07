@@ -13460,14 +13460,24 @@
       "topic": "Me: Blog",
       "target_title": "9en12 Me: Blog",
       "naurok_test_id": "3886832",
-      "kahoot_id": "e8432254-236f-4f4a-b17a-4845866c4dfb",
-      "naurok_current_title": "9 клас · All About Me: Блог і думки однолітків",
-      "kahoot_current_title": "9 клас · All About Me: Блог і думки однолітків",
-      "kahoot_status": "reused_existing_kahoot_pending_lesson_publication",
-      "kahoot_assignment_url": "https://kahoot.it/challenge/007087367",
+      "kahoot_id": "4c6d9509-b9e8-4de1-8fd3-948ae16b74b7",
+      "naurok_current_title": "9en12 Me: Blog",
+      "kahoot_current_title": "9en12 Me: Blog",
+      "kahoot_status": "homework_created",
+      "kahoot_assignment_url": "https://kahoot.it/challenge/002789075",
       "previous_target_title": "9en12 All About Me: Блог і думки однолітків",
       "long_topic": "All About Me: Блог і думки однолітків",
-      "kahoot_mapping_status": "shared_platform_id_conflict"
+      "kahoot_mapping_status": "verified",
+      "kahoot_title_verified": "9en12 Me: Blog",
+      "kahoot_renamed_verified_on": "2026-11-07",
+      "rename_status": "verified_both_platforms",
+      "verified_platforms": [
+        "naurok",
+        "kahoot"
+      ],
+      "naurok_title_verified": "9en12 Me: Blog",
+      "naurok_renamed_verified_on": "2026-11-07",
+      "rename_verified_on": "2026-11-07"
     },
     {
       "canonical_id": "9-sb-u1-grammar-homework-01",
@@ -13481,14 +13491,23 @@
       "topic": "Me: Grammar",
       "target_title": "9en16 Me: Grammar",
       "naurok_test_id": "3886840",
-      "kahoot_id": "e8432254-236f-4f4a-b17a-4845866c4dfb",
-      "naurok_current_title": "9 клас · All About Me: Граматика",
-      "kahoot_current_title": "9 клас · All About Me: Граматика",
-      "kahoot_status": "reused_existing_kahoot_pending_lesson_publication",
-      "kahoot_assignment_url": "https://kahoot.it/challenge/007087367",
+      "kahoot_id": "174df41b-74e1-44ef-9cde-feac1e460e56",
+      "naurok_current_title": "9en16 Me: Grammar",
+      "kahoot_current_title": "9en16 Me: Grammar",
+      "kahoot_status": "homework_created",
+      "kahoot_assignment_url": "https://kahoot.it/challenge/002763896",
       "previous_target_title": "9en16 All About Me: Граматика",
       "long_topic": "All About Me: Граматика",
-      "kahoot_mapping_status": "shared_platform_id_conflict"
+      "kahoot_title_verified": "9en16 Me: Grammar",
+      "kahoot_renamed_verified_on": "2026-11-07",
+      "naurok_title_verified": "9en16 Me: Grammar",
+      "naurok_renamed_verified_on": "2026-11-07",
+      "rename_status": "verified_both_platforms",
+      "verified_platforms": [
+        "naurok",
+        "kahoot"
+      ],
+      "rename_verified_on": "2026-11-07"
     },
     {
       "canonical_id": "9-sb-u1-grammar-2-homework-01",
@@ -13523,13 +13542,22 @@
       "target_title": "9en12 Me: Intro",
       "naurok_test_id": "3886850",
       "kahoot_id": "e8432254-236f-4f4a-b17a-4845866c4dfb",
-      "naurok_current_title": "9 клас · All About Me: Починаємо тему",
-      "kahoot_current_title": "9 клас · All About Me: Починаємо тему",
+      "naurok_current_title": "9en12 Me: Intro",
+      "kahoot_current_title": "9en12 Me: Intro",
       "kahoot_status": "homework_created",
       "kahoot_assignment_url": "https://kahoot.it/challenge/007087367",
       "previous_target_title": "9en12 All About Me: Починаємо тему",
       "long_topic": "All About Me: Починаємо тему",
-      "kahoot_mapping_status": "shared_platform_id_conflict"
+      "kahoot_title_verified": "9en12 Me: Intro",
+      "kahoot_renamed_verified_on": "2026-11-07",
+      "rename_status": "verified_both_platforms",
+      "verified_platforms": [
+        "naurok",
+        "kahoot"
+      ],
+      "naurok_title_verified": "9en12 Me: Intro",
+      "naurok_renamed_verified_on": "2026-11-07",
+      "rename_verified_on": "2026-11-07"
     },
     {
       "canonical_id": "9-sb-u1-listening-homework-01",
@@ -15124,7 +15152,10 @@
       "7-sb-u8-vocabulary-2-homework-01",
       "7-sb-u8-vocabulary-homework-01",
       "7-sb-u8-writing-homework-01",
-      "9-sb-u1-self-check-homework-01"
+      "9-sb-u1-self-check-homework-01",
+      "9-sb-u1-blog-homework-01",
+      "9-sb-u1-lead-in-homework-01",
+      "9-sb-u1-grammar-homework-01"
     ],
     "kahoot_completed_ids": [
       "6-jolly-phonics-homework-01",
@@ -15314,7 +15345,10 @@
       "9-sb-u1-writing-homework-01",
       "9-sb-u2-blog-homework-01",
       "9-sb-u2-grammar-2-homework-01",
-      "9-sb-u2-grammar-homework-01"
+      "9-sb-u2-grammar-homework-01",
+      "9-sb-u1-blog-homework-01",
+      "9-sb-u1-lead-in-homework-01",
+      "9-sb-u1-grammar-homework-01"
     ]
   },
   "kahoot_mapping_conflicts": [
@@ -15513,21 +15547,6 @@
       "target_titles": [
         "9en94 Ukraine & UK: Speaking",
         "9en95 Ukraine & UK: Writing"
-      ],
-      "confirmed_canonical_ids": [],
-      "status": "shared_platform_id_conflict"
-    },
-    {
-      "kahoot_id": "e8432254-236f-4f4a-b17a-4845866c4dfb",
-      "canonical_ids": [
-        "9-sb-u1-blog-homework-01",
-        "9-sb-u1-grammar-homework-01",
-        "9-sb-u1-lead-in-homework-01"
-      ],
-      "target_titles": [
-        "9en12 Me: Blog",
-        "9en16 Me: Grammar",
-        "9en12 Me: Intro"
       ],
       "confirmed_canonical_ids": [],
       "status": "shared_platform_id_conflict"

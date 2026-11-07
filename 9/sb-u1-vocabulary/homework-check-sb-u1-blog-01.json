@@ -103,7 +103,32 @@
       ]
     },
     "kahoot": {
-      "mapping_status": "shared_platform_id_conflict"
+      "id": "4c6d9509-b9e8-4de1-8fd3-948ae16b74b7",
+      "editor_url": "https://create.kahoot.it/creator/4c6d9509-b9e8-4de1-8fd3-948ae16b74b7",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "question_count": 6,
+      "content_slide_count": 2,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "assignment_id": "21750b8e-69b1-4ce8-9b17-f5cdc780cb9d",
+      "code": "002789075",
+      "student_url": "https://kahoot.it/challenge/002789075",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/21750b8e-69b1-4ce8-9b17-f5cdc780cb9d/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1794082484561/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "mapping_status": "verified"
     }
   },
   "assessment": {
@@ -119,7 +144,11 @@
     "lesson_in_month": 2,
     "target_title": "9en12 Me: Blog",
     "mapping_method": "section",
-    "status": "pending_external_rename",
-    "kahoot_mapping_status": "shared_platform_id_conflict"
+    "status": "verified_both_platforms",
+    "verified_on": "2026-11-07",
+    "naurok_title_verified": "9en12 Me: Blog",
+    "naurok_renamed_verified_on": "2026-11-07",
+    "kahoot_title_verified": "9en12 Me: Blog",
+    "kahoot_renamed_verified_on": "2026-11-07"
   }
 }

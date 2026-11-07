@@ -103,7 +103,32 @@
       ]
     },
     "kahoot": {
-      "mapping_status": "shared_platform_id_conflict"
+      "id": "174df41b-74e1-44ef-9cde-feac1e460e56",
+      "editor_url": "https://create.kahoot.it/creator/174df41b-74e1-44ef-9cde-feac1e460e56",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "public",
+      "question_count": 6,
+      "content_slide_count": 2,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "assignment_id": "398f8dec-d293-41be-8cc5-38fe62afc697",
+      "code": "002763896",
+      "student_url": "https://kahoot.it/challenge/002763896",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/398f8dec-d293-41be-8cc5-38fe62afc697/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1794082785268/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "student_entry_verified": true,
+      "content_verified_after_reopen": true,
+      "mapping_status": "verified"
     }
   },
   "assessment": {
@@ -119,7 +144,11 @@
     "lesson_in_month": 6,
     "target_title": "9en16 Me: Grammar",
     "mapping_method": "section",
-    "status": "pending_external_rename",
-    "kahoot_mapping_status": "shared_platform_id_conflict"
+    "status": "verified_both_platforms",
+    "verified_on": "2026-11-07",
+    "naurok_title_verified": "9en16 Me: Grammar",
+    "naurok_renamed_verified_on": "2026-11-07",
+    "kahoot_title_verified": "9en16 Me: Grammar",
+    "kahoot_renamed_verified_on": "2026-11-07"
   }
 }

@@ -140,7 +140,8 @@
       "live_http_status": 200,
       "live_student_href_count": 1,
       "live_student_link_verified": true,
-      "mapping_status": "shared_platform_id_conflict"
+      "title_verified": "9en12 Me: Intro",
+      "title_verified_on": "2026-11-07"
     }
   },
   "assessment": {
@@ -156,7 +157,11 @@
     "lesson_in_month": 2,
     "target_title": "9en12 Me: Intro",
     "mapping_method": "unit_lead_in",
-    "status": "pending_external_rename",
-    "kahoot_mapping_status": "shared_platform_id_conflict"
+    "status": "verified_both_platforms",
+    "verified_on": "2026-11-07",
+    "naurok_title_verified": "9en12 Me: Intro",
+    "naurok_renamed_verified_on": "2026-11-07",
+    "kahoot_title_verified": "9en12 Me: Intro",
+    "kahoot_renamed_verified_on": "2026-11-07"
   }
 }
