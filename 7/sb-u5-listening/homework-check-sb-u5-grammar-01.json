@@ -171,7 +171,8 @@
       "live_href_verified": true,
       "previous_title": "7 клас · Sport from A to Z: Граматика Спорт · Граматика",
       "title": "7en56 Sport: Grammar",
-      "renamed_verified_on": "2026-11-07"
+      "renamed_verified_on": "2026-11-07",
+      "title_verified_on": "2026-11-07"
     }
   },
   "assessment": {
@@ -187,7 +188,7 @@
     "lesson_in_month": 6,
     "target_title": "7en56 Sport: Grammar",
     "mapping_method": "section",
-    "status": "verified_both_platforms",
+    "status": "kahoot_renamed_pending_naurok",
     "kahoot_title_verified": "7en56 Sport: Grammar"
   }
 }

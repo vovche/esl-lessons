@@ -162,7 +162,8 @@
       "course_module": 5,
       "course_placement_verified": true,
       "previous_title": "7 клас · 067 · Sport vocabulary",
-      "renamed_verified_on": "2026-11-07"
+      "renamed_verified_on": "2026-11-07",
+      "title_verified_on": "2026-11-07"
     }
   },
   "assessment": {
@@ -178,7 +179,7 @@
     "lesson_in_month": 3,
     "target_title": "7en53 Sport: Vocabulary",
     "mapping_method": "section",
-    "status": "verified_both_platforms",
+    "status": "kahoot_renamed_pending_naurok",
     "kahoot_title_verified": "7en53 Sport: Vocabulary"
   }
 }
