@@ -197,7 +197,9 @@
         {
           "reading": "full source passage split across two content slides"
         }
-      ]
+      ],
+      "title_verified": "7en29 A helping hand",
+      "title_verified_on": "2026-11-08"
     }
   },
   "assessment": {
@@ -213,6 +215,7 @@
     "lesson_in_month": 9,
     "target_title": "7en29 A helping hand",
     "mapping_method": "supplement_section",
-    "status": "pending_external_rename"
+    "status": "verified_both_platforms",
+    "verified_on": "2026-11-08"
   }
 }

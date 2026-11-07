@@ -11980,12 +11980,22 @@
       "target_title": "7en29 A helping hand",
       "naurok_test_id": "3887112",
       "kahoot_id": "334b759e-1807-4687-aed0-170231ea6af7",
-      "naurok_current_title": "7 клас · A helping hand",
-      "kahoot_current_title": "7 клас · 023 · A helping hand",
+      "naurok_current_title": "7en29 A helping hand",
+      "kahoot_current_title": "7en29 A helping hand",
       "kahoot_status": "homework_created",
       "kahoot_assignment_url": "https://kahoot.it/challenge/0087737431",
       "previous_target_title": "7en29 A helping hand",
-      "long_topic": "A helping hand"
+      "long_topic": "A helping hand",
+      "rename_status": "verified_both_platforms",
+      "verified_platforms": [
+        "kahoot",
+        "naurok"
+      ],
+      "rename_verified_on": "2026-11-08",
+      "naurok_title_verified": "7en29 A helping hand",
+      "naurok_renamed_verified_on": "2026-11-08",
+      "kahoot_title_verified": "7en29 A helping hand",
+      "kahoot_renamed_verified_on": "2026-11-08"
     },
     {
       "canonical_id": "7-sb-grammar-homework-01",
@@ -14801,9 +14811,9 @@
     }
   ],
   "rename_progress": {
-    "verified_both_platforms": 184,
-    "naurok_title_verified": 188,
-    "kahoot_title_verified": 197,
+    "verified_both_platforms": 185,
+    "naurok_title_verified": 189,
+    "kahoot_title_verified": 198,
     "total_tests": 327,
     "updated_on": "2026-11-08",
     "completed_ids": [
@@ -14988,7 +14998,8 @@
       "7-sb-u8-writing-homework-01",
       "9-sb-u1-self-check-homework-01",
       "7-school-special-days-homework-01",
-      "7-sb-u4-grammar-2-homework-01"
+      "7-sb-u4-grammar-2-homework-01",
+      "7-sharing-chores-homework-01"
     ],
     "naurok_completed_ids": [
       "6-jolly-phonics-homework-01",
@@ -15179,7 +15190,8 @@
       "9-sb-u1-lead-in-homework-01",
       "9-sb-u1-grammar-homework-01",
       "7-school-special-days-homework-01",
-      "7-sb-u4-grammar-2-homework-01"
+      "7-sb-u4-grammar-2-homework-01",
+      "7-sharing-chores-homework-01"
     ],
     "kahoot_completed_ids": [
       "6-jolly-phonics-homework-01",
@@ -15374,7 +15386,8 @@
       "9-sb-u1-lead-in-homework-01",
       "9-sb-u1-grammar-homework-01",
       "7-school-special-days-homework-01",
-      "7-sb-u4-grammar-2-homework-01"
+      "7-sb-u4-grammar-2-homework-01",
+      "7-sharing-chores-homework-01"
     ]
   },
   "kahoot_mapping_conflicts": [
