@@ -11940,12 +11940,22 @@
       "target_title": "7en15 Special days",
       "naurok_test_id": "3887105",
       "kahoot_id": "1311ea97-957a-4d48-994e-90aaa5efbf54",
-      "naurok_current_title": "7 клас · 003 · Special days",
-      "kahoot_current_title": "7 клас · 003 · Special days",
+      "naurok_current_title": "7en15 Special days",
+      "kahoot_current_title": "7en15 Special days",
       "kahoot_status": "homework_created",
       "kahoot_assignment_url": "https://kahoot.it/challenge/002030292",
       "previous_target_title": "7en15 Special days",
-      "long_topic": "Special days"
+      "long_topic": "Special days",
+      "rename_status": "verified_both_platforms",
+      "verified_platforms": [
+        "kahoot",
+        "naurok"
+      ],
+      "rename_verified_on": "2026-11-08",
+      "naurok_title_verified": "7en15 Special days",
+      "naurok_renamed_verified_on": "2026-11-08",
+      "kahoot_title_verified": "7en15 Special days",
+      "kahoot_renamed_verified_on": "2026-11-08"
     },
     {
       "canonical_id": "7-sharing-chores-homework-01",
@@ -14781,11 +14791,11 @@
     }
   ],
   "rename_progress": {
-    "verified_both_platforms": 182,
-    "naurok_title_verified": 186,
-    "kahoot_title_verified": 195,
+    "verified_both_platforms": 183,
+    "naurok_title_verified": 187,
+    "kahoot_title_verified": 196,
     "total_tests": 327,
-    "updated_on": "2026-11-07",
+    "updated_on": "2026-11-08",
     "completed_ids": [
       "6-jolly-phonics-homework-01",
       "6-jolly-phonics-homework-02",
@@ -14966,7 +14976,8 @@
       "7-sb-u8-vocabulary-2-homework-01",
       "7-sb-u8-vocabulary-homework-01",
       "7-sb-u8-writing-homework-01",
-      "9-sb-u1-self-check-homework-01"
+      "9-sb-u1-self-check-homework-01",
+      "7-school-special-days-homework-01"
     ],
     "naurok_completed_ids": [
       "6-jolly-phonics-homework-01",
@@ -15155,7 +15166,8 @@
       "9-sb-u1-self-check-homework-01",
       "9-sb-u1-blog-homework-01",
       "9-sb-u1-lead-in-homework-01",
-      "9-sb-u1-grammar-homework-01"
+      "9-sb-u1-grammar-homework-01",
+      "7-school-special-days-homework-01"
     ],
     "kahoot_completed_ids": [
       "6-jolly-phonics-homework-01",
@@ -15348,7 +15360,8 @@
       "9-sb-u2-grammar-homework-01",
       "9-sb-u1-blog-homework-01",
       "9-sb-u1-lead-in-homework-01",
-      "9-sb-u1-grammar-homework-01"
+      "9-sb-u1-grammar-homework-01",
+      "7-school-special-days-homework-01"
     ]
   },
   "kahoot_mapping_conflicts": [

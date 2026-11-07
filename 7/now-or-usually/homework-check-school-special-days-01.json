@@ -123,6 +123,8 @@
       ]
     },
     "kahoot": {
+      "title_verified": "7en15 Special days",
+      "title_verified_on": "2026-11-08",
       "id": "1311ea97-957a-4d48-994e-90aaa5efbf54",
       "editor_url": "https://create.kahoot.it/creator/1311ea97-957a-4d48-994e-90aaa5efbf54",
       "status": "homework_created",
@@ -172,6 +174,7 @@
     "lesson_in_month": 5,
     "target_title": "7en15 Special days",
     "mapping_method": "supplement_section",
-    "status": "pending_external_rename"
+    "status": "verified_both_platforms",
+    "verified_on": "2026-11-08"
   }
 }
