@@ -139,7 +139,7 @@
       "verified": true,
       "visibility": "private",
       "kahoot_id": "9fae5b0c-4afb-46c1-9a29-350edace62fd",
-      "title": "7 клас · 037 · Food art: Vocabulary",
+      "title": "7en39 Cooking: Vocabulary practice",
       "editor_url": "https://create.kahoot.it/creator/9fae5b0c-4afb-46c1-9a29-350edace62fd",
       "test_url": "https://create.kahoot.it/details/7-037-food-art-vocabulary/9fae5b0c-4afb-46c1-9a29-350edace62fd",
       "assignment_id": "c3c24527-dabd-4296-a1b5-9f18065c9ce3",
@@ -175,7 +175,8 @@
       "live_http_status": 200,
       "live_student_href_count": 1,
       "last_live_exact_href": "https://kahoot.it/challenge/007650126",
-      "live_verified_at": "2026-10-27T07:03:56+02:00"
+      "live_verified_at": "2026-10-27T07:03:56+02:00",
+      "title_verified_on": "2026-11-07"
     }
   },
   "assessment": {
@@ -191,6 +192,7 @@
     "lesson_in_month": 9,
     "target_title": "7en39 Cooking: Vocabulary practice",
     "mapping_method": "section",
-    "status": "pending_external_rename"
+    "status": "kahoot_renamed_pending_naurok",
+    "kahoot_title_verified": "7en39 Cooking: Vocabulary practice"
   }
 }

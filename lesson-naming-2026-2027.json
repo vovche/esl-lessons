@@ -8891,17 +8891,16 @@
       "naurok_test_id": "3887139",
       "kahoot_id": "cb358a87-05f9-48ee-b6b9-c124fc9033e0",
       "naurok_current_title": "7 клас · Sport from A to Z: Починаємо юніт Спорт · Починаємо юніт",
-      "kahoot_current_title": "7 клас · 066 · Sport kickoff",
+      "kahoot_current_title": "7en51 Sport: Intro",
       "kahoot_status": "homework_created",
       "kahoot_assignment_url": "https://kahoot.it/challenge/0088063300",
-      "previous_target_title": "7en51 Sport from A to Z: Починаємо юніт Спорт Починаємо юніт",
-      "long_topic": "Sport from A to Z: Починаємо юніт Спорт Починаємо юніт",
+      "previous_target_title": "7en51 Sport: Intro",
+      "long_topic": "Sport: Intro",
       "kahoot_title_verified": "7en51 Sport: Intro",
       "kahoot_renamed_verified_on": "2026-11-07",
-      "rename_status": "verified_both_platforms",
+      "rename_status": "kahoot_title_verified",
       "verified_platforms": [
-        "kahoot",
-        "naurok"
+        "kahoot"
       ],
       "naurok_renamed_verified_on": "2026-11-07",
       "naurok_title_verified": "7en51 Sport: Intro",
@@ -11235,17 +11234,16 @@
       "naurok_test_id": "3886950",
       "kahoot_id": "c0bb441d-4bc0-4713-b9ba-e756d5c570a5",
       "naurok_current_title": "7 клас · 020 · Do your chores: Vocabulary",
-      "kahoot_current_title": "7 клас · 020 · Do your chores: Vocabulary",
+      "kahoot_current_title": "7en22 Chores: Vocabulary",
       "kahoot_status": "homework_created",
       "kahoot_assignment_url": "https://kahoot.it/challenge/008145982",
-      "previous_target_title": "7en22 Do your chores: Vocabulary",
-      "long_topic": "Do your chores: Vocabulary",
+      "previous_target_title": "7en22 Chores: Vocabulary",
+      "long_topic": "Chores: Vocabulary",
       "naurok_renamed_verified_on": "2026-11-07",
       "naurok_title_verified": "7en22 Chores: Vocabulary",
-      "rename_status": "verified_both_platforms",
+      "rename_status": "kahoot_title_verified",
       "verified_platforms": [
-        "kahoot",
-        "naurok"
+        "kahoot"
       ],
       "kahoot_title_verified": "7en22 Chores: Vocabulary",
       "kahoot_renamed_verified_on": "2026-11-07",
@@ -11613,11 +11611,18 @@
       "naurok_test_id": "3887015",
       "kahoot_id": "9fae5b0c-4afb-46c1-9a29-350edace62fd",
       "naurok_current_title": "7 клас · Are you ready to cook?: Лексика: застосування Приготування їжі · Лексика: застосування",
-      "kahoot_current_title": "7 клас · 037 · Food art: Vocabulary",
+      "kahoot_current_title": "7en39 Cooking: Vocabulary practice",
       "kahoot_status": "homework_created",
       "kahoot_assignment_url": "https://kahoot.it/challenge/007650126",
-      "previous_target_title": "7en39 Are you ready to cook?: Лексика: застосування Приготування їжі Лексика: застосування",
-      "long_topic": "Are you ready to cook?: Лексика: застосування Приготування їжі Лексика: застосування"
+      "previous_target_title": "7en39 Cooking: Vocabulary practice",
+      "long_topic": "Cooking: Vocabulary practice",
+      "kahoot_title_verified": "7en39 Cooking: Vocabulary practice",
+      "kahoot_renamed_verified_on": "2026-11-07",
+      "verified_platforms": [
+        "kahoot"
+      ],
+      "rename_status": "kahoot_title_verified",
+      "rename_verified_on": "2026-11-07"
     },
     {
       "canonical_id": "7-sb-u3-writing-homework-01",
@@ -14750,7 +14755,7 @@
   "rename_progress": {
     "verified_both_platforms": 179,
     "naurok_title_verified": 183,
-    "kahoot_title_verified": 187,
+    "kahoot_title_verified": 190,
     "total_tests": 327,
     "updated_on": "2026-11-07",
     "completed_ids": [
@@ -15247,6 +15252,7 @@
       "7-sb-u3-lead-in-homework-01",
       "7-sb-u3-listening-homework-01",
       "7-sb-u3-reading-homework-01",
+      "7-sb-u3-vocabulary-2-homework-01",
       "7-sb-u3-vocabulary-homework-01",
       "7-sb-u3-writing-homework-01",
       "7-sb-u4-reading-homework-01",

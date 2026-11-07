@@ -179,7 +179,8 @@
       "assessment_lesson_path": "7/sb-u2-reading/",
       "course_saved_as": "draft",
       "previous_title": "7 клас · 020 · Do your chores: Vocabulary",
-      "renamed_verified_on": "2026-11-07"
+      "renamed_verified_on": "2026-11-07",
+      "title_verified_on": "2026-11-07"
     }
   },
   "assessment": {
@@ -195,7 +196,7 @@
     "lesson_in_month": 2,
     "target_title": "7en22 Chores: Vocabulary",
     "mapping_method": "section",
-    "status": "verified_both_platforms",
+    "status": "kahoot_renamed_pending_naurok",
     "kahoot_title_verified": "7en22 Chores: Vocabulary"
   }
 }
