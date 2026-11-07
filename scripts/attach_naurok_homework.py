@@ -61,14 +61,22 @@ def render_footer(tests: list[dict], lesson_path: str | None = None, root: Path 
         kahoot = {}
         document = {}
         kahoot_mapping_conflict = False
-        title = None
+        naurok_title = None
+        kahoot_title = None
         if test.get('content_path') and root.is_dir():
             content_file = root / test['content_path']
             if content_file.is_file():
                 assert content_file.resolve().is_relative_to(root.resolve()), 'content path outside lesson root'
                 document = json.loads(content_file.read_text(encoding='utf-8'))
                 kahoot = document.get('platforms', {}).get('kahoot', {})
-                title = document.get('lesson_naming', {}).get('kahoot_title_verified')
+                naming = document.get('lesson_naming', {})
+                naurok = document.get('platforms', {}).get('naurok', {})
+                if naming.get('status') == 'verified_both_platforms':
+                    naurok_title = naming.get('naurok_title_verified') or naming.get('target_title')
+                    kahoot_title = naming.get('kahoot_title_verified') or naming.get('target_title')
+                else:
+                    naurok_title = naming.get('naurok_title_verified') or naurok.get('title_verified')
+                    kahoot_title = naming.get('kahoot_title_verified') or kahoot.get('title_verified')
                 kahoot_mapping_conflict = (
                     document.get('kahoot_mapping_status') == 'shared_platform_id_conflict'
                     or document.get('lesson_naming', {}).get('kahoot_mapping_status')
@@ -81,6 +89,8 @@ def render_footer(tests: list[dict], lesson_path: str | None = None, root: Path 
             links.append('Перевірка ДЗ за темою «' + html.escape(test['source_lesson_title']) + '».')
         if test.get('status') != 'homework_created':
             label = 'Тест для самоперевірки'
+            if naurok_title:
+                label += ': ' + html.escape(naurok_title)
             if len(tests) > 1:
                 label += f' · частина {index}'
             pending_note = ('Самоперевірка не надсилає результат учителю.' if has_confirmed_kahoot_homework else
@@ -92,6 +102,8 @@ def render_footer(tests: list[dict], lesson_path: str | None = None, root: Path 
             )
         else:
             label = 'Домашнє завдання на «На Урок»'
+            if naurok_title:
+                label += ': ' + html.escape(naurok_title)
             if len(tests) > 1:
                 label += f' · частина {index}'
             links.append(
@@ -120,8 +132,8 @@ def render_footer(tests: list[dict], lesson_path: str | None = None, root: Path 
                 assert kahoot.get('no_deadline') is True and kahoot.get('deadline') is None, \
                     'expected Kahoot homework without a deadline'
                 label = 'Резервне ДЗ на Kahoot'
-                if title:
-                    label += ': ' + html.escape(title)
+                if kahoot_title:
+                    label += ': ' + html.escape(kahoot_title)
                 links.append(
                     f'<a href="{html.escape(kahoot["student_url"], quote=True)}" target="_blank" '
                     f'rel="noopener noreferrer">{label}</a> '
