@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "Round-up 1 · 6 клас · ESL round-up-1",
+  "title": "6en116 Round-up 1",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-round-up-1/index.html",
@@ -147,12 +147,26 @@
         2
       ],
       "normalization_max": 10,
-      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10"
+      "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
+      "previous_title": "Round-up 1 · 6 клас · ESL round-up-1",
+      "title": "6en116 Round-up 1",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en116 Round-up 1",
+  "lesson_naming": {
+    "lesson_code": "6en116",
+    "plan_date": "2026-09-30",
+    "learning_month": 1,
+    "lesson_in_month": 16,
+    "target_title": "6en116 Round-up 1",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en116 Round-up 1"
   }
 }

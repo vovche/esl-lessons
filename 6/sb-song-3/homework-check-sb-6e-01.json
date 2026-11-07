@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "Get active! · 6 клас · ESL 6e",
+  "title": "6en74 Get active!",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-6e/index.html",
@@ -120,7 +120,7 @@
     },
     "kahoot": {
       "id": "a0c0aeb2-4ec5-4fb6-b2fc-42abba552741",
-      "title": "6 клас · 077 · Get active!",
+      "title": "6en74 Get active!",
       "editor_url": "https://create.kahoot.it/creator/a0c0aeb2-4ec5-4fb6-b2fc-42abba552741",
       "status": "homework_created",
       "verified": true,
@@ -151,12 +151,25 @@
       "course_id": "7572952c-010e-4290-8d43-1a907efd66cc",
       "course_title": "6 клас",
       "course_module": 6,
-      "course_placement_status": "verified_in_public_course"
+      "course_placement_status": "verified_in_public_course",
+      "previous_title": "6 клас · 077 · Get active!",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en74 Get active!",
+  "lesson_naming": {
+    "lesson_code": "6en74",
+    "plan_date": "2027-03-05",
+    "learning_month": 7,
+    "lesson_in_month": 4,
+    "target_title": "6en74 Get active!",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en74 Get active!"
   }
 }

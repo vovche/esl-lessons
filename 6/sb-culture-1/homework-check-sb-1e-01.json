@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "My friend's profile · 6 клас · ESL 1e",
+  "title": "6en112 My friend's profile",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-1e/index.html",
@@ -120,7 +120,7 @@
     },
     "kahoot": {
       "id": "84c5ead8-db29-490f-982a-996a8de6c6a9",
-      "title": "6 клас · 005 · My friend's profile",
+      "title": "6en112 My friend's profile",
       "editor_url": "https://create.kahoot.it/creator/84c5ead8-db29-490f-982a-996a8de6c6a9",
       "status": "homework_created",
       "verified": true,
@@ -149,12 +149,25 @@
       "randomize_answer_order": true,
       "student_entry_verified": true,
       "content_verified_after_reopen": true,
-      "adaptations": []
+      "adaptations": [],
+      "previous_title": "6 клас · 005 · My friend's profile",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en112 My friend's profile",
+  "lesson_naming": {
+    "lesson_code": "6en112",
+    "plan_date": "2026-09-22",
+    "learning_month": 1,
+    "lesson_in_month": 12,
+    "target_title": "6en112 My friend's profile",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en112 My friend's profile"
   }
 }

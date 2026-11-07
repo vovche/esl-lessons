@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "Messages · 6 клас · ESL 7c",
+  "title": "6en714 Messages",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-7c/index.html",
@@ -120,7 +120,7 @@
     },
     "kahoot": {
       "id": "258df54e-6189-4a4f-869c-0fdf7ef34925",
-      "title": "6 клас · 080 · Messages",
+      "title": "6en714 Messages",
       "editor_url": "https://create.kahoot.it/creator/258df54e-6189-4a4f-869c-0fdf7ef34925",
       "status": "homework_created",
       "verified": true,
@@ -155,12 +155,25 @@
       "created_at": "2026-10-26T18:08:11Z",
       "adaptations": [
         "Три словникові запитання — письмові; повний текст читання збережено на двох слайдах."
-      ]
+      ],
+      "previous_title": "6 клас · 080 · Messages",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en714 Messages",
+  "lesson_naming": {
+    "lesson_code": "6en714",
+    "plan_date": "2027-03-31",
+    "learning_month": 7,
+    "lesson_in_month": 14,
+    "target_title": "6en714 Messages",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en714 Messages"
   }
 }

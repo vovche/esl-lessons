@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "Outer space · 6 клас · ESL 4d",
+  "title": "6en46 Outer space",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-4d/index.html",
@@ -120,7 +120,7 @@
     },
     "kahoot": {
       "kahoot_id": "58ba287c-7285-49c7-8770-28f1c8b4e61c",
-      "title": "6 клас · 048 · Outer space",
+      "title": "6en46 Outer space",
       "editor_url": "https://create.kahoot.it/creator/58ba287c-7285-49c7-8770-28f1c8b4e61c",
       "status": "homework_created",
       "verified": true,
@@ -179,12 +179,25 @@
           ]
         }
       ],
-      "created_at": "2026-10-25T14:30:50.313455+00:00"
+      "created_at": "2026-10-25T14:30:50.313455+00:00",
+      "previous_title": "6 клас · 048 · Outer space",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en46 Outer space",
+  "lesson_naming": {
+    "lesson_code": "6en46",
+    "plan_date": "2026-12-11",
+    "learning_month": 4,
+    "lesson_in_month": 6,
+    "target_title": "6en46 Outer space",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en46 Outer space"
   }
 }

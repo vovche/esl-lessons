@@ -8,7 +8,7 @@
         {
           "test_id": "3886775",
           "test_url": "https://naurok.com.ua/test/9-klas-build-an-outfit-odyag-i-dieslova-3886775.html",
-          "title": "9 клас · Build an outfit — одяг і дієслова",
+          "title": "9en21 Build an outfit — одяг і дієслова",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -33,7 +33,17 @@
           "assessment_lesson_path": "9/fashion-opinions/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Build an outfit Одяг, взуття й аксесуари",
-          "content_id": "9-clothes-and-accessories-homework-01"
+          "content_id": "9-clothes-and-accessories-homework-01",
+          "previous_title": "9 клас · Build an outfit — одяг і дієслова",
+          "lesson_naming": {
+            "lesson_code": "9en21",
+            "plan_date": "2026-10-01",
+            "learning_month": 2,
+            "lesson_in_month": 1,
+            "target_title": "9en21 Build an outfit — одяг і дієслова",
+            "mapping_method": "supplement_section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -42,7 +52,7 @@
       "tests": [
         {
           "test_id": "3886783",
-          "title": "9 клас · Fashion then and now — блог про моду",
+          "title": "9en115 Fashion then and now — блог про моду",
           "points": 10,
           "status": "homework_created",
           "test_url": "https://naurok.com.ua/test/9-klas-fashion-then-and-now-blog-pro-modu-3886783.html",
@@ -68,7 +78,17 @@
           "assessment_lesson_path": "9/fashion-blog/index.html",
           "placement_rule": "no_next_lesson",
           "source_lesson_title": "Fashion then and now Порівняй стилі й напиши допис",
-          "content_id": "9-fashion-blog-homework-01"
+          "content_id": "9-fashion-blog-homework-01",
+          "previous_title": "9 клас · Fashion then and now — блог про моду",
+          "lesson_naming": {
+            "lesson_code": "9en115",
+            "plan_date": "2026-09-29",
+            "learning_month": 1,
+            "lesson_in_month": 15,
+            "target_title": "9en115 Fashion then and now — блог про моду",
+            "mapping_method": "supplement_section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -77,7 +97,7 @@
       "tests": [
         {
           "test_id": "3886787",
-          "title": "9 клас · Wearing or to wear? — герундій та інфінітив",
+          "title": "9en24 Grammar reference",
           "points": 10,
           "status": "homework_created",
           "test_url": "https://naurok.com.ua/test/9-klas-wearing-or-to-wear-gerundiy-ta-infinitiv-3886787.html",
@@ -103,7 +123,17 @@
           "assessment_lesson_path": "9/fashion-blog/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Wearing or to wear? Форма -ing чи to-інфінітив",
-          "content_id": "9-fashion-grammar-homework-01"
+          "content_id": "9-fashion-grammar-homework-01",
+          "previous_title": "9 клас · Wearing or to wear? — герундій та інфінітив",
+          "lesson_naming": {
+            "lesson_code": "9en24",
+            "plan_date": "2026-10-07",
+            "learning_month": 2,
+            "lesson_in_month": 4,
+            "target_title": "9en24 Grammar reference",
+            "mapping_method": "supplement_section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -112,7 +142,7 @@
       "tests": [
         {
           "test_id": "3886801",
-          "title": "9 клас · Fashion and me — думки та одяг",
+          "title": "9en28 Fashion: Opinions",
           "points": 10,
           "status": "homework_created",
           "question_points": [
@@ -138,7 +168,17 @@
           "assessment_lesson_path": "9/styles-and-judgement/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Fashion and me Читай і висловлюй думку про моду",
-          "content_id": "9-fashion-opinions-homework-01"
+          "content_id": "9-fashion-opinions-homework-01",
+          "previous_title": "9 клас · Fashion and me — думки та одяг",
+          "lesson_naming": {
+            "lesson_code": "9en28",
+            "plan_date": "2026-10-15",
+            "learning_month": 2,
+            "lesson_in_month": 8,
+            "target_title": "9en28 Fashion: Opinions",
+            "mapping_method": "supplement_section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -147,7 +187,7 @@
       "tests": [
         {
           "test_id": "3886807",
-          "title": "9 клас · My story so far — автобіографія",
+          "title": "9en111 My story so far — автобіографія",
           "points": 10,
           "status": "homework_created",
           "question_points": [
@@ -173,7 +213,17 @@
           "assessment_lesson_path": "9/special-occasion-outfits/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "My story so far Напиши коротку автобіографію",
-          "content_id": "9-my-autobiography-homework-01"
+          "content_id": "9-my-autobiography-homework-01",
+          "previous_title": "9 клас · My story so far — автобіографія",
+          "lesson_naming": {
+            "lesson_code": "9en111",
+            "plan_date": "2026-09-21",
+            "learning_month": 1,
+            "lesson_in_month": 11,
+            "target_title": "9en111 My story so far — автобіографія",
+            "mapping_method": "supplement_section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -182,7 +232,7 @@
       "tests": [
         {
           "test_id": "3886812",
-          "title": "9 клас · Meet the people — профілі й інтереси",
+          "title": "9en15 Meet the people — профілі й інтереси",
           "points": 10,
           "status": "homework_created",
           "question_points": [
@@ -208,7 +258,17 @@
           "assessment_lesson_path": "9/personality-types/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Meet the people Знайомство через профілі",
-          "content_id": "9-online-friends-homework-01"
+          "content_id": "9-online-friends-homework-01",
+          "previous_title": "9 клас · Meet the people — профілі й інтереси",
+          "lesson_naming": {
+            "lesson_code": "9en15",
+            "plan_date": "2026-09-08",
+            "learning_month": 1,
+            "lesson_in_month": 5,
+            "target_title": "9en15 Meet the people — профілі й інтереси",
+            "mapping_method": "supplement_section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -217,7 +277,7 @@
       "tests": [
         {
           "test_id": "3886818",
-          "title": "9 клас · Ask for details — анкета та запитання",
+          "title": "9en14 Ask for details — анкета та запитання",
           "points": 10,
           "status": "homework_created",
           "question_points": [
@@ -241,7 +301,17 @@
           "homework_id": "86133323",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133323",
           "code": "9797264",
-          "student_url": "https://naurok.ua/test/join?gamecode=9797264"
+          "student_url": "https://naurok.ua/test/join?gamecode=9797264",
+          "previous_title": "9 клас · Ask for details — анкета та запитання",
+          "lesson_naming": {
+            "lesson_code": "9en14",
+            "plan_date": "2026-09-07",
+            "learning_month": 1,
+            "lesson_in_month": 4,
+            "target_title": "9en14 Ask for details — анкета та запитання",
+            "mapping_method": "supplement_section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -250,7 +320,7 @@
       "tests": [
         {
           "test_id": "3886832",
-          "title": "9 клас · All About Me: Блог і думки однолітків",
+          "title": "9en12 Me: Blog",
           "points": 10,
           "status": "homework_created",
           "question_points": [
@@ -274,7 +344,17 @@
           "homework_id": "86133407",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133407",
           "code": "8621857",
-          "student_url": "https://naurok.ua/test/join?gamecode=8621857"
+          "student_url": "https://naurok.ua/test/join?gamecode=8621857",
+          "previous_title": "9 клас · All About Me: Блог і думки однолітків",
+          "lesson_naming": {
+            "lesson_code": "9en12",
+            "plan_date": "2026-09-02",
+            "learning_month": 1,
+            "lesson_in_month": 2,
+            "target_title": "9en12 Me: Blog",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -283,7 +363,7 @@
       "tests": [
         {
           "test_id": "3886840",
-          "title": "9 клас · All About Me: Граматика",
+          "title": "9en16 Me: Grammar",
           "points": 10,
           "status": "homework_created",
           "question_points": [
@@ -307,7 +387,17 @@
           "homework_id": "86133421",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133421",
           "code": "7699659",
-          "student_url": "https://naurok.ua/test/join?gamecode=7699659"
+          "student_url": "https://naurok.ua/test/join?gamecode=7699659",
+          "previous_title": "9 клас · All About Me: Граматика",
+          "lesson_naming": {
+            "lesson_code": "9en16",
+            "plan_date": "2026-09-09",
+            "learning_month": 1,
+            "lesson_in_month": 6,
+            "target_title": "9en16 Me: Grammar",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -316,7 +406,7 @@
       "tests": [
         {
           "test_id": "3886845",
-          "title": "9 клас · All About Me: Граматика в контексті",
+          "title": "9en19 Me: Grammar practice",
           "points": 10,
           "status": "homework_created",
           "question_points": [
@@ -340,7 +430,17 @@
           "homework_id": "86133430",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133430",
           "code": "6150952",
-          "student_url": "https://naurok.ua/test/join?gamecode=6150952"
+          "student_url": "https://naurok.ua/test/join?gamecode=6150952",
+          "previous_title": "9 клас · All About Me: Граматика в контексті",
+          "lesson_naming": {
+            "lesson_code": "9en19",
+            "plan_date": "2026-09-16",
+            "learning_month": 1,
+            "lesson_in_month": 9,
+            "target_title": "9en19 Me: Grammar practice",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -349,7 +449,7 @@
       "tests": [
         {
           "test_id": "3886850",
-          "title": "9 клас · All About Me: Починаємо тему",
+          "title": "9en12 Me: Intro",
           "points": 10,
           "status": "homework_created",
           "question_points": [
@@ -374,7 +474,17 @@
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86143160",
           "code": "1177360",
           "student_url": "https://naurok.ua/test/join?gamecode=1177360",
-          "verified_deadline_ui": "2027-01-03T23:00"
+          "verified_deadline_ui": "2027-01-03T23:00",
+          "previous_title": "9 клас · All About Me: Починаємо тему",
+          "lesson_naming": {
+            "lesson_code": "9en12",
+            "plan_date": "2026-09-02",
+            "learning_month": 1,
+            "lesson_in_month": 2,
+            "target_title": "9en12 Me: Intro",
+            "mapping_method": "unit_lead_in",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -383,7 +493,7 @@
       "tests": [
         {
           "test_id": "3886854",
-          "title": "9 клас · All About Me: Слухання",
+          "title": "9en17 Me: Listening",
           "points": 10,
           "status": "homework_created",
           "question_points": [
@@ -408,7 +518,17 @@
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272431",
           "code": "7475559",
           "student_url": "https://naurok.ua/test/join?gamecode=7475559",
-          "verified_deadline_ui": "2027-01-03T23:00"
+          "verified_deadline_ui": "2027-01-03T23:00",
+          "previous_title": "9 клас · All About Me: Слухання",
+          "lesson_naming": {
+            "lesson_code": "9en17",
+            "plan_date": "2026-09-10",
+            "learning_month": 1,
+            "lesson_in_month": 7,
+            "target_title": "9en17 Me: Listening",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -417,7 +537,7 @@
       "tests": [
         {
           "test_id": "3886858",
-          "title": "9 клас · All About Me: Повторення",
+          "title": "9en112 Me: Review",
           "points": 10,
           "status": "homework_created",
           "question_points": [
@@ -442,7 +562,17 @@
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272511",
           "code": "1516226",
           "student_url": "https://naurok.ua/test/join?gamecode=1516226",
-          "verified_deadline_ui": "2027-01-03T23:00"
+          "verified_deadline_ui": "2027-01-03T23:00",
+          "previous_title": "9 клас · All About Me: Повторення",
+          "lesson_naming": {
+            "lesson_code": "9en112",
+            "plan_date": "2026-09-22",
+            "learning_month": 1,
+            "lesson_in_month": 12,
+            "target_title": "9en112 Me: Review",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -451,7 +581,7 @@
       "tests": [
         {
           "test_id": "3886862",
-          "title": "9 клас · All About Me: Читання",
+          "title": "9en15 Me: Reading",
           "points": 10,
           "status": "homework_created",
           "question_points": [
@@ -476,7 +606,17 @@
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272547",
           "code": "6289854",
           "student_url": "https://naurok.ua/test/join?gamecode=6289854",
-          "verified_deadline_ui": "2027-01-03T23:00"
+          "verified_deadline_ui": "2027-01-03T23:00",
+          "previous_title": "9 клас · All About Me: Читання",
+          "lesson_naming": {
+            "lesson_code": "9en15",
+            "plan_date": "2026-09-08",
+            "learning_month": 1,
+            "lesson_in_month": 5,
+            "target_title": "9en15 Me: Reading",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -485,7 +625,7 @@
       "tests": [
         {
           "test_id": "3886870",
-          "title": "9 клас · All About Me: Самооцінювання",
+          "title": "9en114 Me: Self-check",
           "points": 10,
           "status": "homework_created",
           "question_points": [
@@ -510,7 +650,17 @@
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272619",
           "code": "6729759",
           "student_url": "https://naurok.ua/test/join?gamecode=6729759",
-          "verified_deadline_ui": "2027-01-03T23:00"
+          "verified_deadline_ui": "2027-01-03T23:00",
+          "previous_title": "9 клас · All About Me: Самооцінювання",
+          "lesson_naming": {
+            "lesson_code": "9en114",
+            "plan_date": "2026-09-24",
+            "learning_month": 1,
+            "lesson_in_month": 14,
+            "target_title": "9en114 Me: Self-check",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -519,7 +669,7 @@
       "tests": [
         {
           "test_id": "3886872",
-          "title": "9 клас · All About Me: Говоріння",
+          "title": "9en110 Me: Speaking",
           "points": 10,
           "status": "homework_created",
           "question_points": [
@@ -544,7 +694,17 @@
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272643",
           "code": "1747607",
           "student_url": "https://naurok.ua/test/join?gamecode=1747607",
-          "verified_deadline_ui": "2027-01-03T23:00"
+          "verified_deadline_ui": "2027-01-03T23:00",
+          "previous_title": "9 клас · All About Me: Говоріння",
+          "lesson_naming": {
+            "lesson_code": "9en110",
+            "plan_date": "2026-09-17",
+            "learning_month": 1,
+            "lesson_in_month": 10,
+            "target_title": "9en110 Me: Speaking",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -553,7 +713,7 @@
       "tests": [
         {
           "test_id": "3886876",
-          "title": "9 клас · All About Me: Слова й словосполучення",
+          "title": "9en14 Me: Vocabulary",
           "points": 10,
           "status": "homework_created",
           "question_points": [
@@ -578,7 +738,17 @@
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272681",
           "code": "7104950",
           "student_url": "https://naurok.ua/test/join?gamecode=7104950",
-          "verified_deadline_ui": "2027-01-03T23:00"
+          "verified_deadline_ui": "2027-01-03T23:00",
+          "previous_title": "9 клас · All About Me: Слова й словосполучення",
+          "lesson_naming": {
+            "lesson_code": "9en14",
+            "plan_date": "2026-09-07",
+            "learning_month": 1,
+            "lesson_in_month": 4,
+            "target_title": "9en14 Me: Vocabulary",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -587,7 +757,7 @@
       "tests": [
         {
           "test_id": "3886877",
-          "title": "9 клас · All About Me: Лексика в контексті",
+          "title": "9en18 Me: Vocabulary practice",
           "points": 10,
           "status": "homework_created",
           "question_points": [
@@ -612,7 +782,17 @@
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272691",
           "code": "6575805",
           "student_url": "https://naurok.ua/test/join?gamecode=6575805",
-          "verified_deadline_ui": "2027-01-03T23:00"
+          "verified_deadline_ui": "2027-01-03T23:00",
+          "previous_title": "9 клас · All About Me: Лексика в контексті",
+          "lesson_naming": {
+            "lesson_code": "9en18",
+            "plan_date": "2026-09-15",
+            "learning_month": 1,
+            "lesson_in_month": 8,
+            "target_title": "9en18 Me: Vocabulary practice",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -621,7 +801,7 @@
       "tests": [
         {
           "test_id": "3886881",
-          "title": "9 клас · All About Me: Письмо",
+          "title": "9en111 Me: Writing",
           "points": 10,
           "status": "homework_created",
           "question_points": [
@@ -664,7 +844,17 @@
           },
           "verified_on_site_at": "2026-10-29T12:07:30+02:00",
           "student_entry_verified": false,
-          "student_joined": false
+          "student_joined": false,
+          "previous_title": "9 клас · All About Me: Письмо",
+          "lesson_naming": {
+            "lesson_code": "9en111",
+            "plan_date": "2026-09-21",
+            "learning_month": 1,
+            "lesson_in_month": 11,
+            "target_title": "9en111 Me: Writing",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -673,7 +863,7 @@
       "tests": [
         {
           "test_id": "3886885",
-          "title": "9 клас · Fashion All the Way: Блог і думки однолітків",
+          "title": "9en115 Fashion: Blog",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "question_points": [
@@ -693,7 +883,17 @@
           "assessment_lesson_path": "9/sb-u2-vocabulary/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Fashion All the Way: Блог і думки однолітків Мода і стиль: Блог і думки однолітків",
-          "content_id": "9-sb-u2-blog-homework-01"
+          "content_id": "9-sb-u2-blog-homework-01",
+          "previous_title": "9 клас · Fashion All the Way: Блог і думки однолітків",
+          "lesson_naming": {
+            "lesson_code": "9en115",
+            "plan_date": "2026-09-29",
+            "learning_month": 1,
+            "lesson_in_month": 15,
+            "target_title": "9en115 Fashion: Blog",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -702,7 +902,7 @@
       "tests": [
         {
           "test_id": "3886889",
-          "title": "9 клас · Fashion All the Way: Граматика",
+          "title": "9en24 Fashion: Grammar",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "question_points": [
@@ -722,7 +922,17 @@
           "assessment_lesson_path": "9/sb-u2-listening/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Fashion All the Way: Граматика Мода і стиль: Граматика",
-          "content_id": "9-sb-u2-grammar-homework-01"
+          "content_id": "9-sb-u2-grammar-homework-01",
+          "previous_title": "9 клас · Fashion All the Way: Граматика",
+          "lesson_naming": {
+            "lesson_code": "9en24",
+            "plan_date": "2026-10-07",
+            "learning_month": 2,
+            "lesson_in_month": 4,
+            "target_title": "9en24 Fashion: Grammar",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -731,7 +941,7 @@
       "tests": [
         {
           "test_id": "3886894",
-          "title": "9 клас · Fashion All the Way: Граматика в контексті",
+          "title": "9en27 Fashion: Grammar practice",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "question_points": [
@@ -751,7 +961,17 @@
           "assessment_lesson_path": "9/sb-u2-speaking/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Fashion All the Way: Граматика в контексті Мода і стиль: Граматика в контексті",
-          "content_id": "9-sb-u2-grammar-2-homework-01"
+          "content_id": "9-sb-u2-grammar-2-homework-01",
+          "previous_title": "9 клас · Fashion All the Way: Граматика в контексті",
+          "lesson_naming": {
+            "lesson_code": "9en27",
+            "plan_date": "2026-10-14",
+            "learning_month": 2,
+            "lesson_in_month": 7,
+            "target_title": "9en27 Fashion: Grammar practice",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -760,7 +980,7 @@
       "tests": [
         {
           "test_id": "3886898",
-          "title": "9 клас · Fashion All the Way: Починаємо тему",
+          "title": "9en115 Fashion: Intro",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "question_points": [
@@ -780,7 +1000,17 @@
           "assessment_lesson_path": "9/sb-u2-blog/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Fashion All the Way: Починаємо тему Мода і стиль: Починаємо тему",
-          "content_id": "9-sb-u2-lead-in-homework-01"
+          "content_id": "9-sb-u2-lead-in-homework-01",
+          "previous_title": "9 клас · Fashion All the Way: Починаємо тему",
+          "lesson_naming": {
+            "lesson_code": "9en115",
+            "plan_date": "2026-09-29",
+            "learning_month": 1,
+            "lesson_in_month": 15,
+            "target_title": "9en115 Fashion: Intro",
+            "mapping_method": "unit_lead_in",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -789,7 +1019,7 @@
       "tests": [
         {
           "test_id": "3886907",
-          "title": "9 клас · Fashion All the Way: Слухання",
+          "title": "9en25 Fashion: Listening",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "question_points": [
@@ -809,7 +1039,17 @@
           "assessment_lesson_path": "9/sb-u2-vocabulary-2/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Fashion All the Way: Слухання Мода і стиль: Слухання",
-          "content_id": "9-sb-u2-listening-homework-01"
+          "content_id": "9-sb-u2-listening-homework-01",
+          "previous_title": "9 клас · Fashion All the Way: Слухання",
+          "lesson_naming": {
+            "lesson_code": "9en25",
+            "plan_date": "2026-10-08",
+            "learning_month": 2,
+            "lesson_in_month": 5,
+            "target_title": "9en25 Fashion: Listening",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -818,7 +1058,7 @@
       "tests": [
         {
           "test_id": "3886912",
-          "title": "9 клас · Fashion All the Way: Повторення",
+          "title": "9en210 Fashion: Review",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "question_points": [
@@ -838,7 +1078,17 @@
           "assessment_lesson_path": "9/sb-u2-self-check/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Fashion All the Way: Повторення Мода і стиль: Повторення",
-          "content_id": "9-sb-u2-look-back-homework-01"
+          "content_id": "9-sb-u2-look-back-homework-01",
+          "previous_title": "9 клас · Fashion All the Way: Повторення",
+          "lesson_naming": {
+            "lesson_code": "9en210",
+            "plan_date": "2026-10-20",
+            "learning_month": 2,
+            "lesson_in_month": 10,
+            "target_title": "9en210 Fashion: Review",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -847,7 +1097,7 @@
       "tests": [
         {
           "test_id": "3886916",
-          "title": "9 клас · Fashion All the Way: Читання",
+          "title": "9en22 Fashion: Reading",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "question_points": [
@@ -867,7 +1117,17 @@
           "assessment_lesson_path": "9/sb-u2-grammar/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Fashion All the Way: Читання Мода і стиль: Читання",
-          "content_id": "9-sb-u2-reading-homework-01"
+          "content_id": "9-sb-u2-reading-homework-01",
+          "previous_title": "9 клас · Fashion All the Way: Читання",
+          "lesson_naming": {
+            "lesson_code": "9en22",
+            "plan_date": "2026-10-05",
+            "learning_month": 2,
+            "lesson_in_month": 2,
+            "target_title": "9en22 Fashion: Reading",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -876,7 +1136,7 @@
       "tests": [
         {
           "test_id": "3886920",
-          "title": "9 клас · Fashion All the Way: Самооцінювання",
+          "title": "9en211 Fashion: Self-check",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "question_points": [
@@ -896,7 +1156,17 @@
           "assessment_lesson_path": "9/sb-u3-lead-in/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Fashion All the Way: Самооцінювання Мода і стиль: Самооцінювання",
-          "content_id": "9-sb-u2-self-check-homework-01"
+          "content_id": "9-sb-u2-self-check-homework-01",
+          "previous_title": "9 клас · Fashion All the Way: Самооцінювання",
+          "lesson_naming": {
+            "lesson_code": "9en211",
+            "plan_date": "2026-10-21",
+            "learning_month": 2,
+            "lesson_in_month": 11,
+            "target_title": "9en211 Fashion: Self-check",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -905,7 +1175,7 @@
       "tests": [
         {
           "test_id": "3886924",
-          "title": "9 клас · Fashion All the Way: Говоріння",
+          "title": "9en28 Fashion: Speaking",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "question_points": [
@@ -925,7 +1195,17 @@
           "assessment_lesson_path": "9/sb-u2-writing/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Fashion All the Way: Говоріння Мода і стиль: Говоріння",
-          "content_id": "9-sb-u2-speaking-homework-01"
+          "content_id": "9-sb-u2-speaking-homework-01",
+          "previous_title": "9 клас · Fashion All the Way: Говоріння",
+          "lesson_naming": {
+            "lesson_code": "9en28",
+            "plan_date": "2026-10-15",
+            "learning_month": 2,
+            "lesson_in_month": 8,
+            "target_title": "9en28 Fashion: Speaking",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -934,7 +1214,7 @@
       "tests": [
         {
           "test_id": "3886932",
-          "title": "9 клас · Fashion All the Way: Слова й словосполучення",
+          "title": "9en21 Fashion: Vocabulary",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "question_points": [
@@ -954,7 +1234,17 @@
           "assessment_lesson_path": "9/sb-u2-reading/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Fashion All the Way: Слова й словосполучення Мода і стиль: Слова й словосполучення",
-          "content_id": "9-sb-u2-vocabulary-homework-01"
+          "content_id": "9-sb-u2-vocabulary-homework-01",
+          "previous_title": "9 клас · Fashion All the Way: Слова й словосполучення",
+          "lesson_naming": {
+            "lesson_code": "9en21",
+            "plan_date": "2026-10-01",
+            "learning_month": 2,
+            "lesson_in_month": 1,
+            "target_title": "9en21 Fashion: Vocabulary",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -963,7 +1253,7 @@
       "tests": [
         {
           "test_id": "3886940",
-          "title": "9 клас · Fashion All the Way: Лексика в контексті",
+          "title": "9en26 Fashion: Vocabulary practice",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "question_points": [
@@ -983,7 +1273,17 @@
           "assessment_lesson_path": "9/sb-u2-grammar-2/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Fashion All the Way: Лексика в контексті Мода і стиль: Лексика в контексті",
-          "content_id": "9-sb-u2-vocabulary-2-homework-01"
+          "content_id": "9-sb-u2-vocabulary-2-homework-01",
+          "previous_title": "9 клас · Fashion All the Way: Лексика в контексті",
+          "lesson_naming": {
+            "lesson_code": "9en26",
+            "plan_date": "2026-10-13",
+            "learning_month": 2,
+            "lesson_in_month": 6,
+            "target_title": "9en26 Fashion: Vocabulary practice",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -992,7 +1292,7 @@
       "tests": [
         {
           "test_id": "3887034",
-          "title": "9 клас · Fashion All the Way: Письмо",
+          "title": "9en29 Fashion: Writing",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "question_points": [
@@ -1012,7 +1312,17 @@
           "assessment_lesson_path": "9/sb-u2-look-back/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Fashion All the Way: Письмо Мода і стиль: Письмо",
-          "content_id": "9-sb-u2-writing-homework-01"
+          "content_id": "9-sb-u2-writing-homework-01",
+          "previous_title": "9 клас · Fashion All the Way: Письмо",
+          "lesson_naming": {
+            "lesson_code": "9en29",
+            "plan_date": "2026-10-19",
+            "learning_month": 2,
+            "lesson_in_month": 9,
+            "target_title": "9en29 Fashion: Writing",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1021,7 +1331,7 @@
       "tests": [
         {
           "test_id": "3887041",
-          "title": "9 клас · We Are Young and Cool!: Блог і думки однолітків",
+          "title": "9en31 Youth culture: Blog",
           "points": 10,
           "status": "homework_created",
           "question_points": [
@@ -1045,7 +1355,17 @@
           "homework_id": "86401206",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401206",
           "student_url": "https://naurok.ua/test/join?gamecode=4671587",
-          "code": "4671587"
+          "code": "4671587",
+          "previous_title": "9 клас · We Are Young and Cool!: Блог і думки однолітків",
+          "lesson_naming": {
+            "lesson_code": "9en31",
+            "plan_date": "2026-11-02",
+            "learning_month": 3,
+            "lesson_in_month": 1,
+            "target_title": "9en31 Youth culture: Blog",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1054,7 +1374,7 @@
       "tests": [
         {
           "test_id": "3887048",
-          "title": "9 клас · We Are Young and Cool!: Граматика",
+          "title": "9en36 Youth culture: Grammar",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -1078,7 +1398,17 @@
           "homework_id": "86401209",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401209",
           "student_url": "https://naurok.ua/test/join?gamecode=5689922",
-          "code": "5689922"
+          "code": "5689922",
+          "previous_title": "9 клас · We Are Young and Cool!: Граматика",
+          "lesson_naming": {
+            "lesson_code": "9en36",
+            "plan_date": "2026-11-11",
+            "learning_month": 3,
+            "lesson_in_month": 6,
+            "target_title": "9en36 Youth culture: Grammar",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1087,7 +1417,7 @@
       "tests": [
         {
           "test_id": "3887054",
-          "title": "9 клас · We Are Young and Cool!: Граматика в контексті",
+          "title": "9en39 Youth culture: Grammar practice",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -1111,7 +1441,17 @@
           "homework_id": "86401214",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401214",
           "student_url": "https://naurok.ua/test/join?gamecode=8823721",
-          "code": "8823721"
+          "code": "8823721",
+          "previous_title": "9 клас · We Are Young and Cool!: Граматика в контексті",
+          "lesson_naming": {
+            "lesson_code": "9en39",
+            "plan_date": "2026-11-17",
+            "learning_month": 3,
+            "lesson_in_month": 9,
+            "target_title": "9en39 Youth culture: Grammar practice",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1120,7 +1460,7 @@
       "tests": [
         {
           "test_id": "3887059",
-          "title": "9 клас · We Are Young and Cool!: Починаємо тему",
+          "title": "9en31 Youth culture: Intro",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -1144,7 +1484,17 @@
           "homework_id": "86401220",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401220",
           "code": "2960875",
-          "student_url": "https://naurok.ua/test/join?gamecode=2960875"
+          "student_url": "https://naurok.ua/test/join?gamecode=2960875",
+          "previous_title": "9 клас · We Are Young and Cool!: Починаємо тему",
+          "lesson_naming": {
+            "lesson_code": "9en31",
+            "plan_date": "2026-11-02",
+            "learning_month": 3,
+            "lesson_in_month": 1,
+            "target_title": "9en31 Youth culture: Intro",
+            "mapping_method": "unit_lead_in",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1153,7 +1503,7 @@
       "tests": [
         {
           "test_id": "3887064",
-          "title": "9 клас · We Are Young and Cool!: Слухання",
+          "title": "9en37 Youth culture: Listening",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -1177,7 +1527,17 @@
           "homework_id": "86401229",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401229",
           "student_url": "https://naurok.ua/test/join?gamecode=5414566",
-          "code": "5414566"
+          "code": "5414566",
+          "previous_title": "9 клас · We Are Young and Cool!: Слухання",
+          "lesson_naming": {
+            "lesson_code": "9en37",
+            "plan_date": "2026-11-12",
+            "learning_month": 3,
+            "lesson_in_month": 7,
+            "target_title": "9en37 Youth culture: Listening",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1186,7 +1546,7 @@
       "tests": [
         {
           "test_id": "3887068",
-          "title": "9 клас · We Are Young and Cool!: Повторення",
+          "title": "9en312 Youth culture: Review",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -1210,7 +1570,17 @@
           "homework_id": "86401238",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401238",
           "student_url": "https://naurok.ua/test/join?gamecode=3720659",
-          "code": "3720659"
+          "code": "3720659",
+          "previous_title": "9 клас · We Are Young and Cool!: Повторення",
+          "lesson_naming": {
+            "lesson_code": "9en312",
+            "plan_date": "2026-11-24",
+            "learning_month": 3,
+            "lesson_in_month": 12,
+            "target_title": "9en312 Youth culture: Review",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1219,7 +1589,7 @@
       "tests": [
         {
           "test_id": "3887074",
-          "title": "9 клас · We Are Young and Cool!: Читання",
+          "title": "9en34 Youth culture: Reading",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -1243,7 +1613,17 @@
           "homework_id": "86401245",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401245",
           "student_url": "https://naurok.ua/test/join?gamecode=1181986",
-          "code": "1181986"
+          "code": "1181986",
+          "previous_title": "9 клас · We Are Young and Cool!: Читання",
+          "lesson_naming": {
+            "lesson_code": "9en34",
+            "plan_date": "2026-11-05",
+            "learning_month": 3,
+            "lesson_in_month": 4,
+            "target_title": "9en34 Youth culture: Reading",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1252,7 +1632,7 @@
       "tests": [
         {
           "test_id": "3887081",
-          "title": "9 клас · We Are Young and Cool!: Самооцінювання",
+          "title": "9en314 Youth culture: Self-check",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -1276,7 +1656,17 @@
           "homework_id": "86401253",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401253",
           "student_url": "https://naurok.ua/test/join?gamecode=6268467",
-          "code": "6268467"
+          "code": "6268467",
+          "previous_title": "9 клас · We Are Young and Cool!: Самооцінювання",
+          "lesson_naming": {
+            "lesson_code": "9en314",
+            "plan_date": "2026-11-26",
+            "learning_month": 3,
+            "lesson_in_month": 14,
+            "target_title": "9en314 Youth culture: Self-check",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1285,7 +1675,7 @@
       "tests": [
         {
           "test_id": "3887085",
-          "title": "9 клас · We Are Young and Cool!: Говоріння",
+          "title": "9en310 Youth culture: Speaking",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -1309,7 +1699,17 @@
           "homework_id": "86401263",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401263",
           "student_url": "https://naurok.ua/test/join?gamecode=8624618",
-          "code": "8624618"
+          "code": "8624618",
+          "previous_title": "9 клас · We Are Young and Cool!: Говоріння",
+          "lesson_naming": {
+            "lesson_code": "9en310",
+            "plan_date": "2026-11-18",
+            "learning_month": 3,
+            "lesson_in_month": 10,
+            "target_title": "9en310 Youth culture: Speaking",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1318,7 +1718,7 @@
       "tests": [
         {
           "test_id": "3887090",
-          "title": "9 клас · We Are Young and Cool!: Слова й словосполучення",
+          "title": "9en33 Youth culture: Vocabulary",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -1354,7 +1754,17 @@
             "show_ranking": true,
             "game_mode": "none"
           },
-          "verified_on_site_at": "2026-10-28T01:37:27+02:00"
+          "verified_on_site_at": "2026-10-28T01:37:27+02:00",
+          "previous_title": "9 клас · We Are Young and Cool!: Слова й словосполучення",
+          "lesson_naming": {
+            "lesson_code": "9en33",
+            "plan_date": "2026-11-04",
+            "learning_month": 3,
+            "lesson_in_month": 3,
+            "target_title": "9en33 Youth culture: Vocabulary",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1363,7 +1773,7 @@
       "tests": [
         {
           "test_id": "3887093",
-          "title": "9 клас · We Are Young and Cool!: Лексика в контексті",
+          "title": "9en38 Youth culture: Vocabulary practice",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -1402,6 +1812,16 @@
             "show_review_after_test": true,
             "show_ranking": true,
             "game_mode": "none"
+          },
+          "previous_title": "9 клас · We Are Young and Cool!: Лексика в контексті",
+          "lesson_naming": {
+            "lesson_code": "9en38",
+            "plan_date": "2026-11-16",
+            "learning_month": 3,
+            "lesson_in_month": 8,
+            "target_title": "9en38 Youth culture: Vocabulary practice",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
           }
         }
       ]
@@ -1411,7 +1831,7 @@
       "tests": [
         {
           "test_id": "3887100",
-          "title": "9 клас · We Are Young and Cool!: Письмо",
+          "title": "9en311 Youth culture: Writing",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -1450,6 +1870,16 @@
             "show_review_after_test": true,
             "show_ranking": true,
             "game_mode": "none"
+          },
+          "previous_title": "9 клас · We Are Young and Cool!: Письмо",
+          "lesson_naming": {
+            "lesson_code": "9en311",
+            "plan_date": "2026-11-19",
+            "learning_month": 3,
+            "lesson_in_month": 11,
+            "target_title": "9en311 Youth culture: Writing",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
           }
         }
       ]
@@ -1459,7 +1889,7 @@
       "tests": [
         {
           "test_id": "3887106",
-          "title": "9 клас · Media in Our Lives: Блог і думки однолітків",
+          "title": "9en315 Media: Blog",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1479,7 +1909,17 @@
           "assessment_lesson_path": "9/sb-u4-vocabulary/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Media in Our Lives: Блог і думки однолітків Медіа в нашому житті: Блог і думки однолітків",
-          "content_id": "9-sb-u4-blog-homework-01"
+          "content_id": "9-sb-u4-blog-homework-01",
+          "previous_title": "9 клас · Media in Our Lives: Блог і думки однолітків",
+          "lesson_naming": {
+            "lesson_code": "9en315",
+            "plan_date": "2026-11-30",
+            "learning_month": 3,
+            "lesson_in_month": 15,
+            "target_title": "9en315 Media: Blog",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1488,7 +1928,7 @@
       "tests": [
         {
           "test_id": "3887111",
-          "title": "9 клас · Media in Our Lives: Граматика",
+          "title": "9en45 Media: Grammar",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1508,7 +1948,17 @@
           "assessment_lesson_path": "9/sb-u4-listening/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Media in Our Lives: Граматика Медіа в нашому житті: Граматика",
-          "content_id": "9-sb-u4-grammar-homework-01"
+          "content_id": "9-sb-u4-grammar-homework-01",
+          "previous_title": "9 клас · Media in Our Lives: Граматика",
+          "lesson_naming": {
+            "lesson_code": "9en45",
+            "plan_date": "2026-12-09",
+            "learning_month": 4,
+            "lesson_in_month": 5,
+            "target_title": "9en45 Media: Grammar",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1517,7 +1967,7 @@
       "tests": [
         {
           "test_id": "3887118",
-          "title": "9 клас · Media in Our Lives: Граматика в контексті",
+          "title": "9en48 Media: Grammar practice",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1537,7 +1987,17 @@
           "assessment_lesson_path": "9/sb-u4-speaking/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Media in Our Lives: Граматика в контексті Медіа в нашому житті: Граматика в контексті",
-          "content_id": "9-sb-u4-grammar-2-homework-01"
+          "content_id": "9-sb-u4-grammar-2-homework-01",
+          "previous_title": "9 клас · Media in Our Lives: Граматика в контексті",
+          "lesson_naming": {
+            "lesson_code": "9en48",
+            "plan_date": "2026-12-15",
+            "learning_month": 4,
+            "lesson_in_month": 8,
+            "target_title": "9en48 Media: Grammar practice",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1546,7 +2006,7 @@
       "tests": [
         {
           "test_id": "3887121",
-          "title": "9 клас · Media in Our Lives: Починаємо тему",
+          "title": "9en315 Media: Intro",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1566,7 +2026,17 @@
           "assessment_lesson_path": "9/sb-u4-blog/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Media in Our Lives: Починаємо тему Медіа в нашому житті: Починаємо тему",
-          "content_id": "9-sb-u4-lead-in-homework-01"
+          "content_id": "9-sb-u4-lead-in-homework-01",
+          "previous_title": "9 клас · Media in Our Lives: Починаємо тему",
+          "lesson_naming": {
+            "lesson_code": "9en315",
+            "plan_date": "2026-11-30",
+            "learning_month": 3,
+            "lesson_in_month": 15,
+            "target_title": "9en315 Media: Intro",
+            "mapping_method": "unit_lead_in",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1575,7 +2045,7 @@
       "tests": [
         {
           "test_id": "3887126",
-          "title": "9 клас · Media in Our Lives: Слухання",
+          "title": "9en46 Media: Listening",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1595,7 +2065,17 @@
           "assessment_lesson_path": "9/sb-u4-vocabulary-2/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Media in Our Lives: Слухання Медіа в нашому житті: Слухання",
-          "content_id": "9-sb-u4-listening-homework-01"
+          "content_id": "9-sb-u4-listening-homework-01",
+          "previous_title": "9 клас · Media in Our Lives: Слухання",
+          "lesson_naming": {
+            "lesson_code": "9en46",
+            "plan_date": "2026-12-10",
+            "learning_month": 4,
+            "lesson_in_month": 6,
+            "target_title": "9en46 Media: Listening",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1604,7 +2084,7 @@
       "tests": [
         {
           "test_id": "3887133",
-          "title": "9 клас · Media in Our Lives: Повторення",
+          "title": "9en411 Media: Review",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1624,7 +2104,17 @@
           "assessment_lesson_path": "9/sb-u4-self-check/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Media in Our Lives: Повторення Медіа в нашому житті: Повторення",
-          "content_id": "9-sb-u4-look-back-homework-01"
+          "content_id": "9-sb-u4-look-back-homework-01",
+          "previous_title": "9 клас · Media in Our Lives: Повторення",
+          "lesson_naming": {
+            "lesson_code": "9en411",
+            "plan_date": "2026-12-22",
+            "learning_month": 4,
+            "lesson_in_month": 11,
+            "target_title": "9en411 Media: Review",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1633,7 +2123,7 @@
       "tests": [
         {
           "test_id": "3887137",
-          "title": "9 клас · Media in Our Lives: Читання",
+          "title": "9en43 Media: Reading",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1653,7 +2143,17 @@
           "assessment_lesson_path": "9/sb-u4-grammar/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Media in Our Lives: Читання Медіа в нашому житті: Читання",
-          "content_id": "9-sb-u4-reading-homework-01"
+          "content_id": "9-sb-u4-reading-homework-01",
+          "previous_title": "9 клас · Media in Our Lives: Читання",
+          "lesson_naming": {
+            "lesson_code": "9en43",
+            "plan_date": "2026-12-03",
+            "learning_month": 4,
+            "lesson_in_month": 3,
+            "target_title": "9en43 Media: Reading",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1662,7 +2162,7 @@
       "tests": [
         {
           "test_id": "3887140",
-          "title": "9 клас · Media in Our Lives: Самооцінювання",
+          "title": "9en412 Media: Self-check",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1682,7 +2182,17 @@
           "assessment_lesson_path": "9/sb-u5-lead-in/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Media in Our Lives: Самооцінювання Медіа в нашому житті: Самооцінювання",
-          "content_id": "9-sb-u4-self-check-homework-01"
+          "content_id": "9-sb-u4-self-check-homework-01",
+          "previous_title": "9 клас · Media in Our Lives: Самооцінювання",
+          "lesson_naming": {
+            "lesson_code": "9en412",
+            "plan_date": "2026-12-23",
+            "learning_month": 4,
+            "lesson_in_month": 12,
+            "target_title": "9en412 Media: Self-check",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1691,7 +2201,7 @@
       "tests": [
         {
           "test_id": "3887144",
-          "title": "9 клас · Media in Our Lives: Говоріння",
+          "title": "9en49 Media: Speaking",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1711,7 +2221,17 @@
           "assessment_lesson_path": "9/sb-u4-writing/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Media in Our Lives: Говоріння Медіа в нашому житті: Говоріння",
-          "content_id": "9-sb-u4-speaking-homework-01"
+          "content_id": "9-sb-u4-speaking-homework-01",
+          "previous_title": "9 клас · Media in Our Lives: Говоріння",
+          "lesson_naming": {
+            "lesson_code": "9en49",
+            "plan_date": "2026-12-16",
+            "learning_month": 4,
+            "lesson_in_month": 9,
+            "target_title": "9en49 Media: Speaking",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1720,7 +2240,7 @@
       "tests": [
         {
           "test_id": "3887146",
-          "title": "9 клас · Media in Our Lives: Слова й словосполучення",
+          "title": "9en42 Media: Vocabulary",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1740,7 +2260,17 @@
           "assessment_lesson_path": "9/sb-u4-reading/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Media in Our Lives: Слова й словосполучення Медіа в нашому житті: Слова й словосполучення",
-          "content_id": "9-sb-u4-vocabulary-homework-01"
+          "content_id": "9-sb-u4-vocabulary-homework-01",
+          "previous_title": "9 клас · Media in Our Lives: Слова й словосполучення",
+          "lesson_naming": {
+            "lesson_code": "9en42",
+            "plan_date": "2026-12-02",
+            "learning_month": 4,
+            "lesson_in_month": 2,
+            "target_title": "9en42 Media: Vocabulary",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1749,7 +2279,7 @@
       "tests": [
         {
           "test_id": "3887157",
-          "title": "9 клас · Media in Our Lives: Лексика в контексті",
+          "title": "9en47 Media: Vocabulary practice",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1769,7 +2299,17 @@
           "assessment_lesson_path": "9/sb-u4-grammar-2/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Media in Our Lives: Лексика в контексті Медіа в нашому житті: Лексика в контексті",
-          "content_id": "9-sb-u4-vocabulary-2-homework-01"
+          "content_id": "9-sb-u4-vocabulary-2-homework-01",
+          "previous_title": "9 клас · Media in Our Lives: Лексика в контексті",
+          "lesson_naming": {
+            "lesson_code": "9en47",
+            "plan_date": "2026-12-14",
+            "learning_month": 4,
+            "lesson_in_month": 7,
+            "target_title": "9en47 Media: Vocabulary practice",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1778,7 +2318,7 @@
       "tests": [
         {
           "test_id": "3887160",
-          "title": "9 клас · Media in Our Lives: Письмо",
+          "title": "9en410 Media: Writing",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1798,7 +2338,17 @@
           "assessment_lesson_path": "9/sb-u4-look-back/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Media in Our Lives: Письмо Медіа в нашому житті: Письмо",
-          "content_id": "9-sb-u4-writing-homework-01"
+          "content_id": "9-sb-u4-writing-homework-01",
+          "previous_title": "9 клас · Media in Our Lives: Письмо",
+          "lesson_naming": {
+            "lesson_code": "9en410",
+            "plan_date": "2026-12-17",
+            "learning_month": 4,
+            "lesson_in_month": 10,
+            "target_title": "9en410 Media: Writing",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1807,7 +2357,7 @@
       "tests": [
         {
           "test_id": "3887165",
-          "title": "9 клас · What kind of person? — риси характеру",
+          "title": "9en12 What kind of person? — риси характеру",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1827,7 +2377,17 @@
           "assessment_lesson_path": "9/personality-growth/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "What kind of person? Типи особистості й риси характеру",
-          "content_id": "9-personality-types-homework-01"
+          "content_id": "9-personality-types-homework-01",
+          "previous_title": "9 клас · What kind of person? — риси характеру",
+          "lesson_naming": {
+            "lesson_code": "9en12",
+            "plan_date": "2026-09-02",
+            "learning_month": 1,
+            "lesson_in_month": 2,
+            "target_title": "9en12 What kind of person? — риси характеру",
+            "mapping_method": "supplement_section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1836,7 +2396,7 @@
       "tests": [
         {
           "test_id": "3887170",
-          "title": "9 клас · You can grow — саморозвиток",
+          "title": "9en110 You can grow — саморозвиток",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1856,7 +2416,17 @@
           "assessment_lesson_path": "9/present-past-review/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "You can grow Як змінюється особистість",
-          "content_id": "9-personality-growth-homework-01"
+          "content_id": "9-personality-growth-homework-01",
+          "previous_title": "9 клас · You can grow — саморозвиток",
+          "lesson_naming": {
+            "lesson_code": "9en110",
+            "plan_date": "2026-09-17",
+            "learning_month": 1,
+            "lesson_in_month": 10,
+            "target_title": "9en110 You can grow — саморозвиток",
+            "mapping_method": "supplement_section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1865,7 +2435,7 @@
       "tests": [
         {
           "test_id": "3887172",
-          "title": "9 клас · Six tenses, one story — теперішні й минулі часи",
+          "title": "9en36 Six tenses, one story — теперішні й минулі часи",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1885,7 +2455,17 @@
           "assessment_lesson_path": "9/personal-details/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Six tenses, one story Теперішні й минулі часи в контексті",
-          "content_id": "9-present-past-review-homework-01"
+          "content_id": "9-present-past-review-homework-01",
+          "previous_title": "9 клас · Six tenses, one story — теперішні й минулі часи",
+          "lesson_naming": {
+            "lesson_code": "9en36",
+            "plan_date": "2026-11-11",
+            "learning_month": 3,
+            "lesson_in_month": 6,
+            "target_title": "9en36 Six tenses, one story — теперішні й минулі часи",
+            "mapping_method": "supplement_section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1894,7 +2474,7 @@
       "tests": [
         {
           "test_id": "3887177",
-          "title": "9 клас · Gerund — форма, прийменники й зміст",
+          "title": "9en27 Gerund — форма, прийменники й зміст",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1914,11 +2494,21 @@
           "assessment_lesson_path": "9/gerund/index.html",
           "placement_rule": "no_next_lesson",
           "source_lesson_title": "Gerund: дієслово + ing",
-          "content_id": "9-gerund-homework-01"
+          "content_id": "9-gerund-homework-01",
+          "previous_title": "9 клас · Gerund — форма, прийменники й зміст",
+          "lesson_naming": {
+            "lesson_code": "9en27",
+            "plan_date": "2026-10-14",
+            "learning_month": 2,
+            "lesson_in_month": 7,
+            "target_title": "9en27 Gerund — форма, прийменники й зміст",
+            "mapping_method": "supplement_section",
+            "status": "pending_external_rename"
+          }
         },
         {
           "test_id": "3887204",
-          "title": "9 клас · Gerund — значення stop, remember, try, regret",
+          "title": "9en27 Gerund — значення stop, remember, try, regret",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1938,7 +2528,17 @@
           "assessment_lesson_path": "9/gerund/index.html",
           "placement_rule": "no_next_lesson",
           "source_lesson_title": "Gerund: дієслово + ing",
-          "content_id": "9-gerund-homework-02"
+          "content_id": "9-gerund-homework-02",
+          "previous_title": "9 клас · Gerund — значення stop, remember, try, regret",
+          "lesson_naming": {
+            "lesson_code": "9en27",
+            "plan_date": "2026-10-14",
+            "learning_month": 2,
+            "lesson_in_month": 7,
+            "target_title": "9en27 Gerund — значення stop, remember, try, regret",
+            "mapping_method": "supplement_section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1947,7 +2547,7 @@
       "tests": [
         {
           "test_id": "3887180",
-          "title": "9 клас · Dress for the occasion — святковий одяг",
+          "title": "9en29 Dress for the occasion — святковий одяг",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1967,7 +2567,17 @@
           "assessment_lesson_path": "9/clothes-and-accessories/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Dress for the occasion Одяг для особливих подій",
-          "content_id": "9-special-occasion-outfits-homework-01"
+          "content_id": "9-special-occasion-outfits-homework-01",
+          "previous_title": "9 клас · Dress for the occasion — святковий одяг",
+          "lesson_naming": {
+            "lesson_code": "9en29",
+            "plan_date": "2026-10-19",
+            "learning_month": 2,
+            "lesson_in_month": 9,
+            "target_title": "9en29 Dress for the occasion — святковий одяг",
+            "mapping_method": "supplement_section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1976,7 +2586,7 @@
       "tests": [
         {
           "test_id": "3887182",
-          "title": "9 клас · Describe the style — прикметники й спостереження",
+          "title": "9en22 Describe the style — прикметники й спостереження",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1996,7 +2606,17 @@
           "assessment_lesson_path": "9/fashion-grammar/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Describe the style Стилі, прикметники й перше враження",
-          "content_id": "9-styles-and-judgement-homework-01"
+          "content_id": "9-styles-and-judgement-homework-01",
+          "previous_title": "9 клас · Describe the style — прикметники й спостереження",
+          "lesson_naming": {
+            "lesson_code": "9en22",
+            "plan_date": "2026-10-05",
+            "learning_month": 2,
+            "lesson_in_month": 2,
+            "target_title": "9en22 Describe the style — прикметники й спостереження",
+            "mapping_method": "supplement_section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -2005,7 +2625,7 @@
       "tests": [
         {
           "test_id": "3887187",
-          "title": "9 клас · Future Forms — чотири форми майбутнього",
+          "title": "9en56 Future Forms — чотири форми майбутнього",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -2025,7 +2645,17 @@
           "assessment_lesson_path": "9/future-forms/index.html",
           "placement_rule": "no_next_lesson",
           "source_lesson_title": "Як англійською говорити про майбутнє",
-          "content_id": "9-future-forms-homework-01"
+          "content_id": "9-future-forms-homework-01",
+          "previous_title": "9 клас · Future Forms — чотири форми майбутнього",
+          "lesson_naming": {
+            "lesson_code": "9en56",
+            "plan_date": "2027-01-26",
+            "learning_month": 5,
+            "lesson_in_month": 6,
+            "target_title": "9en56 Future Forms — чотири форми майбутнього",
+            "mapping_method": "supplement_section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -2034,7 +2664,7 @@
       "tests": [
         {
           "test_id": "3887190",
-          "title": "9 клас · Future Forms v2 — рішення, намір і домовленість",
+          "title": "9en61 Future Forms v2 — рішення, намір і домовленість",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -2054,7 +2684,17 @@
           "assessment_lesson_path": "9/future-forms-v2/index.html",
           "placement_rule": "no_next_lesson",
           "source_lesson_title": "Поверни телефон боком",
-          "content_id": "9-future-forms-v2-homework-01"
+          "content_id": "9-future-forms-v2-homework-01",
+          "previous_title": "9 клас · Future Forms v2 — рішення, намір і домовленість",
+          "lesson_naming": {
+            "lesson_code": "9en61",
+            "plan_date": "2027-02-02",
+            "learning_month": 6,
+            "lesson_in_month": 1,
+            "target_title": "9en61 Future Forms v2 — рішення, намір і домовленість",
+            "mapping_method": "supplement_section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -2063,7 +2703,7 @@
       "tests": [
         {
           "test_id": "3887192",
-          "title": "9 клас · Learning English — навчальні стратегії",
+          "title": "9en11 Learning English — навчальні стратегії",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -2083,7 +2723,17 @@
           "assessment_lesson_path": "9/sb-u1-lead-in/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Learning English Англійська у моєму житті",
-          "content_id": "9-sb-starter-homework-01"
+          "content_id": "9-sb-starter-homework-01",
+          "previous_title": "9 клас · Learning English — навчальні стратегії",
+          "lesson_naming": {
+            "lesson_code": "9en11",
+            "plan_date": "2026-09-01",
+            "learning_month": 1,
+            "lesson_in_month": 1,
+            "target_title": "9en11 Learning English — навчальні стратегії",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -2092,7 +2742,7 @@
       "tests": [
         {
           "test_id": "3887197",
-          "title": "9 клас · Граматика курсу — Units 1–4",
+          "title": "9en413 Grammar reference",
           "points": 10,
           "status": "published",
           "verified": true,
@@ -2123,11 +2773,21 @@
             "student_url": "https://naurok.ua/test/join?gamecode=3023853",
             "verified_on_site": true,
             "note": "Existing assignment with participants already exists; deadline differs from the planned queue. Do not create a duplicate or alter this assignment until the teacher reviews the deadline."
+          },
+          "previous_title": "9 клас · Граматика курсу — Units 1–4",
+          "lesson_naming": {
+            "lesson_code": "9en413",
+            "plan_date": "2026-12-24",
+            "learning_month": 4,
+            "lesson_in_month": 13,
+            "target_title": "9en413 Grammar reference",
+            "mapping_method": "course_reference",
+            "status": "pending_external_rename"
           }
         },
         {
           "test_id": "3887200",
-          "title": "9 клас · Граматика курсу — Units 5–8",
+          "title": "9en98 Grammar reference",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -2147,7 +2807,17 @@
           "assessment_lesson_path": "9/sb-grammar/index.html",
           "placement_rule": "no_next_lesson",
           "source_lesson_title": "Граматика курсу",
-          "content_id": "9-sb-grammar-homework-02"
+          "content_id": "9-sb-grammar-homework-02",
+          "previous_title": "9 клас · Граматика курсу — Units 5–8",
+          "lesson_naming": {
+            "lesson_code": "9en98",
+            "plan_date": "2027-05-17",
+            "learning_month": 9,
+            "lesson_in_month": 8,
+            "target_title": "9en98 Grammar reference",
+            "mapping_method": "course_reference",
+            "status": "pending_external_rename"
+          }
         }
       ]
     }

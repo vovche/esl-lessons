@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Are you ready to cook?: Граматика: застосування Приготування їжі · Граматика: застосування",
+  "title": "7en310 Cooking: Grammar practice",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u3-grammar-2/index.html",
@@ -176,12 +176,26 @@
       "scoring_ui_verified": true,
       "content_verified_after_reopen": true,
       "assignment_verified": true,
-      "assessment_lesson_path": "7/sb-u3-speaking/"
+      "assessment_lesson_path": "7/sb-u3-speaking/",
+      "previous_title": "7 клас · Are you ready to cook?: Граматика: застосування Приготування їжі · Граматика: застосування",
+      "title": "7en310 Cooking: Grammar practice",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en310 Cooking: Grammar practice",
+  "lesson_naming": {
+    "lesson_code": "7en310",
+    "plan_date": "2026-11-17",
+    "learning_month": 3,
+    "lesson_in_month": 10,
+    "target_title": "7en310 Cooking: Grammar practice",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en310 Cooking: Grammar practice"
   }
 }

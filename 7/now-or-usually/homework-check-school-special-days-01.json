@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Special days at school",
+  "title": "7en15 Special days",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/school-special-days/index.html",
@@ -163,5 +163,15 @@
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7 клас · Special days at school",
+  "lesson_naming": {
+    "lesson_code": "7en15",
+    "plan_date": "2026-09-08",
+    "learning_month": 1,
+    "lesson_in_month": 5,
+    "target_title": "7en15 Special days",
+    "mapping_method": "supplement_section",
+    "status": "pending_external_rename"
   }
 }

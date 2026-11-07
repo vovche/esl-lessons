@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Do your chores: Самоперевірка Домашні справи · Самоперевірка",
+  "title": "7en213 Chores: Self-check",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u2-self-check/index.html",
@@ -134,7 +134,7 @@
       "id": "addd5adf-ff09-44c7-9dfb-7f64933e28ef",
       "editor_url": "https://create.kahoot.it/creator/addd5adf-ff09-44c7-9dfb-7f64933e28ef",
       "test_url": "https://create.kahoot.it/details/7-031-do-your-chores-self-check/addd5adf-ff09-44c7-9dfb-7f64933e28ef",
-      "title": "7 клас · 031 · Do your chores: Self-check",
+      "title": "7en213 Chores: Self-check",
       "status": "homework_created",
       "verified": true,
       "visibility": "private",
@@ -175,12 +175,25 @@
       "live_http_status": 200,
       "live_student_href_count": 1,
       "last_live_exact_href": "https://kahoot.it/challenge/0042962260",
-      "live_verified_at": "2026-10-27T07:14:00+02:00"
+      "live_verified_at": "2026-10-27T07:14:00+02:00",
+      "previous_title": "7 клас · 031 · Do your chores: Self-check",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en213 Chores: Self-check",
+  "lesson_naming": {
+    "lesson_code": "7en213",
+    "plan_date": "2026-10-22",
+    "learning_month": 2,
+    "lesson_in_month": 13,
+    "target_title": "7en213 Chores: Self-check",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en213 Chores: Self-check"
   }
 }

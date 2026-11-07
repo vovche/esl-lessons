@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · Media in Our Lives: Лексика в контексті",
+  "title": "9en47 Media: Vocabulary practice",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-u4-vocabulary-2/index.html",
@@ -103,5 +103,15 @@
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · Media in Our Lives: Лексика в контексті",
+  "lesson_naming": {
+    "lesson_code": "9en47",
+    "plan_date": "2026-12-14",
+    "learning_month": 4,
+    "lesson_in_month": 7,
+    "target_title": "9en47 Media: Vocabulary practice",
+    "mapping_method": "section",
+    "status": "pending_external_rename"
   }
 }

@@ -4,7 +4,7 @@
   "tests": [
     {
       "id": "6-sb-4b-homework-01",
-      "title": "How to get there · 6 клас · ESL 4b",
+      "title": "6en42 How to get there",
       "source_lesson": "6/sb-4b/index.html",
       "json": "homework-check-sb-4b-01.json",
       "markdown": "homework-check-sb-4b-01.md",

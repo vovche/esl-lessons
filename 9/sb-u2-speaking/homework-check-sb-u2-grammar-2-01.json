@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · Fashion All the Way: Граматика в контексті",
+  "title": "9en27 Fashion: Grammar practice",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-u2-grammar-2/index.html",
@@ -97,11 +97,46 @@
         2,
         3
       ]
+    },
+    "kahoot": {
+      "id": "38471742-dcb2-4aa5-9df1-d9e59aa0b7dd",
+      "editor_url": "https://create.kahoot.it/creator/38471742-dcb2-4aa5-9df1-d9e59aa0b7dd",
+      "status": "kahoot_created_pending_assignment",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 6,
+      "content_slide_count": 2,
+      "source_point_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ],
+      "platform_scoring_mode": "standard",
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "score_note": "Kahoot uses standard points here; the result can be normalized to 10.",
+      "content_verified_after_reopen": false,
+      "title": "9en27 Fashion: Grammar practice",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · Fashion All the Way: Граматика в контексті",
+  "lesson_naming": {
+    "lesson_code": "9en27",
+    "plan_date": "2026-10-14",
+    "learning_month": 2,
+    "lesson_in_month": 7,
+    "target_title": "9en27 Fashion: Grammar practice",
+    "mapping_method": "section",
+    "status": "kahoot_renamed_pending_naurok",
+    "kahoot_title_verified": "9en27 Fashion: Grammar practice"
   }
 }

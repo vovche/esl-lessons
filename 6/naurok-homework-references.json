@@ -8,7 +8,7 @@
         {
           "test_id": "3886819",
           "builder_url": "https://naurok.com.ua/test/builder/3886819",
-          "title": "6 клас · Grammar Reference · Unit 1",
+          "title": "6en113 Grammar Reference Unit 1",
           "points": 10,
           "question_points": [
             1,
@@ -34,12 +34,22 @@
           "homework_id": "86133326",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133326",
           "code": "6900021",
-          "student_url": "https://naurok.ua/test/join?gamecode=6900021"
+          "student_url": "https://naurok.ua/test/join?gamecode=6900021",
+          "previous_title": "6en113 Grammar Reference Unit 1",
+          "lesson_naming": {
+            "lesson_code": "6en113",
+            "plan_date": "2026-09-23",
+            "learning_month": 1,
+            "lesson_in_month": 13,
+            "target_title": "6en113 Grammar Reference Unit 1",
+            "mapping_method": "unit_reference",
+            "status": "verified_both_platforms"
+          }
         },
         {
           "test_id": "3886834",
           "builder_url": "https://naurok.com.ua/test/builder/3886834",
-          "title": "6 клас · Grammar Reference · Unit 2",
+          "title": "6en29 Grammar Reference Unit 2",
           "points": 10,
           "question_points": [
             1,
@@ -65,12 +75,22 @@
           "homework_id": "86133410",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133410",
           "code": "8355290",
-          "student_url": "https://naurok.ua/test/join?gamecode=8355290"
+          "student_url": "https://naurok.ua/test/join?gamecode=8355290",
+          "previous_title": "6en29 Grammar Reference Unit 2",
+          "lesson_naming": {
+            "lesson_code": "6en29",
+            "plan_date": "2026-10-19",
+            "learning_month": 2,
+            "lesson_in_month": 9,
+            "target_title": "6en29 Grammar Reference Unit 2",
+            "mapping_method": "unit_reference",
+            "status": "verified_both_platforms"
+          }
         },
         {
           "test_id": "3886842",
           "builder_url": "https://naurok.com.ua/test/builder/3886842",
-          "title": "6 клас · Grammar Reference · Unit 3",
+          "title": "6en311 Grammar Reference Unit 3",
           "points": 10,
           "question_points": [
             1,
@@ -96,12 +116,22 @@
           "homework_id": "86133424",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133424",
           "code": "3426948",
-          "student_url": "https://naurok.ua/test/join?gamecode=3426948"
+          "student_url": "https://naurok.ua/test/join?gamecode=3426948",
+          "previous_title": "6en311 Grammar Reference Unit 3",
+          "lesson_naming": {
+            "lesson_code": "6en311",
+            "plan_date": "2026-11-23",
+            "learning_month": 3,
+            "lesson_in_month": 11,
+            "target_title": "6en311 Grammar Reference Unit 3",
+            "mapping_method": "unit_reference",
+            "status": "verified_both_platforms"
+          }
         },
         {
           "test_id": "3886853",
           "builder_url": "https://naurok.com.ua/test/builder/3886853",
-          "title": "6 клас · Grammar Reference · Unit 4",
+          "title": "6en48 Grammar Reference Unit 4",
           "points": 10,
           "question_points": [
             1,
@@ -128,12 +158,22 @@
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272388",
           "code": "7834114",
           "student_url": "https://naurok.ua/test/join?gamecode=7834114",
-          "verified_deadline_ui": "2027-01-03T23:00"
+          "verified_deadline_ui": "2027-01-03T23:00",
+          "previous_title": "6en48 Grammar Reference Unit 4",
+          "lesson_naming": {
+            "lesson_code": "6en48",
+            "plan_date": "2026-12-15",
+            "learning_month": 4,
+            "lesson_in_month": 8,
+            "target_title": "6en48 Grammar Reference Unit 4",
+            "mapping_method": "unit_reference",
+            "status": "verified_both_platforms"
+          }
         },
         {
           "test_id": "3886856",
           "builder_url": "https://naurok.com.ua/test/builder/3886856",
-          "title": "6 клас · Grammar Reference · Unit 5",
+          "title": "6en64 Grammar Reference Unit 5",
           "points": 10,
           "question_points": [
             1,
@@ -160,12 +200,22 @@
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272495",
           "code": "4159541",
           "student_url": "https://naurok.ua/test/join?gamecode=4159541",
-          "verified_deadline_ui": "2027-06-01T23:00"
+          "verified_deadline_ui": "2027-06-01T23:00",
+          "previous_title": "6en64 Grammar Reference Unit 5",
+          "lesson_naming": {
+            "lesson_code": "6en64",
+            "plan_date": "2027-02-05",
+            "learning_month": 6,
+            "lesson_in_month": 4,
+            "target_title": "6en64 Grammar Reference Unit 5",
+            "mapping_method": "unit_reference",
+            "status": "verified_both_platforms"
+          }
         },
         {
           "test_id": "3886864",
           "builder_url": "https://naurok.com.ua/test/builder/3886864",
-          "title": "6 клас · Grammar Reference · Unit 6",
+          "title": "6en75 Grammar Reference Unit 6",
           "points": 10,
           "question_points": [
             1,
@@ -192,12 +242,22 @@
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272570",
           "code": "5638116",
           "student_url": "https://naurok.ua/test/join?gamecode=5638116",
-          "verified_deadline_ui": "2027-06-01T23:00"
+          "verified_deadline_ui": "2027-06-01T23:00",
+          "previous_title": "6en75 Grammar Reference Unit 6",
+          "lesson_naming": {
+            "lesson_code": "6en75",
+            "plan_date": "2027-03-08",
+            "learning_month": 7,
+            "lesson_in_month": 5,
+            "target_title": "6en75 Grammar Reference Unit 6",
+            "mapping_method": "unit_reference",
+            "status": "verified_both_platforms"
+          }
         },
         {
           "test_id": "3886868",
           "builder_url": "https://naurok.com.ua/test/builder/3886868",
-          "title": "6 клас · Grammar Reference · Unit 7",
+          "title": "6en85 Grammar Reference Unit 7",
           "points": 10,
           "question_points": [
             1,
@@ -224,12 +284,22 @@
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272597",
           "code": "6093176",
           "student_url": "https://naurok.ua/test/join?gamecode=6093176",
-          "verified_deadline_ui": "2027-06-01T23:00"
+          "verified_deadline_ui": "2027-06-01T23:00",
+          "previous_title": "6en85 Grammar Reference Unit 7",
+          "lesson_naming": {
+            "lesson_code": "6en85",
+            "plan_date": "2027-04-12",
+            "learning_month": 8,
+            "lesson_in_month": 5,
+            "target_title": "6en85 Grammar Reference Unit 7",
+            "mapping_method": "unit_reference",
+            "status": "verified_both_platforms"
+          }
         },
         {
           "test_id": "3886871",
           "builder_url": "https://naurok.com.ua/test/builder/3886871",
-          "title": "6 клас · Grammar Reference · Unit 8",
+          "title": "6en95 Grammar Reference Unit 8",
           "points": 10,
           "question_points": [
             1,
@@ -256,7 +326,17 @@
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272633",
           "code": "5916118",
           "student_url": "https://naurok.ua/test/join?gamecode=5916118",
-          "verified_deadline_ui": "2027-06-01T23:00"
+          "verified_deadline_ui": "2027-06-01T23:00",
+          "previous_title": "6en95 Grammar Reference Unit 8",
+          "lesson_naming": {
+            "lesson_code": "6en95",
+            "plan_date": "2027-05-11",
+            "learning_month": 9,
+            "lesson_in_month": 5,
+            "target_title": "6en95 Grammar Reference Unit 8",
+            "mapping_method": "unit_reference",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -266,7 +346,7 @@
         {
           "test_id": "3886875",
           "builder_url": "https://naurok.com.ua/test/builder/3886875",
-          "title": "6 клас · Jolly Phonics · Group 1",
+          "title": "6en14 Jolly Phonics Group 1",
           "points": 10,
           "question_points": [
             1,
@@ -293,12 +373,22 @@
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272674",
           "code": "9106569",
           "student_url": "https://naurok.ua/test/join?gamecode=9106569",
-          "verified_deadline_ui": "2027-01-03T23:00"
+          "verified_deadline_ui": "2027-01-03T23:00",
+          "previous_title": "6en14 Jolly Phonics Group 1",
+          "lesson_naming": {
+            "lesson_code": "6en14",
+            "plan_date": "2026-09-07",
+            "learning_month": 1,
+            "lesson_in_month": 4,
+            "target_title": "6en14 Jolly Phonics Group 1",
+            "mapping_method": "phonics_unit",
+            "status": "verified_both_platforms"
+          }
         },
         {
           "test_id": "3886880",
           "builder_url": "https://naurok.com.ua/test/builder/3886880",
-          "title": "6 клас · Jolly Phonics · Group 2",
+          "title": "6en21 Jolly Phonics Group 2",
           "points": 10,
           "question_points": [
             1,
@@ -344,12 +434,22 @@
           "verified_on_site_at": "2026-10-29T12:02:19+02:00",
           "student_entry_verified": true,
           "student_code_prefilled": true,
-          "student_joined": false
+          "student_joined": false,
+          "previous_title": "6en21 Jolly Phonics Group 2",
+          "lesson_naming": {
+            "lesson_code": "6en21",
+            "plan_date": "2026-10-02",
+            "learning_month": 2,
+            "lesson_in_month": 1,
+            "target_title": "6en21 Jolly Phonics Group 2",
+            "mapping_method": "phonics_unit",
+            "status": "verified_both_platforms"
+          }
         },
         {
           "test_id": "3886884",
           "builder_url": "https://naurok.com.ua/test/builder/3886884",
-          "title": "6 клас · Jolly Phonics · Group 3",
+          "title": "6en32 Jolly Phonics Group 3",
           "points": 10,
           "question_points": [
             1,
@@ -393,12 +493,22 @@
             "game_mode": "none"
           },
           "verified_on_site_at": "2026-10-29T12:03:45+02:00",
-          "student_entry_verified": false
+          "student_entry_verified": false,
+          "previous_title": "6 клас · Jolly Phonics · Group 3",
+          "lesson_naming": {
+            "lesson_code": "6en32",
+            "plan_date": "2026-11-03",
+            "learning_month": 3,
+            "lesson_in_month": 2,
+            "target_title": "6en32 Jolly Phonics Group 3",
+            "mapping_method": "phonics_unit",
+            "status": "verified_both_platforms"
+          }
         },
         {
           "test_id": "3886888",
           "builder_url": "https://naurok.com.ua/test/builder/3886888",
-          "title": "6 клас · Jolly Phonics · Group 4",
+          "title": "6en315 Jolly Phonics Group 4",
           "points": 10,
           "question_points": [
             1,
@@ -443,12 +553,22 @@
           },
           "verified_on_site_at": "2026-10-29T12:04:00+02:00",
           "student_entry_verified": false,
-          "student_joined": false
+          "student_joined": false,
+          "previous_title": "6 клас · Jolly Phonics · Group 4",
+          "lesson_naming": {
+            "lesson_code": "6en315",
+            "plan_date": "2026-11-30",
+            "learning_month": 3,
+            "lesson_in_month": 15,
+            "target_title": "6en315 Jolly Phonics Group 4",
+            "mapping_method": "phonics_unit",
+            "status": "verified_both_platforms"
+          }
         },
         {
           "test_id": "3886901",
           "builder_url": "https://naurok.com.ua/test/builder/3886901",
-          "title": "6 клас · Jolly Phonics · Group 5",
+          "title": "6en51 Jolly Phonics Group 5",
           "points": 10,
           "question_points": [
             1,
@@ -493,12 +613,22 @@
           },
           "verified_on_site_at": "2026-10-29T12:10:00+02:00",
           "student_entry_verified": false,
-          "student_joined": false
+          "student_joined": false,
+          "previous_title": "6 клас · Jolly Phonics · Group 5",
+          "lesson_naming": {
+            "lesson_code": "6en51",
+            "plan_date": "2027-01-18",
+            "learning_month": 5,
+            "lesson_in_month": 1,
+            "target_title": "6en51 Jolly Phonics Group 5",
+            "mapping_method": "phonics_unit",
+            "status": "verified_both_platforms"
+          }
         },
         {
           "test_id": "3886905",
           "builder_url": "https://naurok.com.ua/test/builder/3886905",
-          "title": "6 клас · Jolly Phonics · Group 6",
+          "title": "6en69 Jolly Phonics Group 6",
           "points": 10,
           "question_points": [
             1,
@@ -543,12 +673,22 @@
           },
           "verified_on_site_at": "2026-10-29T12:12:00+02:00",
           "student_entry_verified": false,
-          "student_joined": false
+          "student_joined": false,
+          "previous_title": "6 клас · Jolly Phonics · Group 6",
+          "lesson_naming": {
+            "lesson_code": "6en69",
+            "plan_date": "2027-02-16",
+            "learning_month": 6,
+            "lesson_in_month": 9,
+            "target_title": "6en69 Jolly Phonics Group 6",
+            "mapping_method": "phonics_unit",
+            "status": "verified_both_platforms"
+          }
         },
         {
           "test_id": "3886910",
           "builder_url": "https://naurok.com.ua/test/builder/3886910",
-          "title": "6 клас · Jolly Phonics · Group 7",
+          "title": "6en79 Jolly Phonics Group 7",
           "points": 10,
           "question_points": [
             1,
@@ -593,7 +733,17 @@
           },
           "verified_on_site_at": "2026-10-29T12:14:00+02:00",
           "student_entry_verified": false,
-          "student_joined": false
+          "student_joined": false,
+          "previous_title": "6 клас · Jolly Phonics · Group 7",
+          "lesson_naming": {
+            "lesson_code": "6en79",
+            "plan_date": "2027-03-16",
+            "learning_month": 7,
+            "lesson_in_month": 9,
+            "target_title": "6en79 Jolly Phonics Group 7",
+            "mapping_method": "phonics_unit",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -603,7 +753,7 @@
         {
           "test_id": "3886917",
           "builder_url": "https://naurok.com.ua/test/builder/3886917",
-          "title": "6 клас · Wordlist · Unit 1",
+          "title": "6en113 Wordlist Unit 1",
           "points": 10,
           "question_points": [
             1,
@@ -648,12 +798,22 @@
           },
           "verified_on_site_at": "2026-10-29T12:20:00+02:00",
           "student_entry_verified": false,
-          "student_joined": false
+          "student_joined": false,
+          "previous_title": "6en113 Wordlist Unit 1",
+          "lesson_naming": {
+            "lesson_code": "6en113",
+            "plan_date": "2026-09-23",
+            "learning_month": 1,
+            "lesson_in_month": 13,
+            "target_title": "6en113 Wordlist Unit 1",
+            "mapping_method": "unit_reference",
+            "status": "verified_both_platforms"
+          }
         },
         {
           "test_id": "3886931",
           "builder_url": "https://naurok.com.ua/test/builder/3886931",
-          "title": "6 клас · Wordlist · Unit 2",
+          "title": "6en29 Wordlist Unit 2",
           "points": 10,
           "question_points": [
             1,
@@ -698,12 +858,22 @@
           },
           "verified_on_site_at": "2026-10-29T12:22:00+02:00",
           "student_entry_verified": false,
-          "student_joined": false
+          "student_joined": false,
+          "previous_title": "6en29 Wordlist Unit 2",
+          "lesson_naming": {
+            "lesson_code": "6en29",
+            "plan_date": "2026-10-19",
+            "learning_month": 2,
+            "lesson_in_month": 9,
+            "target_title": "6en29 Wordlist Unit 2",
+            "mapping_method": "unit_reference",
+            "status": "verified_both_platforms"
+          }
         },
         {
           "test_id": "3886936",
           "builder_url": "https://naurok.com.ua/test/builder/3886936",
-          "title": "6 клас · Wordlist · Unit 3",
+          "title": "6en311 Wordlist Unit 3",
           "points": 10,
           "question_points": [
             1,
@@ -729,12 +899,22 @@
           "homework_id": "86400575",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86400575",
           "student_url": "https://naurok.ua/test/join?gamecode=4822791",
-          "code": "4822791"
+          "code": "4822791",
+          "previous_title": "6en311 Wordlist Unit 3",
+          "lesson_naming": {
+            "lesson_code": "6en311",
+            "plan_date": "2026-11-23",
+            "learning_month": 3,
+            "lesson_in_month": 11,
+            "target_title": "6en311 Wordlist Unit 3",
+            "mapping_method": "unit_reference",
+            "status": "verified_both_platforms"
+          }
         },
         {
           "test_id": "3886944",
           "builder_url": "https://naurok.com.ua/test/builder/3886944",
-          "title": "6 клас · Wordlist · Unit 4",
+          "title": "6en48 Wordlist Unit 4",
           "points": 10,
           "question_points": [
             1,
@@ -779,12 +959,22 @@
           },
           "verified_on_site_at": "2026-10-29T12:24:00+02:00",
           "student_entry_verified": false,
-          "student_joined": false
+          "student_joined": false,
+          "previous_title": "6en48 Wordlist Unit 4",
+          "lesson_naming": {
+            "lesson_code": "6en48",
+            "plan_date": "2026-12-15",
+            "learning_month": 4,
+            "lesson_in_month": 8,
+            "target_title": "6en48 Wordlist Unit 4",
+            "mapping_method": "unit_reference",
+            "status": "verified_both_platforms"
+          }
         },
         {
           "test_id": "3886947",
           "builder_url": "https://naurok.com.ua/test/builder/3886947",
-          "title": "6 клас · Wordlist · Unit 5",
+          "title": "6en64 Wordlist Unit 5",
           "points": 10,
           "question_points": [
             1,
@@ -806,12 +996,22 @@
           "placement_rule": "no_next_lesson",
           "source_lesson_title": "Лексика курсу",
           "plan_path": "6/sb-wordlist/homework-check-sb-wordlist-05.json",
-          "content_id": "6-sb-wordlist-homework-05"
+          "content_id": "6-sb-wordlist-homework-05",
+          "previous_title": "6en64 Wordlist Unit 5",
+          "lesson_naming": {
+            "lesson_code": "6en64",
+            "plan_date": "2027-02-05",
+            "learning_month": 6,
+            "lesson_in_month": 4,
+            "target_title": "6en64 Wordlist Unit 5",
+            "mapping_method": "unit_reference",
+            "status": "verified_both_platforms"
+          }
         },
         {
           "test_id": "3886951",
           "builder_url": "https://naurok.com.ua/test/builder/3886951",
-          "title": "6 клас · Wordlist · Unit 6",
+          "title": "6en75 Wordlist Unit 6",
           "points": 10,
           "question_points": [
             1,
@@ -833,12 +1033,22 @@
           "placement_rule": "no_next_lesson",
           "source_lesson_title": "Лексика курсу",
           "plan_path": "6/sb-wordlist/homework-check-sb-wordlist-06.json",
-          "content_id": "6-sb-wordlist-homework-06"
+          "content_id": "6-sb-wordlist-homework-06",
+          "previous_title": "6en75 Wordlist Unit 6",
+          "lesson_naming": {
+            "lesson_code": "6en75",
+            "plan_date": "2027-03-08",
+            "learning_month": 7,
+            "lesson_in_month": 5,
+            "target_title": "6en75 Wordlist Unit 6",
+            "mapping_method": "unit_reference",
+            "status": "verified_both_platforms"
+          }
         },
         {
           "test_id": "3886954",
           "builder_url": "https://naurok.com.ua/test/builder/3886954",
-          "title": "6 клас · Wordlist · Unit 7",
+          "title": "6en85 Wordlist Unit 7",
           "points": 10,
           "question_points": [
             1,
@@ -860,12 +1070,22 @@
           "placement_rule": "no_next_lesson",
           "source_lesson_title": "Лексика курсу",
           "plan_path": "6/sb-wordlist/homework-check-sb-wordlist-07.json",
-          "content_id": "6-sb-wordlist-homework-07"
+          "content_id": "6-sb-wordlist-homework-07",
+          "previous_title": "6en85 Wordlist Unit 7",
+          "lesson_naming": {
+            "lesson_code": "6en85",
+            "plan_date": "2027-04-12",
+            "learning_month": 8,
+            "lesson_in_month": 5,
+            "target_title": "6en85 Wordlist Unit 7",
+            "mapping_method": "unit_reference",
+            "status": "verified_both_platforms"
+          }
         },
         {
           "test_id": "3886957",
           "builder_url": "https://naurok.com.ua/test/builder/3886957",
-          "title": "6 клас · Wordlist · Unit 8",
+          "title": "6en95 Wordlist Unit 8",
           "points": 10,
           "question_points": [
             1,
@@ -887,7 +1107,17 @@
           "placement_rule": "no_next_lesson",
           "source_lesson_title": "Лексика курсу",
           "plan_path": "6/sb-wordlist/homework-check-sb-wordlist-08.json",
-          "content_id": "6-sb-wordlist-homework-08"
+          "content_id": "6-sb-wordlist-homework-08",
+          "previous_title": "6en95 Wordlist Unit 8",
+          "lesson_naming": {
+            "lesson_code": "6en95",
+            "plan_date": "2027-05-11",
+            "learning_month": 9,
+            "lesson_in_month": 5,
+            "target_title": "6en95 Wordlist Unit 8",
+            "mapping_method": "unit_reference",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     }

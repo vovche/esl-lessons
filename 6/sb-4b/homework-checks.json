@@ -4,7 +4,7 @@
   "tests": [
     {
       "id": "6-sb-4a-homework-01",
-      "title": "Around town · 6 клас · ESL 4a",
+      "title": "6en315 Around town",
       "source_lesson": "6/sb-4a/index.html",
       "json": "homework-check-sb-4a-01.json",
       "markdown": "homework-check-sb-4a-01.md",

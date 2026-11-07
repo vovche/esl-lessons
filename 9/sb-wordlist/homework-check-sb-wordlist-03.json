@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · Лексика курсу · Unit 3",
+  "title": "9en314 Wordlist Unit 3",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-wordlist/index.html",
@@ -161,5 +161,15 @@
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · Лексика курсу · Unit 3",
+  "lesson_naming": {
+    "lesson_code": "9en314",
+    "plan_date": "2026-11-26",
+    "learning_month": 3,
+    "lesson_in_month": 14,
+    "target_title": "9en314 Wordlist Unit 3",
+    "mapping_method": "unit_reference",
+    "status": "pending_external_rename"
   }
 }

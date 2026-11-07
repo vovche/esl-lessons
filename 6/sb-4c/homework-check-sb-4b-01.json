@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "How to get there · 6 клас · ESL 4b",
+  "title": "6en42 How to get there",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-4b/index.html",
@@ -120,7 +120,7 @@
     },
     "kahoot": {
       "kahoot_id": "7153c74e-6be3-415c-bc31-afbc19ecc2a7",
-      "title": "6 клас · 044 · How to get there",
+      "title": "6en42 How to get there",
       "editor_url": "https://create.kahoot.it/creator/7153c74e-6be3-415c-bc31-afbc19ecc2a7",
       "status": "homework_created",
       "verified": true,
@@ -179,12 +179,25 @@
           ]
         }
       ],
-      "created_at": "2026-10-25T14:24:52.549871+00:00"
+      "created_at": "2026-10-25T14:24:52.549871+00:00",
+      "previous_title": "6 клас · 044 · How to get there",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en42 How to get there",
+  "lesson_naming": {
+    "lesson_code": "6en42",
+    "plan_date": "2026-12-02",
+    "learning_month": 4,
+    "lesson_in_month": 2,
+    "target_title": "6en42 How to get there",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en42 How to get there"
   }
 }

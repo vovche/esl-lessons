@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · In and out of school: Самоперевірка Шкільне життя і дозвілля · Самоперевірка",
+  "title": "7en117 School: Self-check",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u1-self-check/index.html",
@@ -136,7 +136,7 @@
     },
     "kahoot": {
       "kahoot_id": "ece9844d-ccdc-4e69-bf94-b1f7f53a9924",
-      "title": "7 клас · 017 · Unit 1 self-check",
+      "title": "7en117 School: Self-check",
       "editor_url": "https://create.kahoot.it/creator/ece9844d-ccdc-4e69-bf94-b1f7f53a9924",
       "status": "homework_created",
       "verified": true,
@@ -199,12 +199,25 @@
       "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
       "course_title": "7 клас",
       "module": 1,
-      "course_saved_as": "draft"
+      "course_saved_as": "draft",
+      "previous_title": "7 клас · 017 · Unit 1 self-check",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en117 School: Self-check",
+  "lesson_naming": {
+    "lesson_code": "7en117",
+    "plan_date": "2026-09-29",
+    "learning_month": 1,
+    "lesson_in_month": 17,
+    "target_title": "7en117 School: Self-check",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en117 School: Self-check"
   }
 }

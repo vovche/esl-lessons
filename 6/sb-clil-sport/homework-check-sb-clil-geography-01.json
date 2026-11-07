@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "A country fact file · 6 клас · ESL clil-geography",
+  "title": "6en313 A country fact file",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-clil-geography/index.html",
@@ -120,7 +120,7 @@
     },
     "kahoot": {
       "kahoot_id": "ccb5b793-07c6-4746-a699-cfd3780a57ea",
-      "title": "6 клас · 040b · Country fact file",
+      "title": "6en313 A country fact file",
       "editor_url": "https://create.kahoot.it/creator/ccb5b793-07c6-4746-a699-cfd3780a57ea",
       "status": "homework_created",
       "verified": true,
@@ -179,12 +179,25 @@
           ]
         }
       ],
-      "created_at": "2026-10-25T14:19:16.181404+00:00"
+      "created_at": "2026-10-25T14:19:16.181404+00:00",
+      "previous_title": "6 клас · 040b · Country fact file",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en313 A country fact file",
+  "lesson_naming": {
+    "lesson_code": "6en313",
+    "plan_date": "2026-11-25",
+    "learning_month": 3,
+    "lesson_in_month": 13,
+    "target_title": "6en313 A country fact file",
+    "mapping_method": "supplement_section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en313 A country fact file"
   }
 }

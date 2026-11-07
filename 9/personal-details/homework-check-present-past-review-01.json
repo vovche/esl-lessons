@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · Six tenses, one story — теперішні й минулі часи",
+  "title": "9en36 Six tenses, one story — теперішні й минулі часи",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/present-past-review/index.html",
@@ -118,5 +118,15 @@
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · Six tenses, one story — теперішні й минулі часи",
+  "lesson_naming": {
+    "lesson_code": "9en36",
+    "plan_date": "2026-11-11",
+    "learning_month": 3,
+    "lesson_in_month": 6,
+    "target_title": "9en36 Six tenses, one story — теперішні й минулі часи",
+    "mapping_method": "supplement_section",
+    "status": "pending_external_rename"
   }
 }

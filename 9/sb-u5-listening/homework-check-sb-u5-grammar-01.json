@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · Jobs Around Us: Граматика",
+  "title": "9en56 Jobs: Grammar",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-u5-grammar/index.html",
@@ -132,12 +132,24 @@
       "saved_at": "2026-10-29T18:31:39+00:00",
       "reused_for_exact_duplicate_ids": [],
       "reused_exact_duplicate_of": "9-sb-u5-blog-homework-01",
-      "status": "homework_created"
+      "status": "homework_created",
+      "mapping_status": "shared_platform_id_conflict"
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · Jobs Around Us: Граматика",
+  "lesson_naming": {
+    "lesson_code": "9en56",
+    "plan_date": "2027-01-26",
+    "learning_month": 5,
+    "lesson_in_month": 6,
+    "target_title": "9en56 Jobs: Grammar",
+    "mapping_method": "section",
+    "status": "pending_external_rename",
+    "kahoot_mapping_status": "shared_platform_id_conflict"
   }
 }

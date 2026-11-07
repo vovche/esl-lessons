@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "6 клас · 099 · Popular musicals",
+  "title": "6en87 Popular musicals",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-culture-4/index.html",
@@ -120,7 +120,7 @@
     },
     "kahoot": {
       "kahoot_id": "1b124100-b071-4a59-84d6-6240271dd258",
-      "title": "6 клас · 099 · Popular musicals",
+      "title": "6en87 Popular musicals",
       "editor_url": "https://create.kahoot.it/creator/1b124100-b071-4a59-84d6-6240271dd258",
       "assignment_id": "bc38d507-2e0e-4cd4-be85-a59a327075aa",
       "code": "00465948",
@@ -148,12 +148,25 @@
       "course_id": "7572952c-010e-4290-8d43-1a907efd66cc",
       "course_title": "6 клас",
       "course_module": 7,
-      "course_placement_verified": true
+      "course_placement_verified": true,
+      "previous_title": "6 клас · 099 · Popular musicals",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en87 Popular musicals",
+  "lesson_naming": {
+    "lesson_code": "6en87",
+    "plan_date": "2027-04-14",
+    "learning_month": 8,
+    "lesson_in_month": 7,
+    "target_title": "6en87 Popular musicals",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en87 Popular musicals"
   }
 }

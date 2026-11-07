@@ -4,7 +4,7 @@
   "tests": [
     {
       "id": "6-sb-3e-homework-01",
-      "title": "Unlucky story · 6 клас · ESL 3e",
+      "title": "6en310 Unlucky story",
       "source_lesson": "6/sb-3e/index.html",
       "json": "homework-check-sb-3e-01.json",
       "markdown": "homework-check-sb-3e-01.md",

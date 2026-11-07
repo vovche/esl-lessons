@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Are you ready to cook?: Граматика Приготування їжі · Граматика",
+  "title": "7en37 Cooking: Grammar",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u3-grammar/index.html",
@@ -138,7 +138,7 @@
       "id": "19cdce1f-a114-4919-a845-487923e2184a",
       "editor_url": "https://create.kahoot.it/creator/19cdce1f-a114-4919-a845-487923e2184a",
       "test_url": "https://create.kahoot.it/details/7-038-cooking-grammar/19cdce1f-a114-4919-a845-487923e2184a",
-      "title": "7 клас · 038 · Cooking: Grammar",
+      "title": "7en37 Cooking: Grammar",
       "status": "homework_created",
       "verified": true,
       "visibility": "private",
@@ -179,12 +179,25 @@
       "live_http_status": 200,
       "live_student_href_count": 1,
       "last_live_exact_href": "https://kahoot.it/challenge/009488279",
-      "live_verified_at": "2026-10-27T08:02:00+02:00"
+      "live_verified_at": "2026-10-27T08:02:00+02:00",
+      "previous_title": "7 клас · 038 · Cooking: Grammar",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en37 Cooking: Grammar",
+  "lesson_naming": {
+    "lesson_code": "7en37",
+    "plan_date": "2026-11-11",
+    "learning_month": 3,
+    "lesson_in_month": 7,
+    "target_title": "7en37 Cooking: Grammar",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en37 Cooking: Grammar"
   }
 }

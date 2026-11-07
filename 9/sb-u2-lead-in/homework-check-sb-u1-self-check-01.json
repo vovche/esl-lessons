@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · All About Me: Самооцінювання",
+  "title": "9en114 Me: Self-check",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-u1-self-check/index.html",
@@ -101,11 +101,63 @@
         2,
         3
       ]
+    },
+    "kahoot": {
+      "id": "505f41e5-419b-40fb-9592-6185c9a24464",
+      "editor_url": "https://create.kahoot.it/creator/505f41e5-419b-40fb-9592-6185c9a24464",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 6,
+      "content_slide_count": 2,
+      "kahoot_question_weights": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2
+      ],
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "content_verified_after_reopen": true,
+      "title": "9en114 Me: Self-check",
+      "renamed_verified_on": "2026-11-07",
+      "assignment_id": "da53281b-42a9-4c2c-ac96-e311f162f587",
+      "code": "007380196",
+      "student_url": "https://kahoot.it/challenge/007380196",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/da53281b-42a9-4c2c-ac96-e311f162f587/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1794060173060/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "randomize_answer_order": true,
+      "student_entry_verified": false,
+      "platform_scoring_mode": "standard",
+      "source_point_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ],
+      "score_note": "Kahoot connector/editor saved standard points; normalize earned points to 10. Double points are not exposed in this creation workflow."
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · All About Me: Самооцінювання",
+  "lesson_naming": {
+    "lesson_code": "9en114",
+    "plan_date": "2026-09-24",
+    "learning_month": 1,
+    "lesson_in_month": 14,
+    "target_title": "9en114 Me: Self-check",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "9en114 Me: Self-check"
   }
 }

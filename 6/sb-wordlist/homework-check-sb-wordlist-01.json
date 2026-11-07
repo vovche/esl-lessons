@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "6 клас · Wordlist · Unit 1",
+  "title": "6en113 Wordlist Unit 1",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-wordlist/index.html",
@@ -87,7 +87,7 @@
     },
     "kahoot": {
       "id": "65b6d2ba-1f6f-4b3e-aac7-881c0bd12be7",
-      "title": "6 клас · 000 · Wordlist Unit 1",
+      "title": "6en113 Wordlist Unit 1",
       "editor_url": "https://create.kahoot.it/creator/65b6d2ba-1f6f-4b3e-aac7-881c0bd12be7",
       "status": "homework_created",
       "verified": true,
@@ -125,12 +125,25 @@
       "adaptations": [
         "Prompts kept as typed English answers; the longest answer rollerblading is 13 characters, within Kahoot limit.",
         "Source weights 1/2/3 mapped to Standard/Double; maximum score 9 is normalized to 10."
-      ]
+      ],
+      "previous_title": "6 клас · 000 · Wordlist Unit 1",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en113 Wordlist Unit 1",
+  "lesson_naming": {
+    "lesson_code": "6en113",
+    "plan_date": "2026-09-23",
+    "learning_month": 1,
+    "lesson_in_month": 13,
+    "target_title": "6en113 Wordlist Unit 1",
+    "mapping_method": "unit_reference",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en113 Wordlist Unit 1"
   }
 }

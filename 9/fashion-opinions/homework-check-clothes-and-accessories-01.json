@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · Build an outfit — одяг і дієслова",
+  "title": "9en21 Build an outfit — одяг і дієслова",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/clothes-and-accessories/index.html",
@@ -122,5 +122,15 @@
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · Build an outfit — одяг і дієслова",
+  "lesson_naming": {
+    "lesson_code": "9en21",
+    "plan_date": "2026-10-01",
+    "learning_month": 2,
+    "lesson_in_month": 1,
+    "target_title": "9en21 Build an outfit — одяг і дієслова",
+    "mapping_method": "supplement_section",
+    "status": "pending_external_rename"
   }
 }

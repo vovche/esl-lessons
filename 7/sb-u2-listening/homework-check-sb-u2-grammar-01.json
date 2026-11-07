@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Do your chores: Граматика Домашні справи · Граматика",
+  "title": "7en25 Chores: Grammar",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u2-grammar/index.html",
@@ -136,7 +136,7 @@
     },
     "kahoot": {
       "kahoot_id": "dc162320-36fd-4196-a9d5-ab1be12d6666",
-      "title": "7 клас · 026 · Do your chores: Grammar",
+      "title": "7en25 Chores: Grammar",
       "editor_url": "https://create.kahoot.it/creator/dc162320-36fd-4196-a9d5-ab1be12d6666",
       "test_url": "https://create.kahoot.it/details/7-026-do-your-chores-grammar/dc162320-36fd-4196-a9d5-ab1be12d6666",
       "status": "homework_created",
@@ -205,12 +205,25 @@
       "pages_run_url": "https://github.com/vovche/esl-lessons/actions/runs/40442917346",
       "live_http_status": 200,
       "live_student_href_count": 1,
-      "pages_conclusion": "success"
+      "pages_conclusion": "success",
+      "previous_title": "7 клас · 026 · Do your chores: Grammar",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en25 Chores: Grammar",
+  "lesson_naming": {
+    "lesson_code": "7en25",
+    "plan_date": "2026-10-08",
+    "learning_month": 2,
+    "lesson_in_month": 5,
+    "target_title": "7en25 Chores: Grammar",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en25 Chores: Grammar"
   }
 }

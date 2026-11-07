@@ -4,7 +4,7 @@
   "tests": [
     {
       "id": "6-sb-song-1-homework-01",
-      "title": "Me and my board · 6 клас · ESL song-1",
+      "title": "6en210 Me and my board",
       "source_lesson": "6/sb-song-1/index.html",
       "json": "homework-check-sb-song-1-01.json",
       "markdown": "homework-check-sb-song-1-01.md",

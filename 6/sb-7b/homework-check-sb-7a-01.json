@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "TV programmes · 6 клас · ESL 7a",
+  "title": "6en710 TV programmes",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-7a/index.html",
@@ -120,7 +120,7 @@
     },
     "kahoot": {
       "id": "0927ad73-e9c1-4855-80ea-164eb5a7f233",
-      "title": "6 клас · 078 · TV programmes",
+      "title": "6en710 TV programmes",
       "editor_url": "https://create.kahoot.it/creator/0927ad73-e9c1-4855-80ea-164eb5a7f233",
       "status": "homework_created",
       "verified": true,
@@ -155,12 +155,25 @@
       "created_at": "2026-10-26T16:21:32Z",
       "adaptations": [
         "Три словникові питання — письмові відповіді; повний текст читання збережено на двох слайдах."
-      ]
+      ],
+      "previous_title": "6 клас · 078 · TV programmes",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en710 TV programmes",
+  "lesson_naming": {
+    "lesson_code": "6en710",
+    "plan_date": "2027-03-17",
+    "learning_month": 7,
+    "lesson_in_month": 10,
+    "target_title": "6en710 TV programmes",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en710 TV programmes"
   }
 }

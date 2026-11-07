@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Ask and check — шкільні запитання",
+  "title": "7en12 Ask about school",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/ask-about-school/index.html",
@@ -111,12 +111,26 @@
       "question_timer": false,
       "student_entry_verified": true,
       "content_verified_after_reopen": true,
-      "adaptations": []
+      "adaptations": [],
+      "previous_title": "7 клас · Ask and check — шкільні запитання",
+      "title": "7en12 Ask about school",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en12 Ask about school",
+  "lesson_naming": {
+    "lesson_code": "7en12",
+    "plan_date": "2026-09-02",
+    "learning_month": 1,
+    "lesson_in_month": 2,
+    "target_title": "7en12 Ask about school",
+    "mapping_method": "supplement_section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en12 Ask about school"
   }
 }

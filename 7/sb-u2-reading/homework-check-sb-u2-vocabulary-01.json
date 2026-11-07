@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Do your chores: Лексика Домашні справи · Лексика",
+  "title": "7en22 Chores: Vocabulary",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u2-vocabulary/index.html",
@@ -133,7 +133,7 @@
     "kahoot": {
       "id": "c0bb441d-4bc0-4713-b9ba-e756d5c570a5",
       "kahoot_id": "c0bb441d-4bc0-4713-b9ba-e756d5c570a5",
-      "title": "7 клас · 020 · Do your chores: Vocabulary",
+      "title": "7en22 Chores: Vocabulary",
       "editor_url": "https://create.kahoot.it/creator/c0bb441d-4bc0-4713-b9ba-e756d5c570a5",
       "assignment_id": "e607d9a5-cc4a-4f12-b1f0-592aeb686112",
       "code": "008145982",
@@ -177,12 +177,25 @@
       "course_title": "7 клас",
       "module": 2,
       "assessment_lesson_path": "7/sb-u2-reading/",
-      "course_saved_as": "draft"
+      "course_saved_as": "draft",
+      "previous_title": "7 клас · 020 · Do your chores: Vocabulary",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en22 Chores: Vocabulary",
+  "lesson_naming": {
+    "lesson_code": "7en22",
+    "plan_date": "2026-10-05",
+    "learning_month": 2,
+    "lesson_in_month": 2,
+    "target_title": "7en22 Chores: Vocabulary",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en22 Chores: Vocabulary"
   }
 }

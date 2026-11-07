@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · We Are Young and Cool!: Письмо",
+  "title": "9en311 Youth culture: Writing",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-u3-writing/index.html",
@@ -107,5 +107,15 @@
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · We Are Young and Cool!: Письмо",
+  "lesson_naming": {
+    "lesson_code": "9en311",
+    "plan_date": "2026-11-19",
+    "learning_month": 3,
+    "lesson_in_month": 11,
+    "target_title": "9en311 Youth culture: Writing",
+    "mapping_method": "section",
+    "status": "pending_external_rename"
   }
 }

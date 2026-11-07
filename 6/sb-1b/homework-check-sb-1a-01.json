@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "School · 6 клас · ESL 1a",
+  "title": "6en14 School",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-1a/index.html",
@@ -147,12 +147,26 @@
       "deadline": null,
       "no_deadline": true,
       "question_timer": false,
-      "student_entry_verified": true
+      "student_entry_verified": true,
+      "previous_title": "6en14 School",
+      "title": "6en14 School",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en14 School",
+  "lesson_naming": {
+    "lesson_code": "6en14",
+    "plan_date": "2026-09-07",
+    "learning_month": 1,
+    "lesson_in_month": 4,
+    "target_title": "6en14 School",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en14 School"
   }
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Curtain up!: Граматика: застосування Кіно і театр · Граматика: застосування",
+  "title": "7en85 Film & theatre: Grammar practice",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u7-grammar-2/index.html",
@@ -175,12 +175,26 @@
       "randomize_answer_order": true,
       "student_entry_verified": true,
       "content_verified_after_reopen": true,
-      "course_placement_verified": false
+      "course_placement_verified": false,
+      "previous_title": "7 клас · Curtain up!: Граматика: застосування Кіно і театр · Граматика: застосування",
+      "title": "7en85 Film & theatre: Grammar practice",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en85 Film & theatre: Grammar practice",
+  "lesson_naming": {
+    "lesson_code": "7en85",
+    "plan_date": "2027-04-08",
+    "learning_month": 8,
+    "lesson_in_month": 5,
+    "target_title": "7en85 Film & theatre: Grammar practice",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en85 Film & theatre: Grammar practice"
   }
 }

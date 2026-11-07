@@ -4,7 +4,7 @@
   "tests": [
     {
       "id": "9-sb-wordlist-homework-01",
-      "title": "9 клас · Лексика курсу · Unit 1",
+      "title": "9en114 Wordlist Unit 1",
       "source_lesson": "9/sb-wordlist/index.html",
       "json": "homework-check-sb-wordlist-01.json",
       "markdown": "homework-check-sb-wordlist-01.md",
@@ -16,7 +16,7 @@
     },
     {
       "id": "9-sb-wordlist-homework-02",
-      "title": "9 клас · Лексика курсу · Unit 2",
+      "title": "9en212 Wordlist Unit 2",
       "source_lesson": "9/sb-wordlist/index.html",
       "json": "homework-check-sb-wordlist-02.json",
       "markdown": "homework-check-sb-wordlist-02.md",
@@ -28,7 +28,7 @@
     },
     {
       "id": "9-sb-wordlist-homework-03",
-      "title": "9 клас · Лексика курсу · Unit 3",
+      "title": "9en314 Wordlist Unit 3",
       "source_lesson": "9/sb-wordlist/index.html",
       "json": "homework-check-sb-wordlist-03.json",
       "markdown": "homework-check-sb-wordlist-03.md",
@@ -41,7 +41,7 @@
     },
     {
       "id": "9-sb-wordlist-homework-04",
-      "title": "9 клас · Лексика курсу · Unit 4",
+      "title": "9en413 Wordlist Unit 4",
       "source_lesson": "9/sb-wordlist/index.html",
       "json": "homework-check-sb-wordlist-04.json",
       "markdown": "homework-check-sb-wordlist-04.md",
@@ -53,7 +53,7 @@
     },
     {
       "id": "9-sb-wordlist-homework-05",
-      "title": "9 клас · Лексика курсу · Unit 5",
+      "title": "9en66 Wordlist Unit 5",
       "source_lesson": "9/sb-wordlist/index.html",
       "json": "homework-check-sb-wordlist-05.json",
       "markdown": "homework-check-sb-wordlist-05.md",
@@ -65,7 +65,7 @@
     },
     {
       "id": "9-sb-wordlist-homework-06",
-      "title": "9 клас · Лексика курсу · Unit 6",
+      "title": "9en77 Wordlist Unit 6",
       "source_lesson": "9/sb-wordlist/index.html",
       "json": "homework-check-sb-wordlist-06.json",
       "markdown": "homework-check-sb-wordlist-06.md",
@@ -77,7 +77,7 @@
     },
     {
       "id": "9-sb-wordlist-homework-07",
-      "title": "9 клас · Лексика курсу · Unit 7",
+      "title": "9en89 Wordlist Unit 7",
       "source_lesson": "9/sb-wordlist/index.html",
       "json": "homework-check-sb-wordlist-07.json",
       "markdown": "homework-check-sb-wordlist-07.md",
@@ -89,7 +89,7 @@
     },
     {
       "id": "9-sb-wordlist-homework-08",
-      "title": "9 клас · Лексика курсу · Unit 8",
+      "title": "9en98 Wordlist Unit 8",
       "source_lesson": "9/sb-wordlist/index.html",
       "json": "homework-check-sb-wordlist-08.json",
       "markdown": "homework-check-sb-wordlist-08.md",

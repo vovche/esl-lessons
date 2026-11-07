@@ -8,7 +8,7 @@
         {
           "test_id": "3887196",
           "builder_url": "https://naurok.com.ua/test/builder/3887196",
-          "title": "7 клас · What’s the matter?: Блог і обговорення Самопочуття і спілкування з лікарем · Блог і обговорення",
+          "title": "7en610 Health: Blog",
           "points": 10,
           "question_points": [
             1,
@@ -33,7 +33,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "What’s the matter?: Блог і обговорення Самопочуття і спілкування з лікарем · Блог і обговорення",
           "plan_path": "7/sb-u6-vocabulary/homework-check-sb-u6-blog-01.json",
-          "content_id": "7-sb-u6-blog-homework-01"
+          "content_id": "7-sb-u6-blog-homework-01",
+          "previous_title": "7en610 Health: Blog",
+          "lesson_naming": {
+            "lesson_code": "7en610",
+            "plan_date": "2027-02-16",
+            "learning_month": 6,
+            "lesson_in_month": 10,
+            "target_title": "7en610 Health: Blog",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -43,7 +53,7 @@
         {
           "test_id": "3887201",
           "builder_url": "https://naurok.com.ua/test/builder/3887201",
-          "title": "7 клас · What’s the matter?: Граматика: застосування Самопочуття і спілкування з лікарем · Граматика: застосування",
+          "title": "7en72 Health: Grammar practice",
           "points": 10,
           "question_points": [
             1,
@@ -68,7 +78,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "What’s the matter?: Граматика: застосування Самопочуття і спілкування з лікарем · Граматика: застосування",
           "plan_path": "7/sb-u6-speaking/homework-check-sb-u6-grammar-2-01.json",
-          "content_id": "7-sb-u6-grammar-2-homework-01"
+          "content_id": "7-sb-u6-grammar-2-homework-01",
+          "previous_title": "7en72 Health: Grammar practice",
+          "lesson_naming": {
+            "lesson_code": "7en72",
+            "plan_date": "2027-03-02",
+            "learning_month": 7,
+            "lesson_in_month": 2,
+            "target_title": "7en72 Health: Grammar practice",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -78,7 +98,7 @@
         {
           "test_id": "3887202",
           "builder_url": "https://naurok.com.ua/test/builder/3887202",
-          "title": "7 клас · What’s the matter?: Граматика Самопочуття і спілкування з лікарем · Граматика",
+          "title": "7en615 Health: Grammar",
           "points": 10,
           "question_points": [
             1,
@@ -103,7 +123,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "What’s the matter?: Граматика Самопочуття і спілкування з лікарем · Граматика",
           "plan_path": "7/sb-u6-listening/homework-check-sb-u6-grammar-01.json",
-          "content_id": "7-sb-u6-grammar-homework-01"
+          "content_id": "7-sb-u6-grammar-homework-01",
+          "previous_title": "7en615 Health: Grammar",
+          "lesson_naming": {
+            "lesson_code": "7en615",
+            "plan_date": "2027-02-24",
+            "learning_month": 6,
+            "lesson_in_month": 15,
+            "target_title": "7en615 Health: Grammar",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -113,7 +143,7 @@
         {
           "test_id": "3887205",
           "builder_url": "https://naurok.com.ua/test/builder/3887205",
-          "title": "7 клас · What’s the matter?: Починаємо юніт Самопочуття і спілкування з лікарем · Починаємо юніт",
+          "title": "7en610 Health: Intro",
           "points": 10,
           "question_points": [
             1,
@@ -138,7 +168,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "What’s the matter?: Починаємо юніт Самопочуття і спілкування з лікарем · Починаємо юніт",
           "plan_path": "7/sb-u6-blog/homework-check-sb-u6-lead-in-01.json",
-          "content_id": "7-sb-u6-lead-in-homework-01"
+          "content_id": "7-sb-u6-lead-in-homework-01",
+          "previous_title": "7en610 Health: Intro",
+          "lesson_naming": {
+            "lesson_code": "7en610",
+            "plan_date": "2027-02-16",
+            "learning_month": 6,
+            "lesson_in_month": 10,
+            "target_title": "7en610 Health: Intro",
+            "mapping_method": "unit_lead_in",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -148,7 +188,7 @@
         {
           "test_id": "3887208",
           "builder_url": "https://naurok.com.ua/test/builder/3887208",
-          "title": "7 клас · What’s the matter?: Слухання Самопочуття і спілкування з лікарем · Слухання",
+          "title": "7en616 Health: Listening",
           "points": 10,
           "question_points": [
             1,
@@ -173,7 +213,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "What’s the matter?: Слухання Самопочуття і спілкування з лікарем · Слухання",
           "plan_path": "7/sb-u6-vocabulary-2/homework-check-sb-u6-listening-01.json",
-          "content_id": "7-sb-u6-listening-homework-01"
+          "content_id": "7-sb-u6-listening-homework-01",
+          "previous_title": "7en616 Health: Listening",
+          "lesson_naming": {
+            "lesson_code": "7en616",
+            "plan_date": "2027-02-25",
+            "learning_month": 6,
+            "lesson_in_month": 16,
+            "target_title": "7en616 Health: Listening",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -183,7 +233,7 @@
         {
           "test_id": "3887209",
           "builder_url": "https://naurok.com.ua/test/builder/3887209",
-          "title": "7 клас · What’s the matter?: Повторення Самопочуття і спілкування з лікарем · Повторення",
+          "title": "7en76 Health: Review",
           "points": 10,
           "question_points": [
             1,
@@ -208,7 +258,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "What’s the matter?: Повторення Самопочуття і спілкування з лікарем · Повторення",
           "plan_path": "7/sb-u6-self-check/homework-check-sb-u6-look-back-01.json",
-          "content_id": "7-sb-u6-look-back-homework-01"
+          "content_id": "7-sb-u6-look-back-homework-01",
+          "previous_title": "7en76 Health: Review",
+          "lesson_naming": {
+            "lesson_code": "7en76",
+            "plan_date": "2027-03-09",
+            "learning_month": 7,
+            "lesson_in_month": 6,
+            "target_title": "7en76 Health: Review",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -218,7 +278,7 @@
         {
           "test_id": "3887212",
           "builder_url": "https://naurok.com.ua/test/builder/3887212",
-          "title": "7 клас · What’s the matter?: Читання Самопочуття і спілкування з лікарем · Читання",
+          "title": "7en613 Health: Reading",
           "points": 10,
           "question_points": [
             1,
@@ -243,7 +303,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "What’s the matter?: Читання Самопочуття і спілкування з лікарем · Читання",
           "plan_path": "7/sb-u6-grammar/homework-check-sb-u6-reading-01.json",
-          "content_id": "7-sb-u6-reading-homework-01"
+          "content_id": "7-sb-u6-reading-homework-01",
+          "previous_title": "7en613 Health: Reading",
+          "lesson_naming": {
+            "lesson_code": "7en613",
+            "plan_date": "2027-02-22",
+            "learning_month": 6,
+            "lesson_in_month": 13,
+            "target_title": "7en613 Health: Reading",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -253,7 +323,7 @@
         {
           "test_id": "3887215",
           "builder_url": "https://naurok.com.ua/test/builder/3887215",
-          "title": "7 клас · What’s the matter?: Самоперевірка Самопочуття і спілкування з лікарем · Самоперевірка",
+          "title": "7en710 Health: Self-check",
           "points": 10,
           "question_points": [
             1,
@@ -278,7 +348,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "What’s the matter?: Самоперевірка Самопочуття і спілкування з лікарем · Самоперевірка",
           "plan_path": "7/sb-u7-lead-in/homework-check-sb-u6-self-check-01.json",
-          "content_id": "7-sb-u6-self-check-homework-01"
+          "content_id": "7-sb-u6-self-check-homework-01",
+          "previous_title": "7en710 Health: Self-check",
+          "lesson_naming": {
+            "lesson_code": "7en710",
+            "plan_date": "2027-03-16",
+            "learning_month": 7,
+            "lesson_in_month": 10,
+            "target_title": "7en710 Health: Self-check",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -288,7 +368,7 @@
         {
           "test_id": "3887218",
           "builder_url": "https://naurok.com.ua/test/builder/3887218",
-          "title": "7 клас · What’s the matter?: Говоріння Самопочуття і спілкування з лікарем · Говоріння",
+          "title": "7en74 Health: Speaking",
           "points": 10,
           "question_points": [
             1,
@@ -313,7 +393,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "What’s the matter?: Говоріння Самопочуття і спілкування з лікарем · Говоріння",
           "plan_path": "7/sb-u6-writing/homework-check-sb-u6-speaking-01.json",
-          "content_id": "7-sb-u6-speaking-homework-01"
+          "content_id": "7-sb-u6-speaking-homework-01",
+          "previous_title": "7en74 Health: Speaking",
+          "lesson_naming": {
+            "lesson_code": "7en74",
+            "plan_date": "2027-03-04",
+            "learning_month": 7,
+            "lesson_in_month": 4,
+            "target_title": "7en74 Health: Speaking",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -323,7 +413,7 @@
         {
           "test_id": "3887222",
           "builder_url": "https://naurok.com.ua/test/builder/3887222",
-          "title": "7 клас · What’s the matter?: Лексика: застосування Самопочуття і спілкування з лікарем · Лексика: застосування",
+          "title": "7en71 Health: Vocabulary practice",
           "points": 10,
           "question_points": [
             1,
@@ -348,7 +438,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "What’s the matter?: Лексика: застосування Самопочуття і спілкування з лікарем · Лексика: застосування",
           "plan_path": "7/sb-u6-grammar-2/homework-check-sb-u6-vocabulary-2-01.json",
-          "content_id": "7-sb-u6-vocabulary-2-homework-01"
+          "content_id": "7-sb-u6-vocabulary-2-homework-01",
+          "previous_title": "7en71 Health: Vocabulary practice",
+          "lesson_naming": {
+            "lesson_code": "7en71",
+            "plan_date": "2027-03-01",
+            "learning_month": 7,
+            "lesson_in_month": 1,
+            "target_title": "7en71 Health: Vocabulary practice",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -358,7 +458,7 @@
         {
           "test_id": "3887223",
           "builder_url": "https://naurok.com.ua/test/builder/3887223",
-          "title": "7 клас · What’s the matter?: Лексика Самопочуття і спілкування з лікарем · Лексика",
+          "title": "7en612 Health: Vocabulary",
           "points": 10,
           "question_points": [
             1,
@@ -383,7 +483,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "What’s the matter?: Лексика Самопочуття і спілкування з лікарем · Лексика",
           "plan_path": "7/sb-u6-reading/homework-check-sb-u6-vocabulary-01.json",
-          "content_id": "7-sb-u6-vocabulary-homework-01"
+          "content_id": "7-sb-u6-vocabulary-homework-01",
+          "previous_title": "7en612 Health: Vocabulary",
+          "lesson_naming": {
+            "lesson_code": "7en612",
+            "plan_date": "2027-02-18",
+            "learning_month": 6,
+            "lesson_in_month": 12,
+            "target_title": "7en612 Health: Vocabulary",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -393,7 +503,7 @@
         {
           "test_id": "3887227",
           "builder_url": "https://naurok.com.ua/test/builder/3887227",
-          "title": "7 клас · What’s the matter?: Письмо Самопочуття і спілкування з лікарем · Письмо",
+          "title": "7en75 Health: Writing",
           "points": 10,
           "question_points": [
             1,
@@ -418,7 +528,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "What’s the matter?: Письмо Самопочуття і спілкування з лікарем · Письмо",
           "plan_path": "7/sb-u6-look-back/homework-check-sb-u6-writing-01.json",
-          "content_id": "7-sb-u6-writing-homework-01"
+          "content_id": "7-sb-u6-writing-homework-01",
+          "previous_title": "7en75 Health: Writing",
+          "lesson_naming": {
+            "lesson_code": "7en75",
+            "plan_date": "2027-03-08",
+            "learning_month": 7,
+            "lesson_in_month": 5,
+            "target_title": "7en75 Health: Writing",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     }

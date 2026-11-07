@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · Лексика курсу · Unit 6",
+  "title": "9en77 Wordlist Unit 6",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-wordlist/index.html",
@@ -157,5 +157,15 @@
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · Лексика курсу · Unit 6",
+  "lesson_naming": {
+    "lesson_code": "9en77",
+    "plan_date": "2027-03-11",
+    "learning_month": 7,
+    "lesson_in_month": 7,
+    "target_title": "9en77 Wordlist Unit 6",
+    "mapping_method": "unit_reference",
+    "status": "pending_external_rename"
   }
 }

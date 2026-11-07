@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "Hello! · 6 клас · ESL hello",
+  "title": "6en11 Hello!",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-hello/index.html",
@@ -120,7 +120,7 @@
     },
     "kahoot": {
       "id": "0e18858e-36fb-4e62-bc84-a093dced677b",
-      "title": "6 клас · 002 · Family",
+      "title": "6en11 Hello!",
       "editor_url": "https://create.kahoot.it/creator/0e18858e-36fb-4e62-bc84-a093dced677b",
       "status": "homework_created",
       "verified": true,
@@ -173,12 +173,25 @@
         "Source weights 1/2 map to Standard/Double; maximum score 10 is already on the 10-point scale."
       ],
       "canonical_id": "6-sb-hello-homework-01",
-      "source_json": "6/sb-1a/homework-check-sb-hello-01.json"
+      "source_json": "6/sb-1a/homework-check-sb-hello-01.json",
+      "previous_title": "6 клас · 002 · Family",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en11 Hello!",
+  "lesson_naming": {
+    "lesson_code": "6en11",
+    "plan_date": "2026-09-01",
+    "learning_month": 1,
+    "lesson_in_month": 1,
+    "target_title": "6en11 Hello!",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en11 Hello!"
   }
 }

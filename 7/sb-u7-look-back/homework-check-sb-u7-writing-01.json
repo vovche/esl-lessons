@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Curtain up!: Письмо Кіно і театр · Письмо",
+  "title": "7en87 Film & theatre: Writing",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u7-writing/index.html",
@@ -160,12 +160,26 @@
       "randomize_answer_order": true,
       "student_entry_verified": true,
       "content_verified_after_reopen": true,
-      "course_placement_status": "pending_action_time_confirmation"
+      "course_placement_status": "pending_action_time_confirmation",
+      "previous_title": "7 клас · Curtain up!: Письмо Кіно і театр · Письмо",
+      "title": "7en87 Film & theatre: Writing",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en87 Film & theatre: Writing",
+  "lesson_naming": {
+    "lesson_code": "7en87",
+    "plan_date": "2027-04-13",
+    "learning_month": 8,
+    "lesson_in_month": 7,
+    "target_title": "7en87 Film & theatre: Writing",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en87 Film & theatre: Writing"
   }
 }

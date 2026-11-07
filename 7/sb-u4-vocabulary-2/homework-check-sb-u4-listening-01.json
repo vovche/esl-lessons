@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Traditions... Traditions...: Слухання Свята і традиції · Слухання",
+  "title": "7en45 Traditions: Listening",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u4-listening/index.html",
@@ -174,12 +174,24 @@
       "verification_evidence": "Editor confirms public visibility and 10 total steps (8 scored questions plus 2 reading slides). Questions 1–6 standard points; questions 7–8 double points. Assignment report confirms no deadline, code 0038058023, 0 participants; course editor confirms module 4. Course remains a draft because module 7 is empty.",
       "reused_existing_kahoot": true,
       "near_duplicate_of": "7-sb-u4-grammar-homework-01",
-      "unique_difference": "None; all 8 prompts, correct answers, option sets and weights match within grade 7."
+      "unique_difference": "None; all 8 prompts, correct answers, option sets and weights match within grade 7.",
+      "mapping_status": "shared_platform_id_conflict"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7 клас · Traditions... Traditions...: Слухання Свята і традиції · Слухання",
+  "lesson_naming": {
+    "lesson_code": "7en45",
+    "plan_date": "2026-12-08",
+    "learning_month": 4,
+    "lesson_in_month": 5,
+    "target_title": "7en45 Traditions: Listening",
+    "mapping_method": "section",
+    "status": "pending_external_rename",
+    "kahoot_mapping_status": "shared_platform_id_conflict"
   }
 }

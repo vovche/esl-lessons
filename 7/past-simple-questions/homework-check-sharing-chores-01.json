@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · A helping hand",
+  "title": "7en29 A helping hand",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sharing-chores/index.html",
@@ -204,5 +204,15 @@
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7 клас · A helping hand",
+  "lesson_naming": {
+    "lesson_code": "7en29",
+    "plan_date": "2026-10-15",
+    "learning_month": 2,
+    "lesson_in_month": 9,
+    "target_title": "7en29 A helping hand",
+    "mapping_method": "supplement_section",
+    "status": "pending_external_rename"
   }
 }

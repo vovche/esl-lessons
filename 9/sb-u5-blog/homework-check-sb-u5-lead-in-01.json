@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · Jobs Around Us: Починаємо тему",
+  "title": "9en51 Jobs: Intro",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-u5-lead-in/index.html",
@@ -159,5 +159,15 @@
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · Jobs Around Us: Починаємо тему",
+  "lesson_naming": {
+    "lesson_code": "9en51",
+    "plan_date": "2027-01-14",
+    "learning_month": 5,
+    "lesson_in_month": 1,
+    "target_title": "9en51 Jobs: Intro",
+    "mapping_method": "unit_lead_in",
+    "status": "pending_external_rename"
   }
 }

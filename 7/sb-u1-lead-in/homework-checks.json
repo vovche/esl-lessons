@@ -4,7 +4,7 @@
   "tests": [
     {
       "id": "7-sb-starter-homework-01",
-      "title": "7 клас · Starter — початок навчального року",
+      "title": "7en11 Starter",
       "source_lesson": "7/sb-starter/index.html",
       "json": "homework-check-sb-starter-01.json",
       "markdown": "homework-check-sb-starter-01.md",

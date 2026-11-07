@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "Instrument families · 6 клас · ESL clil-music",
+  "title": "6en810 Instrument families",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-clil-music/index.html",
@@ -120,7 +120,7 @@
     },
     "kahoot": {
       "id": "79007ad3-babb-4840-82a1-c2684116df57",
-      "title": "6 клас · 089 · Instrument families",
+      "title": "6en810 Instrument families",
       "editor_url": "https://create.kahoot.it/creator/79007ad3-babb-4840-82a1-c2684116df57",
       "status": "homework_created",
       "verified": true,
@@ -168,12 +168,25 @@
       "created_at": "2026-10-26T20:07:00Z",
       "adaptations": [
         "Три словникові питання зроблено письмовими відповідями; читання подано на двох слайдах."
-      ]
+      ],
+      "previous_title": "6 клас · 089 · Instrument families",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en810 Instrument families",
+  "lesson_naming": {
+    "lesson_code": "6en810",
+    "plan_date": "2027-04-20",
+    "learning_month": 8,
+    "lesson_in_month": 10,
+    "target_title": "6en810 Instrument families",
+    "mapping_method": "supplement_unit",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en810 Instrument families"
   }
 }

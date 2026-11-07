@@ -8,7 +8,7 @@
         {
           "test_id": "3886774",
           "test_url": "https://naurok.com.ua/test/school-6-klas-esl-1a-3886774.html",
-          "title": "School · 6 клас · ESL 1a",
+          "title": "6en14 School",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -33,7 +33,17 @@
           "assessment_lesson_path": "6/sb-1b/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "School Моя школа",
-          "content_id": "6-sb-1a-homework-01"
+          "content_id": "6-sb-1a-homework-01",
+          "previous_title": "6en14 School",
+          "lesson_naming": {
+            "lesson_code": "6en14",
+            "plan_date": "2026-09-07",
+            "learning_month": 1,
+            "lesson_in_month": 4,
+            "target_title": "6en14 School",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -43,7 +53,7 @@
         {
           "test_id": "3886781",
           "builder_url": "https://naurok.com.ua/test/builder/3886781",
-          "title": "Appearance · 6 клас · ESL 1b",
+          "title": "6en16 Appearance",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -69,7 +79,17 @@
           "assessment_lesson_path": "6/sb-1c/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Appearance Описуємо зовнішність",
-          "content_id": "6-sb-1b-homework-01"
+          "content_id": "6-sb-1b-homework-01",
+          "previous_title": "6en16 Appearance",
+          "lesson_naming": {
+            "lesson_code": "6en16",
+            "plan_date": "2026-09-09",
+            "learning_month": 1,
+            "lesson_in_month": 6,
+            "target_title": "6en16 Appearance",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -79,7 +99,7 @@
         {
           "test_id": "3886789",
           "builder_url": "https://naurok.com.ua/test/builder/3886789",
-          "title": "Character · 6 клас · ESL 1c",
+          "title": "6en18 Character",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -105,7 +125,17 @@
           "assessment_lesson_path": "6/sb-1d/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Character Звички та дії зараз",
-          "content_id": "6-sb-1c-homework-01"
+          "content_id": "6-sb-1c-homework-01",
+          "previous_title": "6en18 Character",
+          "lesson_naming": {
+            "lesson_code": "6en18",
+            "plan_date": "2026-09-15",
+            "learning_month": 1,
+            "lesson_in_month": 8,
+            "target_title": "6en18 Character",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -115,7 +145,7 @@
         {
           "test_id": "3886794",
           "builder_url": "https://naurok.com.ua/test/builder/3886794",
-          "title": "Free time · 6 клас · ESL 1d",
+          "title": "6en110 Free time",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -141,7 +171,17 @@
           "assessment_lesson_path": "6/sb-1e/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Free time Вільний час",
-          "content_id": "6-sb-1d-homework-01"
+          "content_id": "6-sb-1d-homework-01",
+          "previous_title": "6en110 Free time",
+          "lesson_naming": {
+            "lesson_code": "6en110",
+            "plan_date": "2026-09-18",
+            "learning_month": 1,
+            "lesson_in_month": 10,
+            "target_title": "6en110 Free time",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -151,7 +191,7 @@
         {
           "test_id": "3886797",
           "builder_url": "https://naurok.com.ua/test/builder/3886797",
-          "title": "My friend's profile · 6 клас · ESL 1e",
+          "title": "6en112 My friend's profile",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -177,7 +217,17 @@
           "assessment_lesson_path": "6/sb-culture-1/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "My friend's profile Профіль друга",
-          "content_id": "6-sb-1e-homework-01"
+          "content_id": "6-sb-1e-homework-01",
+          "previous_title": "6en112 My friend's profile",
+          "lesson_naming": {
+            "lesson_code": "6en112",
+            "plan_date": "2026-09-22",
+            "learning_month": 1,
+            "lesson_in_month": 12,
+            "target_title": "6en112 My friend's profile",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -187,7 +237,7 @@
         {
           "test_id": "3886800",
           "builder_url": "https://naurok.com.ua/test/builder/3886800",
-          "title": "Holiday activity · 6 клас · ESL 2a",
+          "title": "6en21 Holiday activity",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -213,7 +263,17 @@
           "assessment_lesson_path": "6/sb-2b/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Holiday activity Канікули в минулому",
-          "content_id": "6-sb-2a-homework-01"
+          "content_id": "6-sb-2a-homework-01",
+          "previous_title": "6en21 Holiday activity",
+          "lesson_naming": {
+            "lesson_code": "6en21",
+            "plan_date": "2026-10-02",
+            "learning_month": 2,
+            "lesson_in_month": 1,
+            "target_title": "6en21 Holiday activity",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -223,7 +283,7 @@
         {
           "test_id": "3886803",
           "builder_url": "https://naurok.com.ua/test/builder/3886803",
-          "title": "Transport · 6 клас · ESL 2b",
+          "title": "6en23 Transport",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -249,7 +309,17 @@
           "assessment_lesson_path": "6/sb-2c/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Transport Обираємо транспорт",
-          "content_id": "6-sb-2b-homework-01"
+          "content_id": "6-sb-2b-homework-01",
+          "previous_title": "6en23 Transport",
+          "lesson_naming": {
+            "lesson_code": "6en23",
+            "plan_date": "2026-10-06",
+            "learning_month": 2,
+            "lesson_in_month": 3,
+            "target_title": "6en23 Transport",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -259,7 +329,7 @@
         {
           "test_id": "3886806",
           "builder_url": "https://naurok.com.ua/test/builder/3886806",
-          "title": "Travel preparations · 6 клас · ESL 2c",
+          "title": "6en25 Travel preparations",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -285,7 +355,17 @@
           "assessment_lesson_path": "6/sb-2d/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Travel preparations Готуємося до подорожі",
-          "content_id": "6-sb-2c-homework-01"
+          "content_id": "6-sb-2c-homework-01",
+          "previous_title": "6en25 Travel preparations",
+          "lesson_naming": {
+            "lesson_code": "6en25",
+            "plan_date": "2026-10-12",
+            "learning_month": 2,
+            "lesson_in_month": 5,
+            "target_title": "6en25 Travel preparations",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -295,7 +375,7 @@
         {
           "test_id": "3886811",
           "builder_url": "https://naurok.com.ua/test/builder/3886811",
-          "title": "Travelling then and now · 6 клас · ESL 2d",
+          "title": "6en27 Travelling then and now",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -321,7 +401,17 @@
           "assessment_lesson_path": "6/sb-2e/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Travelling then and now Подорожі колись і зараз",
-          "content_id": "6-sb-2d-homework-01"
+          "content_id": "6-sb-2d-homework-01",
+          "previous_title": "6en27 Travelling then and now",
+          "lesson_naming": {
+            "lesson_code": "6en27",
+            "plan_date": "2026-10-14",
+            "learning_month": 2,
+            "lesson_in_month": 7,
+            "target_title": "6en27 Travelling then and now",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -331,7 +421,7 @@
         {
           "test_id": "3886813",
           "builder_url": "https://naurok.com.ua/test/builder/3886813",
-          "title": "A school trip · 6 клас · ESL 2e",
+          "title": "6en29 A school trip",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -357,7 +447,17 @@
           "assessment_lesson_path": "6/sb-song-1/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "A school trip Лист про шкільну поїздку",
-          "content_id": "6-sb-2e-homework-01"
+          "content_id": "6-sb-2e-homework-01",
+          "previous_title": "6en29 A school trip",
+          "lesson_naming": {
+            "lesson_code": "6en29",
+            "plan_date": "2026-10-19",
+            "learning_month": 2,
+            "lesson_in_month": 9,
+            "target_title": "6en29 A school trip",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -367,7 +467,7 @@
         {
           "test_id": "3886817",
           "builder_url": "https://naurok.com.ua/test/builder/3886817",
-          "title": "Accident · 6 клас · ESL 3a",
+          "title": "6en32 Accident",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -393,7 +493,17 @@
           "homework_id": "86133285",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133285",
           "code": "5279543",
-          "student_url": "https://naurok.ua/test/join?gamecode=5279543"
+          "student_url": "https://naurok.ua/test/join?gamecode=5279543",
+          "previous_title": "6en32 Accident",
+          "lesson_naming": {
+            "lesson_code": "6en32",
+            "plan_date": "2026-11-03",
+            "learning_month": 3,
+            "lesson_in_month": 2,
+            "target_title": "6en32 Accident",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -403,7 +513,7 @@
         {
           "test_id": "3886820",
           "builder_url": "https://naurok.com.ua/test/builder/3886820",
-          "title": "Mysteries · 6 клас · ESL 3b",
+          "title": "6en34 Mysteries",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -429,7 +539,17 @@
           "homework_id": "86133328",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133328",
           "code": "4863579",
-          "student_url": "https://naurok.ua/test/join?gamecode=4863579"
+          "student_url": "https://naurok.ua/test/join?gamecode=4863579",
+          "previous_title": "6en34 Mysteries",
+          "lesson_naming": {
+            "lesson_code": "6en34",
+            "plan_date": "2026-11-09",
+            "learning_month": 3,
+            "lesson_in_month": 4,
+            "target_title": "6en34 Mysteries",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -439,7 +559,7 @@
         {
           "test_id": "3886824",
           "builder_url": "https://naurok.com.ua/test/builder/3886824",
-          "title": "What happened? · 6 клас · ESL 3c",
+          "title": "6en36 What happened?",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -465,7 +585,17 @@
           "homework_id": "86133364",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133364",
           "code": "6844339",
-          "student_url": "https://naurok.ua/test/join?gamecode=6844339"
+          "student_url": "https://naurok.ua/test/join?gamecode=6844339",
+          "previous_title": "6en36 What happened?",
+          "lesson_naming": {
+            "lesson_code": "6en36",
+            "plan_date": "2026-11-11",
+            "learning_month": 3,
+            "lesson_in_month": 6,
+            "target_title": "6en36 What happened?",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -475,7 +605,7 @@
         {
           "test_id": "3886825",
           "builder_url": "https://naurok.com.ua/test/builder/3886825",
-          "title": "Emotions · 6 клас · ESL 3d",
+          "title": "6en38 Emotions",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -501,7 +631,17 @@
           "homework_id": "86133367",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133367",
           "code": "5242233",
-          "student_url": "https://naurok.ua/test/join?gamecode=5242233"
+          "student_url": "https://naurok.ua/test/join?gamecode=5242233",
+          "previous_title": "6en38 Emotions",
+          "lesson_naming": {
+            "lesson_code": "6en38",
+            "plan_date": "2026-11-16",
+            "learning_month": 3,
+            "lesson_in_month": 8,
+            "target_title": "6en38 Emotions",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -511,7 +651,7 @@
         {
           "test_id": "3886828",
           "builder_url": "https://naurok.com.ua/test/builder/3886828",
-          "title": "Unlucky story · 6 клас · ESL 3e",
+          "title": "6en310 Unlucky story",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -537,7 +677,17 @@
           "homework_id": "86133391",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133391",
           "code": "8762779",
-          "student_url": "https://naurok.ua/test/join?gamecode=8762779"
+          "student_url": "https://naurok.ua/test/join?gamecode=8762779",
+          "previous_title": "6en310 Unlucky story",
+          "lesson_naming": {
+            "lesson_code": "6en310",
+            "plan_date": "2026-11-18",
+            "learning_month": 3,
+            "lesson_in_month": 10,
+            "target_title": "6en310 Unlucky story",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -547,7 +697,7 @@
         {
           "test_id": "3886830",
           "builder_url": "https://naurok.com.ua/test/builder/3886830",
-          "title": "Around town · 6 клас · ESL 4a",
+          "title": "6en315 Around town",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -573,7 +723,17 @@
           "homework_id": "86133395",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133395",
           "code": "9424233",
-          "student_url": "https://naurok.ua/test/join?gamecode=9424233"
+          "student_url": "https://naurok.ua/test/join?gamecode=9424233",
+          "previous_title": "6en315 Around town",
+          "lesson_naming": {
+            "lesson_code": "6en315",
+            "plan_date": "2026-11-30",
+            "learning_month": 3,
+            "lesson_in_month": 15,
+            "target_title": "6en315 Around town",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -583,7 +743,7 @@
         {
           "test_id": "3886836",
           "builder_url": "https://naurok.com.ua/test/builder/3886836",
-          "title": "How to get there · 6 клас · ESL 4b",
+          "title": "6en42 How to get there",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -609,7 +769,17 @@
           "homework_id": "86133412",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133412",
           "code": "5374064",
-          "student_url": "https://naurok.ua/test/join?gamecode=5374064"
+          "student_url": "https://naurok.ua/test/join?gamecode=5374064",
+          "previous_title": "6en42 How to get there",
+          "lesson_naming": {
+            "lesson_code": "6en42",
+            "plan_date": "2026-12-02",
+            "learning_month": 4,
+            "lesson_in_month": 2,
+            "target_title": "6en42 How to get there",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -619,7 +789,7 @@
         {
           "test_id": "3886843",
           "builder_url": "https://naurok.com.ua/test/builder/3886843",
-          "title": "City vs countryside · 6 клас · ESL 4c",
+          "title": "6en44 City vs countryside",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -645,7 +815,17 @@
           "homework_id": "86133425",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133425",
           "code": "3845598",
-          "student_url": "https://naurok.ua/test/join?gamecode=3845598"
+          "student_url": "https://naurok.ua/test/join?gamecode=3845598",
+          "previous_title": "6en44 City vs countryside",
+          "lesson_naming": {
+            "lesson_code": "6en44",
+            "plan_date": "2026-12-08",
+            "learning_month": 4,
+            "lesson_in_month": 4,
+            "target_title": "6en44 City vs countryside",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -655,7 +835,7 @@
         {
           "test_id": "3886847",
           "builder_url": "https://naurok.com.ua/test/builder/3886847",
-          "title": "Outer space · 6 клас · ESL 4d",
+          "title": "6en46 Outer space",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -681,7 +861,17 @@
           "homework_id": "86133435",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133435",
           "code": "1983711",
-          "student_url": "https://naurok.ua/test/join?gamecode=1983711"
+          "student_url": "https://naurok.ua/test/join?gamecode=1983711",
+          "previous_title": "6en46 Outer space",
+          "lesson_naming": {
+            "lesson_code": "6en46",
+            "plan_date": "2026-12-11",
+            "learning_month": 4,
+            "lesson_in_month": 6,
+            "target_title": "6en46 Outer space",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -691,7 +881,7 @@
         {
           "test_id": "3886855",
           "builder_url": "https://naurok.com.ua/test/builder/3886855",
-          "title": "Where I live · 6 клас · ESL 4e",
+          "title": "6en48 Where I live",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -718,7 +908,17 @@
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272460",
           "code": "4184278",
           "student_url": "https://naurok.ua/test/join?gamecode=4184278",
-          "verified_deadline_ui": "2027-01-03T23:00"
+          "verified_deadline_ui": "2027-01-03T23:00",
+          "previous_title": "6en48 Where I live",
+          "lesson_naming": {
+            "lesson_code": "6en48",
+            "plan_date": "2026-12-15",
+            "learning_month": 4,
+            "lesson_in_month": 8,
+            "target_title": "6en48 Where I live",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -728,7 +928,7 @@
         {
           "test_id": "3886861",
           "builder_url": "https://naurok.com.ua/test/builder/3886861",
-          "title": "Computer parts · 6 клас · ESL 5a",
+          "title": "6en52 Computer parts",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -755,7 +955,17 @@
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272527",
           "code": "2750424",
           "student_url": "https://naurok.ua/test/join?gamecode=2750424",
-          "verified_deadline_ui": "2027-06-01T23:00"
+          "verified_deadline_ui": "2027-06-01T23:00",
+          "previous_title": "6en52 Computer parts",
+          "lesson_naming": {
+            "lesson_code": "6en52",
+            "plan_date": "2027-01-19",
+            "learning_month": 5,
+            "lesson_in_month": 2,
+            "target_title": "6en52 Computer parts",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -765,7 +975,7 @@
         {
           "test_id": "3886866",
           "builder_url": "https://naurok.com.ua/test/builder/3886866",
-          "title": "Gadgets · 6 клас · ESL 5b",
+          "title": "6en54 Gadgets",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -792,7 +1002,17 @@
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272587",
           "code": "6460571",
           "student_url": "https://naurok.ua/test/join?gamecode=6460571",
-          "verified_deadline_ui": "2027-06-01T23:00"
+          "verified_deadline_ui": "2027-06-01T23:00",
+          "previous_title": "6en54 Gadgets",
+          "lesson_naming": {
+            "lesson_code": "6en54",
+            "plan_date": "2027-01-22",
+            "learning_month": 5,
+            "lesson_in_month": 4,
+            "target_title": "6en54 Gadgets",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -802,7 +1022,7 @@
         {
           "test_id": "3886873",
           "builder_url": "https://naurok.com.ua/test/builder/3886873",
-          "title": "Recycling · 6 клас · ESL 5c",
+          "title": "6en56 Recycling",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -829,7 +1049,17 @@
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272648",
           "code": "3869297",
           "student_url": "https://naurok.ua/test/join?gamecode=3869297",
-          "verified_deadline_ui": "2027-06-01T23:00"
+          "verified_deadline_ui": "2027-06-01T23:00",
+          "previous_title": "6en56 Recycling",
+          "lesson_naming": {
+            "lesson_code": "6en56",
+            "plan_date": "2027-01-26",
+            "learning_month": 5,
+            "lesson_in_month": 6,
+            "target_title": "6en56 Recycling",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -839,7 +1069,7 @@
         {
           "test_id": "3886878",
           "builder_url": "https://naurok.com.ua/test/builder/3886878",
-          "title": "Animal protection · 6 клас · ESL 5d",
+          "title": "6en61 Animal protection",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -877,7 +1107,17 @@
             "show_ranking": false,
             "game_mode": "none"
           },
-          "verified_on_site_at": "2026-10-24T17:13:00+03:00"
+          "verified_on_site_at": "2026-10-24T17:13:00+03:00",
+          "previous_title": "6en61 Animal protection",
+          "lesson_naming": {
+            "lesson_code": "6en61",
+            "plan_date": "2027-02-01",
+            "learning_month": 6,
+            "lesson_in_month": 1,
+            "target_title": "6en61 Animal protection",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -887,7 +1127,7 @@
         {
           "test_id": "3886882",
           "builder_url": "https://naurok.com.ua/test/builder/3886882",
-          "title": "An environmental event · 6 клас · ESL 5e",
+          "title": "6en63 An environmental event",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -925,7 +1165,17 @@
             "show_ranking": false,
             "game_mode": "none"
           },
-          "verified_on_site_at": "2026-10-25T"
+          "verified_on_site_at": "2026-10-25T",
+          "previous_title": "6en63 An environmental event",
+          "lesson_naming": {
+            "lesson_code": "6en63",
+            "plan_date": "2027-02-03",
+            "learning_month": 6,
+            "lesson_in_month": 3,
+            "target_title": "6en63 An environmental event",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -935,7 +1185,7 @@
         {
           "test_id": "3886893",
           "builder_url": "https://naurok.com.ua/test/builder/3886893",
-          "title": "Healthy food · 6 клас · ESL 6a",
+          "title": "6en610 Healthy food",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -973,7 +1223,17 @@
             "show_ranking": false,
             "game_mode": "none"
           },
-          "verified_on_site_at": "2026-10-25T"
+          "verified_on_site_at": "2026-10-25T",
+          "previous_title": "6en610 Healthy food",
+          "lesson_naming": {
+            "lesson_code": "6en610",
+            "plan_date": "2027-02-17",
+            "learning_month": 6,
+            "lesson_in_month": 10,
+            "target_title": "6en610 Healthy food",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -983,7 +1243,7 @@
         {
           "test_id": "3886895",
           "builder_url": "https://naurok.com.ua/test/builder/3886895",
-          "title": "Ailments and illnesses · 6 клас · ESL 6b",
+          "title": "6en612 Ailments and illnesses",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -1021,7 +1281,17 @@
             "show_ranking": false,
             "game_mode": "none"
           },
-          "verified_on_site_at": "2026-10-25"
+          "verified_on_site_at": "2026-10-25",
+          "previous_title": "6en612 Ailments and illnesses",
+          "lesson_naming": {
+            "lesson_code": "6en612",
+            "plan_date": "2027-02-22",
+            "learning_month": 6,
+            "lesson_in_month": 12,
+            "target_title": "6en612 Ailments and illnesses",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -1031,7 +1301,7 @@
         {
           "test_id": "3886899",
           "builder_url": "https://naurok.com.ua/test/builder/3886899",
-          "title": "Facts about sports · 6 клас · ESL 6c",
+          "title": "6en614 Facts about sports",
           "points": 10,
           "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3886899",
@@ -1069,7 +1339,17 @@
             "show_ranking": false,
             "game_mode": "none"
           },
-          "verified_on_site_at": "2026-10-25"
+          "verified_on_site_at": "2026-10-25",
+          "previous_title": "6en614 Facts about sports",
+          "lesson_naming": {
+            "lesson_code": "6en614",
+            "plan_date": "2027-02-24",
+            "learning_month": 6,
+            "lesson_in_month": 14,
+            "target_title": "6en614 Facts about sports",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -1079,7 +1359,7 @@
         {
           "test_id": "3886906",
           "builder_url": "https://naurok.com.ua/test/builder/3886906",
-          "title": "Football · 6 клас · ESL 6d",
+          "title": "6en72 Football",
           "points": 10,
           "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3886906",
@@ -1117,7 +1397,17 @@
             "show_ranking": false,
             "game_mode": "none"
           },
-          "verified_on_site_at": "2026-10-25"
+          "verified_on_site_at": "2026-10-25",
+          "previous_title": "6en72 Football",
+          "lesson_naming": {
+            "lesson_code": "6en72",
+            "plan_date": "2027-03-02",
+            "learning_month": 7,
+            "lesson_in_month": 2,
+            "target_title": "6en72 Football",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -1127,7 +1417,7 @@
         {
           "test_id": "3886913",
           "builder_url": "https://naurok.com.ua/test/builder/3886913",
-          "title": "Get active! · 6 клас · ESL 6e",
+          "title": "6en74 Get active!",
           "points": 10,
           "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3886913",
@@ -1165,7 +1455,17 @@
             "show_ranking": false,
             "game_mode": "none"
           },
-          "verified_on_site_at": "2026-10-25"
+          "verified_on_site_at": "2026-10-25",
+          "previous_title": "6en74 Get active!",
+          "lesson_naming": {
+            "lesson_code": "6en74",
+            "plan_date": "2027-03-05",
+            "learning_month": 7,
+            "lesson_in_month": 4,
+            "target_title": "6en74 Get active!",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -1175,7 +1475,7 @@
         {
           "test_id": "3886918",
           "builder_url": "https://naurok.com.ua/test/builder/3886918",
-          "title": "TV programmes · 6 клас · ESL 7a",
+          "title": "6en710 TV programmes",
           "points": 10,
           "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3886918",
@@ -1213,7 +1513,17 @@
             "show_ranking": false,
             "game_mode": "none"
           },
-          "verified_on_site_at": "2026-10-25"
+          "verified_on_site_at": "2026-10-25",
+          "previous_title": "6en710 TV programmes",
+          "lesson_naming": {
+            "lesson_code": "6en710",
+            "plan_date": "2027-03-17",
+            "learning_month": 7,
+            "lesson_in_month": 10,
+            "target_title": "6en710 TV programmes",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -1223,7 +1533,7 @@
         {
           "test_id": "3886922",
           "builder_url": "https://naurok.com.ua/test/builder/3886922",
-          "title": "Music · 6 клас · ESL 7b",
+          "title": "6en712 Music",
           "points": 10,
           "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3886922",
@@ -1261,7 +1571,17 @@
             "show_ranking": false,
             "game_mode": "none"
           },
-          "verified_on_site_at": "2026-10-25"
+          "verified_on_site_at": "2026-10-25",
+          "previous_title": "6en712 Music",
+          "lesson_naming": {
+            "lesson_code": "6en712",
+            "plan_date": "2027-03-29",
+            "learning_month": 7,
+            "lesson_in_month": 12,
+            "target_title": "6en712 Music",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -1271,7 +1591,7 @@
         {
           "test_id": "3886925",
           "builder_url": "https://naurok.com.ua/test/builder/3886925",
-          "title": "Messages · 6 клас · ESL 7c",
+          "title": "6en714 Messages",
           "points": 10,
           "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3886925",
@@ -1309,7 +1629,17 @@
             "show_ranking": false,
             "game_mode": "none"
           },
-          "verified_on_site_at": "2026-10-25"
+          "verified_on_site_at": "2026-10-25",
+          "previous_title": "6en714 Messages",
+          "lesson_naming": {
+            "lesson_code": "6en714",
+            "plan_date": "2027-03-31",
+            "learning_month": 7,
+            "lesson_in_month": 14,
+            "target_title": "6en714 Messages",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -1319,7 +1649,7 @@
         {
           "test_id": "3886934",
           "builder_url": "https://naurok.com.ua/test/builder/3886934",
-          "title": "Going shopping · 6 клас · ESL 7d",
+          "title": "6en82 Going shopping",
           "points": 10,
           "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3886934",
@@ -1357,7 +1687,17 @@
             "show_ranking": false,
             "game_mode": "none"
           },
-          "verified_on_site_at": "2026-10-25"
+          "verified_on_site_at": "2026-10-25",
+          "previous_title": "6en82 Going shopping",
+          "lesson_naming": {
+            "lesson_code": "6en82",
+            "plan_date": "2027-04-05",
+            "learning_month": 8,
+            "lesson_in_month": 2,
+            "target_title": "6en82 Going shopping",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -1367,7 +1707,7 @@
         {
           "test_id": "3886942",
           "builder_url": "https://naurok.com.ua/test/builder/3886942",
-          "title": "Teen problems · 6 клас · ESL 7e",
+          "title": "6en84 Teen problems",
           "points": 10,
           "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3886942",
@@ -1405,7 +1745,17 @@
             "show_ranking": false,
             "game_mode": "none"
           },
-          "verified_on_site_at": "2026-10-25"
+          "verified_on_site_at": "2026-10-25",
+          "previous_title": "6en84 Teen problems",
+          "lesson_naming": {
+            "lesson_code": "6en84",
+            "plan_date": "2027-04-07",
+            "learning_month": 8,
+            "lesson_in_month": 4,
+            "target_title": "6en84 Teen problems",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -1415,7 +1765,7 @@
         {
           "test_id": "3886949",
           "builder_url": "https://naurok.com.ua/test/builder/3886949",
-          "title": "In the headlines · 6 клас · ESL 8a",
+          "title": "6en811 In the headlines",
           "points": 10,
           "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3886949",
@@ -1453,7 +1803,17 @@
             "show_ranking": false,
             "game_mode": "none"
           },
-          "verified_on_site_at": "2026-10-25"
+          "verified_on_site_at": "2026-10-25",
+          "previous_title": "6en811 In the headlines",
+          "lesson_naming": {
+            "lesson_code": "6en811",
+            "plan_date": "2027-04-21",
+            "learning_month": 8,
+            "lesson_in_month": 11,
+            "target_title": "6en811 In the headlines",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -1463,7 +1823,7 @@
         {
           "test_id": "3886952",
           "builder_url": "https://naurok.com.ua/test/builder/3886952",
-          "title": "Performing on stage · 6 клас · ESL 8b",
+          "title": "6en813 Performing on stage",
           "points": 10,
           "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3886952",
@@ -1501,7 +1861,17 @@
             "show_ranking": false,
             "game_mode": "none"
           },
-          "verified_on_site_at": "2026-10-25"
+          "verified_on_site_at": "2026-10-25",
+          "previous_title": "6en813 Performing on stage",
+          "lesson_naming": {
+            "lesson_code": "6en813",
+            "plan_date": "2027-04-27",
+            "learning_month": 8,
+            "lesson_in_month": 13,
+            "target_title": "6en813 Performing on stage",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -1511,7 +1881,7 @@
         {
           "test_id": "3886960",
           "builder_url": "https://naurok.com.ua/test/builder/3886960",
-          "title": "The press · 6 клас · ESL 8c",
+          "title": "6en815 The press",
           "points": 10,
           "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3886960",
@@ -1549,7 +1919,17 @@
             "show_ranking": false,
             "game_mode": "none"
           },
-          "verified_on_site_at": "2026-10-25"
+          "verified_on_site_at": "2026-10-25",
+          "previous_title": "6en815 The press",
+          "lesson_naming": {
+            "lesson_code": "6en815",
+            "plan_date": "2027-04-30",
+            "learning_month": 8,
+            "lesson_in_month": 15,
+            "target_title": "6en815 The press",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -1559,7 +1939,7 @@
         {
           "test_id": "3886964",
           "builder_url": "https://naurok.com.ua/test/builder/3886964",
-          "title": "The Oscars · 6 клас · ESL 8d",
+          "title": "6en92 The Oscars",
           "points": 10,
           "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3886964",
@@ -1597,7 +1977,17 @@
             "show_ranking": false,
             "game_mode": "none"
           },
-          "verified_on_site_at": "2026-10-25"
+          "verified_on_site_at": "2026-10-25",
+          "previous_title": "6en92 The Oscars",
+          "lesson_naming": {
+            "lesson_code": "6en92",
+            "plan_date": "2027-05-04",
+            "learning_month": 9,
+            "lesson_in_month": 2,
+            "target_title": "6en92 The Oscars",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -1607,7 +1997,7 @@
         {
           "test_id": "3886971",
           "builder_url": "https://naurok.com.ua/test/builder/3886971",
-          "title": "Films to watch · 6 клас · ESL 8e",
+          "title": "6en94 Films to watch",
           "points": 10,
           "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3886971",
@@ -1645,7 +2035,17 @@
             "show_ranking": false,
             "game_mode": "none"
           },
-          "verified_on_site_at": "2026-10-25"
+          "verified_on_site_at": "2026-10-25",
+          "previous_title": "6en94 Films to watch",
+          "lesson_naming": {
+            "lesson_code": "6en94",
+            "plan_date": "2027-05-10",
+            "learning_month": 9,
+            "lesson_in_month": 4,
+            "target_title": "6en94 Films to watch",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -1655,7 +2055,7 @@
         {
           "test_id": "3886976",
           "builder_url": "https://naurok.com.ua/test/builder/3886976",
-          "title": "A country fact file · 6 клас · ESL clil-geography",
+          "title": "6en313 A country fact file",
           "points": 10,
           "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3886976",
@@ -1693,7 +2093,17 @@
             "show_ranking": false,
             "game_mode": "none"
           },
-          "verified_on_site_at": "2026-10-25"
+          "verified_on_site_at": "2026-10-25",
+          "previous_title": "6en313 A country fact file",
+          "lesson_naming": {
+            "lesson_code": "6en313",
+            "plan_date": "2026-11-25",
+            "learning_month": 3,
+            "lesson_in_month": 13,
+            "target_title": "6en313 A country fact file",
+            "mapping_method": "supplement_section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -1703,7 +2113,7 @@
         {
           "test_id": "3886981",
           "builder_url": "https://naurok.com.ua/test/builder/3886981",
-          "title": "An expedition · 6 клас · ESL clil-history",
+          "title": "6en32 An expedition",
           "points": 10,
           "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3886981",
@@ -1741,7 +2151,17 @@
             "show_ranking": false,
             "game_mode": "none"
           },
-          "verified_on_site_at": "2026-10-25"
+          "verified_on_site_at": "2026-10-25",
+          "previous_title": "6en32 An expedition",
+          "lesson_naming": {
+            "lesson_code": "6en32",
+            "plan_date": "2026-11-03",
+            "learning_month": 3,
+            "lesson_in_month": 2,
+            "target_title": "6en32 An expedition",
+            "mapping_method": "supplement_unit",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -1751,7 +2171,7 @@
         {
           "test_id": "3886984",
           "builder_url": "https://naurok.com.ua/test/builder/3886984",
-          "title": "Instrument families · 6 клас · ESL clil-music",
+          "title": "6en810 Instrument families",
           "points": 10,
           "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3886984",
@@ -1789,7 +2209,17 @@
             "show_ranking": false,
             "game_mode": "none"
           },
-          "verified_on_site_at": "2026-10-25"
+          "verified_on_site_at": "2026-10-25",
+          "previous_title": "6en810 Instrument families",
+          "lesson_naming": {
+            "lesson_code": "6en810",
+            "plan_date": "2027-04-20",
+            "learning_month": 8,
+            "lesson_in_month": 10,
+            "target_title": "6en810 Instrument families",
+            "mapping_method": "supplement_unit",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -1799,7 +2229,7 @@
         {
           "test_id": "3886990",
           "builder_url": "https://naurok.com.ua/test/builder/3886990",
-          "title": "Ice hockey · 6 клас · ESL clil-sport",
+          "title": "6en69 Ice hockey",
           "points": 10,
           "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3886990",
@@ -1837,7 +2267,17 @@
             "show_ranking": false,
             "game_mode": "none"
           },
-          "verified_on_site_at": "2026-10-25"
+          "verified_on_site_at": "2026-10-25",
+          "previous_title": "6en69 Ice hockey",
+          "lesson_naming": {
+            "lesson_code": "6en69",
+            "plan_date": "2027-02-16",
+            "learning_month": 6,
+            "lesson_in_month": 9,
+            "target_title": "6en69 Ice hockey",
+            "mapping_method": "supplement_unit",
+            "status": "naurok_renamed_pending_kahoot"
+          }
         }
       ]
     },
@@ -1847,7 +2287,7 @@
         {
           "test_id": "3886992",
           "builder_url": "https://naurok.com.ua/test/builder/3886992",
-          "title": "Unusual transport · 6 клас · ESL culture-1",
+          "title": "6en115 Unusual transport",
           "points": 10,
           "status": "published",
           "test_url": "https://naurok.com.ua/test-beta/test/3886992",
@@ -1880,6 +2320,16 @@
             "student_url": "https://naurok.ua/test/join?gamecode=3962149",
             "verified_on_site": true,
             "note": "Existing assignment with participants already exists; deadline differs from the planned queue. Do not create a duplicate or alter this assignment until the teacher reviews the deadline."
+          },
+          "previous_title": "6en115 Unusual transport",
+          "lesson_naming": {
+            "lesson_code": "6en115",
+            "plan_date": "2026-09-29",
+            "learning_month": 1,
+            "lesson_in_month": 15,
+            "target_title": "6en115 Unusual transport",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
           }
         }
       ]
@@ -1890,7 +2340,7 @@
         {
           "test_id": "3886998",
           "builder_url": "https://naurok.com.ua/test/builder/3886998",
-          "title": "A place full of stories · 6 клас · ESL culture-2",
+          "title": "6en313 A place full of stories",
           "points": 10,
           "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3886998",
@@ -1928,7 +2378,17 @@
             "show_ranking": false,
             "game_mode": "none"
           },
-          "verified_on_site_at": "2026-10-25"
+          "verified_on_site_at": "2026-10-25",
+          "previous_title": "6en313 A place full of stories",
+          "lesson_naming": {
+            "lesson_code": "6en313",
+            "plan_date": "2026-11-25",
+            "learning_month": 3,
+            "lesson_in_month": 13,
+            "target_title": "6en313 A place full of stories",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -1938,7 +2398,7 @@
         {
           "test_id": "3887003",
           "builder_url": "https://naurok.com.ua/test/builder/3887003",
-          "title": "Parks in the city · 6 клас · ESL culture-3",
+          "title": "6en66 Parks in the city",
           "points": 10,
           "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3887003",
@@ -1976,7 +2436,17 @@
             "show_ranking": false,
             "game_mode": "none"
           },
-          "verified_on_site_at": "2026-10-25"
+          "verified_on_site_at": "2026-10-25",
+          "previous_title": "6en66 Parks in the city",
+          "lesson_naming": {
+            "lesson_code": "6en66",
+            "plan_date": "2027-02-09",
+            "learning_month": 6,
+            "lesson_in_month": 6,
+            "target_title": "6en66 Parks in the city",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -1986,7 +2456,7 @@
         {
           "test_id": "3887009",
           "builder_url": "https://naurok.com.ua/test/builder/3887009",
-          "title": "Popular musicals · 6 клас · ESL culture-4",
+          "title": "6en87 Popular musicals",
           "points": 10,
           "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3887009",
@@ -2024,7 +2494,17 @@
             "show_ranking": false,
             "game_mode": "none"
           },
-          "verified_on_site_at": "2026-10-25"
+          "verified_on_site_at": "2026-10-25",
+          "previous_title": "6en87 Popular musicals",
+          "lesson_naming": {
+            "lesson_code": "6en87",
+            "plan_date": "2027-04-14",
+            "learning_month": 8,
+            "lesson_in_month": 7,
+            "target_title": "6en87 Popular musicals",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -2034,7 +2514,7 @@
         {
           "test_id": "3887013",
           "builder_url": "https://naurok.com.ua/test/builder/3887013",
-          "title": "Food traditions · 6 клас · ESL culture-ukraine-1",
+          "title": "6en210 Food traditions",
           "points": 10,
           "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3887013",
@@ -2072,7 +2552,17 @@
             "show_ranking": false,
             "game_mode": "none"
           },
-          "verified_on_site_at": "2026-10-25"
+          "verified_on_site_at": "2026-10-25",
+          "previous_title": "6en210 Food traditions",
+          "lesson_naming": {
+            "lesson_code": "6en210",
+            "plan_date": "2026-10-20",
+            "learning_month": 2,
+            "lesson_in_month": 10,
+            "target_title": "6en210 Food traditions",
+            "mapping_method": "supplement_section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -2082,7 +2572,7 @@
         {
           "test_id": "3887018",
           "builder_url": "https://naurok.com.ua/test/builder/3887018",
-          "title": "Visiting a capital · 6 клас · ESL culture-ukraine-2",
+          "title": "6en315 Visiting a capital",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "test_url": "https://naurok.com.ua/test-beta/test/3887018",
@@ -2104,7 +2594,17 @@
           "assessment_lesson_path": "6/sb-clil-history/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Visiting a capital Культура: путівник містом",
-          "content_id": "6-sb-culture-ukraine-2-homework-01"
+          "content_id": "6-sb-culture-ukraine-2-homework-01",
+          "previous_title": "6en315 Visiting a capital",
+          "lesson_naming": {
+            "lesson_code": "6en315",
+            "plan_date": "2026-11-30",
+            "learning_month": 3,
+            "lesson_in_month": 15,
+            "target_title": "6en315 Visiting a capital",
+            "mapping_method": "supplement_unit",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -2114,7 +2614,7 @@
         {
           "test_id": "3887023",
           "builder_url": "https://naurok.com.ua/test/builder/3887023",
-          "title": "Hello! · 6 клас · ESL hello",
+          "title": "6en11 Hello!",
           "points": 10,
           "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3887023",
@@ -2155,6 +2655,16 @@
             "show_review_after_test": true,
             "show_ranking": true,
             "game_mode": "none"
+          },
+          "previous_title": "6en11 Hello!",
+          "lesson_naming": {
+            "lesson_code": "6en11",
+            "plan_date": "2026-09-01",
+            "learning_month": 1,
+            "lesson_in_month": 1,
+            "target_title": "6en11 Hello!",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
           }
         }
       ]
@@ -2165,7 +2675,7 @@
         {
           "test_id": "3887030",
           "builder_url": "https://naurok.com.ua/test/builder/3887030",
-          "title": "Learn and create · 6 клас · ESL learning-tips",
+          "title": "6en11 Learn and create",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "test_url": "https://naurok.com.ua/test-beta/test/3887030",
@@ -2187,7 +2697,17 @@
           "assessment_lesson_path": "6/sb-learning-tips/index.html",
           "placement_rule": "no_next_lesson",
           "source_lesson_title": "Learn and create Як учитися й робити проєкти",
-          "content_id": "6-sb-learning-tips-homework-01"
+          "content_id": "6-sb-learning-tips-homework-01",
+          "previous_title": "6en11 Learn and create",
+          "lesson_naming": {
+            "lesson_code": "6en11",
+            "plan_date": "2026-09-01",
+            "learning_month": 1,
+            "lesson_in_month": 1,
+            "target_title": "6en11 Learn and create",
+            "mapping_method": "supplement_section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -2197,7 +2717,7 @@
         {
           "test_id": "3887036",
           "builder_url": "https://naurok.com.ua/test/builder/3887036",
-          "title": "Talk together · 6 клас · ESL pair-work",
+          "title": "6en116 Talk together",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "test_url": "https://naurok.com.ua/test-beta/test/3887036",
@@ -2219,7 +2739,17 @@
           "assessment_lesson_path": "6/sb-learning-tips/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Talk together Робота в парах",
-          "content_id": "6-sb-pair-work-homework-01"
+          "content_id": "6-sb-pair-work-homework-01",
+          "previous_title": "6en116 Talk together",
+          "lesson_naming": {
+            "lesson_code": "6en116",
+            "plan_date": "2026-09-30",
+            "learning_month": 1,
+            "lesson_in_month": 16,
+            "target_title": "6en116 Talk together",
+            "mapping_method": "supplement_section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -2229,7 +2759,7 @@
         {
           "test_id": "3887042",
           "builder_url": "https://naurok.com.ua/test/builder/3887042",
-          "title": "Round-up 1 · 6 клас · ESL round-up-1",
+          "title": "6en116 Round-up 1",
           "points": 10,
           "status": "published",
           "test_url": "https://naurok.com.ua/test-beta/test/3887042",
@@ -2263,6 +2793,16 @@
             "verified_on_site_at": "2026-10-29T11:19:45+02:00",
             "verified_on_site": true,
             "note": "An earlier assignment for this test is already finished and has 6 student results. Do not create a duplicate or alter the completed assignment."
+          },
+          "previous_title": "6en116 Round-up 1",
+          "lesson_naming": {
+            "lesson_code": "6en116",
+            "plan_date": "2026-09-30",
+            "learning_month": 1,
+            "lesson_in_month": 16,
+            "target_title": "6en116 Round-up 1",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
           }
         }
       ]
@@ -2273,7 +2813,7 @@
         {
           "test_id": "3887047",
           "builder_url": "https://naurok.com.ua/test/builder/3887047",
-          "title": "Round-up 2 · 6 клас · ESL round-up-2",
+          "title": "6en211 Round-up 2",
           "points": 10,
           "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3887047",
@@ -2314,6 +2854,16 @@
             "show_review_after_test": true,
             "show_ranking": true,
             "game_mode": "none"
+          },
+          "previous_title": "6en211 Round-up 2",
+          "lesson_naming": {
+            "lesson_code": "6en211",
+            "plan_date": "2026-10-21",
+            "learning_month": 2,
+            "lesson_in_month": 11,
+            "target_title": "6en211 Round-up 2",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
           }
         }
       ]
@@ -2324,7 +2874,7 @@
         {
           "test_id": "3887055",
           "builder_url": "https://naurok.com.ua/test/builder/3887055",
-          "title": "Round-up 3 · 6 клас · ESL round-up-3",
+          "title": "6en314 Round-up 3",
           "points": 10,
           "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3887055",
@@ -2369,7 +2919,17 @@
           },
           "verified_on_site_at": "2026-10-29T12:16:00+02:00",
           "student_entry_verified": false,
-          "student_joined": false
+          "student_joined": false,
+          "previous_title": "6en314 Round-up 3",
+          "lesson_naming": {
+            "lesson_code": "6en314",
+            "plan_date": "2026-11-27",
+            "learning_month": 3,
+            "lesson_in_month": 14,
+            "target_title": "6en314 Round-up 3",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -2379,7 +2939,7 @@
         {
           "test_id": "3887062",
           "builder_url": "https://naurok.com.ua/test/builder/3887062",
-          "title": "Round-up 4 · 6 клас · ESL round-up-4",
+          "title": "6en410 Round-up 4",
           "points": 10,
           "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3887062",
@@ -2424,7 +2984,17 @@
           },
           "verified_on_site_at": "2026-10-29T12:18:00+02:00",
           "student_entry_verified": false,
-          "student_joined": false
+          "student_joined": false,
+          "previous_title": "6en410 Round-up 4",
+          "lesson_naming": {
+            "lesson_code": "6en410",
+            "plan_date": "2026-12-21",
+            "learning_month": 4,
+            "lesson_in_month": 10,
+            "target_title": "6en410 Round-up 4",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -2434,7 +3004,7 @@
         {
           "test_id": "3887067",
           "builder_url": "https://naurok.com.ua/test/builder/3887067",
-          "title": "Round-up 5 · 6 клас · ESL round-up-5",
+          "title": "6en68 Round-up 5",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "test_url": "https://naurok.com.ua/test-beta/test/3887067",
@@ -2456,7 +3026,17 @@
           "assessment_lesson_path": "6/sb-6a/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Round-up 5 Повторення юніту 5",
-          "content_id": "6-sb-round-up-5-homework-01"
+          "content_id": "6-sb-round-up-5-homework-01",
+          "previous_title": "6en68 Round-up 5",
+          "lesson_naming": {
+            "lesson_code": "6en68",
+            "plan_date": "2027-02-15",
+            "learning_month": 6,
+            "lesson_in_month": 8,
+            "target_title": "6en68 Round-up 5",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -2466,7 +3046,7 @@
         {
           "test_id": "3887076",
           "builder_url": "https://naurok.com.ua/test/builder/3887076",
-          "title": "Round-up 6 · 6 клас · ESL round-up-6",
+          "title": "6en77 Round-up 6",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "test_url": "https://naurok.com.ua/test-beta/test/3887076",
@@ -2488,7 +3068,17 @@
           "assessment_lesson_path": "6/sb-7a/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Round-up 6 Повторення юніту 6",
-          "content_id": "6-sb-round-up-6-homework-01"
+          "content_id": "6-sb-round-up-6-homework-01",
+          "previous_title": "6en77 Round-up 6",
+          "lesson_naming": {
+            "lesson_code": "6en77",
+            "plan_date": "2027-03-10",
+            "learning_month": 7,
+            "lesson_in_month": 7,
+            "target_title": "6en77 Round-up 6",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -2498,7 +3088,7 @@
         {
           "test_id": "3887083",
           "builder_url": "https://naurok.com.ua/test/builder/3887083",
-          "title": "Round-up 7 · 6 клас · ESL round-up-7",
+          "title": "6en89 Round-up 7",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "test_url": "https://naurok.com.ua/test-beta/test/3887083",
@@ -2520,7 +3110,17 @@
           "assessment_lesson_path": "6/sb-8a/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Round-up 7 Повторення юніту 7",
-          "content_id": "6-sb-round-up-7-homework-01"
+          "content_id": "6-sb-round-up-7-homework-01",
+          "previous_title": "6en89 Round-up 7",
+          "lesson_naming": {
+            "lesson_code": "6en89",
+            "plan_date": "2027-04-19",
+            "learning_month": 8,
+            "lesson_in_month": 9,
+            "target_title": "6en89 Round-up 7",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -2530,7 +3130,7 @@
         {
           "test_id": "3887089",
           "builder_url": "https://naurok.com.ua/test/builder/3887089",
-          "title": "Round-up 8 · 6 клас · ESL round-up-8",
+          "title": "6en97 Round-up 8",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "test_url": "https://naurok.com.ua/test-beta/test/3887089",
@@ -2552,7 +3152,17 @@
           "assessment_lesson_path": "6/sb-culture-ukraine-1/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Round-up 8 Повторення юніту 8",
-          "content_id": "6-sb-round-up-8-homework-01"
+          "content_id": "6-sb-round-up-8-homework-01",
+          "previous_title": "6en97 Round-up 8",
+          "lesson_naming": {
+            "lesson_code": "6en97",
+            "plan_date": "2027-05-14",
+            "learning_month": 9,
+            "lesson_in_month": 7,
+            "target_title": "6en97 Round-up 8",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -2562,7 +3172,7 @@
         {
           "test_id": "3887095",
           "builder_url": "https://naurok.com.ua/test/builder/3887095",
-          "title": "Me and my board · 6 клас · ESL song-1",
+          "title": "6en210 Me and my board",
           "points": 10,
           "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3887095",
@@ -2607,7 +3217,17 @@
           },
           "verified_on_site_at": "2026-10-29T12:26:00+02:00",
           "student_entry_verified": false,
-          "student_joined": false
+          "student_joined": false,
+          "previous_title": "6en210 Me and my board",
+          "lesson_naming": {
+            "lesson_code": "6en210",
+            "plan_date": "2026-10-20",
+            "learning_month": 2,
+            "lesson_in_month": 10,
+            "target_title": "6en210 Me and my board",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -2617,7 +3237,7 @@
         {
           "test_id": "3887104",
           "builder_url": "https://naurok.com.ua/test/builder/3887104",
-          "title": "Unlucky day · 6 клас · ESL song-2",
+          "title": "6en49 Unlucky day",
           "points": 10,
           "status": "homework_created",
           "test_url": "https://naurok.com.ua/test-beta/test/3887104",
@@ -2662,7 +3282,17 @@
           },
           "verified_on_site_at": "2026-10-29T12:28:00+02:00",
           "student_entry_verified": false,
-          "student_joined": false
+          "student_joined": false,
+          "previous_title": "6en49 Unlucky day",
+          "lesson_naming": {
+            "lesson_code": "6en49",
+            "plan_date": "2026-12-16",
+            "learning_month": 4,
+            "lesson_in_month": 9,
+            "target_title": "6en49 Unlucky day",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -2672,7 +3302,7 @@
         {
           "test_id": "3887109",
           "builder_url": "https://naurok.com.ua/test/builder/3887109",
-          "title": "Where did it all go wrong? · 6 клас · ESL song-3",
+          "title": "6en76 Where did it all go wrong?",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "test_url": "https://naurok.com.ua/test-beta/test/3887109",
@@ -2694,7 +3324,17 @@
           "assessment_lesson_path": "6/sb-round-up-6/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Where did it all go wrong? Пісня: турбота про планету",
-          "content_id": "6-sb-song-3-homework-01"
+          "content_id": "6-sb-song-3-homework-01",
+          "previous_title": "6en76 Where did it all go wrong?",
+          "lesson_naming": {
+            "lesson_code": "6en76",
+            "plan_date": "2027-03-09",
+            "learning_month": 7,
+            "lesson_in_month": 6,
+            "target_title": "6en76 Where did it all go wrong?",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -2704,7 +3344,7 @@
         {
           "test_id": "3887114",
           "builder_url": "https://naurok.com.ua/test/builder/3887114",
-          "title": "Superstar · 6 клас · ESL song-4",
+          "title": "6en96 Superstar",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "test_url": "https://naurok.com.ua/test-beta/test/3887114",
@@ -2726,7 +3366,17 @@
           "assessment_lesson_path": "6/sb-round-up-8/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Superstar Пісня: мрії про успіх",
-          "content_id": "6-sb-song-4-homework-01"
+          "content_id": "6-sb-song-4-homework-01",
+          "previous_title": "6en96 Superstar",
+          "lesson_naming": {
+            "lesson_code": "6en96",
+            "plan_date": "2027-05-12",
+            "learning_month": 9,
+            "lesson_in_month": 6,
+            "target_title": "6en96 Superstar",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     }

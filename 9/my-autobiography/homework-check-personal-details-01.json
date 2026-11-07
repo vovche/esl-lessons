@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · Ask for details — анкета та запитання",
+  "title": "9en14 Ask for details — анкета та запитання",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/personal-details/index.html",
@@ -127,5 +127,15 @@
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · Ask for details — анкета та запитання",
+  "lesson_naming": {
+    "lesson_code": "9en14",
+    "plan_date": "2026-09-07",
+    "learning_month": 1,
+    "lesson_in_month": 4,
+    "target_title": "9en14 Ask for details — анкета та запитання",
+    "mapping_method": "supplement_section",
+    "status": "pending_external_rename"
   }
 }

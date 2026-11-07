@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · We Are Young and Cool!: Блог і думки однолітків",
+  "title": "9en31 Youth culture: Blog",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-u3-blog/index.html",
@@ -141,12 +141,24 @@
           "kind": "long_reading_prompt",
           "note": "Reading context retained in two content slides; final comprehension prompt is Ukrainian multiple choice."
         }
-      ]
+      ],
+      "mapping_status": "shared_platform_id_conflict"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · We Are Young and Cool!: Блог і думки однолітків",
+  "lesson_naming": {
+    "lesson_code": "9en31",
+    "plan_date": "2026-11-02",
+    "learning_month": 3,
+    "lesson_in_month": 1,
+    "target_title": "9en31 Youth culture: Blog",
+    "mapping_method": "section",
+    "status": "pending_external_rename",
+    "kahoot_mapping_status": "shared_platform_id_conflict"
   }
 }

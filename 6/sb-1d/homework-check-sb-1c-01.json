@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "Character · 6 клас · ESL 1c",
+  "title": "6en18 Character",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-1c/index.html",
@@ -120,7 +120,7 @@
     },
     "kahoot": {
       "id": "03334c06-7c53-477b-85a6-20836f009875",
-      "title": "6 клас · 003 · Character",
+      "title": "6en18 Character",
       "editor_url": "https://create.kahoot.it/creator/03334c06-7c53-477b-85a6-20836f009875",
       "status": "homework_created",
       "verified": true,
@@ -149,12 +149,25 @@
       "randomize_answer_order": true,
       "student_entry_verified": true,
       "content_verified_after_reopen": true,
-      "adaptations": []
+      "adaptations": [],
+      "previous_title": "6 клас · 003 · Character",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en18 Character",
+  "lesson_naming": {
+    "lesson_code": "6en18",
+    "plan_date": "2026-09-15",
+    "learning_month": 1,
+    "lesson_in_month": 8,
+    "target_title": "6en18 Character",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en18 Character"
   }
 }

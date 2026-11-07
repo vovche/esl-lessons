@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Traditions... Traditions...: Самоперевірка Свята і традиції · Самоперевірка",
+  "title": "7en412 Traditions: Self-check",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u4-self-check/index.html",
@@ -162,12 +162,24 @@
       "content_verified_after_reopen": false,
       "title": "7 клас · 053 · Traditions: Review",
       "reused_existing_kahoot": true,
-      "exact_duplicate_of": "7-sb-u4-look-back-homework-01"
+      "exact_duplicate_of": "7-sb-u4-look-back-homework-01",
+      "mapping_status": "shared_platform_id_conflict"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7 клас · Traditions... Traditions...: Самоперевірка Свята і традиції · Самоперевірка",
+  "lesson_naming": {
+    "lesson_code": "7en412",
+    "plan_date": "2026-12-21",
+    "learning_month": 4,
+    "lesson_in_month": 12,
+    "target_title": "7en412 Traditions: Self-check",
+    "mapping_method": "section",
+    "status": "pending_external_rename",
+    "kahoot_mapping_status": "shared_platform_id_conflict"
   }
 }

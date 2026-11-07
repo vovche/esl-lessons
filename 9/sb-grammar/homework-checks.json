@@ -4,7 +4,7 @@
   "tests": [
     {
       "id": "9-sb-grammar-homework-01",
-      "title": "9 клас · Граматика курсу — Units 1–4",
+      "title": "9en413 Grammar reference",
       "source_lesson": "9/sb-grammar/index.html",
       "json": "homework-check-sb-grammar-01.json",
       "markdown": "homework-check-sb-grammar-01.md",
@@ -16,7 +16,7 @@
     },
     {
       "id": "9-sb-grammar-homework-02",
-      "title": "9 клас · Граматика курсу — Units 5–8",
+      "title": "9en98 Grammar reference",
       "source_lesson": "9/sb-grammar/index.html",
       "json": "homework-check-sb-grammar-02.json",
       "markdown": "homework-check-sb-grammar-02.md",

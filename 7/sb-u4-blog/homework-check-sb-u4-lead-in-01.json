@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "045 · Traditions: Lead-in",
+  "title": "7en317 Traditions: Intro",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u4-lead-in/index.html",
@@ -179,5 +179,15 @@
     "updated_on": "2026-10-27",
     "verified_on_naurok": true,
     "verified_on_kahoot": true
+  },
+  "previous_title": "045 · Traditions: Lead-in",
+  "lesson_naming": {
+    "lesson_code": "7en317",
+    "plan_date": "2026-11-30",
+    "learning_month": 3,
+    "lesson_in_month": 17,
+    "target_title": "7en317 Traditions: Intro",
+    "mapping_method": "unit_lead_in",
+    "status": "pending_external_rename"
   }
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · 066 · Sport kickoff",
+  "title": "7en51 Sport: Intro",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u5-lead-in/index.html",
@@ -132,7 +132,7 @@
     },
     "kahoot": {
       "kahoot_id": "cb358a87-05f9-48ee-b6b9-c124fc9033e0",
-      "title": "7 клас · 066 · Sport kickoff",
+      "title": "7en51 Sport: Intro",
       "editor_url": "https://create.kahoot.it/creator/cb358a87-05f9-48ee-b6b9-c124fc9033e0",
       "assignment_id": "7b3236f8-00d7-49e4-9133-227a6784b2b8",
       "code": "0088063300",
@@ -160,12 +160,25 @@
       "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
       "course_title": "7 клас",
       "course_module": 5,
-      "course_placement_verified": true
+      "course_placement_verified": true,
+      "previous_title": "7 клас · 066 · Sport kickoff",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en51 Sport: Intro",
+  "lesson_naming": {
+    "lesson_code": "7en51",
+    "plan_date": "2027-01-14",
+    "learning_month": 5,
+    "lesson_in_month": 1,
+    "target_title": "7en51 Sport: Intro",
+    "mapping_method": "unit_lead_in",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en51 Sport: Intro"
   }
 }

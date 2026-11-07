@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · From Ukraine to the UK and Beyond: Говоріння",
+  "title": "9en94 Ukraine & UK: Speaking",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-u8-speaking/index.html",
@@ -150,12 +150,24 @@
       "course_title": "9 клас",
       "course_module": 8,
       "course_membership_verified": true,
-      "publication_status": "publication_pending"
+      "publication_status": "publication_pending",
+      "mapping_status": "shared_platform_id_conflict"
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · From Ukraine to the UK and Beyond: Говоріння",
+  "lesson_naming": {
+    "lesson_code": "9en94",
+    "plan_date": "2027-05-06",
+    "learning_month": 9,
+    "lesson_in_month": 4,
+    "target_title": "9en94 Ukraine & UK: Speaking",
+    "mapping_method": "section",
+    "status": "pending_external_rename",
+    "kahoot_mapping_status": "shared_platform_id_conflict"
   }
 }

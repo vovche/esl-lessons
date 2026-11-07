@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · In and out of school: Граматика: застосування Шкільне життя і дозвілля · Граматика: застосування",
+  "title": "7en110 School: Grammar practice",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u1-grammar-2/index.html",
@@ -136,7 +136,7 @@
     },
     "kahoot": {
       "kahoot_id": "cd40f535-9f78-43f2-a274-a414669c5901",
-      "title": "7 клас · 010 · School questions",
+      "title": "7en110 School: Grammar practice",
       "editor_url": "https://create.kahoot.it/creator/cd40f535-9f78-43f2-a274-a414669c5901",
       "status": "homework_created",
       "verified": true,
@@ -199,12 +199,25 @@
       "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
       "course_title": "7 клас",
       "module": 1,
-      "course_saved_as": "draft"
+      "course_saved_as": "draft",
+      "previous_title": "7 клас · 010 · School questions",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en110 School: Grammar practice",
+  "lesson_naming": {
+    "lesson_code": "7en110",
+    "plan_date": "2026-09-16",
+    "learning_month": 1,
+    "lesson_in_month": 10,
+    "target_title": "7en110 School: Grammar practice",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en110 School: Grammar practice"
   }
 }

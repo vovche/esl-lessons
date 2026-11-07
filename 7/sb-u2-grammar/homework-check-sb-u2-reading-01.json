@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · 021 · Do your chores: Reading",
+  "title": "7en23 Chores: Reading",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u2-reading/index.html",
@@ -114,7 +114,7 @@
     "kahoot": {
       "id": "d35286de-2f7d-4c20-b72b-c1cc6896fad8",
       "kahoot_id": "d35286de-2f7d-4c20-b72b-c1cc6896fad8",
-      "title": "7 клас · 021 · Do your chores: Reading",
+      "title": "7en23 Chores: Reading",
       "editor_url": "https://create.kahoot.it/creator/d35286de-2f7d-4c20-b72b-c1cc6896fad8",
       "assignment_id": "e7af8111-a9a1-434b-a394-54054e57f56e",
       "code": "0096581075",
@@ -158,7 +158,9 @@
       "course_title": "7 клас",
       "module": 2,
       "assessment_lesson_path": "7/sb-u2-grammar/",
-      "course_saved_as": "draft"
+      "course_saved_as": "draft",
+      "previous_title": "7 клас · 021 · Do your chores: Reading",
+      "renamed_verified_on": "2026-11-07"
     },
     "naurok": {
       "test_id": "3886927",
@@ -184,5 +186,16 @@
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en23 Chores: Reading",
+  "lesson_naming": {
+    "lesson_code": "7en23",
+    "plan_date": "2026-10-06",
+    "learning_month": 2,
+    "lesson_in_month": 3,
+    "target_title": "7en23 Chores: Reading",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en23 Chores: Reading"
   }
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "6 клас · Grammar Reference · Unit 2",
+  "title": "6en29 Grammar Reference Unit 2",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-grammar/index.html",
@@ -120,12 +120,26 @@
           "reason": "typed_answer_exceeds_20_characters",
           "approved": true
         }
-      ]
+      ],
+      "previous_title": "6en29 Grammar Reference Unit 2",
+      "title": "6en29 Grammar Reference Unit 2",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en29 Grammar Reference Unit 2",
+  "lesson_naming": {
+    "lesson_code": "6en29",
+    "plan_date": "2026-10-19",
+    "learning_month": 2,
+    "lesson_in_month": 9,
+    "target_title": "6en29 Grammar Reference Unit 2",
+    "mapping_method": "unit_reference",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en29 Grammar Reference Unit 2"
   }
 }

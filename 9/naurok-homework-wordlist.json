@@ -8,7 +8,7 @@
         {
           "test_id": "3887153",
           "builder_url": "https://naurok.com.ua/test/builder/3887153",
-          "title": "9 клас · Лексика курсу · Unit 1",
+          "title": "9en114 Wordlist Unit 1",
           "points": 10,
           "question_points": [
             1,
@@ -33,12 +33,22 @@
           "placement_rule": "no_next_lesson",
           "source_lesson_title": "Лексика курсу",
           "plan_path": "9/sb-wordlist/homework-check-sb-wordlist-01.json",
-          "content_id": "9-sb-wordlist-homework-01"
+          "content_id": "9-sb-wordlist-homework-01",
+          "previous_title": "9 клас · Лексика курсу · Unit 1",
+          "lesson_naming": {
+            "lesson_code": "9en114",
+            "plan_date": "2026-09-24",
+            "learning_month": 1,
+            "lesson_in_month": 14,
+            "target_title": "9en114 Wordlist Unit 1",
+            "mapping_method": "unit_reference",
+            "status": "pending_external_rename"
+          }
         },
         {
           "test_id": "3887158",
           "builder_url": "https://naurok.com.ua/test/builder/3887158",
-          "title": "9 клас · Лексика курсу · Unit 2",
+          "title": "9en212 Wordlist Unit 2",
           "points": 10,
           "question_points": [
             1,
@@ -63,12 +73,22 @@
           "placement_rule": "no_next_lesson",
           "source_lesson_title": "Лексика курсу",
           "plan_path": "9/sb-wordlist/homework-check-sb-wordlist-02.json",
-          "content_id": "9-sb-wordlist-homework-02"
+          "content_id": "9-sb-wordlist-homework-02",
+          "previous_title": "9 клас · Лексика курсу · Unit 2",
+          "lesson_naming": {
+            "lesson_code": "9en212",
+            "plan_date": "2026-10-22",
+            "learning_month": 2,
+            "lesson_in_month": 12,
+            "target_title": "9en212 Wordlist Unit 2",
+            "mapping_method": "unit_reference",
+            "status": "pending_external_rename"
+          }
         },
         {
           "test_id": "3887161",
           "builder_url": "https://naurok.com.ua/test/builder/3887161",
-          "title": "9 клас · Лексика курсу · Unit 3",
+          "title": "9en314 Wordlist Unit 3",
           "points": 10,
           "question_points": [
             1,
@@ -97,12 +117,22 @@
           "homework_id": "86400681",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86400681",
           "student_url": "https://naurok.ua/test/join?gamecode=6701499",
-          "code": "6701499"
+          "code": "6701499",
+          "previous_title": "9 клас · Лексика курсу · Unit 3",
+          "lesson_naming": {
+            "lesson_code": "9en314",
+            "plan_date": "2026-11-26",
+            "learning_month": 3,
+            "lesson_in_month": 14,
+            "target_title": "9en314 Wordlist Unit 3",
+            "mapping_method": "unit_reference",
+            "status": "pending_external_rename"
+          }
         },
         {
           "test_id": "3887162",
           "builder_url": "https://naurok.com.ua/test/builder/3887162",
-          "title": "9 клас · Лексика курсу · Unit 4",
+          "title": "9en413 Wordlist Unit 4",
           "points": 10,
           "question_points": [
             1,
@@ -127,12 +157,22 @@
           "placement_rule": "no_next_lesson",
           "source_lesson_title": "Лексика курсу",
           "plan_path": "9/sb-wordlist/homework-check-sb-wordlist-04.json",
-          "content_id": "9-sb-wordlist-homework-04"
+          "content_id": "9-sb-wordlist-homework-04",
+          "previous_title": "9 клас · Лексика курсу · Unit 4",
+          "lesson_naming": {
+            "lesson_code": "9en413",
+            "plan_date": "2026-12-24",
+            "learning_month": 4,
+            "lesson_in_month": 13,
+            "target_title": "9en413 Wordlist Unit 4",
+            "mapping_method": "unit_reference",
+            "status": "pending_external_rename"
+          }
         },
         {
           "test_id": "3887168",
           "builder_url": "https://naurok.com.ua/test/builder/3887168",
-          "title": "9 клас · Лексика курсу · Unit 5",
+          "title": "9en66 Wordlist Unit 5",
           "points": 10,
           "question_points": [
             1,
@@ -157,12 +197,22 @@
           "placement_rule": "no_next_lesson",
           "source_lesson_title": "Лексика курсу",
           "plan_path": "9/sb-wordlist/homework-check-sb-wordlist-05.json",
-          "content_id": "9-sb-wordlist-homework-05"
+          "content_id": "9-sb-wordlist-homework-05",
+          "previous_title": "9 клас · Лексика курсу · Unit 5",
+          "lesson_naming": {
+            "lesson_code": "9en66",
+            "plan_date": "2027-02-10",
+            "learning_month": 6,
+            "lesson_in_month": 6,
+            "target_title": "9en66 Wordlist Unit 5",
+            "mapping_method": "unit_reference",
+            "status": "pending_external_rename"
+          }
         },
         {
           "test_id": "3887171",
           "builder_url": "https://naurok.com.ua/test/builder/3887171",
-          "title": "9 клас · Лексика курсу · Unit 6",
+          "title": "9en77 Wordlist Unit 6",
           "points": 10,
           "question_points": [
             1,
@@ -187,12 +237,22 @@
           "placement_rule": "no_next_lesson",
           "source_lesson_title": "Лексика курсу",
           "plan_path": "9/sb-wordlist/homework-check-sb-wordlist-06.json",
-          "content_id": "9-sb-wordlist-homework-06"
+          "content_id": "9-sb-wordlist-homework-06",
+          "previous_title": "9 клас · Лексика курсу · Unit 6",
+          "lesson_naming": {
+            "lesson_code": "9en77",
+            "plan_date": "2027-03-11",
+            "learning_month": 7,
+            "lesson_in_month": 7,
+            "target_title": "9en77 Wordlist Unit 6",
+            "mapping_method": "unit_reference",
+            "status": "pending_external_rename"
+          }
         },
         {
           "test_id": "3887174",
           "builder_url": "https://naurok.com.ua/test/builder/3887174",
-          "title": "9 клас · Лексика курсу · Unit 7",
+          "title": "9en89 Wordlist Unit 7",
           "points": 10,
           "question_points": [
             1,
@@ -217,12 +277,22 @@
           "placement_rule": "no_next_lesson",
           "source_lesson_title": "Лексика курсу",
           "plan_path": "9/sb-wordlist/homework-check-sb-wordlist-07.json",
-          "content_id": "9-sb-wordlist-homework-07"
+          "content_id": "9-sb-wordlist-homework-07",
+          "previous_title": "9 клас · Лексика курсу · Unit 7",
+          "lesson_naming": {
+            "lesson_code": "9en89",
+            "plan_date": "2027-04-19",
+            "learning_month": 8,
+            "lesson_in_month": 9,
+            "target_title": "9en89 Wordlist Unit 7",
+            "mapping_method": "unit_reference",
+            "status": "pending_external_rename"
+          }
         },
         {
           "test_id": "3887176",
           "builder_url": "https://naurok.com.ua/test/builder/3887176",
-          "title": "9 клас · Лексика курсу · Unit 8",
+          "title": "9en98 Wordlist Unit 8",
           "points": 10,
           "question_points": [
             1,
@@ -247,7 +317,17 @@
           "placement_rule": "no_next_lesson",
           "source_lesson_title": "Лексика курсу",
           "plan_path": "9/sb-wordlist/homework-check-sb-wordlist-08.json",
-          "content_id": "9-sb-wordlist-homework-08"
+          "content_id": "9-sb-wordlist-homework-08",
+          "previous_title": "9 клас · Лексика курсу · Unit 8",
+          "lesson_naming": {
+            "lesson_code": "9en98",
+            "plan_date": "2027-05-17",
+            "learning_month": 9,
+            "lesson_in_month": 8,
+            "target_title": "9en98 Wordlist Unit 8",
+            "mapping_method": "unit_reference",
+            "status": "pending_external_rename"
+          }
         }
       ]
     }

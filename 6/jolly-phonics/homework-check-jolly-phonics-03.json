@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "6 клас · Jolly Phonics · Group 3",
+  "title": "6en32 Jolly Phonics Group 3",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/jolly-phonics/index.html",
@@ -87,7 +87,7 @@
     },
     "kahoot": {
       "id": "de1e6bad-cb42-4c0b-bef1-f30f2cf9ca6e",
-      "title": "6 клас · 000 · Phonics 3",
+      "title": "6en32 Jolly Phonics Group 3",
       "editor_url": "https://create.kahoot.it/creator/de1e6bad-cb42-4c0b-bef1-f30f2cf9ca6e",
       "status": "homework_created",
       "verified": true,
@@ -114,12 +114,25 @@
       "randomize_answer_order": true,
       "student_entry_verified": true,
       "content_verified_after_reopen": true,
-      "adaptations": []
+      "adaptations": [],
+      "previous_title": "6 клас · 000 · Phonics 3",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6 клас · Jolly Phonics · Group 3",
+  "lesson_naming": {
+    "lesson_code": "6en32",
+    "plan_date": "2026-11-03",
+    "learning_month": 3,
+    "lesson_in_month": 2,
+    "target_title": "6en32 Jolly Phonics Group 3",
+    "mapping_method": "phonics_unit",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en32 Jolly Phonics Group 3"
   }
 }

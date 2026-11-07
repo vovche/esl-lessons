@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "Transport · 6 клас · ESL 2b",
+  "title": "6en23 Transport",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-2b/index.html",
@@ -120,7 +120,7 @@
     },
     "kahoot": {
       "id": "478d56b2-2539-4827-8fc0-75d4ec3df465",
-      "title": "6 клас · 006 · Transport",
+      "title": "6en23 Transport",
       "editor_url": "https://create.kahoot.it/creator/478d56b2-2539-4827-8fc0-75d4ec3df465",
       "status": "homework_created",
       "verified": true,
@@ -149,12 +149,25 @@
       "randomize_answer_order": true,
       "student_entry_verified": true,
       "content_verified_after_reopen": true,
-      "adaptations": []
+      "adaptations": [],
+      "previous_title": "6 клас · 006 · Transport",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en23 Transport",
+  "lesson_naming": {
+    "lesson_code": "6en23",
+    "plan_date": "2026-10-06",
+    "learning_month": 2,
+    "lesson_in_month": 3,
+    "target_title": "6en23 Transport",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en23 Transport"
   }
 }

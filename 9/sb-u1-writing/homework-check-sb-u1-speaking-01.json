@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · All About Me: Говоріння",
+  "title": "9en110 Me: Speaking",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-u1-speaking/index.html",
@@ -101,11 +101,55 @@
         2,
         3
       ]
+    },
+    "kahoot": {
+      "id": "528c6eb1-3ed7-4072-a764-a8f33b6ed393",
+      "editor_url": "https://create.kahoot.it/creator/528c6eb1-3ed7-4072-a764-a8f33b6ed393",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 6,
+      "content_slide_count": 2,
+      "source_point_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ],
+      "platform_scoring_mode": "standard",
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "score_note": "Kahoot connector saves standard points; no per-question double-point setting was available in this creation workflow.",
+      "content_verified_after_reopen": true,
+      "title": "9en110 Me: Speaking",
+      "renamed_verified_on": "2026-11-07",
+      "assignment_id": "6f787796-a97b-4a06-81a7-b951bb90df88",
+      "code": "0088499563",
+      "student_url": "https://kahoot.it/challenge/0088499563",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/6f787796-a97b-4a06-81a7-b951bb90df88/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1794060508509/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "randomize_answer_order": true,
+      "student_entry_verified": false
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · All About Me: Говоріння",
+  "lesson_naming": {
+    "lesson_code": "9en110",
+    "plan_date": "2026-09-17",
+    "learning_month": 1,
+    "lesson_in_month": 10,
+    "target_title": "9en110 Me: Speaking",
+    "mapping_method": "section",
+    "status": "kahoot_renamed_pending_naurok",
+    "kahoot_title_verified": "9en110 Me: Speaking"
   }
 }

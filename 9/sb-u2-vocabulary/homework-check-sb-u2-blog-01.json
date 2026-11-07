@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · Fashion All the Way: Блог і думки однолітків",
+  "title": "9en115 Fashion: Blog",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-u2-blog/index.html",
@@ -97,11 +97,56 @@
         2,
         3
       ]
+    },
+    "kahoot": {
+      "id": "cd63b52b-bb08-4796-b412-b8b32bfbfce8",
+      "editor_url": "https://create.kahoot.it/creator/cd63b52b-bb08-4796-b412-b8b32bfbfce8",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 6,
+      "content_slide_count": 2,
+      "source_point_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ],
+      "platform_scoring_mode": "standard",
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "score_note": "Kahoot uses standard points here; the result can be normalized to 10.",
+      "content_verified_after_reopen": true,
+      "title": "9en115 Fashion: Blog",
+      "renamed_verified_on": "2026-11-07",
+      "assignment_id": "234f7133-17f7-4ec1-ad23-66dc58d0695e",
+      "code": "00347337",
+      "student_url": "https://kahoot.it/challenge/00347337",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/234f7133-17f7-4ec1-ad23-66dc58d0695e/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1794061245311/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "randomize_answer_order": true,
+      "student_entry_verified": false
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
-  }
+  },
+  "previous_title": "9 клас · Fashion All the Way: Блог і думки однолітків",
+  "lesson_naming": {
+    "lesson_code": "9en115",
+    "plan_date": "2026-09-29",
+    "learning_month": 1,
+    "lesson_in_month": 15,
+    "target_title": "9en115 Fashion: Blog",
+    "mapping_method": "section",
+    "status": "kahoot_renamed_pending_naurok",
+    "kahoot_title_verified": "9en115 Fashion: Blog"
+  },
+  "naurok_title_status": "pending_verification"
 }

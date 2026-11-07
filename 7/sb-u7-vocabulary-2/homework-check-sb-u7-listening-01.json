@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Curtain up!: Слухання Кіно і театр · Слухання",
+  "title": "7en83 Film & theatre: Listening",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u7-listening/index.html",
@@ -131,8 +131,8 @@
       ]
     },
     "kahoot": {
-      "id": "f1adae4a-ff45-4a85-bae8-b966b446dc91",
-      "editor_url": "https://create.kahoot.it/creator/f1adae4a-ff45-4a85-bae8-b966b446dc91",
+      "id": "1616e8a0-165c-4799-b4ce-58234cd275bf",
+      "editor_url": "https://create.kahoot.it/creator/1616e8a0-165c-4799-b4ce-58234cd275bf",
       "status": "homework_created",
       "verified": true,
       "visibility": "private",
@@ -150,27 +150,37 @@
       ],
       "normalization_max": 10,
       "normalization_formula": "earned_points / maximum_possible_points * 10",
-      "assignment_id": "033cebe8-479a-4fe7-a5c8-dc9c9eec3506",
-      "code": "0073793472",
-      "student_url": "https://kahoot.it/challenge/0073793472",
-      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/033cebe8-479a-4fe7-a5c8-dc9c9eec3506/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793295451401/summary",
+      "assignment_id": "bc09b01c-dd9d-4ff1-b954-d92601aa0385",
+      "code": "008473798",
+      "student_url": "https://kahoot.it/challenge/008473798",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/bc09b01c-dd9d-4ff1-b954-d92601aa0385/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1794053756232/summary",
       "deadline": null,
       "no_deadline": true,
       "question_timer": false,
       "randomize_answer_order": true,
       "student_entry_verified": false,
       "content_verified_after_reopen": true,
-      "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
-      "course_module": 7,
-      "course_placement_verified": false,
-      "visibility_change_authorized_by_user": true,
-      "reused_from_test": "7-sb-u7-blog-homework-01",
-      "reuse_reason": "All 8 prompts, correct answers, answer option sets, and weights match exactly; only lesson wrapper/title differs."
+      "previous_title": "7en83 Film & theatre: Listening",
+      "title": "7en83 Film & theatre: Listening",
+      "renamed_verified_on": "2026-11-07",
+      "cloned_from_kahoot_id": "1616e8a0-165c-4799-b4ce-58234cd275bf",
+      "content_match_verified": true
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en83 Film & theatre: Listening",
+  "lesson_naming": {
+    "lesson_code": "7en83",
+    "plan_date": "2027-04-06",
+    "learning_month": 8,
+    "lesson_in_month": 3,
+    "target_title": "7en83 Film & theatre: Listening",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en83 Film & theatre: Listening"
   }
 }

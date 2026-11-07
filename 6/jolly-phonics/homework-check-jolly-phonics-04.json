@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "6 клас · Jolly Phonics · Group 4",
+  "title": "6en315 Jolly Phonics Group 4",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/jolly-phonics/index.html",
@@ -87,7 +87,7 @@
     },
     "kahoot": {
       "id": "fb4f3a70-bdfe-4425-b1c2-f724936575ad",
-      "title": "6 клас · 000 · Phonics 4",
+      "title": "6en315 Jolly Phonics Group 4",
       "editor_url": "https://create.kahoot.it/creator/fb4f3a70-bdfe-4425-b1c2-f724936575ad",
       "status": "homework_created",
       "verified": true,
@@ -114,12 +114,25 @@
       "randomize_answer_order": true,
       "student_entry_verified": true,
       "content_verified_after_reopen": true,
-      "adaptations": []
+      "adaptations": [],
+      "previous_title": "6 клас · 000 · Phonics 4",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6 клас · Jolly Phonics · Group 4",
+  "lesson_naming": {
+    "lesson_code": "6en315",
+    "plan_date": "2026-11-30",
+    "learning_month": 3,
+    "lesson_in_month": 15,
+    "target_title": "6en315 Jolly Phonics Group 4",
+    "mapping_method": "phonics_unit",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en315 Jolly Phonics Group 4"
   }
 }

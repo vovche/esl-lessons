@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "Round-up 6 · 6 клас · ESL round-up-6",
+  "title": "6en77 Round-up 6",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-round-up-6/index.html",
@@ -125,7 +125,7 @@
     },
     "kahoot": {
       "id": "974f6518-5b3e-4c70-94f4-08c4aa2ed276",
-      "title": "6 клас · 085 · Round-up 6",
+      "title": "6en77 Round-up 6",
       "editor_url": "https://create.kahoot.it/creator/974f6518-5b3e-4c70-94f4-08c4aa2ed276",
       "status": "homework_created",
       "verified": true,
@@ -158,12 +158,25 @@
       "course_module": 6,
       "adaptations": [
         "Each of the three full reading passages is preserved across two content slides."
-      ]
+      ],
+      "previous_title": "6 клас · 085 · Round-up 6",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en77 Round-up 6",
+  "lesson_naming": {
+    "lesson_code": "6en77",
+    "plan_date": "2027-03-10",
+    "learning_month": 7,
+    "lesson_in_month": 7,
+    "target_title": "6en77 Round-up 6",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en77 Round-up 6"
   }
 }

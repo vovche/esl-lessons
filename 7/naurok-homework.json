@@ -8,7 +8,7 @@
         {
           "test_id": "3886776",
           "test_url": "https://naurok.com.ua/test/7-klas-ask-and-check-shkilni-zapitannya-3886776.html",
-          "title": "7 клас · Ask and check — шкільні запитання",
+          "title": "7en12 Ask about school",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -31,7 +31,17 @@
           "assessment_lesson_path": "7/our-school-event/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Ask and check Запитай і уточни",
-          "content_id": "7-ask-about-school-homework-01"
+          "content_id": "7-ask-about-school-homework-01",
+          "previous_title": "7en12 Ask about school",
+          "lesson_naming": {
+            "lesson_code": "7en12",
+            "plan_date": "2026-09-02",
+            "learning_month": 1,
+            "lesson_in_month": 2,
+            "target_title": "7en12 Ask about school",
+            "mapping_method": "supplement_section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -41,7 +51,7 @@
         {
           "test_id": "3886782",
           "test_url": "https://naurok.com.ua/test/7-klas-my-chores-domashni-spravi-3886782.html",
-          "title": "7 клас · My chores — домашні справи",
+          "title": "7en22 My chores",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -64,7 +74,17 @@
           "assessment_lesson_path": "7/sharing-chores/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "My chores Мої хатні справи",
-          "content_id": "7-chores-homework-01"
+          "content_id": "7-chores-homework-01",
+          "previous_title": "7en22 My chores",
+          "lesson_naming": {
+            "lesson_code": "7en22",
+            "plan_date": "2026-10-05",
+            "learning_month": 2,
+            "lesson_in_month": 2,
+            "target_title": "7en22 My chores",
+            "mapping_method": "supplement_section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -74,7 +94,7 @@
         {
           "test_id": "3886786",
           "test_url": "https://naurok.com.ua/test-beta/test/3886786",
-          "title": "7 клас · Find your club — інтереси й клуби",
+          "title": "7en14 Clubs and hobbies",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -97,7 +117,17 @@
           "assessment_lesson_path": "7/school-special-days/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Find your club Знайди свій клуб",
-          "content_id": "7-clubs-and-hobbies-homework-01"
+          "content_id": "7-clubs-and-hobbies-homework-01",
+          "previous_title": "7en14 Clubs and hobbies",
+          "lesson_naming": {
+            "lesson_code": "7en14",
+            "plan_date": "2026-09-07",
+            "learning_month": 1,
+            "lesson_in_month": 4,
+            "target_title": "7en14 Clubs and hobbies",
+            "mapping_method": "supplement_section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -107,7 +137,7 @@
         {
           "test_id": "3886798",
           "test_url": "https://naurok.com.ua/test/7-klas-our-home-story-rozpovidaemo-pro-dim-3886798.html",
-          "title": "7 клас · Our home story — розповідаємо про дім",
+          "title": "7en23 Home stories",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -130,7 +160,17 @@
           "assessment_lesson_path": "7/home-stories/index.html",
           "placement_rule": "no_next_lesson",
           "source_lesson_title": "Our home story Розповідаємо про дім",
-          "content_id": "7-home-stories-homework-01"
+          "content_id": "7-home-stories-homework-01",
+          "previous_title": "7en23 Home stories",
+          "lesson_naming": {
+            "lesson_code": "7en23",
+            "plan_date": "2026-10-06",
+            "learning_month": 2,
+            "lesson_in_month": 3,
+            "target_title": "7en23 Home stories",
+            "mapping_method": "supplement_section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -140,7 +180,7 @@
         {
           "test_id": "3886802",
           "test_url": "https://naurok.com.ua/test/7-klas-now-or-usually-teperishni-chasi-3886802.html",
-          "title": "7 клас · Now or usually — теперішні часи",
+          "title": "7en17 Now or usually — теперішні часи",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -163,7 +203,17 @@
           "assessment_lesson_path": "7/ask-about-school/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Now or usually? Зараз чи зазвичай?",
-          "content_id": "7-now-or-usually-homework-01"
+          "content_id": "7-now-or-usually-homework-01",
+          "previous_title": "7en17 Now or usually — теперішні часи",
+          "lesson_naming": {
+            "lesson_code": "7en17",
+            "plan_date": "2026-09-10",
+            "learning_month": 1,
+            "lesson_in_month": 7,
+            "target_title": "7en17 Now or usually — теперішні часи",
+            "mapping_method": "supplement_section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -173,7 +223,7 @@
         {
           "test_id": "3886804",
           "test_url": "https://naurok.com.ua/test/7-klas-our-school-event-shkilna-podiya-3886804.html",
-          "title": "7 клас · Our school event — шкільна подія",
+          "title": "7en118 School event",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -196,7 +246,17 @@
           "assessment_lesson_path": "7/our-school-event/index.html",
           "placement_rule": "no_next_lesson",
           "source_lesson_title": "Our school event Сплануй шкільну подію",
-          "content_id": "7-our-school-event-homework-01"
+          "content_id": "7-our-school-event-homework-01",
+          "previous_title": "7en118 School event",
+          "lesson_naming": {
+            "lesson_code": "7en118",
+            "plan_date": "2026-09-30",
+            "learning_month": 1,
+            "lesson_in_month": 18,
+            "target_title": "7en118 School event",
+            "mapping_method": "supplement_section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -206,7 +266,7 @@
         {
           "test_id": "3886809",
           "test_url": "https://naurok.com.ua/test/7-klas-what-were-you-doing-minula-trivala-diya-3886809.html",
-          "title": "7 клас · What were you doing — минула тривала дія",
+          "title": "7en310 Past continuous",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -229,7 +289,17 @@
           "assessment_lesson_path": "7/home-stories/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "What were you doing? Що відбувалося тоді?",
-          "content_id": "7-past-continuous-questions-homework-01"
+          "content_id": "7-past-continuous-questions-homework-01",
+          "previous_title": "7en310 Past continuous",
+          "lesson_naming": {
+            "lesson_code": "7en310",
+            "plan_date": "2026-11-17",
+            "learning_month": 3,
+            "lesson_in_month": 10,
+            "target_title": "7en310 Past continuous",
+            "mapping_method": "supplement_section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -239,7 +309,7 @@
         {
           "test_id": "3886815",
           "test_url": "https://naurok.com.ua/test-beta/test/3886815",
-          "title": "7 клас · What did you do — минулі запитання",
+          "title": "7en37 Past simple",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -262,7 +332,17 @@
           "homework_id": "86133316",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133316",
           "code": "9478728",
-          "student_url": "https://naurok.ua/test/join?gamecode=9478728"
+          "student_url": "https://naurok.ua/test/join?gamecode=9478728",
+          "previous_title": "7en37 Past simple",
+          "lesson_naming": {
+            "lesson_code": "7en37",
+            "plan_date": "2026-11-11",
+            "learning_month": 3,
+            "lesson_in_month": 7,
+            "target_title": "7en37 Past simple",
+            "mapping_method": "supplement_section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -272,7 +352,7 @@
         {
           "test_id": "3886821",
           "test_url": "https://naurok.com.ua/test-beta/test/3886821",
-          "title": "7 клас · Starter — початок навчального року",
+          "title": "7en11 Starter",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -297,7 +377,17 @@
           "homework_id": "86133362",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133362",
           "code": "9727818",
-          "student_url": "https://naurok.ua/test/join?gamecode=9727818"
+          "student_url": "https://naurok.ua/test/join?gamecode=9727818",
+          "previous_title": "7en11 Starter",
+          "lesson_naming": {
+            "lesson_code": "7en11",
+            "plan_date": "2026-09-01",
+            "learning_month": 1,
+            "lesson_in_month": 1,
+            "target_title": "7en11 Starter",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -307,7 +397,7 @@
         {
           "test_id": "3886826",
           "test_url": "https://naurok.com.ua/test-beta/test/3886826",
-          "title": "7 клас · In and out of school: Блог і обговорення Шкільне життя і дозвілля · Блог і обговорення",
+          "title": "7en12 School: Blog",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -332,7 +422,17 @@
           "homework_id": "86133390",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133390",
           "code": "8748995",
-          "student_url": "https://naurok.ua/test/join?gamecode=8748995"
+          "student_url": "https://naurok.ua/test/join?gamecode=8748995",
+          "previous_title": "7en12 School: Blog",
+          "lesson_naming": {
+            "lesson_code": "7en12",
+            "plan_date": "2026-09-02",
+            "learning_month": 1,
+            "lesson_in_month": 2,
+            "target_title": "7en12 School: Blog",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -342,7 +442,7 @@
         {
           "test_id": "3886829",
           "test_url": "https://naurok.com.ua/test-beta/test/3886829",
-          "title": "7 клас · In and out of school: Граматика Шкільне життя і дозвілля · Граматика",
+          "title": "7en17 School: Grammar",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -367,7 +467,17 @@
           "homework_id": "86133392",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133392",
           "code": "4868360",
-          "student_url": "https://naurok.ua/test/join?gamecode=4868360"
+          "student_url": "https://naurok.ua/test/join?gamecode=4868360",
+          "previous_title": "7en17 School: Grammar",
+          "lesson_naming": {
+            "lesson_code": "7en17",
+            "plan_date": "2026-09-10",
+            "learning_month": 1,
+            "lesson_in_month": 7,
+            "target_title": "7en17 School: Grammar",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -377,7 +487,7 @@
         {
           "test_id": "3886831",
           "test_url": "https://naurok.com.ua/test-beta/test/3886831",
-          "title": "7 клас · In and out of school: Граматика: застосування Шкільне життя і дозвілля · Граматика: застосування",
+          "title": "7en110 School: Grammar practice",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -402,7 +512,17 @@
           "homework_id": "86133405",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133405",
           "code": "9437509",
-          "student_url": "https://naurok.ua/test/join?gamecode=9437509"
+          "student_url": "https://naurok.ua/test/join?gamecode=9437509",
+          "previous_title": "7en110 School: Grammar practice",
+          "lesson_naming": {
+            "lesson_code": "7en110",
+            "plan_date": "2026-09-16",
+            "learning_month": 1,
+            "lesson_in_month": 10,
+            "target_title": "7en110 School: Grammar practice",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -412,7 +532,7 @@
         {
           "test_id": "3886839",
           "test_url": "https://naurok.com.ua/test-beta/test/3886839",
-          "title": "7 клас · In and out of school: Починаємо юніт Шкільне життя і дозвілля · Починаємо юніт",
+          "title": "7en12 School: Intro",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -437,7 +557,17 @@
           "homework_id": "86133419",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133419",
           "code": "2406429",
-          "student_url": "https://naurok.ua/test/join?gamecode=2406429"
+          "student_url": "https://naurok.ua/test/join?gamecode=2406429",
+          "previous_title": "7en12 School: Intro",
+          "lesson_naming": {
+            "lesson_code": "7en12",
+            "plan_date": "2026-09-02",
+            "learning_month": 1,
+            "lesson_in_month": 2,
+            "target_title": "7en12 School: Intro",
+            "mapping_method": "unit_lead_in",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -447,7 +577,7 @@
         {
           "test_id": "3886844",
           "test_url": "https://naurok.com.ua/test-beta/test/3886844",
-          "title": "7 клас · In and out of school: Слухання Шкільне життя і дозвілля · Слухання",
+          "title": "7en18 School: Listening",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -472,7 +602,17 @@
           "homework_id": "86133428",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133428",
           "code": "6845248",
-          "student_url": "https://naurok.ua/test/join?gamecode=6845248"
+          "student_url": "https://naurok.ua/test/join?gamecode=6845248",
+          "previous_title": "7en18 School: Listening",
+          "lesson_naming": {
+            "lesson_code": "7en18",
+            "plan_date": "2026-09-14",
+            "learning_month": 1,
+            "lesson_in_month": 8,
+            "target_title": "7en18 School: Listening",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -482,7 +622,7 @@
         {
           "test_id": "3886846",
           "test_url": "https://naurok.com.ua/test-beta/test/3886846",
-          "title": "7 клас · In and out of school: Повторення Шкільне життя і дозвілля · Повторення",
+          "title": "7en113 School: Review",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -507,7 +647,17 @@
           "homework_id": "86133433",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86133433",
           "code": "7421422",
-          "student_url": "https://naurok.ua/test/join?gamecode=7421422"
+          "student_url": "https://naurok.ua/test/join?gamecode=7421422",
+          "previous_title": "7en113 School: Review",
+          "lesson_naming": {
+            "lesson_code": "7en113",
+            "plan_date": "2026-09-22",
+            "learning_month": 1,
+            "lesson_in_month": 13,
+            "target_title": "7en113 School: Review",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -517,7 +667,7 @@
         {
           "test_id": "3886852",
           "test_url": "https://naurok.com.ua/test-beta/test/3886852",
-          "title": "7 клас · In and out of school: Читання Шкільне життя і дозвілля · Читання",
+          "title": "7en15 School: Reading",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -543,7 +693,17 @@
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272350",
           "code": "1721893",
           "student_url": "https://naurok.ua/test/join?gamecode=1721893",
-          "verified_deadline_ui": "2027-01-03T23:00"
+          "verified_deadline_ui": "2027-01-03T23:00",
+          "previous_title": "7en15 School: Reading",
+          "lesson_naming": {
+            "lesson_code": "7en15",
+            "plan_date": "2026-09-08",
+            "learning_month": 1,
+            "lesson_in_month": 5,
+            "target_title": "7en15 School: Reading",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -553,7 +713,7 @@
         {
           "test_id": "3886860",
           "test_url": "https://naurok.com.ua/test-beta/test/3886860",
-          "title": "7 клас · In and out of school: Самоперевірка Шкільне життя і дозвілля · Самоперевірка",
+          "title": "7en117 School: Self-check",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -579,7 +739,17 @@
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272515",
           "code": "5008740",
           "student_url": "https://naurok.ua/test/join?gamecode=5008740",
-          "verified_deadline_ui": "2027-01-03T23:00"
+          "verified_deadline_ui": "2027-01-03T23:00",
+          "previous_title": "7en117 School: Self-check",
+          "lesson_naming": {
+            "lesson_code": "7en117",
+            "plan_date": "2026-09-29",
+            "learning_month": 1,
+            "lesson_in_month": 17,
+            "target_title": "7en117 School: Self-check",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -589,7 +759,7 @@
         {
           "test_id": "3886865",
           "test_url": "https://naurok.com.ua/test-beta/test/3886865",
-          "title": "7 клас · In and out of school: Говоріння Шкільне життя і дозвілля · Говоріння",
+          "title": "7en111 School: Speaking",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -615,7 +785,17 @@
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272577",
           "code": "8236280",
           "student_url": "https://naurok.ua/test/join?gamecode=8236280",
-          "verified_deadline_ui": "2027-01-03T23:00"
+          "verified_deadline_ui": "2027-01-03T23:00",
+          "previous_title": "7en111 School: Speaking",
+          "lesson_naming": {
+            "lesson_code": "7en111",
+            "plan_date": "2026-09-17",
+            "learning_month": 1,
+            "lesson_in_month": 11,
+            "target_title": "7en111 School: Speaking",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -625,7 +805,7 @@
         {
           "test_id": "3886869",
           "test_url": "https://naurok.com.ua/test-beta/test/3886869",
-          "title": "7 клас · In and out of school: Лексика Шкільне життя і дозвілля · Лексика",
+          "title": "7en14 School: Vocabulary",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -651,7 +831,17 @@
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272612",
           "code": "9384937",
           "student_url": "https://naurok.ua/test/join?gamecode=9384937",
-          "verified_deadline_ui": "2027-01-03T23:00"
+          "verified_deadline_ui": "2027-01-03T23:00",
+          "previous_title": "7en14 School: Vocabulary",
+          "lesson_naming": {
+            "lesson_code": "7en14",
+            "plan_date": "2026-09-07",
+            "learning_month": 1,
+            "lesson_in_month": 4,
+            "target_title": "7en14 School: Vocabulary",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -661,7 +851,7 @@
         {
           "test_id": "3886874",
           "test_url": "https://naurok.com.ua/test-beta/test/3886874",
-          "title": "7 клас · In and out of school: Лексика: застосування Шкільне життя і дозвілля · Лексика: застосування",
+          "title": "7en19 School: Vocabulary practice",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -687,7 +877,17 @@
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86272655",
           "code": "1213093",
           "student_url": "https://naurok.ua/test/join?gamecode=1213093",
-          "verified_deadline_ui": "2027-01-03T23:00"
+          "verified_deadline_ui": "2027-01-03T23:00",
+          "previous_title": "7en19 School: Vocabulary practice",
+          "lesson_naming": {
+            "lesson_code": "7en19",
+            "plan_date": "2026-09-15",
+            "learning_month": 1,
+            "lesson_in_month": 9,
+            "target_title": "7en19 School: Vocabulary practice",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -697,7 +897,7 @@
         {
           "test_id": "3886879",
           "test_url": "https://naurok.com.ua/test-beta/test/3886879",
-          "title": "7 клас · In and out of school: Письмо Шкільне життя і дозвілля · Письмо",
+          "title": "7en112 School: Writing",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -741,7 +941,17 @@
           },
           "verified_on_site_at": "2026-10-29T12:30:00+02:00",
           "student_entry_verified": false,
-          "student_joined": false
+          "student_joined": false,
+          "previous_title": "7en112 School: Writing",
+          "lesson_naming": {
+            "lesson_code": "7en112",
+            "plan_date": "2026-09-21",
+            "learning_month": 1,
+            "lesson_in_month": 12,
+            "target_title": "7en112 School: Writing",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -751,7 +961,7 @@
         {
           "test_id": "3886883",
           "test_url": "https://naurok.com.ua/test-beta/test/3886883",
-          "title": "7 клас · Do your chores: Блог і обговорення Домашні справи · Блог і обговорення",
+          "title": "7en118 Chores: Blog",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -795,7 +1005,17 @@
           },
           "verified_on_site_at": "2026-10-29T12:32:00+02:00",
           "student_entry_verified": false,
-          "student_joined": false
+          "student_joined": false,
+          "previous_title": "7en118 Chores: Blog",
+          "lesson_naming": {
+            "lesson_code": "7en118",
+            "plan_date": "2026-09-30",
+            "learning_month": 1,
+            "lesson_in_month": 18,
+            "target_title": "7en118 Chores: Blog",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -805,7 +1025,7 @@
         {
           "test_id": "3886896",
           "test_url": "https://naurok.com.ua/test-beta/test/3886896",
-          "title": "7 клас · Do your chores: Граматика Домашні справи · Граматика",
+          "title": "7en25 Chores: Grammar",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -849,7 +1069,17 @@
           },
           "verified_on_site_at": "2026-10-29T12:34:00+02:00",
           "student_entry_verified": false,
-          "student_joined": false
+          "student_joined": false,
+          "previous_title": "7en25 Chores: Grammar",
+          "lesson_naming": {
+            "lesson_code": "7en25",
+            "plan_date": "2026-10-08",
+            "learning_month": 2,
+            "lesson_in_month": 5,
+            "target_title": "7en25 Chores: Grammar",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -859,7 +1089,7 @@
         {
           "test_id": "3886904",
           "test_url": "https://naurok.com.ua/test-beta/test/3886904",
-          "title": "7 клас · Do your chores: Граматика: застосування Домашні справи · Граматика: застосування",
+          "title": "7en28 Chores: Grammar practice",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -903,7 +1133,17 @@
           },
           "verified_on_site_at": "2026-10-29T12:36:00+02:00",
           "student_entry_verified": false,
-          "student_joined": false
+          "student_joined": false,
+          "previous_title": "7en28 Chores: Grammar practice",
+          "lesson_naming": {
+            "lesson_code": "7en28",
+            "plan_date": "2026-10-14",
+            "learning_month": 2,
+            "lesson_in_month": 8,
+            "target_title": "7en28 Chores: Grammar practice",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -913,7 +1153,7 @@
         {
           "test_id": "3886911",
           "test_url": "https://naurok.com.ua/test-beta/test/3886911",
-          "title": "7 клас · Do your chores: Починаємо юніт Домашні справи · Починаємо юніт",
+          "title": "7en118 Chores: Intro",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -957,7 +1197,17 @@
           },
           "verified_on_site_at": "2026-10-29T12:38:00+02:00",
           "student_entry_verified": false,
-          "student_joined": false
+          "student_joined": false,
+          "previous_title": "7en118 Chores: Intro",
+          "lesson_naming": {
+            "lesson_code": "7en118",
+            "plan_date": "2026-09-30",
+            "learning_month": 1,
+            "lesson_in_month": 18,
+            "target_title": "7en118 Chores: Intro",
+            "mapping_method": "unit_lead_in",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -967,7 +1217,7 @@
         {
           "test_id": "3886915",
           "test_url": "https://naurok.com.ua/test-beta/test/3886915",
-          "title": "7 клас · Do your chores: Слухання Домашні справи · Слухання",
+          "title": "7en26 Chores: Listening",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -1011,7 +1261,17 @@
           },
           "verified_on_site_at": "2026-10-29T12:40:00+02:00",
           "student_entry_verified": false,
-          "student_joined": false
+          "student_joined": false,
+          "previous_title": "7en26 Chores: Listening",
+          "lesson_naming": {
+            "lesson_code": "7en26",
+            "plan_date": "2026-10-12",
+            "learning_month": 2,
+            "lesson_in_month": 6,
+            "target_title": "7en26 Chores: Listening",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -1021,7 +1281,7 @@
         {
           "test_id": "3886921",
           "test_url": "https://naurok.com.ua/test-beta/test/3886921",
-          "title": "7 клас · Do your chores: Повторення Домашні справи · Повторення",
+          "title": "7en211 Chores: Review",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1042,7 +1302,17 @@
           "assessment_lesson_path": "7/sb-u2-self-check/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Do your chores: Повторення Домашні справи · Повторення",
-          "content_id": "7-sb-u2-look-back-homework-01"
+          "content_id": "7-sb-u2-look-back-homework-01",
+          "previous_title": "7en211 Chores: Review",
+          "lesson_naming": {
+            "lesson_code": "7en211",
+            "plan_date": "2026-10-20",
+            "learning_month": 2,
+            "lesson_in_month": 11,
+            "target_title": "7en211 Chores: Review",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -1052,7 +1322,7 @@
         {
           "test_id": "3886927",
           "test_url": "https://naurok.com.ua/test-beta/test/3886927",
-          "title": "7 клас · Do your chores: Читання Домашні справи · Читання",
+          "title": "7en23 Chores: Reading",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1073,7 +1343,17 @@
           "assessment_lesson_path": "7/sb-u2-grammar/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Do your chores: Читання Домашні справи · Читання",
-          "content_id": "7-sb-u2-reading-homework-01"
+          "content_id": "7-sb-u2-reading-homework-01",
+          "previous_title": "7en23 Chores: Reading",
+          "lesson_naming": {
+            "lesson_code": "7en23",
+            "plan_date": "2026-10-06",
+            "learning_month": 2,
+            "lesson_in_month": 3,
+            "target_title": "7en23 Chores: Reading",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -1083,7 +1363,7 @@
         {
           "test_id": "3886937",
           "test_url": "https://naurok.com.ua/test-beta/test/3886937",
-          "title": "7 клас · Do your chores: Самоперевірка Домашні справи · Самоперевірка",
+          "title": "7en213 Chores: Self-check",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1104,7 +1384,17 @@
           "assessment_lesson_path": "7/sb-u3-lead-in/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Do your chores: Самоперевірка Домашні справи · Самоперевірка",
-          "content_id": "7-sb-u2-self-check-homework-01"
+          "content_id": "7-sb-u2-self-check-homework-01",
+          "previous_title": "7en213 Chores: Self-check",
+          "lesson_naming": {
+            "lesson_code": "7en213",
+            "plan_date": "2026-10-22",
+            "learning_month": 2,
+            "lesson_in_month": 13,
+            "target_title": "7en213 Chores: Self-check",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -1114,7 +1404,7 @@
         {
           "test_id": "3886945",
           "test_url": "https://naurok.com.ua/test-beta/test/3886945",
-          "title": "7 клас · Do your chores: Говоріння Домашні справи · Говоріння",
+          "title": "7en29 Chores: Speaking",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1135,7 +1425,17 @@
           "assessment_lesson_path": "7/sb-u2-writing/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Do your chores: Говоріння Домашні справи · Говоріння",
-          "content_id": "7-sb-u2-speaking-homework-01"
+          "content_id": "7-sb-u2-speaking-homework-01",
+          "previous_title": "7en29 Chores: Speaking",
+          "lesson_naming": {
+            "lesson_code": "7en29",
+            "plan_date": "2026-10-15",
+            "learning_month": 2,
+            "lesson_in_month": 9,
+            "target_title": "7en29 Chores: Speaking",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -1145,7 +1445,7 @@
         {
           "test_id": "3886950",
           "test_url": "https://naurok.com.ua/test-beta/test/3886950",
-          "title": "7 клас · Do your chores: Лексика Домашні справи · Лексика",
+          "title": "7en22 Chores: Vocabulary",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1166,7 +1466,17 @@
           "assessment_lesson_path": "7/sb-u2-reading/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Do your chores: Лексика Домашні справи · Лексика",
-          "content_id": "7-sb-u2-vocabulary-homework-01"
+          "content_id": "7-sb-u2-vocabulary-homework-01",
+          "previous_title": "7en22 Chores: Vocabulary",
+          "lesson_naming": {
+            "lesson_code": "7en22",
+            "plan_date": "2026-10-05",
+            "learning_month": 2,
+            "lesson_in_month": 2,
+            "target_title": "7en22 Chores: Vocabulary",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -1176,7 +1486,7 @@
         {
           "test_id": "3886955",
           "test_url": "https://naurok.com.ua/test-beta/test/3886955",
-          "title": "7 клас · Do your chores: Лексика: застосування Домашні справи · Лексика: застосування",
+          "title": "7en27 Chores: Vocabulary practice",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1197,7 +1507,17 @@
           "assessment_lesson_path": "7/sb-u2-grammar-2/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Do your chores: Лексика: застосування Домашні справи · Лексика: застосування",
-          "content_id": "7-sb-u2-vocabulary-2-homework-01"
+          "content_id": "7-sb-u2-vocabulary-2-homework-01",
+          "previous_title": "7en27 Chores: Vocabulary practice",
+          "lesson_naming": {
+            "lesson_code": "7en27",
+            "plan_date": "2026-10-13",
+            "learning_month": 2,
+            "lesson_in_month": 7,
+            "target_title": "7en27 Chores: Vocabulary practice",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -1207,7 +1527,7 @@
         {
           "test_id": "3886961",
           "test_url": "https://naurok.com.ua/test-beta/test/3886961",
-          "title": "7 клас · Do your chores: Письмо Домашні справи · Письмо",
+          "title": "7en210 Chores: Writing",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1228,7 +1548,17 @@
           "assessment_lesson_path": "7/sb-u2-look-back/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Do your chores: Письмо Домашні справи · Письмо",
-          "content_id": "7-sb-u2-writing-homework-01"
+          "content_id": "7-sb-u2-writing-homework-01",
+          "previous_title": "7en210 Chores: Writing",
+          "lesson_naming": {
+            "lesson_code": "7en210",
+            "plan_date": "2026-10-19",
+            "learning_month": 2,
+            "lesson_in_month": 10,
+            "target_title": "7en210 Chores: Writing",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -1238,7 +1568,7 @@
         {
           "test_id": "3886966",
           "test_url": "https://naurok.com.ua/test-beta/test/3886966",
-          "title": "7 клас · Are you ready to cook?: Блог і обговорення Приготування їжі · Блог і обговорення",
+          "title": "7en32 Cooking: Blog",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -1263,7 +1593,17 @@
           "homework_id": "86400940",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86400940",
           "student_url": "https://naurok.ua/test/join?gamecode=3719548",
-          "code": "3719548"
+          "code": "3719548",
+          "previous_title": "7en32 Cooking: Blog",
+          "lesson_naming": {
+            "lesson_code": "7en32",
+            "plan_date": "2026-11-03",
+            "learning_month": 3,
+            "lesson_in_month": 2,
+            "target_title": "7en32 Cooking: Blog",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -1273,7 +1613,7 @@
         {
           "test_id": "3886973",
           "test_url": "https://naurok.com.ua/test-beta/test/3886973",
-          "title": "7 клас · Are you ready to cook?: Граматика Приготування їжі · Граматика",
+          "title": "7en37 Cooking: Grammar",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -1298,7 +1638,17 @@
           "homework_id": "86401025",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401025",
           "student_url": "https://naurok.ua/test/join?gamecode=7295743",
-          "code": "7295743"
+          "code": "7295743",
+          "previous_title": "7en37 Cooking: Grammar",
+          "lesson_naming": {
+            "lesson_code": "7en37",
+            "plan_date": "2026-11-11",
+            "learning_month": 3,
+            "lesson_in_month": 7,
+            "target_title": "7en37 Cooking: Grammar",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -1308,7 +1658,7 @@
         {
           "test_id": "3886978",
           "test_url": "https://naurok.com.ua/test-beta/test/3886978",
-          "title": "7 клас · Are you ready to cook?: Граматика: застосування Приготування їжі · Граматика: застосування",
+          "title": "7en310 Cooking: Grammar practice",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -1333,7 +1683,17 @@
           "homework_id": "86401054",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401054",
           "code": "9084558",
-          "student_url": "https://naurok.ua/test/join?gamecode=9084558"
+          "student_url": "https://naurok.ua/test/join?gamecode=9084558",
+          "previous_title": "7en310 Cooking: Grammar practice",
+          "lesson_naming": {
+            "lesson_code": "7en310",
+            "plan_date": "2026-11-17",
+            "learning_month": 3,
+            "lesson_in_month": 10,
+            "target_title": "7en310 Cooking: Grammar practice",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -1343,7 +1703,7 @@
         {
           "test_id": "3886983",
           "test_url": "https://naurok.com.ua/test-beta/test/3886983",
-          "title": "7 клас · Are you ready to cook?: Починаємо юніт Приготування їжі · Починаємо юніт",
+          "title": "7en32 Cooking: Intro",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -1368,7 +1728,17 @@
           "homework_id": "86401061",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401061",
           "student_url": "https://naurok.ua/test/join?gamecode=7149995",
-          "code": "7149995"
+          "code": "7149995",
+          "previous_title": "7en32 Cooking: Intro",
+          "lesson_naming": {
+            "lesson_code": "7en32",
+            "plan_date": "2026-11-03",
+            "learning_month": 3,
+            "lesson_in_month": 2,
+            "target_title": "7en32 Cooking: Intro",
+            "mapping_method": "unit_lead_in",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -1378,7 +1748,7 @@
         {
           "test_id": "3886987",
           "test_url": "https://naurok.com.ua/test-beta/test/3886987",
-          "title": "7 клас · Are you ready to cook?: Слухання Приготування їжі · Слухання",
+          "title": "7en38 Cooking: Listening",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -1403,7 +1773,17 @@
           "homework_id": "86401117",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401117",
           "code": "5626604",
-          "student_url": "https://naurok.ua/test/join?gamecode=5626604"
+          "student_url": "https://naurok.ua/test/join?gamecode=5626604",
+          "previous_title": "7en38 Cooking: Listening",
+          "lesson_naming": {
+            "lesson_code": "7en38",
+            "plan_date": "2026-11-12",
+            "learning_month": 3,
+            "lesson_in_month": 8,
+            "target_title": "7en38 Cooking: Listening",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -1413,7 +1793,7 @@
         {
           "test_id": "3886991",
           "test_url": "https://naurok.com.ua/test-beta/test/3886991",
-          "title": "7 клас · Are you ready to cook?: Повторення Приготування їжі · Повторення",
+          "title": "7en313 Cooking: Review",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -1438,7 +1818,17 @@
           "homework_id": "86401127",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401127",
           "code": "5411508",
-          "student_url": "https://naurok.ua/test/join?gamecode=5411508"
+          "student_url": "https://naurok.ua/test/join?gamecode=5411508",
+          "previous_title": "7en313 Cooking: Review",
+          "lesson_naming": {
+            "lesson_code": "7en313",
+            "plan_date": "2026-11-23",
+            "learning_month": 3,
+            "lesson_in_month": 13,
+            "target_title": "7en313 Cooking: Review",
+            "mapping_method": "section",
+            "status": "naurok_renamed_pending_kahoot"
+          }
         }
       ]
     },
@@ -1448,7 +1838,7 @@
         {
           "test_id": "3886996",
           "test_url": "https://naurok.com.ua/test-beta/test/3886996",
-          "title": "7 клас · Are you ready to cook?: Читання Приготування їжі · Читання",
+          "title": "7en35 Cooking: Reading",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -1473,7 +1863,17 @@
           "homework_id": "86401139",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401139",
           "student_url": "https://naurok.ua/test/join?gamecode=9748654",
-          "code": "9748654"
+          "code": "9748654",
+          "previous_title": "7en35 Cooking: Reading",
+          "lesson_naming": {
+            "lesson_code": "7en35",
+            "plan_date": "2026-11-09",
+            "learning_month": 3,
+            "lesson_in_month": 5,
+            "target_title": "7en35 Cooking: Reading",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -1483,7 +1883,7 @@
         {
           "test_id": "3887001",
           "test_url": "https://naurok.com.ua/test-beta/test/3887001",
-          "title": "7 клас · Are you ready to cook?: Самоперевірка Приготування їжі · Самоперевірка",
+          "title": "7en316 Cooking: Self-check",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -1508,7 +1908,17 @@
           "homework_id": "86401180",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401180",
           "student_url": "https://naurok.ua/test/join?gamecode=2364227",
-          "code": "2364227"
+          "code": "2364227",
+          "previous_title": "7en316 Cooking: Self-check",
+          "lesson_naming": {
+            "lesson_code": "7en316",
+            "plan_date": "2026-11-26",
+            "learning_month": 3,
+            "lesson_in_month": 16,
+            "target_title": "7en316 Cooking: Self-check",
+            "mapping_method": "section",
+            "status": "naurok_renamed_pending_kahoot"
+          }
         }
       ]
     },
@@ -1518,7 +1928,7 @@
         {
           "test_id": "3887004",
           "test_url": "https://naurok.com.ua/test-beta/test/3887004",
-          "title": "7 клас · Are you ready to cook?: Говоріння Приготування їжі · Говоріння",
+          "title": "7en311 Cooking: Speaking",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -1543,7 +1953,17 @@
           "homework_id": "86401189",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401189",
           "code": "7032864",
-          "student_url": "https://naurok.ua/test/join?gamecode=7032864"
+          "student_url": "https://naurok.ua/test/join?gamecode=7032864",
+          "previous_title": "7en311 Cooking: Speaking",
+          "lesson_naming": {
+            "lesson_code": "7en311",
+            "plan_date": "2026-11-18",
+            "learning_month": 3,
+            "lesson_in_month": 11,
+            "target_title": "7en311 Cooking: Speaking",
+            "mapping_method": "section",
+            "status": "naurok_renamed_pending_kahoot"
+          }
         }
       ]
     },
@@ -1553,7 +1973,7 @@
         {
           "test_id": "3887010",
           "test_url": "https://naurok.com.ua/test-beta/test/3887010",
-          "title": "7 клас · Are you ready to cook?: Лексика Приготування їжі · Лексика",
+          "title": "7en34 Cooking: Vocabulary",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -1578,7 +1998,17 @@
           "homework_id": "86401193",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401193",
           "student_url": "https://naurok.ua/test/join?gamecode=1071281",
-          "code": "1071281"
+          "code": "1071281",
+          "previous_title": "7en34 Cooking: Vocabulary",
+          "lesson_naming": {
+            "lesson_code": "7en34",
+            "plan_date": "2026-11-05",
+            "learning_month": 3,
+            "lesson_in_month": 4,
+            "target_title": "7en34 Cooking: Vocabulary",
+            "mapping_method": "section",
+            "status": "naurok_renamed_pending_kahoot"
+          }
         }
       ]
     },
@@ -1588,7 +2018,7 @@
         {
           "test_id": "3887015",
           "test_url": "https://naurok.com.ua/test-beta/test/3887015",
-          "title": "7 клас · Are you ready to cook?: Лексика: застосування Приготування їжі · Лексика: застосування",
+          "title": "7en39 Cooking: Vocabulary practice",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -1613,7 +2043,17 @@
           "homework_id": "86401194",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401194",
           "student_url": "https://naurok.ua/test/join?gamecode=2973881",
-          "code": "2973881"
+          "code": "2973881",
+          "previous_title": "7 клас · Are you ready to cook?: Лексика: застосування Приготування їжі · Лексика: застосування",
+          "lesson_naming": {
+            "lesson_code": "7en39",
+            "plan_date": "2026-11-16",
+            "learning_month": 3,
+            "lesson_in_month": 9,
+            "target_title": "7en39 Cooking: Vocabulary practice",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1623,7 +2063,7 @@
         {
           "test_id": "3887020",
           "test_url": "https://naurok.com.ua/test-beta/test/3887020",
-          "title": "7 клас · Are you ready to cook?: Письмо Приготування їжі · Письмо",
+          "title": "7en312 Cooking: Writing",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -1648,7 +2088,17 @@
           "homework_id": "86401201",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86401201",
           "student_url": "https://naurok.ua/test/join?gamecode=6549452",
-          "code": "6549452"
+          "code": "6549452",
+          "previous_title": "7 клас · Are you ready to cook?: Письмо Приготування їжі · Письмо",
+          "lesson_naming": {
+            "lesson_code": "7en312",
+            "plan_date": "2026-11-19",
+            "learning_month": 3,
+            "lesson_in_month": 12,
+            "target_title": "7en312 Cooking: Writing",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1658,7 +2108,7 @@
         {
           "test_id": "3887027",
           "test_url": "https://naurok.com.ua/test-beta/test/3887027",
-          "title": "7 клас · Traditions... Traditions...: Блог і обговорення Свята і традиції · Блог і обговорення",
+          "title": "7en317 Traditions: Blog",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1679,7 +2129,17 @@
           "assessment_lesson_path": "7/sb-u4-vocabulary/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Traditions... Traditions...: Блог і обговорення Свята і традиції · Блог і обговорення",
-          "content_id": "7-sb-u4-blog-homework-01"
+          "content_id": "7-sb-u4-blog-homework-01",
+          "previous_title": "7 клас · Traditions... Traditions...: Блог і обговорення Свята і традиції · Блог і обговорення",
+          "lesson_naming": {
+            "lesson_code": "7en317",
+            "plan_date": "2026-11-30",
+            "learning_month": 3,
+            "lesson_in_month": 17,
+            "target_title": "7en317 Traditions: Blog",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1689,7 +2149,7 @@
         {
           "test_id": "3887033",
           "test_url": "https://naurok.com.ua/test-beta/test/3887033",
-          "title": "7 клас · Traditions... Traditions...: Граматика Свята і традиції · Граматика",
+          "title": "7en44 Traditions: Grammar",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1710,7 +2170,17 @@
           "assessment_lesson_path": "7/sb-u4-listening/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Traditions... Traditions...: Граматика Свята і традиції · Граматика",
-          "content_id": "7-sb-u4-grammar-homework-01"
+          "content_id": "7-sb-u4-grammar-homework-01",
+          "previous_title": "7 клас · Traditions... Traditions...: Граматика Свята і традиції · Граматика",
+          "lesson_naming": {
+            "lesson_code": "7en44",
+            "plan_date": "2026-12-07",
+            "learning_month": 4,
+            "lesson_in_month": 4,
+            "target_title": "7en44 Traditions: Grammar",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1720,7 +2190,7 @@
         {
           "test_id": "3887039",
           "test_url": "https://naurok.com.ua/test-beta/test/3887039",
-          "title": "7 клас · Traditions... Traditions...: Граматика: застосування Свята і традиції · Граматика: застосування",
+          "title": "7en47 Traditions: Grammar practice",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1741,7 +2211,17 @@
           "assessment_lesson_path": "7/sb-u4-speaking/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Traditions... Traditions...: Граматика: застосування Свята і традиції · Граматика: застосування",
-          "content_id": "7-sb-u4-grammar-2-homework-01"
+          "content_id": "7-sb-u4-grammar-2-homework-01",
+          "previous_title": "7 клас · Traditions... Traditions...: Граматика: застосування Свята і традиції · Граматика: застосування",
+          "lesson_naming": {
+            "lesson_code": "7en47",
+            "plan_date": "2026-12-10",
+            "learning_month": 4,
+            "lesson_in_month": 7,
+            "target_title": "7en47 Traditions: Grammar practice",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1751,7 +2231,7 @@
         {
           "test_id": "3887044",
           "test_url": "https://naurok.com.ua/test-beta/test/3887044",
-          "title": "045 · Traditions: Lead-in",
+          "title": "7en317 Traditions: Intro",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1772,7 +2252,17 @@
           "assessment_lesson_path": "7/sb-u4-blog/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Traditions... Traditions...: Починаємо юніт Свята і традиції · Починаємо юніт",
-          "content_id": "7-sb-u4-lead-in-homework-01"
+          "content_id": "7-sb-u4-lead-in-homework-01",
+          "previous_title": "045 · Traditions: Lead-in",
+          "lesson_naming": {
+            "lesson_code": "7en317",
+            "plan_date": "2026-11-30",
+            "learning_month": 3,
+            "lesson_in_month": 17,
+            "target_title": "7en317 Traditions: Intro",
+            "mapping_method": "unit_lead_in",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1782,7 +2272,7 @@
         {
           "test_id": "3887050",
           "test_url": "https://naurok.com.ua/test-beta/test/3887050",
-          "title": "7 клас · Traditions... Traditions...: Слухання Свята і традиції · Слухання",
+          "title": "7en45 Traditions: Listening",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1803,7 +2293,17 @@
           "assessment_lesson_path": "7/sb-u4-vocabulary-2/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Traditions... Traditions...: Слухання Свята і традиції · Слухання",
-          "content_id": "7-sb-u4-listening-homework-01"
+          "content_id": "7-sb-u4-listening-homework-01",
+          "previous_title": "7 клас · Traditions... Traditions...: Слухання Свята і традиції · Слухання",
+          "lesson_naming": {
+            "lesson_code": "7en45",
+            "plan_date": "2026-12-08",
+            "learning_month": 4,
+            "lesson_in_month": 5,
+            "target_title": "7en45 Traditions: Listening",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1813,7 +2313,7 @@
         {
           "test_id": "3887057",
           "test_url": "https://naurok.com.ua/test-beta/test/3887057",
-          "title": "7 клас · Traditions... Traditions...: Повторення Свята і традиції · Повторення",
+          "title": "7en410 Traditions: Review",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1834,7 +2334,17 @@
           "assessment_lesson_path": "7/sb-u4-self-check/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Traditions... Traditions...: Повторення Свята і традиції · Повторення",
-          "content_id": "7-sb-u4-look-back-homework-01"
+          "content_id": "7-sb-u4-look-back-homework-01",
+          "previous_title": "7 клас · Traditions... Traditions...: Повторення Свята і традиції · Повторення",
+          "lesson_naming": {
+            "lesson_code": "7en410",
+            "plan_date": "2026-12-16",
+            "learning_month": 4,
+            "lesson_in_month": 10,
+            "target_title": "7en410 Traditions: Review",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1844,7 +2354,7 @@
         {
           "test_id": "3887063",
           "test_url": "https://naurok.com.ua/test-beta/test/3887063",
-          "title": "7 клас · Traditions... Traditions...: Читання Свята і традиції · Читання",
+          "title": "7en43 Traditions: Reading",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1865,7 +2375,17 @@
           "assessment_lesson_path": "7/sb-u4-grammar/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Traditions... Traditions...: Читання Свята і традиції · Читання",
-          "content_id": "7-sb-u4-reading-homework-01"
+          "content_id": "7-sb-u4-reading-homework-01",
+          "previous_title": "7 клас · Traditions... Traditions...: Читання Свята і традиції · Читання",
+          "lesson_naming": {
+            "lesson_code": "7en43",
+            "plan_date": "2026-12-03",
+            "learning_month": 4,
+            "lesson_in_month": 3,
+            "target_title": "7en43 Traditions: Reading",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1875,7 +2395,7 @@
         {
           "test_id": "3887070",
           "test_url": "https://naurok.com.ua/test-beta/test/3887070",
-          "title": "7 клас · Traditions... Traditions...: Самоперевірка Свята і традиції · Самоперевірка",
+          "title": "7en412 Traditions: Self-check",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1896,7 +2416,17 @@
           "assessment_lesson_path": "7/sb-u5-lead-in/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Traditions... Traditions...: Самоперевірка Свята і традиції · Самоперевірка",
-          "content_id": "7-sb-u4-self-check-homework-01"
+          "content_id": "7-sb-u4-self-check-homework-01",
+          "previous_title": "7 клас · Traditions... Traditions...: Самоперевірка Свята і традиції · Самоперевірка",
+          "lesson_naming": {
+            "lesson_code": "7en412",
+            "plan_date": "2026-12-21",
+            "learning_month": 4,
+            "lesson_in_month": 12,
+            "target_title": "7en412 Traditions: Self-check",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1906,7 +2436,7 @@
         {
           "test_id": "3887075",
           "test_url": "https://naurok.com.ua/test-beta/test/3887075",
-          "title": "7 клас · Traditions... Traditions...: Говоріння Свята і традиції · Говоріння",
+          "title": "7en48 Traditions: Speaking",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1927,7 +2457,17 @@
           "assessment_lesson_path": "7/sb-u4-writing/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Traditions... Traditions...: Говоріння Свята і традиції · Говоріння",
-          "content_id": "7-sb-u4-speaking-homework-01"
+          "content_id": "7-sb-u4-speaking-homework-01",
+          "previous_title": "7 клас · Traditions... Traditions...: Говоріння Свята і традиції · Говоріння",
+          "lesson_naming": {
+            "lesson_code": "7en48",
+            "plan_date": "2026-12-14",
+            "learning_month": 4,
+            "lesson_in_month": 8,
+            "target_title": "7en48 Traditions: Speaking",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1937,7 +2477,7 @@
         {
           "test_id": "3887084",
           "test_url": "https://naurok.com.ua/test-beta/test/3887084",
-          "title": "7 клас · Traditions... Traditions...: Лексика Свята і традиції · Лексика",
+          "title": "7en42 Traditions: Vocabulary",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1958,7 +2498,17 @@
           "assessment_lesson_path": "7/sb-u4-reading/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Traditions... Traditions...: Лексика Свята і традиції · Лексика",
-          "content_id": "7-sb-u4-vocabulary-homework-01"
+          "content_id": "7-sb-u4-vocabulary-homework-01",
+          "previous_title": "7 клас · Traditions... Traditions...: Лексика Свята і традиції · Лексика",
+          "lesson_naming": {
+            "lesson_code": "7en42",
+            "plan_date": "2026-12-02",
+            "learning_month": 4,
+            "lesson_in_month": 2,
+            "target_title": "7en42 Traditions: Vocabulary",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1968,7 +2518,7 @@
         {
           "test_id": "3887091",
           "test_url": "https://naurok.com.ua/test-beta/test/3887091",
-          "title": "7 клас · Traditions... Traditions...: Лексика: застосування Свята і традиції · Лексика: застосування",
+          "title": "7en46 Traditions: Vocabulary practice",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -1989,7 +2539,17 @@
           "assessment_lesson_path": "7/sb-u4-grammar-2/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Traditions... Traditions...: Лексика: застосування Свята і традиції · Лексика: застосування",
-          "content_id": "7-sb-u4-vocabulary-2-homework-01"
+          "content_id": "7-sb-u4-vocabulary-2-homework-01",
+          "previous_title": "7 клас · Traditions... Traditions...: Лексика: застосування Свята і традиції · Лексика: застосування",
+          "lesson_naming": {
+            "lesson_code": "7en46",
+            "plan_date": "2026-12-09",
+            "learning_month": 4,
+            "lesson_in_month": 6,
+            "target_title": "7en46 Traditions: Vocabulary practice",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1999,7 +2559,7 @@
         {
           "test_id": "3887097",
           "test_url": "https://naurok.com.ua/test-beta/test/3887097",
-          "title": "7 клас · Traditions... Traditions...: Письмо Свята і традиції · Письмо",
+          "title": "7en49 Traditions: Writing",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -2020,7 +2580,17 @@
           "assessment_lesson_path": "7/sb-u4-look-back/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Traditions... Traditions...: Письмо Свята і традиції · Письмо",
-          "content_id": "7-sb-u4-writing-homework-01"
+          "content_id": "7-sb-u4-writing-homework-01",
+          "previous_title": "7 клас · Traditions... Traditions...: Письмо Свята і традиції · Письмо",
+          "lesson_naming": {
+            "lesson_code": "7en49",
+            "plan_date": "2026-12-15",
+            "learning_month": 4,
+            "lesson_in_month": 9,
+            "target_title": "7en49 Traditions: Writing",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -2030,7 +2600,7 @@
         {
           "test_id": "3887105",
           "test_url": "https://naurok.com.ua/test-beta/test/3887105",
-          "title": "7 клас · Special days at school",
+          "title": "7en15 Special days",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -2051,7 +2621,17 @@
           "assessment_lesson_path": "7/now-or-usually/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Special days at school Особливі шкільні дні",
-          "content_id": "7-school-special-days-homework-01"
+          "content_id": "7-school-special-days-homework-01",
+          "previous_title": "7 клас · Special days at school",
+          "lesson_naming": {
+            "lesson_code": "7en15",
+            "plan_date": "2026-09-08",
+            "learning_month": 1,
+            "lesson_in_month": 5,
+            "target_title": "7en15 Special days",
+            "mapping_method": "supplement_section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -2061,7 +2641,7 @@
         {
           "test_id": "3887112",
           "test_url": "https://naurok.com.ua/test-beta/test/3887112",
-          "title": "7 клас · A helping hand",
+          "title": "7en29 A helping hand",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -2082,7 +2662,17 @@
           "assessment_lesson_path": "7/past-simple-questions/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "A helping hand Хто допомагає вдома?",
-          "content_id": "7-sharing-chores-homework-01"
+          "content_id": "7-sharing-chores-homework-01",
+          "previous_title": "7 клас · A helping hand",
+          "lesson_naming": {
+            "lesson_code": "7en29",
+            "plan_date": "2026-10-15",
+            "learning_month": 2,
+            "lesson_in_month": 9,
+            "target_title": "7en29 A helping hand",
+            "mapping_method": "supplement_section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -2092,7 +2682,7 @@
         {
           "test_id": "3887116",
           "test_url": "https://naurok.com.ua/test-beta/test/3887116",
-          "title": "7 клас · Граматика курсу — Units 1–8",
+          "title": "7en913 Grammar reference",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -2113,7 +2703,17 @@
           "assessment_lesson_path": "7/sb-grammar/index.html",
           "placement_rule": "no_next_lesson",
           "source_lesson_title": "Граматика курсу",
-          "content_id": "7-sb-grammar-homework-01"
+          "content_id": "7-sb-grammar-homework-01",
+          "previous_title": "7 клас · Граматика курсу — Units 1–8",
+          "lesson_naming": {
+            "lesson_code": "7en913",
+            "plan_date": "2027-05-24",
+            "learning_month": 9,
+            "lesson_in_month": 13,
+            "target_title": "7en913 Grammar reference",
+            "mapping_method": "course_reference",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -2123,7 +2723,7 @@
         {
           "test_id": "3887122",
           "test_url": "https://naurok.com.ua/test-beta/test/3887122",
-          "title": "7 клас · Лексика курсу — Unit 1",
+          "title": "7en117 Wordlist Unit 1",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -2144,12 +2744,22 @@
           "assessment_lesson_path": "7/sb-wordlist/index.html",
           "placement_rule": "no_next_lesson",
           "source_lesson_title": "Лексика курсу",
-          "content_id": "7-sb-wordlist-homework-01"
+          "content_id": "7-sb-wordlist-homework-01",
+          "previous_title": "7 клас · Лексика курсу — Unit 1",
+          "lesson_naming": {
+            "lesson_code": "7en117",
+            "plan_date": "2026-09-29",
+            "learning_month": 1,
+            "lesson_in_month": 17,
+            "target_title": "7en117 Wordlist Unit 1",
+            "mapping_method": "unit_reference",
+            "status": "pending_external_rename"
+          }
         },
         {
           "test_id": "3887129",
           "test_url": "https://naurok.com.ua/test-beta/test/3887129",
-          "title": "7 клас · Лексика курсу — Unit 2",
+          "title": "7en31 Wordlist Unit 2",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -2170,12 +2780,22 @@
           "assessment_lesson_path": "7/sb-wordlist/index.html",
           "placement_rule": "no_next_lesson",
           "source_lesson_title": "Лексика курсу",
-          "content_id": "7-sb-wordlist-homework-02"
+          "content_id": "7-sb-wordlist-homework-02",
+          "previous_title": "7 клас · Лексика курсу — Unit 2",
+          "lesson_naming": {
+            "lesson_code": "7en31",
+            "plan_date": "2026-11-02",
+            "learning_month": 3,
+            "lesson_in_month": 1,
+            "target_title": "7en31 Wordlist Unit 2",
+            "mapping_method": "unit_reference",
+            "status": "pending_external_rename"
+          }
         },
         {
           "test_id": "3887134",
           "test_url": "https://naurok.com.ua/test-beta/test/3887134",
-          "title": "7 клас · Лексика курсу — Unit 3",
+          "title": "7en316 Wordlist Unit 3",
           "points": 10,
           "status": "homework_created",
           "verified": true,
@@ -2200,12 +2820,22 @@
           "homework_id": "86400668",
           "teacher_homework_url": "https://naurok.com.ua/test-beta/homework/86400668",
           "student_url": "https://naurok.ua/test/join?gamecode=8134982",
-          "code": "8134982"
+          "code": "8134982",
+          "previous_title": "7 клас · Лексика курсу — Unit 3",
+          "lesson_naming": {
+            "lesson_code": "7en316",
+            "plan_date": "2026-11-26",
+            "learning_month": 3,
+            "lesson_in_month": 16,
+            "target_title": "7en316 Wordlist Unit 3",
+            "mapping_method": "unit_reference",
+            "status": "pending_external_rename"
+          }
         },
         {
           "test_id": "3887138",
           "test_url": "https://naurok.com.ua/test-beta/test/3887138",
-          "title": "7 клас · Лексика курсу — Unit 4",
+          "title": "7en413 Wordlist Unit 4",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -2226,12 +2856,22 @@
           "assessment_lesson_path": "7/sb-wordlist/index.html",
           "placement_rule": "no_next_lesson",
           "source_lesson_title": "Лексика курсу",
-          "content_id": "7-sb-wordlist-homework-04"
+          "content_id": "7-sb-wordlist-homework-04",
+          "previous_title": "7 клас · Лексика курсу — Unit 4",
+          "lesson_naming": {
+            "lesson_code": "7en413",
+            "plan_date": "2026-12-22",
+            "learning_month": 4,
+            "lesson_in_month": 13,
+            "target_title": "7en413 Wordlist Unit 4",
+            "mapping_method": "unit_reference",
+            "status": "pending_external_rename"
+          }
         },
         {
           "test_id": "3887142",
           "test_url": "https://naurok.com.ua/test-beta/test/3887142",
-          "title": "7 клас · Лексика курсу — Unit 5",
+          "title": "7en69 Wordlist Unit 5",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -2252,12 +2892,22 @@
           "assessment_lesson_path": "7/sb-wordlist/index.html",
           "placement_rule": "no_next_lesson",
           "source_lesson_title": "Лексика курсу",
-          "content_id": "7-sb-wordlist-homework-05"
+          "content_id": "7-sb-wordlist-homework-05",
+          "previous_title": "7 клас · Лексика курсу — Unit 5",
+          "lesson_naming": {
+            "lesson_code": "7en69",
+            "plan_date": "2027-02-15",
+            "learning_month": 6,
+            "lesson_in_month": 9,
+            "target_title": "7en69 Wordlist Unit 5",
+            "mapping_method": "unit_reference",
+            "status": "pending_external_rename"
+          }
         },
         {
           "test_id": "3887147",
           "test_url": "https://naurok.com.ua/test-beta/test/3887147",
-          "title": "7 клас · Лексика курсу — Unit 6",
+          "title": "7en711 Wordlist Unit 6",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -2278,12 +2928,22 @@
           "assessment_lesson_path": "7/sb-wordlist/index.html",
           "placement_rule": "no_next_lesson",
           "source_lesson_title": "Лексика курсу",
-          "content_id": "7-sb-wordlist-homework-06"
+          "content_id": "7-sb-wordlist-homework-06",
+          "previous_title": "7 клас · Лексика курсу — Unit 6",
+          "lesson_naming": {
+            "lesson_code": "7en711",
+            "plan_date": "2027-03-17",
+            "learning_month": 7,
+            "lesson_in_month": 11,
+            "target_title": "7en711 Wordlist Unit 6",
+            "mapping_method": "unit_reference",
+            "status": "pending_external_rename"
+          }
         },
         {
           "test_id": "3887151",
           "test_url": "https://naurok.com.ua/test-beta/test/3887151",
-          "title": "7 клас · Лексика курсу — Unit 7",
+          "title": "7en813 Wordlist Unit 7",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -2304,12 +2964,22 @@
           "assessment_lesson_path": "7/sb-wordlist/index.html",
           "placement_rule": "no_next_lesson",
           "source_lesson_title": "Лексика курсу",
-          "content_id": "7-sb-wordlist-homework-07"
+          "content_id": "7-sb-wordlist-homework-07",
+          "previous_title": "7 клас · Лексика курсу — Unit 7",
+          "lesson_naming": {
+            "lesson_code": "7en813",
+            "plan_date": "2027-04-22",
+            "learning_month": 8,
+            "lesson_in_month": 13,
+            "target_title": "7en813 Wordlist Unit 7",
+            "mapping_method": "unit_reference",
+            "status": "pending_external_rename"
+          }
         },
         {
           "test_id": "3887155",
           "test_url": "https://naurok.com.ua/test-beta/test/3887155",
-          "title": "7 клас · Лексика курсу — Unit 8",
+          "title": "7en913 Wordlist Unit 8",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -2330,7 +3000,17 @@
           "assessment_lesson_path": "7/sb-wordlist/index.html",
           "placement_rule": "no_next_lesson",
           "source_lesson_title": "Лексика курсу",
-          "content_id": "7-sb-wordlist-homework-08"
+          "content_id": "7-sb-wordlist-homework-08",
+          "previous_title": "7 клас · Лексика курсу — Unit 8",
+          "lesson_naming": {
+            "lesson_code": "7en913",
+            "plan_date": "2027-05-24",
+            "learning_month": 9,
+            "lesson_in_month": 13,
+            "target_title": "7en913 Wordlist Unit 8",
+            "mapping_method": "unit_reference",
+            "status": "pending_external_rename"
+          }
         }
       ]
     }

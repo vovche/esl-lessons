@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · 098 · Подорожі: лексика",
+  "title": "7en816 Travel: Vocabulary",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u8-vocabulary/index.html",
@@ -163,12 +163,26 @@
       "course_title": "7 клас",
       "course_module": 8,
       "course_membership_verified": true,
-      "visibility_update_pending_user_confirmation": false
+      "visibility_update_pending_user_confirmation": false,
+      "previous_title": "7 клас · 098 · Подорожі: лексика",
+      "title": "7en816 Travel: Vocabulary",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en816 Travel: Vocabulary",
+  "lesson_naming": {
+    "lesson_code": "7en816",
+    "plan_date": "2027-04-28",
+    "learning_month": 8,
+    "lesson_in_month": 16,
+    "target_title": "7en816 Travel: Vocabulary",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en816 Travel: Vocabulary"
   }
 }

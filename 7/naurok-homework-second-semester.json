@@ -8,7 +8,7 @@
         {
           "test_id": "3887139",
           "test_url": "https://naurok.com.ua/test-beta/test/3887139",
-          "title": "7 клас · Sport from A to Z: Починаємо юніт Спорт · Починаємо юніт",
+          "title": "7en51 Sport: Intro",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -29,7 +29,17 @@
           "assessment_lesson_path": "7/sb-u5-blog/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Sport from A to Z: Починаємо юніт Спорт · Починаємо юніт",
-          "content_id": "7-sb-u5-lead-in-homework-01"
+          "content_id": "7-sb-u5-lead-in-homework-01",
+          "previous_title": "7en51 Sport: Intro",
+          "lesson_naming": {
+            "lesson_code": "7en51",
+            "plan_date": "2027-01-14",
+            "learning_month": 5,
+            "lesson_in_month": 1,
+            "target_title": "7en51 Sport: Intro",
+            "mapping_method": "unit_lead_in",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -39,7 +49,7 @@
         {
           "test_id": "3887143",
           "test_url": "https://naurok.com.ua/test-beta/test/3887143",
-          "title": "7 клас · Sport from A to Z: Лексика Спорт · Лексика",
+          "title": "7en53 Sport: Vocabulary",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -60,7 +70,17 @@
           "assessment_lesson_path": "7/sb-u5-reading/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Sport from A to Z: Лексика Спорт · Лексика",
-          "content_id": "7-sb-u5-vocabulary-homework-01"
+          "content_id": "7-sb-u5-vocabulary-homework-01",
+          "previous_title": "7en53 Sport: Vocabulary",
+          "lesson_naming": {
+            "lesson_code": "7en53",
+            "plan_date": "2027-01-19",
+            "learning_month": 5,
+            "lesson_in_month": 3,
+            "target_title": "7en53 Sport: Vocabulary",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -70,7 +90,7 @@
         {
           "test_id": "3887148",
           "test_url": "https://naurok.com.ua/test-beta/test/3887148",
-          "title": "7 клас · Sport from A to Z: Читання Спорт · Читання",
+          "title": "7en54 Sport: Reading",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -91,7 +111,17 @@
           "assessment_lesson_path": "7/sb-u5-grammar/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Sport from A to Z: Читання Спорт · Читання",
-          "content_id": "7-sb-u5-reading-homework-01"
+          "content_id": "7-sb-u5-reading-homework-01",
+          "previous_title": "7en54 Sport: Reading",
+          "lesson_naming": {
+            "lesson_code": "7en54",
+            "plan_date": "2027-01-20",
+            "learning_month": 5,
+            "lesson_in_month": 4,
+            "target_title": "7en54 Sport: Reading",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -101,7 +131,7 @@
         {
           "test_id": "3887152",
           "test_url": "https://naurok.com.ua/test-beta/test/3887152",
-          "title": "7 клас · Sport from A to Z: Граматика Спорт · Граматика",
+          "title": "7en56 Sport: Grammar",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -122,7 +152,17 @@
           "assessment_lesson_path": "7/sb-u5-listening/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Sport from A to Z: Граматика Спорт · Граматика",
-          "content_id": "7-sb-u5-grammar-homework-01"
+          "content_id": "7-sb-u5-grammar-homework-01",
+          "previous_title": "7en56 Sport: Grammar",
+          "lesson_naming": {
+            "lesson_code": "7en56",
+            "plan_date": "2027-01-25",
+            "learning_month": 5,
+            "lesson_in_month": 6,
+            "target_title": "7en56 Sport: Grammar",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -132,7 +172,7 @@
         {
           "test_id": "3887159",
           "test_url": "https://naurok.com.ua/test-beta/test/3887159",
-          "title": "7 клас · Sport from A to Z: Слухання Спорт · Слухання",
+          "title": "7en57 Sport: Listening",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -153,7 +193,17 @@
           "assessment_lesson_path": "7/sb-u5-vocabulary-2/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Sport from A to Z: Слухання Спорт · Слухання",
-          "content_id": "7-sb-u5-listening-homework-01"
+          "content_id": "7-sb-u5-listening-homework-01",
+          "previous_title": "7en57 Sport: Listening",
+          "lesson_naming": {
+            "lesson_code": "7en57",
+            "plan_date": "2027-01-26",
+            "learning_month": 5,
+            "lesson_in_month": 7,
+            "target_title": "7en57 Sport: Listening",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -163,7 +213,7 @@
         {
           "test_id": "3887163",
           "test_url": "https://naurok.com.ua/test-beta/test/3887163",
-          "title": "7 клас · Sport from A to Z: Лексика: застосування Спорт · Лексика: застосування",
+          "title": "7en58 Sport: Vocabulary practice",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -184,7 +234,17 @@
           "assessment_lesson_path": "7/sb-u5-grammar-2/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Sport from A to Z: Лексика: застосування Спорт · Лексика: застосування",
-          "content_id": "7-sb-u5-vocabulary-2-homework-01"
+          "content_id": "7-sb-u5-vocabulary-2-homework-01",
+          "previous_title": "7en58 Sport: Vocabulary practice",
+          "lesson_naming": {
+            "lesson_code": "7en58",
+            "plan_date": "2027-01-27",
+            "learning_month": 5,
+            "lesson_in_month": 8,
+            "target_title": "7en58 Sport: Vocabulary practice",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -194,7 +254,7 @@
         {
           "test_id": "3887169",
           "test_url": "https://naurok.com.ua/test-beta/test/3887169",
-          "title": "7 клас · Sport from A to Z: Граматика: застосування Спорт · Граматика: застосування",
+          "title": "7en59 Sport: Grammar practice",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -215,7 +275,17 @@
           "assessment_lesson_path": "7/sb-u5-speaking/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Sport from A to Z: Граматика: застосування Спорт · Граматика: застосування",
-          "content_id": "7-sb-u5-grammar-2-homework-01"
+          "content_id": "7-sb-u5-grammar-2-homework-01",
+          "previous_title": "7en59 Sport: Grammar practice",
+          "lesson_naming": {
+            "lesson_code": "7en59",
+            "plan_date": "2027-01-28",
+            "learning_month": 5,
+            "lesson_in_month": 9,
+            "target_title": "7en59 Sport: Grammar practice",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -225,7 +295,7 @@
         {
           "test_id": "3887173",
           "test_url": "https://naurok.com.ua/test-beta/test/3887173",
-          "title": "7 клас · Sport from A to Z: Говоріння Спорт · Говоріння",
+          "title": "7en61 Sport: Speaking",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -246,7 +316,17 @@
           "assessment_lesson_path": "7/sb-u5-writing/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Sport from A to Z: Говоріння Спорт · Говоріння",
-          "content_id": "7-sb-u5-speaking-homework-01"
+          "content_id": "7-sb-u5-speaking-homework-01",
+          "previous_title": "7en61 Sport: Speaking",
+          "lesson_naming": {
+            "lesson_code": "7en61",
+            "plan_date": "2027-02-01",
+            "learning_month": 6,
+            "lesson_in_month": 1,
+            "target_title": "7en61 Sport: Speaking",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -256,7 +336,7 @@
         {
           "test_id": "3887178",
           "test_url": "https://naurok.com.ua/test-beta/test/3887178",
-          "title": "7 клас · Sport from A to Z: Письмо Спорт · Письмо",
+          "title": "7en63 Sport: Writing",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -277,7 +357,17 @@
           "assessment_lesson_path": "7/sb-u5-look-back/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Sport from A to Z: Письмо Спорт · Письмо",
-          "content_id": "7-sb-u5-writing-homework-01"
+          "content_id": "7-sb-u5-writing-homework-01",
+          "previous_title": "7en63 Sport: Writing",
+          "lesson_naming": {
+            "lesson_code": "7en63",
+            "plan_date": "2027-02-03",
+            "learning_month": 6,
+            "lesson_in_month": 3,
+            "target_title": "7en63 Sport: Writing",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -287,7 +377,7 @@
         {
           "test_id": "3887181",
           "test_url": "https://naurok.com.ua/test-beta/test/3887181",
-          "title": "7 клас · Sport from A to Z: Блог і обговорення Спорт · Блог і обговорення",
+          "title": "7en51 Sport: Blog",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -308,7 +398,17 @@
           "assessment_lesson_path": "7/sb-u5-vocabulary/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Sport from A to Z: Блог і обговорення Спорт · Блог і обговорення",
-          "content_id": "7-sb-u5-blog-homework-01"
+          "content_id": "7-sb-u5-blog-homework-01",
+          "previous_title": "7en51 Sport: Blog",
+          "lesson_naming": {
+            "lesson_code": "7en51",
+            "plan_date": "2027-01-14",
+            "learning_month": 5,
+            "lesson_in_month": 1,
+            "target_title": "7en51 Sport: Blog",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -318,7 +418,7 @@
         {
           "test_id": "3887188",
           "test_url": "https://naurok.com.ua/test-beta/test/3887188",
-          "title": "7 клас · Sport from A to Z: Повторення Спорт · Повторення",
+          "title": "7en64 Sport: Review",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -339,7 +439,17 @@
           "assessment_lesson_path": "7/sb-u5-self-check/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Sport from A to Z: Повторення Спорт · Повторення",
-          "content_id": "7-sb-u5-look-back-homework-01"
+          "content_id": "7-sb-u5-look-back-homework-01",
+          "previous_title": "7en64 Sport: Review",
+          "lesson_naming": {
+            "lesson_code": "7en64",
+            "plan_date": "2027-02-04",
+            "learning_month": 6,
+            "lesson_in_month": 4,
+            "target_title": "7en64 Sport: Review",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -349,7 +459,7 @@
         {
           "test_id": "3887194",
           "test_url": "https://naurok.com.ua/test-beta/test/3887194",
-          "title": "7 клас · Sport from A to Z: Самоперевірка Спорт · Самоперевірка",
+          "title": "7en69 Sport: Self-check",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -370,7 +480,17 @@
           "assessment_lesson_path": "7/sb-u6-lead-in/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "Sport from A to Z: Самоперевірка Спорт · Самоперевірка",
-          "content_id": "7-sb-u5-self-check-homework-01"
+          "content_id": "7-sb-u5-self-check-homework-01",
+          "previous_title": "7en69 Sport: Self-check",
+          "lesson_naming": {
+            "lesson_code": "7en69",
+            "plan_date": "2027-02-15",
+            "learning_month": 6,
+            "lesson_in_month": 9,
+            "target_title": "7en69 Sport: Self-check",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     }

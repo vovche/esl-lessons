@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "Unusual transport · 6 клас · ESL culture-1",
+  "title": "6en115 Unusual transport",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-culture-1/index.html",
@@ -116,7 +116,7 @@
     },
     "kahoot": {
       "kahoot_id": "7c6baffd-831e-4f5c-9d4b-af1755685bd6",
-      "title": "6 клас · 015 · Unusual transport",
+      "title": "6en115 Unusual transport",
       "editor_url": "https://create.kahoot.it/creator/7c6baffd-831e-4f5c-9d4b-af1755685bd6",
       "status": "homework_created",
       "verified": true,
@@ -175,12 +175,25 @@
           ]
         }
       ],
-      "created_at": "2026-10-25T13:10:27.826668+00:00"
+      "created_at": "2026-10-25T13:10:27.826668+00:00",
+      "previous_title": "6 клас · 015 · Unusual transport",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en115 Unusual transport",
+  "lesson_naming": {
+    "lesson_code": "6en115",
+    "plan_date": "2026-09-29",
+    "learning_month": 1,
+    "lesson_in_month": 15,
+    "target_title": "6en115 Unusual transport",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en115 Unusual transport"
   }
 }

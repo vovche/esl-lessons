@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Are you ready to cook?: Блог і обговорення Приготування їжі · Блог і обговорення",
+  "title": "7en32 Cooking: Blog",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u3-blog/index.html",
@@ -166,12 +166,26 @@
       "assignment_verified": true,
       "content_verified_after_reopen": true,
       "scoring_ui_verified": true,
-      "assessment_lesson_path": "7/sb-u3-vocabulary/"
+      "assessment_lesson_path": "7/sb-u3-vocabulary/",
+      "previous_title": "7 клас · Are you ready to cook?: Блог і обговорення Приготування їжі · Блог і обговорення",
+      "title": "7en32 Cooking: Blog",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en32 Cooking: Blog",
+  "lesson_naming": {
+    "lesson_code": "7en32",
+    "plan_date": "2026-11-03",
+    "learning_month": 3,
+    "lesson_in_month": 2,
+    "target_title": "7en32 Cooking: Blog",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en32 Cooking: Blog"
   }
 }

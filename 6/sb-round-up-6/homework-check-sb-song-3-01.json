@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "Where did it all go wrong? · 6 клас · ESL song-3",
+  "title": "6en76 Where did it all go wrong?",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-song-3/index.html",
@@ -141,12 +141,26 @@
       "normalization_formula": "earned_points / maximum_possible_kahoot_score * 10",
       "course_id": "7572952c-010e-4290-8d43-1a907efd66cc",
       "course_title": "6 клас",
-      "module": 8
+      "module": 8,
+      "previous_title": "Where did it all go wrong? · 6 клас · ESL song-3",
+      "title": "6en76 Where did it all go wrong?",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en76 Where did it all go wrong?",
+  "lesson_naming": {
+    "lesson_code": "6en76",
+    "plan_date": "2027-03-09",
+    "learning_month": 7,
+    "lesson_in_month": 6,
+    "target_title": "6en76 Where did it all go wrong?",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en76 Where did it all go wrong?"
   }
 }

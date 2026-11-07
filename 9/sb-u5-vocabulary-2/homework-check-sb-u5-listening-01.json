@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · Jobs Around Us: Слухання",
+  "title": "9en57 Jobs: Listening",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-u5-listening/index.html",
@@ -98,11 +98,25 @@
         2,
         3
       ]
+    },
+    "kahoot": {
+      "mapping_status": "shared_platform_id_conflict"
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · Jobs Around Us: Слухання",
+  "lesson_naming": {
+    "lesson_code": "9en57",
+    "plan_date": "2027-01-27",
+    "learning_month": 5,
+    "lesson_in_month": 7,
+    "target_title": "9en57 Jobs: Listening",
+    "mapping_method": "section",
+    "status": "pending_external_rename",
+    "kahoot_mapping_status": "shared_platform_id_conflict"
   }
 }

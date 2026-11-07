@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · In and out of school: Повторення Шкільне життя і дозвілля · Повторення",
+  "title": "7en113 School: Review",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u1-look-back/index.html",
@@ -136,7 +136,7 @@
     },
     "kahoot": {
       "kahoot_id": "e2461f4e-e0d5-4830-87f7-eed812eb1698",
-      "title": "7 клас · 013 · Unit 1 review",
+      "title": "7en113 School: Review",
       "editor_url": "https://create.kahoot.it/creator/e2461f4e-e0d5-4830-87f7-eed812eb1698",
       "status": "homework_created",
       "verified": true,
@@ -199,12 +199,25 @@
       "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
       "course_title": "7 клас",
       "module": 1,
-      "course_saved_as": "draft"
+      "course_saved_as": "draft",
+      "previous_title": "7 клас · 013 · Unit 1 review",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en113 School: Review",
+  "lesson_naming": {
+    "lesson_code": "7en113",
+    "plan_date": "2026-09-22",
+    "learning_month": 1,
+    "lesson_in_month": 13,
+    "target_title": "7en113 School: Review",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en113 School: Review"
   }
 }

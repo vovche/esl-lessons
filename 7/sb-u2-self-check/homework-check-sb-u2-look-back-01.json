@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Do your chores: Повторення Домашні справи · Повторення",
+  "title": "7en211 Chores: Review",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u2-look-back/index.html",
@@ -132,7 +132,7 @@
     },
     "kahoot": {
       "kahoot_id": "829a0c3a-f1dd-410a-8ec6-0814a74961d2",
-      "title": "7 клас · 028 · Do your chores: Review",
+      "title": "7en211 Chores: Review",
       "editor_url": "https://create.kahoot.it/creator/829a0c3a-f1dd-410a-8ec6-0814a74961d2",
       "test_url": "https://create.kahoot.it/details/7-028-do-your-chores-review/829a0c3a-f1dd-410a-8ec6-0814a74961d2",
       "status": "homework_created",
@@ -204,12 +204,25 @@
       "live_http_status": 200,
       "live_student_href_count": 1,
       "last_live_exact_href": "https://kahoot.it/challenge/0059021563",
-      "live_verified_at": "2026-10-27T07:48:00+03:00"
+      "live_verified_at": "2026-10-27T07:48:00+03:00",
+      "previous_title": "7 клас · 028 · Do your chores: Review",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en211 Chores: Review",
+  "lesson_naming": {
+    "lesson_code": "7en211",
+    "plan_date": "2026-10-20",
+    "learning_month": 2,
+    "lesson_in_month": 11,
+    "target_title": "7en211 Chores: Review",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en211 Chores: Review"
   }
 }

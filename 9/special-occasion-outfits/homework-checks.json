@@ -4,7 +4,7 @@
   "tests": [
     {
       "id": "9-my-autobiography-homework-01",
-      "title": "9 клас · My story so far — автобіографія",
+      "title": "9en111 My story so far — автобіографія",
       "source_lesson": "9/my-autobiography/index.html",
       "json": "homework-check-my-autobiography-01.json",
       "markdown": "homework-check-my-autobiography-01.md",

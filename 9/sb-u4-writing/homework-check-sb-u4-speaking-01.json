@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · Media in Our Lives: Говоріння",
+  "title": "9en49 Media: Speaking",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-u4-speaking/index.html",
@@ -103,5 +103,15 @@
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · Media in Our Lives: Говоріння",
+  "lesson_naming": {
+    "lesson_code": "9en49",
+    "plan_date": "2026-12-16",
+    "learning_month": 4,
+    "lesson_in_month": 9,
+    "target_title": "9en49 Media: Speaking",
+    "mapping_method": "section",
+    "status": "pending_external_rename"
   }
 }

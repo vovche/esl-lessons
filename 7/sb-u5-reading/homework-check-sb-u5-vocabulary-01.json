@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · 067 · Sport vocabulary",
+  "title": "7en53 Sport: Vocabulary",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u5-vocabulary/index.html",
@@ -132,7 +132,7 @@
     },
     "kahoot": {
       "kahoot_id": "16fb2e23-7da9-4f0d-ae2a-b808476c13e7",
-      "title": "7 клас · 067 · Sport vocabulary",
+      "title": "7en53 Sport: Vocabulary",
       "editor_url": "https://create.kahoot.it/creator/16fb2e23-7da9-4f0d-ae2a-b808476c13e7",
       "assignment_id": "5933232c-296e-4bd4-b8e3-db6c8ce4508c",
       "code": "007758808",
@@ -160,12 +160,25 @@
       "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
       "course_title": "7 клас",
       "course_module": 5,
-      "course_placement_verified": true
+      "course_placement_verified": true,
+      "previous_title": "7 клас · 067 · Sport vocabulary",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en53 Sport: Vocabulary",
+  "lesson_naming": {
+    "lesson_code": "7en53",
+    "plan_date": "2027-01-19",
+    "learning_month": 5,
+    "lesson_in_month": 3,
+    "target_title": "7en53 Sport: Vocabulary",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en53 Sport: Vocabulary"
   }
 }

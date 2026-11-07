@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · Gerund — форма, прийменники й зміст",
+  "title": "9en27 Gerund — форма, прийменники й зміст",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/gerund/index.html",
@@ -122,5 +122,15 @@
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · Gerund — форма, прийменники й зміст",
+  "lesson_naming": {
+    "lesson_code": "9en27",
+    "plan_date": "2026-10-14",
+    "learning_month": 2,
+    "lesson_in_month": 7,
+    "target_title": "9en27 Gerund — форма, прийменники й зміст",
+    "mapping_method": "supplement_section",
+    "status": "pending_external_rename"
   }
 }

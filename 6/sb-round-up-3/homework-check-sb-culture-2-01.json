@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "A place full of stories · 6 клас · ESL culture-2",
+  "title": "6en313 A place full of stories",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-culture-2/index.html",
@@ -120,7 +120,7 @@
     },
     "kahoot": {
       "kahoot_id": "4d3b23a8-db49-4c40-8fea-9432f675badb",
-      "title": "6 клас · 040a · Scotland",
+      "title": "6en313 A place full of stories",
       "editor_url": "https://create.kahoot.it/creator/4d3b23a8-db49-4c40-8fea-9432f675badb",
       "status": "homework_created",
       "verified": true,
@@ -179,12 +179,25 @@
           ]
         }
       ],
-      "created_at": "2026-10-25T14:17:24.202408+00:00"
+      "created_at": "2026-10-25T14:17:24.202408+00:00",
+      "previous_title": "6 клас · 040a · Scotland",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en313 A place full of stories",
+  "lesson_naming": {
+    "lesson_code": "6en313",
+    "plan_date": "2026-11-25",
+    "learning_month": 3,
+    "lesson_in_month": 13,
+    "target_title": "6en313 A place full of stories",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en313 A place full of stories"
   }
 }

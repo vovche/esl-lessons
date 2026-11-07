@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · All About Me: Повторення",
+  "title": "9en112 Me: Review",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-u1-look-back/index.html",
@@ -142,12 +142,24 @@
       "course_membership_verified": true,
       "deadline": null,
       "participants": 0,
-      "no_deadline": true
+      "no_deadline": true,
+      "mapping_status": "shared_platform_id_conflict"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · All About Me: Повторення",
+  "lesson_naming": {
+    "lesson_code": "9en112",
+    "plan_date": "2026-09-22",
+    "learning_month": 1,
+    "lesson_in_month": 12,
+    "target_title": "9en112 Me: Review",
+    "mapping_method": "section",
+    "status": "pending_external_rename",
+    "kahoot_mapping_status": "shared_platform_id_conflict"
   }
 }

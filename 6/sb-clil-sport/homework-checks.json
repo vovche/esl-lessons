@@ -4,7 +4,7 @@
   "tests": [
     {
       "id": "6-sb-clil-geography-homework-01",
-      "title": "A country fact file · 6 клас · ESL clil-geography",
+      "title": "6en313 A country fact file",
       "source_lesson": "6/sb-clil-geography/index.html",
       "json": "homework-check-sb-clil-geography-01.json",
       "markdown": "homework-check-sb-clil-geography-01.md",

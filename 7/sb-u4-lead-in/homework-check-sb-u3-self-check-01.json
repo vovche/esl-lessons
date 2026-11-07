@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Are you ready to cook?: Самоперевірка Приготування їжі · Самоперевірка",
+  "title": "7en316 Cooking: Self-check",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u3-self-check/index.html",
@@ -139,5 +139,15 @@
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en316 Cooking: Self-check",
+  "lesson_naming": {
+    "lesson_code": "7en316",
+    "plan_date": "2026-11-26",
+    "learning_month": 3,
+    "lesson_in_month": 16,
+    "target_title": "7en316 Cooking: Self-check",
+    "mapping_method": "section",
+    "status": "naurok_renamed_pending_kahoot"
   }
 }

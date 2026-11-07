@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Are you ready to cook?: Починаємо юніт Приготування їжі · Починаємо юніт",
+  "title": "7en32 Cooking: Intro",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u3-lead-in/index.html",
@@ -139,7 +139,7 @@
       "verified": true,
       "visibility": "public",
       "kahoot_id": "e6221274-a676-4a84-a05e-bae19d12fb59",
-      "title": "7 клас · 033a · Are you ready to cook?",
+      "title": "7en32 Cooking: Intro",
       "editor_url": "https://create.kahoot.it/creator/e6221274-a676-4a84-a05e-bae19d12fb59",
       "test_url": "https://create.kahoot.it/details/7-033a-are-you-ready-to-cook/e6221274-a676-4a84-a05e-bae19d12fb59",
       "assignment_id": "b1a6a67c-22aa-4b8d-bac4-2cbabcb7fc55",
@@ -180,12 +180,25 @@
       "course_module_number": 3,
       "course_membership_verified": true,
       "quiz_question_count": 8,
-      "verification_evidence": "Existing Kahoot and assignment were found in the Kahoot library and reports before any create action. The 8 quiz items matched the Unit 3 lead-in source; English task prompts were translated to Ukrainian in the Kahoot editor and verified after saving. The report shows no deadline and 0 participants. The Kahoot is public and appears in course 7 клас, module 3."
+      "verification_evidence": "Existing Kahoot and assignment were found in the Kahoot library and reports before any create action. The 8 quiz items matched the Unit 3 lead-in source; English task prompts were translated to Ukrainian in the Kahoot editor and verified after saving. The report shows no deadline and 0 participants. The Kahoot is public and appears in course 7 клас, module 3.",
+      "previous_title": "7 клас · 033a · Are you ready to cook?",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en32 Cooking: Intro",
+  "lesson_naming": {
+    "lesson_code": "7en32",
+    "plan_date": "2026-11-03",
+    "learning_month": 3,
+    "lesson_in_month": 2,
+    "target_title": "7en32 Cooking: Intro",
+    "mapping_method": "unit_lead_in",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en32 Cooking: Intro"
   }
 }

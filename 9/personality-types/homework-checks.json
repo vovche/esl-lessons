@@ -4,7 +4,7 @@
   "tests": [
     {
       "id": "9-online-friends-homework-01",
-      "title": "9 клас · Meet the people — профілі й інтереси",
+      "title": "9en15 Meet the people — профілі й інтереси",
       "source_lesson": "9/online-friends/index.html",
       "json": "homework-check-online-friends-01.json",
       "markdown": "homework-check-online-friends-01.md",

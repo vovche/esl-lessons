@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · Wearing or to wear? — герундій та інфінітив",
+  "title": "9en24 Grammar reference",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/fashion-grammar/index.html",
@@ -131,5 +131,15 @@
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · Wearing or to wear? — герундій та інфінітив",
+  "lesson_naming": {
+    "lesson_code": "9en24",
+    "plan_date": "2026-10-07",
+    "learning_month": 2,
+    "lesson_in_month": 4,
+    "target_title": "9en24 Grammar reference",
+    "mapping_method": "supplement_section",
+    "status": "pending_external_rename"
   }
 }

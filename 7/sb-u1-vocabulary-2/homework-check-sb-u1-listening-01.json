@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · In and out of school: Слухання Шкільне життя і дозвілля · Слухання",
+  "title": "7en18 School: Listening",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u1-listening/index.html",
@@ -136,7 +136,7 @@
     },
     "kahoot": {
       "kahoot_id": "cee30835-0941-40fd-9275-ae9e35151397",
-      "title": "7 клас · 008 · School show",
+      "title": "7en18 School: Listening",
       "editor_url": "https://create.kahoot.it/creator/cee30835-0941-40fd-9275-ae9e35151397",
       "status": "homework_created",
       "verified": true,
@@ -199,12 +199,25 @@
       "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
       "course_title": "7 клас",
       "module": 1,
-      "course_saved_as": "draft"
+      "course_saved_as": "draft",
+      "previous_title": "7 клас · 008 · School show",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en18 School: Listening",
+  "lesson_naming": {
+    "lesson_code": "7en18",
+    "plan_date": "2026-09-14",
+    "learning_month": 1,
+    "lesson_in_month": 8,
+    "target_title": "7en18 School: Listening",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en18 School: Listening"
   }
 }

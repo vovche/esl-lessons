@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · What is there to see and to do?: Самоперевірка Подорожі й визначні місця · Самоперевірка",
+  "title": "7en912 Travel: Self-check",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u8-self-check/index.html",
@@ -132,14 +132,11 @@
       ]
     },
     "kahoot": {
-      "id": "5b6b7df7-170a-4e7c-9553-e8b2b176d3ac",
-      "editor_url": "https://create.kahoot.it/creator/5b6b7df7-170a-4e7c-9553-e8b2b176d3ac",
-      "test_url": "https://create.kahoot.it/details/7-107/5b6b7df7-170a-4e7c-9553-e8b2b176d3ac",
-      "title": "7 клас · 107 · Подорожі: повторення",
+      "id": "4785fb53-e141-4e28-9e42-e09f4866ff27",
+      "editor_url": "https://create.kahoot.it/creator/4785fb53-e141-4e28-9e42-e09f4866ff27",
       "status": "homework_created",
       "verified": true,
       "visibility": "private",
-      "publication_pending_confirmation": true,
       "question_count": 8,
       "content_slide_count": 1,
       "kahoot_question_weights": [
@@ -154,32 +151,37 @@
       ],
       "normalization_max": 10,
       "normalization_formula": "earned_points / maximum_possible_points * 10",
-      "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
-      "course_title": "7 клас",
-      "course_module": 8,
-      "course_module_actual": 8,
-      "course_membership_verified": true,
-      "assignment_id": "9c4a8ca6-0d29-4b77-91bf-57348f7e765f",
-      "code": "00699587",
-      "student_url": "https://kahoot.it/challenge/00699587",
-      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/9c4a8ca6-0d29-4b77-91bf-57348f7e765f/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793294137031/summary",
+      "assignment_id": "5866534e-5bb4-4198-b079-230ba1bc49b5",
+      "code": "001451034",
+      "student_url": "https://kahoot.it/challenge/001451034",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/5866534e-5bb4-4198-b079-230ba1bc49b5/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1794054169601/summary",
       "deadline": null,
       "no_deadline": true,
       "question_timer": false,
       "randomize_answer_order": true,
-      "student_entry_verified": true,
-      "assignment_verified": true,
+      "student_entry_verified": false,
       "content_verified_after_reopen": true,
-      "assessment_lesson_path": "7/sb-u8-self-check/",
-      "created_on": "2026-10-29",
-      "updated_on": "2026-10-29",
-      "reuse_of": "7-sb-u8-look-back-homework-01",
-      "reuse_reason": "Same prompts, correct answers, and point weights; only multiple-choice option order differs."
+      "previous_title": "7 клас · 107 · Подорожі: повторення",
+      "title": "7en912 Travel: Self-check",
+      "renamed_verified_on": "2026-11-07",
+      "cloned_from_kahoot_id": "5b6b7df7-170a-4e7c-9553-e8b2b176d3ac",
+      "content_match_verified": true
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en912 Travel: Self-check",
+  "lesson_naming": {
+    "lesson_code": "7en912",
+    "plan_date": "2027-05-20",
+    "learning_month": 9,
+    "lesson_in_month": 12,
+    "target_title": "7en912 Travel: Self-check",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en912 Travel: Self-check"
   }
 }

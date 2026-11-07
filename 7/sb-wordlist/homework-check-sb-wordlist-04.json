@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Лексика курсу — Unit 4",
+  "title": "7en413 Wordlist Unit 4",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-wordlist/index.html",
@@ -158,5 +158,15 @@
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7 клас · Лексика курсу — Unit 4",
+  "lesson_naming": {
+    "lesson_code": "7en413",
+    "plan_date": "2026-12-22",
+    "learning_month": 4,
+    "lesson_in_month": 13,
+    "target_title": "7en413 Wordlist Unit 4",
+    "mapping_method": "unit_reference",
+    "status": "pending_external_rename"
   }
 }

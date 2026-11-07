@@ -4,7 +4,7 @@
   "tests": [
     {
       "id": "7-home-stories-homework-01",
-      "title": "7 клас · Our home story — розповідаємо про дім",
+      "title": "7en23 Home stories",
       "source_lesson": "7/home-stories/index.html",
       "json": "homework-check-home-stories-01.json",
       "markdown": "homework-check-home-stories-01.md",
@@ -17,7 +17,7 @@
     },
     {
       "id": "7-past-continuous-questions-homework-01",
-      "title": "7 клас · What were you doing — минула тривала дія",
+      "title": "7en310 Past continuous",
       "source_lesson": "7/past-continuous-questions/index.html",
       "json": "homework-check-past-continuous-questions-01.json",
       "markdown": "homework-check-past-continuous-questions-01.md",

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · Fashion All the Way: Починаємо тему",
+  "title": "9en115 Fashion: Intro",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-u2-lead-in/index.html",
@@ -103,5 +103,15 @@
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · Fashion All the Way: Починаємо тему",
+  "lesson_naming": {
+    "lesson_code": "9en115",
+    "plan_date": "2026-09-29",
+    "learning_month": 1,
+    "lesson_in_month": 15,
+    "target_title": "9en115 Fashion: Intro",
+    "mapping_method": "unit_lead_in",
+    "status": "pending_external_rename"
   }
 }

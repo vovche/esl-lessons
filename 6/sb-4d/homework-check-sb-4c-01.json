@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "City vs countryside · 6 клас · ESL 4c",
+  "title": "6en44 City vs countryside",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-4c/index.html",
@@ -120,7 +120,7 @@
     },
     "kahoot": {
       "kahoot_id": "d0c36874-d55d-4d9f-a8a2-67bba3f084ef",
-      "title": "6 клас · 046 · City vs countryside",
+      "title": "6en44 City vs countryside",
       "editor_url": "https://create.kahoot.it/creator/d0c36874-d55d-4d9f-a8a2-67bba3f084ef",
       "status": "homework_created",
       "verified": true,
@@ -179,12 +179,25 @@
           ]
         }
       ],
-      "created_at": "2026-10-25T14:26:44.643285+00:00"
+      "created_at": "2026-10-25T14:26:44.643285+00:00",
+      "previous_title": "6 клас · 046 · City vs countryside",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en44 City vs countryside",
+  "lesson_naming": {
+    "lesson_code": "6en44",
+    "plan_date": "2026-12-08",
+    "learning_month": 4,
+    "lesson_in_month": 4,
+    "target_title": "6en44 City vs countryside",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en44 City vs countryside"
   }
 }

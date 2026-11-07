@@ -4,7 +4,7 @@
   "tests": [
     {
       "id": "6-sb-learning-tips-homework-01",
-      "title": "Learn and create · 6 клас · ESL learning-tips",
+      "title": "6en11 Learn and create",
       "source_lesson": "6/sb-learning-tips/index.html",
       "json": "homework-check-sb-learning-tips-01.json",
       "markdown": "homework-check-sb-learning-tips-01.md",
@@ -16,7 +16,7 @@
     },
     {
       "id": "6-sb-pair-work-homework-01",
-      "title": "Talk together · 6 клас · ESL pair-work",
+      "title": "6en116 Talk together",
       "source_lesson": "6/sb-pair-work/index.html",
       "json": "homework-check-sb-pair-work-01.json",
       "markdown": "homework-check-sb-pair-work-01.md",

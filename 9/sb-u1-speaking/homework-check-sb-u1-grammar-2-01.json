@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · All About Me: Граматика в контексті",
+  "title": "9en19 Me: Grammar practice",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-u1-grammar-2/index.html",
@@ -107,5 +107,15 @@
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · All About Me: Граматика в контексті",
+  "lesson_naming": {
+    "lesson_code": "9en19",
+    "plan_date": "2026-09-16",
+    "learning_month": 1,
+    "lesson_in_month": 9,
+    "target_title": "9en19 Me: Grammar practice",
+    "mapping_method": "section",
+    "status": "pending_external_rename"
   }
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · From Ukraine to the UK and Beyond: Читання",
+  "title": "9en813 Ukraine & UK: Reading",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-u8-reading/index.html",
@@ -140,12 +140,24 @@
           "note": "Long travel-planning context split into two context slides; prompts are Ukrainian while English learning material remains intact."
         }
       ],
-      "reused_existing_assignment": true
+      "reused_existing_assignment": true,
+      "mapping_status": "shared_platform_id_conflict"
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · From Ukraine to the UK and Beyond: Читання",
+  "lesson_naming": {
+    "lesson_code": "9en813",
+    "plan_date": "2027-04-27",
+    "learning_month": 8,
+    "lesson_in_month": 13,
+    "target_title": "9en813 Ukraine & UK: Reading",
+    "mapping_method": "section",
+    "status": "pending_external_rename",
+    "kahoot_mapping_status": "shared_platform_id_conflict"
   }
 }

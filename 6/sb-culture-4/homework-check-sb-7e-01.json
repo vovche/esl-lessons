@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "Teen problems · 6 клас · ESL 7e",
+  "title": "6en84 Teen problems",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-7e/index.html",
@@ -120,7 +120,7 @@
     },
     "kahoot": {
       "id": "ab9107df-9d84-4d42-a2bc-0ef9c50e0099",
-      "title": "6 клас · 082 · Teen problems",
+      "title": "6en84 Teen problems",
       "editor_url": "https://create.kahoot.it/creator/ab9107df-9d84-4d42-a2bc-0ef9c50e0099",
       "status": "homework_created",
       "verified": true,
@@ -157,12 +157,25 @@
       "created_at": "2026-10-26T19:20:24Z",
       "adaptations": [
         "Письмові відповіді залишено для трьох слів; текст читання збережено на двох слайдах."
-      ]
+      ],
+      "previous_title": "6 клас · 082 · Teen problems",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en84 Teen problems",
+  "lesson_naming": {
+    "lesson_code": "6en84",
+    "plan_date": "2027-04-07",
+    "learning_month": 8,
+    "lesson_in_month": 4,
+    "target_title": "6en84 Teen problems",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en84 Teen problems"
   }
 }

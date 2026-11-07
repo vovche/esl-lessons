@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · Граматика курсу — Units 5–8",
+  "title": "9en98 Grammar reference",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-grammar/index.html",
@@ -118,5 +118,15 @@
     "deadline": "2027-06-01T23:00",
     "semester": "annual",
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · Граматика курсу — Units 5–8",
+  "lesson_naming": {
+    "lesson_code": "9en98",
+    "plan_date": "2027-05-17",
+    "learning_month": 9,
+    "lesson_in_month": 8,
+    "target_title": "9en98 Grammar reference",
+    "mapping_method": "course_reference",
+    "status": "pending_external_rename"
   }
 }

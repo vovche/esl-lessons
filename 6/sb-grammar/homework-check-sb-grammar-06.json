@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "6 клас · Grammar Reference · Unit 6",
+  "title": "6en75 Grammar Reference Unit 6",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-grammar/index.html",
@@ -120,12 +120,26 @@
           "reason": "typed_answer_exceeds_20_characters",
           "approved": true
         }
-      ]
+      ],
+      "previous_title": "6en75 Grammar Reference Unit 6",
+      "title": "6en75 Grammar Reference Unit 6",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en75 Grammar Reference Unit 6",
+  "lesson_naming": {
+    "lesson_code": "6en75",
+    "plan_date": "2027-03-08",
+    "learning_month": 7,
+    "lesson_in_month": 5,
+    "target_title": "6en75 Grammar Reference Unit 6",
+    "mapping_method": "unit_reference",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en75 Grammar Reference Unit 6"
   }
 }

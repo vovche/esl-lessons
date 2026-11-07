@@ -8,7 +8,7 @@
         {
           "test_id": "3886963",
           "builder_url": "https://naurok.com.ua/test/builder/3886963",
-          "title": "9 клас · Jobs Around Us: Блог і думки однолітків",
+          "title": "9en51 Jobs: Blog",
           "points": 10,
           "question_points": [
             1,
@@ -31,7 +31,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "Jobs Around Us: Блог і думки однолітків Професії та вибір майбутнього: Блог і думки однолітків",
           "plan_path": "9/sb-u5-vocabulary/homework-check-sb-u5-blog-01.json",
-          "content_id": "9-sb-u5-blog-homework-01"
+          "content_id": "9-sb-u5-blog-homework-01",
+          "previous_title": "9 клас · Jobs Around Us: Блог і думки однолітків",
+          "lesson_naming": {
+            "lesson_code": "9en51",
+            "plan_date": "2027-01-14",
+            "learning_month": 5,
+            "lesson_in_month": 1,
+            "target_title": "9en51 Jobs: Blog",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -41,7 +51,7 @@
         {
           "test_id": "3886968",
           "builder_url": "https://naurok.com.ua/test/builder/3886968",
-          "title": "9 клас · Jobs Around Us: Граматика",
+          "title": "9en56 Jobs: Grammar",
           "points": 10,
           "question_points": [
             1,
@@ -64,7 +74,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "Jobs Around Us: Граматика Професії та вибір майбутнього: Граматика",
           "plan_path": "9/sb-u5-listening/homework-check-sb-u5-grammar-01.json",
-          "content_id": "9-sb-u5-grammar-homework-01"
+          "content_id": "9-sb-u5-grammar-homework-01",
+          "previous_title": "9 клас · Jobs Around Us: Граматика",
+          "lesson_naming": {
+            "lesson_code": "9en56",
+            "plan_date": "2027-01-26",
+            "learning_month": 5,
+            "lesson_in_month": 6,
+            "target_title": "9en56 Jobs: Grammar",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -74,7 +94,7 @@
         {
           "test_id": "3886972",
           "builder_url": "https://naurok.com.ua/test/builder/3886972",
-          "title": "9 клас · Jobs Around Us: Граматика в контексті",
+          "title": "9en61 Jobs: Grammar practice",
           "points": 10,
           "question_points": [
             1,
@@ -97,7 +117,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "Jobs Around Us: Граматика в контексті Професії та вибір майбутнього: Граматика в контексті",
           "plan_path": "9/sb-u5-speaking/homework-check-sb-u5-grammar-2-01.json",
-          "content_id": "9-sb-u5-grammar-2-homework-01"
+          "content_id": "9-sb-u5-grammar-2-homework-01",
+          "previous_title": "9 клас · Jobs Around Us: Граматика в контексті",
+          "lesson_naming": {
+            "lesson_code": "9en61",
+            "plan_date": "2027-02-02",
+            "learning_month": 6,
+            "lesson_in_month": 1,
+            "target_title": "9en61 Jobs: Grammar practice",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -107,7 +137,7 @@
         {
           "test_id": "3886975",
           "builder_url": "https://naurok.com.ua/test/builder/3886975",
-          "title": "9 клас · Jobs Around Us: Починаємо тему",
+          "title": "9en51 Jobs: Intro",
           "points": 10,
           "question_points": [
             1,
@@ -130,7 +160,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "Jobs Around Us: Починаємо тему Професії та вибір майбутнього: Починаємо тему",
           "plan_path": "9/sb-u5-blog/homework-check-sb-u5-lead-in-01.json",
-          "content_id": "9-sb-u5-lead-in-homework-01"
+          "content_id": "9-sb-u5-lead-in-homework-01",
+          "previous_title": "9 клас · Jobs Around Us: Починаємо тему",
+          "lesson_naming": {
+            "lesson_code": "9en51",
+            "plan_date": "2027-01-14",
+            "learning_month": 5,
+            "lesson_in_month": 1,
+            "target_title": "9en51 Jobs: Intro",
+            "mapping_method": "unit_lead_in",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -140,7 +180,7 @@
         {
           "test_id": "3886979",
           "builder_url": "https://naurok.com.ua/test/builder/3886979",
-          "title": "9 клас · Jobs Around Us: Слухання",
+          "title": "9en57 Jobs: Listening",
           "points": 10,
           "question_points": [
             1,
@@ -163,7 +203,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "Jobs Around Us: Слухання Професії та вибір майбутнього: Слухання",
           "plan_path": "9/sb-u5-vocabulary-2/homework-check-sb-u5-listening-01.json",
-          "content_id": "9-sb-u5-listening-homework-01"
+          "content_id": "9-sb-u5-listening-homework-01",
+          "previous_title": "9 клас · Jobs Around Us: Слухання",
+          "lesson_naming": {
+            "lesson_code": "9en57",
+            "plan_date": "2027-01-27",
+            "learning_month": 5,
+            "lesson_in_month": 7,
+            "target_title": "9en57 Jobs: Listening",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -173,7 +223,7 @@
         {
           "test_id": "3886982",
           "builder_url": "https://naurok.com.ua/test/builder/3886982",
-          "title": "9 клас · Jobs Around Us: Повторення",
+          "title": "9en64 Jobs: Review",
           "points": 10,
           "question_points": [
             1,
@@ -196,7 +246,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "Jobs Around Us: Повторення Професії та вибір майбутнього: Повторення",
           "plan_path": "9/sb-u5-self-check/homework-check-sb-u5-look-back-01.json",
-          "content_id": "9-sb-u5-look-back-homework-01"
+          "content_id": "9-sb-u5-look-back-homework-01",
+          "previous_title": "9 клас · Jobs Around Us: Повторення",
+          "lesson_naming": {
+            "lesson_code": "9en64",
+            "plan_date": "2027-02-08",
+            "learning_month": 6,
+            "lesson_in_month": 4,
+            "target_title": "9en64 Jobs: Review",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -206,7 +266,7 @@
         {
           "test_id": "3886985",
           "builder_url": "https://naurok.com.ua/test/builder/3886985",
-          "title": "9 клас · Jobs Around Us: Читання",
+          "title": "9en54 Jobs: Reading",
           "points": 10,
           "question_points": [
             1,
@@ -229,7 +289,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "Jobs Around Us: Читання Професії та вибір майбутнього: Читання",
           "plan_path": "9/sb-u5-grammar/homework-check-sb-u5-reading-01.json",
-          "content_id": "9-sb-u5-reading-homework-01"
+          "content_id": "9-sb-u5-reading-homework-01",
+          "previous_title": "9 клас · Jobs Around Us: Читання",
+          "lesson_naming": {
+            "lesson_code": "9en54",
+            "plan_date": "2027-01-21",
+            "learning_month": 5,
+            "lesson_in_month": 4,
+            "target_title": "9en54 Jobs: Reading",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -239,7 +309,7 @@
         {
           "test_id": "3886988",
           "builder_url": "https://naurok.com.ua/test/builder/3886988",
-          "title": "9 клас · Jobs Around Us: Самооцінювання",
+          "title": "9en66 Jobs: Self-check",
           "points": 10,
           "question_points": [
             1,
@@ -262,7 +332,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "Jobs Around Us: Самооцінювання Професії та вибір майбутнього: Самооцінювання",
           "plan_path": "9/sb-u6-lead-in/homework-check-sb-u5-self-check-01.json",
-          "content_id": "9-sb-u5-self-check-homework-01"
+          "content_id": "9-sb-u5-self-check-homework-01",
+          "previous_title": "9 клас · Jobs Around Us: Самооцінювання",
+          "lesson_naming": {
+            "lesson_code": "9en66",
+            "plan_date": "2027-02-10",
+            "learning_month": 6,
+            "lesson_in_month": 6,
+            "target_title": "9en66 Jobs: Self-check",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -272,7 +352,7 @@
         {
           "test_id": "3886993",
           "builder_url": "https://naurok.com.ua/test/builder/3886993",
-          "title": "9 клас · Jobs Around Us: Говоріння",
+          "title": "9en62 Jobs: Speaking",
           "points": 10,
           "question_points": [
             1,
@@ -295,7 +375,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "Jobs Around Us: Говоріння Професії та вибір майбутнього: Говоріння",
           "plan_path": "9/sb-u5-writing/homework-check-sb-u5-speaking-01.json",
-          "content_id": "9-sb-u5-speaking-homework-01"
+          "content_id": "9-sb-u5-speaking-homework-01",
+          "previous_title": "9 клас · Jobs Around Us: Говоріння",
+          "lesson_naming": {
+            "lesson_code": "9en62",
+            "plan_date": "2027-02-03",
+            "learning_month": 6,
+            "lesson_in_month": 2,
+            "target_title": "9en62 Jobs: Speaking",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -305,7 +395,7 @@
         {
           "test_id": "3886994",
           "builder_url": "https://naurok.com.ua/test/builder/3886994",
-          "title": "9 клас · Jobs Around Us: Слова й словосполучення",
+          "title": "9en53 Jobs: Vocabulary",
           "points": 10,
           "question_points": [
             1,
@@ -328,7 +418,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "Jobs Around Us: Слова й словосполучення Професії та вибір майбутнього: Слова й словосполучення",
           "plan_path": "9/sb-u5-reading/homework-check-sb-u5-vocabulary-01.json",
-          "content_id": "9-sb-u5-vocabulary-homework-01"
+          "content_id": "9-sb-u5-vocabulary-homework-01",
+          "previous_title": "9 клас · Jobs Around Us: Слова й словосполучення",
+          "lesson_naming": {
+            "lesson_code": "9en53",
+            "plan_date": "2027-01-20",
+            "learning_month": 5,
+            "lesson_in_month": 3,
+            "target_title": "9en53 Jobs: Vocabulary",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -338,7 +438,7 @@
         {
           "test_id": "3886999",
           "builder_url": "https://naurok.com.ua/test/builder/3886999",
-          "title": "9 клас · Jobs Around Us: Лексика в контексті",
+          "title": "9en58 Jobs: Vocabulary practice",
           "points": 10,
           "question_points": [
             1,
@@ -361,7 +461,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "Jobs Around Us: Лексика в контексті Професії та вибір майбутнього: Лексика в контексті",
           "plan_path": "9/sb-u5-grammar-2/homework-check-sb-u5-vocabulary-2-01.json",
-          "content_id": "9-sb-u5-vocabulary-2-homework-01"
+          "content_id": "9-sb-u5-vocabulary-2-homework-01",
+          "previous_title": "9 клас · Jobs Around Us: Лексика в контексті",
+          "lesson_naming": {
+            "lesson_code": "9en58",
+            "plan_date": "2027-01-28",
+            "learning_month": 5,
+            "lesson_in_month": 8,
+            "target_title": "9en58 Jobs: Vocabulary practice",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -371,7 +481,7 @@
         {
           "test_id": "3887002",
           "builder_url": "https://naurok.com.ua/test/builder/3887002",
-          "title": "9 клас · Jobs Around Us: Письмо",
+          "title": "9en63 Jobs: Writing",
           "points": 10,
           "question_points": [
             1,
@@ -394,7 +504,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "Jobs Around Us: Письмо Професії та вибір майбутнього: Письмо",
           "plan_path": "9/sb-u5-look-back/homework-check-sb-u5-writing-01.json",
-          "content_id": "9-sb-u5-writing-homework-01"
+          "content_id": "9-sb-u5-writing-homework-01",
+          "previous_title": "9 клас · Jobs Around Us: Письмо",
+          "lesson_naming": {
+            "lesson_code": "9en63",
+            "plan_date": "2027-02-04",
+            "learning_month": 6,
+            "lesson_in_month": 3,
+            "target_title": "9en63 Jobs: Writing",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -404,7 +524,7 @@
         {
           "test_id": "3887005",
           "builder_url": "https://naurok.com.ua/test/builder/3887005",
-          "title": "9 клас · Science Meets Technology: Блог і думки однолітків",
+          "title": "9en67 Science & tech: Blog",
           "points": 10,
           "question_points": [
             1,
@@ -427,7 +547,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "Science Meets Technology: Блог і думки однолітків Наука і технології: Блог і думки однолітків",
           "plan_path": "9/sb-u6-vocabulary/homework-check-sb-u6-blog-01.json",
-          "content_id": "9-sb-u6-blog-homework-01"
+          "content_id": "9-sb-u6-blog-homework-01",
+          "previous_title": "9 клас · Science Meets Technology: Блог і думки однолітків",
+          "lesson_naming": {
+            "lesson_code": "9en67",
+            "plan_date": "2027-02-11",
+            "learning_month": 6,
+            "lesson_in_month": 7,
+            "target_title": "9en67 Science & tech: Blog",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -437,7 +567,7 @@
         {
           "test_id": "3887008",
           "builder_url": "https://naurok.com.ua/test/builder/3887008",
-          "title": "9 клас · Science Meets Technology: Граматика",
+          "title": "9en612 Science & tech: Grammar",
           "points": 10,
           "question_points": [
             1,
@@ -460,7 +590,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "Science Meets Technology: Граматика Наука і технології: Граматика",
           "plan_path": "9/sb-u6-listening/homework-check-sb-u6-grammar-01.json",
-          "content_id": "9-sb-u6-grammar-homework-01"
+          "content_id": "9-sb-u6-grammar-homework-01",
+          "previous_title": "9 клас · Science Meets Technology: Граматика",
+          "lesson_naming": {
+            "lesson_code": "9en612",
+            "plan_date": "2027-02-23",
+            "learning_month": 6,
+            "lesson_in_month": 12,
+            "target_title": "9en612 Science & tech: Grammar",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -470,7 +610,7 @@
         {
           "test_id": "3887011",
           "builder_url": "https://naurok.com.ua/test/builder/3887011",
-          "title": "9 клас · Science Meets Technology: Граматика в контексті",
+          "title": "9en72 Science & tech: Grammar practice",
           "points": 10,
           "question_points": [
             1,
@@ -493,7 +633,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "Science Meets Technology: Граматика в контексті Наука і технології: Граматика в контексті",
           "plan_path": "9/sb-u6-speaking/homework-check-sb-u6-grammar-2-01.json",
-          "content_id": "9-sb-u6-grammar-2-homework-01"
+          "content_id": "9-sb-u6-grammar-2-homework-01",
+          "previous_title": "9 клас · Science Meets Technology: Граматика в контексті",
+          "lesson_naming": {
+            "lesson_code": "9en72",
+            "plan_date": "2027-03-03",
+            "learning_month": 7,
+            "lesson_in_month": 2,
+            "target_title": "9en72 Science & tech: Grammar practice",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -503,7 +653,7 @@
         {
           "test_id": "3887014",
           "builder_url": "https://naurok.com.ua/test/builder/3887014",
-          "title": "9 клас · Science Meets Technology: Починаємо тему",
+          "title": "9en67 Science & tech: Intro",
           "points": 10,
           "question_points": [
             1,
@@ -526,7 +676,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "Science Meets Technology: Починаємо тему Наука і технології: Починаємо тему",
           "plan_path": "9/sb-u6-blog/homework-check-sb-u6-lead-in-01.json",
-          "content_id": "9-sb-u6-lead-in-homework-01"
+          "content_id": "9-sb-u6-lead-in-homework-01",
+          "previous_title": "9 клас · Science Meets Technology: Починаємо тему",
+          "lesson_naming": {
+            "lesson_code": "9en67",
+            "plan_date": "2027-02-11",
+            "learning_month": 6,
+            "lesson_in_month": 7,
+            "target_title": "9en67 Science & tech: Intro",
+            "mapping_method": "unit_lead_in",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -536,7 +696,7 @@
         {
           "test_id": "3887017",
           "builder_url": "https://naurok.com.ua/test/builder/3887017",
-          "title": "9 клас · Science Meets Technology: Слухання",
+          "title": "9en614 Science & tech: Listening",
           "points": 10,
           "question_points": [
             1,
@@ -559,7 +719,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "Science Meets Technology: Слухання Наука і технології: Слухання",
           "plan_path": "9/sb-u6-vocabulary-2/homework-check-sb-u6-listening-01.json",
-          "content_id": "9-sb-u6-listening-homework-01"
+          "content_id": "9-sb-u6-listening-homework-01",
+          "previous_title": "9 клас · Science Meets Technology: Слухання",
+          "lesson_naming": {
+            "lesson_code": "9en614",
+            "plan_date": "2027-02-25",
+            "learning_month": 6,
+            "lesson_in_month": 14,
+            "target_title": "9en614 Science & tech: Listening",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -569,7 +739,7 @@
         {
           "test_id": "3887022",
           "builder_url": "https://naurok.com.ua/test/builder/3887022",
-          "title": "9 клас · Science Meets Technology: Повторення",
+          "title": "9en75 Science & tech: Review",
           "points": 10,
           "question_points": [
             1,
@@ -592,7 +762,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "Science Meets Technology: Повторення Наука і технології: Повторення",
           "plan_path": "9/sb-u6-self-check/homework-check-sb-u6-look-back-01.json",
-          "content_id": "9-sb-u6-look-back-homework-01"
+          "content_id": "9-sb-u6-look-back-homework-01",
+          "previous_title": "9 клас · Science Meets Technology: Повторення",
+          "lesson_naming": {
+            "lesson_code": "9en75",
+            "plan_date": "2027-03-09",
+            "learning_month": 7,
+            "lesson_in_month": 5,
+            "target_title": "9en75 Science & tech: Review",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -602,7 +782,7 @@
         {
           "test_id": "3887024",
           "builder_url": "https://naurok.com.ua/test/builder/3887024",
-          "title": "9 клас · Science Meets Technology: Читання",
+          "title": "9en610 Science & tech: Reading",
           "points": 10,
           "question_points": [
             1,
@@ -625,7 +805,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "Science Meets Technology: Читання Наука і технології: Читання",
           "plan_path": "9/sb-u6-grammar/homework-check-sb-u6-reading-01.json",
-          "content_id": "9-sb-u6-reading-homework-01"
+          "content_id": "9-sb-u6-reading-homework-01",
+          "previous_title": "9 клас · Science Meets Technology: Читання",
+          "lesson_naming": {
+            "lesson_code": "9en610",
+            "plan_date": "2027-02-18",
+            "learning_month": 6,
+            "lesson_in_month": 10,
+            "target_title": "9en610 Science & tech: Reading",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -635,7 +825,7 @@
         {
           "test_id": "3887029",
           "builder_url": "https://naurok.com.ua/test/builder/3887029",
-          "title": "9 клас · Science Meets Technology: Самооцінювання",
+          "title": "9en76 Science & tech: Self-check",
           "points": 10,
           "question_points": [
             1,
@@ -658,7 +848,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "Science Meets Technology: Самооцінювання Наука і технології: Самооцінювання",
           "plan_path": "9/sb-u7-lead-in/homework-check-sb-u6-self-check-01.json",
-          "content_id": "9-sb-u6-self-check-homework-01"
+          "content_id": "9-sb-u6-self-check-homework-01",
+          "previous_title": "9 клас · Science Meets Technology: Самооцінювання",
+          "lesson_naming": {
+            "lesson_code": "9en76",
+            "plan_date": "2027-03-10",
+            "learning_month": 7,
+            "lesson_in_month": 6,
+            "target_title": "9en76 Science & tech: Self-check",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -668,7 +868,7 @@
         {
           "test_id": "3887032",
           "builder_url": "https://naurok.com.ua/test/builder/3887032",
-          "title": "9 клас · Science Meets Technology: Говоріння",
+          "title": "9en73 Science & tech: Speaking",
           "points": 10,
           "question_points": [
             1,
@@ -691,7 +891,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "Science Meets Technology: Говоріння Наука і технології: Говоріння",
           "plan_path": "9/sb-u6-writing/homework-check-sb-u6-speaking-01.json",
-          "content_id": "9-sb-u6-speaking-homework-01"
+          "content_id": "9-sb-u6-speaking-homework-01",
+          "previous_title": "9 клас · Science Meets Technology: Говоріння",
+          "lesson_naming": {
+            "lesson_code": "9en73",
+            "plan_date": "2027-03-04",
+            "learning_month": 7,
+            "lesson_in_month": 3,
+            "target_title": "9en73 Science & tech: Speaking",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -701,7 +911,7 @@
         {
           "test_id": "3887038",
           "builder_url": "https://naurok.com.ua/test/builder/3887038",
-          "title": "9 клас · Science Meets Technology: Слова й словосполучення",
+          "title": "9en69 Science & tech: Vocabulary",
           "points": 10,
           "question_points": [
             1,
@@ -724,7 +934,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "Science Meets Technology: Слова й словосполучення Наука і технології: Слова й словосполучення",
           "plan_path": "9/sb-u6-reading/homework-check-sb-u6-vocabulary-01.json",
-          "content_id": "9-sb-u6-vocabulary-homework-01"
+          "content_id": "9-sb-u6-vocabulary-homework-01",
+          "previous_title": "9 клас · Science Meets Technology: Слова й словосполучення",
+          "lesson_naming": {
+            "lesson_code": "9en69",
+            "plan_date": "2027-02-17",
+            "learning_month": 6,
+            "lesson_in_month": 9,
+            "target_title": "9en69 Science & tech: Vocabulary",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -734,7 +954,7 @@
         {
           "test_id": "3887040",
           "builder_url": "https://naurok.com.ua/test/builder/3887040",
-          "title": "9 клас · Science Meets Technology: Лексика в контексті",
+          "title": "9en71 Science & tech: Vocabulary practice",
           "points": 10,
           "question_points": [
             1,
@@ -757,7 +977,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "Science Meets Technology: Лексика в контексті Наука і технології: Лексика в контексті",
           "plan_path": "9/sb-u6-grammar-2/homework-check-sb-u6-vocabulary-2-01.json",
-          "content_id": "9-sb-u6-vocabulary-2-homework-01"
+          "content_id": "9-sb-u6-vocabulary-2-homework-01",
+          "previous_title": "9 клас · Science Meets Technology: Лексика в контексті",
+          "lesson_naming": {
+            "lesson_code": "9en71",
+            "plan_date": "2027-03-02",
+            "learning_month": 7,
+            "lesson_in_month": 1,
+            "target_title": "9en71 Science & tech: Vocabulary practice",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -767,7 +997,7 @@
         {
           "test_id": "3887043",
           "builder_url": "https://naurok.com.ua/test/builder/3887043",
-          "title": "9 клас · Science Meets Technology: Письмо",
+          "title": "9en74 Science & tech: Writing",
           "points": 10,
           "question_points": [
             1,
@@ -790,7 +1020,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "Science Meets Technology: Письмо Наука і технології: Письмо",
           "plan_path": "9/sb-u6-look-back/homework-check-sb-u6-writing-01.json",
-          "content_id": "9-sb-u6-writing-homework-01"
+          "content_id": "9-sb-u6-writing-homework-01",
+          "previous_title": "9 клас · Science Meets Technology: Письмо",
+          "lesson_naming": {
+            "lesson_code": "9en74",
+            "plan_date": "2027-03-08",
+            "learning_month": 7,
+            "lesson_in_month": 4,
+            "target_title": "9en74 Science & tech: Writing",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -800,7 +1040,7 @@
         {
           "test_id": "3887046",
           "builder_url": "https://naurok.com.ua/test/builder/3887046",
-          "title": "9 клас · Think Green, Live Green: Блог і думки однолітків",
+          "title": "9en78 Environment: Blog",
           "points": 10,
           "question_points": [
             1,
@@ -823,7 +1063,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "Think Green, Live Green: Блог і думки однолітків Думай і живи екологічно: Блог і думки однолітків",
           "plan_path": "9/sb-u7-vocabulary/homework-check-sb-u7-blog-01.json",
-          "content_id": "9-sb-u7-blog-homework-01"
+          "content_id": "9-sb-u7-blog-homework-01",
+          "previous_title": "9 клас · Think Green, Live Green: Блог і думки однолітків",
+          "lesson_naming": {
+            "lesson_code": "9en78",
+            "plan_date": "2027-03-16",
+            "learning_month": 7,
+            "lesson_in_month": 8,
+            "target_title": "9en78 Environment: Blog",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -833,7 +1083,7 @@
         {
           "test_id": "3887051",
           "builder_url": "https://naurok.com.ua/test/builder/3887051",
-          "title": "9 клас · Think Green, Live Green: Граматика",
+          "title": "9en81 Environment: Grammar",
           "points": 10,
           "question_points": [
             1,
@@ -856,7 +1106,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "Think Green, Live Green: Граматика Думай і живи екологічно: Граматика",
           "plan_path": "9/sb-u7-listening/homework-check-sb-u7-grammar-01.json",
-          "content_id": "9-sb-u7-grammar-homework-01"
+          "content_id": "9-sb-u7-grammar-homework-01",
+          "previous_title": "9 клас · Think Green, Live Green: Граматика",
+          "lesson_naming": {
+            "lesson_code": "9en81",
+            "plan_date": "2027-04-01",
+            "learning_month": 8,
+            "lesson_in_month": 1,
+            "target_title": "9en81 Environment: Grammar",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -866,7 +1126,7 @@
         {
           "test_id": "3887056",
           "builder_url": "https://naurok.com.ua/test/builder/3887056",
-          "title": "9 клас · Think Green, Live Green: Граматика в контексті",
+          "title": "9en84 Environment: Grammar practice",
           "points": 10,
           "question_points": [
             1,
@@ -889,7 +1149,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "Think Green, Live Green: Граматика в контексті Думай і живи екологічно: Граматика в контексті",
           "plan_path": "9/sb-u7-speaking/homework-check-sb-u7-grammar-2-01.json",
-          "content_id": "9-sb-u7-grammar-2-homework-01"
+          "content_id": "9-sb-u7-grammar-2-homework-01",
+          "previous_title": "9 клас · Think Green, Live Green: Граматика в контексті",
+          "lesson_naming": {
+            "lesson_code": "9en84",
+            "plan_date": "2027-04-07",
+            "learning_month": 8,
+            "lesson_in_month": 4,
+            "target_title": "9en84 Environment: Grammar practice",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -899,7 +1169,7 @@
         {
           "test_id": "3887060",
           "builder_url": "https://naurok.com.ua/test/builder/3887060",
-          "title": "9 клас · Think Green, Live Green: Починаємо тему",
+          "title": "9en78 Environment: Intro",
           "points": 10,
           "question_points": [
             1,
@@ -922,7 +1192,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "Think Green, Live Green: Починаємо тему Думай і живи екологічно: Починаємо тему",
           "plan_path": "9/sb-u7-blog/homework-check-sb-u7-lead-in-01.json",
-          "content_id": "9-sb-u7-lead-in-homework-01"
+          "content_id": "9-sb-u7-lead-in-homework-01",
+          "previous_title": "9 клас · Think Green, Live Green: Починаємо тему",
+          "lesson_naming": {
+            "lesson_code": "9en78",
+            "plan_date": "2027-03-16",
+            "learning_month": 7,
+            "lesson_in_month": 8,
+            "target_title": "9en78 Environment: Intro",
+            "mapping_method": "unit_lead_in",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -932,7 +1212,7 @@
         {
           "test_id": "3887066",
           "builder_url": "https://naurok.com.ua/test/builder/3887066",
-          "title": "9 клас · Think Green, Live Green: Слухання",
+          "title": "9en82 Environment: Listening",
           "points": 10,
           "question_points": [
             1,
@@ -955,7 +1235,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "Think Green, Live Green: Слухання Думай і живи екологічно: Слухання",
           "plan_path": "9/sb-u7-vocabulary-2/homework-check-sb-u7-listening-01.json",
-          "content_id": "9-sb-u7-listening-homework-01"
+          "content_id": "9-sb-u7-listening-homework-01",
+          "previous_title": "9 клас · Think Green, Live Green: Слухання",
+          "lesson_naming": {
+            "lesson_code": "9en82",
+            "plan_date": "2027-04-05",
+            "learning_month": 8,
+            "lesson_in_month": 2,
+            "target_title": "9en82 Environment: Listening",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -965,7 +1255,7 @@
         {
           "test_id": "3887069",
           "builder_url": "https://naurok.com.ua/test/builder/3887069",
-          "title": "9 клас · Think Green, Live Green: Повторення",
+          "title": "9en87 Environment: Review",
           "points": 10,
           "question_points": [
             1,
@@ -988,7 +1278,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "Think Green, Live Green: Повторення Думай і живи екологічно: Повторення",
           "plan_path": "9/sb-u7-self-check/homework-check-sb-u7-look-back-01.json",
-          "content_id": "9-sb-u7-look-back-homework-01"
+          "content_id": "9-sb-u7-look-back-homework-01",
+          "previous_title": "9 клас · Think Green, Live Green: Повторення",
+          "lesson_naming": {
+            "lesson_code": "9en87",
+            "plan_date": "2027-04-14",
+            "learning_month": 8,
+            "lesson_in_month": 7,
+            "target_title": "9en87 Environment: Review",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -998,7 +1298,7 @@
         {
           "test_id": "3887073",
           "builder_url": "https://naurok.com.ua/test/builder/3887073",
-          "title": "9 клас · Think Green, Live Green: Читання",
+          "title": "9en711 Environment: Reading",
           "points": 10,
           "question_points": [
             1,
@@ -1021,7 +1321,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "Think Green, Live Green: Читання Думай і живи екологічно: Читання",
           "plan_path": "9/sb-u7-grammar/homework-check-sb-u7-reading-01.json",
-          "content_id": "9-sb-u7-reading-homework-01"
+          "content_id": "9-sb-u7-reading-homework-01",
+          "previous_title": "9 клас · Think Green, Live Green: Читання",
+          "lesson_naming": {
+            "lesson_code": "9en711",
+            "plan_date": "2027-03-30",
+            "learning_month": 7,
+            "lesson_in_month": 11,
+            "target_title": "9en711 Environment: Reading",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1031,7 +1341,7 @@
         {
           "test_id": "3887079",
           "builder_url": "https://naurok.com.ua/test/builder/3887079",
-          "title": "9 клас · Think Green, Live Green: Самооцінювання",
+          "title": "9en89 Environment: Self-check",
           "points": 10,
           "question_points": [
             1,
@@ -1054,7 +1364,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "Think Green, Live Green: Самооцінювання Думай і живи екологічно: Самооцінювання",
           "plan_path": "9/sb-u8-lead-in/homework-check-sb-u7-self-check-01.json",
-          "content_id": "9-sb-u7-self-check-homework-01"
+          "content_id": "9-sb-u7-self-check-homework-01",
+          "previous_title": "9 клас · Think Green, Live Green: Самооцінювання",
+          "lesson_naming": {
+            "lesson_code": "9en89",
+            "plan_date": "2027-04-19",
+            "learning_month": 8,
+            "lesson_in_month": 9,
+            "target_title": "9en89 Environment: Self-check",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1064,7 +1384,7 @@
         {
           "test_id": "3887082",
           "builder_url": "https://naurok.com.ua/test/builder/3887082",
-          "title": "9 клас · Think Green, Live Green: Говоріння",
+          "title": "9en85 Environment: Speaking",
           "points": 10,
           "question_points": [
             1,
@@ -1087,7 +1407,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "Think Green, Live Green: Говоріння Думай і живи екологічно: Говоріння",
           "plan_path": "9/sb-u7-writing/homework-check-sb-u7-speaking-01.json",
-          "content_id": "9-sb-u7-speaking-homework-01"
+          "content_id": "9-sb-u7-speaking-homework-01",
+          "previous_title": "9 клас · Think Green, Live Green: Говоріння",
+          "lesson_naming": {
+            "lesson_code": "9en85",
+            "plan_date": "2027-04-08",
+            "learning_month": 8,
+            "lesson_in_month": 5,
+            "target_title": "9en85 Environment: Speaking",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1097,7 +1427,7 @@
         {
           "test_id": "3887086",
           "builder_url": "https://naurok.com.ua/test/builder/3887086",
-          "title": "9 клас · Think Green, Live Green: Слова й словосполучення",
+          "title": "9en710 Environment: Vocabulary",
           "points": 10,
           "question_points": [
             1,
@@ -1120,7 +1450,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "Think Green, Live Green: Слова й словосполучення Думай і живи екологічно: Слова й словосполучення",
           "plan_path": "9/sb-u7-reading/homework-check-sb-u7-vocabulary-01.json",
-          "content_id": "9-sb-u7-vocabulary-homework-01"
+          "content_id": "9-sb-u7-vocabulary-homework-01",
+          "previous_title": "9 клас · Think Green, Live Green: Слова й словосполучення",
+          "lesson_naming": {
+            "lesson_code": "9en710",
+            "plan_date": "2027-03-18",
+            "learning_month": 7,
+            "lesson_in_month": 10,
+            "target_title": "9en710 Environment: Vocabulary",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1130,7 +1470,7 @@
         {
           "test_id": "3887088",
           "builder_url": "https://naurok.com.ua/test/builder/3887088",
-          "title": "9 клас · Think Green, Live Green: Лексика в контексті",
+          "title": "9en83 Environment: Vocabulary practice",
           "points": 10,
           "question_points": [
             1,
@@ -1153,7 +1493,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "Think Green, Live Green: Лексика в контексті Думай і живи екологічно: Лексика в контексті",
           "plan_path": "9/sb-u7-grammar-2/homework-check-sb-u7-vocabulary-2-01.json",
-          "content_id": "9-sb-u7-vocabulary-2-homework-01"
+          "content_id": "9-sb-u7-vocabulary-2-homework-01",
+          "previous_title": "9 клас · Think Green, Live Green: Лексика в контексті",
+          "lesson_naming": {
+            "lesson_code": "9en83",
+            "plan_date": "2027-04-06",
+            "learning_month": 8,
+            "lesson_in_month": 3,
+            "target_title": "9en83 Environment: Vocabulary practice",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1163,7 +1513,7 @@
         {
           "test_id": "3887092",
           "builder_url": "https://naurok.com.ua/test/builder/3887092",
-          "title": "9 клас · Think Green, Live Green: Письмо",
+          "title": "9en86 Environment: Writing",
           "points": 10,
           "question_points": [
             1,
@@ -1186,7 +1536,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "Think Green, Live Green: Письмо Думай і живи екологічно: Письмо",
           "plan_path": "9/sb-u7-look-back/homework-check-sb-u7-writing-01.json",
-          "content_id": "9-sb-u7-writing-homework-01"
+          "content_id": "9-sb-u7-writing-homework-01",
+          "previous_title": "9 клас · Think Green, Live Green: Письмо",
+          "lesson_naming": {
+            "lesson_code": "9en86",
+            "plan_date": "2027-04-13",
+            "learning_month": 8,
+            "lesson_in_month": 6,
+            "target_title": "9en86 Environment: Writing",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1196,7 +1556,7 @@
         {
           "test_id": "3887099",
           "builder_url": "https://naurok.com.ua/test/builder/3887099",
-          "title": "9 клас · From Ukraine to the UK and Beyond: Блог і думки однолітків",
+          "title": "9en810 Ukraine & UK: Blog",
           "points": 10,
           "question_points": [
             1,
@@ -1219,7 +1579,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "From Ukraine to the UK and Beyond: Блог і думки однолітків Україна, Велика Британія та світ: Блог і думки однолітків",
           "plan_path": "9/sb-u8-vocabulary/homework-check-sb-u8-blog-01.json",
-          "content_id": "9-sb-u8-blog-homework-01"
+          "content_id": "9-sb-u8-blog-homework-01",
+          "previous_title": "9 клас · From Ukraine to the UK and Beyond: Блог і думки однолітків",
+          "lesson_naming": {
+            "lesson_code": "9en810",
+            "plan_date": "2027-04-20",
+            "learning_month": 8,
+            "lesson_in_month": 10,
+            "target_title": "9en810 Ukraine & UK: Blog",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1229,7 +1599,7 @@
         {
           "test_id": "3887101",
           "builder_url": "https://naurok.com.ua/test/builder/3887101",
-          "title": "9 клас · From Ukraine to the UK and Beyond: Граматика",
+          "title": "9en815 Ukraine & UK: Grammar",
           "points": 10,
           "question_points": [
             1,
@@ -1252,7 +1622,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "From Ukraine to the UK and Beyond: Граматика Україна, Велика Британія та світ: Граматика",
           "plan_path": "9/sb-u8-listening/homework-check-sb-u8-grammar-01.json",
-          "content_id": "9-sb-u8-grammar-homework-01"
+          "content_id": "9-sb-u8-grammar-homework-01",
+          "previous_title": "9 клас · From Ukraine to the UK and Beyond: Граматика",
+          "lesson_naming": {
+            "lesson_code": "9en815",
+            "plan_date": "2027-04-29",
+            "learning_month": 8,
+            "lesson_in_month": 15,
+            "target_title": "9en815 Ukraine & UK: Grammar",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1262,7 +1642,7 @@
         {
           "test_id": "3887108",
           "builder_url": "https://naurok.com.ua/test/builder/3887108",
-          "title": "9 клас · From Ukraine to the UK and Beyond: Граматика в контексті",
+          "title": "9en93 Ukraine & UK: Grammar practice",
           "points": 10,
           "question_points": [
             1,
@@ -1285,7 +1665,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "From Ukraine to the UK and Beyond: Граматика в контексті Україна, Велика Британія та світ: Граматика в контексті",
           "plan_path": "9/sb-u8-speaking/homework-check-sb-u8-grammar-2-01.json",
-          "content_id": "9-sb-u8-grammar-2-homework-01"
+          "content_id": "9-sb-u8-grammar-2-homework-01",
+          "previous_title": "9 клас · From Ukraine to the UK and Beyond: Граматика в контексті",
+          "lesson_naming": {
+            "lesson_code": "9en93",
+            "plan_date": "2027-05-05",
+            "learning_month": 9,
+            "lesson_in_month": 3,
+            "target_title": "9en93 Ukraine & UK: Grammar practice",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1295,7 +1685,7 @@
         {
           "test_id": "3887110",
           "builder_url": "https://naurok.com.ua/test/builder/3887110",
-          "title": "9 клас · From Ukraine to the UK and Beyond: Починаємо тему",
+          "title": "9en810 Ukraine & UK: Intro",
           "points": 10,
           "question_points": [
             1,
@@ -1318,7 +1708,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "From Ukraine to the UK and Beyond: Починаємо тему Україна, Велика Британія та світ: Починаємо тему",
           "plan_path": "9/sb-u8-blog/homework-check-sb-u8-lead-in-01.json",
-          "content_id": "9-sb-u8-lead-in-homework-01"
+          "content_id": "9-sb-u8-lead-in-homework-01",
+          "previous_title": "9 клас · From Ukraine to the UK and Beyond: Починаємо тему",
+          "lesson_naming": {
+            "lesson_code": "9en810",
+            "plan_date": "2027-04-20",
+            "learning_month": 8,
+            "lesson_in_month": 10,
+            "target_title": "9en810 Ukraine & UK: Intro",
+            "mapping_method": "unit_lead_in",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1328,7 +1728,7 @@
         {
           "test_id": "3887113",
           "builder_url": "https://naurok.com.ua/test/builder/3887113",
-          "title": "9 клас · From Ukraine to the UK and Beyond: Слухання",
+          "title": "9en91 Ukraine & UK: Listening",
           "points": 10,
           "question_points": [
             1,
@@ -1351,7 +1751,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "From Ukraine to the UK and Beyond: Слухання Україна, Велика Британія та світ: Слухання",
           "plan_path": "9/sb-u8-vocabulary-2/homework-check-sb-u8-listening-01.json",
-          "content_id": "9-sb-u8-listening-homework-01"
+          "content_id": "9-sb-u8-listening-homework-01",
+          "previous_title": "9 клас · From Ukraine to the UK and Beyond: Слухання",
+          "lesson_naming": {
+            "lesson_code": "9en91",
+            "plan_date": "2027-05-03",
+            "learning_month": 9,
+            "lesson_in_month": 1,
+            "target_title": "9en91 Ukraine & UK: Listening",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1361,7 +1771,7 @@
         {
           "test_id": "3887117",
           "builder_url": "https://naurok.com.ua/test/builder/3887117",
-          "title": "9 клас · From Ukraine to the UK and Beyond: Повторення",
+          "title": "9en96 Ukraine & UK: Review",
           "points": 10,
           "question_points": [
             1,
@@ -1384,7 +1794,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "From Ukraine to the UK and Beyond: Повторення Україна, Велика Британія та світ: Повторення",
           "plan_path": "9/sb-u8-self-check/homework-check-sb-u8-look-back-01.json",
-          "content_id": "9-sb-u8-look-back-homework-01"
+          "content_id": "9-sb-u8-look-back-homework-01",
+          "previous_title": "9 клас · From Ukraine to the UK and Beyond: Повторення",
+          "lesson_naming": {
+            "lesson_code": "9en96",
+            "plan_date": "2027-05-12",
+            "learning_month": 9,
+            "lesson_in_month": 6,
+            "target_title": "9en96 Ukraine & UK: Review",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1394,7 +1814,7 @@
         {
           "test_id": "3887120",
           "builder_url": "https://naurok.com.ua/test/builder/3887120",
-          "title": "9 клас · From Ukraine to the UK and Beyond: Читання",
+          "title": "9en813 Ukraine & UK: Reading",
           "points": 10,
           "question_points": [
             1,
@@ -1417,7 +1837,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "From Ukraine to the UK and Beyond: Читання Україна, Велика Британія та світ: Читання",
           "plan_path": "9/sb-u8-grammar/homework-check-sb-u8-reading-01.json",
-          "content_id": "9-sb-u8-reading-homework-01"
+          "content_id": "9-sb-u8-reading-homework-01",
+          "previous_title": "9 клас · From Ukraine to the UK and Beyond: Читання",
+          "lesson_naming": {
+            "lesson_code": "9en813",
+            "plan_date": "2027-04-27",
+            "learning_month": 8,
+            "lesson_in_month": 13,
+            "target_title": "9en813 Ukraine & UK: Reading",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1427,7 +1857,7 @@
         {
           "test_id": "3887123",
           "builder_url": "https://naurok.com.ua/test/builder/3887123",
-          "title": "9 клас · From Ukraine to the UK and Beyond: Самооцінювання",
+          "title": "9en97 Ukraine & UK: Self-check",
           "points": 10,
           "question_points": [
             1,
@@ -1450,7 +1880,17 @@
           "placement_rule": "no_next_lesson",
           "source_lesson_title": "From Ukraine to the UK and Beyond: Самооцінювання Україна, Велика Британія та світ: Самооцінювання",
           "plan_path": "9/sb-u8-self-check/homework-check-sb-u8-self-check-01.json",
-          "content_id": "9-sb-u8-self-check-homework-01"
+          "content_id": "9-sb-u8-self-check-homework-01",
+          "previous_title": "9 клас · From Ukraine to the UK and Beyond: Самооцінювання",
+          "lesson_naming": {
+            "lesson_code": "9en97",
+            "plan_date": "2027-05-13",
+            "learning_month": 9,
+            "lesson_in_month": 7,
+            "target_title": "9en97 Ukraine & UK: Self-check",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1460,7 +1900,7 @@
         {
           "test_id": "3887128",
           "builder_url": "https://naurok.com.ua/test/builder/3887128",
-          "title": "9 клас · From Ukraine to the UK and Beyond: Говоріння",
+          "title": "9en94 Ukraine & UK: Speaking",
           "points": 10,
           "question_points": [
             1,
@@ -1483,7 +1923,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "From Ukraine to the UK and Beyond: Говоріння Україна, Велика Британія та світ: Говоріння",
           "plan_path": "9/sb-u8-writing/homework-check-sb-u8-speaking-01.json",
-          "content_id": "9-sb-u8-speaking-homework-01"
+          "content_id": "9-sb-u8-speaking-homework-01",
+          "previous_title": "9 клас · From Ukraine to the UK and Beyond: Говоріння",
+          "lesson_naming": {
+            "lesson_code": "9en94",
+            "plan_date": "2027-05-06",
+            "learning_month": 9,
+            "lesson_in_month": 4,
+            "target_title": "9en94 Ukraine & UK: Speaking",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1493,7 +1943,7 @@
         {
           "test_id": "3887130",
           "builder_url": "https://naurok.com.ua/test/builder/3887130",
-          "title": "9 клас · From Ukraine to the UK and Beyond: Слова й словосполучення",
+          "title": "9en812 Ukraine & UK: Vocabulary",
           "points": 10,
           "question_points": [
             1,
@@ -1516,7 +1966,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "From Ukraine to the UK and Beyond: Слова й словосполучення Україна, Велика Британія та світ: Слова й словосполучення",
           "plan_path": "9/sb-u8-reading/homework-check-sb-u8-vocabulary-01.json",
-          "content_id": "9-sb-u8-vocabulary-homework-01"
+          "content_id": "9-sb-u8-vocabulary-homework-01",
+          "previous_title": "9 клас · From Ukraine to the UK and Beyond: Слова й словосполучення",
+          "lesson_naming": {
+            "lesson_code": "9en812",
+            "plan_date": "2027-04-22",
+            "learning_month": 8,
+            "lesson_in_month": 12,
+            "target_title": "9en812 Ukraine & UK: Vocabulary",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1526,7 +1986,7 @@
         {
           "test_id": "3887132",
           "builder_url": "https://naurok.com.ua/test/builder/3887132",
-          "title": "9 клас · From Ukraine to the UK and Beyond: Лексика в контексті",
+          "title": "9en92 Ukraine & UK: Vocabulary practice",
           "points": 10,
           "question_points": [
             1,
@@ -1549,7 +2009,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "From Ukraine to the UK and Beyond: Лексика в контексті Україна, Велика Британія та світ: Лексика в контексті",
           "plan_path": "9/sb-u8-grammar-2/homework-check-sb-u8-vocabulary-2-01.json",
-          "content_id": "9-sb-u8-vocabulary-2-homework-01"
+          "content_id": "9-sb-u8-vocabulary-2-homework-01",
+          "previous_title": "9 клас · From Ukraine to the UK and Beyond: Лексика в контексті",
+          "lesson_naming": {
+            "lesson_code": "9en92",
+            "plan_date": "2027-05-04",
+            "learning_month": 9,
+            "lesson_in_month": 2,
+            "target_title": "9en92 Ukraine & UK: Vocabulary practice",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     },
@@ -1559,7 +2029,7 @@
         {
           "test_id": "3887135",
           "builder_url": "https://naurok.com.ua/test/builder/3887135",
-          "title": "9 клас · From Ukraine to the UK and Beyond: Письмо",
+          "title": "9en95 Ukraine & UK: Writing",
           "points": 10,
           "question_points": [
             1,
@@ -1582,7 +2052,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "From Ukraine to the UK and Beyond: Письмо Україна, Велика Британія та світ: Письмо",
           "plan_path": "9/sb-u8-look-back/homework-check-sb-u8-writing-01.json",
-          "content_id": "9-sb-u8-writing-homework-01"
+          "content_id": "9-sb-u8-writing-homework-01",
+          "previous_title": "9 клас · From Ukraine to the UK and Beyond: Письмо",
+          "lesson_naming": {
+            "lesson_code": "9en95",
+            "plan_date": "2027-05-11",
+            "learning_month": 9,
+            "lesson_in_month": 5,
+            "target_title": "9en95 Ukraine & UK: Writing",
+            "mapping_method": "section",
+            "status": "pending_external_rename"
+          }
         }
       ]
     }

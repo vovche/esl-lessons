@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · What’s the matter?: Письмо Самопочуття і спілкування з лікарем · Письмо",
+  "title": "7en75 Health: Writing",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u6-writing/index.html",
@@ -163,12 +163,26 @@
       "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
       "course_title": "7 клас",
       "course_module": 6,
-      "visibility_update_pending_user_confirmation": true
+      "visibility_update_pending_user_confirmation": true,
+      "previous_title": "7 клас · 096 · Самопочуття: письмо",
+      "title": "7en75 Health: Writing",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en75 Health: Writing",
+  "lesson_naming": {
+    "lesson_code": "7en75",
+    "plan_date": "2027-03-08",
+    "learning_month": 7,
+    "lesson_in_month": 5,
+    "target_title": "7en75 Health: Writing",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en75 Health: Writing"
   }
 }

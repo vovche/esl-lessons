@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · In and out of school: Блог і обговорення Шкільне життя і дозвілля · Блог і обговорення",
+  "title": "7en12 School: Blog",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u1-blog/index.html",
@@ -136,7 +136,7 @@
     },
     "kahoot": {
       "kahoot_id": "5da43f56-8d6d-4ea4-9ef0-70ea85e256cc",
-      "title": "7 клас · 002b · School clubs",
+      "title": "7en12 School: Blog",
       "editor_url": "https://create.kahoot.it/creator/5da43f56-8d6d-4ea4-9ef0-70ea85e256cc",
       "status": "homework_created",
       "verified": true,
@@ -199,12 +199,25 @@
       "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
       "course_title": "7 клас",
       "module": 1,
-      "course_saved_as": "draft"
+      "course_saved_as": "draft",
+      "previous_title": "7 клас · 002b · School clubs",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en12 School: Blog",
+  "lesson_naming": {
+    "lesson_code": "7en12",
+    "plan_date": "2026-09-02",
+    "learning_month": 1,
+    "lesson_in_month": 2,
+    "target_title": "7en12 School: Blog",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en12 School: Blog"
   }
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · Jobs Around Us: Граматика в контексті",
+  "title": "9en61 Jobs: Grammar practice",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-u5-grammar-2/index.html",
@@ -148,5 +148,15 @@
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · Jobs Around Us: Граматика в контексті",
+  "lesson_naming": {
+    "lesson_code": "9en61",
+    "plan_date": "2027-02-02",
+    "learning_month": 6,
+    "lesson_in_month": 1,
+    "target_title": "9en61 Jobs: Grammar practice",
+    "mapping_method": "section",
+    "status": "pending_external_rename"
   }
 }

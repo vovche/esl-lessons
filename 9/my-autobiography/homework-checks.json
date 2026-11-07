@@ -4,7 +4,7 @@
   "tests": [
     {
       "id": "9-personal-details-homework-01",
-      "title": "9 клас · Ask for details — анкета та запитання",
+      "title": "9en14 Ask for details — анкета та запитання",
       "source_lesson": "9/personal-details/index.html",
       "json": "homework-check-personal-details-01.json",
       "markdown": "homework-check-personal-details-01.md",

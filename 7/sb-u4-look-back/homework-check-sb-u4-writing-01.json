@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Traditions... Traditions...: Письмо Свята і традиції · Письмо",
+  "title": "7en49 Traditions: Writing",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u4-writing/index.html",
@@ -160,12 +160,25 @@
       "randomize_answer_order": true,
       "student_entry_verified": true,
       "content_verified_after_reopen": false,
-      "title": "7 клас · 052 · Traditions: Writing"
+      "title": "7en49 Traditions: Writing",
+      "title_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7 клас · Traditions... Traditions...: Письмо Свята і традиції · Письмо",
+  "lesson_naming": {
+    "lesson_code": "7en49",
+    "plan_date": "2026-12-15",
+    "learning_month": 4,
+    "lesson_in_month": 9,
+    "target_title": "7en49 Traditions: Writing",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en49 Traditions: Writing",
+    "naurok_title_verified": "7en49 Traditions: Writing"
   }
 }

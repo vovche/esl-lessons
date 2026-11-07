@@ -4,7 +4,7 @@
   "tests": [
     {
       "id": "7-ask-about-school-homework-01",
-      "title": "7 клас · Ask and check — шкільні запитання",
+      "title": "7en12 Ask about school",
       "source_lesson": "7/ask-about-school/index.html",
       "json": "homework-check-ask-about-school-01.json",
       "markdown": "homework-check-ask-about-school-01.md",
@@ -17,7 +17,7 @@
     },
     {
       "id": "7-our-school-event-homework-01",
-      "title": "7 клас · Our school event — шкільна подія",
+      "title": "7en118 School event",
       "source_lesson": "7/our-school-event/index.html",
       "json": "homework-check-our-school-event-01.json",
       "markdown": "homework-check-our-school-event-01.md",

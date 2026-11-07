@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · Fashion All the Way: Слухання",
+  "title": "9en25 Fashion: Listening",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-u2-listening/index.html",
@@ -103,5 +103,15 @@
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · Fashion All the Way: Слухання",
+  "lesson_naming": {
+    "lesson_code": "9en25",
+    "plan_date": "2026-10-08",
+    "learning_month": 2,
+    "lesson_in_month": 5,
+    "target_title": "9en25 Fashion: Listening",
+    "mapping_method": "section",
+    "status": "pending_external_rename"
   }
 }

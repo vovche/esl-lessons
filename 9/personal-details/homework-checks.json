@@ -4,7 +4,7 @@
   "tests": [
     {
       "id": "9-present-past-review-homework-01",
-      "title": "9 клас · Six tenses, one story — теперішні й минулі часи",
+      "title": "9en36 Six tenses, one story — теперішні й минулі часи",
       "source_lesson": "9/present-past-review/index.html",
       "json": "homework-check-present-past-review-01.json",
       "markdown": "homework-check-present-past-review-01.md",

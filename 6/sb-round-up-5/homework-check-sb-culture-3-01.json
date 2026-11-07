@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "6 клас · 072b · Parks in the city",
+  "title": "6en66 Parks in the city",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-culture-3/index.html",
@@ -120,7 +120,7 @@
     },
     "kahoot": {
       "kahoot_id": "fc664901-2e9c-4eae-978e-172e5fbde288",
-      "title": "6 клас · 072b · Parks in the city",
+      "title": "6en66 Parks in the city",
       "editor_url": "https://create.kahoot.it/creator/fc664901-2e9c-4eae-978e-172e5fbde288",
       "assignment_id": "8ef14577-6b2e-42f9-861b-a514e4bbc976",
       "code": "0024627738",
@@ -148,12 +148,25 @@
       "course_id": "7572952c-010e-4290-8d43-1a907efd66cc",
       "course_title": "6 клас",
       "course_module": 5,
-      "course_placement_verified": true
+      "course_placement_verified": true,
+      "previous_title": "6 клас · 072b · Parks in the city",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en66 Parks in the city",
+  "lesson_naming": {
+    "lesson_code": "6en66",
+    "plan_date": "2027-02-09",
+    "learning_month": 6,
+    "lesson_in_month": 6,
+    "target_title": "6en66 Parks in the city",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en66 Parks in the city"
   }
 }

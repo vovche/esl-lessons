@@ -4,7 +4,7 @@
   "tests": [
     {
       "id": "6-sb-1d-homework-01",
-      "title": "Free time · 6 клас · ESL 1d",
+      "title": "6en110 Free time",
       "source_lesson": "6/sb-1d/index.html",
       "json": "homework-check-sb-1d-01.json",
       "markdown": "homework-check-sb-1d-01.md",

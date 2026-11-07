@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · What is there to see and to do?: Граматика Подорожі й визначні місця · Граматика",
+  "title": "7en92 Travel: Grammar",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u8-grammar/index.html",
@@ -132,7 +132,7 @@
     },
     "kahoot": {
       "id": "212e87fe-08a5-4a66-88e7-8814f969044f",
-      "title": "7 клас · 100 · Подорожі: граматика",
+      "title": "7en92 Travel: Grammar",
       "editor_url": "https://create.kahoot.it/creator/212e87fe-08a5-4a66-88e7-8814f969044f",
       "test_url": "https://create.kahoot.it/details/7-100-podorozhi-hramatyka/212e87fe-08a5-4a66-88e7-8814f969044f",
       "status": "homework_created",
@@ -168,12 +168,25 @@
       "course_membership_verified": true,
       "course_status": "draft_not_saved_due_empty_module_7",
       "assessment_lesson_path": "7/sb-u8-listening/",
-      "created_on": "2026-10-29"
+      "created_on": "2026-10-29",
+      "previous_title": "7 клас · 100 · Подорожі: граматика",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en92 Travel: Grammar",
+  "lesson_naming": {
+    "lesson_code": "7en92",
+    "plan_date": "2027-05-04",
+    "learning_month": 9,
+    "lesson_in_month": 2,
+    "target_title": "7en92 Travel: Grammar",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en92 Travel: Grammar"
   }
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "What happened? · 6 клас · ESL 3c",
+  "title": "6en36 What happened?",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-3c/index.html",
@@ -120,7 +120,7 @@
     },
     "kahoot": {
       "kahoot_id": "fbd46459-cede-40b4-93a3-6199f117a8fb",
-      "title": "6 клас · 033 · What happened?",
+      "title": "6en36 What happened?",
       "status": "homework_created",
       "verified": true,
       "visibility": "private",
@@ -179,12 +179,25 @@
           ],
           "adaptation": "complete reading text placed on two preceding content slides"
         }
-      ]
+      ],
+      "previous_title": "6 клас · 033 · What happened?",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en36 What happened?",
+  "lesson_naming": {
+    "lesson_code": "6en36",
+    "plan_date": "2026-11-11",
+    "learning_month": 3,
+    "lesson_in_month": 6,
+    "target_title": "6en36 What happened?",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en36 What happened?"
   }
 }

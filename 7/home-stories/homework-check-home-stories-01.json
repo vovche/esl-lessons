@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Our home story — розповідаємо про дім",
+  "title": "7en23 Home stories",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/home-stories/index.html",
@@ -119,12 +119,26 @@
           "reason": "typed_answer_exceeds_20_characters",
           "approved": true
         }
-      ]
+      ],
+      "previous_title": "7 клас · Our home story — розповідаємо про дім",
+      "title": "7en23 Home stories",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en23 Home stories",
+  "lesson_naming": {
+    "lesson_code": "7en23",
+    "plan_date": "2026-10-06",
+    "learning_month": 2,
+    "lesson_in_month": 3,
+    "target_title": "7en23 Home stories",
+    "mapping_method": "supplement_section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en23 Home stories"
   }
 }

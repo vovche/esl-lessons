@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "Travel preparations · 6 клас · ESL 2c",
+  "title": "6en25 Travel preparations",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-2c/index.html",
@@ -120,7 +120,7 @@
     },
     "kahoot": {
       "id": "69b034ea-8758-485f-bc08-ceaedc2cbb20",
-      "title": "6 клас · 008 · Travel preparations",
+      "title": "6en25 Travel preparations",
       "editor_url": "https://create.kahoot.it/creator/69b034ea-8758-485f-bc08-ceaedc2cbb20",
       "status": "homework_created",
       "verified": true,
@@ -149,12 +149,25 @@
       "randomize_answer_order": true,
       "student_entry_verified": true,
       "content_verified_after_reopen": true,
-      "adaptations": []
+      "adaptations": [],
+      "previous_title": "6 клас · 008 · Travel preparations",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en25 Travel preparations",
+  "lesson_naming": {
+    "lesson_code": "6en25",
+    "plan_date": "2026-10-12",
+    "learning_month": 2,
+    "lesson_in_month": 5,
+    "target_title": "6en25 Travel preparations",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en25 Travel preparations"
   }
 }

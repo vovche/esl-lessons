@@ -4,7 +4,7 @@
   "tests": [
     {
       "id": "7-sb-grammar-homework-01",
-      "title": "7 клас · Граматика курсу — Units 1–8",
+      "title": "7en913 Grammar reference",
       "source_lesson": "7/sb-grammar/index.html",
       "json": "homework-check-sb-grammar-01.json",
       "markdown": "homework-check-sb-grammar-01.md",

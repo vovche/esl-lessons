@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · What is there to see and to do?: Блог і обговорення Подорожі й визначні місця · Блог і обговорення",
+  "title": "7en814 Travel: Blog",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u8-blog/index.html",
@@ -134,7 +134,7 @@
       "id": "b397fa1d-b873-4706-bf4e-a7ce86199b7d",
       "editor_url": "https://create.kahoot.it/creator/b397fa1d-b873-4706-bf4e-a7ce86199b7d",
       "test_url": "https://create.kahoot.it/details/7-106/b397fa1d-b873-4706-bf4e-a7ce86199b7d",
-      "title": "7 клас · 106 · Подорожі: блог",
+      "title": "7en814 Travel: Blog",
       "status": "homework_created",
       "verified": true,
       "visibility": "public",
@@ -174,12 +174,25 @@
       "updated_on": "2026-10-29",
       "adaptations": [
         "Passage shortened to a 229-character slide while preserving the city, morning visit options, park reason, other group preference, and itinerary details."
-      ]
+      ],
+      "previous_title": "7 клас · 106 · Подорожі: блог",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en814 Travel: Blog",
+  "lesson_naming": {
+    "lesson_code": "7en814",
+    "plan_date": "2027-04-26",
+    "learning_month": 8,
+    "lesson_in_month": 14,
+    "target_title": "7en814 Travel: Blog",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en814 Travel: Blog"
   }
 }

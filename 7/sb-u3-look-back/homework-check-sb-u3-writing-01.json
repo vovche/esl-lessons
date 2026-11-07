@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Are you ready to cook?: Письмо Приготування їжі · Письмо",
+  "title": "7en312 Cooking: Writing",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u3-writing/index.html",
@@ -166,12 +166,24 @@
       "assignment_verified": true,
       "content_verified_after_reopen": true,
       "scoring_ui_verified": false,
-      "assessment_lesson_path": "7/sb-u3-look-back/"
+      "assessment_lesson_path": "7/sb-u3-look-back/",
+      "title": "7en312 Cooking: Writing"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7 клас · Are you ready to cook?: Письмо Приготування їжі · Письмо",
+  "lesson_naming": {
+    "lesson_code": "7en312",
+    "plan_date": "2026-11-19",
+    "learning_month": 3,
+    "lesson_in_month": 12,
+    "target_title": "7en312 Cooking: Writing",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en312 Cooking: Writing"
   }
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · In and out of school: Лексика: застосування Шкільне життя і дозвілля · Лексика: застосування",
+  "title": "7en19 School: Vocabulary practice",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u1-vocabulary-2/index.html",
@@ -136,7 +136,7 @@
     },
     "kahoot": {
       "kahoot_id": "6f3090a0-3f71-4176-a81b-0f514f3d8020",
-      "title": "7 клас · 009 · School words in use",
+      "title": "7en19 School: Vocabulary practice",
       "editor_url": "https://create.kahoot.it/creator/6f3090a0-3f71-4176-a81b-0f514f3d8020",
       "status": "homework_created",
       "verified": true,
@@ -197,12 +197,25 @@
       "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
       "course_title": "7 клас",
       "module": 1,
-      "course_saved_as": "draft"
+      "course_saved_as": "draft",
+      "previous_title": "7 клас · 009 · School words in use",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en19 School: Vocabulary practice",
+  "lesson_naming": {
+    "lesson_code": "7en19",
+    "plan_date": "2026-09-15",
+    "learning_month": 1,
+    "lesson_in_month": 9,
+    "target_title": "7en19 School: Vocabulary practice",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en19 School: Vocabulary practice"
   }
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "Computer parts · 6 клас · ESL 5a",
+  "title": "6en52 Computer parts",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-5a/index.html",
@@ -121,7 +121,7 @@
     "kahoot": {
       "source_json": "6/sb-5b/homework-check-sb-5a-01.json",
       "id": "6faf1fde-dc02-4b08-b118-e1708888a63f",
-      "title": "Computer parts · 6 клас · ESL 5a",
+      "title": "6en52 Computer parts",
       "editor_url": "https://create.kahoot.it/creator/6faf1fde-dc02-4b08-b118-e1708888a63f",
       "status": "homework_created",
       "verified": true,
@@ -155,12 +155,25 @@
       ],
       "course_id": "7572952c-010e-4290-8d43-1a907efd66cc",
       "course_title": "6 клас",
-      "course_module": 5
+      "course_module": 5,
+      "previous_title": "Computer parts · 6 клас · ESL 5a",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en52 Computer parts",
+  "lesson_naming": {
+    "lesson_code": "6en52",
+    "plan_date": "2027-01-19",
+    "learning_month": 5,
+    "lesson_in_month": 2,
+    "target_title": "6en52 Computer parts",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en52 Computer parts"
   }
 }

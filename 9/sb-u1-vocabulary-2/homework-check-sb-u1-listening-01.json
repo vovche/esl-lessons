@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · All About Me: Слухання",
+  "title": "9en17 Me: Listening",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-u1-listening/index.html",
@@ -107,5 +107,15 @@
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · All About Me: Слухання",
+  "lesson_naming": {
+    "lesson_code": "9en17",
+    "plan_date": "2026-09-10",
+    "learning_month": 1,
+    "lesson_in_month": 7,
+    "target_title": "9en17 Me: Listening",
+    "mapping_method": "section",
+    "status": "pending_external_rename"
   }
 }

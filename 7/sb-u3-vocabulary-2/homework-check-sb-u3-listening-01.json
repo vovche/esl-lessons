@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Are you ready to cook?: Слухання Приготування їжі · Слухання",
+  "title": "7en38 Cooking: Listening",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u3-listening/index.html",
@@ -189,12 +189,26 @@
       "live_http_status": 200,
       "live_student_href_count": 1,
       "last_live_exact_href": "https://kahoot.it/challenge/005085733",
-      "live_verified_at": "2026-10-27T15:14:25+02:00"
+      "live_verified_at": "2026-10-27T15:14:25+02:00",
+      "previous_title": "7 клас · Are you ready to cook?: Слухання Приготування їжі · Слухання",
+      "title": "7en38 Cooking: Listening",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en38 Cooking: Listening",
+  "lesson_naming": {
+    "lesson_code": "7en38",
+    "plan_date": "2026-11-12",
+    "learning_month": 3,
+    "lesson_in_month": 8,
+    "target_title": "7en38 Cooking: Listening",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en38 Cooking: Listening"
   }
 }

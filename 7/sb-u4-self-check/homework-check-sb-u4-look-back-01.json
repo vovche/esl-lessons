@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Traditions... Traditions...: Повторення Свята і традиції · Повторення",
+  "title": "7en410 Traditions: Review",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u4-look-back/index.html",
@@ -161,12 +161,24 @@
       "student_entry_verified": true,
       "content_verified_after_reopen": false,
       "title": "7 клас · 053 · Traditions: Review",
-      "reused_existing_kahoot": false
+      "reused_existing_kahoot": false,
+      "mapping_status": "shared_platform_id_conflict"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7 клас · Traditions... Traditions...: Повторення Свята і традиції · Повторення",
+  "lesson_naming": {
+    "lesson_code": "7en410",
+    "plan_date": "2026-12-16",
+    "learning_month": 4,
+    "lesson_in_month": 10,
+    "target_title": "7en410 Traditions: Review",
+    "mapping_method": "section",
+    "status": "pending_external_rename",
+    "kahoot_mapping_status": "shared_platform_id_conflict"
   }
 }

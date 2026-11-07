@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Are you ready to cook?: Повторення Приготування їжі · Повторення",
+  "title": "7en313 Cooking: Review",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u3-look-back/index.html",
@@ -179,5 +179,15 @@
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en313 Cooking: Review",
+  "lesson_naming": {
+    "lesson_code": "7en313",
+    "plan_date": "2026-11-23",
+    "learning_month": 3,
+    "lesson_in_month": 13,
+    "target_title": "7en313 Cooking: Review",
+    "mapping_method": "section",
+    "status": "naurok_renamed_pending_kahoot"
   }
 }

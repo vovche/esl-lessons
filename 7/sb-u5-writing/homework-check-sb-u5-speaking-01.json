@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Sport from A to Z: Говоріння Спорт · Говоріння",
+  "title": "7en61 Sport: Speaking",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u5-speaking/index.html",
@@ -171,12 +171,26 @@
       "pages_run_url": "https://github.com/vovche/esl-lessons/actions/runs/40429287571",
       "live_page_http_status": 200,
       "live_href_verified": "https://kahoot.it/challenge/004332113",
-      "live_href_count": 1
+      "live_href_count": 1,
+      "previous_title": "7 клас · Sport from A to Z: Говоріння Спорт · Говоріння",
+      "title": "7en61 Sport: Speaking",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en61 Sport: Speaking",
+  "lesson_naming": {
+    "lesson_code": "7en61",
+    "plan_date": "2027-02-01",
+    "learning_month": 6,
+    "lesson_in_month": 1,
+    "target_title": "7en61 Sport: Speaking",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en61 Sport: Speaking"
   }
 }

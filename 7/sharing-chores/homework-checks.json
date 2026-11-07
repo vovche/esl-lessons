@@ -4,7 +4,7 @@
   "tests": [
     {
       "id": "7-chores-homework-01",
-      "title": "7 клас · My chores — домашні справи",
+      "title": "7en22 My chores",
       "source_lesson": "7/chores/index.html",
       "json": "homework-check-chores-01.json",
       "markdown": "homework-check-chores-01.md",

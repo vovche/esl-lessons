@@ -4,7 +4,7 @@
   "tests": [
     {
       "id": "6-sb-wordlist-homework-01",
-      "title": "6 клас · Wordlist · Unit 1",
+      "title": "6en113 Wordlist Unit 1",
       "source_lesson": "6/sb-wordlist/index.html",
       "json": "homework-check-sb-wordlist-01.json",
       "markdown": "homework-check-sb-wordlist-01.md",
@@ -17,7 +17,7 @@
     },
     {
       "id": "6-sb-wordlist-homework-02",
-      "title": "6 клас · Wordlist · Unit 2",
+      "title": "6en29 Wordlist Unit 2",
       "source_lesson": "6/sb-wordlist/index.html",
       "json": "homework-check-sb-wordlist-02.json",
       "markdown": "homework-check-sb-wordlist-02.md",
@@ -30,7 +30,7 @@
     },
     {
       "id": "6-sb-wordlist-homework-03",
-      "title": "6 клас · Wordlist · Unit 3",
+      "title": "6en311 Wordlist Unit 3",
       "source_lesson": "6/sb-wordlist/index.html",
       "json": "homework-check-sb-wordlist-03.json",
       "markdown": "homework-check-sb-wordlist-03.md",
@@ -43,7 +43,7 @@
     },
     {
       "id": "6-sb-wordlist-homework-04",
-      "title": "6 клас · Wordlist · Unit 4",
+      "title": "6en48 Wordlist Unit 4",
       "source_lesson": "6/sb-wordlist/index.html",
       "json": "homework-check-sb-wordlist-04.json",
       "markdown": "homework-check-sb-wordlist-04.md",
@@ -56,7 +56,7 @@
     },
     {
       "id": "6-sb-wordlist-homework-05",
-      "title": "6 клас · Wordlist · Unit 5",
+      "title": "6en64 Wordlist Unit 5",
       "source_lesson": "6/sb-wordlist/index.html",
       "json": "homework-check-sb-wordlist-05.json",
       "markdown": "homework-check-sb-wordlist-05.md",
@@ -68,7 +68,7 @@
     },
     {
       "id": "6-sb-wordlist-homework-06",
-      "title": "6 клас · Wordlist · Unit 6",
+      "title": "6en75 Wordlist Unit 6",
       "source_lesson": "6/sb-wordlist/index.html",
       "json": "homework-check-sb-wordlist-06.json",
       "markdown": "homework-check-sb-wordlist-06.md",
@@ -80,7 +80,7 @@
     },
     {
       "id": "6-sb-wordlist-homework-07",
-      "title": "6 клас · Wordlist · Unit 7",
+      "title": "6en85 Wordlist Unit 7",
       "source_lesson": "6/sb-wordlist/index.html",
       "json": "homework-check-sb-wordlist-07.json",
       "markdown": "homework-check-sb-wordlist-07.md",
@@ -92,7 +92,7 @@
     },
     {
       "id": "6-sb-wordlist-homework-08",
-      "title": "6 клас · Wordlist · Unit 8",
+      "title": "6en95 Wordlist Unit 8",
       "source_lesson": "6/sb-wordlist/index.html",
       "json": "homework-check-sb-wordlist-08.json",
       "markdown": "homework-check-sb-wordlist-08.md",

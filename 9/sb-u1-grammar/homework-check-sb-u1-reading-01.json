@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · All About Me: Читання",
+  "title": "9en15 Me: Reading",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-u1-reading/index.html",
@@ -147,12 +147,24 @@
         "9-sb-u1-look-back-homework-01",
         "9-sb-u1-reading-homework-01"
       ],
-      "source_match": "identical questions, answer options, and point weights"
+      "source_match": "identical questions, answer options, and point weights",
+      "mapping_status": "shared_platform_id_conflict"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · All About Me: Читання",
+  "lesson_naming": {
+    "lesson_code": "9en15",
+    "plan_date": "2026-09-08",
+    "learning_month": 1,
+    "lesson_in_month": 5,
+    "target_title": "9en15 Me: Reading",
+    "mapping_method": "section",
+    "status": "pending_external_rename",
+    "kahoot_mapping_status": "shared_platform_id_conflict"
   }
 }

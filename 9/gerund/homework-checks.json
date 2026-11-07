@@ -4,7 +4,7 @@
   "tests": [
     {
       "id": "9-gerund-homework-01",
-      "title": "9 клас · Gerund — форма, прийменники й зміст",
+      "title": "9en27 Gerund — форма, прийменники й зміст",
       "source_lesson": "9/gerund/index.html",
       "json": "homework-check-gerund-01.json",
       "markdown": "homework-check-gerund-01.md",
@@ -16,7 +16,7 @@
     },
     {
       "id": "9-gerund-homework-02",
-      "title": "9 клас · Gerund — значення stop, remember, try, regret",
+      "title": "9en27 Gerund — значення stop, remember, try, regret",
       "source_lesson": "9/gerund/index.html",
       "json": "homework-check-gerund-02.json",
       "markdown": "homework-check-gerund-02.md",

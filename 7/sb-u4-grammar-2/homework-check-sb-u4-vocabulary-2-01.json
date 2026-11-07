@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Traditions... Traditions...: Лексика: застосування Свята і традиції · Лексика: застосування",
+  "title": "7en46 Traditions: Vocabulary practice",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u4-vocabulary-2/index.html",
@@ -133,7 +133,7 @@
     "kahoot": {
       "id": "64f6a694-842f-452f-9f97-5e1b47e969be",
       "kahoot_id": "64f6a694-842f-452f-9f97-5e1b47e969be",
-      "title": "7 клас · 047 · Traditions: Vocabulary",
+      "title": "7en46 Traditions: Vocabulary practice",
       "editor_url": "https://create.kahoot.it/creator/64f6a694-842f-452f-9f97-5e1b47e969be",
       "status": "homework_created",
       "verified": true,
@@ -181,12 +181,24 @@
       "pages_run_url": "https://github.com/vovche/esl-lessons/actions/runs/40528983767",
       "live_page_url": "https://vovche.github.io/esl-lessons/7/sb-u4-grammar-2/",
       "live_page_http_status": 200,
-      "student_href_verified": true
+      "student_href_verified": true,
+      "title_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7 клас · Traditions... Traditions...: Лексика: застосування Свята і традиції · Лексика: застосування",
+  "lesson_naming": {
+    "lesson_code": "7en46",
+    "plan_date": "2026-12-09",
+    "learning_month": 4,
+    "lesson_in_month": 6,
+    "target_title": "7en46 Traditions: Vocabulary practice",
+    "mapping_method": "section",
+    "status": "kahoot_renamed_pending_naurok",
+    "kahoot_title_verified": "7en46 Traditions: Vocabulary practice"
   }
 }

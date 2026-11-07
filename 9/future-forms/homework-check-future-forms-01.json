@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · Future Forms — чотири форми майбутнього",
+  "title": "9en56 Future Forms — чотири форми майбутнього",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/future-forms/index.html",
@@ -93,5 +93,15 @@
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · Future Forms — чотири форми майбутнього",
+  "lesson_naming": {
+    "lesson_code": "9en56",
+    "plan_date": "2027-01-26",
+    "learning_month": 5,
+    "lesson_in_month": 6,
+    "target_title": "9en56 Future Forms — чотири форми майбутнього",
+    "mapping_method": "supplement_section",
+    "status": "pending_external_rename"
   }
 }

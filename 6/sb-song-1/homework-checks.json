@@ -4,7 +4,7 @@
   "tests": [
     {
       "id": "6-sb-2e-homework-01",
-      "title": "A school trip · 6 клас · ESL 2e",
+      "title": "6en29 A school trip",
       "source_lesson": "6/sb-2e/index.html",
       "json": "homework-check-sb-2e-01.json",
       "markdown": "homework-check-sb-2e-01.md",

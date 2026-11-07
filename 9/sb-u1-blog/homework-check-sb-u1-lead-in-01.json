@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · All About Me: Починаємо тему",
+  "title": "9en12 Me: Intro",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-u1-lead-in/index.html",
@@ -139,12 +139,24 @@
       "live_page_url": "https://vovche.github.io/esl-lessons/9/sb-u1-blog/",
       "live_http_status": 200,
       "live_student_href_count": 1,
-      "live_student_link_verified": true
+      "live_student_link_verified": true,
+      "mapping_status": "shared_platform_id_conflict"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · All About Me: Починаємо тему",
+  "lesson_naming": {
+    "lesson_code": "9en12",
+    "plan_date": "2026-09-02",
+    "learning_month": 1,
+    "lesson_in_month": 2,
+    "target_title": "9en12 Me: Intro",
+    "mapping_method": "unit_lead_in",
+    "status": "pending_external_rename",
+    "kahoot_mapping_status": "shared_platform_id_conflict"
   }
 }

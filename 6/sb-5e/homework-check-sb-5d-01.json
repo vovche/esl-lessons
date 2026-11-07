@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "Animal protection · 6 клас · ESL 5d",
+  "title": "6en61 Animal protection",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-5d/index.html",
@@ -120,7 +120,7 @@
     },
     "kahoot": {
       "id": "44e0e334-ead8-4c76-b166-8559c2ac4166",
-      "title": "6 клас · 065 · Animal protection",
+      "title": "6en61 Animal protection",
       "editor_url": "https://create.kahoot.it/creator/44e0e334-ead8-4c76-b166-8559c2ac4166",
       "status": "homework_created",
       "verified": true,
@@ -151,12 +151,25 @@
       "content_verified_after_reopen": true,
       "course_id": "7572952c-010e-4290-8d43-1a907efd66cc",
       "course_title": "6 клас",
-      "course_module": 5
+      "course_module": 5,
+      "previous_title": "6 клас · 065 · Animal protection",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en61 Animal protection",
+  "lesson_naming": {
+    "lesson_code": "6en61",
+    "plan_date": "2027-02-01",
+    "learning_month": 6,
+    "lesson_in_month": 1,
+    "target_title": "6en61 Animal protection",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en61 Animal protection"
   }
 }

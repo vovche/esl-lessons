@@ -4,7 +4,7 @@
   "tests": [
     {
       "id": "6-sb-clil-music-homework-01",
-      "title": "Instrument families · 6 клас · ESL clil-music",
+      "title": "6en810 Instrument families",
       "source_lesson": "6/sb-clil-music/index.html",
       "json": "homework-check-sb-clil-music-01.json",
       "markdown": "homework-check-sb-clil-music-01.md",

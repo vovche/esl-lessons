@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Starter — початок навчального року",
+  "title": "7en11 Starter",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-starter/index.html",
@@ -136,7 +136,7 @@
     },
     "kahoot": {
       "kahoot_id": "ae63bb79-e3d7-42e8-82bf-9d0f524ba0b6",
-      "title": "7 клас · 001 · Back to school",
+      "title": "7en11 Starter",
       "editor_url": "https://create.kahoot.it/creator/ae63bb79-e3d7-42e8-82bf-9d0f524ba0b6",
       "status": "homework_created",
       "verified": true,
@@ -197,12 +197,25 @@
       "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
       "course_title": "7 клас",
       "module": 1,
-      "course_saved_as": "draft"
+      "course_saved_as": "draft",
+      "previous_title": "7 клас · 001 · Back to school",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en11 Starter",
+  "lesson_naming": {
+    "lesson_code": "7en11",
+    "plan_date": "2026-09-01",
+    "learning_month": 1,
+    "lesson_in_month": 1,
+    "target_title": "7en11 Starter",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en11 Starter"
   }
 }

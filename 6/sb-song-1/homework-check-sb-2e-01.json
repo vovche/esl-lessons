@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "A school trip · 6 клас · ESL 2e",
+  "title": "6en29 A school trip",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-2e/index.html",
@@ -120,7 +120,7 @@
     },
     "kahoot": {
       "kahoot_id": "4dcd64be-9670-4cfc-8eb1-ba112172323f",
-      "title": "6 клас · 025 · A school trip",
+      "title": "6en29 A school trip",
       "editor_url": "https://create.kahoot.it/creator/4dcd64be-9670-4cfc-8eb1-ba112172323f",
       "status": "homework_created",
       "verified": true,
@@ -179,12 +179,25 @@
           ]
         }
       ],
-      "created_at": "2026-10-25T13:15:05.135773+00:00"
+      "created_at": "2026-10-25T13:15:05.135773+00:00",
+      "previous_title": "6 клас · 025 · A school trip",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en29 A school trip",
+  "lesson_naming": {
+    "lesson_code": "6en29",
+    "plan_date": "2026-10-19",
+    "learning_month": 2,
+    "lesson_in_month": 9,
+    "target_title": "6en29 A school trip",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en29 A school trip"
   }
 }

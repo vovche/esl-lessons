@@ -4,7 +4,7 @@
   "tests": [
     {
       "id": "7-sb-u8-look-back-homework-01",
-      "title": "7 клас · What is there to see and to do?: Повторення Подорожі й визначні місця · Повторення",
+      "title": "7en98 Travel: Review",
       "source_lesson": "7/sb-u8-look-back/index.html",
       "json": "homework-check-sb-u8-look-back-01.json",
       "markdown": "homework-check-sb-u8-look-back-01.md",
@@ -16,7 +16,7 @@
     },
     {
       "id": "7-sb-u8-self-check-homework-01",
-      "title": "7 клас · What is there to see and to do?: Самоперевірка Подорожі й визначні місця · Самоперевірка",
+      "title": "7en912 Travel: Self-check",
       "source_lesson": "7/sb-u8-self-check/index.html",
       "json": "homework-check-sb-u8-self-check-01.json",
       "markdown": "homework-check-sb-u8-self-check-01.md",

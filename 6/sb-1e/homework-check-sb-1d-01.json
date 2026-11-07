@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "Free time · 6 клас · ESL 1d",
+  "title": "6en110 Free time",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-1d/index.html",
@@ -120,7 +120,7 @@
     },
     "kahoot": {
       "id": "744459d7-a176-4c61-8d46-dc3bc879a0bb",
-      "title": "6 клас · 004 · Free time",
+      "title": "6en110 Free time",
       "editor_url": "https://create.kahoot.it/creator/744459d7-a176-4c61-8d46-dc3bc879a0bb",
       "status": "homework_created",
       "verified": true,
@@ -149,12 +149,25 @@
       "randomize_answer_order": true,
       "student_entry_verified": true,
       "content_verified_after_reopen": true,
-      "adaptations": []
+      "adaptations": [],
+      "previous_title": "6 клас · 004 · Free time",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en110 Free time",
+  "lesson_naming": {
+    "lesson_code": "6en110",
+    "plan_date": "2026-09-18",
+    "learning_month": 1,
+    "lesson_in_month": 10,
+    "target_title": "6en110 Free time",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en110 Free time"
   }
 }

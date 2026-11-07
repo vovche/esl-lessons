@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · Лексика курсу · Unit 2",
+  "title": "9en212 Wordlist Unit 2",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-wordlist/index.html",
@@ -157,5 +157,15 @@
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · Лексика курсу · Unit 2",
+  "lesson_naming": {
+    "lesson_code": "9en212",
+    "plan_date": "2026-10-22",
+    "learning_month": 2,
+    "lesson_in_month": 12,
+    "target_title": "9en212 Wordlist Unit 2",
+    "mapping_method": "unit_reference",
+    "status": "pending_external_rename"
   }
 }

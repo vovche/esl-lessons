@@ -4,7 +4,7 @@
   "tests": [
     {
       "id": "6-sb-2b-homework-01",
-      "title": "Transport · 6 клас · ESL 2b",
+      "title": "6en23 Transport",
       "source_lesson": "6/sb-2b/index.html",
       "json": "homework-check-sb-2b-01.json",
       "markdown": "homework-check-sb-2b-01.md",

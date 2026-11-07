@@ -4,7 +4,7 @@
   "tests": [
     {
       "id": "6-jolly-phonics-homework-01",
-      "title": "6 клас · Jolly Phonics · Group 1",
+      "title": "6en14 Jolly Phonics Group 1",
       "source_lesson": "6/jolly-phonics/index.html",
       "json": "homework-check-jolly-phonics-01.json",
       "markdown": "homework-check-jolly-phonics-01.md",
@@ -17,7 +17,7 @@
     },
     {
       "id": "6-jolly-phonics-homework-02",
-      "title": "6 клас · Jolly Phonics · Group 2",
+      "title": "6en21 Jolly Phonics Group 2",
       "source_lesson": "6/jolly-phonics/index.html",
       "json": "homework-check-jolly-phonics-02.json",
       "markdown": "homework-check-jolly-phonics-02.md",
@@ -30,7 +30,7 @@
     },
     {
       "id": "6-jolly-phonics-homework-03",
-      "title": "6 клас · Jolly Phonics · Group 3",
+      "title": "6en32 Jolly Phonics Group 3",
       "source_lesson": "6/jolly-phonics/index.html",
       "json": "homework-check-jolly-phonics-03.json",
       "markdown": "homework-check-jolly-phonics-03.md",
@@ -43,7 +43,7 @@
     },
     {
       "id": "6-jolly-phonics-homework-04",
-      "title": "6 клас · Jolly Phonics · Group 4",
+      "title": "6en315 Jolly Phonics Group 4",
       "source_lesson": "6/jolly-phonics/index.html",
       "json": "homework-check-jolly-phonics-04.json",
       "markdown": "homework-check-jolly-phonics-04.md",
@@ -56,7 +56,7 @@
     },
     {
       "id": "6-jolly-phonics-homework-05",
-      "title": "6 клас · Jolly Phonics · Group 5",
+      "title": "6en51 Jolly Phonics Group 5",
       "source_lesson": "6/jolly-phonics/index.html",
       "json": "homework-check-jolly-phonics-05.json",
       "markdown": "homework-check-jolly-phonics-05.md",
@@ -69,7 +69,7 @@
     },
     {
       "id": "6-jolly-phonics-homework-06",
-      "title": "6 клас · Jolly Phonics · Group 6",
+      "title": "6en69 Jolly Phonics Group 6",
       "source_lesson": "6/jolly-phonics/index.html",
       "json": "homework-check-jolly-phonics-06.json",
       "markdown": "homework-check-jolly-phonics-06.md",
@@ -82,7 +82,7 @@
     },
     {
       "id": "6-jolly-phonics-homework-07",
-      "title": "6 клас · Jolly Phonics · Group 7",
+      "title": "6en79 Jolly Phonics Group 7",
       "source_lesson": "6/jolly-phonics/index.html",
       "json": "homework-check-jolly-phonics-07.json",
       "markdown": "homework-check-jolly-phonics-07.md",

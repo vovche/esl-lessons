@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · What is there to see and to do?: Граматика: застосування Подорожі й визначні місця · Граматика: застосування",
+  "title": "7en95 Travel: Grammar practice",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u8-grammar-2/index.html",
@@ -133,7 +133,7 @@
     "kahoot": {
       "id": "25087bc1-b3fa-41d4-b1c7-162228985eda",
       "kahoot_id": "25087bc1-b3fa-41d4-b1c7-162228985eda",
-      "title": "7 клас · 103 · Подорожі: граматика",
+      "title": "7en95 Travel: Grammar practice",
       "editor_url": "https://create.kahoot.it/creator/25087bc1-b3fa-41d4-b1c7-162228985eda",
       "test_url": "https://create.kahoot.it/details/7-103/25087bc1-b3fa-41d4-b1c7-162228985eda",
       "verified": true,
@@ -170,12 +170,25 @@
       "course_membership_verified": true,
       "course_status": "draft_not_saved_due_empty_module_7",
       "assessment_lesson_path": "7/sb-u8-speaking/",
-      "status": "homework_created"
+      "status": "homework_created",
+      "previous_title": "7 клас · 103 · Подорожі: граматика",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en95 Travel: Grammar practice",
+  "lesson_naming": {
+    "lesson_code": "7en95",
+    "plan_date": "2027-05-10",
+    "learning_month": 9,
+    "lesson_in_month": 5,
+    "target_title": "7en95 Travel: Grammar practice",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en95 Travel: Grammar practice"
   }
 }

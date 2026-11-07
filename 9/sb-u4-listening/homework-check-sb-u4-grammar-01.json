@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · Media in Our Lives: Граматика",
+  "title": "9en45 Media: Grammar",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-u4-grammar/index.html",
@@ -103,5 +103,15 @@
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · Media in Our Lives: Граматика",
+  "lesson_naming": {
+    "lesson_code": "9en45",
+    "plan_date": "2026-12-09",
+    "learning_month": 4,
+    "lesson_in_month": 5,
+    "target_title": "9en45 Media: Grammar",
+    "mapping_method": "section",
+    "status": "pending_external_rename"
   }
 }

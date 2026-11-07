@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "Learn and create · 6 клас · ESL learning-tips",
+  "title": "6en11 Learn and create",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-learning-tips/index.html",
@@ -117,7 +117,7 @@
     "kahoot": {
       "kahoot_id": "9f9e5b01-0cd1-4175-9863-06421769a81e",
       "assignment_id": "9fe8cec6-b141-4a95-827a-6812442fbf4c",
-      "title": "6 клас · 095 · Learn and create",
+      "title": "6en11 Learn and create",
       "status": "homework_created",
       "verified": true,
       "visibility": "public",
@@ -150,12 +150,25 @@
       "student_entry_verified": true,
       "assignment_deadline_verified": true,
       "verified_on_site_at": "2026-10-26",
-      "assessment_lesson_path": "6/sb-learning-tips/"
+      "assessment_lesson_path": "6/sb-learning-tips/",
+      "previous_title": "6 клас · 095 · Learn and create",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en11 Learn and create",
+  "lesson_naming": {
+    "lesson_code": "6en11",
+    "plan_date": "2026-09-01",
+    "learning_month": 1,
+    "lesson_in_month": 1,
+    "target_title": "6en11 Learn and create",
+    "mapping_method": "supplement_section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en11 Learn and create"
   }
 }

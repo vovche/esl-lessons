@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Are you ready to cook?: Говоріння Приготування їжі · Говоріння",
+  "title": "7en311 Cooking: Speaking",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u3-speaking/index.html",
@@ -177,5 +177,15 @@
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en311 Cooking: Speaking",
+  "lesson_naming": {
+    "lesson_code": "7en311",
+    "plan_date": "2026-11-18",
+    "learning_month": 3,
+    "lesson_in_month": 11,
+    "target_title": "7en311 Cooking: Speaking",
+    "mapping_method": "section",
+    "status": "naurok_renamed_pending_kahoot"
   }
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Traditions... Traditions...: Граматика: застосування Свята і традиції · Граматика: застосування",
+  "title": "7en47 Traditions: Grammar practice",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u4-grammar-2/index.html",
@@ -169,5 +169,15 @@
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7 клас · Traditions... Traditions...: Граматика: застосування Свята і традиції · Граматика: застосування",
+  "lesson_naming": {
+    "lesson_code": "7en47",
+    "plan_date": "2026-12-10",
+    "learning_month": 4,
+    "lesson_in_month": 7,
+    "target_title": "7en47 Traditions: Grammar practice",
+    "mapping_method": "section",
+    "status": "pending_external_rename"
   }
 }

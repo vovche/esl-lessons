@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Are you ready to cook?: Лексика: застосування Приготування їжі · Лексика: застосування",
+  "title": "7en39 Cooking: Vocabulary practice",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u3-vocabulary-2/index.html",
@@ -182,5 +182,15 @@
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7 клас · Are you ready to cook?: Лексика: застосування Приготування їжі · Лексика: застосування",
+  "lesson_naming": {
+    "lesson_code": "7en39",
+    "plan_date": "2026-11-16",
+    "learning_month": 3,
+    "lesson_in_month": 9,
+    "target_title": "7en39 Cooking: Vocabulary practice",
+    "mapping_method": "section",
+    "status": "pending_external_rename"
   }
 }

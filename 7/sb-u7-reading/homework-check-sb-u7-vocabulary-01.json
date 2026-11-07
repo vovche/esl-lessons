@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Curtain up!: Лексика Кіно і театр · Лексика",
+  "title": "7en714 Film & theatre: Vocabulary",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u7-vocabulary/index.html",
@@ -131,8 +131,8 @@
       ]
     },
     "kahoot": {
-      "id": "f1adae4a-ff45-4a85-bae8-b966b446dc91",
-      "editor_url": "https://create.kahoot.it/creator/f1adae4a-ff45-4a85-bae8-b966b446dc91",
+      "id": "e86f2b97-f636-44f7-bcc0-ac4aab1aa1e9",
+      "editor_url": "https://create.kahoot.it/creator/e86f2b97-f636-44f7-bcc0-ac4aab1aa1e9",
       "status": "homework_created",
       "verified": true,
       "visibility": "private",
@@ -150,27 +150,37 @@
       ],
       "normalization_max": 10,
       "normalization_formula": "earned_points / maximum_possible_points * 10",
-      "assignment_id": "033cebe8-479a-4fe7-a5c8-dc9c9eec3506",
-      "code": "0073793472",
-      "student_url": "https://kahoot.it/challenge/0073793472",
-      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/033cebe8-479a-4fe7-a5c8-dc9c9eec3506/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1793295451401/summary",
+      "assignment_id": "513937b0-f635-4908-bf1d-5030c3406e2e",
+      "code": "0053921010",
+      "student_url": "https://kahoot.it/challenge/0053921010",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/513937b0-f635-4908-bf1d-5030c3406e2e/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1794053707370/summary",
       "deadline": null,
       "no_deadline": true,
       "question_timer": false,
       "randomize_answer_order": true,
       "student_entry_verified": false,
       "content_verified_after_reopen": true,
-      "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
-      "course_module": 7,
-      "course_placement_verified": false,
-      "visibility_change_authorized_by_user": true,
-      "reused_from_test": "7-sb-u7-blog-homework-01",
-      "reuse_reason": "All 8 prompts, correct answers, answer option sets, and weights match exactly."
+      "previous_title": "7en714 Film & theatre: Vocabulary",
+      "title": "7en714 Film & theatre: Vocabulary",
+      "renamed_verified_on": "2026-11-07",
+      "cloned_from_kahoot_id": "e86f2b97-f636-44f7-bcc0-ac4aab1aa1e9",
+      "content_match_verified": true
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en714 Film & theatre: Vocabulary",
+  "lesson_naming": {
+    "lesson_code": "7en714",
+    "plan_date": "2027-03-30",
+    "learning_month": 7,
+    "lesson_in_month": 14,
+    "target_title": "7en714 Film & theatre: Vocabulary",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en714 Film & theatre: Vocabulary"
   }
 }

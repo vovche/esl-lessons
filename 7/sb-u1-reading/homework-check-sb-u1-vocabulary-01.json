@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · In and out of school: Лексика Шкільне життя і дозвілля · Лексика",
+  "title": "7en14 School: Vocabulary",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u1-vocabulary/index.html",
@@ -136,7 +136,7 @@
     },
     "kahoot": {
       "kahoot_id": "515267d9-eaf0-40f6-9190-5e6d9b410635",
-      "title": "7 клас · 004 · School vocabulary",
+      "title": "7en14 School: Vocabulary",
       "editor_url": "https://create.kahoot.it/creator/515267d9-eaf0-40f6-9190-5e6d9b410635",
       "status": "homework_created",
       "verified": true,
@@ -199,12 +199,25 @@
       "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
       "course_title": "7 клас",
       "module": 1,
-      "course_saved_as": "draft"
+      "course_saved_as": "draft",
+      "previous_title": "7 клас · 004 · School vocabulary",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en14 School: Vocabulary",
+  "lesson_naming": {
+    "lesson_code": "7en14",
+    "plan_date": "2026-09-07",
+    "learning_month": 1,
+    "lesson_in_month": 4,
+    "target_title": "7en14 School: Vocabulary",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en14 School: Vocabulary"
   }
 }

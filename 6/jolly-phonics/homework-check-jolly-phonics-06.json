@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "6 клас · Jolly Phonics · Group 6",
+  "title": "6en69 Jolly Phonics Group 6",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/jolly-phonics/index.html",
@@ -87,7 +87,7 @@
     },
     "kahoot": {
       "id": "37b335a0-6dbc-4d1e-b95e-cca1e8e4d32b",
-      "title": "6 клас · 000 · Jolly Phonics 6",
+      "title": "6en69 Jolly Phonics Group 6",
       "editor_url": "https://create.kahoot.it/creator/37b335a0-6dbc-4d1e-b95e-cca1e8e4d32b",
       "status": "homework_created",
       "verified": true,
@@ -124,12 +124,25 @@
       "adaptations": [
         "English prompts shortened for Kahoot while preserving source words and phonics tasks.",
         "Source weights 1/2/3 mapped to Standard/Double; report normalized to 10."
-      ]
+      ],
+      "previous_title": "6 клас · 000 · Jolly Phonics 6",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6 клас · Jolly Phonics · Group 6",
+  "lesson_naming": {
+    "lesson_code": "6en69",
+    "plan_date": "2027-02-16",
+    "learning_month": 6,
+    "lesson_in_month": 9,
+    "target_title": "6en69 Jolly Phonics Group 6",
+    "mapping_method": "phonics_unit",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en69 Jolly Phonics Group 6"
   }
 }

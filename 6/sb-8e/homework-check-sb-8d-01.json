@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "The Oscars · 6 клас · ESL 8d",
+  "title": "6en92 The Oscars",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-8d/index.html",
@@ -120,7 +120,7 @@
     },
     "kahoot": {
       "id": "2d815f4d-fe05-4193-b36a-bea0f6942809",
-      "title": "6 клас · 087 · The Oscars",
+      "title": "6en92 The Oscars",
       "editor_url": "https://create.kahoot.it/creator/2d815f4d-fe05-4193-b36a-bea0f6942809",
       "status": "homework_created",
       "verified": true,
@@ -168,12 +168,25 @@
       "created_at": "2026-10-26T19:55:00Z",
       "adaptations": [
         "Три словникові питання у Kahoot зроблено письмовими відповідями; текст читання подано на двох слайдах."
-      ]
+      ],
+      "previous_title": "6 клас · 087 · The Oscars",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en92 The Oscars",
+  "lesson_naming": {
+    "lesson_code": "6en92",
+    "plan_date": "2027-05-04",
+    "learning_month": 9,
+    "lesson_in_month": 2,
+    "target_title": "6en92 The Oscars",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en92 The Oscars"
   }
 }

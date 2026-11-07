@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "Ailments and illnesses · 6 клас · ESL 6b",
+  "title": "6en612 Ailments and illnesses",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-6b/index.html",
@@ -120,7 +120,7 @@
     },
     "kahoot": {
       "id": "7f86a49c-a8d0-4511-834b-cbf3a62ad9d0",
-      "title": "6 клас · 074 · Ailments",
+      "title": "6en612 Ailments and illnesses",
       "editor_url": "https://create.kahoot.it/creator/7f86a49c-a8d0-4511-834b-cbf3a62ad9d0",
       "status": "homework_created",
       "verified": true,
@@ -156,12 +156,25 @@
       "adaptations": [
         "Питання 7–8 скорочено до тестового формату з вибором відповіді для Kahoot; ключі збережено.",
         "Шкалу Kahoot нормалізувати до 10 балів за формулою earned_points / maximum_possible_points * 10."
-      ]
+      ],
+      "previous_title": "6 клас · 074 · Ailments",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en612 Ailments and illnesses",
+  "lesson_naming": {
+    "lesson_code": "6en612",
+    "plan_date": "2027-02-22",
+    "learning_month": 6,
+    "lesson_in_month": 12,
+    "target_title": "6en612 Ailments and illnesses",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en612 Ailments and illnesses"
   }
 }

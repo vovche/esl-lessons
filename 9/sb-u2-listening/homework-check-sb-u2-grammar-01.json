@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · Fashion All the Way: Граматика",
+  "title": "9en24 Fashion: Grammar",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-u2-grammar/index.html",
@@ -97,11 +97,56 @@
         2,
         3
       ]
+    },
+    "kahoot": {
+      "id": "a9f9d28c-1e50-4baf-bf3e-54084bac9058",
+      "editor_url": "https://create.kahoot.it/creator/a9f9d28c-1e50-4baf-bf3e-54084bac9058",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 6,
+      "content_slide_count": 2,
+      "source_point_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ],
+      "platform_scoring_mode": "standard",
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "score_note": "Kahoot uses standard points here; the result can be normalized to 10.",
+      "content_verified_after_reopen": true,
+      "title": "9en24 Fashion: Grammar",
+      "renamed_verified_on": "2026-11-07",
+      "assignment_id": "fddd98f2-5e8a-4e92-92b5-fb4b7952c91d",
+      "code": "004575849",
+      "student_url": "https://kahoot.it/challenge/004575849",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/fddd98f2-5e8a-4e92-92b5-fb4b7952c91d/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1794061552130/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "randomize_answer_order": true,
+      "student_entry_verified": false
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
-  }
+  },
+  "previous_title": "9 клас · Fashion All the Way: Граматика",
+  "lesson_naming": {
+    "lesson_code": "9en24",
+    "plan_date": "2026-10-07",
+    "learning_month": 2,
+    "lesson_in_month": 4,
+    "target_title": "9en24 Fashion: Grammar",
+    "mapping_method": "section",
+    "status": "kahoot_renamed_pending_naurok",
+    "kahoot_title_verified": "9en24 Fashion: Grammar"
+  },
+  "naurok_title_status": "pending_verification"
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · Граматика курсу — Units 1–4",
+  "title": "9en413 Grammar reference",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-grammar/index.html",
@@ -118,5 +118,15 @@
     "deadline": "2027-06-01T23:00",
     "semester": "annual",
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · Граматика курсу — Units 1–4",
+  "lesson_naming": {
+    "lesson_code": "9en413",
+    "plan_date": "2026-12-24",
+    "learning_month": 4,
+    "lesson_in_month": 13,
+    "target_title": "9en413 Grammar reference",
+    "mapping_method": "course_reference",
+    "status": "pending_external_rename"
   }
 }

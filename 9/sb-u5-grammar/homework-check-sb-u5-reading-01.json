@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · Jobs Around Us: Читання",
+  "title": "9en54 Jobs: Reading",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-u5-reading/index.html",
@@ -98,11 +98,25 @@
         2,
         3
       ]
+    },
+    "kahoot": {
+      "mapping_status": "shared_platform_id_conflict"
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · Jobs Around Us: Читання",
+  "lesson_naming": {
+    "lesson_code": "9en54",
+    "plan_date": "2027-01-21",
+    "learning_month": 5,
+    "lesson_in_month": 4,
+    "target_title": "9en54 Jobs: Reading",
+    "mapping_method": "section",
+    "status": "pending_external_rename",
+    "kahoot_mapping_status": "shared_platform_id_conflict"
   }
 }

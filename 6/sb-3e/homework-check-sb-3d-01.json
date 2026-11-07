@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "Emotions · 6 клас · ESL 3d",
+  "title": "6en38 Emotions",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-3d/index.html",
@@ -120,7 +120,7 @@
     },
     "kahoot": {
       "kahoot_id": "1900b452-efbb-4705-9594-789e91dc1495",
-      "title": "6 клас · 035 · Feelings",
+      "title": "6en38 Emotions",
       "status": "homework_created",
       "verified": true,
       "visibility": "private",
@@ -179,12 +179,25 @@
           ],
           "adaptation": "complete reading text placed on two preceding content slides"
         }
-      ]
+      ],
+      "previous_title": "6 клас · 035 · Feelings",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en38 Emotions",
+  "lesson_naming": {
+    "lesson_code": "6en38",
+    "plan_date": "2026-11-16",
+    "learning_month": 3,
+    "lesson_in_month": 8,
+    "target_title": "6en38 Emotions",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en38 Emotions"
   }
 }

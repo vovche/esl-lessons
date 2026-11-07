@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Sport from A to Z: Повторення Спорт · Повторення",
+  "title": "7en64 Sport: Review",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u5-look-back/index.html",
@@ -176,12 +176,26 @@
       "live_page_http_status": 200,
       "live_href_count": 1,
       "live_page_path": "7/sb-u5-self-check/",
-      "live_verified_at": "2026-10-27T01:34:54Z"
+      "live_verified_at": "2026-10-27T01:34:54Z",
+      "previous_title": "7 клас · 076 · Sport review",
+      "title": "7en64 Sport: Review",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en64 Sport: Review",
+  "lesson_naming": {
+    "lesson_code": "7en64",
+    "plan_date": "2027-02-04",
+    "learning_month": 6,
+    "lesson_in_month": 4,
+    "target_title": "7en64 Sport: Review",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en64 Sport: Review"
   }
 }

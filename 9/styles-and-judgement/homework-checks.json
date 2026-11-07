@@ -4,7 +4,7 @@
   "tests": [
     {
       "id": "9-fashion-opinions-homework-01",
-      "title": "9 клас · Fashion and me — думки та одяг",
+      "title": "9en28 Fashion: Opinions",
       "source_lesson": "9/fashion-opinions/index.html",
       "json": "homework-check-fashion-opinions-01.json",
       "markdown": "homework-check-fashion-opinions-01.md",

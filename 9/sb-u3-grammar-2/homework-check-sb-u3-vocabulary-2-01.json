@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · We Are Young and Cool!: Лексика в контексті",
+  "title": "9en38 Youth culture: Vocabulary practice",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-u3-vocabulary-2/index.html",
@@ -141,12 +141,24 @@
           "kind": "long_reading_prompt",
           "note": "Reading context retained in two content slides; final comprehension prompt is Ukrainian multiple choice."
         }
-      ]
+      ],
+      "mapping_status": "shared_platform_id_conflict"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · We Are Young and Cool!: Лексика в контексті",
+  "lesson_naming": {
+    "lesson_code": "9en38",
+    "plan_date": "2026-11-16",
+    "learning_month": 3,
+    "lesson_in_month": 8,
+    "target_title": "9en38 Youth culture: Vocabulary practice",
+    "mapping_method": "section",
+    "status": "pending_external_rename",
+    "kahoot_mapping_status": "shared_platform_id_conflict"
   }
 }

@@ -59,20 +59,31 @@ def render_footer(tests: list[dict], lesson_path: str | None = None, root: Path 
     links = []
     for index, test in enumerate(tests, 1):
         kahoot = {}
+        document = {}
+        kahoot_mapping_conflict = False
+        title = None
         if test.get('content_path') and root.is_dir():
             content_file = root / test['content_path']
             if content_file.is_file():
                 assert content_file.resolve().is_relative_to(root.resolve()), 'content path outside lesson root'
                 document = json.loads(content_file.read_text(encoding='utf-8'))
                 kahoot = document.get('platforms', {}).get('kahoot', {})
+                title = document.get('lesson_naming', {}).get('kahoot_title_verified')
+                kahoot_mapping_conflict = (
+                    document.get('kahoot_mapping_status') == 'shared_platform_id_conflict'
+                    or document.get('lesson_naming', {}).get('kahoot_mapping_status')
+                    == 'shared_platform_id_conflict'
+                or kahoot.get('mapping_status') == 'shared_platform_id_conflict'
+                )
         has_kahoot_homework = kahoot.get('status') == 'homework_created' and kahoot.get('verified') is True
+        has_confirmed_kahoot_homework = has_kahoot_homework and not kahoot_mapping_conflict
         if test.get('source_lesson_title'):
             links.append('Перевірка ДЗ за темою «' + html.escape(test['source_lesson_title']) + '».')
         if test.get('status') != 'homework_created':
             label = 'Тест для самоперевірки'
             if len(tests) > 1:
                 label += f' · частина {index}'
-            pending_note = ('Самоперевірка не надсилає результат учителю.' if has_kahoot_homework else
+            pending_note = ('Самоперевірка не надсилає результат учителю.' if has_confirmed_kahoot_homework else
                             'Посилання на домашнє завдання буде додано згодом; '
                             'самоперевірка не надсилає результат учителю.')
             links.append(
@@ -97,7 +108,7 @@ def render_footer(tests: list[dict], lesson_path: str | None = None, root: Path 
                 links.append(f'<a href="{html.escape(content.with_suffix(".pdf").as_posix(), quote=True)}">'
                              'Завдання для друку (PDF)</a>.')
         if test.get('content_path') and root.is_dir():
-            if has_kahoot_homework:
+            if has_confirmed_kahoot_homework:
                 code = str(kahoot.get('code', ''))
                 assert re.fullmatch(r'[0-9]+', code), 'invalid Kahoot challenge code'
                 student = urlparse(kahoot.get('student_url', ''))
@@ -108,9 +119,12 @@ def render_footer(tests: list[dict], lesson_path: str | None = None, root: Path 
                 assert kahoot.get('normalization_max') == 10, 'expected Kahoot normalization to 10'
                 assert kahoot.get('no_deadline') is True and kahoot.get('deadline') is None, \
                     'expected Kahoot homework without a deadline'
+                label = 'Резервне ДЗ на Kahoot'
+                if title:
+                    label += ': ' + html.escape(title)
                 links.append(
                     f'<a href="{html.escape(kahoot["student_url"], quote=True)}" target="_blank" '
-                    'rel="noopener noreferrer">Резервне ДЗ на Kahoot</a> '
+                    f'rel="noopener noreferrer">{label}</a> '
                     '(без кінцевої дати; оцінка за шкалою 10).'
                 )
     return '<p data-naurok-homework="true" data-dictionary-skip>' + '<br>'.join(links) + '</p>'

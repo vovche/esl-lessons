@@ -4,7 +4,7 @@
   "tests": [
     {
       "id": "7-school-special-days-homework-01",
-      "title": "7 клас · Special days at school",
+      "title": "7en15 Special days",
       "source_lesson": "7/school-special-days/index.html",
       "json": "homework-check-school-special-days-01.json",
       "markdown": "homework-check-school-special-days-01.md",

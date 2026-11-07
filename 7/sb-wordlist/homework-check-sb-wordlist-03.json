@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Лексика курсу — Unit 3",
+  "title": "7en316 Wordlist Unit 3",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-wordlist/index.html",
@@ -162,5 +162,15 @@
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7 клас · Лексика курсу — Unit 3",
+  "lesson_naming": {
+    "lesson_code": "7en316",
+    "plan_date": "2026-11-26",
+    "learning_month": 3,
+    "lesson_in_month": 16,
+    "target_title": "7en316 Wordlist Unit 3",
+    "mapping_method": "unit_reference",
+    "status": "pending_external_rename"
   }
 }

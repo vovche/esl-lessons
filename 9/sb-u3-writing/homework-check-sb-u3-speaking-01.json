@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · We Are Young and Cool!: Говоріння",
+  "title": "9en310 Youth culture: Speaking",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-u3-speaking/index.html",
@@ -107,5 +107,15 @@
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · We Are Young and Cool!: Говоріння",
+  "lesson_naming": {
+    "lesson_code": "9en310",
+    "plan_date": "2026-11-18",
+    "learning_month": 3,
+    "lesson_in_month": 10,
+    "target_title": "9en310 Youth culture: Speaking",
+    "mapping_method": "section",
+    "status": "pending_external_rename"
   }
 }

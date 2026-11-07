@@ -4,7 +4,7 @@
   "tests": [
     {
       "id": "6-sb-7b-homework-01",
-      "title": "Music · 6 клас · ESL 7b",
+      "title": "6en712 Music",
       "source_lesson": "6/sb-7b/index.html",
       "json": "homework-check-sb-7b-01.json",
       "markdown": "homework-check-sb-7b-01.md",

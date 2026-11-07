@@ -8,7 +8,7 @@
         {
           "test_id": "3887213",
           "test_url": "https://naurok.com.ua/test-beta/test/3887213",
-          "title": "7 клас · What is there to see and to do?: Починаємо юніт Подорожі й визначні місця · Починаємо юніт",
+          "title": "7en814 Travel: Intro",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -29,7 +29,17 @@
           "assessment_lesson_path": "7/sb-u8-blog/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "What is there to see and to do?: Починаємо юніт Подорожі й визначні місця · Починаємо юніт",
-          "content_id": "7-sb-u8-lead-in-homework-01"
+          "content_id": "7-sb-u8-lead-in-homework-01",
+          "previous_title": "7en814 Travel: Intro",
+          "lesson_naming": {
+            "lesson_code": "7en814",
+            "plan_date": "2027-04-26",
+            "learning_month": 8,
+            "lesson_in_month": 14,
+            "target_title": "7en814 Travel: Intro",
+            "mapping_method": "unit_lead_in",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -39,7 +49,7 @@
         {
           "test_id": "3887216",
           "test_url": "https://naurok.com.ua/test-beta/test/3887216",
-          "title": "7 клас · What is there to see and to do?: Лексика Подорожі й визначні місця · Лексика",
+          "title": "7en816 Travel: Vocabulary",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -60,7 +70,17 @@
           "assessment_lesson_path": "7/sb-u8-reading/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "What is there to see and to do?: Лексика Подорожі й визначні місця · Лексика",
-          "content_id": "7-sb-u8-vocabulary-homework-01"
+          "content_id": "7-sb-u8-vocabulary-homework-01",
+          "previous_title": "7en816 Travel: Vocabulary",
+          "lesson_naming": {
+            "lesson_code": "7en816",
+            "plan_date": "2027-04-28",
+            "learning_month": 8,
+            "lesson_in_month": 16,
+            "target_title": "7en816 Travel: Vocabulary",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -70,7 +90,7 @@
         {
           "test_id": "3887220",
           "test_url": "https://naurok.com.ua/test-beta/test/3887220",
-          "title": "7 клас · What is there to see and to do?: Читання Подорожі й визначні місця · Читання",
+          "title": "7en817 Travel: Reading",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -91,7 +111,17 @@
           "assessment_lesson_path": "7/sb-u8-grammar/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "What is there to see and to do?: Читання Подорожі й визначні місця · Читання",
-          "content_id": "7-sb-u8-reading-homework-01"
+          "content_id": "7-sb-u8-reading-homework-01",
+          "previous_title": "7en817 Travel: Reading",
+          "lesson_naming": {
+            "lesson_code": "7en817",
+            "plan_date": "2027-04-29",
+            "learning_month": 8,
+            "lesson_in_month": 17,
+            "target_title": "7en817 Travel: Reading",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -101,7 +131,7 @@
         {
           "test_id": "3887225",
           "test_url": "https://naurok.com.ua/test-beta/test/3887225",
-          "title": "7 клас · What is there to see and to do?: Граматика Подорожі й визначні місця · Граматика",
+          "title": "7en92 Travel: Grammar",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -122,7 +152,17 @@
           "assessment_lesson_path": "7/sb-u8-listening/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "What is there to see and to do?: Граматика Подорожі й визначні місця · Граматика",
-          "content_id": "7-sb-u8-grammar-homework-01"
+          "content_id": "7-sb-u8-grammar-homework-01",
+          "previous_title": "7en92 Travel: Grammar",
+          "lesson_naming": {
+            "lesson_code": "7en92",
+            "plan_date": "2027-05-04",
+            "learning_month": 9,
+            "lesson_in_month": 2,
+            "target_title": "7en92 Travel: Grammar",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -132,7 +172,7 @@
         {
           "test_id": "3887230",
           "test_url": "https://naurok.com.ua/test-beta/test/3887230",
-          "title": "7 клас · What is there to see and to do?: Слухання Подорожі й визначні місця · Слухання",
+          "title": "7en93 Travel: Listening",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -153,7 +193,17 @@
           "assessment_lesson_path": "7/sb-u8-vocabulary-2/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "What is there to see and to do?: Слухання Подорожі й визначні місця · Слухання",
-          "content_id": "7-sb-u8-listening-homework-01"
+          "content_id": "7-sb-u8-listening-homework-01",
+          "previous_title": "7en93 Travel: Listening",
+          "lesson_naming": {
+            "lesson_code": "7en93",
+            "plan_date": "2027-05-05",
+            "learning_month": 9,
+            "lesson_in_month": 3,
+            "target_title": "7en93 Travel: Listening",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -163,7 +213,7 @@
         {
           "test_id": "3887231",
           "test_url": "https://naurok.com.ua/test-beta/test/3887231",
-          "title": "7 клас · What is there to see and to do?: Лексика: застосування Подорожі й визначні місця · Лексика: застосування",
+          "title": "7en94 Travel: Vocabulary practice",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -184,7 +234,17 @@
           "assessment_lesson_path": "7/sb-u8-grammar-2/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "What is there to see and to do?: Лексика: застосування Подорожі й визначні місця · Лексика: застосування",
-          "content_id": "7-sb-u8-vocabulary-2-homework-01"
+          "content_id": "7-sb-u8-vocabulary-2-homework-01",
+          "previous_title": "7en94 Travel: Vocabulary practice",
+          "lesson_naming": {
+            "lesson_code": "7en94",
+            "plan_date": "2027-05-06",
+            "learning_month": 9,
+            "lesson_in_month": 4,
+            "target_title": "7en94 Travel: Vocabulary practice",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -194,7 +254,7 @@
         {
           "test_id": "3887235",
           "test_url": "https://naurok.com.ua/test-beta/test/3887235",
-          "title": "7 клас · What is there to see and to do?: Граматика: застосування Подорожі й визначні місця · Граматика: застосування",
+          "title": "7en95 Travel: Grammar practice",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -215,7 +275,17 @@
           "assessment_lesson_path": "7/sb-u8-speaking/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "What is there to see and to do?: Граматика: застосування Подорожі й визначні місця · Граматика: застосування",
-          "content_id": "7-sb-u8-grammar-2-homework-01"
+          "content_id": "7-sb-u8-grammar-2-homework-01",
+          "previous_title": "7en95 Travel: Grammar practice",
+          "lesson_naming": {
+            "lesson_code": "7en95",
+            "plan_date": "2027-05-10",
+            "learning_month": 9,
+            "lesson_in_month": 5,
+            "target_title": "7en95 Travel: Grammar practice",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -225,7 +295,7 @@
         {
           "test_id": "3887239",
           "test_url": "https://naurok.com.ua/test-beta/test/3887239",
-          "title": "7 клас · What is there to see and to do?: Говоріння Подорожі й визначні місця · Говоріння",
+          "title": "7en96 Travel: Speaking",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -246,7 +316,17 @@
           "assessment_lesson_path": "7/sb-u8-writing/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "What is there to see and to do?: Говоріння Подорожі й визначні місця · Говоріння",
-          "content_id": "7-sb-u8-speaking-homework-01"
+          "content_id": "7-sb-u8-speaking-homework-01",
+          "previous_title": "7en96 Travel: Speaking",
+          "lesson_naming": {
+            "lesson_code": "7en96",
+            "plan_date": "2027-05-11",
+            "learning_month": 9,
+            "lesson_in_month": 6,
+            "target_title": "7en96 Travel: Speaking",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -256,7 +336,7 @@
         {
           "test_id": "3887240",
           "test_url": "https://naurok.com.ua/test-beta/test/3887240",
-          "title": "7 клас · What is there to see and to do?: Письмо Подорожі й визначні місця · Письмо",
+          "title": "7en97 Travel: Writing",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -277,7 +357,17 @@
           "assessment_lesson_path": "7/sb-u8-look-back/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "What is there to see and to do?: Письмо Подорожі й визначні місця · Письмо",
-          "content_id": "7-sb-u8-writing-homework-01"
+          "content_id": "7-sb-u8-writing-homework-01",
+          "previous_title": "7en97 Travel: Writing",
+          "lesson_naming": {
+            "lesson_code": "7en97",
+            "plan_date": "2027-05-12",
+            "learning_month": 9,
+            "lesson_in_month": 7,
+            "target_title": "7en97 Travel: Writing",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -287,7 +377,7 @@
         {
           "test_id": "3887242",
           "test_url": "https://naurok.com.ua/test-beta/test/3887242",
-          "title": "7 клас · What is there to see and to do?: Блог і обговорення Подорожі й визначні місця · Блог і обговорення",
+          "title": "7en814 Travel: Blog",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -308,7 +398,17 @@
           "assessment_lesson_path": "7/sb-u8-vocabulary/index.html",
           "placement_rule": "next_lesson",
           "source_lesson_title": "What is there to see and to do?: Блог і обговорення Подорожі й визначні місця · Блог і обговорення",
-          "content_id": "7-sb-u8-blog-homework-01"
+          "content_id": "7-sb-u8-blog-homework-01",
+          "previous_title": "7en814 Travel: Blog",
+          "lesson_naming": {
+            "lesson_code": "7en814",
+            "plan_date": "2027-04-26",
+            "learning_month": 8,
+            "lesson_in_month": 14,
+            "target_title": "7en814 Travel: Blog",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -318,7 +418,7 @@
         {
           "test_id": "3887244",
           "test_url": "https://naurok.com.ua/test-beta/test/3887244",
-          "title": "7 клас · What is there to see and to do?: Повторення Подорожі й визначні місця · Повторення",
+          "title": "7en98 Travel: Review",
           "points": 10,
           "status": "published_pending_homework_daily_limit",
           "verified": true,
@@ -343,7 +443,17 @@
           "placement_rule": "next_lesson",
           "source_lesson_title": "What is there to see and to do?: Повторення Подорожі й визначні місця · Повторення",
           "plan_path": "7/sb-u8-self-check/homework-check-sb-u8-look-back-01.json",
-          "content_id": "7-sb-u8-look-back-homework-01"
+          "content_id": "7-sb-u8-look-back-homework-01",
+          "previous_title": "7en98 Travel: Review",
+          "lesson_naming": {
+            "lesson_code": "7en98",
+            "plan_date": "2027-05-13",
+            "learning_month": 9,
+            "lesson_in_month": 8,
+            "target_title": "7en98 Travel: Review",
+            "mapping_method": "section",
+            "status": "verified_both_platforms"
+          }
         }
       ]
     },
@@ -353,7 +463,7 @@
         {
           "test_id": "3887491",
           "builder_url": "https://naurok.com.ua/test/builder/3887491",
-          "title": "7 клас · What is there to see and to do?: Самоперевірка Подорожі й визначні місця · Самоперевірка",
+          "title": "7en912 Travel: Self-check",
           "points": 10,
           "question_points": [
             1,
@@ -378,7 +488,17 @@
           "placement_rule": "no_next_lesson",
           "source_lesson_title": "What is there to see and to do?: Самоперевірка Подорожі й визначні місця · Самоперевірка",
           "plan_path": "7/sb-u8-self-check/homework-check-sb-u8-self-check-01.json",
-          "content_id": "7-sb-u8-self-check-homework-01"
+          "content_id": "7-sb-u8-self-check-homework-01",
+          "previous_title": "7en912 Travel: Self-check",
+          "lesson_naming": {
+            "lesson_code": "7en912",
+            "plan_date": "2027-05-20",
+            "learning_month": 9,
+            "lesson_in_month": 12,
+            "target_title": "7en912 Travel: Self-check",
+            "mapping_method": "section",
+            "status": "naurok_renamed_pending_kahoot"
+          }
         }
       ]
     }

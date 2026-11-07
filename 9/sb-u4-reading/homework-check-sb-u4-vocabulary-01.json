@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · Media in Our Lives: Слова й словосполучення",
+  "title": "9en42 Media: Vocabulary",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-u4-vocabulary/index.html",
@@ -103,5 +103,15 @@
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · Media in Our Lives: Слова й словосполучення",
+  "lesson_naming": {
+    "lesson_code": "9en42",
+    "plan_date": "2026-12-02",
+    "learning_month": 4,
+    "lesson_in_month": 2,
+    "target_title": "9en42 Media: Vocabulary",
+    "mapping_method": "section",
+    "status": "pending_external_rename"
   }
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Sport from A to Z: Блог і обговорення Спорт · Блог і обговорення",
+  "title": "7en51 Sport: Blog",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u5-blog/index.html",
@@ -170,12 +170,26 @@
       "source_link_commit_sha": "c69697f4bc1a672560ef3e8b85d3d995feca68d0",
       "pages_run_id": 40431735776,
       "live_page_http_status": 200,
-      "live_href_count": 1
+      "live_href_count": 1,
+      "previous_title": "7 клас · 075 · Sport blog",
+      "title": "7en51 Sport: Blog",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en51 Sport: Blog",
+  "lesson_naming": {
+    "lesson_code": "7en51",
+    "plan_date": "2027-01-14",
+    "learning_month": 5,
+    "lesson_in_month": 1,
+    "target_title": "7en51 Sport: Blog",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en51 Sport: Blog"
   }
 }

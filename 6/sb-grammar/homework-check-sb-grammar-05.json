@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "6 клас · Grammar Reference · Unit 5",
+  "title": "6en64 Grammar Reference Unit 5",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-grammar/index.html",
@@ -87,7 +87,7 @@
     },
     "kahoot": {
       "id": "539467b8-0d42-4dad-bbae-f87ade5e4f31",
-      "title": "6 клас · 069 · Grammar Unit 5",
+      "title": "6en64 Grammar Reference Unit 5",
       "editor_url": "https://create.kahoot.it/creator/539467b8-0d42-4dad-bbae-f87ade5e4f31",
       "status": "homework_created",
       "verified": true,
@@ -136,12 +136,25 @@
         "Source weights 1/2/3 mapped to Standard/Double; maximum score 9 is normalized to 10."
       ],
       "canonical_id": "6-sb-grammar-homework-05",
-      "source_json": "6/sb-grammar/homework-check-sb-grammar-05.json"
+      "source_json": "6/sb-grammar/homework-check-sb-grammar-05.json",
+      "previous_title": "6en64 Grammar Reference Unit 5",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en64 Grammar Reference Unit 5",
+  "lesson_naming": {
+    "lesson_code": "6en64",
+    "plan_date": "2027-02-05",
+    "learning_month": 6,
+    "lesson_in_month": 4,
+    "target_title": "6en64 Grammar Reference Unit 5",
+    "mapping_method": "unit_reference",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en64 Grammar Reference Unit 5"
   }
 }

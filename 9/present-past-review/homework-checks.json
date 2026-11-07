@@ -4,7 +4,7 @@
   "tests": [
     {
       "id": "9-personality-growth-homework-01",
-      "title": "9 клас · You can grow — саморозвиток",
+      "title": "9en110 You can grow — саморозвиток",
       "source_lesson": "9/personality-growth/index.html",
       "json": "homework-check-personality-growth-01.json",
       "markdown": "homework-check-personality-growth-01.md",

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · Fashion All the Way: Самооцінювання",
+  "title": "9en211 Fashion: Self-check",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-u2-self-check/index.html",
@@ -103,5 +103,15 @@
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · Fashion All the Way: Самооцінювання",
+  "lesson_naming": {
+    "lesson_code": "9en211",
+    "plan_date": "2026-10-21",
+    "learning_month": 2,
+    "lesson_in_month": 11,
+    "target_title": "9en211 Fashion: Self-check",
+    "mapping_method": "section",
+    "status": "pending_external_rename"
   }
 }

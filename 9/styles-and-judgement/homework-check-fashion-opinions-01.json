@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · Fashion and me — думки та одяг",
+  "title": "9en28 Fashion: Opinions",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/fashion-opinions/index.html",
@@ -97,5 +97,15 @@
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · Fashion and me — думки та одяг",
+  "lesson_naming": {
+    "lesson_code": "9en28",
+    "plan_date": "2026-10-15",
+    "learning_month": 2,
+    "lesson_in_month": 8,
+    "target_title": "9en28 Fashion: Opinions",
+    "mapping_method": "supplement_section",
+    "status": "pending_external_rename"
   }
 }

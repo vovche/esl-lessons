@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · All About Me: Слова й словосполучення",
+  "title": "9en14 Me: Vocabulary",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-u1-vocabulary/index.html",
@@ -101,11 +101,56 @@
         2,
         3
       ]
+    },
+    "kahoot": {
+      "id": "5bb6b12a-a7bf-4160-ae9e-9d1e82a116da",
+      "editor_url": "https://create.kahoot.it/creator/5bb6b12a-a7bf-4160-ae9e-9d1e82a116da",
+      "status": "homework_created",
+      "verified": true,
+      "visibility": "private",
+      "question_count": 6,
+      "content_slide_count": 2,
+      "source_point_weights": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3
+      ],
+      "platform_scoring_mode": "standard",
+      "normalization_max": 10,
+      "normalization_formula": "earned_points / maximum_possible_points * 10",
+      "score_note": "Kahoot connector saves standard points; no per-question double-point setting was available in this creation workflow.",
+      "content_verified_after_reopen": true,
+      "title": "9en14 Me: Vocabulary",
+      "renamed_verified_on": "2026-11-07",
+      "assignment_id": "dda7bd39-8b76-47ff-8db9-adbc8cca0e45",
+      "code": "003143643",
+      "student_url": "https://kahoot.it/challenge/003143643",
+      "teacher_assignment_url": "https://create.kahoot.it/reports/new-challenge/dda7bd39-8b76-47ff-8db9-adbc8cca0e45/7232023c-aa35-4b97-9ba5-76aaead1c7a9/1794060838790/summary",
+      "deadline": null,
+      "no_deadline": true,
+      "question_timer": false,
+      "randomize_answer_order": true,
+      "student_entry_verified": false
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
-  }
+  },
+  "previous_title": "9 клас · All About Me: Слова й словосполучення",
+  "lesson_naming": {
+    "lesson_code": "9en14",
+    "plan_date": "2026-09-07",
+    "learning_month": 1,
+    "lesson_in_month": 4,
+    "target_title": "9en14 Me: Vocabulary",
+    "mapping_method": "section",
+    "status": "kahoot_renamed_pending_naurok",
+    "kahoot_title_verified": "9en14 Me: Vocabulary"
+  },
+  "naurok_title_status": "pending_verification"
 }

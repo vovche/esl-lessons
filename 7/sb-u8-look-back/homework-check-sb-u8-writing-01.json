@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · What is there to see and to do?: Письмо Подорожі й визначні місця · Письмо",
+  "title": "7en97 Travel: Writing",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u8-writing/index.html",
@@ -134,7 +134,7 @@
       "id": "2e2e9247-5857-4285-b9ab-19bc61b1326e",
       "editor_url": "https://create.kahoot.it/creator/2e2e9247-5857-4285-b9ab-19bc61b1326e",
       "test_url": "https://create.kahoot.it/details/7-105/2e2e9247-5857-4285-b9ab-19bc61b1326e",
-      "title": "7 клас · 105 · Подорожі: письмо",
+      "title": "7en97 Travel: Writing",
       "status": "homework_created",
       "verified": true,
       "visibility": "public",
@@ -167,12 +167,25 @@
       "randomize_answer_order": true,
       "assignment_verified": true,
       "module_title": "8",
-      "updated_on": "2026-10-29"
+      "updated_on": "2026-10-29",
+      "previous_title": "7 клас · 105 · Подорожі: письмо",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en97 Travel: Writing",
+  "lesson_naming": {
+    "lesson_code": "7en97",
+    "plan_date": "2027-05-12",
+    "learning_month": 9,
+    "lesson_in_month": 7,
+    "target_title": "7en97 Travel: Writing",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en97 Travel: Writing"
   }
 }

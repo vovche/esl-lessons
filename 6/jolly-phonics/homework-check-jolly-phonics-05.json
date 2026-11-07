@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "6 клас · Jolly Phonics · Group 5",
+  "title": "6en51 Jolly Phonics Group 5",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/jolly-phonics/index.html",
@@ -87,7 +87,7 @@
     },
     "kahoot": {
       "id": "4505203f-801b-48f3-8feb-fb496beba716",
-      "title": "6 клас · 000 · Jolly Phonics 5",
+      "title": "6en51 Jolly Phonics Group 5",
       "editor_url": "https://create.kahoot.it/creator/4505203f-801b-48f3-8feb-fb496beba716",
       "status": "homework_created",
       "verified": true,
@@ -123,12 +123,25 @@
       "adaptations": [
         "Prompts shortened to fit Kahoot limits while preserving the original phonics tasks.",
         "Source weights 1/2/3 mapped to Standard/Double; report normalized to 10."
-      ]
+      ],
+      "previous_title": "6 клас · 000 · Jolly Phonics 5",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6 клас · Jolly Phonics · Group 5",
+  "lesson_naming": {
+    "lesson_code": "6en51",
+    "plan_date": "2027-01-18",
+    "learning_month": 5,
+    "lesson_in_month": 1,
+    "target_title": "6en51 Jolly Phonics Group 5",
+    "mapping_method": "phonics_unit",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en51 Jolly Phonics Group 5"
   }
 }

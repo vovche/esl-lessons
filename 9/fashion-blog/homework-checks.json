@@ -4,7 +4,7 @@
   "tests": [
     {
       "id": "9-fashion-blog-homework-01",
-      "title": "9 клас · Fashion then and now — блог про моду",
+      "title": "9en115 Fashion then and now — блог про моду",
       "source_lesson": "9/fashion-blog/index.html",
       "json": "homework-check-fashion-blog-01.json",
       "markdown": "homework-check-fashion-blog-01.md",
@@ -17,7 +17,7 @@
     },
     {
       "id": "9-fashion-grammar-homework-01",
-      "title": "9 клас · Wearing or to wear? — герундій та інфінітив",
+      "title": "9en24 Grammar reference",
       "source_lesson": "9/fashion-grammar/index.html",
       "json": "homework-check-fashion-grammar-01.json",
       "markdown": "homework-check-fashion-grammar-01.md",

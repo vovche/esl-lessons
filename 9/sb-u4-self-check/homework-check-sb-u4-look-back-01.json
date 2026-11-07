@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · Media in Our Lives: Повторення",
+  "title": "9en411 Media: Review",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-u4-look-back/index.html",
@@ -103,5 +103,15 @@
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · Media in Our Lives: Повторення",
+  "lesson_naming": {
+    "lesson_code": "9en411",
+    "plan_date": "2026-12-22",
+    "learning_month": 4,
+    "lesson_in_month": 11,
+    "target_title": "9en411 Media: Review",
+    "mapping_method": "section",
+    "status": "pending_external_rename"
   }
 }

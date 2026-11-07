@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · All About Me: Граматика",
+  "title": "9en16 Me: Grammar",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-u1-grammar/index.html",
@@ -101,11 +101,25 @@
         2,
         3
       ]
+    },
+    "kahoot": {
+      "mapping_status": "shared_platform_id_conflict"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · All About Me: Граматика",
+  "lesson_naming": {
+    "lesson_code": "9en16",
+    "plan_date": "2026-09-09",
+    "learning_month": 1,
+    "lesson_in_month": 6,
+    "target_title": "9en16 Me: Grammar",
+    "mapping_method": "section",
+    "status": "pending_external_rename",
+    "kahoot_mapping_status": "shared_platform_id_conflict"
   }
 }

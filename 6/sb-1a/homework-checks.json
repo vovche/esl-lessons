@@ -4,7 +4,7 @@
   "tests": [
     {
       "id": "6-sb-hello-homework-01",
-      "title": "Hello! · 6 клас · ESL hello",
+      "title": "6en11 Hello!",
       "source_lesson": "6/sb-hello/index.html",
       "json": "homework-check-sb-hello-01.json",
       "markdown": "homework-check-sb-hello-01.md",

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · Fashion All the Way: Лексика в контексті",
+  "title": "9en26 Fashion: Vocabulary practice",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-u2-vocabulary-2/index.html",
@@ -103,5 +103,15 @@
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · Fashion All the Way: Лексика в контексті",
+  "lesson_naming": {
+    "lesson_code": "9en26",
+    "plan_date": "2026-10-13",
+    "learning_month": 2,
+    "lesson_in_month": 6,
+    "target_title": "9en26 Fashion: Vocabulary practice",
+    "mapping_method": "section",
+    "status": "pending_external_rename"
   }
 }

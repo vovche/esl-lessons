@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Curtain up!: Читання Кіно і театр · Читання",
+  "title": "7en715 Film & theatre: Reading",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u7-reading/index.html",
@@ -163,12 +163,26 @@
       "course_id": "9d134573-e692-403a-ae7d-3267fa4fb7f3",
       "course_module": 7,
       "course_placement_verified": false,
-      "visibility_change_authorized_by_user": true
+      "visibility_change_authorized_by_user": true,
+      "previous_title": "7 клас · Curtain up!: Читання Кіно і театр · Читання",
+      "title": "7en715 Film & theatre: Reading",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en715 Film & theatre: Reading",
+  "lesson_naming": {
+    "lesson_code": "7en715",
+    "plan_date": "2027-03-31",
+    "learning_month": 7,
+    "lesson_in_month": 15,
+    "target_title": "7en715 Film & theatre: Reading",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en715 Film & theatre: Reading"
   }
 }

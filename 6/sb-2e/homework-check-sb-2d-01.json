@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "Travelling then and now · 6 клас · ESL 2d",
+  "title": "6en27 Travelling then and now",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-2d/index.html",
@@ -120,7 +120,7 @@
     },
     "kahoot": {
       "id": "0f661154-e516-4ffc-a666-bdfc47864189",
-      "title": "6 клас · 009 · Travelling then and now",
+      "title": "6en27 Travelling then and now",
       "editor_url": "https://create.kahoot.it/creator/0f661154-e516-4ffc-a666-bdfc47864189",
       "status": "homework_created",
       "verified": true,
@@ -162,12 +162,25 @@
       "adaptations": [
         "The two source reading-comprehension prompts retain the full passage on two content slides; the questions refer to the passage.",
         "Source weights 1/2 map to Standard/Double; the resulting maximum is 10."
-      ]
+      ],
+      "previous_title": "6 клас · 009 · Travelling then and now",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en27 Travelling then and now",
+  "lesson_naming": {
+    "lesson_code": "6en27",
+    "plan_date": "2026-10-14",
+    "learning_month": 2,
+    "lesson_in_month": 7,
+    "target_title": "6en27 Travelling then and now",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en27 Travelling then and now"
   }
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Do your chores: Письмо Домашні справи · Письмо",
+  "title": "7en210 Chores: Writing",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u2-writing/index.html",
@@ -132,7 +132,7 @@
     },
     "kahoot": {
       "kahoot_id": "b876f6ef-3273-4e5b-81ef-10ff9e108dd0",
-      "title": "7 клас · 027 · Do your chores: Writing",
+      "title": "7en210 Chores: Writing",
       "editor_url": "https://create.kahoot.it/creator/b876f6ef-3273-4e5b-81ef-10ff9e108dd0",
       "test_url": "https://create.kahoot.it/details/7-027-do-your-chores-writing/b876f6ef-3273-4e5b-81ef-10ff9e108dd0",
       "status": "homework_created",
@@ -201,12 +201,25 @@
       "pages_run_url": "https://github.com/vovche/esl-lessons/actions/runs/40444239274",
       "pages_conclusion": "success",
       "live_http_status": 200,
-      "live_student_href_count": 1
+      "live_student_href_count": 1,
+      "previous_title": "7 клас · 027 · Do your chores: Writing",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en210 Chores: Writing",
+  "lesson_naming": {
+    "lesson_code": "7en210",
+    "plan_date": "2026-10-19",
+    "learning_month": 2,
+    "lesson_in_month": 10,
+    "target_title": "7en210 Chores: Writing",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en210 Chores: Writing"
   }
 }

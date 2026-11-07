@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · My story so far — автобіографія",
+  "title": "9en111 My story so far — автобіографія",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/my-autobiography/index.html",
@@ -152,5 +152,15 @@
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · My story so far — автобіографія",
+  "lesson_naming": {
+    "lesson_code": "9en111",
+    "plan_date": "2026-09-21",
+    "learning_month": 1,
+    "lesson_in_month": 11,
+    "target_title": "9en111 My story so far — автобіографія",
+    "mapping_method": "supplement_section",
+    "status": "pending_external_rename"
   }
 }

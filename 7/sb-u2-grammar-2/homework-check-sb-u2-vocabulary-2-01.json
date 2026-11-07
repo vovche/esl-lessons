@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Do your chores: Лексика: застосування Домашні справи · Лексика: застосування",
+  "title": "7en27 Chores: Vocabulary practice",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u2-vocabulary-2/index.html",
@@ -132,7 +132,7 @@
     },
     "kahoot": {
       "kahoot_id": "5ed69e77-af68-4c1f-ae72-df04493500fa",
-      "title": "7 клас · 025 · Do your chores",
+      "title": "7en27 Chores: Vocabulary practice",
       "editor_url": "https://create.kahoot.it/creator/5ed69e77-af68-4c1f-ae72-df04493500fa",
       "test_url": "https://create.kahoot.it/details/7-025-do-your-chores/5ed69e77-af68-4c1f-ae72-df04493500fa",
       "status": "homework_created",
@@ -197,12 +197,25 @@
         {
           "reading": "source context moved to one content slide"
         }
-      ]
+      ],
+      "previous_title": "7 клас · 025 · Do your chores",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en27 Chores: Vocabulary practice",
+  "lesson_naming": {
+    "lesson_code": "7en27",
+    "plan_date": "2026-10-13",
+    "learning_month": 2,
+    "lesson_in_month": 7,
+    "target_title": "7en27 Chores: Vocabulary practice",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en27 Chores: Vocabulary practice"
   }
 }

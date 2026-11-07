@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · Future Forms v2 — рішення, намір і домовленість",
+  "title": "9en61 Future Forms v2 — рішення, намір і домовленість",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/future-forms-v2/index.html",
@@ -89,5 +89,15 @@
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · Future Forms v2 — рішення, намір і домовленість",
+  "lesson_naming": {
+    "lesson_code": "9en61",
+    "plan_date": "2027-02-02",
+    "learning_month": 6,
+    "lesson_in_month": 1,
+    "target_title": "9en61 Future Forms v2 — рішення, намір і домовленість",
+    "mapping_method": "supplement_section",
+    "status": "pending_external_rename"
   }
 }

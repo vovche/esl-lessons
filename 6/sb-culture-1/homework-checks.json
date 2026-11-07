@@ -4,7 +4,7 @@
   "tests": [
     {
       "id": "6-sb-1e-homework-01",
-      "title": "My friend's profile · 6 клас · ESL 1e",
+      "title": "6en112 My friend's profile",
       "source_lesson": "6/sb-1e/index.html",
       "json": "homework-check-sb-1e-01.json",
       "markdown": "homework-check-sb-1e-01.md",

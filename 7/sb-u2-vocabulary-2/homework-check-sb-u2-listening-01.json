@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Do your chores: Слухання Домашні справи · Слухання",
+  "title": "7en26 Chores: Listening",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u2-listening/index.html",
@@ -136,7 +136,7 @@
     },
     "kahoot": {
       "kahoot_id": "b50fceab-d87e-4475-89c6-4cc9d71906a5",
-      "title": "7 клас · 024 · Do your chores: Listening",
+      "title": "7en26 Chores: Listening",
       "editor_url": "https://create.kahoot.it/creator/b50fceab-d87e-4475-89c6-4cc9d71906a5",
       "test_url": "https://create.kahoot.it/details/7-024-do-your-chores-listening/b50fceab-d87e-4475-89c6-4cc9d71906a5",
       "status": "homework_created",
@@ -201,12 +201,25 @@
         {
           "reading": "source context moved to one content slide"
         }
-      ]
+      ],
+      "previous_title": "7 клас · 024 · Do your chores: Listening",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en26 Chores: Listening",
+  "lesson_naming": {
+    "lesson_code": "7en26",
+    "plan_date": "2026-10-12",
+    "learning_month": 2,
+    "lesson_in_month": 6,
+    "target_title": "7en26 Chores: Listening",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en26 Chores: Listening"
   }
 }

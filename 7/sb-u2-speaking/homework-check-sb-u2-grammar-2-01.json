@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "7 клас · Do your chores: Граматика: застосування Домашні справи · Граматика: застосування",
+  "title": "7en28 Chores: Grammar practice",
   "grade": 7,
   "purpose": "homework_check",
   "source_lesson": "7/sb-u2-grammar-2/index.html",
@@ -136,7 +136,7 @@
     },
     "kahoot": {
       "kahoot_id": "bac367ff-e4c9-46be-bee1-3873a415983e",
-      "title": "7 клас · 077 · Chores: Grammar in context",
+      "title": "7en28 Chores: Grammar practice",
       "editor_url": "https://create.kahoot.it/creator/bac367ff-e4c9-46be-bee1-3873a415983e",
       "status": "homework_created",
       "verified": true,
@@ -166,12 +166,25 @@
       "course_module": 2,
       "course_module_position": "after lesson 028",
       "course_placement_verified": true,
-      "publication_status": "course_draft"
+      "publication_status": "course_draft",
+      "previous_title": "7 клас · 077 · Chores: Grammar in context",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "7en28 Chores: Grammar practice",
+  "lesson_naming": {
+    "lesson_code": "7en28",
+    "plan_date": "2026-10-14",
+    "learning_month": 2,
+    "lesson_in_month": 8,
+    "target_title": "7en28 Chores: Grammar practice",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en28 Chores: Grammar practice"
   }
 }

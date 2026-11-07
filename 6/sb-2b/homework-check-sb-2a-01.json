@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "Holiday activity · 6 клас · ESL 2a",
+  "title": "6en21 Holiday activity",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-2a/index.html",
@@ -120,7 +120,7 @@
     },
     "kahoot": {
       "id": "2326d789-1ba0-4b5c-bfb7-93d7000df337",
-      "title": "6 клас · 005 · Holiday activity",
+      "title": "6en21 Holiday activity",
       "editor_url": "https://create.kahoot.it/creator/2326d789-1ba0-4b5c-bfb7-93d7000df337",
       "status": "homework_created",
       "verified": true,
@@ -149,12 +149,25 @@
       "randomize_answer_order": true,
       "student_entry_verified": true,
       "content_verified_after_reopen": true,
-      "adaptations": []
+      "adaptations": [],
+      "previous_title": "6 клас · 005 · Holiday activity",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en21 Holiday activity",
+  "lesson_naming": {
+    "lesson_code": "6en21",
+    "plan_date": "2026-10-02",
+    "learning_month": 2,
+    "lesson_in_month": 1,
+    "target_title": "6en21 Holiday activity",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en21 Holiday activity"
   }
 }

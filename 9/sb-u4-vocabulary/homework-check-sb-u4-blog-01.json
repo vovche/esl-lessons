@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9 клас · Media in Our Lives: Блог і думки однолітків",
+  "title": "9en315 Media: Blog",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-u4-blog/index.html",
@@ -103,5 +103,15 @@
     "deadline": "2027-01-03T23:00",
     "semester": 1,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "9 клас · Media in Our Lives: Блог і думки однолітків",
+  "lesson_naming": {
+    "lesson_code": "9en315",
+    "plan_date": "2026-11-30",
+    "learning_month": 3,
+    "lesson_in_month": 15,
+    "target_title": "9en315 Media: Blog",
+    "mapping_method": "section",
+    "status": "pending_external_rename"
   }
 }

@@ -4,7 +4,7 @@
   "tests": [
     {
       "id": "9-sb-u8-look-back-homework-01",
-      "title": "9 клас · From Ukraine to the UK and Beyond: Повторення",
+      "title": "9en96 Ukraine & UK: Review",
       "source_lesson": "9/sb-u8-look-back/index.html",
       "json": "homework-check-sb-u8-look-back-01.json",
       "markdown": "homework-check-sb-u8-look-back-01.md",
@@ -16,7 +16,7 @@
     },
     {
       "id": "9-sb-u8-self-check-homework-01",
-      "title": "9 клас · From Ukraine to the UK and Beyond: Самооцінювання",
+      "title": "9en97 Ukraine & UK: Self-check",
       "source_lesson": "9/sb-u8-self-check/index.html",
       "json": "homework-check-sb-u8-self-check-01.json",
       "markdown": "homework-check-sb-u8-self-check-01.md",

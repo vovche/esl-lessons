@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "Facts about sports · 6 клас · ESL 6c",
+  "title": "6en614 Facts about sports",
   "grade": 6,
   "purpose": "homework_check",
   "source_lesson": "6/sb-6c/index.html",
@@ -120,7 +120,7 @@
     },
     "kahoot": {
       "id": "549d35ef-d57f-4503-9e35-78585535905c",
-      "title": "6 клас · 075 · Facts about sports",
+      "title": "6en614 Facts about sports",
       "editor_url": "https://create.kahoot.it/creator/549d35ef-d57f-4503-9e35-78585535905c",
       "status": "homework_created",
       "verified": true,
@@ -154,12 +154,25 @@
       "adaptations": [
         "Два запитання на розуміння тексту адаптовано до короткого формату Kahoot; оригінальний контекст збережено на слайді.",
         "Шкала Kahoot нормалізується до 10 балів; складні запитання мають подвійні бали."
-      ]
+      ],
+      "previous_title": "6 клас · 075 · Facts about sports",
+      "renamed_verified_on": "2026-11-07"
     }
   },
   "assessment": {
     "deadline": "2027-06-01T23:00",
     "semester": 2,
     "timezone": "Europe/Kyiv"
+  },
+  "previous_title": "6en614 Facts about sports",
+  "lesson_naming": {
+    "lesson_code": "6en614",
+    "plan_date": "2027-02-24",
+    "learning_month": 6,
+    "lesson_in_month": 14,
+    "target_title": "6en614 Facts about sports",
+    "mapping_method": "section",
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "6en614 Facts about sports"
   }
 }
