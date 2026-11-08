@@ -12180,12 +12180,22 @@
       "target_title": "7en69 Wordlist Unit 5",
       "naurok_test_id": "3887142",
       "kahoot_id": "fba9e8a9-0e6c-4d9d-b396-77d45af3c2b7",
-      "naurok_current_title": "7 клас · Лексика курсу — Unit 5",
-      "kahoot_current_title": "7 клас · Лексика курсу — Unit 5",
+      "naurok_current_title": "7en69 Wordlist Unit 5",
+      "kahoot_current_title": "7en69 Wordlist Unit 5",
       "kahoot_status": "homework_created",
       "kahoot_assignment_url": "https://kahoot.it/challenge/0091246021",
       "previous_target_title": "7en69 Лексика курсу — Unit 5",
-      "long_topic": "Лексика курсу — Unit 5"
+      "long_topic": "Лексика курсу — Unit 5",
+      "naurok_title_verified": "7en69 Wordlist Unit 5",
+      "kahoot_title_verified": "7en69 Wordlist Unit 5",
+      "naurok_renamed_verified_on": "2026-11-08",
+      "kahoot_renamed_verified_on": "2026-11-08",
+      "rename_status": "verified_both_platforms",
+      "verified_platforms": [
+        "kahoot",
+        "naurok"
+      ],
+      "rename_verified_on": "2026-11-08"
     },
     {
       "canonical_id": "7-sb-wordlist-homework-06",
