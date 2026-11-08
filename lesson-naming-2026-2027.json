@@ -9100,21 +9100,23 @@
       "target_title": "7en61 Sport: Speaking",
       "naurok_test_id": "3887173",
       "kahoot_id": "9a58d1ba-908a-4476-896b-c8352788a240",
-      "naurok_current_title": "7 клас · Sport from A to Z: Говоріння Спорт · Говоріння",
+      "naurok_current_title": "7en61 Sport: Speaking",
       "kahoot_current_title": "7en61 Sport: Speaking",
       "kahoot_status": "homework_created",
       "kahoot_assignment_url": "https://kahoot.it/challenge/004332113",
       "previous_target_title": "7en61 Sport: Speaking",
       "long_topic": "Sport from A to Z: Говоріння Спорт Говоріння",
       "kahoot_title_verified": "7en61 Sport: Speaking",
-      "kahoot_renamed_verified_on": "2026-11-07",
-      "rename_status": "kahoot_title_verified",
+      "kahoot_renamed_verified_on": "2026-11-08",
+      "rename_status": "verified_both_platforms",
       "verified_platforms": [
-        "kahoot"
+        "kahoot",
+        "naurok"
       ],
-      "naurok_renamed_verified_on": "2026-11-07",
+      "naurok_renamed_verified_on": "2026-11-08",
       "naurok_title_verified": "7en61 Sport: Speaking",
-      "rename_verified_on": "2026-11-07"
+      "rename_verified_on": "2026-11-08",
+      "ukrainian_prompt_status": "pending_both_platforms"
     },
     {
       "canonical_id": "7-sb-u5-writing-homework-01",

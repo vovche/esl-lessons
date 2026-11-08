@@ -191,7 +191,9 @@
     "lesson_in_month": 1,
     "target_title": "7en61 Sport: Speaking",
     "mapping_method": "section",
-    "status": "kahoot_renamed_pending_naurok",
-    "kahoot_title_verified": "7en61 Sport: Speaking"
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en61 Sport: Speaking",
+    "naurok_title_verified": "7en61 Sport: Speaking",
+    "verified_on": "2026-11-08"
   }
 }
