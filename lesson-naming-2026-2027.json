@@ -9131,21 +9131,23 @@
       "target_title": "7en63 Sport: Writing",
       "naurok_test_id": "3887178",
       "kahoot_id": "98bdc075-e23b-4426-aa51-ae68ad6b9c8b",
-      "naurok_current_title": "7 клас · Sport from A to Z: Письмо Спорт · Письмо",
+      "naurok_current_title": "7en63 Sport: Writing",
       "kahoot_current_title": "7en63 Sport: Writing",
       "kahoot_status": "homework_created",
       "kahoot_assignment_url": "https://kahoot.it/challenge/009153693",
       "previous_target_title": "7en63 Sport: Writing",
       "long_topic": "Sport from A to Z: Письмо Спорт Письмо",
       "kahoot_title_verified": "7en63 Sport: Writing",
-      "kahoot_renamed_verified_on": "2026-11-07",
-      "rename_status": "kahoot_title_verified",
+      "kahoot_renamed_verified_on": "2026-11-08",
+      "rename_status": "verified_both_platforms",
       "verified_platforms": [
-        "kahoot"
+        "kahoot",
+        "naurok"
       ],
-      "naurok_renamed_verified_on": "2026-11-07",
+      "naurok_renamed_verified_on": "2026-11-08",
       "naurok_title_verified": "7en63 Sport: Writing",
-      "rename_verified_on": "2026-11-07"
+      "rename_verified_on": "2026-11-08",
+      "ukrainian_prompt_status": "pending_both_platforms"
     },
     {
       "canonical_id": "7-sb-u5-blog-homework-01",
