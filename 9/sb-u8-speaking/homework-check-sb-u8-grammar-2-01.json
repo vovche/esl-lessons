@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9en93 Ukraine & UK: Grammar practice",
+  "title": "9en93 Ukraine and UK: Grammar practice",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-u8-grammar-2/index.html",
@@ -156,8 +156,11 @@
     "plan_date": "2027-05-05",
     "learning_month": 9,
     "lesson_in_month": 3,
-    "target_title": "9en93 Ukraine & UK: Grammar practice",
+    "target_title": "9en93 Ukraine and UK: Grammar practice",
     "mapping_method": "section",
-    "status": "pending_external_rename"
+    "status": "verified_both_platforms",
+    "naurok_title_verified": "9en93 Ukraine and UK: Grammar practice",
+    "kahoot_title_verified": "9en93 Ukraine and UK: Grammar practice",
+    "verified_on": "2026-11-08"
   }
 }

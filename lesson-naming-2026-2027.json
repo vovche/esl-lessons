@@ -13139,16 +13139,26 @@
       "learning_month": 9,
       "lesson_in_month": 3,
       "mapping_method": "section",
-      "topic": "Ukraine & UK: Grammar practice",
-      "target_title": "9en93 Ukraine & UK: Grammar practice",
+      "topic": "Ukraine and UK: Grammar practice",
+      "target_title": "9en93 Ukraine and UK: Grammar practice",
       "naurok_test_id": "3887108",
       "kahoot_id": "f76e12fe-86ae-4288-adfd-9767daa07903",
-      "naurok_current_title": "9 клас · 119 · Подорожі: умовні речення",
-      "kahoot_current_title": "9 клас · 119 · Подорожі: умовні речення",
+      "naurok_current_title": "9en93 Ukraine and UK: Grammar practice",
+      "kahoot_current_title": "9en93 Ukraine and UK: Grammar practice",
       "kahoot_status": "homework_created",
       "kahoot_assignment_url": "https://kahoot.it/challenge/005050467",
       "previous_target_title": "9en93 Подорожі: умовні речення",
-      "long_topic": "Подорожі: умовні речення"
+      "long_topic": "Подорожі: умовні речення",
+      "naurok_title_verified": "9en93 Ukraine and UK: Grammar practice",
+      "kahoot_title_verified": "9en93 Ukraine and UK: Grammar practice",
+      "naurok_renamed_verified_on": "2026-11-08",
+      "kahoot_renamed_verified_on": "2026-11-08",
+      "rename_status": "verified_both_platforms",
+      "verified_platforms": [
+        "kahoot",
+        "naurok"
+      ],
+      "rename_verified_on": "2026-11-08"
     },
     {
       "canonical_id": "9-sb-u8-lead-in-homework-01",
