@@ -12120,12 +12120,22 @@
       "target_title": "7en316 Wordlist Unit 3",
       "naurok_test_id": "3887134",
       "kahoot_id": "162e2457-663e-4c63-bdbf-55e195723469",
-      "naurok_current_title": "7 клас · Лексика курсу — Unit 3",
-      "kahoot_current_title": "7 клас · Лексика курсу — Unit 3",
+      "naurok_current_title": "7en316 Wordlist Unit 3",
+      "kahoot_current_title": "7en316 Wordlist Unit 3",
       "kahoot_status": "homework_created",
       "kahoot_assignment_url": "https://kahoot.it/challenge/0046756129",
       "previous_target_title": "7en316 Лексика курсу — Unit 3",
-      "long_topic": "Лексика курсу — Unit 3"
+      "long_topic": "Лексика курсу — Unit 3",
+      "naurok_title_verified": "7en316 Wordlist Unit 3",
+      "kahoot_title_verified": "7en316 Wordlist Unit 3",
+      "naurok_renamed_verified_on": "2026-11-08",
+      "kahoot_renamed_verified_on": "2026-11-08",
+      "rename_status": "verified_both_platforms",
+      "verified_platforms": [
+        "kahoot",
+        "naurok"
+      ],
+      "rename_verified_on": "2026-11-08"
     },
     {
       "canonical_id": "7-sb-wordlist-homework-04",
