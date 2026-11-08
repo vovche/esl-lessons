@@ -168,6 +168,9 @@
     "lesson_in_month": 1,
     "target_title": "9en51 Jobs: Intro",
     "mapping_method": "unit_lead_in",
-    "status": "pending_external_rename"
+    "status": "verified_both_platforms",
+    "naurok_title_verified": "9en51 Jobs: Intro",
+    "kahoot_title_verified": "9en51 Jobs: Intro",
+    "verified_on": "2026-11-08"
   }
 }

@@ -12372,12 +12372,22 @@
       "target_title": "9en51 Jobs: Intro",
       "naurok_test_id": "3886975",
       "kahoot_id": "2cbed645-854b-4a08-acd2-8f7b1ce906be",
-      "naurok_current_title": "9 клас · Jobs Around Us: Починаємо тему",
-      "kahoot_current_title": "9 клас · Jobs Around Us: Починаємо тему",
+      "naurok_current_title": "9en51 Jobs: Intro",
+      "kahoot_current_title": "9en51 Jobs: Intro",
       "kahoot_status": "homework_created",
       "kahoot_assignment_url": "https://kahoot.it/challenge/004607394",
       "previous_target_title": "9en51 Jobs Around Us: Починаємо тему",
-      "long_topic": "Jobs Around Us: Починаємо тему"
+      "long_topic": "Jobs Around Us: Починаємо тему",
+      "naurok_title_verified": "9en51 Jobs: Intro",
+      "kahoot_title_verified": "9en51 Jobs: Intro",
+      "naurok_renamed_verified_on": "2026-11-08",
+      "kahoot_renamed_verified_on": "2026-11-08",
+      "rename_status": "verified_both_platforms",
+      "verified_platforms": [
+        "kahoot",
+        "naurok"
+      ],
+      "rename_verified_on": "2026-11-08"
     },
     {
       "canonical_id": "9-sb-u5-listening-homework-01",
