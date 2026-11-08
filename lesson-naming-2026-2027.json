@@ -12210,12 +12210,22 @@
       "target_title": "7en711 Wordlist Unit 6",
       "naurok_test_id": "3887147",
       "kahoot_id": "1d0d4b16-8978-41dd-a571-2f5a5feddaa6",
-      "naurok_current_title": "7 клас · Лексика курсу — Unit 6",
-      "kahoot_current_title": "7 клас · Лексика курсу — Unit 6",
+      "naurok_current_title": "7en711 Wordlist Unit 6",
+      "kahoot_current_title": "7en711 Wordlist Unit 6",
       "kahoot_status": "homework_created",
       "kahoot_assignment_url": "https://kahoot.it/challenge/007835365",
       "previous_target_title": "7en711 Лексика курсу — Unit 6",
-      "long_topic": "Лексика курсу — Unit 6"
+      "long_topic": "Лексика курсу — Unit 6",
+      "naurok_title_verified": "7en711 Wordlist Unit 6",
+      "kahoot_title_verified": "7en711 Wordlist Unit 6",
+      "naurok_renamed_verified_on": "2026-11-08",
+      "kahoot_renamed_verified_on": "2026-11-08",
+      "rename_status": "verified_both_platforms",
+      "verified_platforms": [
+        "kahoot",
+        "naurok"
+      ],
+      "rename_verified_on": "2026-11-08"
     },
     {
       "canonical_id": "7-sb-wordlist-homework-07",
