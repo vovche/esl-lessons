@@ -12270,12 +12270,22 @@
       "target_title": "7en913 Wordlist Unit 8",
       "naurok_test_id": "3887155",
       "kahoot_id": "5749c705-d71a-4ab5-a73a-784f68eedee8",
-      "naurok_current_title": "7 клас · Лексика курсу — Unit 8",
-      "kahoot_current_title": "7 клас · Лексика курсу — Unit 8",
+      "naurok_current_title": "7en913 Wordlist Unit 8",
+      "kahoot_current_title": "7en913 Wordlist Unit 8",
       "kahoot_status": "homework_created",
       "kahoot_assignment_url": "https://kahoot.it/challenge/001459046",
       "previous_target_title": "7en913 Лексика курсу — Unit 8",
-      "long_topic": "Лексика курсу — Unit 8"
+      "long_topic": "Лексика курсу — Unit 8",
+      "naurok_title_verified": "7en913 Wordlist Unit 8",
+      "kahoot_title_verified": "7en913 Wordlist Unit 8",
+      "naurok_renamed_verified_on": "2026-11-08",
+      "kahoot_renamed_verified_on": "2026-11-08",
+      "rename_status": "verified_both_platforms",
+      "verified_platforms": [
+        "kahoot",
+        "naurok"
+      ],
+      "rename_verified_on": "2026-11-08"
     },
     {
       "canonical_id": "9-sb-u5-blog-homework-01",
