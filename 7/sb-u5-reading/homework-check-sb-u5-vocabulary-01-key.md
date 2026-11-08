@@ -50,7 +50,7 @@
 
 ## 4. 1 бал
 
-The match ___ played on Saturday.
+Обери правильний варіант: The match ___ played on Saturday.
 
 1. is being
 2. was
@@ -61,7 +61,7 @@ The match ___ played on Saturday.
 
 ## 5. 1 бал
 
-Two medals ___ won by the club.
+Обери правильний варіант: Two medals ___ won by the club.
 
 1. was
 2. did
@@ -72,7 +72,7 @@ Two medals ___ won by the club.
 
 ## 6. 1 бал
 
-Where ___ the competition held?
+Обери правильний варіант: Where ___ the competition held?
 
 1. was
 2. did

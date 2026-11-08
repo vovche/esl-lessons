@@ -50,7 +50,7 @@
     },
     {
       "type": "choice",
-      "prompt": "The match ___ played on Saturday.",
+      "prompt": "Обери правильний варіант: The match ___ played on Saturday.",
       "points": 1,
       "options": [
         "is being",
@@ -62,7 +62,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Two medals ___ won by the club.",
+      "prompt": "Обери правильний варіант: Two medals ___ won by the club.",
       "points": 1,
       "options": [
         "was",
@@ -74,7 +74,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Where ___ the competition held?",
+      "prompt": "Обери правильний варіант: Where ___ the competition held?",
       "points": 1,
       "options": [
         "was",
@@ -163,7 +163,8 @@
       "course_placement_verified": true,
       "previous_title": "7 клас · 067 · Sport vocabulary",
       "renamed_verified_on": "2026-11-07",
-      "title_verified_on": "2026-11-07"
+      "title_verified_on": "2026-11-07",
+      "ukrainian_prompt_verified_on": "2026-11-08"
     }
   },
   "assessment": {
@@ -179,7 +180,9 @@
     "lesson_in_month": 3,
     "target_title": "7en53 Sport: Vocabulary",
     "mapping_method": "section",
-    "status": "kahoot_renamed_pending_naurok",
-    "kahoot_title_verified": "7en53 Sport: Vocabulary"
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en53 Sport: Vocabulary",
+    "naurok_title_verified": "7en53 Sport: Vocabulary",
+    "verified_on": "2026-11-08"
   }
 }
