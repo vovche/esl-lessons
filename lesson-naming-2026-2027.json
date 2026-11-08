@@ -12342,12 +12342,22 @@
       "target_title": "9en61 Jobs: Grammar practice",
       "naurok_test_id": "3886972",
       "kahoot_id": "3d9cb8c7-88d1-4b8f-92a8-d07bf4e98981",
-      "naurok_current_title": "9 клас · Jobs Around Us: Граматика в контексті",
-      "kahoot_current_title": "9 клас · 057 · Jobs Around Us: Grammar in Context",
+      "naurok_current_title": "9en61 Jobs: Grammar practice",
+      "kahoot_current_title": "9en61 Jobs: Grammar practice",
       "kahoot_status": "homework_created",
       "kahoot_assignment_url": "https://kahoot.it/challenge/003279062",
       "previous_target_title": "9en61 Jobs Around Us: Граматика в контексті",
-      "long_topic": "Jobs Around Us: Граматика в контексті"
+      "long_topic": "Jobs Around Us: Граматика в контексті",
+      "naurok_title_verified": "9en61 Jobs: Grammar practice",
+      "kahoot_title_verified": "9en61 Jobs: Grammar practice",
+      "naurok_renamed_verified_on": "2026-11-08",
+      "kahoot_renamed_verified_on": "2026-11-08",
+      "rename_status": "verified_both_platforms",
+      "verified_platforms": [
+        "kahoot",
+        "naurok"
+      ],
+      "rename_verified_on": "2026-11-08"
     },
     {
       "canonical_id": "9-sb-u5-lead-in-homework-01",
