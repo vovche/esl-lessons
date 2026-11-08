@@ -12617,16 +12617,26 @@
       "learning_month": 7,
       "lesson_in_month": 2,
       "mapping_method": "section",
-      "topic": "Science & tech: Grammar practice",
-      "target_title": "9en72 Science & tech: Grammar practice",
+      "topic": "Science and tech: Grammar practice",
+      "target_title": "9en72 Science and tech: Grammar practice",
       "naurok_test_id": "3887011",
       "kahoot_id": "0b6c75dd-c186-4de1-ba3b-67bcbde9e1e6",
-      "naurok_current_title": "9 клас · Science Meets Technology: Граматика в контексті",
-      "kahoot_current_title": "9 клас · Science Meets Technology: Граматика в контексті",
+      "naurok_current_title": "9en72 Science and tech: Grammar practice",
+      "kahoot_current_title": "9en72 Science and tech: Grammar practice",
       "kahoot_status": "homework_created",
       "kahoot_assignment_url": "https://kahoot.it/challenge/0074145856",
       "previous_target_title": "9en72 Science Meets Technology: Граматика в контексті",
-      "long_topic": "Science Meets Technology: Граматика в контексті"
+      "long_topic": "Science Meets Technology: Граматика в контексті",
+      "naurok_title_verified": "9en72 Science and tech: Grammar practice",
+      "kahoot_title_verified": "9en72 Science and tech: Grammar practice",
+      "naurok_renamed_verified_on": "2026-11-08",
+      "kahoot_renamed_verified_on": "2026-11-08",
+      "rename_status": "verified_both_platforms",
+      "verified_platforms": [
+        "kahoot",
+        "naurok"
+      ],
+      "rename_verified_on": "2026-11-08"
     },
     {
       "canonical_id": "9-sb-u6-lead-in-homework-01",
