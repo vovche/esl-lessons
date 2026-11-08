@@ -12882,12 +12882,22 @@
       "target_title": "9en84 Environment: Grammar practice",
       "naurok_test_id": "3887056",
       "kahoot_id": "5e567358-684f-40e9-8e3c-6c46dbfc9c42",
-      "naurok_current_title": "9 клас · Think Green, Live Green: Граматика в контексті",
-      "kahoot_current_title": "9 клас · Think Green, Live Green: Граматика в контексті",
+      "naurok_current_title": "9en84 Environment: Grammar practice",
+      "kahoot_current_title": "9en84 Environment: Grammar practice",
       "kahoot_status": "homework_created",
       "kahoot_assignment_url": "https://kahoot.it/challenge/00496629",
       "previous_target_title": "9en84 Think Green, Live Green: Граматика в контексті",
-      "long_topic": "Think Green, Live Green: Граматика в контексті"
+      "long_topic": "Think Green, Live Green: Граматика в контексті",
+      "naurok_title_verified": "9en84 Environment: Grammar practice",
+      "kahoot_title_verified": "9en84 Environment: Grammar practice",
+      "naurok_renamed_verified_on": "2026-11-08",
+      "kahoot_renamed_verified_on": "2026-11-08",
+      "rename_status": "verified_both_platforms",
+      "verified_platforms": [
+        "kahoot",
+        "naurok"
+      ],
+      "rename_verified_on": "2026-11-08"
     },
     {
       "canonical_id": "9-sb-u7-lead-in-homework-01",
