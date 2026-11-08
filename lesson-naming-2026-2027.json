@@ -12090,12 +12090,22 @@
       "target_title": "7en31 Wordlist Unit 2",
       "naurok_test_id": "3887129",
       "kahoot_id": "47be9052-2f94-49bc-93f5-4f30ca884e94",
-      "naurok_current_title": "7 клас · Лексика курсу — Unit 2",
-      "kahoot_current_title": "7 клас · Лексика курсу — Unit 2",
+      "naurok_current_title": "7en31 Wordlist Unit 2",
+      "kahoot_current_title": "7en31 Wordlist Unit 2",
       "kahoot_status": "homework_created",
       "kahoot_assignment_url": "https://kahoot.it/challenge/008717160",
       "previous_target_title": "7en31 Лексика курсу — Unit 2",
-      "long_topic": "Лексика курсу — Unit 2"
+      "long_topic": "Лексика курсу — Unit 2",
+      "naurok_title_verified": "7en31 Wordlist Unit 2",
+      "kahoot_title_verified": "7en31 Wordlist Unit 2",
+      "naurok_renamed_verified_on": "2026-11-08",
+      "kahoot_renamed_verified_on": "2026-11-08",
+      "rename_status": "verified_both_platforms",
+      "verified_platforms": [
+        "kahoot",
+        "naurok"
+      ],
+      "rename_verified_on": "2026-11-08"
     },
     {
       "canonical_id": "7-sb-wordlist-homework-03",
