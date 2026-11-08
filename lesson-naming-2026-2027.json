@@ -12566,16 +12566,26 @@
       "learning_month": 6,
       "lesson_in_month": 7,
       "mapping_method": "section",
-      "topic": "Science & tech: Blog",
-      "target_title": "9en67 Science & tech: Blog",
+      "topic": "Science and tech: Blog",
+      "target_title": "9en67 Science and tech: Blog",
       "naurok_test_id": "3887005",
       "kahoot_id": "a7935395-7cb1-4817-b475-9372cf05f04d",
-      "naurok_current_title": "9 клас · Science Meets Technology: Блог і думки однолітків",
-      "kahoot_current_title": "9 клас · 112 · Science & Tech: Блог",
+      "naurok_current_title": "9en67 Science and tech: Blog",
+      "kahoot_current_title": "9en67 Science and tech: Blog",
       "kahoot_status": "homework_created",
       "kahoot_assignment_url": "https://kahoot.it/challenge/008899094",
       "previous_target_title": "9en67 Science Meets Technology: Блог і думки однолітків",
-      "long_topic": "Science Meets Technology: Блог і думки однолітків"
+      "long_topic": "Science Meets Technology: Блог і думки однолітків",
+      "naurok_title_verified": "9en67 Science and tech: Blog",
+      "kahoot_title_verified": "9en67 Science and tech: Blog",
+      "naurok_renamed_verified_on": "2026-11-08",
+      "kahoot_renamed_verified_on": "2026-11-08",
+      "rename_status": "verified_both_platforms",
+      "verified_platforms": [
+        "kahoot",
+        "naurok"
+      ],
+      "rename_verified_on": "2026-11-08"
     },
     {
       "canonical_id": "9-sb-u6-grammar-homework-01",

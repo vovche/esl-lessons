@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "9en67 Science & tech: Blog",
+  "title": "9en67 Science and tech: Blog",
   "grade": 9,
   "purpose": "homework_check",
   "source_lesson": "9/sb-u6-blog/index.html",
@@ -144,8 +144,11 @@
     "plan_date": "2027-02-11",
     "learning_month": 6,
     "lesson_in_month": 7,
-    "target_title": "9en67 Science & tech: Blog",
+    "target_title": "9en67 Science and tech: Blog",
     "mapping_method": "section",
-    "status": "pending_external_rename"
+    "status": "verified_both_platforms",
+    "naurok_title_verified": "9en67 Science and tech: Blog",
+    "kahoot_title_verified": "9en67 Science and tech: Blog",
+    "verified_on": "2026-11-08"
   }
 }
