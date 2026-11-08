@@ -176,6 +176,11 @@
     "lesson_in_month": 8,
     "target_title": "7en48 Traditions: Speaking",
     "mapping_method": "section",
-    "status": "pending_external_rename"
+    "status": "verified_both_platforms",
+    "naurok_title_verified": "7en48 Traditions: Speaking",
+    "naurok_renamed_verified_on": "2026-11-08",
+    "kahoot_title_verified": "7en48 Traditions: Speaking",
+    "kahoot_renamed_verified_on": "2026-11-08",
+    "verified_on": "2026-11-08"
   }
 }
