@@ -50,7 +50,7 @@
     },
     {
       "type": "choice",
-      "prompt": "The match ___ played on Saturday.",
+      "prompt": "Обери правильний варіант: The match ___ played on Saturday.",
       "points": 1,
       "options": [
         "were",
@@ -62,7 +62,7 @@
     },
     {
       "type": "choice",
-      "prompt": "Two medals ___ won by the club.",
+      "prompt": "Обери правильний варіант: Two medals ___ won by the club.",
       "points": 1,
       "options": [
         "were",
@@ -74,7 +74,7 @@
     },
     {
       "type": "choice",
-      "prompt": "A report was ___ for the blog.",
+      "prompt": "Обери правильний варіант: A report was ___ for the blog.",
       "points": 1,
       "options": [
         "write",
@@ -172,7 +172,8 @@
       "previous_title": "7 клас · Sport from A to Z: Граматика Спорт · Граматика",
       "title": "7en56 Sport: Grammar",
       "renamed_verified_on": "2026-11-07",
-      "title_verified_on": "2026-11-07"
+      "title_verified_on": "2026-11-07",
+      "ukrainian_prompt_verified_on": "2026-11-08"
     }
   },
   "assessment": {
@@ -188,7 +189,9 @@
     "lesson_in_month": 6,
     "target_title": "7en56 Sport: Grammar",
     "mapping_method": "section",
-    "status": "kahoot_renamed_pending_naurok",
-    "kahoot_title_verified": "7en56 Sport: Grammar"
+    "status": "verified_both_platforms",
+    "kahoot_title_verified": "7en56 Sport: Grammar",
+    "naurok_title_verified": "7en56 Sport: Grammar",
+    "verified_on": "2026-11-08"
   }
 }

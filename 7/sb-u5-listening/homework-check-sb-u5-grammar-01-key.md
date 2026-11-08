@@ -50,7 +50,7 @@
 
 ## 4. 1 бал
 
-The match ___ played on Saturday.
+Обери правильний варіант: The match ___ played on Saturday.
 
 1. were
 2. is being
@@ -61,7 +61,7 @@ The match ___ played on Saturday.
 
 ## 5. 1 бал
 
-Two medals ___ won by the club.
+Обери правильний варіант: Two medals ___ won by the club.
 
 1. were
 2. was
@@ -72,7 +72,7 @@ Two medals ___ won by the club.
 
 ## 6. 1 бал
 
-A report was ___ for the blog.
+Обери правильний варіант: A report was ___ for the blog.
 
 1. write
 2. written

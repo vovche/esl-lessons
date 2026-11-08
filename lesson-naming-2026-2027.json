@@ -8980,21 +8980,22 @@
       "target_title": "7en56 Sport: Grammar",
       "naurok_test_id": "3887152",
       "kahoot_id": "a7442211-6133-4a35-8a70-aea471b4a155",
-      "naurok_current_title": "7 клас · Sport from A to Z: Граматика Спорт · Граматика",
+      "naurok_current_title": "7en56 Sport: Grammar",
       "kahoot_current_title": "7en56 Sport: Grammar",
       "kahoot_status": "homework_created",
       "kahoot_assignment_url": "https://kahoot.it/challenge/009342213",
       "previous_target_title": "7en56 Sport: Grammar",
       "long_topic": "Sport from A to Z: Граматика Спорт Граматика",
       "kahoot_title_verified": "7en56 Sport: Grammar",
-      "kahoot_renamed_verified_on": "2026-11-07",
-      "rename_status": "kahoot_title_verified",
+      "kahoot_renamed_verified_on": "2026-11-08",
+      "rename_status": "verified_both_platforms",
       "verified_platforms": [
-        "kahoot"
+        "kahoot",
+        "naurok"
       ],
-      "naurok_renamed_verified_on": "2026-11-07",
+      "naurok_renamed_verified_on": "2026-11-08",
       "naurok_title_verified": "7en56 Sport: Grammar",
-      "rename_verified_on": "2026-11-07"
+      "rename_verified_on": "2026-11-08"
     },
     {
       "canonical_id": "7-sb-u5-listening-homework-01",
