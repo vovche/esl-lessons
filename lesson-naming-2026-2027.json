@@ -12150,12 +12150,22 @@
       "target_title": "7en413 Wordlist Unit 4",
       "naurok_test_id": "3887138",
       "kahoot_id": "d38d33da-e2c3-4d6d-91a0-cb96094f41c4",
-      "naurok_current_title": "7 клас · Лексика курсу — Unit 4",
-      "kahoot_current_title": "7 клас · Лексика курсу — Unit 4",
+      "naurok_current_title": "7en413 Wordlist Unit 4",
+      "kahoot_current_title": "7en413 Wordlist Unit 4",
       "kahoot_status": "homework_created",
       "kahoot_assignment_url": "https://kahoot.it/challenge/0036149866",
       "previous_target_title": "7en413 Лексика курсу — Unit 4",
-      "long_topic": "Лексика курсу — Unit 4"
+      "long_topic": "Лексика курсу — Unit 4",
+      "naurok_title_verified": "7en413 Wordlist Unit 4",
+      "kahoot_title_verified": "7en413 Wordlist Unit 4",
+      "naurok_renamed_verified_on": "2026-11-08",
+      "kahoot_renamed_verified_on": "2026-11-08",
+      "rename_status": "verified_both_platforms",
+      "verified_platforms": [
+        "kahoot",
+        "naurok"
+      ],
+      "rename_verified_on": "2026-11-08"
     },
     {
       "canonical_id": "7-sb-wordlist-homework-05",
