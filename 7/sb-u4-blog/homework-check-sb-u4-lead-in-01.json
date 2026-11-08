@@ -188,6 +188,11 @@
     "lesson_in_month": 17,
     "target_title": "7en317 Traditions: Intro",
     "mapping_method": "unit_lead_in",
-    "status": "pending_external_rename"
+    "status": "verified_both_platforms",
+    "naurok_title_verified": "7en317 Traditions: Intro",
+    "naurok_renamed_verified_on": "2026-11-08",
+    "kahoot_title_verified": "7en317 Traditions: Intro",
+    "kahoot_renamed_verified_on": "2026-11-08",
+    "verified_on": "2026-11-08"
   }
 }

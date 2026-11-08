@@ -11739,12 +11739,22 @@
       "target_title": "7en317 Traditions: Intro",
       "naurok_test_id": "3887044",
       "kahoot_id": "21c508a3-24ca-43cf-81d5-b75adc31ddd1",
-      "naurok_current_title": "7 клас · 045 · Traditions: Lead-in",
-      "kahoot_current_title": "7 клас · 045 · Traditions: Lead-in",
+      "naurok_current_title": "7en317 Traditions: Intro",
+      "kahoot_current_title": "7en317 Traditions: Intro",
       "kahoot_status": "homework_created",
       "kahoot_assignment_url": "https://kahoot.it/challenge/00456682",
       "previous_target_title": "7en317 Traditions: Lead-in",
-      "long_topic": "Traditions: Lead-in"
+      "long_topic": "Traditions: Lead-in",
+      "naurok_title_verified": "7en317 Traditions: Intro",
+      "naurok_renamed_verified_on": "2026-11-08",
+      "rename_status": "verified_both_platforms",
+      "kahoot_title_verified": "7en317 Traditions: Intro",
+      "kahoot_renamed_verified_on": "2026-11-08",
+      "verified_platforms": [
+        "kahoot",
+        "naurok"
+      ],
+      "rename_verified_on": "2026-11-08"
     },
     {
       "canonical_id": "7-sb-u4-listening-homework-01",
