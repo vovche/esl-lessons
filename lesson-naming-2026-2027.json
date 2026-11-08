@@ -12030,12 +12030,22 @@
       "target_title": "7en913 Grammar reference",
       "naurok_test_id": "3887116",
       "kahoot_id": "10263ab9-37ce-4ccd-ad43-0d7868ec30f5",
-      "naurok_current_title": "7 клас · Граматика курсу — Units 1–8",
-      "kahoot_current_title": "7 клас · Граматика курсу — Units 1–8",
+      "naurok_current_title": "7en913 Grammar reference",
+      "kahoot_current_title": "7en913 Grammar reference",
       "kahoot_status": "homework_created",
       "kahoot_assignment_url": "https://kahoot.it/challenge/006511328",
       "previous_target_title": "7en913 Граматика курсу — Units 1–8",
-      "long_topic": "Граматика курсу — Units 1–8"
+      "long_topic": "Граматика курсу — Units 1–8",
+      "naurok_title_verified": "7en913 Grammar reference",
+      "kahoot_title_verified": "7en913 Grammar reference",
+      "naurok_renamed_verified_on": "2026-11-08",
+      "kahoot_renamed_verified_on": "2026-11-08",
+      "rename_status": "verified_both_platforms",
+      "verified_platforms": [
+        "kahoot",
+        "naurok"
+      ],
+      "rename_verified_on": "2026-11-08"
     },
     {
       "canonical_id": "7-sb-wordlist-homework-01",

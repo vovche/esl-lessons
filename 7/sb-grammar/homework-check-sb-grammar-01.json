@@ -158,6 +158,9 @@
     "lesson_in_month": 13,
     "target_title": "7en913 Grammar reference",
     "mapping_method": "course_reference",
-    "status": "pending_external_rename"
+    "status": "verified_both_platforms",
+    "naurok_title_verified": "7en913 Grammar reference",
+    "kahoot_title_verified": "7en913 Grammar reference",
+    "verified_on": "2026-11-08"
   }
 }
