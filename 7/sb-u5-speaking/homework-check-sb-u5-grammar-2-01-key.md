@@ -50,7 +50,7 @@
 
 ## 4. 1 бал
 
-Where ___ the competition held?
+Обери правильний варіант: Where ___ the competition held?
 
 1. did
 2. has
@@ -61,7 +61,7 @@ Where ___ the competition held?
 
 ## 5. 1 бал
 
-The teams were supported ___ their classmates.
+Обери правильний варіант: The teams were supported ___ their classmates.
 
 1. by
 2. with
@@ -72,7 +72,7 @@ The teams were supported ___ their classmates.
 
 ## 6. 1 бал
 
-When ___ the medals won?
+Обери правильний варіант: When ___ the medals won?
 
 1. have
 2. were
